@@ -48,11 +48,7 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
         if tag_root is not None:
             keywords_list = [t.text.strip() for t in tag_root.find_all('a')]
             if len(keywords_list) > 0:
-                data['sch:articleSection'] = keywords_list[0]
-                if len(keywords_list) > 1:
-                    data['subsection'] = keywords_list[1]
-                if len(keywords_list) > 2:
-                    data['sch:keywords'] = keywords_list[2:]
+                data['sch:keywords'] = keywords_list[:]
             else:
                 tei_logger.log('WARNING', f'{url}: SUBJECT TAG NOT FOUND!')
         else:
