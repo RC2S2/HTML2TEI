@@ -18,6 +18,8 @@ HTML_BASICS = {'p', 'h3', 'h2', 'h4', 'h5', 'em', 'i', 'b', 'strong', 'mark', 'u
 def get_meta_from_articles_spec(tei_logger, url, bs):
     data = tei_defaultdict()
     data['sch:url'] = url
+    source_2_dict = {'FIZETETT TARTALOM': 'FIZETETT TARTALOM'}
+    #Distinction between source and author is based on the absence of first/last name and the content of source_2_dict
     meta_root = bs.find('div', class_='card-info')
     tag_root = bs.find('ul', class_='tags my-5')
     if meta_root is not None:
@@ -40,9 +42,14 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
             data['sch:name'] = title.text.strip()
         else:
             tei_logger.log('WARNING', f'{url}: TITLE TAG NOT FOUND!')
-        author_list = [t.text.strip() for t in meta_root.find_all('span', class_='author-name')]
+        subtitle = bs.find('h3', class_='card-subtitle')
+        if subtitle is not None:
+            data['sch:alternateName'] = subtitle.text.strip()
+        author_list = [re.split('[,/]', (t.text.strip())) for t in meta_root.find_all('span', class_='author-name')]
         if author_list is not None:
-            data['sch:author'] = author_list
+            flat_author_list = [item for sublist in author_list for item in sublist]
+            [data['sch:source'].append(author) if InStr(author, " ") < 1 or author in source_2_dict else
+             data['sch:author'].append(author) for author in flat_author_list]
         else:
             tei_logger.log('WARNING', f'{url}: AUTHOR TAG NOT FOUND!')
         if tag_root is not None:
