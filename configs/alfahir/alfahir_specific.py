@@ -11,8 +11,9 @@ PORTAL_URL_PREFIX = 'https://alfahir.hu'
 
 # (('tagname',), {'attribute_key': 'attribute_value'})
 ARTICLE_ROOT_PARAMS_SPEC = [(('div',), {'class': 'region region-content'})]
-HTML_BASICS = {'p', 'h3', 'h2', 'h4', 'h5', 'em', 'i', 'b', 'strong', 'mark', 'u', 'sub', 'sup', 'del', 'strike',
-               'ul', 'ol', 'li', 'table', 'tr', 'td', 'th', 'quote', 'figure', 'iframe', 'script', 'noscript'}
+HTML_BASICS = {'p', 'h1', 'h3', 'h2', 'h4', 'h5', 'em', 'i', 'b', 'strong', 'mark', 'u', 'sub', 'sup', 'del', 'strike',
+               'ul', 'ol', 'li', 'table', 'tr', 'td', 'th', 'quote', 'blockquote', 'div', 'wbr', 
+               'figure', 'iframe', 'script', 'noscript', 'a', 'span'}
 
 
 def get_meta_from_articles_spec(tei_logger, url, bs):
@@ -37,16 +38,6 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
                     tei_logger.log('WARNING', f'{url}: AUTHOR TAG NOT FOUND!')
             else:
                 tei_logger.log('WARNING', f'{url}: AUTHOR TAG NOT FOUND!')
-            # if percrol_h4_title is not None:
-            #    data['sch:subtitles'] = [t.text.strip() for t in percrol_h4_title]
-            # else:
-            #    tei_logger.log('WARNING', f'{url}: SUBTITLES TAG NOT FOUND!')
-            # percrol_time_date = bs.find_all('time')
-            # if percrol_time_date is not None:
-            #    percrol_date_list = [parse_date(t['datetime'], '%Y-%m-%dT%H:%M:%SZ') for t in percrol_time_date]
-            #    data['sch:dateModified'] = percrol_date_list
-            # else:
-            #    tei_logger.log('WARNING', f'{url}: DATE FORMAT ERROR!')
         date_tag = bs.find('div', class_='article-dates')
         if date_tag is not None:
             date_text = date_tag.text.strip()
@@ -70,22 +61,21 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
             keywords_list = [t.text.strip() for t in tag_root.find_all('a')]
             if len(keywords_list) > 0:
                 data['sch:keywords'] = keywords_list[:]
+        else:
+            tei_logger.log('DEBUG', f'{url}: TITLE TAG NOT FOUND!')
         source_intext_1 = article_root.find('div', class_='field field--name-field-forras'
                                                           ' field--type-string field--label-inline')
         if source_intext_1 is not None:
             data['sch:source'] = source_intext_1.find('div', class_='field--item').text.strip()
-            # source_temp.append(source_intext_1.find('div', class_='field--item').text.strip())
+        else:
+            tei_logger.log('DEBUG', f'{url}: SOURCE TAG NOT FOUND!')
         if len(article_root.find_all("p")) > 0:
             source_intext_2 = article_root.find_all("p")[-1].text.strip()
             if len(source_intext_2) > 0:
                 if source_intext_2[0] == '(' and source_intext_2[-1] == ')':
                     data['sch:source'] = source_intext_2[1:-1]
-                    # source_temp.append(source_intext_2[1:-1])
                 elif ' - ' in source_intext_2:
                     data['sch:source'] = source_intext_2.strip()
-                    # source_temp.append([t.strip() for t in source_intext_2.split('-')])
-        # if len(source_temp) > 0:
-            # data['sch:source'] = source_temp[:]
         return data
     else:
         tei_logger.log('WARNING', f'{url}: ARTICLE BODY NOT FOUND OR UNKNOWN ARTICLE SCHEME!')
@@ -131,10 +121,11 @@ DECOMP = [(('div',), {'class': 'article-footer'}),
 LINK_FILTER_SUBSTRINGS_SPEC = re.compile('|'.join(['LINK_FILTER_DUMMY_STRING']))
 MEDIA_LIST = [(('iframe',), {}),
               (('div',), {'class': 'fb-page fb_iframe_widget'}),
-              (('blockquote',), {}),
+              (('blockquote',), {'class': 'embedly-card'}),
               (('img',), {}),
               (('figure',), {}),
-              (('div',), {'class': 'fb-page fb_iframe_widget'})]
+              (('div',), {'class': 'fb-page fb_iframe_widget'}),
+              (('div',), {'class': 'video-embed-field-provider-youtube video-embed-field-responsive-video form-group'})]
 
 
 def decompose_spec(article_dec):
