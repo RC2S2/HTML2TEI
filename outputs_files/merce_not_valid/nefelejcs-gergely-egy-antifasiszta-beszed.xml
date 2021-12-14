@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nefelejcs Gergő: Egy antifasiszta beszéd
+    </title>
+    <author>
+     <persName>
+      Nefelejcs Gergő
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Jason Stanley
+     </persName>
+    </author>
+    <author>
+     <persName>
+      CrimethInc.
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mouvement Communiste
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mario Tronti
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kassák Lajos
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     22108923-ffa8-5fc5-b8be-532f1a26eda9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Nefelejcs Gergő: Egy antifasiszta beszéd
+     </title>
+     <author>
+      <persName>
+       Kassák Lajos
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mario Tronti
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mouvement Communiste
+      </persName>
+     </author>
+     <author>
+      <persName>
+       CrimethInc.
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jason Stanley
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nefelejcs Gergő
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-28T08:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://tett.merce.hu/2021/07/28/nefelejcs-gergely-egy-antifasiszta-beszed/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://tett.merce.hu/2021/07/28/nefelejcs-gergely-egy-antifasiszta-beszed/
+     </sch:url>
+     <sch:name>
+      Nefelejcs Gergő: Egy antifasiszta beszéd
+     </sch:name>
+     <sch:datePublished>
+      2021-07-28T08:00:00
+     </sch:datePublished>
+     <sch:author>
+      Nefelejcs Gergő
+     </sch:author>
+     <sch:author>
+      Jason Stanley
+     </sch:author>
+     <sch:author>
+      CrimethInc.
+     </sch:author>
+     <sch:author>
+      Mouvement Communiste
+     </sch:author>
+     <sch:author>
+      Mario Tronti
+     </sch:author>
+     <sch:author>
+      Kassák Lajos
+     </sch:author>
+     <sch:keywords>
+      experimentum
+     </sch:keywords>
+     <sch:keywords>
+      antifasizmus
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      antirasszizmus
+     </sch:keywords>
+     <sch:keywords>
+      beszéd
+     </sch:keywords>
+     <sch:keywords>
+      cigányság
+     </sch:keywords>
+     <sch:keywords>
+      roma közösség
+     </sch:keywords>
+     <sch:keywords>
+      nácik
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="22108923-ffa8-5fc5-b8be-532f1a26eda9">
+     <sch:identifier>
+      urn:uuid:40336863-0ec2-4c45-8123-201d25711a0a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:03.982275
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:22.813137
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="22108923-ffa8-5fc5-b8be-532f1a26eda9" when="2021-12-14T15:26:03.982275">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Nefelejcs Gergő: Egy antifasiszta beszéd
+   </head>
+   <p>
+    Jó napot kívánok, sziasztok. Nefelejcs Gergő vagyok, az Autonómia Csoport, ami egy antifasiszta szervezet egyik tagja.
+   </p>
+   <p>
+    Köszönöm hogy meghívtatok, megtiszteltetés, hogy itt lehetek, bár nem örülök, hogy itt vagyok – mert az akkor megint azt jelenti, hogy vonulnak a nácik.
+   </p>
+   <p>
+    Nefelejcs Gergő szövege az Idetartozunk Egyesület általszervezett
+    <hi>
+     Közösen a gyűlöletpolitika ellen
+    </hi>
+    demonstráción hangzott el 2021. 07. 26-án a Mi Hazánk Mozaglom VIII. kerületi irodája előtt. A
+    tüntetést az hívta életre
+    , hogy ugyanezen a napon a Mi Hazánk Mozgalom romaellenes rendezvényt tartott Jászapátiban.
+   </p>
+   <p>
+    De milyen jó a helyszínválasztás: mi sem mutatja, hogy mennyire sokszínű és befogadó ez a nyolcadik kerület, hiszen a szélsőjobboldaliaknak is itt van az irodájuk. Csak néha zaklatják őket.
+   </p>
+   <p>
+    Sokatokkal már találkoztunk a Becsület Napján – ízléses, éves nagy, nemzetközi neonáci találkozó, Budán, a kilakoltatott zsidók volt házai között, ahol két éve sikerült… Hála a segítségeteknek, hogy többen voltunk, mint ők.
+   </p>
+   <p>
+    Tudom, hogy Setét Jenőnek az a filozófiája, hogy békésen kell küzdeni, méltósággal, nem felülni a náci provokációnak.
+   </p>
+   <p>
+    Mi viszont azt valljuk, hogy ha a nagy bátor betyárt előled gyömöszöli be a rendőr az albán pékségbe, mielőtt lesérül, az egy olyan felemelő érzés, amit minél több embernek meg kéne tapasztalnia.
+   </p>
+   <p>
+    De ez nem azért van, mert szeretjük az erőszakot. Nekünk Tolsztoj a Szentírás.
+   </p>
+   <p>
+    Hanem mert abban hiszünk, hogy egy közösségnek a jogait nem az állam vagy a rendőrség adja, hanem az, hogy meg tudja-e magát védeni.
+   </p>
+   <p>
+    Különösen igaz ez akkor, ha az állam vagy a rendőrség nem is akar megvédeni.
+   </p>
+   <p>
+    Hát még akkor, ha az állam rád támad vagy ellened uszít.
+   </p>
+   <p>
+    És miért ne tenné?
+   </p>
+   <p rend="head">
+    A rasszizmus nem javítandó hibája ennek a rendszernek, hanem a lényege. Mondhatni, az üzemanyaga.
+   </p>
+   <p>
+    Mert amíg az emberek egymást félik és gyűlölik, addig sem azzal foglalkoznak, hogy ki ül a nyakukon és mégis milyen jogon.
+   </p>
+   <p>
+    A magyar kapitalizmus üzemanyaga a gerjesztett cigánygyűlölet.
+   </p>
+   <p>
+    Az ilyen Toroczkai-féle
+    <hi>
+     operettnácik
+    </hi>
+    pedig ennek az üzemnek az olajszőkítői.
+   </p>
+   <p rend="head">
+    De akkor hogy állítjuk meg őket? Mielőtt megint baj lesz? Mielőtt újra beüt a tragédia, és ártatlanokat fognak ölni?
+   </p>
+   <p>
+    Én azt javaslom, hogy először is értsük meg őket.
+   </p>
+   <p>
+    Ilyenkor Bibó Istvánt szoktam idézni, hogy mi a különbség a reakciós és a fasiszta között?
+   </p>
+   <p>
+    Az, hogy a reakciós fél, a fasiszta pedig az ellen küzd, amitől a reakciós fél.
+   </p>
+   <p>
+    És azt, hogy ahol szegénység van, ahol nyomor van, ott bűnözés is lesz, ezt mindannyian tudjuk: de mi emiatt nem állunk neki menetelni meg masírozni.
+   </p>
+   <p>
+    Mert normálisak vagyunk.
+   </p>
+   <p>
+    A magyar fasiszták viszont nagyon erősek a médiában: mind jól tudjuk, hogy külön portált tartanak fenn arra, hogy a cigányok ellen hergeljenek. Ezek a médiumok a reakciós és fasiszta közösséget állandó rettegésben tartják.
+   </p>
+   <p>
+    Neurotikus emberekről beszélünk, akik amúgy is hajlamosak a félelemre, mi több: vágynak rá, és a fasiszták megadják nekik ezt a perverz örömöt.
+   </p>
+   <p>
+    Majd erre a gerjesztett félelemre ők már indokoltnak érzik a gárdásodást meg a menetelést.
+   </p>
+   <p>
+    Ha minden nap azt tolják az ember arcába, hogy itt a világvége, akkor logikusan fogja azt követelni, hogy csendet, rendet, fegyelmet!
+   </p>
+   <p>
+    Hát mit tudunk ezzel csinálni? Nem vehetjük el az összes telefonját, nem zúzhatjuk be a számítógépeiket.
+   </p>
+   <p>
+    Ennél több kell.
+   </p>
+   <p>
+    Mert mi tudjuk, hogy nyomor meg szegénység ugyan van, de világvége: az nincs. Nem csak mi, hanem tudja ezt az egész ország, mindenütt, ahol romák és nem romák együtt élnek vagy dolgoznak. Hogy a valóság, az nem ez.
+   </p>
+   <p>
+    De ez a valóság sajnos nem érdekes. Ezzel a valósággal nem foglalkozik a média. Nem is fog.
+   </p>
+   <p>
+    Ezt nekünk kell láthatóvá tennünk.
+   </p>
+   <p>
+    A nagyanyám is rasszista volt: aztán csak barna lett a legkisebb unokája, és át kellett gondolnia a dolgokat.
+   </p>
+   <p rend="head">
+    Ezt a nem-világvége valóságot kell megmutatnunk minél több embernek. Hogy lássák: nincs mitől félni.
+   </p>
+   <p>
+    Ehhez szorosabb kötelékek és „közös közösségek” kellenek, mint amik most vannak. Közösen kell sportolni, főzni, zenélni, a gyerekekre vigyázni.
+   </p>
+   <p>
+    Ez a kölcsönös bizalom receptje. Meg a
+    <hi>
+     facebook live
+    </hi>
+    videóé.
+   </p>
+   <p>
+    Blődnek hangzik talán, de higgyétek el, ettől fognak a fasiszták agyvérzést kapni.
+   </p>
+   <p>
+    Hogy ha a mi közösségeink, amelyeket a tisztelet és a bizalom tart össze, vonzóbbak lesznek, mint az övéik, amelyeket meg a félelem.
+   </p>
+   <p>
+    Akkor az sem lesz probléma, ha menetelnek: mert tudni fogunk róla időben, és mi leszünk többen.
+   </p>
+   <p rend="head">
+    Nincs mitől félnünk: azért menetelnek ennyire, mert be vannak rezelve. Tudják, hogy vesztésre állnak. Ők a kisebbség, mi pedig a többség. Ők a múlt, mi pedig a jövő.
+   </p>
+   <p>
+    Így szavaimat egy hírhedt szélsőjobbos idézet kiforgatásával zárnám: ne hagyjuk, hogy egy törpe kisebbség a fasiszta kultúráját ráerőltesse a normális többségre.
+   </p>
+   <p>
+    Köszönöm!
+   </p>
+   <p>
+    A tüntetés itt tekinthető meg.
+   </p>
+  </body>
+ </text>
+</TEI>

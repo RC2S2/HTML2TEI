@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A második magyar köztársaság emlékezete
+    </title>
+    <author>
+     <persName>
+      Feitl István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6487e4e5-07eb-544d-9df2-fc6776ebcdaa
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A második magyar köztársaság emlékezete
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Feitl István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-02-01T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/02/01/a-masodik-magyar-koztarsasag-emlekezete/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/02/01/a-masodik-magyar-koztarsasag-emlekezete/
+     </sch:url>
+     <sch:name>
+      A második magyar köztársaság emlékezete
+     </sch:name>
+     <sch:datePublished>
+      2021-02-01T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Feitl István
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      történelem
+     </sch:keywords>
+     <sch:keywords>
+      demokrácia
+     </sch:keywords>
+     <sch:keywords>
+      évforduló
+     </sch:keywords>
+     <sch:keywords>
+      emlékezetpolitika
+     </sch:keywords>
+     <sch:keywords>
+      köztársaság
+     </sch:keywords>
+     <sch:keywords>
+      kéthly anna
+     </sch:keywords>
+     <sch:keywords>
+      1946
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6487e4e5-07eb-544d-9df2-fc6776ebcdaa">
+     <sch:identifier>
+      urn:uuid:112d13f6-db6b-4da5-8d1f-136aa31d1a0b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.441119
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:40:06.256630
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6487e4e5-07eb-544d-9df2-fc6776ebcdaa" when="2021-12-14T15:30:52.441119">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A második magyar köztársaság emlékezete
+   </head>
+   <p>
+    Hetvenöt éve, 1946. február 1-jén kiáltották ki Magyarországon a második köztársaságot.
+    Az 1950-es éveket visszavetítő, a szovjet és kommunista befolyás kivételével minden mást elmosó emlékezetpolitika áradatával szemben az évforduló alkalmával hangot kell adni azoknak a republikánus demokratáknak, akik az arisztokratikus világszemlélet helyett egy teljesen más, az emberi egyenlőségen alapuló társadalomért kívántak fellépni. A mindenfelől áradó szidalmakkal, indulatokkal szemben rehabilitálni kell 1946-ot annak érdekében, hogy a mai köztársaság-párti magyarok tisztán lássák, kik voltak és mit akartak azok, akiket republikánusoknak nevezünk a XX. század hazai történelmében.
+    Demokratikus és legitim döntés volt ez az aktus?
+    Nézzük az ellenvéleményeket. Miért az Országgyűlés, és miért nem népszavazás döntött erről a kérdésről? Annál inkább, mivel az 1946. január 24-én, a Magyar Közvéleménykutató Intézet által végzett felmérés szerint ugyan a megkérdezettek nagy többségben a népszavazás mellett foglaltak állást (70%), de eközben a köztársaság vagy királyság államformája közül előbbit tartották kívánatosabbnak. A Dunántúlon a városokban 67,4%, falun 69,2%, a Duna-Tisza közén a városokban 79%, a falvakban 65,5%, Északon a városokban és falvakban egyaránt a válaszadók 59%-a a köztársaságot részesítette előnyben. A királyságot átlagban 22,9% támogatta.
+    Ami az Országgyűlést – vagy ahogy akkor nevezték, a Nemzetgyűlést – illeti, annak legitimitása aligha megkérdőjelezhető. A kisgazdapárti abszolút többséget és a létrejött nagykoalíciót minden nagyhatalom elismerte. Ráadásul
+    az 1945. november 4-i arányos, szabad választásokon
+    több mint 5 millió magyarnak volt joga véleményt nyilvánítani. E jogukkal éltek is az emberek, a részvételi arány 93%-os volt. Ez a legutóbbi, 1939-es választáshoz képest több mint 86%-os létszámnövekedést jelentett. A részvételt azóta sem szárnyalta túl egy választás sem. A „Tisztelt Ház” teljes joggal gondolhatta úgy, hogy alkotmányozásra fel van hatalmazva. Nem beszélve arról, hogy a köztársaságot valamennyi párt egyöntetűen elfogadta egyetlen képviselő, Slachta Margit kivételével. A döntés legitimációja tehát nem volt vitatható.
+   </p>
+   <p>
+    A MÁSODIK MAGYAR KÖZTÁRSASÁG ELSŐ KÖZTÁRSASÁGI ELNÖKE, TILDY ZOLTÁN. (FEITL István Képe)
+   </p>
+   <p>
+    Szuverén döntés volt-e a köztársaság kikiáltása?
+    Ez döntő kérdés, mert manapság ezt hozzák fel leginkább ellene. Az 1944–1990 közötti évekbe esik, amelyekről sokan úgy tartják, hogy ekkor Magyarországon nem voltak szuverén döntések.
+    [1]
+    A kérdés mármost az, hogy egyáltalán létezett-e ebben a korszakban szuverén döntés, különösen jogalkotási, alkotmányozási ügyekben? A válasz, hogy igen, Magyarország valóban megszállt ország volt, de egy sor kérdésben önállóan dönthetett, nem kellett minden ügyben kikérnie a nagyhatalom véleményét. Sőt, történelmi megítélésünk egyik fontos mércéje lehet, hogy a kormányzat, vagy később az állampárt, elhatározásaival az ország szuverenitását növelni igyekezett-e vagy sem. Térjünk azonban vissza 1946 februárjához. Egyetlen forrás sem került elő, amely a Vörös Hadsereg, a Szövetséges Ellenőrző Bizottság, a szovjet kormány, avagy személyesen Sztálin és vezetőtársai követelését, vagy finomabban javaslatát, ajánlását tartalmazta volna a köztársaság kikiáltására vonatkozóan. Egyedül a Külügyminiszterek Tanácsának 1945. decemberi értekezletét említi a szakirodalom, hogy abból érthette a magyar politikai elit, mit kell tennie annak érdekében, hogy a béketárgyalásokon kedvező helyzetbe kerülhessen. Ugyanakkor a moszkvai külügyminiszteri találkozó már csak azért sem érintette közvetlenül az államforma kérdését, mert az Romániával kapcsolatban sem szögezett le előírásokat. Hacsak azt nem, hogy felkérte a királyt, egészítse ki a kormányt jobboldali politikusokkal.
+    A külpolitika azonban valóban szempont volt a döntés meghozatalakor. A magyar érdek az volt, hogy az átmeneti állapotok megszűnjenek, és a régi rendszer államformáját felváltsa egy merőben másik – ami látványosan szakít az irredenta célokkal, tehát nem tart igényt jelképesen a Szent Korona országaira. (A háborúban Magyarországot a trianoni békeszerződéssel elcsatolt területek visszaszerzése tartotta a végsőkig Németország mellett.)
+    Az államforma kérdése programszinten is megjelent
+    Slachta Margit, a királyság megőrzése mellett érvelő parlamenti képviselő, a SZEB
+    [2]
+    brit missziójához küldött panaszos levelében ír arról, hogy a választásokon nem volt szó az alkotmány megváltoztatásáról, így a köztársaság kikiáltása nem is lehet népakarat. Ez a szempont mai szemmel nem vehető komolyan és valójában nem is helytálló megállapítás.
+    Bár a kampányban az államforma nem volt hangsúlyos kérdés, de az egyetlen 1918-hoz kötődő nagy párt, a Szociáldemokrata Párt, már 1945 augusztusában, a XXXIV. kongresszuson programjába iktatta – az 1918-hoz kötődő elnevezéssel – a népköztársaság megteremtését. Hogy ez mennyire a régi 18-asok nem feledett óhaja volt, azt mi sem mutatja jobban, mint a Debreceni Nemzeti Bizottság, amely 1945. május 4-én feliratot intézett az Ideiglenes Nemzeti Kormányhoz, hogy tegyen akár az Ideiglenes Nemzetgyűlés, akár saját nevében nyilatkozatot arról, hogy Magyarország jelenleg a demokratikus köztársaság állapotában van. (A Debreceni Nemzeti Bizottság elnöke az a Juhász Nagy Sándor volt, aki Berinkey Dénes kormányában az igazságügy-miniszteri posztot töltötte be.)
+   </p>
+   <p>
+    A szociáldemokraták következetességét támasztja alá Szeder Ferenc felszólalása még a külügyminiszteri értekezlet előtt, 1945. december 1-jén, a Nemzetgyűlésben, amelyben pártja nevében határozottan a köztársasági államforma kikiáltása mellett állt ki.
+   </p>
+   <p>
+    Több sem kellett Bölöni Györgynek és két nap múlva ráerősített Szeder álláspontjára – megsürgette a döntést, hogy egyes Amerikába emigrált magyar, Habsburg Ottó trónra lépésére vonatkozó, vágyálmait elutasítsa. Bölöni a Károlyi-kormány holland nagykövete volt, élete nagy részét emigrációban töltötte, ekkor a Nemzetgyűlés nyolc tiszteletbeli tagjának egyike, aki ugyancsak 1918 köztársasági szellemiségét képviselte.
+   </p>
+   <p>
+    1913 óta bűncselekménynek számított
+    Joggal vetődik fel az a kérdés is, hogy a szociáldemokraták és polgári radikálisok miért hallgattak a Horthy-korszak 25 éve alatt? Miért nem tűzték zászlajukra a köztársaság követelését, miért nem szerepelt legalább programjukban? Egész egyszerűen azért, mert aki a királyság intézményének megszüntetésére irányuló mozgalmat kezdeményezett, szervezett, vagy csak részt vett benne, nyomtatott vagy élő szóval a királyság intézménye ellen lázított, az köztörvényes bűncselekményt követett el. A vétkeseket az 1913. évi XXXIV. törvénycikk 3. paragrafusa öt évig terjedő államfogházzal, négyezer koronáig terjedő pénzbüntetéssel, a politikai jogok gyakorlásának felfüggesztésével és hivatalvesztéssel sújtotta.
+   </p>
+   <p>
+    Dr. Nagy György (1879–1923) újságíró, ügyvéd, politikus (Wikipedia Commons)
+   </p>
+   <p>
+    A dualizmus kormányai rettegtek a köztársaság melletti pártpolitikai és civil fellépéstől, különösen miután – egy ma már ismeretlen kiváló férfiú – Nagy György, bátor székely ügyvéd megalapította 1912-ben az Országos Köztársasági Pártot. A szépen gyarapodó mozgalmat aztán a fent említett törvény betiltotta. A törvény Horthy alatt sem vesztette érvényét, Nagy Györgyöt egy nyilvános temetői megemlékezés miatt is perbe fogták, bár ekkor még felmentették. Halála utáni utódját, Veér Imrét háromszor fogták perbe, és ítélték több évre, amiért alkotmányos eszközökkel meg akarta változtatni az alkotmányt. A horthyzmus idején közel háromtucat ilyen perről tudunk. Ez magyarázatul szolgál arra, hogy az 1918-as pártok miért nem kockáztatták létüket a köztársaság melletti kiállás miatt.
+   </p>
+   <p>
+    Ezzel szemben a királyságot és a korona országainak egységét hirdető Szent Korona tan népszerűsítése a legtermészetesebb volt huszonöt éven keresztül. Már csak ezért sem jogos Slachta Margit kifogása az angol misszió előtt arról, hogy nem tudta nézeteit reklámozni. Terrorról beszél, de ez csak szónoki fogás lehetett, hiszen a parlament előtt hosszan kifejthette álláspontját.
+   </p>
+   <p>
+    A Kisgazdapárton belül is voltak viták, de ezt követően, no nem republikanizmusból, az államformaváltás mellett döntöttek, sőt a törvény előadója az a Sulyok Dezső volt, aki korábban fenntartásait hangoztatta, és nem sokkal később kivált a Független Kisgazdapártból és megalapította a jobboldali, de a köztársasági államforma szabadságjogait védelmező Magyar Szabadság Pártot.
+   </p>
+   <p>
+    A rangokon túl, a demokrácia és egyenlőség felé
+    A köztársaság megteremtését a parlamenti vitában a legtöbben őszintén a demokrácia kiterjesztéseként fogták fel. Leginkább Kéthly Anna érezte át a republikanizmus lényegét. Nézete szerint a királyi hatalom transzendenciáját a többi társadalmi rend és csoport alávetettsége és kiszolgáltatottsága követi, és ez a hierarchikus felfogás gyökeres ellentéte a demokrácia és az egyenlőség elvének. A hierarchia mind lelki, mind társadalmi és gazdasági értelemben a korábbi évszázadok együttélési formája. A köztársaság gyökeres szakítás ezzel a világgal. Szakítás a címekkel, címerekkel, előjogokkal és főhercegi szalonokkal, ahol a finom urak és dámák járkálnak. Szakítás az egész szétterpeszkedett horthysta „neo-bizantizmussal”.
+    Kéthly Anna reményének adott hangot egy ideális világ felé való elindulásra, ahol tiszta közélet van, nincs hamis tekintélytisztelet, nem szolgálatra, parancsokra, hanem együttműködésre alkalmas emberek sokasága teremt új nemzetet. Az 1918-as forradalom jelentette számára a magasrendűséget. A néplélekbe a legmélyebben Kossuth és Károlyi alakját látta bevésődni. Mindketten a köztársaságot szimbolizálták és szemben álltak az egyház és a földbirtokos arisztokrácia világi nagyhatalomként való felfogásával, amit a legitimista Mindszenty József hercegprímás, esztergomi érsek képviselt, midőn homo regiusként a legfőbb közjogi méltóságnak tekintette magát 1945–46-ban. A republikanizmus a törvényhozásban való részesedést csak és kizárólag választások eredményeként ítéli jogosnak és jogszerűnek. Isten nem ad felhatalmazást senkinek, hogy az állam nevében emberek felett rendelkezzen.
+   </p>
+   <p>
+    Zádor István rajza Kéthly Annáról. (FeitL István kÉPE)
+   </p>
+   <p>
+    A törvény szövege, az emberi jogok kodifikálása ebbe az irányba mutatott, mint ahogy egy sor lépés is történt a köztársaság szellemének kiteljesítése érdekében, bár ott munkáltak már a zsarnokság őrlőkerekei is. Lehetne sorolni a köztársaság érdekében tett lépéseket
+    [3]
+    , de most csak egyet idézzünk fel belőlük.
+   </p>
+   <p>
+    1946. december 17-én nyelvpolitikai vita zajlott a parlamentben. Napirenden az egyes rangok és címek megszüntetéséről szóló rendelkezés volt (1947. évi IV. törvény egyes rangok és címek megszüntetéséről). A következő rangjelző címek használata vált tiltottá: herceg, őrgróf, gróf, báró, nemes, primor, lófő, örökös főispán, titkos tanácsos, kormányfőtanácsos, vitéz, stb. Kiterjedt a törvény az olyan megszólításokra, mint a főméltóságú, nagyméltóságú, kegyelmes, méltóságos, nagyságos, tekintetes, nemzetes, stb. Nem vonatkozott viszont az egyházi és tudományos címhasználatra, bizonyos közszolgálatban használatos elnevezésekre, és nem tartalmazott szankcionáló passzust sem.
+   </p>
+   <p>
+    A cím- és rangkórság a neobarokk „méltóságos Magyarország” egyik jellegzetes betegségtünete volt. Annak idején Szabó Dezső úgy orvosolta volna tréfásan a bajt, hogy az utcaseprőnek is meg kellene adni a lehetőséget a legmagasabb rang használatára.
+    A vitában az ellenzék szerint ez a folyamat már szinte teljesen le is zajlott, tehát szükségtelen erre törvényt hozni. A kisgazda vezérszónok szerint a javaslat a társadalom figyelmeztetése volt a kasztrendszerű világ elmúlására, de ennek párosulnia kell az akkori vezetők által sugallt demokratikus magatartásmintákkal, mert a népnek nagyon nem tetszene, ha a főszolgabírók helyét a párttitkárok vennék át. A Nemzeti Parasztpárt szónoka arra emlékeztetette a jelenlévőket, hogy a régi világban, ha egy egyszerű falusi ember bement a községházára vagy a városházára, azon gondolkodott, hogy már az utolsó szolgatisztet is nagyságosnak, tekintetesnek, avagy méltóságosnak szólítsa-e. Summa summarum a törvény szimbolikus: lezárta a kasztszellemet, az előjogok és az üres formalizmusok korszakát.
+    Napjainkban „a király meztelen”
+    Az elmúlt tíz évben pár kurzustörténész sokat tett annak érdekében, hogy feledtesse ezeket az epizódokat, hogy 1918 és 1946 történteit befeketítse, a köztársaságot eltéphetetlenül összekapcsolja a bolsevik diktatúra emlékével, kitörölje azon személyiségek emlékét, akik őszintén gondolták a 1946 februárjában mondott szép jövendöléseket. A Szent Korona-tan is lassan visszakapja közjogi legitimitását.
+    [4]
+    Az alaptörvény szerint a köztársaság csak forma, az ország államformája. Csak ruha a nemzet testén. Éppen ez a baj. Nem telítődik a lényeggel, nem válik eggyé a testtel, a demokratikus mentalitás elszakad a mindennapi élettől, csak külsőleg, csak látszólag vannak meg az intézmények, amelyek garantálják a demokráciát – mögöttük a „király meztelen”.
+    2005-ben az MSZP-SZDSZ kormány 1946. február 1-jét a köztársaság emléknapjának akarta nyilvánítani. Bozóki András, akkori kulturális miniszter, volt a napirend előadója. Szerény kezdeményezés volt ez a republikanizmus eszméjének népszerűsítése érdekében. Az akkor még létező koalíciós társ, az SZDSZ lekicsinylő ellenvéleménye nyomán a szándékból alig lett valóság. Pedig mennyire igaza volt Bozókinak, amikor az ÉS hasábjain azt fejtegette, hogy
+    „Meggyőződéseink sokféleségétől függetlenül, a köztársaság a vita és a társadalmi konszenzuskeresés kultúrájának közjogi alapja. A köztársaság a köz társulása – a köztársaság mindannyiunké. A köztársaság emléknapja nem a szovjet megszállás hagyományromboló és önkényuralmi, centralizált kényszermodernizációjának emlékéhez vezetne vissza bennünket, hanem annak a pillanatnak az emlékéhez, amikor még mi magunk rendelkeztünk a saját alkotmányunk felett.”
+    [5]
+    Most aztán szedegethetjük össze a szétszóródott emlékfoszlányokat, ideatöredékeket, hogy felmutathassuk a magyar társadalomnak, mit is jelent köztársaságpártinak lenni.
+    [1]
+    – Ezt az álláspontot Magyarország Alaptörvényébe is iktatták: „Hazánk 1944. március tizenkilencedikén elveszített állami önrendelkezésének visszaálltát 1990. május másodikától, az első szabadon választott népképviselet megalakulásától számítjuk.”
+    [2]
+    – A Szövetséges Ellenőrző Bizottság a fegyverszüneti egyezmény után állt fel Magyarországon. Feladata a fegyverszüneti feltételek végrehajtásának szabályozása és ellenőrzése volt. A bizottságban az Egyesült Államok, Nagy-Britannia és a Szovjetunió képviselői foglaltak helyet.
+    [3]
+    – Lásd: Feitl, István; Palasik, Mária: Magyar Köztársaság 1946. In: Feitl, István; Gellériné, Lázár Márta; Kende, János (szerk.): Demokratikus köztársaságok Magyarországon: Történeti album. Napvilág Kiadó (2007) pp. 73-130.
+    [4]
+    – A Szent Korona tan a lefektetett törvényeken túli többletre jogosítja fel az államot, egyfajta nem megfogható, transzcendens, hitbéli, morális, kulturális tartalom szolgálatára. Ez kötelezi az állam vezetőjét a jogszabályokban csak részben megfogalmazott nemzeti, keresztény hitvallás képviseletére. Csak az képviselheti állami szinten igazán a népet, nemzetet, aki ezt elfogadja. 1919 után és ma is a szuverenitás értelmezésében csúcsosodik ki ez a kérdés.
+    [5]
+    – Bozóki András: A köztársaság napjáról, komolyan. Élet és Irodalom. XLIX. évfolyam 43. szám, 2005. október 28. (Visszhang)
+   </p>
+  </body>
+ </text>
+</TEI>

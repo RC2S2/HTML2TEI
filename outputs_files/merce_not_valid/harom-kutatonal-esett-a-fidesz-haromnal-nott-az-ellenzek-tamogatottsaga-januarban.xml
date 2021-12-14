@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Három kutatónál esett a Fidesz, háromnál nőtt az ellenzék támogatottsága januárban
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1c46f94c-3aa0-5831-b7a5-225c305d8a98
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Három kutatónál esett a Fidesz, háromnál nőtt az ellenzék támogatottsága januárban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-02-01T09:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/02/01/harom-kutatonal-esett-a-fidesz-haromnal-nott-az-ellenzek-tamogatottsaga-januarban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/02/01/harom-kutatonal-esett-a-fidesz-haromnal-nott-az-ellenzek-tamogatottsaga-januarban/
+     </sch:url>
+     <sch:name>
+      Három kutatónál esett a Fidesz, háromnál nőtt az ellenzék támogatottsága januárban
+     </sch:name>
+     <sch:datePublished>
+      2018-02-01T09:20:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      mszp
+     </sch:keywords>
+     <sch:keywords>
+      választás 2018
+     </sch:keywords>
+     <sch:keywords>
+      lmp
+     </sch:keywords>
+     <sch:keywords>
+      jobbik
+     </sch:keywords>
+     <sch:keywords>
+      együtt
+     </sch:keywords>
+     <sch:keywords>
+      közvélemény-kutatás
+     </sch:keywords>
+     <sch:keywords>
+      pártok
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1c46f94c-3aa0-5831-b7a5-225c305d8a98">
+     <sch:identifier>
+      urn:uuid:e38a276b-51b0-41d6-bcda-6b6ed037452d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:21.385546
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:46:35.561790
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1c46f94c-3aa0-5831-b7a5-225c305d8a98" when="2021-12-14T15:27:21.385546">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Három kutatónál esett a Fidesz, háromnál nőtt az ellenzék támogatottsága januárban
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Öt közvéleménykutató tett közé mérést a januári hónapot illetően, és közölük csupán a kormánypárti Nézőpont Intézet az, amely a Fidesz erősödését, és az ellenzéki pártok gyengülését mérte januárban. A többi 4-nél majdnem fordított a helyzet: a Fidesz gyengülése és az ellenzék erősödése látható.
+   </p>
+   <p>
+    Forrás: Medián/HVG
+   </p>
+   <p>
+    A Mediánnál – amely utolsóként tette közzé, ezért vélhetően legkésőbb készült felmérését a kutatóintézetek közül januárban – a kormánypárt a teljes népesség körében 2, a biztos szavazók között 7 százalékpontot vesztetett, miközben minden ellenzéki párt növekedett a hónapban.
+   </p>
+   <p>
+    A Jobbik-közeli Iránytű intézet is január utolsó napján tette közé kutatását. Eszerint a Fidesz mind a teljes népességben, mind a biztos szavazóknál 2 százalékpontot vesztett. Náluk viszont csupán a Jobbik tudott növekedni.
+   </p>
+   <p>
+    A Nézőpont Intézet a hónap közepén adta közre elemzését. A kormánynak számos megrendelést végző, fideszes házi intézet minden fronton fideszes erősödést mért, és több százalékpontos összellenzéki csökkenést. Ez a kutatás teljesen ellentmond az összes többi intézet által mért változásoknak.
+   </p>
+   <p>
+    A hónap elején jelent meg a Závecz és az MSZP-közeli Publicus kutatása. Előbbi szerint a teljes népességben a Fidesz támogatottsága változatlan, a Jobbik növekedik, míg az LMP egy százalékpontot gyengül. Ellenben a biztos szavazók között a Fidesz 2 pontos gyengülése mellett ugyanennyivel nő a Jobbik, az MSZP pedig 1 százalékpontot növekedett. A Publicus kutatásában szintén a Jobbik és az MSZP erősödése figyelhető meg a biztos szavazóknál 2 százalékponttal, míg a Fidesz is tudott egy pontot erősödni.
+   </p>
+   <p>
+    Persze ezeknél a számoknál a legfontosabb szempont az, hogy a Fidesz novemberben és decemberben óriási közvélemény-kutatási csúcson volt, így van honnan esnie. De a Nézőpont számait kivéve, a Fidesz lassú gyengülését, az ellenzéki pártok – főként a Jobbik, kisebb részt az MSZP – lassú erősödését mutatják az adatok.
+   </p>
+   <p>
+    A pártpreferenciákon túl két izgalmas adatot kínáltak még a közvélemény-kutatások. Egyrészt az Iránytű, a Nézőpont és a Medián kutatása szerint is Karácsony Gergely a legnépszerűbb ellenzéki politikus még úgy is, hogy az MSZP miniszterelnök-jelöltje lett. A Medián kutatása szerint még a Fidesz szavazók 24 százaléka is azt mondja, szívesen látná fontos pozícióban.
+   </p>
+   <p>
+    Másrészt mind a Závecz, mind a Medián kutatása kitér arra, hogy a Fidesz szavazók választási kedve alacsony. A Závecz számai alapján az 5 legnagyobb párt közül a legalacsonyabb, míg a Medián nem közöl ilyen összehasonlító számokat, de azt mondja, novemberhez képest 75-ről 70 százalékra csökkent a Fidesz szavazói között azoknak a száma, akik azt mondják, biztosan szavaznak majd április 8-án.
+   </p>
+   <p>
+    A változások persze érthetőek. A Fidesz magas novemberi és decemberi számai annak voltak köszönhetőek (ahogy ezt Róna Dániel elemző megírta), hogy a kormánypárt sikeresen tematizálta az őszt a Soros-kérdéssel, míg az ellenzéki pártok leginkább az összefogással voltak elfoglalva. Viszont ez december elejével, az Állami Számvevőszék pártokat megbüntető döntéseivel megváltozott, és a januári korrupció-, egészségügy-, béremelés-, diáktüntetés-tematika, nem beszélve az 1300 menekült befogadásáról, megváltoztatta a politika dinamikáját.
+   </p>
+   <p>
+    Az külön kérdés, hogy ezekben a kutatásokban az 1300 menekült ügye mennyire látható még, hiszen az ilyen hírek politikai preferencia változtató hatása – főleg a vidéki szavazóknál – akár több hétbe is beletelhet, míg az információ eljut, és feldolgozódik az ország minden részén.
+   </p>
+   <p>
+    Persze ezek a számok még mindig a Fidesz órási győzelmét jósolják, de 4 éve a választások előtt, amikor is hasonló (picit alacsonyabb) számokat láthattunk a kormánypártnál, decemberről januárra erősödni tudott a Fidesz, majd februárban és márciusban is meg tudta tartani a támogatottságát.
+   </p>
+   <p>
+    Ha a tematizálást az ellenzék továbbra is többé-kevésbé magánál tudja tartani, és a mostani tendenciák folytatódnak a következő hetekben, akkor korántsem biztos, hogy olyan sima lesz a Fidesz számára a 2018-as választás.
+   </p>
+  </body>
+ </text>
+</TEI>

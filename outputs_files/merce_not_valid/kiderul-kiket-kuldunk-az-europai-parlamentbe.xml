@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Momentum és a DK az EP-választás nagy nyertese
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Dobsi Viktória
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lebanov Barbara
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Weiler Vilmos
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     aa783546-3ea3-552e-a0b0-2947eb3ab86f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Momentum és a DK az EP-választás nagy nyertese
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Weiler Vilmos
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lebanov Barbara
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Dobsi Viktória
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-05-26T06:29:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/05/26/kiderul-kiket-kuldunk-az-europai-parlamentbe/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/05/26/kiderul-kiket-kuldunk-az-europai-parlamentbe/
+     </sch:url>
+     <sch:name>
+      A Momentum és a DK az EP-választás nagy nyertese
+     </sch:name>
+     <sch:datePublished>
+      2019-05-26T06:29:00
+     </sch:datePublished>
+     <sch:dateModified>
+      2019-05-27T01:20:00
+     </sch:dateModified>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Dobsi Viktória
+     </sch:author>
+     <sch:author>
+      Lebanov Barbara
+     </sch:author>
+     <sch:author>
+      Weiler Vilmos
+     </sch:author>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      választás2019
+     </sch:keywords>
+     <sch:keywords>
+      ep-választás
+     </sch:keywords>
+     <sch:keywords>
+      Magyarország választ
+     </sch:keywords>
+     <sch:keywords>
+      európa választ
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="aa783546-3ea3-552e-a0b0-2947eb3ab86f">
+     <sch:identifier>
+      urn:uuid:306618ac-52eb-48b2-9a33-fa9972a76379
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:49.899546
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:33:02.442436
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="aa783546-3ea3-552e-a0b0-2947eb3ab86f" when="2021-12-14T15:30:49.899546">
+    TEI file created
+   </change>
+   <change source="https://merce.hu/2019/05/26/kiderul-kiket-kuldunk-az-europai-parlamentbe/" when="2019-05-27T01:20:00">
+    article modified
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Momentum és a DK az EP-választás nagy nyertese
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Negyedik alkalommal tartanak ma európai parlamenti választásokat Magyarországon, ebből az alkalomból a Mérce oldalán percről-percre közvetítésben követhetik az olvasók a nap történéseit, napközben pedig a részvételi adatok alapján folyamatosan elemzést fogunk adni a várható eredményekről. Tudósítóink ott lesznek a politikusok szavazásnál és az eredményvárókon is.
+   </p>
+   <p>
+    Ezenkívül este nemcsak szöveges, hanem élő videós műsorral is várunk mindenkit.
+   </p>
+   <p>
+    Olvasóink támogatása teszi lehetővé, hogy itt jelen lehessünk. Támogass minket, hogy továbbra is ott lehessünk, ahol a fontos dolgok történnek!
+   </p>
+   <p>
+    Támogatom
+   </p>
+   <p>
+    A vasárnap nem csupán a magyarországi szavazás napja lesz, hanem a csütörtökön kezdődött EP-választási folyamat negyedik napja is, amikor Magyarország mellett további húsz országban voksolhatnak az állampolgárok, természetesen a külföld történéseiről is beszámolunk tudósításunkban.
+   </p>
+   <p>
+    Élő videóműsorunkat itt nézhetitek:
+   </p>
+   <p>
+    Diószegi-Horváth Nóra
+    2019. május 27., 1:20
+    Sok mindent lehetne még mondani az EP-választásról, de mi most inkább elmegyünk aludni
+   </p>
+   <p>
+    A helyzet az, hogy a következő napokban-hetekben úgyis mindenki az európai parlamenti választásról, annak várható belpolitikai és uniós hatásairól fog értekezni.
+   </p>
+   <p rend="head">
+    Mi is így teszünk majd, most viszont zárjuk a percről percre tudósításunkat.
+   </p>
+   <p>
+    Innen is köszönöm az egész napos munkát a kollégáimnak, akik reggeltől rohangáltak sajtótájékoztatókra és eredményvárókra, és hajkurászták a szavazó politikusokat, akik összeraktak egy egész stúdiót, hogy életünkben először saját, élő választási műsort csinálhassunk (
+    itt
+    és
+    itt
+    meg lehet nézni), azoknak, akik külsősként segítették a munkánkat, és azoknak is, akik reggeltől ültek az irodában, és írták a híreket, szakmányban.
+   </p>
+   <p>
+    És bár közülük néhányan már kidőltek (ami nem csoda), azért készítettünk még egy
+    <hi>
+     utána
+    </hi>
+    fotót is, így nézünk tehát ki nagyjából 19 órányi munka után:
+   </p>
+   <p>
+    A Mérce sem pártok, sem oligarchák pénzét nem fogadja el. Mi kizárólag az olvasóink támogatásából működünk, így ha szeretnétek, hogy a következő választást (praktikusan ősszel, az önkormányzatit) is legalább így, de inkább még ennél is jobban tudjuk majd tudósítani, akkor támogassatok minket.
+   </p>
+   <p>
+    Ezt ezen a linken lehet megtenni
+    , és előre is nagyon köszönjük!
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 27., 1:13
+    Itt vannak a részvételi arányok az EU tagállamaiból
+   </p>
+   <p>
+    európai unió
+    •
+    Az alábbi grafikonon láthatók az egyes tagállamokra vonatkozó részvételi arányok, lehet böngészgetni.
+   </p>
+   <p>
+    Diószegi-Horváth Nóra
+    és
+    Bernáth Lackó
+    2019. május 27., 1:02
+    Dobrev Klára: Ekkora eredményre mi sem számítottunk
+   </p>
+   <p>
+    A Demokratikus Koalíció EP-listavezetőjét, és – immár – európai parlamenti képviselőjét, Dobrev Klárát sikerült meginterjúvolnunk.
+   </p>
+   <p>
+    „Ekkora eredményre mi sem számítottunk, de azt már éreztük az elmúlt hetekben, ahogy jártuk az országot és hihetetlen mennyiségű emberrel találkoztunk, hogy növekszik azoknak a tábora, akik hallják a szavunkat, akikhez eljut, hogy mit gondolunk Magyarországról és Európáról.”
+   </p>
+   <p>
+    Miután sem Jávor Benedek (MSZP-Párbeszéd), sem Vágó Gábor (LMP) nem jutott ki az Európai Parlamentbe, ezért arra is kíváncsiak voltunk, a Demokratikus Koalíció viszi-e tovább a zöld ügyeket Brüsszelben. Hogy Dobrev Klára mit válaszolt, az videónkból kiderül:
+   </p>
+   <p>
+    Diószegi-Horváth Nóra
+    2019. május 27., 1:00
+    Törökszentmiklóson a Mi Hazánk elverte a DK-t és a Jobbikot is
+   </p>
+   <p>
+    Úgy tűnik, nem hiába demonstrált Toroczkai László és a Mi Hazánk Mozgalom Törökszentmiklóson kedden.
+   </p>
+   <p>
+    Ugyan itt is a Fidesz-KDNP nyert, méghozzá 46,81 százalékkal,
+   </p>
+   <p rend="head">
+    a második helyen viszont a Mi Hazánk végzett, 14,96 százalékkal, ami 945 szavazatot jelent.
+   </p>
+   <p>
+    Ezzel verték az amúgy hatalmas meglepetésre az ellenzék legnagyobb győzteseként 4 mandátumot szerző Demokratikus Koalíciót (14,17 százalék) és a Jobbikot is (10,56 százalék).
+   </p>
+   <p>
+    A Jobbik egyértelmű vesztese a mai választásnak, hiszen a várakozásoktól jócskán elmaradva mindössze 1 mandátumot sikerült szerezniük, azonban Törökszentmiklóson meglepő a szereplésük – annyiban biztosan, hogy maga a város jobbikos vezetéssel bír.
+   </p>
+   <p>
+    A Mi Hazánk viszont az országos eredményéhez képest (3,32%) szerepelt kiemelkedően, nyilván nem függetlenül attól, hogy kedden rasszista demonstrációt tartottak Törökszentmiklóson, ahol felszólalt a párt elnöke, Ásotthalom polgármestere, Toroczkai László is.
+   </p>
+   <p>
+    A törökszentmiklósi eseményekről
+    itt írtunk korábban
+    .
+   </p>
+   <p>
+    Toroczkai a Mi Hazánk eredményváróján kijelentette:
+   </p>
+   <p rend="head">
+    A magyar politikatörténetben példátlan sikert arato
+    tt a
+    Mi Hazánk
+    Moz
+    galom azzal, hogy 9 hónappal zászlóbontása után 3,33 százalékos eredményt ért el az európai parlamenti választáson.
+   </p>
+   <p>
+    Tóth Csaba Tibor
+    2019. május 27., 0:37
+    Tsziprasz azonnal időközi választást írt ki Görögországban
+   </p>
+   <p>
+    athén
+    ,
+    görögország
+    •
+    Ígéretéhez híven Alekszisz Tsziprasz baloldali miniszterelnök azonnal bejelentette, időközi választás jön hamarosan Görögországban, miután pártja, a 2015-ben nagy többséggel megválasztott Sziriza kikapott a jobboldali Új Demokráciától a mai EP-választáson.
+   </p>
+   <p>
+    (
+    The Guardian
+    )
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 27., 0:36
+    A Jobbik korrekciókra készül
+   </p>
+   <p>
+    Budapest
+    ,
+    jobbik eredményváró
+    •
+   </p>
+   <p rend="head">
+    A Jobbik részéről Jakab Péter és Gyöngyösi Márton állt ki megmagyarázni pártja eredményét.
+   </p>
+   <p>
+    Emlékeztetett, a Jobbik legnehezebb időszakán vannak túl, mivel véleménye szerint a Fidesz minden eszközt bevetett a párt ellehetetlenítésére – ugyanakkor már 250 megnyert sajtóperen vannak túl a propagandamédiával szemben.
+   </p>
+   <p>
+    Mint mondta, az MDF és a Kisgazdapárt ellehetetlenítése mintájára bomlasztani is próbálta a Fidesz a pártot, azonban ezt sikerült túlélniük, sőt, mi több, számban nem fogyatkoznak – miközben véleménye szerint kevesebben szavaztak a Jobbikra, mint ahány jobbikos van.
+   </p>
+   <p>
+    Reformok várhatóak a pártban –
+   </p>
+   <p>
+    „a Jobbik a szükséges korrekciókat végrehajtja, és megújulva fog nekimenni az önkormányzati választásoknak”.
+   </p>
+   <p>
+    A sajtótájékoztatón igen sokat beszélt az elkövetkezendő önkormányzati választásokról, melynek keretében úgy véli, meg fogják fosztani a Fideszt a településvezetői pozíciókról.
+   </p>
+   <p>
+    Ezután Gyöngyösi következett, aki elmondta ugyanezt, majd szólt néhány mondatot a migrációról, a határzárról valamint a határőrségről, melyek tekintetében együtt kell működni az Európai Unióval.
+   </p>
+   <p>
+    Beszélt továbbá a bérfelzárkóztatásról, mely úgy gondolja, az országban nem lehetséges, uniós együttműködésre van szükség, ahogy az uniós források ellenőrzéséhez is.
+   </p>
+   <p>
+    A teljes sajtótájékoztatót az alább lehet megnézni.
+   </p>
+   <p>
+    Diószegi-Horváth Nóra
+    2019. május 27., 0:25
+    Budapesti fellegvárában is csúfosan kikapott az MSZP
+   </p>
+   <p>
+    Budapesten a XIII. kerület (Angyalföld) hagyományosan a Magyar Szocialista Párt zászlóshajója.
+   </p>
+   <p>
+    Volt.
+   </p>
+   <p>
+    Az európai parlamenti választáson ugyanis a következő eredmény született:
+   </p>
+   <list>
+    <item>
+     Fidesz-KDNP:
+     31,78 százalék
+    </item>
+    <item>
+     Demokratikus Koalíció:
+     21,39 százalék
+    </item>
+    <item>
+     Momentum:
+     21,32 százalék
+    </item>
+    <item>
+     MSZP-Párbeszéd: 13,5 százalék
+    </item>
+   </list>
+   <p>
+    A Momentum 3589 szavazattal kapott többet a szocialistáknál, a Fidesz-KDNP
+    14.586 szavazattal győzött a kerületben.
+   </p>
+   <p rend="head">
+    Érdemes hozzátenni, hogy az MSZP-Párbeszéd szövetség a XIII. kerületben érte el legjobb eredményét a fővárosban.
+   </p>
+   <p>
+    Érdekesség még a fővárosból:
+   </p>
+   <p>
+    Egyetlen kerületben sem kapott 4 százaléknál többet az LMP, és ahol csak néztük, mindenhol előzte a Magyar Kétfarkú Kutyapárt.
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 27., 0:23
+    Erősödik a liberális és a zöld frakció az EP-ben
+   </p>
+   <p>
+    brüsszel
+    •
+    A Kantar közvélemény-kutató
+    elkészítette
+    27 tagállam eredményei alapján az új EP-összetételét (zárójelben a 2014-es eredmények):
+   </p>
+   <list>
+    <item>
+     Európai Néppárt (EPP): 178 mandátum (216)
+    </item>
+    <item>
+     Szocialisták és Demokraták (S&amp;D): 152 (185)
+    </item>
+    <item>
+     Liberálisok (ALDE): 108 (69)
+    </item>
+    <item>
+     Zöldek (Greens/EFA): 67 (52)
+    </item>
+    <item>
+     radikális baloldal (GUE/NGL): 39 (52)
+    </item>
+    <item>
+     konzervatívok (ECR): 61 (77)
+    </item>
+    <item>
+     Szabadság és Direkt Demokrácia (EFDD): 53 (42)
+    </item>
+    <item>
+     Nemzetek és Szabadság Európája (ENF): 55 (36)
+    </item>
+    <item>
+     más: 38
+    </item>
+   </list>
+   <p>
+    Ez a modell persze a most leköszönő parlament frakcióival számol, de nem tudjuk még, hogy a jelenlegi szélsőjobbos vagy nacionalista csoportok (három is van) hogyan alakulnak át, egyesülnek vagy szűnnek meg.
+   </p>
+   <p>
+    Czékmán Bendegúz
+    2019. május 27., 0:19
+    A liberális kormánypárt nyert Dániában, hatalmas vereséget szenvedett a szélsőjobb
+   </p>
+   <p>
+    Majdnem végleges feldolgozottság mellett úgy tűnik, hogy az előzetes felmérésekhez és exit pollokhoz képest igencsak máshogy alakultak a választások Dániában: a jobboldali-liberális Venstre nyeri a választásokat. A párt közel hét százalékot javítva az eredményén 23,5 százalékot ért el, és a korábbinál  kettővel több, 4 képviselőt küldhet az Európai Parlamentbe.
+   </p>
+   <p>
+    A szociáldemokraták 21,5 százalékot értek el, ami 2,4 százalékkal jobb, mint a 2014-es eredményük, de továbbra is csak három mandátumuk lesz. A Ventsre mellett a választás másik nagy nyertese a 13 százalékot és a két mandátumot szerző zöld Szocialista Néppárt (SF), illetve a második EP-mandátumát megszerző szocio-liberális Radikale Venstre, aki a Venstre-hoz hasonlóan az ALDE-ben politizál (egyébként ennek a pártnak a korábbi elnöke az Európai Bizottság versenyjogi biztosa, Margrethe Vestager).
+   </p>
+   <p>
+    Válaszd újra a főnököt!- A választást nagy meglepetésre megnyerő Venstre plakátja
+   </p>
+   <p>
+    A választás legnagyobb vesztesei egyértelműen az EU-szkeptikus pártok voltak. A radikális baloldali Folkebevægelsen mod EU ( Emberek mozgalma az EU ellen) elvesztette az egyetlen EP-mandátumát , a GUE/NGL frakcióban mostantól a szintúgy radikálisan baloldali, de mérsékeltebb Enhedslisten-nek (Vörös-Zöld szövetség) lesz képviselője.
+   </p>
+   <p>
+    Ennél sokkal megdöbbentőbb a szélsőjobboldalai, bevándorlásellenes Dán Néppárt (DF) hatalmas választási kudarca. Az öt éve még 26 százalék fölötti eredménnyel az első helyen végző DF közel 16 százalékot veszített a támogatottságából, a 4 EP-képviselőjéből elvesztett hármat és még az egyébként kispártnak számító SF is megelőzte őt. A Dán Néppárt rossz eredménye többek között annak tudható be, hogy a Mette Frederiksen vezette Szociáldemokraták erősen jobbratolódtak a bevándorlás kérdésében, ezzel pedig sok szavazót tudtak elvinni a migrációt ellenző kampányukkal négy éve az országgyűlési választásokon a második helyet elérő szélsőjobbtól.
+   </p>
+   <p>
+    Az EP-választások eredménye jelentősen átrajzolja az erőviszonyokat a 10 nap múlva esedékes parlamenti választások előtt. A legtöbben már előre leírták a szélsőjobb támogatásával kormányzó Lars Løkke Rasmussen Venstre-jét és mindenki nagyarányú baloldali eleőretörést jósolt. A DF meggyengülése miatt még mindig a baloldalnak van jobb esélye kormányt alakítani, ám a bevándorlást szigorítani kívánó Mette Frederiksen szociáldemokrata miniszterelnök-jelöltnek valószínűleg sok tekintetben át kell gondolnia a stratégiáját. Az európai parlamenti választások megmutatták, hogy a szigorúbb migrációs politika valóban segíthet a szélsőjobboldalt támogatók megnyeresében, ám ahogy a menekültekkel szolidárisabb SF vagy Radikale Venstre erősödése mutatja, sok szavazót inkább más baloldali pártok felé orientál. És több potenciális koalíciós partnere előre leszögezte, hogy nem fogják magától értetődően támogatni Frederiksen-t, elvárják, hogy baloldalibb álláspontot képviseljen a bevándorlás kérdésében.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 27., 0:13
+    Thürmer: a baloldal megszűnt a magyar politikai életben
+   </p>
+   <p>
+    Budapest
+    ,
+    Munkáspárt eredményváró
+    •
+   </p>
+   <p rend="head">
+    Thürmer Gyula, a Munkáspárt elnöke sikerként értékelte pártja 0,42 százalékos eredményét.
+   </p>
+   <p>
+    A párt eredményváró rendezvényén elmondta, az országgyűlési választásokhoz képest még növekedni is tudtak, miközben európai szövetségeseik meg tudták tartani pozícióikat.
+   </p>
+   <p>
+    A „nemzeti és baloldali” öndefiníciót használó párt stratégiai helyzete nem változott az EP-választások azt ugyanakkor határozott sikerként könyveli el, hogy sikerült listát állítaniuk, így elérték céljukat.
+   </p>
+   <p>
+    Thürmer azt is elmondta,
+   </p>
+   <p>
+    „A baloldal megszűnt létezni a magyar politikai életben”
+   </p>
+   <p>
+    – hozzátéve, a DK nem baloldali, hanem liberális párt
+   </p>
+   <p rend="head">
+    így a Munkáspárt maradt az egyetlen jelentős baloldali párt a magyar politikai színtéren.
+   </p>
+   <p>
+    Thürmer – aki az elmúlt időszakban egyre inkább magáévá teszi a Fidesz egyes agendáit – kifejtette, a 21 magyar képviselő feladatának látja, hogy védjék az ország szuverenitását és küzdjenek az EU-s migrációs politika ellen.
+   </p>
+   <p>
+    Mérce
+    2019. május 27., 0:13
+    Kutyapárt: „nekünk oké az eredmény”
+   </p>
+   <p>
+    Az MTI-nek nyilatkozó Kovács Gergely, az Magyar Kétfarkú Kutya Párt elnöke a 2,63%-os eredményt úgy értelmezte, hogy ez olyan jelzés, ami azt sugallja, hogy van értelme annak, amit csinálnak. Az elnök némi meglepetésre arról beszélt, hogy sajnálja, hogy az LMP-t még ők is megverték, mert neki tetszett a párt kampánya.
+   </p>
+   <p>
+    Kovács úgy összegezte a választást, hogy:
+   </p>
+   <p>
+    „nekünk oké az eredmény”
+   </p>
+   <p>
+    Természetesen viccelődött is egy keveset, ha már az MKKP vicces pártnak titulálja magát, hiszen azt mondta:
+   </p>
+   <p>
+    „Elegünk van abból, hogy a magyar embereknek az Európa Parlament mondja meg, hogy ki jusson be az Európai Parlamentbe”
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 27., 0:10
+    Az EU egészében a választók több mint fele voksolt
+   </p>
+   <p>
+    A végleges hivatalos részvételi arány 50,5 százalék, 25 éve nem volt ilyen magas részvétel európai parlamenti választásokon.
+   </p>
+   <p>
+    Csengel Karina
+    2019. május 26., 23:55
+    Nagy az öröm a Momentumnál
+   </p>
+   <p>
+    Fekete-Győr András, a Momentum elnöke a párt igencsak ünnepélyes hangulatú eredményváróján arról beszélt, a Momentum a tavalyi országgyűlési választások óta megtriplázta a szavazói számát, a Momentum lett a harmadik erő a magyar politikában. Az elmúlt hónapokban a Momentum volt az egyetlen párt Magyarországon, ami a magyarok igazi problémáira keresett megoldásokat. Nemcsak kampányolt, cselekedett is.
+   </p>
+   <p rend="head">
+    Alázatosnak kell maradnunk. Még nem nyertünk: még mindig Orbán Viktornak hívják a miniszterelnököt, még mindig korrupt kormánya van Magyarországnak
+   </p>
+   <p>
+    – figyelmeztetett. Az viszont nagyon pozitív, ugyanakkor nagyon nagy felelősség is, hogy egyre többen bíznak a Momentumban.
+   </p>
+   <p>
+    Fekete-Győr gratulált minden ellenzéki pártak, akik erős szembeszéllel nyertek mandátumot az EP-választáson. Köszönetet mondott annak a 330 ezer magyar állampolgárnak, aki a Momentumra szavazott, illetve a Momentum képviselőjelöltjeinek (kiemelten a listavazető Cseh Katalinnak és az őt követő Donáth Annának), a párt tagjainak,  aktivistáinak, ifjúsági szervezetének, a TizenX-nek és Hajnal Miklós kampányfőnöknek.
+   </p>
+   <p>
+    Budapest, 2019. május 26. Cseh Katalin, a Momentum listavezetõje és Fekete-Győr András, a párt elnöke a Momentum eredményváró rendezvényén a fõvárosi Dürer Rendezvényházban az európai parlamenti (EP-) választás napján, 2019. május 26-án. MTI/Illyés Tibor
+   </p>
+   <p>
+    Cseh Katalin szerint szerencsére vannak még olyanok, akiknek van egy álmuk.  Magyarországon rengeteg ember feladta, akik úgy érzik, már nincs értelme elmenni szavazni. Ők azok, akiket meg kell győzni a jövőben.
+   </p>
+   <p>
+    Kell, hogy legyenek álmaink, legyen egy víziónk Magyarországról és Európáról, ahol mindenkinek esélye van a boldogulásra. Bár a Momentum sokszor megkapta azt a kritikát, hogy csak álmodozik, a párt története és sikere őket igazolja. Hamarosan pedig meglátják azt is, milyen az, amikor a Momentum felszólal a magyar parlamentben és milyen az, amikor felszólal Európában.
+   </p>
+   <p rend="head">
+    Ez most egy repedés a rendszer falán, az őszi önkormányzati választásokon pedig kiütjük majd az első téglát.
+   </p>
+   <p>
+    – mondta.
+   </p>
+   <p>
+    Budapest, 2019. május 26. Cseh Katalin, a Momentum EP-listavezetõje (b) és Donáth Anna Júlia, a párt alelnöke, mandátumot szerzõ képviselõk a Momentum Mozgalom eredményváró rendezvényén a Dürer Rendezvényházban az európai parlamenti (EP-) választás napján, 2019. május 26-án. MTI/Illyés Tibor
+   </p>
+   <p>
+    Donáth Anna, a párt második mandátumát megszerző képviselője szerint
+   </p>
+   <p rend="head">
+    az, ami most történik, nem a Momentum sikere, hanem azé a több mint 300 ezer emberé, aki azt mondta, bízik bennük, és bízik abban, hogy két fiatal nő is el tud érni eredményt.
+   </p>
+   <p>
+    Donáth szerint a mai eredmény egy visszajelzés a társadalom részéről, „hogy valamit jól csinálunk.”
+   </p>
+   <p>
+    Szerinte nem volt felesleges az elmúlt két év: kemény munkával el lehet érni embereket, van igény arra, hogy valami újat kapjanak az emberek. De még nincs vége:
+   </p>
+   <p rend="head">
+    Tízszer ilyen keményen kell dolgoznunk holnaptól kezdve
+   </p>
+   <p>
+    – mondta. Legyen végre egy olyan választás, melynek a végén tízmillió ember lesz boldog és el tudja fogadni az eredményt, legyen az bármi is.
+   </p>
+   <p>
+    Donáth mindenkinek üzeni:
+   </p>
+   <p rend="head">
+    gyertek, csináljátok velünk, gyertek még többen! Ez a közösség mindenkit befogad, aki a kezébe akarja venni a sorsát és cselekedni akar.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 26., 23:51
+    Vágó: az EP-be jutott pártok a nagyvállalatok rendszerét támogatják
+   </p>
+   <p>
+    Budapest
+    ,
+    lmp eredményváró
+    •
+    Az LMP EP-listavezetője, Vágó Gábor is nyilatkozott az eredmények nyilvánosságra hozatala után. Vágó elmondta, amennyiben visszatérünk a kilencvenes évek neoliberális agendáihoz, a NER-t betonozzuk be.
+   </p>
+   <p rend="head">
+    Emlékeztetett, Európában mindenhol törnek előre a zöldpártok, az LMP, az MSZP-P és a Jobbik eredménye pedig a 2018-as fiaskóra vezethető vissza.
+   </p>
+   <p>
+    „2018-ban nem sikerült leváltani a NER-t, pedig mindenki azt ígérte, mindenki miniszterelnök-jelöltet állított, és valójában csak egymással foglalkoztak az ellenzéki pártok, és nem azzal, hogy érdemi alternatívát nyújtsanak.”
+   </p>
+   <p>
+    Elmondta, véleménye szerint a választók most új pártoknak adtak lehetőséget, melyek azonban nem feltétlen jobbak –
+   </p>
+   <p rend="head">
+    hisz nem rendszerkritikusak, továbbra is a nagyvállalatok által dominált gazdasági rendszert erősítik,
+   </p>
+   <p>
+    melyek tönkreteszik a Földet, az emberiség élőhelyét.
+   </p>
+   <p>
+    Vágó kifejtette, véleménye szerint az LMP kampányának egyetlen sikere az volt, hogy bevitték a közbeszédbe a klímaváltozást, és olyan témává tették, melyet átvettek azon pártok is, melyek programjában korábban nem szerepelt.
+   </p>
+   <p>
+    Az LMP volt EP-listavezetője elmondta továbbra is aktív kíván maradni a közéletben és képviselni a zöld értékeket, ezért keresi ennek legmegfelelőbb formáit.
+   </p>
+   <p>
+    Tóth Csaba Tibor
+    2019. május 26., 23:50
+    Meglepetés Csehországban: Andrej Babiš után az EU-kritikus ODS a második
+   </p>
+   <p>
+    prága
+    •
+    Az kevéssé ért bárkit meglepetésként, hogy Andrej Babiš miniszterelnök pártja, az ANO lett a legerősebb párt az EP-választásokon, a végleges, közzétett eredmények szerint 6 helyet szereztek a 21-ből.
+   </p>
+   <p rend="head">
+    A második viszont az ezek szerint jócskán alulmért euroszkeptikus jobboldali ellenzéki párt, az ODS lett, ők 4 helyet szereztek. Az ODS vezetője, az Orbánnal is jó viszonyt ápoló volt cseh miniszterelnök Václav Klaus.
+   </p>
+   <p>
+    Az előzetesen második helyre mért, EU-párti, liberális Kalózpárt viszont nem örülhet a végleges eredménynek, ők csupán 3 helyet kapnak majd az új EP-ben.
+   </p>
+   <p>
+    Bejutott még a kereszténydemokrata KDU/ČSL 1 hellyel, miközben az ugyancska Eu-párti, konzervatív TOP09/STAN szövetség a kalózkhoz hasonlóan 3 helyet szerzett.
+   </p>
+   <p>
+    A kormánykoalícióban is helyet foglaló Cseh- és Morvaországi Kommunista Párt egy képviselőt küldhetett be.
+   </p>
+   <p>
+    A folyamatosan süllyedő cseh szociáldemokraták már be sem jutottak az EP-be.
+   </p>
+   <p>
+    Czechia, European Election 2019 result:
+   </p>
+   <p>
+    Seats:
+   </p>
+   <p>
+    ANO-ALDE: 6 (+2) 
+ODS-ECR: 4 (+2) 
+PIRÁTI-*: 3 (+3) 
+STAN+TOP09-EPP: 3 (-1) 
+SPD-ENF: 2 (+2) 
+KDU/ČSL-ENF: 2 (-1) 
+KSČM-LEFT: 1 (-2)
+    #EP2019
+    #Eurovolby
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    May 26, 2019
+   </p>
+   <p>
+    Mérce
+    2019. május 26., 23:47
+    A MSZP szerint szükség van az MSZP-re, és maradnak
+   </p>
+   <p>
+    Az MSZP-Párbeszéd választási kudarcát értékelte MSZP listavezető elnöke, aki talán annál is nagyobb meglepetést okozott a sajtótájékoztatón, mint amekorra meglepetést a közös listán induló pártok által elért eredmény.
+   </p>
+   <p>
+    Tóth Bertalan azzal kezdte a sajtótájékoztatót, hogy a létrejött összefogást nagyon reményteljesnek nevezte, mert azokon a helyeken értek el most jó eredményt az ellenzékiek, ahol már létrejött őszre az ellenzéki összefogás. Ezt az MSZP-Párbeszéd saját sikereként értékelte. Ezután egy még ennél is meglepőbb bejelentést tett:
+   </p>
+   <p>
+    „Az MSZP elnöksége vállalja a felelősséget, és NEM mond le” – mondta Tóth Bertalan
+   </p>
+   <p>
+    Úgy lehetett érzékelni, hogy az MSZP-Párbeszéd kudarcáért az ellenzéki összefogás hiányában látja az igazi okot, de:
+   </p>
+   <p>
+    „Nincs bennük harag egyik ellenzéki párt irányába sem” – tette hozzá „
+   </p>
+   <p>
+    Ezt követően a reményét fejezte ki az MSZP elnöke, hogy a decemberben, januárban megkezdett munka őszre be fog érni. Tóth Bertalan az önkormányzati választásokkal kapcsolatban továbbra is az összefogásban látja az ellenzéki siker kulcsát.
+   </p>
+   <p>
+    „Szükség van az MSZP hálózatára, ahhoz, hogy az ellenzék sikeres legyen az őszi választásokon…küzdeni fogunk,hogy ez az ország felszabaduljon, azon leszünk, hogy a sok millió állampolgár, aki változást akar, megkapja a lehetőséget. Minden erőnket arra koncentráljuk, hogy az önkormányzati választáson fordulatot érjünk el” – mondta Tóth Bertalan
+   </p>
+   <p>
+    Ezt követően Jávor Benedek beszélt, aki sajnálatát fejezte ki, hogy csalódást okoztak a rá szavazóknak. Azonban hozzátette, hogy öröm, hogy Európa-szerte az európai integrációt szorgalmazó erők, a zöldek jó eredményt értek el. Mivel a MSZP-Párbeszéd csupán egy mandátumot szerzett, várhatóan Jávor brüsszeli karrierje véget ért. Igaz, Tóth Bertalan, aki a listát vezeti, a sajtótájékoztatón jelezte, hogy a mandátumot nem veszi át, és majd a választmány dönt az EP-mandátum sorsáról jövő szombaton. Vélhetően nem Jávor Benedek kapja majd ezt a mandátumot, így a politikus sok sikert kívánt a mandátumot szerzett ellenzéki képviselőknek, és reményét fejezte ki, hogy folytatni fogják az általuk megkezdett munkát.
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 26., 23:45
+    Weber: nem dolgozunk együtt azokkal, akik el akarják pusztítani Európát
+   </p>
+   <p>
+    brüsszel
+    •
+    Miután az utolsó választás, az olasz is lezárult, Manfred Weber, az Európai Néppárt csúcsjelöltje Brüsszelből értékelte a választások eredményét. Elmondása szerint újra nagyszerű kampányt folytattak, és hozzájárultak az európai demokrácia fejlődéséhez.
+   </p>
+   <p>
+    „Nincs stabilitás, nincs stabil többség az EPP nélkül” – mondta.
+   </p>
+   <p>
+    Weber arra is ígéretet tett, hogy nem fognak együtt dolgozni olyan politikai erőkkel, melyek Európa elpusztítására törekednek.
+   </p>
+   <p>
+    Az EP legfrissebb mandátumbecslése szerint a néppártiaknak kevesebb képviselőjük lesz az új parlamentben, ám a 178 köré várható mandátumszámmal továbbra is ők maradnak a legnagyobb frakció. 2014 az EPP 216 mandátumot szerzett.
+   </p>
+   <p>
+    Dobsi Viktória
+    2019. május 26., 23:38
+    Végleges: a spanyol szocialisták még a vártnál is nagyobbat nyertek
+   </p>
+   <p>
+    Spanyolország
+    •
+    Az exit-pollokhoz képest még nagyobbat nyert a spanyol szocialista párt (PSOE), így 20 képviselőt küldhet az EP-be, a Néppárt megőrzi második helyét, és biztosan őrzik pozícióikat a baszk és katalán nacionalista erők is (Ahora Repúblicas, CEUS). 94%-os feldolgozottságnál:
+   </p>
+   <p>
+    Forrás: Twitter,
+    El País
+   </p>
+   <p>
+    Diószegi-Horváth Nóra
+    2019. május 26., 23:32
+    Orbán Viktor: Nekünk Brüsszelben is Magyarország lesz az első
+   </p>
+   <p>
+    A Fidesz a hagyományokhoz híven a Bálnánál ünnepelte győzelmét.
+   </p>
+   <p>
+    Beszédet szokás szerint Orbán Viktor miniszterelnök mondott, és egyben köszönetet is mondott mindazoknak,
+   </p>
+   <p>
+    „akik úgy döntöttek, hogy Magyarország maradjon a magyaroké, Európa meg az európaiaké.”
+   </p>
+   <p>
+    A miniszterelnök jelezte, hogy még egy egész éjszakájuk van arra, hogy elemezzék a mai győzelmet, de annyit már most elárult: a mai eredményt egy megbízatásnak tekintik. Orbán szerint három dologgal bízták meg őket a rájuk szavazó választók:
+   </p>
+   <list>
+    <item>
+     „Állítsuk meg egész Európában a bevándorlást
+    </item>
+    <item>
+     Védjük meg a nemzetek Európáját
+    </item>
+    <item>
+     És védjük meg a keresztény kultúrát”
+    </item>
+   </list>
+   <p>
+    Emlékezetes, hogy a Fidesz-KDNP egy olyan EP-programmal készült, amely mindössze 7 pontból áll, és mind a 7 a bevándorlással foglalkozik. Igaz, ez is több, mint amit remélhettünk, a kormánypártok ugyanis nem nagyon törik magukat, hogy programokkal készüljenek a választásokra.
+   </p>
+   <p>
+    Orbán szerint a mai napon az is kiderült, hogy az emberek úgy gondolják: Brüsszelben változásra van szükség. Olyan vezetőkre, akik tisztelik a nemzeteket és büszkék a 2000 éves keresztény kultúrára.
+   </p>
+   <p>
+    „Nekünk Brüsszelben is Magyarország lesz az első” – mondta Orbán.
+   </p>
+   <p>
+    A miniszterelnök kijelentette, hogy együtt fognak működni azokkal, akik a bevándorlást meg akarják állítani. Magyarország egységes – tette még hozzá.
+   </p>
+   <p>
+    Ez megint csak felvet kérdéseket, a Fidesz (bár éppen fel van függesztve) jelenlegi pártcsaládja, az Európai Néppárt ugyanis nem ebbe az irányba tart, korábban viszont többször is felmerült, hogy Orbán Viktor a szélsőjobboldalon szerveződő új frakció felé kacsintgat, amelynek viszont – Matteo Salvinivel az élen – a bevándorlás megállítása a fő témája. Ehhez képest Orbán tegnap ismét arról beszélt, hogy akkor maradnak a Néppártban, ha Magyarország érdekei úgy kívánják. Mai beszéde viszont megint Salviniék felé billen. A következő napok nagy kérdése lehet, hogy a Fidesz marad-e a mostani EP-választás után viszonylag sok mandátumot vesztő Néppártban, vagy tényleg új útra lép.
+   </p>
+   <p>
+    Orbán Viktor természetesen a szokásos frázissal zárta beszédét:
+   </p>
+   <p>
+    „Hajrá Magyarország, hajrá magyarok!”
+   </p>
+   <p>
+    Érdekesség, hogy Trócsányi László, a Fidesz-KDNP EP-listavezetője nem mondott beszédet, az ünneplés a Himnusz eléneklésével zárult.
+   </p>
+   <p>
+    A Fidesz eredményvárójáról készült videónk itt megnézhető:
+   </p>
+   <p>
+    Tóth Csaba Tibor
+    2019. május 26., 23:28
+    Az első részleges adatok szerint Orbán Viktor barátja nyert Szlovéniában
+   </p>
+   <p>
+    ljubljana
+    ,
+    szlovénia
+    •
+    Janez Jansa pártja, az SDS egy éve kezdett bele a Fideszét másoló bevándorlásellenes kampányába, most pedig a családvédelmi akciótervet is magáévá tette, ez sikerrel is járhatott, a választási bizottság első, előzetes, 99,5%-os feldolgozttságú eredményei szerint a tavalyi választást bukó SDS most elsőként futott be az EP-választáson, igaz, csak 26,8%-kal.
+   </p>
+   <p rend="head">
+    A második meglepetésre a szlovén szociáldemokrata párt lett, 18,57%-kal, őket a koalícióban kormányzó, Marian Šarec Listája csak harmadik helyet ért el, 15,61%-kal.
+   </p>
+   <p>
+    Óriási csalódás lehet majd a rendszerkritikus baloldali GUE/NGL frakciónak, hogy Violeta Tomic, a pártcsalád társ-csúcsjelöltjének pártja, a Levica be sem jutott az EP-be.
+   </p>
+   <p>
+    Slovenia 
+Partial results of the State election commission at 11:00 PM CEST
+   </p>
+   <p>
+    SDS-EPP: 26.48% 
+SD-S&amp;D: 18.57 % 
+LMŠ-ALDE: 15.61% 
+NSi-EPP: 11.10% 
+Other parties not enough to get a seat in the EP.
+    #EP2019
+    #EUElections2019
+    #Slovenia
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    May 26, 2019
+   </p>
+   <p>
+    Dobsi Viktória
+    2019. május 26., 23:22
+    Színes kis kockákban a mai eredmények
+   </p>
+   <p>
+    A
+    <hi>
+     Le Monde
+    </hi>
+    infografikus csapata, a Les Décodeurs alkotta ezt az ábrát, amely az egyes országok EO-ben betöltött súlyát is érzékelteti, a pártcsaládok erőviszonyain kívül, az adatokat folyamatosan töltik fel. Most épp így állunk, 395 képviselőhely már biztos:
+   </p>
+   <p>
+    Forrás: Les Décodeurs, Twitter
+   </p>
+   <p>
+    Tóth Csaba Tibor
+    2019. május 26., 23:19
+    Első olasz exit poll: Salvini győzött, az olasz baloldal a második
+   </p>
+   <p>
+    Róma
+    •
+    Kicsit beomlott a koalícióban kormányzó Öt Csillag Mozgalom támogatottsága az olasz EP-választásokon. A TG7 televízió által leadott SWG exit-poll szerint Matteo Salvini szélsőjobboldali Liga pártja elérte első országos győzelmét, 26,5-29% között szereztek szavazatokat.
+   </p>
+   <p rend="head">
+    A második meglepetésre a Nicola Zingaretti alatt továbbra is szenvedő olyasz Demokrata Párt, amely azonban most örülhet annak, hogy ismét második erő lehet az országban, 21-24% közötti szavazattal.
+   </p>
+   <p>
+    Az Opinio exit-pollja ugyancsak ezt a tendenciát erősíti meg. 
+A harmadik a nemrég még 32%-kal választást nyerő, Beppe Grillo által alapított Öt Csillag lett. Silvio Berlusconi egykori miniszterelnök jobboldali Forza Italiája is rossz eredményt ért el, 9-11% között.
+   </p>
+   <p>
+    Giorgia Meloni Orbán-szövetséges, újfasiszta Olaszország Testvérei Pártja 5 és 7% közötti eredménnyel ismét küldhet majd képviselőt Brüsszelbe.
+   </p>
+   <p>
+    A végső részvételi arány 43% volt, amely egy kicsit itt is jobb, mint a 2014-es adat.
+   </p>
+   <p>
+    Italy, SWG exit poll:
+   </p>
+   <p>
+    LEGA-ENF: 27-30% 
+PD-S&amp;D: 22.5-24.5% 
+M5S-EFDD: 21.5-23.5% 
+FI-EPP: 9-11% 
+FdI-ECR: 5-6%
+    #ElezioniEuropee
+    #ElezioniEuropee2019
+    #EP2019
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    May 26, 2019
+   </p>
+   <p>
+    Czékmán Bendegúz
+    2019. május 26., 23:07
+    A szélsőjobb és a zöld-újbaloldali pártok előretörését hozta a belga parlamenti választás
+   </p>
+   <p>
+    Belgium
+    •
+    Az EP-választások eredményeire még várni kell, de a legtöbb szavazókörben már összeszámolták a belga szövetségi választásokra leadott szavazatokat. Ennek alapján elmondható, hogy miközben a hagyományos nagy pártok jelentősen meggyengültek, a szélsőjobboldali, radikális baloldali és zöld pártok nagy sikerként könyvelhetik el az eredményeket.
+   </p>
+   <p>
+    A jelenlegi, a liberális, frankofón Charles Michel miniszterelnök vezette kormánykoalíció pártjai (Mouvement Réformateur,a flamand kereszténydemokraták és Guy Verhofstadt ALDE-vezér pártja az Open Vld) jelentősen meggyengültek, együtt összesen 39 mandátumot szereztek a 150 fős képviselőházban, 13-mal kevesebbet, mint az öt évvel ezelőtti választáson.
+   </p>
+   <p>
+    A kormánykoalíciót 208 januárjában otthagyó, Bart de Wever antwerpeni polgármester vezette, nacionalista N-VA is vesztett a mandátumaiból- 25 képviselőjükkel még mindig nekik lesz a legnagyobb frakciójuk, de ez az eredmény 8 hellyel rosszabb a 2014-esnél. De Wever pártja elől főleg a szélsőjobboldalai Vlaams Belang vett el szavazatokat, akik 18 képviselőhelyet szereztek, és 13 százalékkal országosan a második legnagyobb párttá váltak.
+   </p>
+   <p>
+    Projection à la Chambre à 22h20
+    #Elections2019
+    pic.twitter.com/tOW2Mk4PlT
+   </p>
+   <p>
+    — RTBF info (@RTBFinfo)
+    2019. május 26.
+   </p>
+   <p>
+    A baloldalon jelentős átrendeződés figyelhető meg az erőviszonyokban. A korábbi miniszterelnök Elio Di Rupo Szocialista Pártja (PS) 5 mandátumot vesztett, 18 fős frakcióval fog rendelkezni a szövetségi törvényhozásban. A veterán politikusnak, professzionális álláshalmozónak ( a belga kormány vezetésével párhuzamosan Mons városának polgármesterségét is elvállaló) és kisebbféle stílusikonnak számító Di Rupo valószínűleg jobb eredményre számított, egyes exit pollok a szocialisták nagyarányú győzelmét jósolták.
+   </p>
+   <p>
+    A baloldal sok fontos bástyájában megerősödött a frankofón zöldpárt, az Écolo, amelynek 13 képviselője lesz a törvényhozásban, és a PS mögött kevesebb mint fél százalékkal végezve 17 százalékot ért el a brüsszeli fővárosi régió tartományi választásán (ez több mint 8 százalékos növekedés, és ha hozzávesszük a szintén erősödő flamand Groen 3 százalékos eredményét, akkor megállapítható, hogy a zöldek lettek a legnagyobb erő a fővárosban).
+   </p>
+   <p rend="head">
+    A választás másik nagy nyertese a radikális baloldali belga munkáspárt (PTB-PVDA) amely most először jut be a parlamentbe, ahol rögtön 11 képviselője lesz.
+   </p>
+   <p>
+    A jó eredményt a PTB egyik politikusa, Raoul Hedebouw úgy értékelte, hogy  „a választóknak elegük lett a társadalomellenes politikából”. A PTB a zöldekhez hasonlóan a tavalyi ősszel tartott önkormányzati választásokon is jelentősen növelni tudta a támogatottságát.
+   </p>
+   <p>
+    A mostani eredmények nem könnyítik meg a kormányalakítást, amik Belgiumban amúgy is elég hosszadalmas procedúra- elég csak arra gondolni, hogy az országnak a 2011-es választási patthelyzet után több mint 580 napig nem volt kormánya. Egy tisztán baloldali koalíciónak (ami magba foglalná a PS, a PTB, az Écolo mellett a meggyengülő flamand szocialistákat és a Groent) nem lenne meg a többsége a Képviselőházban, ahogy valószínűleg a jelenlegi kormánykoalíció sem folytathatja a munkát- ráadásul a szoros eredmények miatt kérdéses, hogy ki lehet az ország következő miniszterelnöke.
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 26., 23:05
+    Itt a hivatalos eredmények: nyert a Fidesz, hasított a DK és a Momentum
+   </p>
+   <p>
+    Budapest
+    ,
+    magyarország
+    •
+    Közzétette az EP-választás hivatalos eredményeit a Nemzeti Választási Iroda. 99,9 százalékos feldolgozottságnál így néznek ki az eredmények:
+   </p>
+   <list>
+    <item>
+     Fidesz: 52,14% (13 mandátum)
+    </item>
+    <item>
+     DK: 16,26% (4 mandátum)
+    </item>
+    <item>
+     Momentum 9,92% (2 mandátum)
+    </item>
+    <item>
+     MSZP-Párbeszéd: 6,68% (1 mandátum)
+    </item>
+    <item>
+     Jobbik: 6,44% (1 mandátum)
+    </item>
+    <item>
+     Mi Hazánk: 3,33% (0 mandátum)
+    </item>
+    <item>
+     MKKP: 2,63% (0 mandátum)
+    </item>
+    <item>
+     LMP: 2,19% (0 mandátum)
+    </item>
+    <item>
+     Munkáspárt: 0,42% (0 mandátum)
+    </item>
+   </list>
+   <p>
+    52,14%
+    16,26%
+    9,92%
+    6,68%
+    6,44%
+    Szerzett mandátumot:
+    Fidesz
+    :
+    13
+    (52,14%)
+    DK
+    :
+    4
+    (16,26%)
+    Momentum
+    :
+    2
+    (9,92%)
+    MSZP-P
+    :
+    1
+    (6,68%)
+    Jobbik
+    :
+    1
+    (6,44%)
+    Nem szerzett mandátumot:
+    Mi Hazánk
+    :
+    3,33%
+    MKKP
+    :
+    2,63%
+    LMP
+    :
+    2,19%
+   </p>
+   <p>
+    A részvételi arány 43,36 százalék volt.
+   </p>
+   <p>
+    Mérce
+    2019. május 26., 22:59
+    Hadházy:  „Az igazság és a demokrácia veszített”
+   </p>
+   <p>
+    Szél Bernadett és Hadházy Ákos az európai parlamenti választás estéjét a Nemzeti Választási Irodában töltötték, ahol a választások tisztasága felett próbáltak őrködni. A LMP-t elhagyó független képviselők közül először Hadházy Ákos reagált a Facebook-oldalán a választás eredményeire.
+   </p>
+   <p>
+    A végeredmény minden papírformát felborít, és valójában a Fidesz egy mandátumot veszíteni fog az öt évvel ezelőttihez képest, de Hadházy az európai parlamenti választásokat ellenzéki bukásnak fogja fel.
+   </p>
+   <p>
+    „az igazság és a demokrácia veszített a hazug és aljas heccpropagandával szemben” – írta a politikus a Facebookon.
+   </p>
+   <p>
+    Hadházy szerint az ellenzék hibás abban, hogy feladta a közmédiáért decemberben elkezdett harcot.
+   </p>
+   <p>
+    „A nagyobb baj, hogy néhány kivételtől eltekintve többségük meg sem próbált ez ellen tenni. Emiatt ez az eredmény várható volt. ” – latolgatta az eredmény okait Hadházy
+   </p>
+   <p>
+    A politikus figyelmeztetett rá, hogy nem lehet elfogadni a kormány játékszabályait, mert ez egyben azt is jelenti, hogy elfogadják, hogy mindig a kormány fog győzni.
+   </p>
+   <p>
+    „El kell végezni a házi feladatot: Mozogni kell, szerveződni kell, szervezet kell! Harag és valódi elszántság kell! Program, sőt, ennél több, valódi alternatíva kell!” – fogalmazta meg a tennivalókat a politikus
+   </p>
+   <p>
+    Egy korábbi posztjában Hadházy kifejtette, hogy a kormánypropaganda miatt csalásnak tartja ezt a választás is.
+   </p>
+   <p>
+    Lebanov Barbara
+    2019. május 26., 22:55
+    Finnországban hivatalosan is elbuktak a bevándorlásellenes euroszkeptikusok
+   </p>
+   <p>
+    Finnország
+    •
+    Finnországban megszületett a 2019-es európai parlamenti választások első hivatalos eredménye:
+   </p>
+   <list>
+    <item>
+     A jobbközép-liberális KOK 20,8%-ot szerzett, így a Néppártba 3 képviselőt küld
+    </item>
+    <item>
+     A szociáldemokraták 14,6%-os eredménye 2 képviselővel gazdagítja a Szocialisták és Demokraták Progresszív Szövetségét,
+    </item>
+    <item>
+     A zöldek valószínűleg 2 képviselőt tudnak küldeni a Zöld Frakcióba,
+    </item>
+    <item>
+     A bevándorlásellenes Finnek Pártja 2 mandátumot szerzett,
+    </item>
+    <item>
+     A Finn Baloldali Szövetség 1 mandátumot kapott,
+    </item>
+    <item>
+     Az ALDE frakciójába pedig 3 finn képviselő ülhet majd.
+    </item>
+   </list>
+   <p>
+    Finland, preliminary final results, 100% counted
+   </p>
+   <p>
+    KOK-EPP: 20.8% (-1.8) 
+VIHR-G/EFA: 16.0% (+6.7) 
+SDP-S&amp;D: 14.6% (+2.3) 
+PS-ECR→EAPN: 13.8% (+0.9) 
+KESK-ALDE: 13.5% (-6.2) 
+VAS-LEFT: 6.9% (-2.4) 
+SFP-ALDE: 6.4% (-0.4) 
+KD-EPP: 4.9% (-0.3)
+   </p>
+   <p>
+    +/- vs. 2014 election
+    #EP2019
+    #EUvaalit2019
+    pic.twitter.com/fZ0h2t8pdE
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    2019. május 26.
+   </p>
+   <p>
+    Összességében elmondható az, hogy a szélsőjobboldali, euroszkeptikus Finnek Pártja nagyot bukott a finn parlamenti választásokhoz képest és
+    a
+    hogyan azt korábban is megírtuk
+    ,
+    <hi rend="bold">
+     a svédek többsége a bevándorlásellenes politikusok helyett az európapárti politikai erőkkel szimpatizál
+    </hi>
+    , az abszolút nyertes Néppártba beülő KOK például az elsők között támogatta a Fidesz kizárását a frakciócsaládból.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 26., 22:54
+    Ungár Péter: belső melodrámák jutottak el a választókhoz az LMP üzenetei helyett
+   </p>
+   <p>
+    Budapest
+    ,
+    lmp eredményváró
+    •
+    Ungár Péter, a Lehet Más a Politika országgyűlési képviselője a párt sajtótájékoztatója után elmondta, véleménye szerint a párt csúfos bukásának oka, hogy az elmúlt egy évben a belső melodrámák uralták a pártról szóló híreket, ezek jutottak el a választókhoz.
+   </p>
+   <p>
+    „Eltiltások, eltiltások eltiltásai, folyamatosan ez a belső feszültség volt, amit a választók felé kommunikáltunk, ez pedig csalódottságot okozott a választóknak, és teljesen jogos volt, megérdemeltük ezt a pofont”
+   </p>
+   <p>
+    – mondta Ungár, majd bocsánatot kért azoktól, akiknek csalódást okozott a párt.
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 26., 22:47
+    Újabb mandátumbecslést adott ki az Európai Parlament
+   </p>
+   <p>
+    brüsszel
+    •
+    A
+    Kantar közvélemény-kutató szerint
+    a jelenleg elérhető adatok alapján így néz ki az új EP összetétele. Ez 15 ország becsléseit, a többiekből pedig közvélemény-kutatásokat építették be statisztikai modelljükbe.
+   </p>
+   <p>
+    EPP: 177
+    S&amp;D: 147
+    ALDE: 101
+    ECR: 60
+    GUE-NGL: 42
+    Greens-EFA: 70
+    EFDD: 56
+    ENF: 57
+    NI: 8
+   </p>
+   <p>
+    Ez a modell persze a most leköszönő parlament frakcióival számol, de nem tudjuk még, hogy a jelenlegi szélsőjobbos vagy nacionalista csoportok (három is van) hogyan alakulnak át, egyesülnek, szűnnek meg.
+   </p>
+   <p>
+    Pap Szilárd István
+    2019. május 26., 22:36
+    Az AfD továbbra is erős Kelet-Németországban
+   </p>
+   <p>
+    Németország
+    •
+    Bár a legutolsó Bundestag-választások óta gyengült a szélsőjobboldali, populista Alternatíva Németországért (AfD), de az exit-pollok szerint az egykori NDK területén továbbra is nagyon erősek.
+   </p>
+   <p>
+    Az öt kelet-német régióból kettőben élen végzett a párt, Szászországban és Brandenburgban is megelőzte Merkel CDU-ját – előbbiben 30,1, utóbbiban 22,1 százalékos eredménnyel.
+   </p>
+   <p>
+    Türingiában (23,8%), Szász-Anhaltban (20%) és Mecklenburg-Elő-Pomerániában (19,8%) pedig a második helyen végzett.
+   </p>
+   <p>
+    Tóth Csaba Tibor
+    2019. május 26., 22:31
+    A Brexitesek mellett a Liberális Demokraták a brit EP-választás nagy nyertesei
+   </p>
+   <p>
+    london
+    •
+    Vince Cable veterán politikus „A Brexit egy baromság” című választási programja hozta a legtöbb plusz szavazót. És nem csupán olyan kerületekben, ahol 2016-ban az EU-ban maradás mellett szavaztak, hanem a brexites területeken is.
+   </p>
+   <p rend="head">
+    Ilyenformán Északnyugat-Angliában, és Közép-Angliában is szereztek helyeket, jól mutatva, hogy itt is sikerült energizálni a Brexitet ellenző szavazókat.
+   </p>
+   <p>
+    (
+    The Guardian
+    )
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 26., 22:31
+    Cseh Katalin: azon az úton vagyunk, hogy valódi alternatívát tudjunk képezni
+   </p>
+   <p>
+    Budapest
+    ,
+    momentum eredményváró
+    •
+   </p>
+   <p rend="head">
+    Cseh Katalin, a Momentum listavezetője is beszélgetett tudósítóinkkal a párt eredményváróján.
+   </p>
+   <p>
+    Cseh elmondta, ott vannak Pesten és vidéken is, és most már az emberek megismerik őket,
+   </p>
+   <p>
+    „szerintünk tényleg azon az úton vagyunk, hogy egy valódi alternatívát tudjunk képezni”
+   </p>
+   <p>
+    – mondta a Momentum jelöltje.
+   </p>
+   <p>
+    Azt is kifejtette, hogy miközben sok politikus csak a kampányban merészkedik elő, ők valóban ott voltak az emberek között, ott voltak a közösségekben, meg lehetett őket szólítani.
+   </p>
+   <p rend="head">
+    Cseh elmondta, nem magáért vagy Donáth Annáért, a listán második helyet elfoglaló jelöltért, hanem a Momentumért izgul.
+   </p>
+   <p>
+    Weiler Vilmos
+    2019. május 26., 22:26
+    Emigrálnának és visszasírják az olasz baloldaliak a populista troll Berlusconit – helyszíni beszámoló
+   </p>
+   <p>
+    Olaszország
+    •
+    Ugyan még nem ért véget az európai parlamenti szavazás Olaszországban, a baloldali fiatalok már az emigrációról beszélgetnek, arra az esetre, ha Matteo Salvini Legája nyeri meg a választást és többségbe kerülnek a jobboldali pártok. Ha ugyanis 50% felett teljesítenek a különböző jobboldali pártok, akkor a szélsőjobboldali Lega dobhatja a jelenlegi, mérsékelt koalíciós partnerét, a rendszerkritikus-populista 5 Csillagos Mozgalmat és új választások után jobboldali szövetségeseivel átveheti az ország vezetését.
+   </p>
+   <p>
+    Matteo Salvini
+   </p>
+   <p>
+    Ezek között a leendő szövetségesek között pedig ott van a mérsékelt jobboldali Silvio Berlusconi, de vannak nála sokkal rosszabbak is: a szélsőségesen nacionalista, fasiszta múltra pozitívumként emlékező Itália Fivérei egyre erősödik, s nyíltan is Salvini miniszterelnökségét támogatja. Ekkor pedig még mindig nem beszéltünk a keményvonalas neofasiszta-neonáci Casa Pound és Forza Nuova pártokról.
+   </p>
+   <p>
+    A jelenlegi közvélemény-kutatások alapján a Lega 30% körüli eredményre számíthat, jobboldali szövetségeseivel együtt pedig 45-50% közé mérik őket. Ezt tetézi, hogy a részvételi adatok alapján az őket támogató régiókban (azon belül is főleg a legnagyobb régióban, Lombardiában) mennek el a legtöbben szavazni.
+   </p>
+   <p>
+    Ahogy közeledik az urnazárás, úgy nő a feszültség a fiatalok között és így is kerül szóba egyre gyakrabban, hogy még a homofób viccekkel és a maffiával ápolt kapcsolataival hencegő populista jobboldali miniszterelnök, Berlusconi is jobb volt az új jobboldalnál. Mert, bár Berlusconi híresen korrupt volt és sokat megtett az olasz jóléti állam leépítésért, legalább mindig elhalkította a szélsőjobbot és soha nem engedte fontos pozícióba az igazán szélsőséges elemeket. Amióta azonban Salvini lett a belügyminiszter és ő is vette át a jobboldal vezetését, azóta napról napra lett egyre rasszistább az olasz társadalom, s ennek megfelelően is romlott egyre a közhangulat az elmúlt másfél évben.
+   </p>
+   <p>
+    És ahogy ülünk az olasz fiatalokkal az európai eredményeket nézve, s feszülten várjuk, hogy az öreg Itália is befejezze a voksolást, ők egymás után szívják el a cigarettáikat, én pedig írom a Mérce nemzetközi közvetítését, ők arról beszélnek, hogy ha Salvini nyer, akkor végleg elhagyják az országot, én pedig pontosan átérzem, hogy mit gondolnak, és csak mosolyogva gépelek a laptopon.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 26., 22:15
+    Jávor: nem látom, milyen politikai út vár rám ezután
+   </p>
+   <p>
+    Budapest
+    ,
+    mszp-p eredményváró
+    •
+    Jávor Benedeket, az MSZP-Párbeszéd közös listájának negyedik helyén álló, párbeszédesek közül a listán legelöl elhelyezkedő jelölt nyilatkozott a sajtónak a párt lesújtó választási veresége után.
+   </p>
+   <p rend="head">
+    A politikus elmondta, nem látja, hogy milyen politikai út várhatna rá a mai eredmények után,
+   </p>
+   <p>
+    ugyanakkor az értékein nem kíván változtatni a jövőben sem.
+   </p>
+   <p>
+    Jávor elmondta, nem tudja, milyen lépések várhatók a párt tisztségviselői részéről, a tagságnak kell eldöntenie, lemondanak-e, vagy sem. A politikus elmondta,
+   </p>
+   <p>
+    „nagyon sajnálatosnak és szomorúnak tartom”
+   </p>
+   <p>
+    hogy nem jutott be zöld politikus Magyarországról az Európai Parlamentbe, utalva arra, hogy Vágó Gábor és az LMP megsemmisítő vereséget szenvedett a választáson, pedig örült volna, ha együtt tudnak küzdeni Brüsszelben
+   </p>
+   <p>
+    Azt azonban örömmel nyugtázta, hogy általánosságban a baloldali és zöld erők győzedelmeskedtek Európa-szerte, a zöld frakciónak pedig a nemzetközi siker után immár több, mint hetven tagja is lehet az EP-ben.
+   </p>
+   <p rend="head">
+    Az MSZP-vel való együttműködéssel kapcsolatban elmondta, a döntés pillanatában jó ötletnek tűnt, az eredmények azonban ezt nem igazolták.
+   </p>
+   <p>
+    Jávor kifejtette, a DK is erősen baloldali programmal kampányolt, ami némiképp váratlan volt a párttól, és reménykedik hogy továbbra is képviselni fogja a baloldali értékeket, azonban probléma, hogy Magyarországról nem megy zöld jelölt – ez pedig azt jelenti, hogy a zöld politikát a magyar választók hátrébb sorolták.
+   </p>
+   <p>
+    Mindazonáltal értékeli, hogy rekord magas volt a részvétel, véleménye szerint mindig örömteli, mikor egy választáson sokan vesznek részt, mert a megválasztott képviselők nagyobb legitimitással végezhetik munkájukat.
+   </p>
+   <p>
+    Jámbor András
+    2019. május 26., 22:04
+    Nem sokat javít a Fidesz 5 évvel ezelőtthöz képest
+   </p>
+   <p>
+    Az MTI írja, a Magyar Nemzet értesülései alapján 98 százalékos feldolgozottságnál 52,3 százalékkal vezet a Fidesz-KDNP az EP-választáson, ami 13 EP-képviselőt jelentene a kormányzó pártoknak Brüsszelben.
+   </p>
+   <p>
+    A magyarnemzet.hu vasárnap esti cikke szerint a Demokratikus Koalíció 16,3 százalékon áll, és így 4 képviselőt juttathatna az Európai Parlamentbe. A Momentumnak 9,7 százalékos eredménnyel két mandátuma lehet, a Jobbik (6,5 százalék) és az MSZP-Párbeszéd (6,6 százalék) pedig 1-1 képviselőt küldhetne az EP-be.
+   </p>
+   <p>
+    5 éve az Európai Parlamenti választásokon a Fidesz 51,48 százalékot szerzett. A választás nagy nyertes a Momentum és a DK, a nyagy vesztese pedig az MSZP, a Párbeszéd a Jobbik és az LMP.
+   </p>
+   <p>
+    52,3%
+    16,3%
+    9,7%
+    6,6%
+    6,5%
+    Szerzett mandátumot:
+    Fidesz
+    :
+    13
+    (52,3%)
+    DK
+    :
+    4
+    (16,3%)
+    Momentum
+    :
+    2
+    (9,7%)
+    MSZP-P
+    :
+    1
+    (6,6%)
+    Jobbik
+    :
+    1
+    (6,5%)
+    Nem szerzett mandátumot:
+    LMP
+    MKKP
+    Mi Hazánk
+    Mérce
+    2019. május 26., 21:58
+    Lemondott az LMP teljes elnöksége
+   </p>
+   <p>
+    Az LMP EP-listáját vezető Vágó Gábor a Facebook-oldalán ismerte el a zöld párt választási kudarcát. A jelölt elmondta, hogy becsülettel küzdöttek a kampányban. A bőven 5% alatt maradó választási eredmény okaként a 2018-as választási vereséget jelölte meg, illetve azt, hogy bár az európai parlamenti választásokon a zöldek jó eredményeket értek el, az LMP-nek itthon nem volt meg a hitelessége.
+   </p>
+   <p>
+    A sajótájékoztatón bejelentették, hogy az LMP teljes elnöksége lemond a választási kudarc után.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2019. május 26., 21:51
+    Szanyi: „jelentős” következményei lesznek a rossz eredményeknek
+   </p>
+   <p>
+    Budapest
+    ,
+    mszp-p eredményváró
+    •
+    Szanyi Tibor, az MSZP-Párbeszéd közös lista harmadik helyezettje – aki, tekintve hogy a lista első helyén álló Tóth Bertalan nem fogja átvenni mandátumát, de facto a második – nyilatkozott helyszíni tudósítónknak pártszövetség eredményváró rendezvényén.
+   </p>
+   <p rend="head">
+    A jelölt elmondta, nem gondolná, hogy valóban 7-8 százalék, vagy annál is alacsonyabb eredményt érnének el – ahogy az a szavazókörökből érkező információkból kiderül.
+   </p>
+   <p>
+    „Szívem szerint megvárnám az eredményt ezzel”
+   </p>
+   <p>
+    – mármint a latolgatással, mondta az MSZP-s politikus.
+   </p>
+   <p>
+    Szanyi elmondta, a párton belül egyetértés volt abban, hogy szociális agendával kell menni, az egyéb feladatok pedig jól meghatározva le vannak osztva, mindenki végzi a maga dolgát.
+   </p>
+   <p>
+    Amennyiben azonban valóban olyan rossz eredmények születnek a párt szempontjából a választáson, amilyenek most látszanak,
+   </p>
+   <p>
+    „annak nem tud más lenni, mint jelentős következménye”.
+   </p>
+   <p>
+    Mérce
+    2019. május 26., 21:50
+    Puzsért nem érdekli az LMP összeomlása
+   </p>
+   <p>
+    A HVG megkérdezte a főpolgármesteri székre aspiráló Puzsér Róbertet, hogy mit szól az eddig fő támogatójának látszó
+    LMP választási kudarcához
+    , mire a következő, rövid, de annál élesebb választ adta:
+   </p>
+   <p>
+    „mi közöm nekem ahhoz, hogy most ők épp összeomlanak?!”
+   </p>
+   <p>
+    Puzsér kifejtette, hogy eddig sem kalkulált az LMP-vel, hiszen valójában a párt áll be mögé és nem fordítva. Bárkinek örül, aki csatlakozik a programjához, nyilatkozta a főpolgármester-jelölt médiaszemélyiség.
+   </p>
+   <p>
+    Csengel Karina
+    2019. május 26., 21:45
+    88%-os feldolgozottság: a Fidesz egy mandátumot vesztett, a Momentum egyet nyert
+   </p>
+   <p>
+    A Magyar Nemzet értesülései szerint 88 százalékos feldolgozottságnál 53 százalékkal vezet a Fidesz-KDNP, ami 13 EP-képviselőt jelentene a kormányzópártoknak.
+   </p>
+   <p>
+    Második helyen áll 16 százalékkal, vagyis 4 mandátummal a Demokratikus Koalíció,    utána következik a 9 százalékos Momentum 2 mandátummal, majd a 7 százalékos Jobbik és az MSZP-Párbeszéd 1-1 mandátummal.
+   </p>
+   <p>
+    A korábbi, 36 százalékos feldolgozottsághoz képest tehát úgy fest, a Fidesz egy mandátumot vesztett, a Momentum pedig nyert még egyet.
+   </p>
+   <p>
+    Helyszíni tudósítónk a Momentum eredményváróján hatalmas üdvrivalgásnak volt szem- és fültanúja:
+   </p>
+   <p>
+    Lebanov Barbara
+    2019. május 26., 21:42
+    A svédek többsége nem kér a Fidesz-KDNP-ből
+   </p>
+   <p>
+    Svédország
+    •
+    Svédország kampánya meglehetősen izgalmasra sikeredett a 2018-as parlamenti, önkormányzati és regionális választásaik után: ismét a kormányzó szociáldemokraták kapták a legtöbb szavazatot, és megalakult a Stefan Lövfen vezette baloldali kormány. A mostani alkalommal is őket támogatta a legtöbb svéd választó: 25%-kal 5 mandátumra esélyesek.
+   </p>
+   <p>
+    Lövfen egyébként többször is bírálta a magyar kormányt, szerinte „Nem tartható tovább, ahogy Magyarország kezeli a migrációt”, és többször is hangot adott annak, hogy Magyarország nem teljesíti EU-s kötelezettségeit, miközben az EU kohéziós politikájának a legnagyobb nyertese.
+   </p>
+   <p>
+    Löfven azt akarja, hogy a következő EU-s költségvetésben, vagyis 2020-tól, legyenek komoly pénzügyi következményei az ilyen viselkedésnek, szerinte a magyar kormány nem kaphat megint olyan sok pénzt, mint az elmúlt hét évben. Szijjártó aztán ezen teljesen felháborodott és
+    visszaszólt a svéd miniszterelnöknek
+    , majd
+    bekérették Svédország budapesti nagykövetét
+    .
+   </p>
+   <p>
+    A legfrissebb exit-poll szerint a szociáldemokratákat a konzervatív pártok követik a szavazatok 18 százalékával; ők voltak azok, akik benyújtották az indítványt a Fidesz kizárásáról a Néppártban, tehát a svéd közbeszédben meglehetősen nagy konszenzus van a baloldal és a jobbközép pártok között Orbán Viktor és a Fidesz megítélésében.
+   </p>
+   <p>
+    A bevándorlásellenes Svéd Demokraták 17%-ot értek el, akiknek jelenlegi EP-képviselőjük, Kristina Winberg azt állította a kampányfinisben, hogy képviselőtársa, Peter Lundgren zaklatott egy nőt pártrendezvényükön. Amire Lundgren
+    annyit válaszol
+    t, hogy részeg volt és tényleg hozzáért a nő melléhez, de nem volt semmilyen további szándéka.
+   </p>
+   <p>
+    Sweden, SVT exit poll:
+   </p>
+   <p>
+    S-S&amp;D: 25% (+1) 
+M-EPP: 18% (+4) 
+SD-ECR: 17% (+7) 
+C-ALDE: 10% (+5) 
+MP-G/EFA: 10% (-5) 
+KD-EPP: 8% (+2) 
+V-LEFT: 6% 
+L-ALDE: 6% (-4) 
+F!-S&amp;D: 1% (-4)
+    #EP2019
+    #EUElections2019
+    #EUVal2019
+    #svpol
+    pic.twitter.com/eQmveWuRDO
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    2019. május 26.
+   </p>
+   <p>
+    <hi rend="bold">
+     A 20 helyből többségében azok a pártok szereztek mandátumot, akik kampányuk alatt konzekvensen elítélték a szélsőjobboldali euroszkeptikusokat, és többször is konfrontálódtak már Orbán Viktorral.
+    </hi>
+   </p>
+   <p>
+    Czékmán Bendegúz
+    2019. május 26., 21:41
+    Itt vannak az első reakciók a francia eredményekre
+   </p>
+   <p>
+    Jelenleg úgy tűnik, hogy akárcsak öt éve, idén is az első helyen végez a szélsőjobb Franciaországban. Marine Le Pen pártja, a Rassemblement national (Nemzeti tömörülés) néhány százalékkal vezet az Emmanuel Macron pártja és szövetségesei Reneszánsz nevű listája előtt. A 2017-es elnökválasztáson második helyet elérő politikus mégis a Nemzetgyűlés feloszlatást követeli, mivel szerinte az már nem képviseli többé a nép véleményét.
+   </p>
+   <p>
+    Le Penen kívül több francia politikus is értékelte az eredményeket. Macron elnök azt mondta, hogy sajnálja, hogy nem az ő pártja áll az első helyen, de szerinte ez az eredmény „nem vereség”.
+   </p>
+   <p>
+    Az államfő kihangsúlyozta, hogy a 2017-es elnökválasztás óta ez volt az első országos megmérettetés, amit ráadásul az elmúlt fél évben a sárgamellényesek tüntetései miatt kialakult politikai krízis közepette tartottak meg. Macron úgy véli, hogy
+   </p>
+   <p rend="head">
+    a mai EP-választás eredménye rámutat arra, hogy a progresszívek és nacionalisták közötti megosztottság tovább növekszik. Illetve arra, hogy „a 2017-es elnökválasztás eredménye nem véletlen volt.”
+   </p>
+   <p>
+    A zöldek várható sikerét az elnök úgy kommentálta, hogy az eredmény arról tanúskodik, hogy a franciák számára mennyire fontos ügy a környezetvédelem.
+   </p>
+   <p>
+    A 2014-es eredményét (lévén akkor még a kommunistákkal együtt indult) tovább rontó, 7 százalékot elérő radikális baloldali La France insoumise elnöke, Jean Luc Mélenchon szerint a szélsőjobb újbóli győzelme és az alacsony részvétel azt mutatja, hogy tovább mélyül a Franciaországot sújtó társadalmi-politikai válság. Mélenchon szerint „Macron úgy tűnik, elvesztette ezt a meccset” és az eredmények „semmilyen pozitív fejleményről sem tanúskodnak”.
+   </p>
+   <p>
+    A nagyon csúful kikapó Szocialisták listavezetője, az újságíróból lett politikus Raphaël Glucksmann úgy értékelte az eredményeket, hogy a „a baloldal nem halt meg”, és „van remény”. Mindezt azután mondta, hogy jelenleg úgy néz ki, a közvélemény-kutatások által mért öt százalékoz képest egy kicsit jobban teljesítenek, és 7 százalékot érnek el. Egyébként a PS 7 évvel ezelőtt 51 százalékot és 18 millió szavazatot szerzett az elnökválasztáson…
+   </p>
+   <p>
+    Értékelte a helyzetet Edouard Philippe miniszterelnök is, aki szerint az EP-választások a legutóbbi elnökválasztás első fordulójának dinamikáját erősítették még. Philippe (akinek egyes források szerint veszélyben a pozíciója, mert elképzelhető, hogy a választások után kormányátalakítás fog történni) úgy véli, a régi bal-jobb felosztottságot felváltotta egy új, a nacionalista-progresszív szembenállás, amit mi sem példáz jobban, mint hogy a Franciaországot az elmúlt ötven évben felváltva kormányzó mindkét párt kevesebb mint 10 százalékot ért el.
+   </p>
+   <p>
+    Korábbi hírek betöltése
+   </p>
+  </body>
+ </text>
+</TEI>

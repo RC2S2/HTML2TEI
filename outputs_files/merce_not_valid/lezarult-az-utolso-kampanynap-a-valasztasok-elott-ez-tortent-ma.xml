@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lezárult az utolsó kampánynap a választások előtt – ez történt ma
+    </title>
+    <author>
+     <persName>
+      Varga Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d9aee728-c39a-5645-b637-c33e5b98b187
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Lezárult az utolsó kampánynap a választások előtt – ez történt ma
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varga Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-12T23:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/12/lezarult-az-utolso-kampanynap-a-valasztasok-elott-ez-tortent-ma/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/12/lezarult-az-utolso-kampanynap-a-valasztasok-elott-ez-tortent-ma/
+     </sch:url>
+     <sch:name>
+      Lezárult az utolsó kampánynap a választások előtt – ez történt ma
+     </sch:name>
+     <sch:datePublished>
+      2019-10-12T23:20:00
+     </sch:datePublished>
+     <sch:author>
+      Varga Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d9aee728-c39a-5645-b637-c33e5b98b187">
+     <sch:identifier>
+      urn:uuid:f33f3d73-78d3-48e3-bf6a-701353a65104
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:37.832537
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:50:19.501326
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d9aee728-c39a-5645-b637-c33e5b98b187" when="2021-12-14T15:30:37.832537">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Lezárult az utolsó kampánynap a választások előtt – ez történt ma
+   </head>
+   <p>
+    « Vissza a teljes közvetítéshez
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Mozgalmasan telt a 2019-es önkormányzati választásokat megelőző utolsó nap, a Mérce az eseményekről percről percre közvetítésben számolt – a nap lezárásaként pedig ismételjük át, mi történt szombaton.
+   </p>
+   <p>
+    Reggel
+    nagynyomású mosóval takarították
+    Pikó András józsefvárosi polgármesterjelölt kampányfeliratait önkormányzati alkalmazottak, illetve lezárult a XV. kerületi ellenzéki kampány, többek között
+    Karácsony Gergely és Gyurcsány Ferenc beszédeivel
+    . A rendezvényen az
+    ellenzék egységes támogatásáról biztosította
+    a polgármesterjelölt Németh Angélát.
+   </p>
+   <p>
+    Botka László rövid videóban
+    támogatta
+    Facebookon Karácsony Gergelyt, elmondása szerint Szeged jó példa arra, hogy nem kell fideszesnek lenni ahhoz, hogy egy város jól fejlődjön.
+   </p>
+   <p>
+    Kora délután Karácsony Gergely kutyás Critical Massen vett részt Soproni Tamás terézvárosi polgármesterjelölttel, felhívva ezzel a városvezetés figyelmét a kutyák növekvő jelenlétére a város életében. Soproni Tamás
+    miniinterjúban
+    ismertette a Mércével a terézvárosi zöld terveit.
+   </p>
+   <p>
+    A Szegedi Helyi Választási Bizottság
+    helyt adott
+    Szabó Bálint független szegedi polgármesterjelölt azt illető kifogásának, hogy a helyi Fidesz Szabót a DK jelöltjének nevezte. Szabó ezzel szemben valójában független jelöltként indul. Nem ez az egyetlen hír Szegedről: a szeged.hu értesülései szerint
+    6,5 millió forintot költött
+    a helyi fideszes jelölt Nemesi Pál Facebook-hirdetésekre.
+   </p>
+   <p>
+    Tarlós István
+    rendkívüli sajtótájékoztatón
+    jelentette be, hogy nem vesz részt az estére általa összehívott rendkívüli közgyűlésen, mivel Karácsony Gergely előterjesztése
+    szerinte felesleges és jogszerűtlen
+    . Kitért arra is, hogy továbbra is
+    vállalhatatlannak tartja
+    Borkai Zsoltot.
+   </p>
+   <p>
+    Délután Szentgotthárdon
+    kátyúba ültetett virágot
+    Orbán Viktor és a Közösen Szentgotthárdért Egyesület.
+   </p>
+   <p>
+    Nagyszabású tüntetés
+    volt Győrben Borkai Zsolt ellen, amit
+    nagy rendőri készültség
+    is kísért. A tüntetésen
+    felszólalt Fekete-Győr András
+    is, Borkai Zsolt tevékenységét nem anomáliának, hanem a Fidesz alapvető működésének nevezve. Megígérte, hogy aki a Momentum tagjaként bármennyit lopni mer, az börtönbe kerül.
+   </p>
+   <p>
+    Gyõr, 2019. október 12. Résztvevõk a Tüntetés Borkai Zsolt és a maffiakormányzás ellen címmel meghirdetett rendezvényen a gyõri városháza elõtt 2019. október 12-én. MTI/Krizsán Csaba
+   </p>
+   <p>
+    Tiborcz István, Orbán Viktor veje
+    egymillió forintra perli
+    Karácsony Gergelyt a róla elnevezett Tiborcz-adó miatt, mivel az elnevezést súlyosan sértőnek és megalázónak tartja.
+   </p>
+   <p>
+    Az Ördög Ügyvédje délután Rogán Antalról
+    publikált egy karikatúrát
+    , ezáltal új célpontként nevezte meg őt a majdnem két hete tartó leleplezőkampányában.
+   </p>
+   <p>
+    Pikó András nyolcadik kerületi polgármesterjelölt a II. János Pál pápa téren tartotta kampányzáróját, beszédet mondott
+    rajta kívül
+    Karácsony Gergely
+    is, aki végigjárta a nap folyamán mind a huszonhárom budapesti kerületet. Puzsér Róbert mindeközben
+    kampány standuppal járta a várost
+    .
+   </p>
+   <p>
+    Este
+    kisebb tüntetés
+    volt a Városháza előtt a bentre meghirdetett (
+    és végül meghiúsult
+    ) rendkívüli közgyűléshez kapcsolódóan. Az ellenzéki képviselők
+    rövid beszédeket tartottak
+    a Városháza elhagyása előtt, Karácsony Gergely pedig
+    csatlakozott
+    a Szabad Budapest aktivistáihoz. A rendezvény jó hangulatúan,
+    a Fényes szelek meghallgatásával
+    zárult a Szabad Budapest aktivistái számára, ezzel pedig lezárult az utolsó kampánynap az önkormányzati választások előtt. Holnapi percről percre közvetítésünkben a szavazásról és az eredményekről közvetítünk, tartsatok velünk!
+   </p>
+   <p>
+    « Vissza a teljes közvetítéshez
+   </p>
+  </body>
+ </text>
+</TEI>

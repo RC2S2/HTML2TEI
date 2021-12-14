@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Politico szerint Magyarország adja be a leglassabban az EU-ban az oltásokat, a kormány szerint ez álhír
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     cde52661-949e-5dc4-945c-6eb72a313a66
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Politico szerint Magyarország adja be a leglassabban az EU-ban az oltásokat, a kormány szerint ez álhír
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-10T13:43:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/10/a-politico-szerint-magyarorszag-adja-be-a-leglassabban-az-eu-ban-az-oltasokat-a-kormany-szerint-ez-alhir/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/10/a-politico-szerint-magyarorszag-adja-be-a-leglassabban-az-eu-ban-az-oltasokat-a-kormany-szerint-ez-alhir/
+     </sch:url>
+     <sch:name>
+      A Politico szerint Magyarország adja be a leglassabban az EU-ban az oltásokat, a kormány szerint ez álhír
+     </sch:name>
+     <sch:datePublished>
+      2021-03-10T13:43:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      vakcina
+     </sch:keywords>
+     <sch:keywords>
+      Európai Unió
+     </sch:keywords>
+     <sch:keywords>
+      kovács zoltán
+     </sch:keywords>
+     <sch:keywords>
+      politico
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="cde52661-949e-5dc4-945c-6eb72a313a66">
+     <sch:identifier>
+      urn:uuid:94326758-3b46-44e5-8058-4f4aa4b04fe4
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:33.128973
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:41:45.695925
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="cde52661-949e-5dc4-945c-6eb72a313a66" when="2021-12-14T15:30:33.128973">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Politico szerint Magyarország adja be a leglassabban az EU-ban az oltásokat, a kormány szerint ez álhír
+   </head>
+   <p>
+    A Politico
+    keddi cikke szerint
+    a rendelkezésre álló vakcinaadagot az EU-s tagállamok közül Magyarország adja be a leglassabban. Kovács Zoltán kormányzati kommunikációért felelős államtitkár
+    Twitteren
+    és
+    Facebookon
+    is gyorsan kikelt a lap állításaival szemben, álhírnek és hazugságnak nevezve a cikket.
+   </p>
+   <p>
+    A Politico azt vizsgálta meg, hogy az Európai Bizottság
+    sokat kritizált vakcinabeszerzési gyakorlatán
+    felül mi okozhatja az EU-n belüli oltakozás lassúságát. A lap szerint jelentős tényező a folyamatban a tagállamok saját oltási programjainak a hiányossága, amire a rendelkezésre álló vakcinaadagok kihasználatlansága mutat rá egyértelműen.
+   </p>
+   <p rend="head">
+    Ebben a tekintetben Magyarország konkrétan a lista utolsó helyén áll, február végéig az akkori vakcinakészletünk mindössze 56 százalékát adtuk be.
+   </p>
+   <p>
+    Az EU-s tagállamok teljes vakcinakészletéhez képest az első és második adag beadott oltás aránya február 28-án. / Forrás: Politico.eu
+   </p>
+   <p>
+    Ehhez fontos hozzátenni, hogy február 28. óta könnyen lehet, hogy változott a sorrend: a Politico az Európai Betegségmegelőzési és Járványvédelmi Központ
+    adataira hivatkozva
+    állította össze a fenti listát, amelyek szerint az előző hónap végére összesen 1 695 240 adag vakcina érkezett Magyarországra. A
+    központi tájékoztatás szerint
+    pedig ma reggelre 789 885 fő megkapta valamelyik vakcina első dózisát, 317 906-an pedig már a másodikat is, tehát a március 10-ei állás szerint legalább 1 425 697 adag vakcinát eloltottunk.
+   </p>
+   <p>
+    Kovács Zoltán a Poltico cikkére adott reakciójában kiemelte, hogy Magyarország a második az uniós ranglistán a lakosságarányos átoltottságban: a magyar lakosság 11 százaléka már beoltott, szemben az uniós 6 százalékos átlaggal. Ez az Európai Betegségmegelőzési és Járványvédelmi Központ
+    adatai szerint is így van
+    , a magyar átoltottsági arányt csak a máltai előzi a maga 14,9 százalékával. (Ezek a számok az oltás első adagjára vonatkoznak, a második adag beadásával már többektől lemaradunk.)
+   </p>
+   <p>
+    Viszont míg az államtitkár szerint „a magyar eredmény nyilvánvalóan sokak szemét szúrja Brüsszelben”, és az átoltottsági adatot annak alátámasztására használja fel, hogy a Politico cikke álhír és hazugság, valójában a két szám nem mond egymásnak ellent. A brüsszeli lap ugyanis nem az átoltottságot vizsgálta, csupán az országok vakcinakészletének a február végi felhasználtságát, márpedig a cikk adatai alapján Magyarország a rendelkezésére álló oltások első adagjának csupán a 42,1 százalékát adta be, a második adagjának pedig a 14 százalékát.
+   </p>
+   <p>
+    A magyar átoltottság aránya minden bizonnyal köszönhető a kormány valóban sikeresnek mondható vakcinabeszerzésének, ezt az is alátámasztja, hogy az EU-s tagállamok közül egyedül nálunk van nagyobb adag kínai vakcina készleten – a Politico szerint az egész készletünk 32,4 százalékát teszi ki a Sinovac készítménye.
+   </p>
+   <p rend="head">
+    Az oltások beadásának üteme azonban ennek fényében különösen szomorú, hiszen ezek szerint állhatnánk már sokkal jobban is, ha a kormány jobban meg tudta volna szervezni az oltási programot.
+   </p>
+   <p>
+    Galgóczi Ágnes, a Nemzeti Népegészségügyi Központ (NNK) járványügyi főosztályának vezetője szerdán a Kossuth Rádió Jó reggelt, Magyarország! című műsorában
+    arról beszélt
+    , hogy „ütemesen és jól halad a koronavírus elleni oltás Magyarországon” – ennek kissé ellentmond az, ami a hétvégi AstraZeneca oltások beadása körül zajlott, ahogy számos egyéni történet is.
+   </p>
+   <p>
+    Múlt hétvégén a terv szerint 70 ezer, 18 és 60 év közötti krónikus beteget oltottak volna be AstraZenecával, amihez SMS-en keresztül hívták volna be az embereket. Azonban valahol
+    hiba csúszott a rendszerbe
+    , és olyanok is kaptak üzenetet, akik már korábban megkapták az oltás első adagját. Emiatt aztán a kormány pénteken
+    hivatalosan lemondta
+    a hétvégi oltásokat, ennek ellenére volt, aki megjelent az oltópontokon, és meg is kapta az oltást. Emellett a háziorvosoknak eljuttatott információk és listák is hagynak némi kívánnivalót maguk után, Kunetz Zsombor egészségügyi szakértő például
+    arról számolt be
+    kedd este, hogy miután éjszakába nyúlóan igyekezett megszervezni a kormányhivatal által elküldött listán feltüntetett pácienseinek az oltási időpontjait, másnap reggelre már hívták is, hogy a listán szereplő adatok egy része rossz volt.
+   </p>
+   <p>
+    Az oltási program hiányosságai jelen pillanatban különösen nagy súllyal esnek a latba, mivel a harmadik hullám meredeken felszálló ágában vagyunk. Az operatív törzs szerdai sajtótájékoztatóján Müller Cecília
+    rosszabbnál rosszabb hírekről számolt be
+    : a brit vírusvariáns gyorsabban terjed és súlyosabb megbetegedést okoz, emiatt az elmúlt napokban két olyan harmincas éveiben járó fiatal is elhunyt, akiknek nem volt ismert alapbetegsége. A tisztifőorvos elmondása szerint teljes családok kerülnek súlyos állapotban kórházba, és arra kért mindenkit, hogy minden erőnkkel azon legyünk, hogy ne kerüljünk kórházba.
+   </p>
+   <p>
+    „Minden kontaktust, társadalmi érintkezést, ami nem halaszthatatlan, most halasszunk” – figyelmeztetett Müller.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ezért rossz az, hogy a multik összeszerelő-üzemeinek megy az állami pénz
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     195c602f-d2c6-5e3b-b0d7-7643d3190afc
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Ezért rossz az, hogy a multik összeszerelő-üzemeinek megy az állami pénz
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-10T10:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/10/ezert-rossz-az-hogy-a-multik-osszeszerelo-uzemeinek-megy-az-allami-penz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/10/ezert-rossz-az-hogy-a-multik-osszeszerelo-uzemeinek-megy-az-allami-penz/
+     </sch:url>
+     <sch:name>
+      Ezért rossz az, hogy a multik összeszerelő-üzemeinek megy az állami pénz
+     </sch:name>
+     <sch:datePublished>
+      2019-07-10T10:00:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      munka
+     </sch:keywords>
+     <sch:keywords>
+      ner
+     </sch:keywords>
+     <sch:keywords>
+      multik
+     </sch:keywords>
+     <sch:keywords>
+      állami támogatás
+     </sch:keywords>
+     <sch:keywords>
+      ipar
+     </sch:keywords>
+     <sch:keywords>
+      termelékenység
+     </sch:keywords>
+     <sch:keywords>
+      kiemelt partnerség
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="195c602f-d2c6-5e3b-b0d7-7643d3190afc">
+     <sch:identifier>
+      urn:uuid:9c307c3e-25b2-4e06-a131-d973160e480a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:05.863661
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:41:26.168587
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="195c602f-d2c6-5e3b-b0d7-7643d3190afc" when="2021-12-14T15:31:05.863661">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Ezért rossz az, hogy a multik összeszerelő-üzemeinek megy az állami pénz
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Részletes adatok alapján
+    számolta össze
+    a G7 gazdasági portál, pontosan mit is finanszíroztak a multinacionális cégek által „kiemelt partnerként” kapott állami támogatások. A 24 kiemelt partnercég
+    adatai
+    alapján pedig az elemzés furcsa kettősséget állapított meg.
+   </p>
+   <p>
+    Míg egyszerű mérőszámok figyelembe vételével (adózott eredmény, GDP-növekedés) a kiemelt partnerségi program „sikeresnek” is bemutatható, ha azt nézzük meg, hogy termelékenységben és hozzáadott értékben mit hoztak be a nagy külföldi cégek magyar leányvállalatai az iparba, már sokkal kiábrándítóbb a kép.
+   </p>
+   <p rend="head">
+    A G7 kiemelte, állami partnerprogramok, támogatási rendszerek a legtöbb európai országban léteznek, és általában a globális kapitalizmus ipari gyártási logikája is azt diktálja, hogy ilyen eszközökkel „ösztönözzenek” kormányok nagyon tőkeerős multinacionális cégeket a náluk való megtelepedésre.
+   </p>
+   <p>
+    Ma már egy fogyasztási cikk gyártási folyamata a profitmaximalizálás és a szállítási költségek csökkenése, a logisztika modernizációja miatt átalakult, így például a gépkocsik többségénél is elképzelhető, hogy a gyártás során akár tucatnyi országot és több földrészt is megjárnak, mire autókereskedésekbe kerülnek: minden ország adott leányvállalata más-más gyártási fázisra specialziálódik ugyanis, attól függően, hol mit éri meg belerakni a készülő járműbe.
+   </p>
+   <p>
+    Magyarországon azonban az adatok azt mutatják, hogy nemcsak az autóiparban, de a feldolgozóiparban is nagyjából csakis az olcsó, egyszerű „összeszerelő” fázisokat telepítik ide a külföldi multicégek, így fordulhat az elő, hogy a külföldi tőkéből épült társaságok átlagos termelékenysége 2014 és 2016 között – tehát a támogatások csúcsidőszakában – csupán 3,5%-kal nőtt, míg a magyar tulajdonú cégeké 5,9%-kal. Még nagyobb a kontraszt, ha speciálisan a feldolgozóipart nézzük, itt a külföldi cégek termelékenység 1,5%-kal csökkent, míg a magyar cégeknél 7,5%-kal nőtt meg.
+   </p>
+   <p>
+    Mindez persze nem jelenti azt, hogy a termelékenység jobb lenen a hazai tőke gyáraiban, ez technikai felkészültségük miatt még mindig jobb átlagosan a multiknál, ugyanakkor az adatokból rendkívül látványos, mennyire nem ösztönzött a támogatási rendszer semmiféle magasabb hozzáadott érték-szintet.
+   </p>
+   <p rend="head">
+    A termelékenység-csökkenés fő magyarázata, hogy az alulteljesítő, támogatott multicégeknél (csak 4 nem ilyen a listán) folyamatosan fordultak a legegyszerűbb munkafolyamatok Magyarországon hagyása felé, tehát szinte kizárólag betanított, összeszerelő munkákat hagytak itt.
+   </p>
+   <p>
+    A támogatások persze átmenetileg jót tettek ezeknél a cégeknél a dolgozók bérszínvonalának, ezt nemcsak hogy 2016-ig folyamatosan emelték, de még folyamatosan új dolgozók bevonására is jutott – azonban az elemzés szerint ennek megvolt a böjtje.
+   </p>
+   <p rend="head">
+    A multicégek technikai felkészültsége persze ma is jobb színvonalú, mint a magyaroké, ugyanakkor az látszik, hogy az egy főre jutó tárgyi eszközök és immateriális javak értéke jelentősen csökkent 2014 után, ami ugyancsak a betanított, összeszerelő munkakörök elburjánzására utal.
+   </p>
+   <p>
+    Persze átlagban ekkora támogatási hullám után mind a termelékenység, mind a GDP-hozzájárulás nőtt ezeknél a cégeknél, akik a megtermelt javak egy nagyobb részét még itthon is forgatták vissza, fektették be, ugyanakkor éppen a kiemelt partnerségekkel a cél az lenne, hogy igenis a legnagyobb hozzáadott értéket termelő munkafolyamatok idehozatalára legyen alkalmas, ezt a célt pedig nemhogy nem érte el a támogatások rendszere, hanem arra ösztönözte a külföldi cégeket, hogy egyszerűsítsék le magyarországi gyáraikban a munkafolyamatokat, hogy több jusson minden másra.
+   </p>
+   <p>
+    A magas hozzáadott érték a megfelelő exportérték, így tehát a kereskedelmi mérleg szempontjából is elég fontos lenne, ugyanakkor az állam az elmúlt években egyszerűen leragadt az egyszerű, alacsony hozzáadott értékű, betanított munka támogatásához, amely a G7 szerint a célok tekintetében gyakorlatilag elpazarolt milliárdoknak számít. Megállapítják azt is, hogy ez a fajta vállalati viselkedés arra utal, hogy nincs igazán jó érv a külföldi multik nagy támogatásokkal történt előnybe hozása mellett, hiszen ezzel a termelékenységi mutatókon az állam még rontott is.
+   </p>
+   <p>
+    Ráadásul ez a jelenség szorosan összefügg azokkal a körülményekkel, melyek között 2018 decemberében a kormány végül elfogadta a túlóratörvényt, azaz a rabszolgatörvényt is. Mivel ugyanis a bérnövekedést az első években a támogatásokból finanszírozták, később azonban ennek fenntartási kényszere kiiktatta volna a multiknak előnyös olcsó munkaerő-tényezőt az egyenletből, miközben az ipar folyamatosan növekvő munkaerőhiánnyal nézett szembe egészen 2019 közepéig.
+   </p>
+   <p>
+    Amint azt korábban Palkovics László innovációs- és technológiai miniszter és Szijjártó Péter külügyminiszter
+    már elárulta
+    , éppen a nagy német autógyárak kérésére vették tehát újfent napirendre a rabszolgatörvényt, és ezért is szavazták meg, mintegy stabilizáló erőként a kiemelten támogatott összeszerelő üzemekre épülő ipari szektorban.
+   </p>
+   <p>
+    Egyébként éppen 2018-ban
+    tetőzött
+    eddig a támogatások mértéke: még sohasem kaptak annyit a multinacionális cégek a magyar államtól, mint éppen tavaly.
+   </p>
+  </body>
+ </text>
+</TEI>

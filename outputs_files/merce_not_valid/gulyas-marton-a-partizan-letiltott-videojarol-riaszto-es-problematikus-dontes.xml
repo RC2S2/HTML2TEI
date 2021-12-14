@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gulyás Márton a Partizán letiltott videójáról: „Riasztó és problematikus döntés”
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     080aecdd-4d1f-53d2-bb22-9b69ef6dab90
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Gulyás Márton a Partizán letiltott videójáról: „Riasztó és problematikus döntés”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-08-21T10:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/08/21/gulyas-marton-a-partizan-letiltott-videojarol-riaszto-es-problematikus-dontes/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/08/21/gulyas-marton-a-partizan-letiltott-videojarol-riaszto-es-problematikus-dontes/
+     </sch:url>
+     <sch:name>
+      Gulyás Márton a Partizán letiltott videójáról: „Riasztó és problematikus döntés”
+     </sch:name>
+     <sch:datePublished>
+      2019-08-21T10:00:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Partizán
+     </sch:keywords>
+     <sch:keywords>
+      Gulyás Márton
+     </sch:keywords>
+     <sch:keywords>
+      videó
+     </sch:keywords>
+     <sch:keywords>
+      youtube
+     </sch:keywords>
+     <sch:keywords>
+      Gyula
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="080aecdd-4d1f-53d2-bb22-9b69ef6dab90">
+     <sch:identifier>
+      urn:uuid:dc38538a-d480-4d6e-8c31-2f32eca1c0c8
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.223070
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:43:24.765183
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="080aecdd-4d1f-53d2-bb22-9b69ef6dab90" when="2021-12-14T15:30:52.223070">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Gulyás Márton a Partizán letiltott videójáról: „Riasztó és problematikus döntés”
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Ahogy azt
+    mi is megírtuk vasárnap
+    : exkluzív interjút adott a Partizánnak Galbács Mihály, Gyula volt alpolgármestere, amelyben a helyi városvezetés és a gazdasági érdekkörök összefonódásáról beszélt. Többek közt emígy:
+   </p>
+   <p>
+    „Elég szégyen, hogy Gyulán arról kell beszélni, hogy vannak olyan gazdasági érdekkörök, akik nem tisztességesen végzik a dolgukat, és ehhez asszisztál egy testület, jóhiszeműen vagy félelemből, ezt nem tudom megmondani.”
+   </p>
+   <p>
+    A videó azonban tegnapra elérhetetlenné vált a YouTube-on, méghozzá „harmadik fél keresete miatt”. Amint az a Partizán Facebook-oldalán olvasható, álláspontjuk szerint:
+   </p>
+   <p>
+    „A videó eltávolítása indokolatlan: senki személyiségi jogait nem sértettük meg.”
+   </p>
+   <p>
+    Az ügyben kerestük a videót készítő Gulyás Mártont, aki a Mércének elmondta: a „harmadik fél” bejelentése a Google tájékoztatása szerint arra a részére vonatkozott az anyagnak, amelyben a konkrét családi és baráti kapcsolati hálót tárták fel.
+   </p>
+   <p>
+    A jelenlegi gyulai polgármester, Görgényi Ernő felesége és a Közbeszerzési Bizottság külső tagjának, Csizmadia Imrének a felesége ugyanis testvérek, Csizmadia ráadásul gyermekkori barátja annak a Piskolty Tibornak, aki jelenleg az önkormányzati közbeszerzések zömét megnyeri.
+   </p>
+   <p rend="head">
+    És innentől „furcsává válik a kép” – jegyezi meg a videóban Galbács Mihály.
+   </p>
+   <p>
+    Gulyás Márton szerint személyiségi jogokra hivatkozva jelenthették fel a YouTube-nál a videót, ám álláspontjuk szerint abban politikusok és vállalkozók jelennek meg, akik közszereplőnek minősülnek, maga az ügy pedig kifejezetten számot tarthat közérdeklődésre, arra pedig különösen figyeltek, hogy például a feleségek arcát kitakarják, nevüket pedig ne említsék, így nem látja indokoltnak a videó eltávolítását.
+   </p>
+   <p>
+    Gulyás elmondta:
+    hasonlóképp járt el
+    a YouTube a rablópártokról készített videójukkal kapcsolatban is (amelyről
+    itt írtunk mi bővebben
+    , és amit
+    itt lehet teljes egészében megnézni
+    ), akkor azonban ellenpanaszt nyújtottak be, és a videó visszakerült a YouTube-ra.
+   </p>
+   <p>
+    „Riasztó és egyben problematikus ez a döntés, hiszen súlyos precendenst teremthet, ha hasonló ügyekben így jár el egy világcég. Számunkra különösen fájdalmas, hiszen évek alatt építettük fel a csatornát, és nem szívesen költöztetnénk máshová, erre nem is nagyon lenne jó módszer. Ám ha ebből szokás lesz, akkor az ilyen típusú, oknyomozó anyagaink kerülnek veszélybe, pusztán azért, mert egy algoritmus blokkolja a közszereplők és a közügyek megjelenítését” – mondta Gulyás a Mércének.
+   </p>
+   <p>
+    A „harmadik fél” esetében egyértelműen politikai indokot lát a bejelentés hátterében, „ebben nincs is semmi meglepő, hogy el akarják tüntetni”, álláspontja szerint azonban a gyulai helyzet bőven indokolta, hogy ez a videó megjelenjen, hiszen a politikusok és gazdasági szereplők közti összefonódás mindenképpen számot tarthat a köz érdeklődésére.
+   </p>
+   <p>
+    „Mi kifejezetten figyeltünk arra, hogy minden, a videóban szereplő állításunk megállja a helyét, valótlanságot nem tartalmaz az anyag, hiszen az tény, hogy például rokoni és baráti kapcsolatban állnak a megjelenített felek egymással” – nyilatkozta Gulyás.
+   </p>
+   <p>
+    A múltkori esethez hasonlóan most is nyújtanak be ellenpanaszt, és bíznak benne, hogy a videó nemsokára visszakerül a csatornára.
+   </p>
+   <p>
+    A teljes poszt itt olvasható:
+   </p>
+  </body>
+ </text>
+</TEI>

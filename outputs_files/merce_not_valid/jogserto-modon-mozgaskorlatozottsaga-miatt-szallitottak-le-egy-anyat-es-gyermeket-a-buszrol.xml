@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jogsértő módon, mozgáskorlátozottsága miatt szállítottak le egy anyát és gyermekét a buszról Veszprémben
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     034c1ed7-eace-5cec-88de-eba3da672c53
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Jogsértő módon, mozgáskorlátozottsága miatt szállítottak le egy anyát és gyermekét a buszról Veszprémben
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-23T16:48:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/23/jogserto-modon-mozgaskorlatozottsaga-miatt-szallitottak-le-egy-anyat-es-gyermeket-a-buszrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/23/jogserto-modon-mozgaskorlatozottsaga-miatt-szallitottak-le-egy-anyat-es-gyermeket-a-buszrol/
+     </sch:url>
+     <sch:name>
+      Jogsértő módon, mozgáskorlátozottsága miatt szállítottak le egy anyát és gyermekét a buszról Veszprémben
+     </sch:name>
+     <sch:datePublished>
+      2021-07-23T16:48:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      tömegközlekedés
+     </sch:keywords>
+     <sch:keywords>
+      busz
+     </sch:keywords>
+     <sch:keywords>
+      mozgáskorlátozott
+     </sch:keywords>
+     <sch:keywords>
+      hátrányos megkülönböztetés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="034c1ed7-eace-5cec-88de-eba3da672c53">
+     <sch:identifier>
+      urn:uuid:34a82a55-3a94-4596-8aea-59cf96970c02
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:28.013655
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:49.168062
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="034c1ed7-eace-5cec-88de-eba3da672c53" when="2021-12-14T15:30:28.013655">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Jogsértő módon, mozgáskorlátozottsága miatt szállítottak le egy anyát és gyermekét a buszról Veszprémben
+   </head>
+   <p>
+    Hátrányosan különböztette meg mozgáskorlátozottsága miatt a veszprémi V-Busz Kft. azt a kerekesszékes anyukát, akit diszkriminatív feltételeket támasztva kisgyermekével együtt leszállíttatott egy buszról, ahelyett, hogy az akadálymentes és biztonságos utazást biztosította volna számukra, állapította meg az – immár ombudsman vezette – Egyenlő Bánásmódért Felelős Főigazgatóság (
+    2020-ban még Egyenlő Bánásmód Hatóság
+    ).
+   </p>
+   <p>
+    Mint arról a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (MEOSZ)
+    beszámolt
+    , Szilágyi Adrienn és kétéves kisfia 2020 nyarán a V-Busz Veszprémi Közlekedési Kft. egyik járatával szerettek volna utazni, azonban utazásukat meg sem kezdhették, mert a rendőrség igénybevételével leszállították őket az autóbuszról. A V-Busz mindezt azzal indokolta, hogy a kerekesszékes nőnek nem volt kísérője az utazáshoz, és a gyermekét sem tudta rögzíteni.
+   </p>
+   <p>
+    Míg a busztársaság szerint a kísérőre, illetve a gyermek rögzítésére Adrienn mozgáskorlátozottsága miatt lett volna szükség, a MEOSZ emlékeztet:
+   </p>
+   <p rend="head">
+    hazai és nemzetközi jogszabályok garantálják a fogyatékossággal élő emberek jogát ahhoz, hogy a közlekedési szolgáltatást másokkal egyenlő eséllyel, önállóan vegyék igénybe akkor is, ha egyedül kívánnak utazni, és akkor is, ha a kisgyermeküket is magukkal viszik.
+   </p>
+   <p>
+    Az ügyben a szervezet az Egyenlő Bánásmód Hatósághoz fordult, hangsúlyozva, hogy a hatályos jogszabályok, illetve a busztársaság üzletszabályzata szerint kizárólag magatehetetlen, a szolgáltatás igénybevételére kísérő nélkül nem képes személy, valamint a hat éven aluli gyermek esetében követelhető meg kísérő jelenléte, illetve, hogy kiskorú gyermek rögzítését sem jogszabály, sem az üzletszabályzat nem írja elő.
+   </p>
+   <p>
+    „Nehezményeztük, hogy Szilágyi Adrienntől a mozgáskorlátozottsága miatt olyan többletfeltételek teljesítését várta el a busztársaság, amelyeket más, nem mozgáskorlátozott utastól nem vár el. Jogsértő és elfogadhatatlan, hogy egy kerekesszékkel közlekedő mozgáskorlátozott anyára és gyermekére más, szigorúbb szabályok vonatkozzanak egy közszolgáltatás igénybe vétele során, mint egy nem fogyatékos szülőre és gyermekére”
+   </p>
+   <p>
+    – fogalmaz a MEOSZ.
+   </p>
+   <p>
+    Az érdekvédő szervezet álláspontját osztotta az ombudsman is, aki jogerős szankcióként eltiltotta a V-Buszt a jogsértő magatartás jövőbeni tanúsításától és elrendelte a jogsértésről szóló határozat 30 napra történő nyilvános közzétételét saját, illetve a V-Busz honlapján, továbbá 300 000 forint bírságot is kiszabott a közlekedési társaságra.
+   </p>
+   <p>
+    „Nekünk kerekesszékes embereknek szinte napi szinten harcolnunk kell a diszkrimináció ellen. Az ombudsman döntése rengeteg változást hozhat. Az akadálymentesítés az elsődleges szempont, hogy a mozgáskorlátozott emberek valóban egyenlő eséllyel tudják igénybe venni a közlekedési szolgáltatásokat, ugyanakkor az embereknek is tisztában kell lenniük azzal, hogy hogyan kell a fogyatékos emberekkel viselkedni. Tudatosítani kell bennük, hogy a fogyatékosság nem egyenlő a magatehetetlenséggel, esetemben is ez a fogalmi zavar okozta a diszkriminációt. Elengedhetetlen, hogy a közlekedési társaságok szabályzatában különüljön el a két fogalom, egyértelműsítve, hogy a mozgáskorlátozottság vagy más fogyatékosság nem egyenlő a magatehetetlenséggel”
+   </p>
+   <p>
+    – idézi a MEOSZ az érintett nőt, aki szerint az ombudsman döntése példaértékű.
+   </p>
+   <p>
+    Adrienn esete nem egyedi, a mozgáskorlátozott embereket sokszor éri hátrányos megkülönböztetés, sok esetben pedig maga a szolgáltató vagy a tömegközlekedési eszköz nem teszi lehetővé, hogy komolyabb tervezés és előkészületek nélkül vegyék igénybe a közösségi közlekedést.
+    Mint arról nemrég beszámoltunk
+    , 2020 novemberében a Volánbusz Zrt. is hátrányos megkülönböztetést alkalmazott egy kerekesszékkel közlekedő nővel szemben.
+   </p>
+   <p>
+    A mozgáskorlátozott emberek tömegközlekedéssel kapcsolatos nehézségeiről
+    ebben
+    és
+    ebben
+    a cikkben írunk bővebben.
+   </p>
+  </body>
+ </text>
+</TEI>

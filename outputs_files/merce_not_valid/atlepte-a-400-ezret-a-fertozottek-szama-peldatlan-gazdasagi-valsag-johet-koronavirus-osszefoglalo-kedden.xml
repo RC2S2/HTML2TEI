@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Átlépte a 400 ezret a fertőzöttek száma, példátlan gazdasági válság jöhet – koronavírus összefoglaló kedden
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     169dff13-32f2-5e97-abe1-734abfdd1ce2
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Átlépte a 400 ezret a fertőzöttek száma, példátlan gazdasági válság jöhet – koronavírus összefoglaló kedden
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-24T21:34:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/24/atlepte-a-400-ezret-a-fertozottek-szama-peldatlan-gazdasagi-valsag-johet-koronavirus-osszefoglalo-kedden/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/24/atlepte-a-400-ezret-a-fertozottek-szama-peldatlan-gazdasagi-valsag-johet-koronavirus-osszefoglalo-kedden/
+     </sch:url>
+     <sch:name>
+      Átlépte a 400 ezret a fertőzöttek száma, példátlan gazdasági válság jöhet – koronavírus összefoglaló kedden
+     </sch:name>
+     <sch:datePublished>
+      2020-03-24T21:34:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      koronavírus összefoglaló
+     </sch:keywords>
+     <sch:keywords>
+      gazdasági válság
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="169dff13-32f2-5e97-abe1-734abfdd1ce2">
+     <sch:identifier>
+      urn:uuid:622b93c4-44bd-4aec-b3e9-bfdc9e60e634
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:22.612391
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:04:55.002219
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="169dff13-32f2-5e97-abe1-734abfdd1ce2" when="2021-12-14T15:27:22.612391">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Átlépte a 400 ezret a fertőzöttek száma, példátlan gazdasági válság jöhet – koronavírus összefoglaló kedden
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Március 24-én kedden átlépte a 400 ezret a koronavírussal megfertőzöttek száma a világon: magyar idő szerint este hétkor 407 485 esetről
+    lehetett tudni
+    .
+   </p>
+   <p rend="head">
+    Olaszországban
+    visszafordult
+    az elmúlt két napban bizakodásra okot adó trend, a halálesetek számát tekintve a mai volt a második legsúlyosabb az országban a járvány kezdete óta.
+   </p>
+   <p>
+    743-an haltak meg, míg vasárnap 651, hétfőn pedig 601 halálos áldozatot szedett a vírus. Spanyolországban is
+    súlyosbodott a helyzet
+    , 24 óra alatt 514-gyel ugrott meg a halálesetek száma.
+   </p>
+   <p>
+    Az Egészségügyi Világszervezettől (WHO) kapott információk alapján a Nemzetközi Olimpiai Bizottság (NOB) elnöke és Japán miniszterelnöke
+    úgy döntött
+    , hogy elhalasztják az idei évre tervezett olimpiát. A terv szerint legkésőbb 2021-ben lesznek megtartva a játékok. Az olimpia modernkori történetében még soha nem fordult elő, hogy el kellett volna egyet halasztani, 1916-ban, 1940-ben és 1944-ben történt olyan, hogy egyáltalán nem tartották meg, mindhárom esetben a világháborúk miatt.
+   </p>
+   <p rend="head">
+    A modern gazdaság történetében példátlan recesszióra számíthatunk
+   </p>
+   <p>
+    Az MTI szerint a centrum és a félperiféria jelentős részén komoly gazdasági visszaesést okoz a járvány, Nagy-Britannia gazdasági aktivitásának mérőszáma rekordmélységbe zuhant. Chris Williamson, az IHS Markit üzleti főközgazdásza szerint a vírus terjedésének megfékezését célzó intézkedések várhatóan a brit gazdaság jelentős részét megbénítják a következő hónapokban, és emiatt
+   </p>
+   <p rend="head">
+    egyre valószínűbbnek tűnik egy olyan mélységű recesszió, amilyenre a modern gazdaságtörténetben még nem volt példa.
+   </p>
+   <p>
+    Williamson szerint azonban ez valószínűleg csak a jéghegy csúcsa, és az első negyedévre várható visszaesés mértéke minden bizonnyal eltörpül a második negyedévre valószínűsíthető zuhanás mellett.
+   </p>
+   <p>
+    A francia magánszektor is rekordmértékű visszaesést könyvelhetett el, ráadásul még csak most jön a neheze. A magánvállalatoknál, a feldolgozóiparban és a szolgáltatási szektorban egyaránt voltak leépítések, a feldolgozóipari vállalatok körében erősebb ütemben.
+   </p>
+   <p>
+    A német magánszektor teljesítménye is jelentősen csökkent, 11 éves mélypontot érve el. Az adatokat kommentálva Phil Smith, az IHS Markit főközgazdásza kiemelte: a beszerzésimenedzser-indexek (BMI) példátlan összeomlása jól tükrözi, hogy Németország milyen gyorsan halad a recesszió irányába. A márciusi adatok azt jelzik, hogy a hazai össztermék (GDP) 2 százalékkal csökken az első negyedévben az előzőhöz képest, és a járvány megfékezését célzó intézkedések szélesítése miatt arra kell készülni, hogy a második negyedévben még erősebb lesz a visszaesés.
+   </p>
+   <p>
+    A korábban vártnál több mint kétszer nagyobb, 250 milliárd dolláros bevételkieséssel kell számolnia a légiközlekedési iparágnak a Nemzetközi Légi Szállítási Szövetség (IATA) elemzése szerint, ez csaknem negyven százalékos visszaesés, és a járvány miatti válság után hosszú ideig fog tartani a talpra állás a szervezet szakértői szerint. Európa legnagyobb légitársasága, a fapados Ryanair pedig szinte teljesen leállítja forgalmát, március 25-től csak egy-két járat marad, azok is az áruszállítás és az alapvető ellátás miatt, a felszabaduló repülőgépeket pedig felajánlja kormányok számára, így például külföldön rekedt állampolgáraik hazaszállítására használhatják őket.
+   </p>
+   <p rend="head">
+    Újabb gazdaságvédelmi intézkedések és kilakoltatási moratórium
+   </p>
+   <p>
+    Magyarországon jelenleg 187 fertőzöttet
+    tartanak nyilván
+    és 9 halálesetről tudnak. Az operatív törzs keddi tájékoztatóján kiderült, hogy a kilencedik halott egy fiatal nő, aki több krónikus betegségben is szenvedett, így a kora ellenére a kiemelten veszélyeztetett kategóriába tartozott. 92 ember van kötelező házi karanténban és eddig 6113 tesztet végeztek el.
+   </p>
+   <p>
+    Ma repülőgéppel 86 lélegeztetőgépet, 100 ezer pár kesztyűt, védőruhát és tesztet hoztak Magyarországra Kínából, valamint 3 millió orvosi maszkot. A szállítmányt Orbán Viktor fogadta a Liszt Ferenc-repülőtéren. A jövőben még több ilyen szállítmány is fog érkezni.
+   </p>
+   <p>
+    Budapest, 2020. március 24. Orbán Viktor miniszterelnök üdvözli a Suparna Airlines Kínából érkezett repülõgépének személyzetét a Liszt Ferenc-repülõtéren 2020. március 24-én. A gép több mint 3 millió maszkot, 100 ezer koronavírus-tesztet és 86 lélegeztetõgépet hozott. MTI/Kovács Tamás
+   </p>
+   <p rend="head">
+    A kormány felfüggesztette a végrehajtásokat és a kilakoltatásokat a veszélyhelyzet utáni 15. napig,
+   </p>
+   <p>
+    eddig nem lehet elárverezni sem lakásokat, a kiürítés felől intézkedni is csak ezután lehet, és a lefoglalás tárgyát képező járműveket sem vonják ki a forgalomból. A kormány arról is döntött, hogy meghosszabbítják a családtámogatásokat a veszélyhelyzet lejárta utánig, többek között a GYES-t és a GYED-et is tovább fogják kapni a kisgyerekesek.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié csoport
+    </hi>
+    szerint a kormánynak további intézkedéseket kellene bevezetnie ahhoz, hogy „a közeljövőben ne veszítsék el tömegek az otthonaikat.”
+   </p>
+   <p>
+    <hi rend="bold">
+     A csoport
+     petíciót is indított
+     ,
+    </hi>
+    hogy a kormány a következő követeléseket teljesítse:
+   </p>
+   <list>
+    <item>
+     Ne csak a hitellel rendelkezőket mentsék fel a törlesztőrészlet fizetése alól, kapjanak támogatást az albérletben élők is!
+    </item>
+    <item>
+     Rendelkezzen a kormány kikapcsolási moratóriumról az áram-, gáz és vízszolgáltatásokra a válsághelyzet idejére, a hátralékkal rendelkezőknek pedig kapcsolják vissza ezen szolgáltatásokat!
+    </item>
+    <item>
+     Az állam és a közműszolgáltatók fele-fele részben vállalják át azon rászoruló háztartások rezsiköltségeit, akik a válsághelyzet okozta munkavesztés vagy bevétel hiányában ezeket nem tudják kifizetni!
+    </item>
+    <item>
+     Az önkormányzatok kapjanak rendkívüli költségkeretet, hogy krízistámogatást tudjanak nyújtani helyben a rászoruló családoknak!
+    </item>
+   </list>
+   <p>
+    A kormány a járványügyi helyzet miatt arról hozott döntést, hogy az érintéses fizetési kártyás vásárlások esetében a PIN-kód kötelező használatára vonatkozó jelenlegi 5 ezer forintos értékhatárt 15 ezer forintra emeli. Ezzel azt szeretnék elérni, hogy jelentősen csökkenjen azoknak a fizetéseknek a száma, amikor a vásárlónak fizikailag meg kell érintenie a bankterminált.
+   </p>
+   <p>
+    A nap folyamán Polgár után újabb magyar városban
+    rendeltek el részleges kijárási tilalmat
+    : Sződligeten március 25. és április 2. között azoknak kötelező otthon maradni, aki
+   </p>
+   <list>
+    <item>
+     az önkormányzat azon munkavállalója, akit az önkormányzat otthoni munkavégzésre kötelezett,
+    </item>
+    <item>
+     az önkormányzat szociális ellátásában részesülő 70 év fölötti sződligeti lakos, és
+    </item>
+    <item>
+     az oktatás-nevelési intézményekben elrendelt szünet kapcsán otthon maradó óvodás, valamint az otthoni tanulásra kötelezett általános iskolás és szakiskolás tanuló.
+    </item>
+   </list>
+   <p rend="head">
+    Üres utcák és összeomló Airbnb piac Budapesten
+   </p>
+   <p>
+    Budapesten még nincs szó kijárási tilalomról, azonban bizonyos területeken a fővárosban is erőteljesen érezteti a hatását a koronavírus. Egy videó tanúsága szerint például a belváros utcái teljesen elnéptelenedtek:
+   </p>
+   <p>
+    Szintén keddi hír, hogy az ingatlan.com
+    friss elemzése szerint
+    a rövidtávú lakáskiadásra specializálódott Airbnb piac megsínyli a járványt, különösen a bulinegyedben: ez abból látszik, hogy
+   </p>
+   <p rend="head">
+    hirtelen jelentős kínálatbővülés történt a hosszútávú albérleti piacon, aminek következtében az V., a VI., a VII. és a VIII. kerületekben az átlag albérletárak két hét alatt 1-4 százalékkal csökkentek.
+   </p>
+   <p>
+    Annak érdekében, hogy csökkenjen a személyes érintkezések száma, a BKK
+    átmeneti intézkedéseket hozott
+    a kedvezményes bérletekkel kapcsolatban: a veszélyhelyzet idejére az álláskeresőknek, a nyugdíjasoknak és a kisgyermekes ügyfeleknek is egyszerűsítették a bérletkiváltás folyamatát, így remélhetőleg kevesebb időt kell tölteniük a pénztáraknál való sorban állással.
+   </p>
+   <p>
+    Az MTI szerint a BKV elkezdett a buszokon az ózonos fertőtlenítéssel kísérletezni, amennyiben beválik a módszer, a teljes busz- és troliállományt ilyen kezeléssel fogják ellátni. A módszer jóval hatékonyabb például a klórnál, és a kezelés után nem maradnak hátra mérgező vegyianyagok.
+   </p>
+   <p rend="head">
+    Globális körkép március 24-én
+   </p>
+   <p rend="head">
+    Kínában 78 új fertőzöttet találtak, közülük négyen belföldön kapták el a vírust, ez szignifikáns emelkedés a tegnapi 39-hez képest.
+   </p>
+   <p>
+    Hupejben csak egy új fertőzöttet találtak, és feloldották a korábban meghozott járványügyi korlátozó intézkedések egy részét. Szabadabban utazhatnak az igazoltan egészséges embereknek, bár ez Vuhanra nem vonatkozik, ott április 8-ig érvényben lesznek a kijárási korlátozások. Jelenleg összesen 81 591 fertőzött és 3281 halott van az országban.
+   </p>
+   <p>
+    <hi rend="bold">
+     Szerbiában
+    </hi>
+    249 fertőzött és három halott van, négy százalékos növekedés helyett 2 százalékos gazdasági csökkenésre számítanak. Aleksandar Vučić miniszterelnök arra kérte a cégeket, hogy ne rúgják ki az embereket, és arról biztosította a szerbeket, hogy a közszférában dolgozók bére és a nyugdíjak nem változnak. Eközben
+    <hi rend="bold">
+     Montenegro
+    </hi>
+    , amely az utolsó európai országként regisztrált fertőzést, már majdnem harminc koronavírusos megbetegedésnél jár, helyi orvosok szerint egyáltalán nincs megfelelően felkészülve az egészségügyi rendszer a járvány kordában tartására és a betegek ellátására.
+   </p>
+   <p>
+    <hi rend="bold">
+     Koszovóban
+    </hi>
+    a fertőzöttek száma egy nap alatt 35-ről 61-re emelkedett, és a járvány miatt kijárási tilalmat vezettek be 10 és 16, valamint 20 és reggel 6 óra között, vagyis naponta összesen nyolc órát lehet az utcán tartózkodni – noha ez az államfő szerint alkotmányellenes, mivel először a szükségállapotot kellett volna bevezetni.
+    <hi rend="bold">
+     Macedóniában
+    </hi>
+    sávos kijárási tilalmat vezettek be, miután 136-ra növekedett a fertőzések száma: 21 és 5 óra között senki nem mehet az utcára, a 18 év alattiak 12 és 21 óra között sem mehetnek ki, a 67 év felettiek pedig 5 és 11 között nem léphetnek az utcára. Ami azt jelenti, hogy 11 és 12 között még mindig egyszerre lehet mindenki az utcán.
+   </p>
+   <p>
+    <hi rend="bold">
+     Szlovákiában
+    </hi>
+    is külön bevásárlási sávot kapnak az idősek, 9 és 12 között ők mehetnek boltba, az utcán pedig mindenkinek kötelező egészségügyi maszkot viselnie. Az országban regisztrált fertőzöttek száma 204.
+    <hi rend="bold">
+     Lengyelorszában
+    </hi>
+    848 fertőzöttet regisztráltak, közben a járvány lassítása érdekében tovább korlátozta a mozgásszabadságot a kormány: a munkahelyre utazás, a bevásárlás és hasonló nélkülözhetetlen feladatok kivételével kijárási tilalom lép érvénybe április 11-ig.
+   </p>
+   <p>
+    <hi rend="bold">
+     Csehországban
+    </hi>
+    pedig 1394 fertőzött mellett két haláleset volt eddig, egyikük egy 45 éves rákos férfi. Az országban szükségállapot van érvényben, a parlament csak a kormány javaslatait tárgyalja, ugyanakkor az ellenzéki pártok lehetőséget kaptak arra, hogy képviselőket delegáljanak a válságstábba.
+   </p>
+   <p>
+    <hi rend="bold">
+     Oroszországban
+    </hi>
+    495 beteget tartanak nyilván, javarészüket Moszkvában, és immár két halálos áldozata van a járványnak. Csaknem százezer embert tartanak megfigyelés alatt. Eközben az ország humanitárius segélyt nyújt a járvány európai gócpontjának, Olaszországnak, ahova már 14 katonai szállítógépnyi segélyt szállított. Az orosz katonák a járványtól erősen sújtott Bergamo térségében fognak tevékenykedni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Ukrajnában
+    </hi>
+    84 fertőzöttet tartanak nyilván, közülük hárman országgyűlési képviselők, és Lviv megye csatlakozásával immár kilenc megyében és a fővárosban hirdettek válsághelyzetet. A tavaszi katonai sorozást is nyárra halasztották, Zelenszkij elnök pedig felszólította a vallási felekezeteket, hogy online tartsák az istentiszteleteket.
+   </p>
+   <p>
+    <hi rend="bold">
+     Romániában
+    </hi>
+    65 év felett teljes kijárási tilalmat rendeltek el, 65 év alatt pedig élelmiszer vagy gyógyszer vásárlása, valamint munkába járás céljából lehet elhagyni a lakást. Ennek betartatásában a katonaság is segíti a rendőrséget és a csendőrséget, miután több, mint 750-re emelkedett a regisztrált fertőzöttek száma az országban.
+   </p>
+   <p>
+    <hi rend="bold">
+     Németországban 32 781 a fertőzöttek száma és 156 ember vesztette eddig életét a járvány következtében.
+    </hi>
+    Ugyanakkor a korábbi, napi nagyjából egyharmados növekedés után az elmúlt napokban csupán valamivel több, mint tíz százaléknyival nőtt a fertőzöttek száma naponta, vélhetően a hathatós járványvédelmi intézkedések hatására, melyek jegyében például nem találkozhat kettőnél több ember. Németország egészségügyi ellátórendszere egyelőre nincs túlterhelve, így felajánlotta Olaszországnak és Franciaországnak, hogy súlyos állapotú betegeket vesz át, akik egyrészt így nagyobb eséllyel épülnek fel, másrészt a kórházak tapasztalatot szereznek a koronavírusos betegek gyógyításában.
+   </p>
+   <p rend="head">
+    Spanyolországban egy nap alatt több, mint ötszázan vesztették életüket, és csaknem ötezerrel növekedett a regisztrált fertőzöttek száma, akik immár 39 676-an vannak.
+   </p>
+   <p>
+    A fertőzöttek között 5400 egészségügyi dolgozó van, akik többek között az elégtelen védőfelszerelések miatt betegedhettek meg. A katonaság végzi a közlekedési infrastruktúra (repterek, vasútállomások) és az idősotthonok fertőtlenítését, és munkájuk során több otthonban is találtak elhunytakat, erről értesítették a megfelelő hatóságot. Madridban túlterheltek a temetkezési vállalatok, és egyelőre sok holttesttel nem tudnak mit kezdeni, így a Jégpalota nevű fedett műjégpályát ideiglenesen halottasháznak nevezték ki.
+   </p>
+   <p rend="head">
+    Franciaországban jelenleg 22 605 fertőzöttet tartanak nyilván, a halálos áldozatok száma pedig 1102-re nőtt.
+   </p>
+   <p>
+    Az országban fontos a mezőgazdasági szektor, azonban jellemzően külföldi idénymunkások művelnek meg sok termőterületet, így a mezőgazdasági miniszter kihajtaná a földekre a tétlenné vált dolgozókat. „Muszáj termelni, hogy el tudjuk látni a franciákat” – hangsúlyozta a miniszter, „állampolgári tettre” kérve mindenkit. Hozzátette, hogy az önkénteseket a gazdák természetesen kifizetik. Ez zavart keltett a médiában, tekintve, hogy eddig leginkább otthonmaradásra buzdította a kormány az embereket. A karanténszabályok szerint a franciák csak indokolt esetben hagyhatják el otthonukat, és csak a lakókörzetükben mozoghatnak: amennyiben nem lehetséges megoldani az otthoni munkavégzést, elmehetnek munkahelyükre, ahogyan bevásárolni és orvoshoz is, valamint kutyát sétáltatni, egyénileg sportolni is engedélyezett, ugyanakkor nem csoportosulhatnak.
+   </p>
+   <p>
+    <hi rend="bold">
+     Izraelben
+    </hi>
+    már több, mint 1600 fertőzöttet tartanak nyilván, és az emberek csak akkor hagyhatják el 50 méternél távolabbra a lakhelyüket, ha dolgozni, élelmiszert vagy gyógyszert venni mennek. Ezzel párhuzamosan fokozatosan leáll a közösségi közlekedés, és az autókban is csak egy ember utazhat, de ők előzetes egyeztetés után áthajthatnak autós vizsgálóállomásokon. Netanjahu, Juli Edelstein házelnök és pártjuk, a Likud eközben továbbra is igyekeznek hátráltatni a felállt átmeneti kormány munkáját, és azzal fenyegetőznek, hogy a házelnök leváltása esetén nem mennek bele az egységkormányba, noha a Likudon kívül eddig ezt más nem is nagyon szerette volna.
+   </p>
+   <p>
+    A WHO
+    szerint
+    az
+    <hi rend="bold">
+     USA
+    </hi>
+    lehet a járvány új gócpontja, miután két nap szinte megduplázódott az új megbetegedések száma. Március 22-én még nagyjából 33 ezer megbetegedésnél tartottak, 23-án már közel 44 ezernél, 24-én pedig már 51 ezer fölött.
+   </p>
+  </body>
+ </text>
+</TEI>

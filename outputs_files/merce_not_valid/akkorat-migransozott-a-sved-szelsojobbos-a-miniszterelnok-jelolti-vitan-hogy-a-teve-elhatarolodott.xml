@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Akkorát migránsozott a svéd szélsőjobbos a miniszterelnök-jelölti vitán, hogy a tévé is elhatárolódott
+    </title>
+    <author>
+     <persName>
+      Papp Gáspár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6c1959c7-bda9-52b0-8827-78954d6bd85d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Akkorát migránsozott a svéd szélsőjobbos a miniszterelnök-jelölti vitán, hogy a tévé is elhatárolódott
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Papp Gáspár
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-09-08T14:08:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/09/08/akkorat-migransozott-a-sved-szelsojobbos-a-miniszterelnok-jelolti-vitan-hogy-a-teve-elhatarolodott/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/09/08/akkorat-migransozott-a-sved-szelsojobbos-a-miniszterelnok-jelolti-vitan-hogy-a-teve-elhatarolodott/
+     </sch:url>
+     <sch:name>
+      Akkorát migránsozott a svéd szélsőjobbos a miniszterelnök-jelölti vitán, hogy a tévé is elhatárolódott
+     </sch:name>
+     <sch:datePublished>
+      2018-09-08T14:08:00
+     </sch:datePublished>
+     <sch:author>
+      Papp Gáspár
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      választás
+     </sch:keywords>
+     <sch:keywords>
+      migráció
+     </sch:keywords>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+     <sch:keywords>
+      svédország
+     </sch:keywords>
+     <sch:keywords>
+      jóléti állam
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6c1959c7-bda9-52b0-8827-78954d6bd85d">
+     <sch:identifier>
+      urn:uuid:79d27ee9-c68d-462f-ae44-7c7d2c9159e2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:26.296269
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:07:16.155658
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6c1959c7-bda9-52b0-8827-78954d6bd85d" when="2021-12-14T15:30:26.296269">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Akkorát migránsozott a svéd szélsőjobbos a miniszterelnök-jelölti vitán, hogy a tévé is elhatárolódott
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Svédország holnap tart országgyűlési választásokat. A főképp a migráció és az egészségügy válsága körül folyó választás kimenetele bizonytalan, a kampány hangneme pedig a célegyenesben nagyon bedurvult: az utolsó miniszterelnök-jelölti tévévita több alkalommal kiabálásig fajult, a szélsőjobboldali jelölt egyik bevándorló-ellenes kijelentésétől pedig még a tévé is elhatárolódott.
+   </p>
+   <p>
+    Mint
+    hét eleji elemzésünkben írtuk
+    , a szélsőséges, bevándorlás-ellenes Svédországi Demokraták (SD) nyár elején még a legerősebb párt voltak (a brit Yougov ekkor 28.5%-ra mérte őket), azóta azonban a szociáldemokraták átvették a kezdeményezést, az SD mért támogatottsága hónapok óta csökken, az Ipsos utolsó mérésében pedig már a 3. helyre szorult vissza a zöldekkel kisebbségi kormányt vezető Szociáldemokrata Párt (S) és a liberális-konzervatív Mérsékeltek (M) mögé. Továbbra is igaz azonban, hogy vélhetően jóval felülmúlják 2014-es, 12,9%-os eredményüket.
+   </p>
+   <p>
+    Az Ipsos szeptember 2-án felvett kutatása.
+   </p>
+   <p>
+    Az, hogy baloldali, vagy jobbolali koalíció alakulhat a választás után, teljesen bizonytalan: a két hagyományos pártszövetségnek nagyjából azonos szavazatarányt mérnek a kutatók.
+   </p>
+   <p rend="head">
+    A jelenleg kisebbségben kormányzó Szociáldemokrata-Zöld szövetségnek és a kormányt kívülről támogató radikálisabb Baloldali Pártnak összesen 40-42%-ot, a konzervatív-liberális-agrárius pártokból álló Szövetség pártjainak 38-40%-ot mérnek.
+   </p>
+   <p>
+    Fontos kérdés, hogy a Mérsékeltek megállapodnak-e az SD-vel egy jobboldali kormány külső támogatásáról, vagy más típusú együttműködésről. Ezt egyelőre a jobboldali középpártok kizárják, nem csak stílusbeli, hanem tartalmi problémák miatt: a Centerpartiet (C) nevű liberális kisgazdapárt például kifejezetten bevándorláspárti, Annie Lööf pártvezető elsősorban az SD-vel szemben pozicionálta pártját a kampányban.
+   </p>
+   <p>
+    A svéd választásokat megelőző elemzésünket
+    itt olvashatod
+    . A választás fejleményeiről pedig holnap este percről perce tudósítunk majd a Mércén.
+   </p>
+   <p>
+    A választás akár egyértelmű eredményt is hozhat: az Ipsos felmérése szerint a választók 12%-a tervezi, hogy elmegy szavazni, de még nem tudta megmondani, hogy kire. A tegnapi kampányzáró miniszterelnök-jelölti vitának tehát volt tétje. A vita a beszámolók szerint szokatlanul felfokozott hangulatban telt, a jelöltek az egészségügy és a migráció témájánál még kiabáltak is egymással.
+   </p>
+   <p>
+    A hangulat akkor vált igazán paprikássá, amikor Jimmie Åkesson, az SD jelöltje a bevándorlók integrációja kapcsán azt mondta,
+   </p>
+   <p>
+    „ezek az emberek azért nem kapnak munkát, mert nem svédek, és nem illenek bele a svéd társadalomba.”
+   </p>
+   <p>
+    Lööf válaszként az asztalra csapott, és „mit engedsz meg magadnak?” kérdéssel utasította helyre Åkessont.
+    Kijelentése miatt az állami tévé a televíziós tartalmakat szabályozó jogszabályra hivatkozva a vitát követően
+    elhatárolódott Åkessontól
+    . (A tévét korábban gyakran azért kritizálták, mert nem tett helyre általánosító kijelentéseket.) A tévé szerint az SD-s politikus állítása általánosító volt, amelyben a bevándorlókat mint csoportot vette célba, ugyanakkor leszögezték, hogy nem a párt ellen foglaltak állást. Az SD szerint viszont botrányos ami történt, a televízió megsértette a pártatlanság elvét, az egyik politikus egyenesen „szarcsatornának” nevezte az állami tévét.
+   </p>
+   <p>
+    Pillanatkép a vitából, Jimmie Åkesson (jobb szélen) kijelentésére Annie Lööf az asztalra csap.
+   </p>
+   <p>
+    A kampány másik fontos kérdéséről, a egészségügyről is éles vita folyt. A svéd választók ezt a kérdést tekintik a legfontosabb politikai kérdésnek (a várólisták hosszúak, orvos és nővérhiány van), a szociáldemokraták elsősorban az egészségügyet és az oktatást központba állító kampányuknak  köszönhetik vezető pozíciójuk visszaszerzését.
+    A bevándorló-ellenes és bevándorláspárti jelöltek az egészségügy kapcsán is egymásnak ugrottak. Åkesson szerint a várólisták azért hosszúak, mert
+    az elmúlt 10 évben 1 millió ember érkezett az országba. Lööf ezzel azt vetette szembe, hogy az egészségügyben felülreprezentált, külföldön született orvosok és ápolók nélkül sokkal nagyobb lenne a baj.
+   </p>
+   <p>
+    Jonas Sjöstedt, a Baloldali párt elnöke felháborodott azon, hogy
+    Åkesson ezt a kérdést is a menekültek elleni hergelésre használja fel, és
+   </p>
+   <p rend="head">
+    azt vetette az SD szemére, hogy neoliberális egészségügyi politikájukkal, mely a profitelvet helyezné az állami szolgáltatások középpontjába is, csak kárt okoznának az egészségügyben.
+   </p>
+   <p>
+    A vitán
+    a
+    Demoskop felmérése szerin
+    t Ulf Kristersson, a konzervatív-liberális Mérsékeltek vezetője és kereszténydemokrata szövetségese voltak a legszimpatikusabbak a választók számára, harmadik helyre pedig a radikális Baloldali Párt jelöltjét tették. A társadalmi többség számára a bevándorlás-ellenes retorika úgy tűnik, ezúttal nem működött, Åkesson a 8-ból a 7. legalacsonyabb értékelést kapta.
+   </p>
+  </body>
+ </text>
+</TEI>

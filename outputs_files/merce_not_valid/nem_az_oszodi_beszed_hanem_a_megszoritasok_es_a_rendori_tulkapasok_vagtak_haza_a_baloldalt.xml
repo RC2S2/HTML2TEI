@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nem az őszödi beszéd, hanem a megszorítások és a rendőri túlkapások vágták haza a „baloldalt”
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     eb284782-b597-58bb-a6e8-a66f5d4baa57
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Nem az őszödi beszéd, hanem a megszorítások és a rendőri túlkapások vágták haza a „baloldalt”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-05-26T17:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/05/26/nem_az_oszodi_beszed_hanem_a_megszoritasok_es_a_rendori_tulkapasok_vagtak_haza_a_baloldalt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/05/26/nem_az_oszodi_beszed_hanem_a_megszoritasok_es_a_rendori_tulkapasok_vagtak_haza_a_baloldalt/
+     </sch:url>
+     <sch:name>
+      Nem az őszödi beszéd, hanem a megszorítások és a rendőri túlkapások vágták haza a „baloldalt”
+     </sch:name>
+     <sch:datePublished>
+      2016-05-26T17:24:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      gyurcsány
+     </sch:keywords>
+     <sch:keywords>
+      2006
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="eb284782-b597-58bb-a6e8-a66f5d4baa57">
+     <sch:identifier>
+      urn:uuid:c029f5af-ea6c-4049-8f2b-b2db331cefac
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:07.560586
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:22:48.693322
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="eb284782-b597-58bb-a6e8-a66f5d4baa57" when="2021-12-14T15:31:07.560586">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Nem az őszödi beszéd, hanem a megszorítások és a rendőri túlkapások vágták haza a „baloldalt”
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Feri, nem a május 26, hanem a szeptember 17. az a dátum, amit keresel. Az őszödi beszéd elhangzásának tizedik évfordulójára emlékezett ma Gyurcsány Ferenc. Pedig nem az elhangzás évfordulója az, ami a ma baloldala számára lényeges, hanem a kiszivárgásé. Az előtte eltelt fél év a 2006-os kampánytól kezdve, és az utána következő hónapok. Szeptember 17-e az a dátum, ami máig meghatározza és vereségben tartja a baloldalt.
+   </p>
+   <p>
+    Az őszödi beszéd tartalmáról lehet vitatkozni, jó volt, rossz volt, kellett, igazságbeszéd volt vagy sem. Az utókor ítélkezhet máshogy egy beszédről, de nem emlékezhet másra, mint ami történt. Az akkori MSZP népszerűségvesztése nem az őszödi beszédnek köszönhető, hanem az előtte nyáron bejelentett megszorításoknak, a 2006-os kampányban beígért ígéretek nem megvalósulásának.
+   </p>
+   <p>
+    2006 nyarán ugyanis ezeket jelentette be a kormány:
+   </p>
+   <p>
+    „Augusztustól 30 százalékkal emelkedik a gáz, 10-14 százalékkal a villany ára, két százalékkal több lesz az egészségügyi hozzájárulás, négy százalékkal emelkedik az szja felső kulcsa, drágul a cigaretta és az alkohol. A középső áfakulcs 15-ről 20 százalékra nő” –
+    forrás Index
+    .
+   </p>
+   <p>
+    Mindezt két hónappal azután, hogy az MSZP a „nem lesz adóemelés, nem lesz gázáremelés” hívószavával megnyerte a választásokat. Egy ilyen mértékű megszorítás még a mostani Fideszt is megrengetné. Az akkori MSZP-t pedig meg is rengette. A Tárki
+    szerint
+    míg májusban 52, júniusban 49, addig júliusban már csak 38, szeptemberben pedig 33 százalék volt az MSZP támogatottsága, októberre pedig még vissza is emelkedett 41 százalékra. A Medián
+    adatai
+    is hasonlót mutatnak. A májusi 37 százalékról szeptember elejére 23 százalékra esett vissza az MSZP támogatottsága, és szeptember végére nőtt vissza 25 százalékra. Azt láthatjuk, utoljára pont az őszödi beszéd hatására emelkedett az akkori kormánypárt támogatottsága, de azóta se tudja visszaszerezni 2006 májusi támogatottságát.
+   </p>
+   <p>
+    Ezt pedig nem csupán a megszorítások okozták, és nem is az őszödi beszéd, hanem az, ami 2006 szeptember 17-e után történt, és ezzel ideje lenne szembenézni a baloldalnak.
+   </p>
+   <p>
+    Számos ismerősöm van, akit rendőrök bántalmaztak azokon az őszi napokon. Volt, akit vétlen járókelőként, volt, akit press mellényben újságíróként lőttek és ütöttek meg, és volt, akit a szemmagasságban repkedő gumilövedék jogvédőként talált el. De nem koholmányok a rendőrségi erőszakról megjelent cikkek és videók többsége sem.
+   </p>
+   <p>
+    Itt valami történt. És a társadalom talán még a rendőrség erős fellépését is megbocsájtotta volna a kormánynak, de a cinikusságot nem. A rendőrkapitányt, aki úgy mondta be a tévében, hogy a rendőrök nem használtak viperát, hogy a feje mellett vetített felvételen pontosan látni lehetett a rendőröknél lévő viperákról készült felvételeket. Azt, hogy őt kitüntették. Hogy a kormányban nemhogy felelősséget nem vállalt senki a rendőri túlkapásokért, hanem sokáig el se ismerték azok létezését.
+   </p>
+   <p>
+    Ez a bűn pedig nem csupán a cinikusság miatt volt órási, hanem azért is, mert alapvetően roncsolta szét a magyar állampolgárok jogállamhoz való viszonyát, ahogy a „nem lesznek megszorítások”, sőt adócsökkentésekről szóló kampány után bevezetett megszorítások alapvetően roncsolták meg az állampolgárok politikához való viszonyát (és ehhez nem felmentés, hogy a Fidesz is pont ezt csinálta volna akkor). Ezekből a roncsolásokból él meg ma is a Fidesz politikája, és ez az alapvetés, ami miatt ma baloldali párt nem rúghat labdába Magyarországon.
+   </p>
+   <p>
+    Persze a Fidesz se viselkedett szépen a történtekben, de ez nem menti fel a baloldalt, és nem menti fel a baloldalt a szembenézés következményei alól se.
+   </p>
+   <p>
+    Márpedig ma, amikor Gyurcsány Ferenc nem ezekről a dolgokról beszél, hanem az őszödi beszéd elhangzását emeli ki, nem beszél az előtte és utána történtekről, a magyar baloldal politikai válságának alapjairól, akkor egyszerűen elkeni annak a lehetőségét, hogy a társadalom számára visszaszerezze a baloldal hitelét.
+   </p>
+   <p>
+    Ha magyarországon valaha még a baloldal választást akar nyerni, akkor nem a brandet kell építeni, hanem a hitelességet visszaszerezni, márpedig a 2006 őszi erőszak, illetve a választások utáni megszorítások azok, amik alapvetően ásták alá ezt a hitelességet. Ha Gyurcsány ténylegesen annyira tökös, mint amit saját magáról gondol, erről fog majd nekünk beszélni!
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Támogass havi 1000 forinttal:
+   </p>
+   <p>
+    További vállalásaink és támogatási lehetőségek
+   </p>
+   <p>
+    A Kettős Mérce csak akkor tud működni, ha te is támogatod! A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét akkor tudjuk hosszú távon fenntartani, ha legalább 600-an támogattok minket. Jelenleg 238 állandó támogatónk van. Ha szerinted is szükség van egy olyan baloldali és független lapra, mint a Mérce,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

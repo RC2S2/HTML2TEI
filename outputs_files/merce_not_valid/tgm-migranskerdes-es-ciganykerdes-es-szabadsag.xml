@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     TGM: Migránskérdés és cigánykérdés és szabadság
+    </title>
+    <author>
+     <persName>
+      Tamás Gáspár Miklós
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8e47593a-cc61-5639-b55b-6d198f6c0cee
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      TGM: Migránskérdés és cigánykérdés és szabadság
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tamás Gáspár Miklós
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-05T20:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/05/tgm-migranskerdes-es-ciganykerdes-es-szabadsag/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/05/tgm-migranskerdes-es-ciganykerdes-es-szabadsag/
+     </sch:url>
+     <sch:name>
+      TGM: Migránskérdés és cigánykérdés és szabadság
+     </sch:name>
+     <sch:datePublished>
+      2018-03-05T20:00:00
+     </sch:datePublished>
+     <sch:author>
+      Tamás Gáspár Miklós
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      migráció
+     </sch:keywords>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+     <sch:keywords>
+      szélsőjobb
+     </sch:keywords>
+     <sch:keywords>
+      menekültválság
+     </sch:keywords>
+     <sch:keywords>
+      nacionalizmus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8e47593a-cc61-5639-b55b-6d198f6c0cee">
+     <sch:identifier>
+      urn:uuid:8331a736-8bfc-4a8b-aeee-3e9cc7ae0b44
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:40.516654
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:49:27.256433
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8e47593a-cc61-5639-b55b-6d198f6c0cee" when="2021-12-14T15:30:40.516654">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    TGM: Migránskérdés és cigánykérdés és szabadság
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Anélkül, hogy belemennénk a hazugságokkal átszőtt, irracionális vitákba, amelyek sokunkat keserítenek évek óta (mint például a „kozmopolita” entitások – „nemzetközi civil társadalom”, Európai Unió, ENSZ, Európa Tanács, szabadkőművesség [!], baloldal, „Soros” stb. – állítólagos szerepe a probléma kiélesedésében), próbáljuk meg közvetlenül szemügyre venni az etnikai kérdés pillanatnyi állását Délkelet-, Kelet- és Kelet-Közép-Európában. Ennek a legjobb illusztrációja Orbán Viktor magyar miniszterelnök
+    gyalázatos miskolci nyilatkozata
+    , de idézhetnénk hasonló, sőt: még förtelmesebb förtelmeket szlovák, cseh, olasz „politikusoktól”, akik szintén széthulló államokat „vezetnek” vagy szeretnének „vezetni” (sok-sok pénzért).
+    [1]
+   </p>
+   <p rend="head">
+    Az említett régiók országainak egyik fő jellemzője a gyönge állam.
+   </p>
+   <p>
+    (A polgári állam Nyugat-Európában is válságban van: Nagy-Britannia, Németország, Spanyolország, Olaszország. A fasizálódás – különféle cégérek alatt – elérte a skandináv országokat és Hollandiát. A magyarországi baloldal égbekiáltó provincializmusa miatt Budapesten ebből semmi nem látszik. Még a kulturálisan évszázadokig rokon Németország, Ausztria, Horvátország viszonyai is ismeretlenek „idehaza”.
+    [2]
+    A jelenlegi helyzetről most csak annyit, hogy a régi, hagyományos német jótékonysági szervezet, a Deutscher Tafel esseni népkonyhája
+    többé nem hajlandó
+    nélkülöző külföldieknek enni adni, csak németeknek.)
+   </p>
+   <p rend="head">
+    A másik a gazdaság kettéválása a nyugati befektetők által mozgatott „globális” szektorra, illetve a viszonylag elmaradott és kényszerűen államfüggő „helyi” gazdaságra. Ennek megfelelően a társadalom is kettészakad életformáiban, ún. „kultúrájában”, anyagi helyzetében, perspektíváiban és törekvéseiben.
+   </p>
+   <p>
+    A primér osztályszerkezetet ez a kettősség is elleplezi, továbbá elleplezi a munkanélküliek, az egyelőre még dolgozók és a kivándorlók hármassága. A munkanélküliségnek, az 1989 előtti termelő gazdaság pusztulásának és a legsötétebb népnyomornak leginkább a területi jellege ötlik szembe, vannak egész régiók, amelyben a nélkülözés és a fizikai szenvedés általános (amit csak alkohollal és kábítószerrel lehet enyhíteni).
+   </p>
+   <p>
+    (Fotó: MTI / Máthé Zoltán)
+   </p>
+   <p>
+    Ahhoz, hogy ezeket (és más hasonló elemeket) visszavezessük a kapitalizmus általános jellegzetességeire, nemcsak
+    <hi>
+     absztrakciós készségre
+    </hi>
+    van szükség, hanem
+    <hi>
+     absztrakciós elszántságra
+    </hi>
+    is. A problémák sokrétűsége (a regionális különneműség; a gazdasági és technikai hasadás a globális és a helyi gazdaság „kulturálisan” is megkülönböztetett szektorai között; a demográfiai és – ahogy régen nevezték – „népmozgalmi”, azaz migrációs, horizontális mobilitási tényezők fölerősödése; az állami közigazgatás összeomlása, a közszolgáltatások csődje; a dolgozó rétegek közötti jelentős jövedelmi egyenlőtlenség és í. t.) azt a hamis látszatot kelti, mintha nem is a
+    <hi>
+     kizsákmányolás
+    </hi>
+    lenne a probléma.
+   </p>
+   <p>
+    A kizsákmányolást – igen szűk látókörű módon – csak a termelő munkahelyeken egyelőre még dolgozók helyzetére korlátozza az elterjedt szociológiai szemlélet, mintha a „proletár” helyzet nem terjedne ki azokra, akik már a bérmunkán kívül rekedt áldozatai a rendszernek: de hiszen a bérmunka adott struktúrájának az áldozatai, nem az általános balsorséi. (Valamivel jobban áll a reproduktív munka megítélése, hála a marxista feminizmus hatásának.)
+   </p>
+   <p>
+    Az, hogy (1) bérmunka csak egyre kevesebb embernek jut – ez a gépesítés kezdete óta állandó, immár majdnem háromszáz éves problémája a tőkés gazdaságnak – , és az, hogy (2) a polgári társadalomban a tőkevagyon nélküli személyeknek csak bérmunkából lehet megélniük (aki nem termel[het]
+    <hi>
+     érték
+    </hi>
+    et és
+    <hi>
+     érték
+    </hi>
+    többletet, nem teljes
+    <hi>
+     értékű
+    </hi>
+    tagja a polgári társadalomnak), azt jelenti, hogy a prekariátus-plusz-szubproletariátus mintegy a kapitalizmuson (azaz az uralkodó ideológia szerint: az emberhez méltó emberéleten)
+    <hi>
+     kívüli
+    </hi>
+    embercsoport.
+   </p>
+   <p>
+    Neki a problémái egyrészt a jótékonykodás, filantrópia, átnevelés, büntetés, áttelepítés, átképzés problémái (tehát ennek az embercsoportnak a megszüntetése „társadalmi” eszközökkel), másrészt pedig az „államsegély”, a szegények életformájának állami-rendőri szabályozása (megszüntetés igazgatási eszközökkel) e problémák megoldása. Tehát nem a boldogtalanok (
+    <hi>
+     les malheureux
+    </hi>
+    , ahogyan a francia forradalom idején nevezték őket) emancipációja, hanem létük fölszámolása.
+   </p>
+   <p>
+    Elképesztő belegondolni, hogy ugyanígy fogta föl a probléma lényegét a burzsoázia Angliában
+    <hi>
+     a XVIII. század végén (!)
+    </hi>
+    – és ez ellen próbáltak ellenszert találni mind az első szocialisták (pl. a zseniális Robert Owen), szemben a burzsoázia olyan kegyetlen képviselőivel, mint az utilitárius Jeremy Bentham és a „keresztyén” Thomas Malthus – , és a „munkaerő” problémáját az angol és ír munkások kivándorlásával oldották meg (a gyarmatokra), meg persze a rabszolgakereskedelemmel, az anyaországban
+    <hi>
+     dologházzal
+    </hi>
+    , vagy Louis Blanc a „közfoglalkoztatással”, a „nemzeti műhelyekkel”. (De akkor még volt Owen, Proudhon, Leroux, Fourier, Marx, Engels, Kropotkin, ám ma nincs – a szó reprezentatív, intellektuálisan és politikailag releváns értelmében.)
+   </p>
+   <p rend="head">
+    Tapodtat se haladtunk előre másfél évszázada.
+   </p>
+   <p>
+    A modern
+    <hi>
+     nemzet
+    </hi>
+    megteremtése a francia forradalomban két föltételezésen nyugodott: az egyik a politikai és gazdasági
+    <hi>
+     egyenlőség
+    </hi>
+    volt (érdekellentétek fölszámolása), a másik az
+    <hi>
+     egység
+    </hi>
+    (a hűbéri autonómiák, etnikai, nyelvi és regionális különállások megszüntetése, azaz: érdekellentétek fölszámolása).
+    [3]
+   </p>
+   <p>
+    Ez kizárja az osztálykonfliktus elismerését, habár természetesen a
+    <hi>
+     sans-culotte
+    </hi>
+    -ok is látták az egyenlőség és a magántulajdon együttes szentesítésében (ez a kettősség a forradalmi alkotmányosság alapelve volt) rejlő ellentmondást, amit közismerten az egyenlősítő, piackorlátozó állami beavatkozás lett volna hivatott orvosolni. (S mostanáig ez a polgári társadalom ellentmondásainak „haladó” polgári megoldása: az állami újraelosztás részarányának növelése a tőkés magántulajdon elismerése mellett, a magas adókból biztosított, megnövelt költségvetés és „demokratikus tervezés” irányító gazdaságpolitikai szerepének garantálásával.)
+   </p>
+   <p>
+    A reformista szociáldemokrácia részvétele a polgári jóléti állam kezdeményeinek kiharcolásában megszüntette a munkásmozgalom immunitását a nacionalizmussal szemben (vö. 1914 augusztusával), ugyancsak nacionalistává lett a bolsevizmus az ötéves tervek, a „szocializmus egy országban” sztálini korában, amely aztán még az antiszemitizmusig is eljutott (Slánský-pör, Prága,1952; Gomułka külföldre űzi a zsidó értelmiséget Lengyelországból, 1968, stb.). Ez a történet közismert.
+   </p>
+   <p rend="head">
+    A régi demokratikus nacionalizmus azonban
+    <hi>
+     (egyenlőség, egység)
+    </hi>
+    – amely asszimilálni-integrálni akarta a nyelvi, regionális, felekezeti (fehér) kisebbségeket (egyidejűleg a gyarmatosítással és „a színes népek” gyilkos elnyomásával!) – az imperializmus végső válságával egy időben eltűnt, az asszimiláció megállt a színes kisebbségeknél, és a fehér nemzetiségek asszimilációs szándéka is visszájára fordult.
+   </p>
+   <p>
+    A
+    <hi>
+     szubnacionális
+    </hi>
+    , nem „államalkotó” etnikumok egymás után fejezték ki, hogy nem hajlandók ugyanazokban az államkeretekben együtt élni más etnikumokkal
+    <hi>
+     (etnicizmus)
+    </hi>
+    , mindenfelé szeparatizmusok és radikális autonomizmusok-föderalizmusok bukkannak föl,
+    <hi>
+     a több etnikumú nemzetállamok
+    </hi>
+    bomlásnak indultak (vö. Nagy-Britannia, Spanyolország és í. t.). Az európai „multikulturalizmus” kezdetben egyszerűen ennek a ténynek a nyilvános elismerése volt. Ebbe a már eleve válságos helyzetbe robbant bele a „menekültválság”, az életképtelen posztkolonialista, „harmadik világ”-beli államok permanens polgárháborúinak következménye.
+   </p>
+   <p>
+    A
+    <hi>
+     mainstream
+    </hi>
+    sajtó – szemben néhány társadalomelméleti tanulmánnyal – még nem vette észre, hogy
+    <hi>
+     a nacionalizmus rég halott
+    </hi>
+    , és az etnicizmus (a nemzetállami szint alatti etnikumok együttélési, szintetikus képtelensége, a modern – azaz nemzetállami – politikából való kihullásuk, ami nemcsak a kisebbségekre, hanem a
+    <hi>
+     Leitkultur
+    </hi>
+    -többségekre is vonatkozik) kerekedett fölül. (Bár némely elitekben, pl. Lengyelországban a konzervatívok között, a klasszikus nacionalizmus is mutat életjeleket.)
+   </p>
+   <p>
+    A nemzetállam a francia forradalom, illetve a fölvilágosodás projektje eredetileg
+    [4]
+    :
+    <hi>
+     egyenlőség-egység
+    </hi>
+    . Ez kezd bomladozni (1) a második világháború vége (1945), (2) a gyarmatbirodalmak végső bomlása (1960) és (3) a kelet-európai rendszerváltások (1989) után.
+    [5]
+   </p>
+   <p rend="head">
+    Amint különféle írásaimban bebizonyítottam, a nacionalizmus
+    <hi>
+     univerzalisztikus
+    </hi>
+    gondolat a maga klasszikus (jakobinus és liberális-demokratikus) alakjában, az etnicizmus azonban nem.
+   </p>
+   <p>
+    A polgári állapot (mint jogállapot) Kant szerint „…a következő
+    <hi>
+     a priori
+    </hi>
+    elvekre épül:
+   </p>
+   <list>
+    <item>
+     A társadalom [Sozietät] minden tagjának mint embernek a
+     <hi>
+      szabadságára
+     </hi>
+     .
+     [6]
+    </item>
+    <item>
+     Alattvalóként mindenki mással való
+     <hi>
+      egyenlőségére
+     </hi>
+     .
+    </item>
+    <item>
+     Polgárként a köz [gemeines Wesen] minden tagjának
+     <hi>
+      önállóságára
+     </hi>
+     .”
+     [7]
+    </item>
+   </list>
+   <p>
+    Mindez természetesen nem az elképzelt világállamban, hanem területileg elkülönült nemzetállamokban érvényesül.
+   </p>
+   <p>
+    Igen ám, de ezek az államok ellentétbe kerülhetnek egymással, ami háborúhoz (és jogon kívüli állapothoz) vezet, ezt pedig meg kell előzni: a civilizáció szükséges állapota (de nem természetes állapota)
+    <hi>
+     az örök béke
+    </hi>
+    . Ugyancsak Kant szerint: „az ellenségeskedések elmaradása még nem állhat jót a békeállapotért”.
+   </p>
+   <p>
+    <hi>
+     Az örök béké
+    </hi>
+    nek három
+    <hi>
+     végleges
+    </hi>
+    cikkelye van: az első: „A polgári alkotmány minden államban köztársasági alkotmány kell hogy legyen.” (Azaz
+    <hi>
+     i
+    </hi>
+    . szabadság,
+    <hi>
+     ii
+    </hi>
+    . az egyedüli közös törvényhozástól való függőség [jogállam],
+    <hi>
+     iii
+    </hi>
+    . állampolgári egyenlőség: ezen kell alapulnia minden jogszerű törvényhozásnak: ez a köztársasági alkotmány.) A második: „A nemzetközi jognak a szabad államok
+    <hi>
+     föderalizmusán
+    </hi>
+    kell nyugodnia.” (Azaz ez örök időkre szóló egyetemes békeszerződés az összes állam között, garanciákkal. A háborúhoz való jog nem lehet egyetemes.) A harmadik: „
+    <hi>
+     A világpolgári jog
+    </hi>
+    az általános
+    <hi>
+     hospitalitás
+    </hi>
+    föltételeire kell hogy korlátozódjék.” (
+    <hi>
+     Hospitalität
+    </hi>
+    , azaz
+    <hi>
+     Wirtbarkeit:
+    </hi>
+    magyar fordításai „látogathatás”, „vendéglátó kötelezettség”,
+    <hi>
+     Besuchsrecht
+    </hi>
+    – nem „vendégjog”, nem „vendégszeretet”.) Magyarázat: „…a Föld felszíne közös birtok
+    <hi>
+     [gemeinschaftlicher Besitz der Oberfläche der Erde],
+    </hi>
+    s rajta mint gömbfelületen nem szóródhatnak szét a végtelenségig az emberek, hanem végül is meg kell tűrniök egymást, és senkinek sincs eredendően több joga, hogy a Föld valamely helyén legyen, mint bárki másnak.”
+    [8]
+   </p>
+   <p>
+    A Briand-Kellogg-paktum (
+    szövegét ld. itt
+    ), amelyet 1928. augusztus 27-én írtak alá, s amely ma is hatályos (!) – attól függetlenül, hogy részeit belefoglalták később az ENSZ Alapokmányba –,
+    <hi>
+     tiltja
+    </hi>
+    a háborút (háborút indítani törvénytelen, ellenkezik a nemzetközi joggal). Ennek a kútfeje természetesen a kanti politikai és erkölcsfilozófia. Ma is a nemzetközi jog sziklaszilárd alapja – tudjuk, a sűrű jogsértés nem érvényteleníti a jogot. (Ezért se nagyon bajlódnak ma már formális hadüzenettel.)
+   </p>
+   <p>
+    Nyilvánvaló, hogy a világpolgári jogállapot (norma) különbözik a kommunista vagy proletár internacionalizmustól (tény: óhajtott vagy tervezett tény), az egyiknek a forrása a szerződés, a másiknak a világforradalom. Az utóbbival (ami persze az egyetlen jó megoldás) most nem foglalkozunk.
+   </p>
+   <p rend="head">
+    Természetesen „az örök béke” kanti terve megbukott a nacionalizmuson és imperializmuson, bár volt haladás egy ideig
+    <hi>
+     a köztársasági jogrend
+    </hi>
+    felé:
+   </p>
+   <p>
+    pl. a felekezeti diszkriminációt megszüntették (II. József császár 1781. október 25-én kiadta a türelmi pátenst Magyarországra és Erdélyre, amelyet halálos ágyán se vont vissza, mint több más rendelkezését), de másfelől az
+    <hi>
+     egyenlőség-egység
+    </hi>
+    követelménye erőszakos asszimilációhoz, nálunk erőszakos magyarosításhoz (Apponyi-féle iskolatörvény, 1907) vezetett, és mindenfelé a nemzetiségek elnyomásához. A minden nemzetiségre és etnikumra vonatkozó önrendelkezési
+    <hi>
+     jogot
+    </hi>
+    – amely kiteljesítette volna a köztársasági jogrend
+    <hi>
+     polgári
+    </hi>
+    követelését – az Októberi Forradalom, Lenin hirdette meg, együtt az elszakadás, önálló államalapítás
+    <hi>
+     jogával
+    </hi>
+    . S ebbe explicite beleértette az első szovjet kormány a gyarmati, a „színes” népeket is.
+   </p>
+   <p>
+    Mindezek hiábavaló kísérletek voltak, és 1927 után a Szovjetunió is nacionalista politikát folytatott, bár a belső autonómiák nyelvi jogait soha nem számolták föl, szemben az ún. nyugati demokráciákkal.
+   </p>
+   <p>
+    A „civilizált” európai országok az első világháború után elkezdték azelőtt teljes jogú állampolgáraik bizonyos csoportjainak faji alapú, hátrányos megkülönböztetését (az első Magyarország volt a
+    <hi>
+     numerus clausus
+    </hi>
+    sal, amelyet később a zsidótörvények folytattak): az akkori szélsőjobboldal fajüldözése volt az átmenet – történeti szemszögból – a nacionalizmus és az etnicizmus között. (A két világháború között súlyosbodott az amerikai feketék diszkriminációja is.) A második világháború után a német kisebbségek elűzése, illetve a tengelyhatalmakkal azonosított német és magyar kisebbségekkel szembeni megtorlások (ez utóbbiak Csehszlovákiában és Jugoszláviában) gyalázatos esetei után nemzetiségi-etnikai tekintetben konszolidáció állt be, amelyet a holokauszt (csak fokozatos) megértése, empatikus és morális átélése befolyásolt.
+   </p>
+   <p>
+    Kevesen vették észre, hogy a hidegháborús
+    <hi>
+     egyensúly
+    </hi>
+    (fegyveres béke) 1989 után fölbomlott az ENSZ nevével jellemezhető, antifasiszta eredetű konszenzus a jugoszláviai háborúval
+    [9]
+    , amikor világossá lőn, hogy a szupraetnikus nemzetállamok meg fognak szűnni, hogy az etnikumok nem tudnak és nem akarnak többé együtt élni, hiszen megszűnt mind
+    <hi>
+     a területi államokban a köztársasági jogrend fölvilágosító, univerzalisztikus eszménye
+    </hi>
+    , mind pedig
+    <hi>
+     a világpolgárság ugyancsak „aufklärista”, ha tetszik: „szabadkőműves” eszményének érvénye és hatása
+    </hi>
+    , ugyanis a posztimperialista kor eloldódott a régi polgári államok politikai és jogfölfogásától, mind a „nemzetközi békerendszer”, mind a „nemzetállam” halódik.
+   </p>
+   <p rend="head">
+    Ezt érti félre a
+    <hi>
+     mainstream
+    </hi>
+    magyar politikai közírás, amely pl. Orbán Viktor politikáját „nacionalistának”, sőt: „nemzetállaminak” tekinti: pedig a „nemzetinek” a jele az asszimiláció, a „beolvasztás”, azaz a „nemzeti egység”,
+    <hi>
+     nem
+    </hi>
+    pedig a kisebbségi etnikumok kirekesztése, eltaszítása vagy a bevándorlók kitiltása.
+   </p>
+   <p>
+    Az etnikai vagy kulturális kisebbségek jogfosztása, szegregációja mint államalkotó elv (manapság nagyjából mindenütt) és domináns politikai ideológia (napjainkban a választási siker titka nagyjából az összes országban)
+    <hi>
+     új fejlemény
+    </hi>
+    – nem
+    <hi>
+     anomália
+    </hi>
+    , mint korábban, hanem főszabály. A
+    <hi>
+     hospitalitás
+    </hi>
+    kanti elvét (ld. följebb) a menekültválság „megoldása” (minden fehér országban) tagadja a legradikálisabban: itt aztán végképp elvész a fölvilágosodás öröksége,
+    <hi>
+     győz a reakció
+    </hi>
+    , amely egyszerre „poszmodern” etnicista és 1789 előttien antiegalitárius.
+   </p>
+   <p>
+    A menekültválság
+    [10]
+    nyilvánvalóvá tette, hogy nem
+    <hi>
+     a nemzetek, nemzetállamok közötti küzdelem
+    </hi>
+    a fő veszély, mint volt az imperialista korszakban, a XIX-XX. században, hanem az összes államok, az összes polgári társadalmak
+    <hi>
+     közös, együttes
+    </hi>
+    küzdelme a színes etnikumok, szubkultúrák, menekültek-bevándorlók ellen, s velük együtt az adott termelési struktúrában fölöslegesnek bizonyuló szubproletariátus,
+    <hi>
+     underclass
+    </hi>
+    ellen, amelynek az etnicizálása, rasszosítása, „kulturális jegyekkel” való megbélyegzése
+    <hi>
+     a tőkés osztályelnyomás új politikai formája
+    </hi>
+    .
+   </p>
+   <p>
+    Ebbe a formába illeszkedik – több ország és övezet között, de különös nyomatékkal – a magyarországi és a kelet-közép-európai és közép-európai politika, amely jelen pillanatban nálunk minden politikai irányzatra kiterjed. A „migránsellenes” határkerítést a jelenlegi „választási kampányban” minden jelentősebb (és pár jelentéktelen) párt helyesli, a cigányság kulturális szegregációját és etnikai-szociális kirekesztését senki nem meri fölvetni.
+   </p>
+   <p>
+    Azok is engednek az etnicista (és/vagy rasszista) korszellemnek, akik titokban utálják. A heves (ám üres) politikai gyűlölködés hátterében csaknem teljes
+    <hi>
+     „a nemzeti egység”
+    </hi>
+    , miközben Orbán Viktor apparátusa és propagandastábja TELJESEN ALAPTALANUL vádolja – sajnos alaptalanul – az ellenzéki pártokat progresszív humanizmussal, világpolgárisággal és szocialista szellemű szolidaritással. A szimpla együttérzés a boldogtalanokkal, szenvedőkkel, szerencsétlenekkel, a legelemibb szánalom fölháborodott antipátiát vált ki, amely előtt meghátrál a Jobbikkal (amely ebben következetesebb Orbán miniszterelnöknél) szövetséges ellenzék. Ez érthető, mert az antietnicista (antirasszista, antifasiszta) állásponttal ma Európában, és különösen Magyarországon csak szavazatokat lehet veszteni. A kapitalizmus új korszakának áldozatát – az
+    <hi>
+     underclass
+    </hi>
+    munkanélküli és egyre inkább társadalmon kívüli tömegét – azonban nem lehet úgy elnyomni (vagy elnyomni hagyni), hogy ugyanakkor „szélesítsék”, pontosabban: újra bevezessék „a demokráciát”.
+   </p>
+   <p>
+    <hi>
+     Élections, piège à cons
+    </hi>
+    – Jean-Paul Sartre 1968-ban fölkapott, kitűnő kifejezése, jó modorú fordításban: „a választás a hülyék csapdája”. Ez nem változott. Ez igaz. Bár a szabály alól akadnak nagynéha kivételek. Kérdés, hogy az április 8-ai magyarországi országgyűlési választás ilyen-e, hogy csakugyan a kisebbik rosszra szavazunk-e. Mert ugye az ellenzékre fogunk szavazni. (Hiszen a hazánkat lezüllesztő Fidesz-KDNP nem jöhet szóba.) Nagy kérdés ez itt, a kerítés mögött.
+   </p>
+   <p>
+    [1]
+    – Miskolcon a DK (amelytől nem várok semmit) éppen Debreczeni Józsefet indítja képviselőjelöltként, akinek ugyan vannak demokratikus érdemei, de aki
+    <hi>
+     Ne bántsd a cigányt!
+    </hi>
+    c. (2014) talán nem rossz szándékú, de súlyosan problematikus könyvével (ld. róla
+    Hell István bírálatát
+    ) erre a szerepre igazán alkalmatlan. Írás közben értesülök róla, hogy az MSZP-P is támogatja a DK jelöltjét. Emlékezetes, hogy e két párt egykori miskolci polgármesterjelöltje a cigányozó, rasszista rendőr, Pásztor Albert volt, amit már annak idején elítéltem. Ld. még
+    a balközép cigányellenességéről
+    . A balközép pártok egyébként (bár különböző mértékben, néha csak föltűnő hallgatással, de az Együtt kivételével mindnyájan) támogatják a Fidesz-KDNP kerítéspolitikáját, „migránsellenes” rasszizmusát is. Egyetemben számos (és neves) „balliberális értelmiségi közszereplővel”. Nem szólva a Jobbikról. Ugyanakkor a kormánysajtó most már egyértelműen a nyílt fasizmust importálja,
+    Jean Raspail-tól
+    Renaud Camus-ig
+    . Orbán miniszterelnök a Fratelli d’Italia posztfasiszta/neofasiszta párt elnökét, Giorgia Melonit fogadja (akit a Klubrádió „jobbközép politikusnak” nevez), stb., stb.
+    [2]
+    – Vö.
+    http://hvg.hu/velemeny/20171219_TGM_osztrak_kormany_szelsojobboldal_iszlam_migransok_Kurz_Strache
+    ;
+    https://merce.hu/2018/01/08/tgm-magyarorszag-kulpolitikaja/
+    ;
+    http://hvg.hu/itthon/20180212_TGM_Nemet_valsag_europai_valsag
+    [3]
+    – Lásd
+    <hi>
+     Törzsi fogalmak
+    </hi>
+    c. könyvem I. kötetét, kül. „A nemzeti érzés erkölcsi lényege” c. fejezetet (1988, először az
+    <hi>
+     Idola tribus
+    </hi>
+    c. kötetemben, Párizs: Magyar Füzetek, 1989), Bp.: Atlantisz, 1999, 53-273. Vö. G. M. Tamás: „Ethnicism After Nationalism”,
+    <hi>
+     Socialist Register 2016
+    </hi>
+    , szerk. Leo Pantitch, Greg Albo, London/Toronto: Merlin, 2015, 118-135.
+    [4]
+    – Ld. Isaiah Berlin: „Kant as an Unfamiliar Source of Nationalism” [1972], in: Berlin:
+    <hi>
+     The Sense of Reality
+    </hi>
+    , szerk. Henry Hardy, New York: Farrar, Straus &amp; Giroux, 1996, 232-248. Vö. „Nationalism: Past Neglect and Present Power” [1978], in: Isaiah Berlin:
+    <hi>
+     Against the Current: Essays in the History of Ideas
+    </hi>
+    , szerk. Henry Hardy, Oxford: Oxford University Press, 1981, 333-354. Evvel szemben: Liah Greenfeld:
+    <hi>
+     Nationalism: Five Roads to Modernity
+    </hi>
+    , Cambridge MA/London: Harvard University Press, 1992. Vö. TGM: „A nemzeti érzés erkölcsi lényege”,
+    <hi>
+     i. h
+    </hi>
+    .
+    [5]
+    – Ld. TGM: „Etnarchia és etnoanarchizmus” [eredetileg: „Ethnarchy and Ethno-Anarchism”,
+    <hi>
+     Social Research
+    </hi>
+    , Vol. 63, No. 1, Spring 1996, 147-190], in TGM:
+    <hi>
+     Törzsi fogalmak
+    </hi>
+    ,
+    <hi>
+     I
+    </hi>
+    , id. kiad., 303-346.
+    [6]
+    – Vö. G. M. Tamás: „From Subjectivity to Privacy and Back Again”,
+    <hi>
+     Social Research
+    </hi>
+    , Vol. 69, No. 1, Spring 2002, 201-222
+    [7]
+    – „Ama közönségesen használt szólásról, hogy ez talán igaz az elméletben, de a gyakorlatban mit sem ér” [1796], ford. Mesterházi Miklós, in: Immanuel Kant:
+    <hi>
+     Történetfilozófiai írások
+    </hi>
+    , h. n. [Szeged]: Ictus, é. n. [1997], 186. Ez a Hobbes elleni fejezetben található, össze kell olvasni a következő lapokkal (187-193) is.
+    [8]
+    – „Az örök békéről” [1795-1796], ford. Mesterházi Miklós, in: Kant:
+    <hi>
+     i. m
+    </hi>
+    ., 265-275.
+    [9]
+    – G. M. Tamás: „The Hundred Years War”,
+    <hi>
+     Boston Review
+    </hi>
+    , 1999. június,
+    http://bostonreview.net/world/g-m-tam%C3%A1s-two-hundred-years-war
+    , magyarul itt:
+    http://beszelo.c3.hu/cikkek/a-ketszaz-eves-haboru
+    (eredetileg
+    <hi>
+     Világosság
+    </hi>
+    XXXIX, 1998/8-9.).
+    [10]
+    – Vö. G. M. Tamás: „The Meaning of the Refugee Crisis”,
+    <hi>
+     openDemocracy
+    </hi>
+    , 2015. szeptember 21.
+    https://www.opendemocracy.net/can-europe-make-it/g-m-tam%C3%A1s/meaning-of-refugee-crisis
+    , magyarul itt:
+    http://kettosmerce.blog.hu/2015/09/22/tgm_a_menekultvalsag_jelentese
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Putyin most nagyon örülhet: soha ennyien nem szavaztak még Oroszországban
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2a592e61-99d7-5ae0-8b82-a2d75ee7d530
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Putyin most nagyon örülhet: soha ennyien nem szavaztak még Oroszországban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-18T11:33:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/18/putyin-most-nagyon-orulhet-soha-ennyien-nem-szavaztak-meg-oroszorszagban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/18/putyin-most-nagyon-orulhet-soha-ennyien-nem-szavaztak-meg-oroszorszagban/
+     </sch:url>
+     <sch:name>
+      Putyin most nagyon örülhet: soha ennyien nem szavaztak még Oroszországban
+     </sch:name>
+     <sch:datePublished>
+      2018-03-18T11:33:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      oroszország
+     </sch:keywords>
+     <sch:keywords>
+      Putyin
+     </sch:keywords>
+     <sch:keywords>
+      elnökválasztás
+     </sch:keywords>
+     <sch:keywords>
+      borítékolt győzelem
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2a592e61-99d7-5ae0-8b82-a2d75ee7d530">
+     <sch:identifier>
+      urn:uuid:107bf4b3-5095-4329-a46c-28fb0791797b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:08.237994
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:48:10.372141
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2a592e61-99d7-5ae0-8b82-a2d75ee7d530" when="2021-12-14T15:35:08.237994">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Putyin most nagyon örülhet: soha ennyien nem szavaztak még Oroszországban
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Úgy tűnik, kitűnően teljesített a véghajrában az orosz állami propagandagépezet: a választópolgárok 16,6 százaléka moszkvai idő szerint délelőtt 10 órára már le is szavazott, ami minden idők legmagasabb részvételi arányát jelenti ebben az időszakban.
+   </p>
+   <p>
+    Ella Pamfilova, a Központi Választási Bizottság elnöke
+    közölte: 2000-ben a választók 6,36 százaléka, 2004-ben 8,01 százaléka, 2008-ban 8,89 százaléka, 2012-ben pedig 6,53 százaléka adta le a voksát délelőtt 10-ig. Moszkvában és Szentpéterváron állítólag közel duplájára nőtt a szavazatukat leadók száma a hat évvel ezelőttihez képest.
+   </p>
+   <p>
+    Pamfilova azt is jelezte: a délelőtti órákban a választási bizottsághoz 6366 lehetséges szabálysértésre vonatkozó bejelentés érkezett, ezek közül 795 olyan esetekre vonatkozott, ahol a helyi hatóságok vagy az állami munkaadók igyekeztek nyomást gyakorolni a választópolgárokra a részvételi arány növelése érdekében.
+   </p>
+   <p>
+    Az orosz választásokról írt elemzésünk
+    itt olvasható
+    .
+   </p>
+   <p>
+    Ami abból a szempontból nem meglepő, hogy a választási véghajrában az állami intézmények és a kormánybarát sajtó is részvételre buzdított: a minél magasabb részvételi arány ugyanis a most éppen független jelöltként induló Vlagyimir Putyin megdicsőülését hozhatja.
+   </p>
+   <p>
+    Kép forrása: Kremlin.ru
+   </p>
+   <p>
+    Az eddig sem volt kérdés, hogy a regnáló Putyin toronymagasan nyerheti a 2018-as választásokat (bár az utolsó időszakban népszerűsége valamelyest csökkent), ám az jól láthatóan nem volt mindegy, hogy mennyire lesz fölényes ez a győzelem.
+   </p>
+   <p>
+    Az országgyűlési választásokon ugyanis rekordalacsony volt a részvétel, ami miatt kérdésessé vált az is, első körben érvényes lesz-e a mostani választás (elmegy-e elég ember szavazni), emellett a legismertebb ellenzéki erőt képviselő Alekszej Navalnij, miután a választási bizottság döntése alapján nem indulhatott a választáson, bojkottra szólított fel minden tudatos orosz állampolgárt. Navalnij kezdeményezése után Oroszország számos nagyvárosában ezrek vonultak utcára, a bojkott pedig egyre többek számára tűnt erős tiltakozási formának a jóformán kihívó nélkül induló Putyin kritikájaként – ám mindeközben az orosz társadalom jelentős része a választások helyett leginkább a téli olimpiai játékokkal volt elfoglalva (meglehetősen szemléletes példája ennek, hogy nagyságrendekkel többen vonultak utcára a Nemzetközi Olimpiai Bizottság (NOB) elleni tiltakozásként, mint Navalnij támogatására).
+   </p>
+   <p>
+    Putyin számára tehát jelenleg úgy néz ki, hogy az ellenzéki hangok teljes lesöprését jelentheti ez a választás, a történelmien magas részvételi arányokkal – bár persze az esti urnazárásig még sok minden történhet.
+   </p>
+   <p>
+    A választásra egyébként 109 országból mintegy 1500 megfigyelő érkezett, a legnagyobb küldöttséget, 580 főt az Európai Biztonsági és Együttműködési Szervezet (EBESZ) és az EBESZ Parlamenti Közgyűlése küldte. Az EBESZ viszont azt is közölte, hogy az Ukrajnától négy éve elcsatolt Krím félszigeten megrendezett választás megfigyelésében nem vesznek részt – miközben sajtóhírek szerint az ukrán hatóságok több helyen is megakadályozták, hogy az orosz választópolgárok leadják voksaikat a külképviseleteken.
+   </p>
+   <p>
+    MTI/Mérce
+   </p>
+  </body>
+ </text>
+</TEI>

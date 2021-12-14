@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Az elektromos autók és a piaci mechanizmusok magukban nem sokat érnek”
+    </title>
+    <author>
+     <persName>
+      Danijela Dolenec
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bc70121a-7f17-56ba-8e9a-2cf4f6f3038b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Az elektromos autók és a piaci mechanizmusok magukban nem sokat érnek”
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Danijela Dolenec
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-08-18T19:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/08/18/az-elektromos-autok-es-a-piaci-mechanizmusok-magukban-nem-sokat-ernek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/08/18/az-elektromos-autok-es-a-piaci-mechanizmusok-magukban-nem-sokat-ernek/
+     </sch:url>
+     <sch:name>
+      „Az elektromos autók és a piaci mechanizmusok magukban nem sokat érnek”
+     </sch:name>
+     <sch:datePublished>
+      2019-08-18T19:30:00
+     </sch:datePublished>
+     <sch:author>
+      Danijela Dolenec
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      neoliberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      zöldpolitika
+     </sch:keywords>
+     <sch:keywords>
+      periféria
+     </sch:keywords>
+     <sch:keywords>
+      green european journal
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bc70121a-7f17-56ba-8e9a-2cf4f6f3038b">
+     <sch:identifier>
+      urn:uuid:d8994061-cf1b-44e8-bb7f-784ca8c02eca
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:53.777926
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:43:35.722191
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bc70121a-7f17-56ba-8e9a-2cf4f6f3038b" when="2021-12-14T15:30:53.777926">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Az elektromos autók és a piaci mechanizmusok magukban nem sokat érnek”
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Az örök békétől az egyre szorosabb egységig, az Európai Unió legitimációja mindig is a jövővel kapcsolatos víziókon alapult. A legtöbb – és főképp a kelet-európai – ember számára a történet legjobb és legfontosabb része az európai szociális modell volt: gyarapodás, védelem és szabadság. De mi történik velünk, ha pont ez a legjobb rész szűnik meg?
+   </p>
+   <p>
+    A
+    <hi>
+     Green European Journal
+    </hi>
+    cikksorozatának alábbi darabjában Danijela Dolenec, egy Horvátországban élő társadalomtudós azt vizsgálja, miért csalódott a társadalom abban a status quo-ban, amely gazdasági egyenlőtlenségeket, és a neoliberalizmus különféle árnyalatait kínálja Európa lakosságának.
+   </p>
+   <p>
+    Dolenec azt mondja, az EU rossz irányba fejlődött, de ettől még nem lehet hátat fordítani az egyesült Európa ideájának. A klímaválság kihívásaival szembenézve a zöld baloldalnak egy olyan átalakuláson kell dolgoznia, amely túllép az osztályhierarchián és megmenti a bolygót – az elektromos autók és a piaci mechanizmusok önmagukban nem sokat érnek.
+   </p>
+   <p rend="head">
+    Európa, az ígéret
+   </p>
+   <p>
+    Kelet-Európa állampolgárai számára az EU sokáig a legfőbb politikai célkitűzésnek számított – és ez adta nekik a jövőbe vetett hitet. Európa számított a világ legfejlettebb régiójának: jólétet és fellendülést jelképezett, amely ráadásul kéz a kézben járt a politikai és szabadságjogok magas szintű védelmével.
+   </p>
+   <p>
+    Más szavakkal: ezek az állampolgárok a híres „európai szociális modellről” álmodoztak.
+   </p>
+   <p>
+    Ám ez az áhított Európa nem jött el számukra. Míg az EU irányelve korábban az volt, hogy „békét Európának” – idővel az az elképzelés vette át a helyét, miszerint a közös piacnak kellene elhoznia mindenki számára a jólétet. A Lisszaboni stratégia azt a célt tűzte ki az EU vezetőinek, hogy tegyék Európát a világ legversenyképesebb gazdaságává, ezért az európai szociális modellről szóló elképzeléseknek szépen lassan hátat fordítottak – és a piaci versengésre fektették a hangsúlyt. Ennek hatására pedig még tovább tágult a szakadék a mag Európa és a perifériák között. Ezzel együtt nőttek az egyenlőtlenségek, és egyre csak erodálódott az EU támogatottsága.
+   </p>
+   <p rend="head">
+    A szociális modell halott
+   </p>
+   <p>
+    2012-re egy dolog biztossá vált. Mint azt Mario Draghi, az Európai Központi Bank elnöke is mondta: az európai szociális modell halott. Persze 15 vagy húsz évvel a szabadpiaci átalakulások kezdete után ez teljesen nyilvánvaló volt Kelet-Európa lakosai számára, akik már a csatlakozás idején is jóval kevéssé támogatták az uniós tagságot, mint a megelőző években bármikor.
+   </p>
+   <p>
+    A csehek, szlovákok, lengyelek, horvátok, magyarok és szlovének kiábrándító, harminc százalék alatti választási részvételeket produkáltak. Az egykori eufória csalódásba fordult, és ami még rosszabb, a közhangulat változását majdnem mindenki figyelmen kívül hagyta – leszámítva az új populista jobboldalt.
+   </p>
+   <p>
+    Ennek fényében hatalmas kihívás meggyőzni a közép-európai választókat, hogy menjenek szavazni az EP-választásokon. Európa távoli, a brüsszeli elitek pedig nem hallják a polgáraik hangját. Ez a mi nagy problémánk 2019-ben: bár nagyon kevés rajongója maradt mára az EU-nak, nekünk mégis szükségünk van rá. Éppen ezért, teljesen meg kell azt újítanunk.
+   </p>
+   <p rend="head">
+    Létfontosságú, de újításra szorul
+   </p>
+   <p>
+    Az EU létfontosságú ahhoz, hogy megbirkózzunk a 21. század alapvető kihívásaival: a növekvő egyenlőtlenségekkel, a klímaváltozással és a migrációval. Ezekre nem lehet csupán a nemzeti politika keretein belül választ találni. Gyakori áradások, extrém hőmérséklet-ingadozások, szárazságok, tüzek és példa nélküli viharok jelzik, hogy komolyan kell venni a klímaváltozást.
+   </p>
+   <p>
+    2014-ben a Nyugat-Balkán pusztító áradásokkal szembesült, amelyek 2,5 millió ember életét befolyásolták valamilyen formában – és megmutatták azt is, hogy általában azok szenvedik el leginkább a klímaváltozás következményeit, akik a legkevésbé tehetnek róla. 
+Hasonlóképp, évekig Európa perifériája volt az, ahol a migrációs útvonal részeként közelről nézhettél azon emberek szenvedéseit, akik a Közel-Keletről és Észak-Afrikából menekültek egy jobb élet reményében Európába. Ezzel egyidőben a perifériák lakossága is nagy számban vándorolt nyugat felé, hogy ott jobb munkalehetőségeket találjon.
+   </p>
+   <p rend="head">
+    Ezen kihívásokra reagálva, az EU választópolgárainak az elitek hamis választási lehetőségeket kínálnak: arról kellene dönteniük, „nyitott” vagy „zárt” Európában akarnak-e élni, miközben az ide vezető neoliberális politikát szinte senki nem akarja megkérdőjelezni.
+   </p>
+   <p rend="head">
+    Nyitott vagy zárt, egyre megy?
+   </p>
+   <p>
+    Az a nyitott Európa, amit a liberális pártok hirdetnek, valójában a gazdasági liberalizmus politikájának folytatását jelenti – hiába vezetett ezen politika alkalmazása a múltban is az országok közötti egyenlőtlenségek növekedéséhez.
+   </p>
+   <p>
+    A liberális gazdaságpolitika pusztító hatásáról szóló meggyőző bizonyítékok ellenére a liberális pártok üzenete továbbra is az, hogy túl keveset léptettek idáig életbe az elképzeléseik közül, és meg kellene duplázni a deregulációra és liberalizációra irányuló erőfeszítéseket, hogy végre megszabaduljon a piac a béklyóitól.
+   </p>
+   <p>
+    Más szavakkal: a liberálisok cinikusan megpróbálnak érvényt szerezni annak a politikának, amelyből a városi, egyetemet végzett és tehetős lakosság profitál – de közben azt akarják elhitetni velünk, hogy mindez a többség érdekeit szolgálja.
+   </p>
+   <p>
+    Behozzák a több sebességű Európa ötletét, és arról álmodoznak, hogy egy olyan EU-ban élhetnek, amely szelektív előnyöket szolgáltat a klubtagoknak. Ez egy olyan elitista elképzelés, amely csak egy privilegizált kisebbséget tud mobilizálni, annak érdekében, hogy megőrizhesse a pozícióját és a vagyonát.
+   </p>
+   <p>
+    Eközben a jobboldal gyűlöletet kelt, mintha az lenne a gazdasági liberalizmus gyógymódja – ezzel pedig az egyenlőtlenség és bizonytalanság gazdasági okait áthelyezi az identitás és az etnikai különbségek szintjére.
+   </p>
+   <p>
+    Azt sugallják, hogy amennyiben a bankokat és a nagyvállalatokat nem külföldiek és idegenszívűek vezetnék, hanem a „becsületes nacionalisták,” akkor a munka és a tőke közötti konfliktus magától eltűnne.
+   </p>
+   <p rend="head">
+    A nép akaratára való hivatkozásuk két tévhitet is rejt magában. Egyrészt azt állítják, hogy a nemzet elképzelt közösségéhez való tartozás felszámolja az osztályokat és minden más különbséget. Másrészt azt mondják, ha elvesszük a stigmatizált kisebbségek jogait, az javítani fog a többség körülményein.
+   </p>
+   <p rend="head">
+    Van kiút?
+   </p>
+   <p>
+    Mi lenne a kiút ebből a hamis dilemmából, ami a „nyitott” neoliberális Európa és a „zárt” neoliberális Európa között késztet minket választani?
+   </p>
+   <p>
+    Ahhoz, hogy megoldást találjunk, egyrészt át kell alakítanunk az EU-t, mégpedig olyan formán, hogy a piacépítés imperatívusza helyett az állampolgárok lakhatási viszonyainak és életminőségének javítását és a Föld bolygón való élet vonzóbbá tételét tekintsük legfőbb célunknak.
+   </p>
+   <p>
+    Jelenleg ugyanis az EU a Föld biokapacitásának húsz százalékát használja, miközben a lakossága csupán a világ lakosságának hét százalékát teszi ki. Ha mindenki úgy fogyasztana, ahogy azt az európaiak teszik, akkor 2,8 bolygóra lenne szükségünk, hogy ki tudjuk elégíteni az igényeiket.
+   </p>
+   <p>
+    Éppen ezért, az EU-nak kell a legnagyobb felelősséget vállalnia abban, hogy megtörténjen az irányváltás, és csökkenni kezdjen végre az emberiség ökológiai lábnyoma.
+   </p>
+   <p>
+    Másrészt, a szakpolitikai megoldások kidolgozásához tudomásul kell venni a hatalmas fejlettségbeli különbségeket a mag Európa és a periféria lakossága között. Mint ahogy az államok közötti növekvő egyenlőtlenségeket sem szabad figyelmen kívül hagyni.
+   </p>
+   <p rend="head">
+    Közös, de nem egyenlő felelősség
+   </p>
+   <p>
+    Más szavakkal: nem mindenki utazik ugyanabban a csónakban. A klímaválságról szóló jelenlegi diskurzus jórészt egy politika utáni keretbe helyezi a kérdést, amelyben az emberiséget egységként kezelik, mintha ugyanaz lenne a történelmük és a jövőjük.
+   </p>
+   <p>
+    Ez a keret viszont figyelmen kívül hagyja, hogy nem mindenkinek van egyenlő felelőssége a klímaválság kialakulásában, és nem mindenki van ugyanannyira kitéve a következményeknek. Ahogy azt Andreas Malm, a Lund Egyetem kutatója írta: „mindaddig, amíg osztálytársadalmak vannak, addig lesznek a gazdagok és privilegizáltak számára mentőcsónakok, és nem lehet közös képünk a katasztrófáról.”
+   </p>
+   <p>
+    Ami pedig még fontosabb: a politika utáni keret meghiúsítja a mobilizációt – hiszen amikor mindenki hibás, akkor egyben senki sem hibás. Ezt mondta Greta Thunberg is, amikor a davosi Világgazdasági Fórumon beszélt az üzleti elithez. Gyakorlatilag azért vagyunk most ebben a helyzetben, mert mindazok a lépések, amelyek lehetőséget adnának nekünk arra, hogy elhárítsuk a katasztrófát és ezzel a társadalom többségének is előnyére válnának, túlságosan fenyegetőnek tűnnek az önző elit-kisebbség szemében.
+   </p>
+   <p rend="head">
+    Nem elég!
+   </p>
+   <p>
+    2019 áprilisában a
+    <hi>
+     Science
+    </hi>
+    magazin megjelentetett egy cikket, ami hasonlót állított. Azt mondta, hogy a klíma és a bioszféra védelmében tett lépéseink távolról sem elegendőek, és arra szólít fel, hogy csökkentsük az igényeinket, és osszuk el egyenlőbben a klíma érdekében tett lépések költségeit és hasznát.
+   </p>
+   <p rend="head">
+    Mindeközben az EU klímaváltozás elleni politikája a megújuló energiára, energiahatékonyságra, alacsony széndioxid-kibocsátással járó szállításra és hasonlókra fekteti a hangsúlyt, de nem érinti az európai gazdaságok neoliberális alapjait: a gazdasági növekedés mindenhatóságát, és a növekvő egyenlőtlenségek miatt kirobbanóban lévő osztálykonfliktust.
+   </p>
+   <p>
+    Az EU-nak le kell állnia azzal a gyakorlattal, hogy a klímaválság megelőzésére tett lépéseket új profitszerzési lehetőségként kezelje, és el kell ismernie végre, hogy mélyreható átalakulásra van szükség – a vezérelvnek pedig a társadalmi igazságosságnak kell lennie.
+   </p>
+   <p>
+    Az EU és a világ jövője egy zöld-baloldali perspektívát kíván, amely a klímaváltozás megfékezését célzó sürgős cselekvést összeköti egy társadalmi igazságossági napirenddel, amely tudomásul veszi, hogy nem mindenki érintett ugyanannyira.
+   </p>
+   <p rend="head">
+    Annak érdekében, hogy széleskörű társadalmi támogatásunk lehessen a szükséges technológiai változtatásokhoz, az EU szakpolitikai javaslatainak együtt kell járniuk komoly újraelosztási elképzelésekkel, és szükség van komolyan vehető elképzelésekre arra nézvést is, hogyan nézne ki a növekedési paradigmán túllépett társadalom.
+   </p>
+   <p>
+    A zöld baloldal számára az Európai Unió jövője egy olyan társadalmat jelent, amely túllépett a fosszilis tüzelőanyagokon és a kapitalista logikán – egy olyan társadalmat, ahol mindenki egyenlő.
+   </p>
+   <p>
+    Az írás eredetileg a brüsszeli
+    <hi>
+     Green European Journal
+    </hi>
+    -ben jelent meg, angolul, magyarra B. Simon Krisztián fordította.
+   </p>
+  </body>
+ </text>
+</TEI>

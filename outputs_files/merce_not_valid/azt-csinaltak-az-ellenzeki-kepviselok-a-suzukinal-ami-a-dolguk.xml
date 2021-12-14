@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Azt csinálták az ellenzéki képviselők a Suzukinál, ami a dolguk
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     66e1e54e-2f56-5a92-a987-92a2b9392a3f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Azt csinálták az ellenzéki képviselők a Suzukinál, ami a dolguk
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-02-19T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/02/19/azt-csinaltak-az-ellenzeki-kepviselok-a-suzukinal-ami-a-dolguk/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/02/19/azt-csinaltak-az-ellenzeki-kepviselok-a-suzukinal-ami-a-dolguk/
+     </sch:url>
+     <sch:name>
+      Azt csinálták az ellenzéki képviselők a Suzukinál, ami a dolguk
+     </sch:name>
+     <sch:datePublished>
+      2019-02-19T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      rabszolgatörvény
+     </sch:keywords>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      vasas
+     </sch:keywords>
+     <sch:keywords>
+      multi
+     </sch:keywords>
+     <sch:keywords>
+      suzuki
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="66e1e54e-2f56-5a92-a987-92a2b9392a3f">
+     <sch:identifier>
+      urn:uuid:d8de733d-7ce8-4a37-96cb-1cefaa3bae61
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.083232
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:23:34.017337
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="66e1e54e-2f56-5a92-a987-92a2b9392a3f" when="2021-12-14T15:30:43.083232">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Azt csinálták az ellenzéki képviselők a Suzukinál, ami a dolguk
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Egy választott képviselő dolga az, hogy ha egy választópolgárát sérelem éri, akkor fellépjen, tárgyaljon, nyomást gyakoroljon, törvényt hozzon, és védje meg a választókat. Mindezt pedig úgy, hogy a különböző érdekcsoportok szempontjai közti ellentétet megpróbálja összeegyeztetni.
+   </p>
+   <p>
+    Hétfőre az ellenzéki képviselők azt ígérték, a Parlamentben fognak akciózni Orbán Viktorral szemben. De volt B tervük arra, hogy mit csinálnak, ha a miniszterelnök nem lesz bent. A miniszterelnök pedig már délelőtt elutazott Izraelbe, miközben tárgyalásai csak kedden kezdődnek majd el. Így az ellenzék a B tervet választotta, elment a Suzuki gyárához tiltakozni, ahol a kormánnyal stratégiai partnerséget kötött
+    vállalat kirúgta egy munkavállalóját
+    , amikor az szakszervezetet akart alapítani. Majd később több dolgozót megfenyegetett,
+    ne lépjenek be a Vasas szakszervezetébe
+    . A Suzukinál egyébként ez már a harmadik eset Magyarországra költözése óta, hogy megpróbálják a gyáron belüli szakszervezetet ellehetetleníteni.
+   </p>
+   <p>
+    Márpedig az ellenzéki képviselők itt egy fontos dologra mutattak rá. Miközben az ország tele van plakátolva a kormányzati sikerpropagandával, jobban megnézve, a környező országokban a dolgozóknak magasabb a bére, mint Magyarországon. Sőt, itthon (ahogy persze máshol is), az sem ritka, hogy visszaélnek a dolgozók jogaival, akadályozzák a sztrájkot, a szakszervezet alapítást, nem adják ki a pihenőidőt, fenyegetik a munkavállalókat.
+   </p>
+   <p>
+    Amikor hétfőn odament a Suzukihoz az ellenzék, az ilyen gyakorlatok ellen lépett fel. Ez a munkájuk, és nagyon helyes, ha így végzik.
+   </p>
+   <p>
+    Már csak azért is helyes, mert politikailag ezzel nemcsak saját elköteleződésüket mutatják meg a munkavállalók felé, hanem azt is, hogy a kormányzat ezekben az ügyekben nem lép semmit. Miközben sorra köti a szerződéseket a legnagyobb multikkal stratégiai partnerségekről, ezekben nem szerepel se a dolgozói jogok, se a béremelésekre vonatkozó munkavállalói igény támogatása. Persze egy ilyen helyzetben a kormánynak nehezebb is fellépnie, hiszen mérlegelnie kell azt is, hogyan reagál majd a nagy multi az esetleges számonkérésre.
+   </p>
+   <p rend="head">
+    De a Suzuki esetében egyáltalán nem lépett fel a kormány a dolgozói jogok védelmében.
+   </p>
+   <p>
+    Mindeközben pedig órási kedvezményeket ad a kormány ezeknek a cégeknek. 19-ről 9 százalékra vitte le az őket érintő társasági adót, és az elmúlt 8 évben kétszer annyi támogatást adott nekik, mint a megelőző szocialista-liberális koalíció.
+   </p>
+   <p>
+    Persze arról lehet vitatkozni, milyen mértékben és hogyan kell támogatni a nagytőkét, és ezzel a munkahely teremtést, de az biztos, nem szabadna ennek úgy történnie, hogy a munkavállalók, a dolgozók, a magyar állampolgárok jogait és érdekeit ne mozdítsa ezekkel a támogatásokkal elő a kormány.
+   </p>
+   <p>
+    Az ellenzék akciója tehát azért érdekes, mert a decemberi rabszolgatörvény kapcsán keletkezett képet próbálja továbbvinni, amiben a nagy cégeket érdemtelenül támogató kormánnyal szemben, az ellenzéki képviselők mint a dolgozók pártján álló politikusok akarnak fellépni. Hogy sikeres lesz-e ez a szerepvállalás, az persze a jövő zenéje.
+   </p>
+  </body>
+ </text>
+</TEI>

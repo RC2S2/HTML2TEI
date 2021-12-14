@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karácsonyi képeslapot küldtek hajléktalan emberek az alkotmánybíróknak, akik szerint az utcán élés büntethető
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d2f032b0-ffeb-53f6-82c7-9a911b6c8dd9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Karácsonyi képeslapot küldtek hajléktalan emberek az alkotmánybíróknak, akik szerint az utcán élés büntethető
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-12-23T20:28:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/12/23/karacsonyi-kepeslapot-kuldtek-hajlektalan-emberek-az-alkotmanybiroknak-akik-szerint-az-utcan-eles-buntetheto/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/12/23/karacsonyi-kepeslapot-kuldtek-hajlektalan-emberek-az-alkotmanybiroknak-akik-szerint-az-utcan-eles-buntetheto/
+     </sch:url>
+     <sch:name>
+      Karácsonyi képeslapot küldtek hajléktalan emberek az alkotmánybíróknak, akik szerint az utcán élés büntethető
+     </sch:name>
+     <sch:datePublished>
+      2019-12-23T20:28:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      hajléktalanság
+     </sch:keywords>
+     <sch:keywords>
+      tasz
+     </sch:keywords>
+     <sch:keywords>
+      alkotmánybíróság
+     </sch:keywords>
+     <sch:keywords>
+      helsinki bizottság
+     </sch:keywords>
+     <sch:keywords>
+      utcajogász
+     </sch:keywords>
+     <sch:keywords>
+      kriminalizáció
+     </sch:keywords>
+     <sch:keywords>
+      karácsony
+     </sch:keywords>
+     <sch:keywords>
+      üzenet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d2f032b0-ffeb-53f6-82c7-9a911b6c8dd9">
+     <sch:identifier>
+      urn:uuid:d1ac6526-ad56-4f42-9d56-d7ca1f566c90
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:24.821936
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:55:55.204990
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d2f032b0-ffeb-53f6-82c7-9a911b6c8dd9" when="2021-12-14T15:30:24.821936">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Karácsonyi képeslapot küldtek hajléktalan emberek az alkotmánybíróknak, akik szerint az utcán élés büntethető
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Az Utcajogász, a Magyar Helsinki Bizottság és a Társaság a Szabadságjogokért (TASZ) közös akciójának keretében lehetőséget kaptak hajléktalan emberek, hogy karácsonyra igazán őszinte üzenetet küldjenek azoknak az alkotmánybírákank, akik szerint nem alaptörvény-ellenes a hajléktalanság büntetését lehetővé tévő jogszabály, mert
+   </p>
+   <p>
+    „az Alaptörvény értékrendje szerint a nincstelenségre, a hajléktalanságra senkinek nincs joga, ez az állapot nem az emberi méltósághoz való jog része.”
+   </p>
+   <p>
+    A hajléktalanságot kriminalizáló törvényt 2018 októberében fogadták el, aminek értelmében még az év végéig több hajléktalan embert fogdába szállított a rendőrség, majd egészen méltatlan körülmények között, szabálysértési eljárás keretében bíróság elé is állították őket. A tavalyi év végén azonban több olyan bíróság is akadt, ahol
+    elutasították
+    az előállított hajléktalan emberek felelősségre vonását, helyette alkotmányossági panaszt tettek.
+   </p>
+   <p>
+    Az indítványokat azért nyújtották be a bírók, mert a rendelkezést a jogállamiság elvével és az emberi méltósághoz való joggal is ellentétesnek találták a törvényt. Az Alkotmánybíróság idén júniusban végül úgy döntött, nem alkotmányellenes a hajléktalanellenes törvény, ezért elutasította a bírói indítványokat.
+   </p>
+   <p>
+    A három civil szervezet nemrég békés tüntetést is szervezett, hogy felhívják a figyelmet:
+   </p>
+   <p rend="head">
+    a hajléktalanság nem egy választott életforma, hanem a társadalmi kirekesztettség állapota.
+   </p>
+   <p>
+    Az alkotmánybíráknak küldött karácsonyi képeslapokon a következők olvashatók:
+   </p>
+   <p>
+    „Tisztelt Elnök úr! Megjártam a hajléktalanság minden fokát (utca, szálló, sátor, szívességi lakáshasználó, munkásszálló stb.). Nekem elhiheti, hogy az emberek nem azért élnek az utcán, mert nem akarnak együttműködni. És azt is elhiheti, hogy nincs olyan ember, aki szeret az utcán élni. Kívánom, hogy Önnek ezt soha ne kelljen átélnie!”
+   </p>
+   <p>
+    – írja egy hajléktalan érintett Sulyok Tamásnak, az Alkotmánybíróság elnökének.
+   </p>
+   <p>
+    „Kedves Marcel! Karácsony alkalmából szeretnék egy meghívást átadni Önnek. Azért, hogy saját szemével lássa a hajléktalan ellátást, szívesen látom egy kis körúton egy intézményben”
+   </p>
+   <p>
+    – üzeni egy hajléktalan ember Szabó Marcel alkotmánybírónak, aki a hajléktalanság büntethetősége mellett szavazott a nyáron.
+   </p>
+   <p>
+    „Kedves Mária! Karácsonykor egy Mária nevű anyukát is ünneplünk, aki hajléktalanként egy jászolban szülte meg kisfiát. Kár, hogy Ön ezt elfelejtette. Boldog karácsonyt! Egy másik Mária nevű anyuka”
+   </p>
+   <p>
+    – szól a karácsonyi üdvözlet Szívós Mária alkotmánybírónak, aki szintén a hajléktalanság büntethetősége mellett szavazott.
+   </p>
+   <p>
+    „Tisztelt Balsai Úr! A hajléktalanság élethelyzet, amit a döntéshozóknak kellene megoldani. Büntetés helyett segítség, emberség, szolidáris együttérzés! Nem ellátórendszerbe kényszerítés a megoldás, hanem az emberhez méltó élet!”
+   </p>
+   <p>
+    – írja Lakatosné Jutka, az AVM hajléktalan aktivistája Balsai István alkotmánybírónak.
+   </p>
+   <p>
+    „Tisztelt Pokol Béla úr! A hajléktalanság nem jogi, hanem szociális kérdés! ‘Ne ítélj, hogy ne ítéltess’ – Kérjük vissza a méltóságunkat!”
+   </p>
+   <p>
+    – üzeni egy másik érintett Pokol Béla alkotánybírónak, akin szintén múlt a döntés.
+   </p>
+   <p>
+    De volt olyan alkotmánybíró is, akihez köszönettel fordultak hajléktalan embertársaink: ők azok, akik nem értettek egyet az Alkotmánybíróság döntésével.
+   </p>
+   <p>
+    „Tisztelt Alkotmánybíró úr! Köszönöm, hogy kiállt az igazi emberi méltóság mellett, köszönöm hajléktalan társaim nevében is, hogy tiszteletben tartotta méltóságunkat, és kiállt a hajléktalan előítéletekkel szemben. Ezúton szeretnék boldog karácsonyi ünnepeket kívánni”
+   </p>
+   <p>
+    – üzeni egy hajléktalan ember Schanda Balázs alkotmánybírónak, aki különvéleményt fűzött az Alkotmánybíróság határozatához, amely engedte a hajléktalanság büntetését.
+   </p>
+   <p rend="head">
+    Szerinte ugyanis abból a követelményből, hogy a társadalom gondoskodjon az elesettekről, nem az következik, hogy büntetni lehet őket, ha nem mennek szállóra.
+   </p>
+   <p>
+    „Kedves Ágnes! Nagyon köszönöm, hogy emberséges. Szeretettel: Ágnes”
+   </p>
+   <p>
+    – ezzel az üzenettel kívánt kellemes ünnepeket Czine Ágnes alkotmánybírónak egy hajléktalan érintett karácsony alkalmából, ugyanis ő is azok között az alkotmánybírók között volt, akik különvéleményt fogalmaztak meg az Alkotmánybíróság többségi döntésével szemben.
+   </p>
+   <p>
+    A Helsinki Bizottság megbízásából a
+    Budapest Intézet
+    kiszámolta, hogy mennyibe is kerül egy hajléktalanság miatt indított szabálysértési ügy: ha az elítéltet felmentik, 46 ezer forintjába, ha viszont a maximális, 60 napos elzárást szabják ki rá, akkor az eljárás és végrehajtás 449 ezer forintjába kerül az adófizetőknek.
+   </p>
+   <p>
+    Tehát nem csak értelmetlen, hanem drága is a hajléktalanok üldözése. A törvény egyfajta tüneti kezelés akar lenni, a hajléktalanság problémáján azonban nem segít, hiszen nem mennek többen szállóba miatta, ellenben sokakban félelmet keltett, ami miatt rejtőzködni kezdtek. Így azonban kikerülnek az őket segítő szociális szakemberek látóköréből, ami életveszélyes is lehet számukra.
+   </p>
+   <p>
+    Az Utcajogász önkéntes jogászai kilenc éve működtetnek ingyenes jogsegélyszolgálatot minden pénteken 15 és 17 óra között a Blaha Lujza téren olyan szegény emberek számára, akiknek nincs pénzük ügyvédre vagy nincs hová fordulniuk jogi tanácsért.
+   </p>
+   <p>
+    A péntekenkénti ügyeletek során átlagosan 10-15 hajléktalan vagy lakhatási problémával küzdő ember keresi fel a szervezetet, az idő pedig szűkös, ezért nagy segítséget jelentenek a hajléktalanságot vagy lakhatási szegénységet megtapasztalt önkéntes segítőik, akik előkészítik az ügyeket, beszélgetnek az ügyfelekkel, sőt, sokszor ők is tanácsot tudnak adni olyan nem jogi kérdésekben, amiket jogászoknál sokkal jobban ismernek. Például, tudják, hol lesz a következő ételosztás, hol van a legközelebbi nappali melegedő és melyik szállóra érdemes menni.
+   </p>
+   <p>
+    Bár a jogászok önkéntesen végzik a munkát, a segítőiknek sokat jelent, hogy munkájukért egy kis bevételhez is juthatnak, ezért a szervezet pénzgyűjtő akcióba kezdett. Ha segítenél nekik,
+    ide kattintva
+    megteheted.
+   </p>
+  </body>
+ </text>
+</TEI>

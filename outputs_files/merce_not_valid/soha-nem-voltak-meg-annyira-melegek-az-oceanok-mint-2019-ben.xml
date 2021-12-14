@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Soha nem voltak még annyira melegek az óceánok, mint 2019-ben
+    </title>
+    <author>
+     <persName>
+      Kovács Blanka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a570eb6a-28d1-5340-b70f-9adedaebfab7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Soha nem voltak még annyira melegek az óceánok, mint 2019-ben
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kovács Blanka
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-01-14T21:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/01/14/soha-nem-voltak-meg-annyira-melegek-az-oceanok-mint-2019-ben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/01/14/soha-nem-voltak-meg-annyira-melegek-az-oceanok-mint-2019-ben/
+     </sch:url>
+     <sch:name>
+      Soha nem voltak még annyira melegek az óceánok, mint 2019-ben
+     </sch:name>
+     <sch:datePublished>
+      2020-01-14T21:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kovács Blanka
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      óceán
+     </sch:keywords>
+     <sch:keywords>
+      tengerszint
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a570eb6a-28d1-5340-b70f-9adedaebfab7">
+     <sch:identifier>
+      urn:uuid:1d183441-9e3c-4df0-8e1d-cafa30e986ee
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:09.734285
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:59:52.939531
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a570eb6a-28d1-5340-b70f-9adedaebfab7" when="2021-12-14T15:26:09.734285">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Soha nem voltak még annyira melegek az óceánok, mint 2019-ben
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Az óceánok vizsgálatával mutatható ki a legjobban a klímaválság hatása, ugyanis az üvegházhatású gázok miatt csapdába esett hőt 90%-ban elnyelik. És miután egy friss tanulmány szerint a világ óceánjai 2019-ben melegebbek voltak mint valaha, újabb bizonyítékunk van arra, hogy az egész bolygó egy „megdönthetetlen és gyorsuló” felmelegedéstől szenved.
+   </p>
+   <p>
+    A
+    <hi>
+     Guardian
+    </hi>
+    nemrég egy olyan
+    elemzésről
+    számolt be, amely megmutatta, hogy az elmúlt 10 évből az utóbbi 5-ben voltak a legmelegebbek az óceánok.
+   </p>
+   <p rend="head">
+    A cikk fő megállapítása, hogy a vízekbe olyan sok hő jutott, mintha a világon minden ember 100 mikrohullámú sütőt működtetett volna éjjel-nappal.
+   </p>
+   <p>
+    Ez pedig pont olyan veszélyes és káros, mint amilyennek hangzik. A melegedő óceánok ugyanis megbolygatják a víz körforgását és erősebb viharokat idéznek elő, továbbá több árvizet, aszályt, tüzet és a tengerszint még drasztikusabb emelkedését. Mindez pedig a tengeri élővilágot is meglehetősen veszélyezteti.
+   </p>
+   <p>
+    „Az óceánok megmondják, mennyire gyorsan melegszik valójában a Föld. Őket megvizsgálva a bolygó folyamatos, zavartalan és gyorsuló melegedést láttuk. Ez szörnyű hír” – mondta a lapnak John Abraham, a minnesotai St. Thomas Egyetem professzora.
+   </p>
+   <p>
+    Egy másik professzor, Michael Mann pedig nyilatkozatában kifejtette, 2019 nemcsak a legmelegebb év volt a vizsgált idő alatt, de tavaly volt az egy éven belül tapasztalható leggyorsabb hőmérséklet-növekedés is. A Pennsylvaniai Egyetem munkatársa szerint az eredmény egy „kijózanító” emlékeztető arra, hogy az ember által okozott klímaválság továbbra sincs visszaszorítva.
+   </p>
+   <p rend="head">
+    A kutatás bizonyítja azt is, hogy az egyre gyorsabban növekvő hőmérséklet a légkörben felhalmozódó üveghatású gázoknak köszönhető. Az 1987 és 2019 közötti értékek négy és félszer gyorsabb növekedést mutattak, mint az 1955 és 1986 között mért számok.
+   </p>
+   <p>
+    Az óceánok területének túlnyomó részén emellett a hőenergia növekedését is kimutatták. Ez az energia az, ami az extrémebb időjárásokat is előidézi, ugyanis amikor a világ és az óceánok felmelegednek, az megváltoztatja azt, ahogy az eső esik és elpárolog.
+   </p>
+   <p>
+    A forróbb óceánok pedig a jégtáblák olvadásával egyre inkább terjeszkednek és a tengerszint emelkedését hozzák magukkal. Ez a kutatás is azt bizonyítja, az évszázad végére 1 méteres tengerszint-növekedéssel kell számolnunk, ami világszinten 150 millió embert fog megfosztani otthonától.
+   </p>
+   <p>
+    „Az adataink megcáfolhatatlanok, de így is reménykedünk abban, hogy az emberek még a kezükbe tudják venni a sorsukat. Ugyanakkor eddig semmilyen hasznos lépést nem tettünk ennek érdekében” – mondta John Abraham.
+   </p>
+   <p>
+    A Mércén kiemelten foglalkozunk a klímaválsággal. A témában írt cikkeinket i
+    tt lehet elolvasni
+    .
+   </p>
+   <p>
+    (
+    The Guardian
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

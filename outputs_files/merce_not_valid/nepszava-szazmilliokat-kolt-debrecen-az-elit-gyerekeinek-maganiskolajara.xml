@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Népszava: százmilliókat költ Debrecen az elit gyerekeinek magániskolájára
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ed42f8af-e730-504f-bd6c-deeee5189bda
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Népszava: százmilliókat költ Debrecen az elit gyerekeinek magániskolájára
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-06-08T19:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/06/08/nepszava-szazmilliokat-kolt-debrecen-az-elit-gyerekeinek-maganiskolajara/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/06/08/nepszava-szazmilliokat-kolt-debrecen-az-elit-gyerekeinek-maganiskolajara/
+     </sch:url>
+     <sch:name>
+      Népszava: százmilliókat költ Debrecen az elit gyerekeinek magániskolájára
+     </sch:name>
+     <sch:datePublished>
+      2020-06-08T19:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      oktatás
+     </sch:keywords>
+     <sch:keywords>
+      egyenlőtlenség
+     </sch:keywords>
+     <sch:keywords>
+      debrecen
+     </sch:keywords>
+     <sch:keywords>
+      mobilitás
+     </sch:keywords>
+     <sch:keywords>
+      magániskola
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ed42f8af-e730-504f-bd6c-deeee5189bda">
+     <sch:identifier>
+      urn:uuid:c6437515-b708-4a63-ac81-550f14c480bd
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:05.460861
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:15:52.239823
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ed42f8af-e730-504f-bd6c-deeee5189bda" when="2021-12-14T15:35:05.460861">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Népszava: százmilliókat költ Debrecen az elit gyerekeinek magániskolájára
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Tavaly nyáron röppent fel a hír, mely szerint a debreceni önkormányzat és a Debreceni Egyetem közösen alapít angol tannyelvű magániskolát, Debreceni Nemzetközi Iskola (ISD) néven, amelyhez a központi kormányzat is hozzájárult egy 3,3 milliárd forintos állami támogatással.
+   </p>
+   <p>
+    A
+    Népszava most arról ír
+    , hogy az első tanévet összesen 54 gyerek fogja befejezni: az óvodások majdnem 2,5 millió forintos éves tandíjért, a kisiskolások pedig közel hárommilliós tandíjért tanulhattak itt. Ez összesen 130-150 millió forintnyi bevételt eredményezett, ám a működés fenntartásához a többségi tulajdonos önkormányzat még kb. kétszer ennyit rakott hozzá közpénzből.
+   </p>
+   <p>
+    A lap erről egy helyi ellenzéki képviselőtől értesült, a városházán érdeklődött a pontosabb összeg felől is, ám kérdésére több hete nem kapott választ.
+   </p>
+   <p>
+    Azt már eredetileg tudni lehetett, hogy ilyen költségek mellett a magániskolába csak a tehetősebbek gyerekei vehetnek részt, ami úgy tűnik, be is igazolódott. A DK országgyűlési képviselője, Varga Zoltán például erről beszélt a Népszavának:
+   </p>
+   <p>
+    „Debrecenben köztudott, hogyan toborozták ide a létszámot: a város vezetése gyakorlatilag személyesen kérte fel a fideszes holdudvarhoz tartozó vállalkozókat, hogy írassák ide a gyerekeiket, unokáikat. Jól tudjuk, milyen súllyal esik latba egy ilyen egy „kérés” ott, ahol a támogatások, pályázati források elosztása nem feltétlenül piaci alapokon működik.”
+   </p>
+   <p>
+    Az eredeti indoklások szerint az iskolába jártak volna tervezett BMW telephely németországi menedzsmentjének gyerekei is, ám a beruházás csúszásával ez is csúszni fog, sőt Varga Zoltán szerint az is „porhintés” volt, hogy ezek az emberek egész családjukat ide költöztetnék Németországból.
+   </p>
+   <p>
+    Így most a helyzet áll elő, hogy a debreceni adófizetők fenntartanak egy magániskolát – az állami rendszertől magasabb színvonaltantervvel -, hová azonban csak a helyi elit gyerekei járhatnak.
+   </p>
+   <p>
+    A DK-s képviselő szerint nem szabadna hagyni, hogy a közpénz-beruházás kárba vesszen, ehelyett meg kéne nyitni minden debreceni gyerek előtt:
+   </p>
+   <p>
+    „Azt javasoltam, hogy nyissuk ki az intézmény kapuit, és engedjük be a szegény, de tehetséges tanulókat is. Nem úgy mint most, egy olyan ösztöndíjprogrammal, amiről a legtöbben nem is hallottak, amit nem hirdetnek nagy plakátokon, így nem is tudták feltölteni a tervezett létszámkeretet, hanem valódi nyitással: a tandíjasokon túl legalább kétszáz gyerek képzését vállalja fel maga az önkormányzat. Ez az intézmény 550 fős létszámra tervezett: gazdag családok gyerekeivel sosem tudják feltölteni, mert egyszerűen nincsenek ennyien és nem is lesznek.”
+   </p>
+   <p>
+    Bár a felzárkóztató oktatás szempontjából ez sem egy ideális megoldás – hiszen a család anyagi státusza már alapból befolyásolja, hogy valaki milyen készségekkel kerül be az óvodába -, de kétségtelenül a jelenleginél valamivel méltányosabb a helyzet.
+   </p>
+   <p>
+    Az ilyen intézmények tökéletes példái a NER „perverz újraelosztásának”, vagyis annak a folyamatnak, amely keretén belül a társadalom kevésbé tehetős rétegeitől a gazdagabbak felé tereli a forrásokat a kormány. Az oktatás területén ez azért is probléma, mert ennek a társadalmi alrendszenek óriási szerep jutna az előrejutás feltételinek megteremtésében. Ám ahogy azt
+    kutatások is kimutatták
+    , itthon a társadalmi mobilitás alig létezik, egy átlagos magyar szegénységben élő családnak hét generációt kell várnia ahhoz, hogy tagjai legalább az átlagos jövedelmi szintet el tudják érni.
+   </p>
+  </body>
+ </text>
+</TEI>

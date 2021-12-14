@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Orbán Viktor: Készpénznek vehető a 4. hullám
+    </title>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fe540535-68bd-50bc-9234-747e2173918f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Orbán Viktor: Készpénznek vehető a 4. hullám
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-02T07:56:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/02/orban-viktor-keszpenznek-veheto-a-4-hullam/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/02/orban-viktor-keszpenznek-veheto-a-4-hullam/
+     </sch:url>
+     <sch:name>
+      Orbán Viktor: Készpénznek vehető a 4. hullám
+     </sch:name>
+     <sch:datePublished>
+      2021-07-02T07:56:00
+     </sch:datePublished>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      homofób kampány
+     </sch:keywords>
+     <sch:keywords>
+      homofób módosító
+     </sch:keywords>
+     <sch:keywords>
+      koronavírus-járvány
+     </sch:keywords>
+     <sch:keywords>
+      újraindítás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fe540535-68bd-50bc-9234-747e2173918f">
+     <sch:identifier>
+      urn:uuid:a8c28595-03ac-41a7-89f5-f6e427d28a28
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:44.916645
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:51:15.201794
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fe540535-68bd-50bc-9234-747e2173918f" when="2021-12-14T15:30:44.916645">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Orbán Viktor: Készpénznek vehető a 4. hullám
+   </head>
+   <p>
+    Interjút adott Orbán Viktor miniszterelnök a Kossuth rádió
+    <hi>
+     Jó reggelt Magyarország!
+    </hi>
+    című műsorában. A megszokott péntek reggeli interjúban elmondta, hogy ma Magyarországon eléri az 5,5 milliót az első alkalommal beoltottak száma.
+   </p>
+   <p rend="head">
+    A negyedik hullámmal kapcsolatban kifejtette, hogy a világ nagy részében a negyedik hullámot „készpénznek veszik”, szeptember-októberre teszik a kezdetét.
+   </p>
+   <p>
+    Emiatt a kormány ismét felmérte, a legrosszabb esetben mennyi kórházi ágyra lesz szükség. A miniszterelnök elismételte, amit az elmúlt másfél évben már oly sokszor: Magyarország felkészült az vélhető újabb hullámra.
+   </p>
+   <p rend="head">
+    Lassuló vakcináció
+   </p>
+   <p>
+    Ha a miniszterelnök pontos adatokat közölt, akkor ezek szerint az elmúlt napokban még jobban lelassult a vakcináció. A csütörtök reggeli jelentés szerint 5,493 millió első beoltott volt Magyarországon, s ha péntek reggelre sem sikerült elérni az 5 és fél millió beoltottak, akkor tegnap még 7 ezren sem oltatták be magukat.
+   </p>
+   <p>
+    A miniszterelnök – aki ismét óva intett attól, hogy a politikusok járványügyi szakértőnek álljanak – elmondta, hogy a vizsgálatok szerint az oltások 90%-ban hatásosak.
+   </p>
+   <p>
+    Azonban 100-ból 10 ember még a legjobb esetben is újrafertőződhet – magyarázta. De – remélhetőleg – az ő esetükben a védőoltás a betegség könnyebb lefutását eredményezi.
+   </p>
+   <p rend="head">
+    A korlátozások feloldása
+   </p>
+   <p>
+    Az 5,5 millió beoltott újabb járványügyi könnyítéseket von magával: nem lesz kötelező a maszkviselés, például a boltokban sem. Védettségi igazolvány nélkül lehet belépni az éttermekbe, szállodákba, a különféle kulturális eseményekre. Megszűnnek az üzletekre vonatkozó korlátozások is, családi események, magánrendezvények esetén az eddigi 50 fős létszámkorlátozás 100 főre, a lakodalom esetén pedig a 200 fős létszámkorlátozás 400 főre nő.
+   </p>
+   <p>
+    Három helyen maradnak a szigorúbb korlátozások: a sportrendezvényeken, a zenés-táncos rendezvényeken és a zárt térben tartott koncerteseményeken.
+   </p>
+   <p rend="head">
+    Orbán Viktor azt is elmondta, hogy Magyarországon egyelőre senkit sem oltanak harmadszorra.
+   </p>
+   <p>
+    „Mindenki személyes felelőssége, hogy beoltatja-e magát. Ha valaki nem oltat, nem tudjuk megmenteni a fertőzéstől”, mondta el a miniszterelnök, aki az interjú során beszélt a gazdasági újraindításról és
+    a minap elfogadott homofób törvénymódosításra
+    adott reakciókról is.
+   </p>
+   <p>
+    Budapest, 2021. április 23. A Miniszterelnöki Sajtóiroda által közreadott képen Orbán Viktor kormányfõ interjút ad a Jó reggelt, Magyarország! címû mûsorban Nagy Katalin mûsorvezetõnek a Kossuth rádió stúdiójában 2021. április 23-án. MTI/Miniszterelnöki Sajtóiroda/Fischer Zoltán
+   </p>
+   <p rend="head">
+    „Morális felhatalmazás”
+   </p>
+   <p>
+    Orbán Viktor bejelentette, hogy októbertől kiviteli korlátozást rendeltek el az építőipari termékekre. Ennek az oka az volt, hogy az építőiparban „elszálltak az árak”.  Azért szaladtak el az árak – magyarázta a miniszterelnök –, mert megnőtt a kiviteli mennyiség bizonyos építőipari termékek esetén. Mindezzel párhuzamosan egy állami elővásárlási jogot is bevezetnek. Az áremelkedések megfékezése érdekében, ha bizonyos árszint felett értékesítenek, akkor az extraprofitra különadót vetnek ki.
+   </p>
+   <p>
+    Orbán Viktor a műsorvezető kérdésére a homofób törvénymódosításra adott reakciókról is beszélt. Például a
+    z Európai Bizottság szerint
+    a magyarországi törvénymódosítás:
+   </p>
+   <p>
+    „egyenlőségjelet tesz a pornográfia, illetve a homoszexualitást, a nemváltást és a születési nemtől eltérő identitás között, és ezt kiskorúak szellemi és testi fejlődésére károsnak minősíti.”
+   </p>
+   <p>
+    De
+    a törvénymódosítás szövege ellen kifogást emelt
+    Európa legnagyobb nemzetközi gyermekjogi szervezete, a
+    Eurochild
+    is, s a törvénymódosítás híre a világsajtót is bejárta.
+   </p>
+   <p>
+    A miniszterelnök ezzel kapcsolatban elmondta, hogy: „Van egy gyarmattartó tempó az Unióban, ennek a legjobb példája a holland kormányfő”. „Az egész mögött egy morális felhatalmazás is van, így a holland kormányfő személyesen meg van győződve arról, hogy ő magasabbrendű, mint a magyarok” – vélelmezte Orbán.
+   </p>
+   <p>
+    Az interjú utolsó perceiben Orbán Viktor, Magyarország miniszterelnöke régi kedves témáit boncolgatta. Beszélt az „ártó” „Soros-hálózatról”, s arra intett, hogy „fel kell készülni egy újabb migrációs hullámra”.
+   </p>
+   <p>
+    (Kossuth rádió, Portfolio, 444.hu, Mérce)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nem válhat az normálissá, hogy a „kinek a rokona?” fontosabb, mint a „jól csinálja”
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a9244527-1b1b-5a1f-8c52-02be92a3d4d0
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Nem válhat az normálissá, hogy a „kinek a rokona?” fontosabb, mint a „jól csinálja”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-03-22T18:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/03/22/nem_valhat_az_normalissa_hogy_a_kinek_a_rokona_fontosabb_mint_a_jol_csinalja/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/03/22/nem_valhat_az_normalissa_hogy_a_kinek_a_rokona_fontosabb_mint_a_jol_csinalja/
+     </sch:url>
+     <sch:name>
+      Nem válhat az normálissá, hogy a „kinek a rokona?” fontosabb, mint a „jól csinálja”
+     </sch:name>
+     <sch:datePublished>
+      2017-03-22T18:50:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      ner
+     </sch:keywords>
+     <sch:keywords>
+      mészáros
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a9244527-1b1b-5a1f-8c52-02be92a3d4d0">
+     <sch:identifier>
+      urn:uuid:0d1fab12-2c38-4f5e-b32b-5164031dfd7c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.446863
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:28:45.636414
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a9244527-1b1b-5a1f-8c52-02be92a3d4d0" when="2021-12-14T15:30:41.446863">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Nem válhat az normálissá, hogy a „kinek a rokona?” fontosabb, mint a „jól csinálja”
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Ha akár csak öt évvel ezelőtt történik meg az, hogy miután a magyar fogathajtó válogatott szövetségi kapitánya nyilvánosan kritizálta Mészáros Lőrinc sportberuházását, egy államtitkár megfenyegette őt, végül kirúgták, óriási politikai balhé lett volna belőle. Ma egy mínuszos hír, ez pedig óriási probléma. Egyszerűen nem szokhatunk hozzá, hogy ilyenek történnek, mert ez nem normális, és nem csupán nem normális, hanem óriási problémákat okozhat az ilyen mentalitás.
+   </p>
+   <p>
+    Fotó: 24.hu
+   </p>
+   <p>
+    De lássuk mi is történt:
+   </p>
+   <list>
+    <item>
+     Mészáros Lőrinc egyik cége építette a szilvásváradi fedeles lovardát;
+    </item>
+    <item>
+     A lovarda rosszul készült el, fűthetetlen volt, vacogott a közönség és a versenylovak is megbetegedtek. Az elvileg letesztelt, „felszakíthatatlan, speciális talaj” darabokban szakadt fel a verseny során;
+    </item>
+    <item>
+     A fogathajtó válogatott szövetségi kapitánya, ifj. Bozsik József a Jobbik-közeli N1Tv-nek adott interjúban kritizálta ezt a beruházást;
+    </item>
+    <item>
+     Ezután felhívta őt Czerván György agrárgazdaságért felelős államtitkár, és hatperces beszélgetésben megfedte őt, hogy szövetségi kapitányként miként kritizálhat egy állami beruházást, és arra kérte, ne csinálja ezt a jövőben, „ha nem akar problémát”. Ezt a hangfelvételt
+     hozta ma nyilvánosságra a HVG
+     ;
+    </item>
+    <item>
+     ifj. Bozsik Józsefet leváltották a fogathajtók szövetségi kapitányi posztjáról.
+    </item>
+   </list>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    Egyszerre több probléma is van ezzel a botrányos történettel. Probléma, hogy egy államtitkár megfenyeget egy állampolgárt, aki kritizálni meri Orbán Viktor fantomképének, Mészáros Lőrincnek a beruházását. Probléma, hogy egy szakmai vezető nem fogalmazhat meg szakmai kritikát egy állami pénzköltéssel kapcsolatban. Probléma az, hogy ez kezd normálissá válni. És probléma az, hogy biztosak lehetünk benne, ha nem is ezért történt, de szerepet játszhatott Bozsik leváltásában a kritikája.
+   </p>
+   <p>
+    Ez az uram-bátyám ország a rokonok világa, ahol tényleg kezd a szakmaiság, a tudás helyett a kapcsolati tőke mindehatóvá válni. Ha egy szakember nem mondhatja el egy tényleg rossz beruházásról, hogy rossz, mert azt a miniszterelnök fantomképe építette fel, akkor hogyan tudjuk garantálni, hogy jól építkezünk? Majd a bizalommal Orbán Viktor zsenialitásában?
+   </p>
+   <p>
+    Ez a kontraszelekció, amely nem 2010-ben kezdődött, de 2014 után kezd mindenhatóvá válni az országban. Ahol a közpénz nem arra való, hogy beruházások épüljenek, hogy fejlődjön az ország, hanem hogy zsebbe menjen jó helyre, hogy az a pár tízezer ember fönt elpókerezhessen belőle, vegyenek belőle tévét, pártot, politikai hatalmat. És ha valaki ebbe beleszólna, megfenyegetik, kirúgják.
+   </p>
+   <p>
+    Közben meg a versenylovak megdöglenek, a dzsúdóközpont lerohad, a látványtervek helyett nevetséges épületek, projektek húzódnak fel az alapösszeg többszöröséből.
+   </p>
+   <p>
+    Mert az uram-bátyám kontraszelekciójában egyszerűen így működik a világ, nem a minőség, nem a szakértelem, hanem a haverság számít.
+   </p>
+   <p>
+    De ez nem válhat egyszerűen normává, nem válhat ilyenné az ország, ezt nem hagyhatjuk. Mert ez a mi pénzünk, a mi közösségünk épületei, és pont mi fogjuk ezt megszívni, amikor beázik, ránk rohad, amikor alkalmatlan a céljára az, ami a végén kijön ebből a ragadozó, hatalomszerzésre felépített rendszerből, ahol a politika nem a népé, és nem a közösség ügyeinek intézése, hanem a hatalomszerzés a célja.
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

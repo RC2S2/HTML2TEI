@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Elüldözött egy háromgyerekes családot a székesfehérvári önkormányzat
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a5505f0c-8330-54e2-8021-c63a36430f01
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Elüldözött egy háromgyerekes családot a székesfehérvári önkormányzat
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-08-03T11:14:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2016/08/03/eluldozott_egy_haromgyerekes_csaladot_a_szekesfehervari_onkormanyzat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2016/08/03/eluldozott_egy_haromgyerekes_csaladot_a_szekesfehervari_onkormanyzat/
+     </sch:url>
+     <sch:name>
+      Elüldözött egy háromgyerekes családot a székesfehérvári önkormányzat
+     </sch:name>
+     <sch:datePublished>
+      2016-08-03T11:14:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      Kilakoltatás
+     </sch:keywords>
+     <sch:keywords>
+      székesfehérvár
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a5505f0c-8330-54e2-8021-c63a36430f01">
+     <sch:identifier>
+      urn:uuid:7f86775e-4697-443d-b9ca-a32c0f2b4d4e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.933974
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:16:39.666030
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a5505f0c-8330-54e2-8021-c63a36430f01" when="2021-12-14T15:30:41.933974">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Elüldözött egy háromgyerekes családot a székesfehérvári önkormányzat
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Margitot, Gyulát és az általuk nevelt három gyereket három nappal azelőtt értesítette a végrehajtó a lakáskiürítésről, hogy el kellett hagyniuk azt a székesfehérvári önkormányzati bérlakást, ahova néhány hónapja költöztek. Az önkormányzat egy telepfelszámolási program keretében költöztette át a családot, akikkel azonban csak néhány hónapra írt alá bérleti szerződést.  Székesfehérváron Margitékon kívül is még sok hasonló helyzetben lévő család él.
+    </hi>
+   </p>
+   <p>
+    A 2016 februárjában kötött lakásbérleti szerződés 2016. június 30-án járt le, azonban a család még reménykedett, mert azzal biztatták őket az önkormányzatnál, hogy lehetőségük lesz meghosszabbítani a szerződést. A magyar államigazgatást meghazudtoló gyorsasággal az önkormányzat a szerződés lejárta után 3 nappal már be is adta a bíróságra a lakás kiürítésére vonatkozó kérelmet, a bíróság pedig 4 nap alatt meghozta a végzést a kilakoltatás elrendeléséről. A végrehajtó végül július 30-án szombaton, három nappal  a lakáskiürítés napja előtt személyesen adta át a kilakoltatásról szóló levelet a családnak. A családnak nincsen tartozása, az önkormányzat indoklása alapján elsősorban azért kell menniük, mert magatartásuk „közösségellenes”.
+   </p>
+   <p>
+    A Város Mindenkié lakhatási érdekvédelmi csoport tapasztalata szerint az önkormányzatok egyre gyakrabban használják ezt a fenyegetően hangzó gumifogalmat olyankor, amikor meg akarnak szabadulni egy-egy bérlőtől. A „közösségellenes” címke felragasztásával  szinte bármelyik bérlőből közellenség válhat és az önkormányzatok így legitimálják azt, hogy még akkor utcára tesznek családokat , ha nincs lakbér- vagy díjhátralékuk. Margiték esetében a közösségellenesség abban nyilvánult meg, hogy egy rokonuk időnként náluk aludt, voltak holmijaik a lépcsőházban, és állítólag az ablakon is dobtak ki szemetet. Mindezt az önkormányzat állítja, a vádakkal szembeni védekezésre pedig az eljárásban lényegében semmilyen lehetőség nincs. Mindez a gyakorlatban azt jelenti, hogy egy bérlő sorsa attól is függhet, hogy éppen bepanaszolják a szomszédjai az önkormányzatnál vagy nem. Margiték nyolc szomszédja egyébként aláírt egy támogató levelet, amelyben kijelentik, hogy a lakók „a házirendet betartják. A lakók közösségét nem zavarják, nem szemetelnek, jogtalan lakó … a lakásban nem tartózkodik”, ezt az önkormányzat nem vette figyelembe és A Város Mindenkié érdeklődő telefonjára reagálva egy önkormányzati hivatalnok azt mondta, „tudjuk, hogyan születnek ezek a levelet”.
+   </p>
+   <p>
+    Margit és családja szeretett volna küzdeni a lakhatásáért – ezért is fordultak egy érdekvédelmi csoporthoz –, de a kilakoltatás előtt egy pár órával végül inkább elmenekültek a rokonaikhoz egy másik városba, mert féltek, hogy a kilakoltatás miatt a gyerekeket kiemelik a családból. Ettől jogosan tarthattak, hiszen a bíróság a kilakoltatás elrendelésekor kérte a gyámhatóság értesítését is a helyzetről. Az üzenet tehát világos: ha Margit nem hagyja el a lakást magától, a család elveszíti a gyerekeit. Cser-Palkovics András polgármester épp azokban az órákban jelentetett meg az önkormányzat oldalán egy közleményt, amikor a család egy másik városba menekült, mely szerint az önkormányzat mindent megtesz „a gyermekek megfelelő környezetbe való kerüléséért”. Ezek szerint a polgármester szerint a gyermekek érdekét az szolgálja, és a számukra megfelelő környezetet az jelenti, ha menekülniük kell azért, hogy családjukkal maradhassanak, ha attól kell rettegniük, hogy a hatóság karhatalommal fogja őket szüleiktől elszakítani, és ha utána gyermekotthonba vagy nevelőszülőkhöz adni.
+   </p>
+   <p>
+    A közleményben egyébként még arra is tesz utalást a polgármester, hogy a háromból két kilakoltatott gyermek apja börtönben van. Vérlázító, hogy egy polgármester arra használja  a hatalmát, hogy kiskorú gyerekek kilakoltatását és az állami gondozásba kerüléssel fenyegetést úgy próbálja igazolni, hogy a gyerekek apjának börtönbüntetését hánytorgatja fel, mintha emiatt ez az embertelen eljárás a közvélemény számára elfogadhatóvá válhatna. Az, hogy ezzel próbálja megalázni a családot a nyilvánosság előtt, jól mutatja, mennyire érdekli őt valójában a gyermekek sorsa.
+   </p>
+   <p>
+    Azoké a gyermekeké, akik a kilakoltatásuk miatt most más városba kényszerültek. Kiszakítják őket a megszokott környezetből és az iskolából, ahova jártak. Margitnak emiatt fel kell adnia székesfehérvári munkahelyét, és roma nőként ki tudja, lesz-e lehetősége újra állást találni. A család még Margit fizetéséből se tudott volna piaci árú albérletben élni, így pedig még nehezebb helyzetbe kerültek. De ha lenne is pénze a családnak, akkor is szinte nulla lenne az esélye annak, hogy roma párként több gyerekkel albérletet találjanak.
+   </p>
+   <p>
+    Végezetül, az önkormányzat a kilakoltatás kapcsán arra hivatkozik, hogy Margit családja túl sokáig élt szociális bérlakásban, márpedig az önkormányzat lakásrendelete kimondja, hogy maximum 5+5évig lehet, hiszen esélyt kell adni más családoknak is a szociális bérlakásba kerülésre. Ez azonban álságos és szemellenzős magyarázat: piaci árú albérletet ma még rengeteg dolgozó család sem képes kivenni Magyarországon, főleg, ha romák. Mi értelme van bármiféle támogatás nélkül kitenni a családokat a szociális bérlakásból? Főleg úgy, hogy ha egy családot kilakoltatnak, akkor jobb esetben szívességből befogadják őket, rosszabb esetben pedig családok átmeneti otthonába vagy anyaotthonba kerülnek, a legrosszabb forgatókönyv szerint pedig a gyerekek állami gondozásba, a szülők pedig hajléktalanszállóra. Ezeknek az intézményeknek a fenntartása jóval többe kerül, mintha az önkormányzat és az állam megfelelő lakáshálózatot és lakástámogatási rendszert tartana fenn.
+   </p>
+   <p>
+    Ha a székesfehérvári önkormányzat nem mozgatná 5-10 évente a családokat a szociális ellátórendszer és a bérlakásrendszer között, hanem annyi forrást szánna szociális bérlakásokra, mint ahány család képtelen magának piaci árú albérletet megengedni, akkor sokkal több család tudna biztonságban élni és megfelelő egzisztenciát felépíteni, így teljes értékűen részt venni a társadalom életében. Itt nem csak arról van szó, hogy mindez kevesebbe kerülne az államnak, hanem arról is, hogy megszűnne az az embertelen állapot, hogy családoknak kell elmenekülnie a megszokott életükből azoktól a hatóságoktól elől, amelyeknek éppen a családok támogatása és egyben tartása lenne a törvényi feladata. Az, ami augusztus 2-án Székesfehérváron történt, a magyar lakáspolitika kudarcának vegytiszta megnyilvánulása: a „közösség” védelme és a „méltányosság” nevében egy éppen, hogy megkapaszkodó család életét tették tönkre, akiknek most emberfeletti erőfeszítésre lesz szükségük, hogy ne csússzanak lejjebb és ne szaporítsák az a teljes reménytelenségben élő magyar állampolgárok tömegét.
+   </p>
+   <p>
+    Mivel a család csak nagyon rövid ideig maradhat a rokonoknál, akik átmenetileg befogadták őket, és életük minden szála Székesfehérvárhoz köti őket, mindenképpen szeretnének visszamenni
+    és és a nyilvánossághoz fordulva kérnek segítséget lakhatásuk rendezése érdekében, amiről részletesen itt írunk.
+   </p>
+   <p>
+    <hi>
+     Fotó: feol.hu
+    </hi>
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

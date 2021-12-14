@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Keleten a helyzet változóban
+    </title>
+    <author>
+     <persName>
+      Nefelejcs Gergő
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Jason Stanley
+     </persName>
+    </author>
+    <author>
+     <persName>
+      CrimethInc.
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mouvement Communiste
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d07dfb10-0753-543e-8661-ff6ce013a1c0
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Keleten a helyzet változóban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mouvement Communiste
+      </persName>
+     </author>
+     <author>
+      <persName>
+       CrimethInc.
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jason Stanley
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nefelejcs Gergő
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-10-19T15:18:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://tett.merce.hu/2018/10/19/keleten-a-helyzet-valtozoban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://tett.merce.hu/2018/10/19/keleten-a-helyzet-valtozoban/
+     </sch:url>
+     <sch:name>
+      Keleten a helyzet változóban
+     </sch:name>
+     <sch:datePublished>
+      2018-10-19T15:18:00
+     </sch:datePublished>
+     <sch:author>
+      Nefelejcs Gergő
+     </sch:author>
+     <sch:author>
+      Jason Stanley
+     </sch:author>
+     <sch:author>
+      CrimethInc.
+     </sch:author>
+     <sch:author>
+      Mouvement Communiste
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d07dfb10-0753-543e-8661-ff6ce013a1c0">
+     <sch:identifier>
+      urn:uuid:5e015dc4-aa51-439c-a34b-58c6eae34f69
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:28.875850
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:08:19.742812
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d07dfb10-0753-543e-8661-ff6ce013a1c0" when="2021-12-14T15:30:28.875850">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Keleten a helyzet változóban
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    (Szubjektív beszámoló a
+    TNI „New politics platform
+    ” kelet-európai fókuszú konferenciájáról.)
+   </p>
+   <p>
+    A távolságot mifelénk időben mérik.
+   </p>
+   <p>
+    Nem is igazi jetlag, csak egy apró kizökkenést jelent keletre utazni, ahol az időeltolódás csak pár óra. A változást, hogy máshol vagyok főként a táj adja: a távolban itt rendes hegyek vannak. A grúz kiírások alatt többnyire van angol felirat is, már azokon a helyeken, amelyek a turistákra szakosodtak. A forintomat itt semmibe se veszik, euróra vagy dollárra kell váltanom előbb, de minden keletre megtett kilóméter dagasztja az értéket a zsebemben, hogy mit kaphatok meg érte.
+   </p>
+   <p>
+    A márkák ugyanazok, az árak alacsonyabbak.
+   </p>
+   <p>
+    Hosszú buszozás vezet kacskaringós utakon, idegen de ismerős tájakon: posztszovjet rozsdaövezet, mondták volna rá régen. Térben közel, időben távol, egy legyőzött kor kongó torzói: szovjet gótika. Tán valamelyik cukorgyár volt még nem is olyan rég, mely öt-hatezer embernek adott munkát és a környéknek valami életet, míg be nem jött az olcsó német cukor, a gyár bezárt,
+    majd újranyitott, mint kriptopénz-bánya
+    , a város pedig tönkrement.
+   </p>
+   <p>
+    A kérdés keleten nem az, hogy hány kilométerre vagyunk Bécstől vagy Párizstól vagy Jerevántól vagy Moszkvától: hanem hogy hány év lemaradásunk van, hogy hány évre vagyunk a nyugati kánaántól. Felzárkózás és hegymenet, modernizáció és versenyképesség fogalmairól beszélünk, melyek morális paranccsá, kizárólagos szükségszerűséggé merevedtek.
+   </p>
+   <p>
+    Az elvek alatt pedig ugyanaz az idegen, de ismerős valóság fekszik, amint elhagyjuk a rossz hegyi utakat, melyek kiszorultak a globális kereskedelem versenyképes termelési oldalából, és felmegyünk a príma autópályára, amelyen már döccenés nélkül suhanhatnak az emberek és az áruk.
+   </p>
+   <p>
+    Összeroppant itt az idő, amint elhajtunk a szovjet modernizmus csúcsdarabja, az egykori autópálya-fejlesztési minisztérium alatt, mely most a nemzeti bank tulajdona, és beérünk Tbiliszibe. A
+    sztálinkákat
+    váltják az
+    oligarchitektúra
+    ismerős épületei: a megszokotthoz képest a különbséget az adja, hogy itt a szabad piacba fektetett hit és az azt követő szabályozási átalakítás radikálisabb volt, mint másutt. Toronyházak épülnek egyre-másra, és a légkalapács meg az ütvefúró hangja sötétedés után is hallatszik. Rugalmasság, versenyképesség.
+   </p>
+   <p>
+    Az óváros időzavara a kép-termékbe sűrített történelem. Az ősi város körül pezsgő turistanegyed, ahol a különböző korszakok egyre inkább nyugati építészek által tervezett épületei közé ékelődnek szállodák és drágra éttermek: a mellékutcákon a kommunista-nosztalgia szuvenírtermékei kaphatóak, megfér egymás mellett a régi templom és a sztriptízbár.
+   </p>
+   <p>
+    Ha betérek a hipster-negyed
+    Fabrikába
+    , ugyanaz fogadna, mint a Madách téren: a helyi termékekhez se kell ragaszkodnom. Fogyaszthatok német sört vagy elugorhatok a McDonaldsba: az itt kapható khinkali azonban odahaza a gazdagok kiváltsága.
+   </p>
+   <p>
+    Korán reggel kezdjük a megbeszélést, és a hivatalos program után csak késő éjszaka fejezzük be. Elemzések és helyzetismertetések csapnak át történetekbe. A nap közepére egyre inkább úgy érzem, hogy mintha utólag raknánk össze egy nagy összeesküvést, amit húsz évvel ezelőtt talán ugyanitt valaki mások raktak össze ellenünk.
+   </p>
+   <p>
+    A történet majdhogynem ugyanaz mindenütt: a szovjetunió felbomlása után privatizációs hullám, a kétezres években hitelből fűtött gazdaságok, az összeomlás a válsággal. A szakszervezetek felszámolása és a baloldali pártok kiüresedése egyben a demokrácia kiüresedése is, hisz mindegy, hogy ki van hatalmon, ha ugyanazokat a neoliberális törvényeket iktatják be. Még több nyílt- vagy lopakodó privatizáció, az állam felszámolása és a társadalom padlóra küldése.
+   </p>
+   <p>
+    A teljes szétszakítás és felőrlés, melyet egy széles antikommunista konszenzus kísér a balkánon át, közép- és kelet-európában, Oroszországban és a Kaukázusban egyaránt: mindenütt a régi keleti tömbben.
+   </p>
+   <p>
+    Az ideológia és a politika, mely a múlt felszámolására tör, emlékét sóval hinti be: ami nálunk a szoborpark, az Litvániában a kocsikra(!) lecserélt munkások és parasztok szobrai. A múltat múzeumba zárni és átértelmezni, mint nemzetsorsot rontó kitérést, vakvágányt, amely megakasztotta a dicső menetelésünket a Nyugat felé.
+   </p>
+   <p>
+    Hogy harminc évvel később sem tartunk még ott, hát nem vagyunk rá méltóak, mi, posztszocialista népek, lusta dögök, állam csecsén csüngő, tanulatlan söpredékek, akiket fel kell világosítani, civilizálni kell, hisz rasszisták vagyunk és xenofóbok, akik a rasszistákra és a xenofóbokra szavaznak. Barbárok vagyunk, ahol verik a nőket, és szeretik: míg nyugaton is verik a nőket, de nem szeretik.
+   </p>
+   <p>
+    Panelről panelra ugrunk így, szó szót követ, én pedig egyre inkább úgy érzem magam, mint akit áram alá helyeznek. Más dolog tudni a
+    centrum-periféria elméletről
+    , mint hallani másoktól: ezen idegenektől, kik percek alatt lesznek ismerőssé, ahogy elmesélik a traumáikat, amik egyben az én traumáim is.
+   </p>
+   <p>
+    Elváltunk egymástól, mint a küllők a bicikli kerekén: és amikor a versenyképességről meg a hatékonyságról beszélnek nekünk, akkor azalatt azt értik, hogy egymással versenyezzünk. Hogy ezt a fájdalmat még el kell tűrnünk, a privatizált ivóvízzel, a privatizált egészségüggyel, a szétcincált munkajogokkal, a kivezetett nyugdíjakkal, a felszámolt gazdaságokkal, a vállalatok megszűnésbe csökkentett adóival, a leépített közszférákkal, egyenlőtlenséggel, kilakoltatásokkal, emigrációval és öngyilkossági rekordokkal.
+   </p>
+   <p>
+    Keleten a helyzet változatlan, hisz itt nem történik soha semmi említésre méltó, ha csak meg nem említi a nyugati média is, amit aztán visszaimportálunk. A magunkról mondott történetet is előbb elküldjük a központba, jóváhagyásra, ugyanúgy, ahogy küldjük az embereket vendégmunkára, bevándorló-gettókba, építkezésekre, konyhákba, szállodákba takarítónak, öregeket ápolni, fuvarozni, piroslámpás-negyedbe beállni. Ugyanúgy küldjük a történeteinket, ahogy küldjük a nyersanyagokat és az összeszerelt termékeinket, hogy aztán azt visszaküldjék nekünk készen fogyasztható formában.
+   </p>
+   <p>
+    Ami ebbe nem fér bele, az nem jut el oda, és így nem jut vissza hozzánk. Nem tudunk a haldokló munkásokról, a leépített és kifosztott államokról, maximum akkor, ha a korrupció mértékéről beszélünk: térségünk felszínre kerülő tüntetései és mozgalmai pedig a felzárkózás vágyálmában, az erőszakmentes békesség jegyében, Európa-zászlók alatt vonul, világító telefonját a magasba emeli: világosságot! Európát!
+   </p>
+   <p>
+    Ezen a tengelyművön két diskurzus él meg: az egyik a felvilágosult liberálisé, aki nyugati mintára szeretne egyenlő emberi jogokat, esélyegyenlőséget, reprezentációt, átemelve az NGO-s gyakorlatok révén a programját, nem szólva a gazdasági érdekekről és az össztársadalmi ellehetetlenülésről semmit.
+   </p>
+   <p>
+    Felvilágosítaná azokat a népeket, akiknek a nagyanyái voltak az első feministák, a népeket, akik a forradalmaikat kivívták: mert a mi forradalmaink, a mi közeli történelmünk bűnös, nem fér bele az antikommunista konszenzusba. Ahhoz, hogy időtávban mérjük magunkat a nyugathoz, a létező szocializmust ki kell radírozni az időből: különben kiderülne, hogy minden megfelelés dacára visszafelé haladunk.
+   </p>
+   <p>
+    Az antikommunista konszenzus: a liberálisoké és a jobboldaliaké. A liberalizmus jobbra tolódik, miközben a jobboldal egyetemesen kisajátítaná magának az „európaiság” definícióját, amely keresztény és heteronormatív: lévén a nyugati tőkével kötött alkuba nem fér bele az a fajta egyetemes jólét helyi szinten, ami alapszükséglete lenne a jogegyenlőségnek, így a társadalmi reprodukciót támadja, a gender-degeneráltakkal, a homoszexuálisokkal riogat, a nők saját testükhöz való jogát elvenné, újra függővé tenné őket a férfiaktól, mindezt a konzervatívizmus nevében. Teszik ezt szerte Kelet-Európában, mert az alternatíva bármely gondolatát el kell tüntetni:
+   </p>
+   <p>
+    mindezeket természetellenesnek bélyegezni, hogy a fennálló rend hasson egyedül természetesként.
+   </p>
+   <p>
+    És ahol ez nem lenne elég, ott riogat külső ellenségekkel, migránsokkal, oroszokkal (az oroszok meg az ukránokkal), hogy minden más politikai témát, pláne azokat, amelyek a valódi egyenlőségre törekednének, ellehetetlenítsen a hazaárulás vádjával.
+   </p>
+   <p>
+    Nem hiába: Orbán Viktor példakép. Vívmánya annyi: nem csak úgy lehetünk európaiak, ha megpróbálunk nyugatosabbak lenni a nyugatnál. Sőt, úgy leszünk a legeurópaiak, ha
+    mi gyűlölünk a leghangosabban mindenkit, aki nem európai
+    !
+   </p>
+   <p>
+    Sírva vigadunk mindezen, a „
+    nagy közönségsikerű rémkabaré
+    ” különböző – de ugyanolyan – kiadásain: végre felszabadultan, mintha egy régóta esedékes családi összejövetelen lennénk. Nehéz terheket közösen könnyebb viselni, hullafáradtan sem bírunk elaludni: mondjad még, mondjad, mondom én is, hogy nem vagyunk egyedül.
+   </p>
+   <p>
+    Mert kelet nem csak barbarizmus és ostoba liberalizmus, medvetámadás meg alkoholmérgezés meg diszkóforradalom, meg a határon lekapcsolt csempész és New Yorkba exportált
+    susogós melegítő
+    : mert keleten a helyzet változóban.
+   </p>
+   <p>
+    Mert küzdünk és küzdenek, sokszor ugyanúgy, ugyanazért: olyan szinkronban úszunk, hogy elhinni nem mered. Lakhatási jogokért egységfronttal, szövetkezetekkel hátországnak, foglaltházakkal, éledező anarchistákkal és antifasizmussal, szabad szakszervezetekkel a munkajogokért, megszervezett sztrájkokkal (
+    melyből egy megbénította Tbiliszit
+    ), saját médiával és magazinokkal, mint itt, úgy másutt, úgy kérgesült meg ez a sok szív, hogy a mondandóját alig bírja el a tüdő. Ennyi év mozgalmiság, ennyi év keserűség, kísérletezés, sikertelen importok nyugatról, hasztalan viták a közéletben, mert akiknek nem érdeke, hogy megértsék, azok soha nem is fogják: ezt jelenti a haladás és az antikommunizmus, semmi mást.
+    Cenzúra finanszírozással
+    .
+   </p>
+   <p>
+    Nincsenek már tömegmozgalmak vagy pártok, nincsenek még élcsapatok se:
+    csak kampányok vannak
+    . De mégis, kampányról kampányra többet tanulunk és tudunk, a gyakorlat szüli az elméletet, az elméletet, mely a sajátunk. Keleti alkatra keleti kabátot szab, ha már a keleti alkatot kényükre faragták mások.
+   </p>
+   <p>
+    Az alkatot, aki mindenkinél kiszolgáltatottabb, akárhova megy, mindig keleti marad, sosem eléggé fehér: akit egész életében a felzárkózás hiú ábrándjával áltattak, mert sosem szántak neki valódi helyet az asztalnál. Az alkat, ki most egész Európát mozgatja, ő viszi az árut, ő főzi az ételt, ő takarítja a szállodát, ő szolgál fel, ő dolgozik az építkezésen, ő szedi le a gyümölcsöt, ő újítja fel a lakást. Őt nem képviseli senki, ő vágyik vissza az óhazába, ahol megöli az egészségügy, a munkában, ha van, még jobban szivatják, nyugdíját elvonják, gyerekei jövőjét elveszik: mert a változatlan helyzet felszíne alatt a küzdelem is változik az életért és a méltóságért.
+   </p>
+   <p>
+    Harminc éve bolyongunk lassan ebben az időn kívül rakott pusztában, amit Kelet-Európának neveznek, és mennyit szenvedtünk azért az ígéretért, hogy egyszer elérünk a Kánaánba. Ennyi év nagyon sok mozgalmi tapasztalatot halmozott föl, minden hullám visszavonul, hogy egyre nagyobb árral törjön elő legközelebb. Eljött az idő, hogy Kelet-Európa relevánsan tudjon beszélni
+    saját magának, saját magáról
+    , kilépve a felzárkózás-bezzegország kereteiből: leleplezve azt, hogy itt egymással versenyeztetnek minket minden téren, míg bele nem pusztulunk és államainkat föl nem számolják.
+   </p>
+   <p>
+    Ez a kilépés nem egyszerű protest-szavazat valami euroszkeptikus, vagy EU-reform pártra. Ez a „
+    föld rabjainak
+    ” reményen túli haragja, mely megtestesül egyre nagyobb mozgásokban, s hozzá a saját perspektívájának kiharcolja a teret. Ez a harc ott kezdődik, hogy „kiköpunk mindent”, amit ránk erőltettek, és azért folyik, hogy az idő dolgozzon nekünk, ne pedig mi az időnek: felszabadulva abban a tudatban, hogy ha sorsunkat nem is a földrajz, de az elmúlt fél-negyedszázad bolyongása összekovácsolta.
+   </p>
+   <p>
+    Sok munka áll még előttünk, de már ezer különböző szálon megkezdtük, nem is feltétlen tudva egymásról: ha pedig ezeket a szálakat összefűzzük, ha ezt a felszabadulást tovább tudjuk vinni, akkor ezek a harcot összecsomósodnak majd pont úgy, ahogy a helyzetünk: a front velünk szemben egységes, csak mi nem voltunk eddig azok.
+   </p>
+   <p>
+    Mert amikor az utolsó nap békésen üldögéltünk egy tóparton a város fölött, előbb egy jetskis rendőr kergetett ki egy grúz párt a vízből, utána meg minket zavartak el kopasz biztonságiak azzal a felkiáltással, hogy ez már magánterület, ott vált egyértelművé, hogy a nemzetiségünk csak annyit számít, hogy nyugaton mindig keletiek leszünk, keleten pedig mindig elnyomottak.
+   </p>
+   <p>
+    Ezt pedig egy kontinesnyi nép sokáig nem tűri, nem tűrheti. Erre a történemi tanulság viszont nem a nyugati nemzetek térben-időben messzi forradalmai, hanem a saját múltunk, mely ott él a húsunkban, a fekete földben, a betontömbökben és sokfajta nyelveink gyönyörű átkaiban, melyet napról napra zúdítunk erre a világra.
+   </p>
+   <p>
+    Avagy: jaj lesz itt, ha az
+    alárendeltek
+    végre megszólalnak.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mit jelent nekünk A Város Mindenkié?
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e34b5646-711e-5bf9-95a3-dd68a5dfef03
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mit jelent nekünk A Város Mindenkié?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2010-02-20T12:54:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2010/02/20/mit_jelent_nekunk_a_varos_mindenkie/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2010/02/20/mit_jelent_nekunk_a_varos_mindenkie/
+     </sch:url>
+     <sch:name>
+      Mit jelent nekünk A Város Mindenkié?
+     </sch:name>
+     <sch:datePublished>
+      2010-02-20T12:54:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      közösség
+     </sch:keywords>
+     <sch:keywords>
+      elvonulás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e34b5646-711e-5bf9-95a3-dd68a5dfef03">
+     <sch:identifier>
+      urn:uuid:31c3e9b5-f69d-4f4c-85d4-d529a10766a6
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:06.355063
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:00:45.202512
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e34b5646-711e-5bf9-95a3-dd68a5dfef03" when="2021-12-14T15:35:06.355063">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mit jelent nekünk A Város Mindenkié?
+   </head>
+   <p>
+    Ez a cikk több mint 11 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A fenti kérdést a 2010. január közepén tartott háromnapos elvonulásunkon tettünk fel magunknak, ahol összesen 21 tagunk vett részt.
+    </hi>
+    Úgy éreztük, fontos megosztanunk barátainkkal, ismerőseinkkel is, mit jelent nekünk ez a csoport. Olvassátok szeretettel!
+   </p>
+   <p>
+    * Tök jó buli! Talán még értelme is van. Talán, ha elég tagunk lesz, elég jó PR-unk, akkor el is érhetünk valamit. Számomra az itt lévő emberek fontosak, és fontos, hogy talán tehetek valamit a sorstársaimért, akármilyen apróságot.
+   </p>
+   <p>
+    * Az aktív és hasznosnak hitt életem alapja. Egy bizonytalan kimenetelű izé, ami sokkal többet ad, mint amit én. Ezt nem is feltétlenül veszem észre. Emberek laza és heterogén csoportja, ami sokra hivatott, de csak közösségként működhet.
+   </p>
+   <p>
+    * Jelenleg az egyetlen dolog, amit csinálok és érzem, hogy tényleg van értelme. Progresszív/úttörő dolog. Nagyon fix dolog az életemben. Új közösség. Bizonyíték – sztereotípiaromboló. Motiváció.
+   </p>
+   <p>
+    * Lehetőség a hajléktalanság problémáinak megbeszélésére. Kapcsolatok, ötletek ezek megoldására. Bosszanthatom vele a főnökömet.
+   </p>
+   <p>
+    * Adrenalin növelő. Tolerancia erősítő. Törpölő hely. Hit erősítő. Információszerzési lehetőség.
+   </p>
+   <p>
+    * Összefogás. Tolerancia. Együtt dolgozás. Lelkesedés egy célért. Tanulás. Személyes kapcsolatok. Van értelme.
+   </p>
+   <p>
+    * A Város Mindenkié csoport nekem azt jelenti, hogy sok közös van benne. Megvalósítani, amit a hajléktalan meg nem hajléktalan számomra a segítséget. Köszönöm.
+   </p>
+   <p>
+    * Végre egy csapat, ami összefogja a hajléktalanoknak azt a kis részét, akik tenni akarnak magukért, ezáltal jobb társadalom jöhet létre.
+   </p>
+   <p>
+    * Egyéni és kollektívcélt ad a mindennapokhoz.
+   </p>
+   <p>
+    * Az első olyan összefogás, amiben hajléktalan és aktív fiatalok összefognak a hajléktalanok képviseletére, és a hajléktalanság felszámolására és újratermelődésének megakadályozására.
+   </p>
+   <p>
+    * Egy olyan csapat, ami megpróbálja a hajléktalan embereket felrázni.
+   </p>
+   <p>
+    * Egy olyan csoport, ahol barátok közt segítünk sorstársaimon. Ahol, ha sokáig nem jövünk, hiányzok és mások is hiányoznak.
+   </p>
+   <p>
+    * Nagyon nagy erőt érzek benne, valami nagyon nagy dolgot csinálunk. Nem tudjuk mi lesz belőle, de forradalmi. Erős csapat. A szívem fele.
+   </p>
+   <p>
+    * Gondolatom, humanizmusom itt hazára talál. Legyünk innovatívak. Ahol nincs út, ott csináljunk. Legyünk barátok. Nagyon nagy dolgot csinálunk.
+   </p>
+   <p>
+    * Barátokra találtam és egy nagy családra.
+   </p>
+   <p>
+    * Sok a közös bennünk, megvalósítja a hajléktalanság megoldását.
+   </p>
+   <p>
+    * Jó csapat. Segítőkészek az emberek. Jó a társaság. Jó tanárok. Jó a szervezőkészség. Kaptam egy családot.
+   </p>
+   <p>
+    * Erős közösség, szeretek lejárni és együtt dolgozni, elhiszem, hogy változni fog valami. Ilyenben még nem volt részem. Tágabb világmegismerés.
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

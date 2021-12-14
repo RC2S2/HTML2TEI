@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Országos feminista sztrájk Spanyolországban, nőnapi demonstrációk világszerte
+    </title>
+    <author>
+     <persName>
+      Lipusz Balázs
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7739ef38-0b75-5ec4-a637-e3df556b5f5e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Országos feminista sztrájk Spanyolországban, nőnapi demonstrációk világszerte
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lipusz Balázs
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-08T18:54:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/08/orszagos-feminista-sztrajk-spanyolorszagban-nonapi-demonstraciok-vilagszerte/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/08/orszagos-feminista-sztrajk-spanyolorszagban-nonapi-demonstraciok-vilagszerte/
+     </sch:url>
+     <sch:name>
+      Országos feminista sztrájk Spanyolországban, nőnapi demonstrációk világszerte
+     </sch:name>
+     <sch:datePublished>
+      2018-03-08T18:54:00
+     </sch:datePublished>
+     <sch:author>
+      Lipusz Balázs
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      egyenlőség
+     </sch:keywords>
+     <sch:keywords>
+      nőnap
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7739ef38-0b75-5ec4-a637-e3df556b5f5e">
+     <sch:identifier>
+      urn:uuid:2d7001c7-c5c4-43e3-afb7-ff72ddf42297
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:54.031984
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:49:12.948472
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7739ef38-0b75-5ec4-a637-e3df556b5f5e" when="2021-12-14T15:30:54.031984">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Országos feminista sztrájk Spanyolországban, nőnapi demonstrációk világszerte
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Március 8-a Bizottság tíz szakszervezet támogatásával szervezett 24 órás munkabeszüntetést Spanyolországban, de demonstrációk szerveződtek az egyenlőtlenségek kapcsán rengeteg városban a világon, szemlézzük az egyesült államokbeli és nagy-britanniai eseményeket is.
+    </hi>
+   </p>
+   <p>
+    Spanyolországban a március 8-i nemzetközi nőnap köré több száz demonstrációt szerveztek a „Hogyha mi leállunk, a Föld is megáll”  („If we stop, the world stops”) jelszóval. Megvalósítottak továbbá egy teljes napos, 24 órás munkabeszüntetést is, a szervezésben részt vett a Március 8-a Bizottság mellett 10 szakszervezet is. Az Eurostat adatai szerint a nők 13%-al kevesebb fizetést kapnak az állami-, és 19%-al kevesebbet a magánszektorban.
+   </p>
+   <p>
+    A sztrájk miatt
+    <hi rend="bold">
+     Madridban
+    </hi>
+    akadozik a metróközlekedés, és országosan mintegy 300 vasúti járatot kellett törölni. A Bizottság kiáltványában követeli a szexista elnyomástól, kizsákmányolástól és erőszaktól mentes szabad társadalmat és kijelenti, nem fogadnak el rosszabb munkakörülményeket, és kevesebb fizetést, mint a férfiaké. Eredetileg kizárólagosan női munkabeszüntetést szerettek volna elérni a szervezők, hogy érzékeltessék milyen lenne nélkülük a világ, ezt azonban a spanyol törvények nem teszik lehetővé – szerencsére, így ugyanis a férfiak is csatlakozhattak az egyenlőtlenség elleni harcban, együtt, egyenlően a nőkkel.
+   </p>
+   <p>
+    A
+    <hi rend="bold">
+     valenciai
+    </hi>
+    parlamentben is konfliktusokat okozott a sztrájk, a baloldali képviselőnők bojkottálták az ülést, és táblákat helyeztek el az ülésteremben székükön, „Megállok” felirattal. A kormánypárti képviselőnők részt vettek az ülésen, a kormánypárt (Partido Popular) helyi elnöke, Isabel Bonig pedig, osztotta jobbközép konzervatív pártjának véleményét, miszerint az akciók a feminista elitért vannak, nem a női dolgozók mindennapi problémájának enyhítésére irányulnak. Megrótta képviselőtársait azért, mert nevetségessé teszik a többi nő sztrájk során hozott áldozatait.
+   </p>
+   <p>
+    Az
+    <hi rend="bold">
+     USA
+    </hi>
+    több nagyvárosában is demonstrációkat tartottak, a Trump Torony előtti ülődemonstráción mintegy tucatnyi nőt tartóztattak le, köztük a négy főszervezőt is. Egyikük, Carmen Perez úgy nyilatkozott kiengedése után:
+   </p>
+   <p>
+    „A cél, hogy megmutassuk a lányoknak és nőknek, hogy az ő hangjuk is számít. Az, hogy lelkesíteni tudunk más nőket a cselekvésre, a legnagyobb öröm számomra.”
+   </p>
+   <p>
+    Beszámolt továbbá arról, is, hogy a fogvatartásuk alatt már a következő akciójukat tervezgették a cellában.
+   </p>
+   <p>
+    A
+    <hi rend="bold">
+     New York-i Central Park
+    </hi>
+    ban pedig ilyen érzékletesen fogalmazott az egyik tüntető:
+   </p>
+   <p>
+    „A tavalyi választás rádöbbentett, hogy Novemberben (az alsóházi és a felsőházi választásokon, a szerk.) majd csak szavazni nem lesz elég.”
+   </p>
+   <p>
+    <hi rend="bold">
+     Nagy-Britanniában
+    </hi>
+    mintegy 61 egyetemen vannak sztrájkok, és tüntetők elfoglalták az Egészségügyi és Szociális Ügyek Minisztériumot Londonban. Mindeközben a Liberális Demokraták képviselője, Christine Jardine, javaslatot nyújtott be a Lordok Háza átnevezése érdekében, ugyanis szerinte a mostani gender-specifikus Lordok Háza elnevezés nem megfelelő, mert olyan elavult és elfogadhatatlan normákat terjeszt, mint a politikai döntéshozás a férfiak privilégiuma.
+   </p>
+   <p>
+    <hi rend="bold">
+     Franciaországban
+    </hi>
+    a balközép Libération 25%-al alacsonyabb áron kínálja a nőknek a mai lapszámot. Ezzel kívánják felhívni a figyelmet a Franciaországban jelenlévő nők és férfiak közötti jövedelmi különbség mértékére.
+   </p>
+   <p>
+    <hi rend="bold">
+     Rómában
+    </hi>
+    a
+    BBC
+    beszámolója szerint befolyásos katolikus nők tartottak gyűlést, hogy tiltakozzanak a katolikus egyház nőgyülölő gyakorlata ellen és nagyobb részt követeljenek a nőknek az egyház életében, betölthető tisztségeiben. Ferenc pápa visszautasította a meghívásukat. Mary McAleese, egykori ír miniszterelnök szerint az egyház hierarchiájában gyökerező homofóbia és abortusz-ellenesség nem lehet az egyház jövője és a nők nem kívánnak – Ferenc pápa szavait idézve – a tortát díszítő cseresznyeszem lenni.
+   </p>
+   <p>
+    (
+    BBC
+    /
+    Time
+    /
+    The Guardian
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

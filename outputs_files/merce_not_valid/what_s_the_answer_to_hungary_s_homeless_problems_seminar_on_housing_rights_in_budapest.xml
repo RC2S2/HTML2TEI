@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     What’s the answer to Hungary’s homeless problems? – seminar on housing rights in Budapest
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     55e10199-6074-5721-ba62-287008b863f8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      What’s the answer to Hungary’s homeless problems? – seminar on housing rights in Budapest
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2013-04-18T15:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2013/04/18/what_s_the_answer_to_hungary_s_homeless_problems_seminar_on_housing_rights_in_budapest/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2013/04/18/what_s_the_answer_to_hungary_s_homeless_problems_seminar_on_housing_rights_in_budapest/
+     </sch:url>
+     <sch:name>
+      What’s the answer to Hungary’s homeless problems? – seminar on housing rights in Budapest
+     </sch:name>
+     <sch:datePublished>
+      2013-04-18T15:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      nemzetközi
+     </sch:keywords>
+     <sch:keywords>
+      english
+     </sch:keywords>
+     <sch:keywords>
+      megoldás
+     </sch:keywords>
+     <sch:keywords>
+      feantsa
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="55e10199-6074-5721-ba62-287008b863f8">
+     <sch:identifier>
+      urn:uuid:b956d334-2691-4f84-ac1f-acd9d7295598
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:40.938749
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:08:36.969212
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="55e10199-6074-5721-ba62-287008b863f8" when="2021-12-14T15:30:40.938749">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    What’s the answer to Hungary’s homeless problems? – seminar on housing rights in Budapest
+   </head>
+   <p>
+    Ez a cikk több mint 8 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     The Hungarian Government has been systematically persecuting homeless people for several years, while failing to ensure sufficient social benefits and the right to adequate housing, says
+     FEANTSA
+     , an umbrella of not-for-profit organisations working with the homeless people,
+     Housing Rights Watch
+     (HRW), a European network of housing experts and The City is for All (A Város Mindenkié – AVM), a community organization of homeless people at a one-day seminar on Friday, 12 April 2013 in Budapest. At the seminar ‘Promoting Housing rights in Hungary’, FEANTSA, HRW and their European and Hungarian member organisations found that Hungary should take steps to introduce effective homelessness strategies and the enforceable right to housing in Hungary.
+    </hi>
+   </p>
+   <p>
+    „Ensuring the right to housing doesn’t mean that the state provides free housing, but instead builds a system and enough housing options so that everyone who is living in a situation of social exclusion can find the support to integrate into society,” says Rina Beers, president of FEANTSA. Participants of the seminar agreed that instead of chasing homeless people from public spaces and instead of criminalisation, the state should take substantial measures in order to ensure access to adequate housing for all members of society. In order to solve the present Hungarian housing crisis a country-wide housing and homeless strategy is needed. Participants learned through the example of Scotland that long-term thinking, setting clear goals, changing attitudes towards homelessness and a broad co-operation of all the actors concerned (including local authorities, health services, homeless service providers, homeless people, etc.) can effectively reduce street homelessness even in a few years, for the same money.
+   </p>
+   <p>
+    The current legal situation in Hungary was presented by Dr. Beáta Borza (Department Head at the Office of the Commissioner for Fundamental Rights), completed by the personal experiences of a homeless activist of The City is For All and other social work professionals. Regis Brillat, Secretary General for the European Social Charter and Nicolas Bernard, professor of the Law Faculty of St Louis University (Brussels, Belgium) explained international legal mechanisms and their goal to ensure social rights for all members of society. Rita Bence (Hungarian Civil Liberties Union – TASZ) and European lawyers with expertise in international human rights challenged the anti-homeless measures of the Hungarian government and discussed the numerous international treaties (including the European Convention on Human Rights, the European Union’s Charter of Fundamental Rights and the UN’s new convention on people with disabilities) to which Hungary is a state party. Participants concluded that the most important step towards the elimination of homelessness in Hungary is the introduction of an enforceable right to housing that would serve as a legal basis for the actual provision of adequate housing. The development of effective housing provisions and social housing should play a pivotal role in the strategy of eliminating homelessness. The European and Hungarian participants of the seminar urge the Hungarian government to design a long-term homelessness strategy with a prospective of an enforceable right to housing that tackles the real causes of homelessness. This is the answer to Hungary’s homelessness problem and work should start right now.
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

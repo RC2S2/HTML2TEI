@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szeretik a távmunkát a dolgozók, de kimerültebbek tőle
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     cce7c3d8-b03e-5f2e-800f-4714f26e00b9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szeretik a távmunkát a dolgozók, de kimerültebbek tőle
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-28T12:29:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/28/szeretik-a-tavmunkat-a-dolgozok-de-kimerultebbek-tole/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/28/szeretik-a-tavmunkat-a-dolgozok-de-kimerultebbek-tole/
+     </sch:url>
+     <sch:name>
+      Szeretik a távmunkát a dolgozók, de kimerültebbek tőle
+     </sch:name>
+     <sch:datePublished>
+      2021-03-28T12:29:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      munka járvány idején
+     </sch:keywords>
+     <sch:keywords>
+      felmérés
+     </sch:keywords>
+     <sch:keywords>
+      home office
+     </sch:keywords>
+     <sch:keywords>
+      távmunka
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="cce7c3d8-b03e-5f2e-800f-4714f26e00b9">
+     <sch:identifier>
+      urn:uuid:e877bcf3-4d26-4977-a353-0a0108e4a3cb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:56.277489
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:40:23.539946
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="cce7c3d8-b03e-5f2e-800f-4714f26e00b9" when="2021-12-14T15:30:56.277489">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szeretik a távmunkát a dolgozók, de kimerültebbek tőle
+   </head>
+   <p>
+    31 országban, mintegy 30 ezer dolgozó bevonásával készített kutatást a Microsoft megbízásából Edelman Data x Intelligence kutatócég annak érdekében, hogy feltérképezze a tavalyi járványévben beállt változások hatását a munka világára.
+   </p>
+   <p>
+    A 2021 januárjában felvett adatok szerint a munkavállalók alapvetően szeretnék, ha a rugalmas munkavégzés, otthoni munkavégzés lehetőségei fennmaradnának a járvány végeztével is, ugyanakkor a munka-magánélet egyensúlyának felbomlásáról és jelentős túlterheltségről is beszámolnak.
+   </p>
+   <p>
+    A megkérdezett dolgozók 73 százaléka mondta azt, hogy a járvány elmúltával is szeretné megőrizni a rugalmas munkavégzési opciókat, és a vállalati vezetők 66 százaléka is a munkaterek ilyen irányú átalakítását tervezi.
+   </p>
+   <p>
+    Ez nem jelenti azonban azt, hogy az emberek örülnének a fennálló izolációnak és távolságtartásnak: a megkérdezettek 67 százaléka nyilatkozott úgy, hogy szeretne több személyes munkavégzést és munkahelyi együttműködést a járvány lezárultával.
+   </p>
+   <p>
+    Az elszigeteltség mellett van egy másik dimenzió is, amely ellenérzéseket szül az otthoni munkavégzéssel szemben. A dolgozók 42 százaléka ugyanis arról számolt be, hogy nem rendelkeznek azokkal a felszereléssekkel, amelyek alapvetőek lennének az otthoni munkavégzés szempontjából, minden tizedik válaszadó még a megfelelő minőségű internetkapcsolatnak is híján van.
+   </p>
+   <p rend="head">
+    Sajnos a dolgozók 46 százaléka arról is beszámolt, hogy a munkáltatójuk nem nyújt segítséget a távmunka költségeinek viselésében.
+   </p>
+   <p>
+    Mélyült a szakadék a vezető beosztásúak és az egyszerű alkalmazottak között is: előbbiek jelentősen jobb munkatapasztalatokról számoltak be. Ami azzal is összefüggésben lehet, hogy körükben felülreprezentáltak az idősebbek és a férfiak. Ugyanis a kutatásból az is kiderül, hogy a nők, egyedülállók és a fiatalok számára nagyobb terhet jelent az otthoni munkavégzés.
+   </p>
+   <p>
+    A felmérés arra is rávilágít, hogy munkateljesítményüket az emberek ugyanolyannak vagy jobbnak ítélik, mint a járvány előtt, de emögött durva kiégés is áll. A munkavállalók 54 százaléka nyilatkozott úgy, hogy túldolgozza magát és 39 százalék egyenesen kimerültségre panaszkodik.
+   </p>
+   <p rend="head">
+    A munkavállalók ötöde ráadásul úgy látja, munkáltatójuk nem törődik a munka és magánélet egyensúlyával.
+   </p>
+   <p>
+    Az otthoni munkavégzés és távmunka lehetősége ugyanakkor bővítette az elérhető munkahelyek kínálatát, így a dolgozók egy jelentős része gondolkodik azon, hogy felmond jelenlegi munkahelyén és új után néz. A megkérdezettek 41 százaléka nyilatkozott így.
+   </p>
+   <p>
+    (via
+    Microsoft
+    /
+    Pénzcentrum
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

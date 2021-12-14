@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     24.hu: Az ellenzéki önkormányzat nem, a fideszes képviselő viszont megkaphatta a fertőzési adatokat
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     32a77ee7-75c5-5397-a1e0-21f2ddddfd09
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      24.hu: Az ellenzéki önkormányzat nem, a fideszes képviselő viszont megkaphatta a fertőzési adatokat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-26T11:53:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/26/24-hu-az-ellenzeki-onkormanyzatok-nem-egy-fideszes-kepviselo-viszont-megkaphatta-a-fertozesi-adatokat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/26/24-hu-az-ellenzeki-onkormanyzatok-nem-egy-fideszes-kepviselo-viszont-megkaphatta-a-fertozesi-adatokat/
+     </sch:url>
+     <sch:name>
+      24.hu: Az ellenzéki önkormányzat nem, a fideszes képviselő viszont megkaphatta a fertőzési adatokat
+     </sch:name>
+     <sch:datePublished>
+      2020-10-26T11:53:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      parlament
+     </sch:keywords>
+     <sch:keywords>
+      szlovákia
+     </sch:keywords>
+     <sch:keywords>
+      karantén
+     </sch:keywords>
+     <sch:keywords>
+      fertőzések
+     </sch:keywords>
+     <sch:keywords>
+      kormányhivatal
+     </sch:keywords>
+     <sch:keywords>
+      hatvan
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="32a77ee7-75c5-5397-a1e0-21f2ddddfd09">
+     <sch:identifier>
+      urn:uuid:3bba636f-d843-43c3-aed8-cbfaeec3e7fc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:00.372090
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:25:57.407976
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="32a77ee7-75c5-5397-a1e0-21f2ddddfd09" when="2021-12-14T15:35:00.372090">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    24.hu: Az ellenzéki önkormányzat nem, a fideszes képviselő viszont megkaphatta a fertőzési adatokat
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Bizarr esetről
+    számolt be
+    hétfő reggel a 24.hu: a HatvanOnline vasárnap egy cikket tett közzé, amely a térség 38 településének koronavírus fertőzöttségi adatait tartalmazta, ám a cikket rövid idő után eltávolították mind a honlapról, mind pedig annak Facebook-oldaláról. A
+    linken
+    azóta csak egy üres oldal található.
+   </p>
+   <p>
+    A 24.hu azonban megszerezte a törölt cikk szövegét, amelyből kiderül, hogy 25 településen azonosított fertőzötteket az elmúlt héten, a legtöbbet, 30 esetet Hatvan városában találták. A cikkből az is kiderül, hogy az adatok a térség fideszes országgyűlési képviselőjétől, Szabó Zsolttól származtak, aki Kadlott Csabától, a Heves Megyei Kormányhivatal főigazgatójától kapta meg azokat.
+   </p>
+   <p>
+    A portál szerint az esete furcsasága nemcsak a cikk eltávolításában rejlik, hanem abban is, hogy az ellenzéki önkormányzatok hiába kérnek hasonló adatokat az illetékes kormányhivataltól, azokat nem kapják meg. Múlt héten például a főváros XV. kerületének ellenzéki polgármestere, Németh Angela
+    kérte ki
+    a statisztikákat, ám a fővárosi kormányhivatal vezetője, Sára Botond egykori józsefvárosi polgármester ezt megtagadta. Sára úgy érvelt, a járványügyi vészhelyzet júniusi megszüntetése óta egy kormányrendelet nem teszi lehetővé az ilyen típusú adatszolgáltatást.
+   </p>
+   <p>
+    A 24.hu kérdésekkel fordult a HatvanOnline szerkesztőségéhez, hogy megtudja a cikk eltávolításának okait, mindeddig azonban nem kapott választ.
+   </p>
+   <p>
+    Nem ez az első alkalom, hogy az önkormányzatok az adatszolgáltatás elmaradására panaszkodnak, tavasszal még a fideszeses Cser-Palkovics András, Székesfehérvár polgármestere is enyhe
+    kritikát fogalmazott
+    meg amiatt, hogy a kormány nem bocsátott rendelkezésére a települését érintő pontos fertőzöttségi statisztikákat.
+   </p>
+   <p>
+    „Néha jó lett volna, ha mi is ismerjük ezt az adatot, ennek fényében vissza lehetett volna igazolni döntéseket, és az emberek is könnyebben megértették volna, miért van szükség az adott intézkedésekre” – fogalmazott akkor a kormánypárti településvezető.
+   </p>
+   <p>
+    A hétfő reggel közzétett
+    hivatalos adatok
+    szerint egyébként az elmúlt 24 órában 2316 új fertőzöttet azonosítottak, 10.010 teszt elvégzésével, ami azt jelenti, hogy minden negyedik tesz pozitívnak bizonyult. A
+    444.hu arra hívja fel a figyelmet
+    ezzel kapcsolatban, hogy a WHO szerint a pozitív tesztek arányát kellene 5 százalék alatt tartani, hogy azt lehessen mondani, hogy kontroll alatt van a vírus.
+   </p>
+   <p>
+    47-tel nőtt a vírus miatt elhalálozottak száma, eddig tehát összesen 1472 halálos áldozatot követelt a vírus itthon.
+   </p>
+   <p>
+    Az Országgyűlés ma
+    módosít a hatósági házi karantén szabályain
+    . Egyrészt megkönnyíti a hatósági házi karantén elrendelésének adminisztratív eljárásait, az országba lépéskor például minden ember automatikusan, külön egyéni döntés nélkül karanténba küldetik. Emellett emelkedni fog a karanténszabályok megszegése miatt kiszabható legmagasabb bíráság összege, 50 ezer forintról 150 ezer forintra.
+   </p>
+   <p>
+    Hétfő reggel Karácsony Gergely, Budapest főpolgármestere is bejelentést tett. A politikus elmondta, a Fővárosi Közgyűlés szerdai ülésén visszavonják a kötelező maszkhasználatra vonatkozó fővárosi rendeletet, az ugyanis ütközik egy időközben elfogadott kormányrendelettel, amely magasabb szintű jogszabálynak számít.
+   </p>
+   <p>
+    A kormányrendelet értelmében a sál már nem elég a jogszerű arceltakaráshoz, hanem rendes maszkot kell hordatni, amely az orrot és a szájat is eltakarja.
+   </p>
+   <p>
+    „A koronavírus járvány soha nem látott mértékben terjed az országban. Kérek mindenkit, hogy továbbra is fegyelmezetten tartsuk be a járványügyi előírásokat! Fogjunk össze, vigyázzunk egymásra, vigyázzatok magatokra!” – fogalmazott Facebook-oldalán Karácsony.
+   </p>
+   <p>
+    Tavasszal az arc kötelező eltakarásával kapcsolatban a Fővárosi Önkormányzat volt az első, amely lépett. Ősszel szintén…
+   </p>
+   <p>
+    Posted by
+    Karácsony Gergely
+    on
+    Monday, October 26, 2020
+   </p>
+   <p>
+    Szlovákiában tegnap volt a harmadik napja annak a tömeges tesztelési kampánynak, amelynek keretén belül a szlovák kormány a teljes népességet szeretné letesztelni. A
+    444 beszámolója szerint
+    vasárnap délutánig 136.904 emberen végezték el a PCR-tesztnél kevésbé megbízható antigén gyorstesztet, 5.298 fertőzöttet azonosítottak így. Tehát az elvégzett tesztek 3,87 százaléka lett pozitív.
+   </p>
+   <p>
+    A tömeges tesztelés megkezdése előtti napon még csak a tesztek 0,55 százaléka lett pozitív, ami azt jelenti, hogy az átlagos tesztelési szinttel hétszer kevésbé hatékonyan azonosították a fertőzötteket, mint a tömeges teszteléssel. Az is fontos adalék, hogy az antigén gyorstesztek kevésbé megbízhatók, a szlovák kormányfő szerint ezek csak minden harmadik fertőzöttet képesek kiszűrni.
+   </p>
+  </body>
+ </text>
+</TEI>

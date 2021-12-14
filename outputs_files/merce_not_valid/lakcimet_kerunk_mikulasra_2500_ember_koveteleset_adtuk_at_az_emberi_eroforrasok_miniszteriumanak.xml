@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lakcímet kérünk Mikulásra! 2500 ember követelését adtuk át az Emberi Erőforrások Minisztériumának
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2732d97c-c3db-59e0-a99d-c5b85d573ead
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Lakcímet kérünk Mikulásra! 2500 ember követelését adtuk át az Emberi Erőforrások Minisztériumának
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-12-06T14:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2016/12/06/lakcimet_kerunk_mikulasra_2500_ember_koveteleset_adtuk_at_az_emberi_eroforrasok_miniszteriumanak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2016/12/06/lakcimet_kerunk_mikulasra_2500_ember_koveteleset_adtuk_at_az_emberi_eroforrasok_miniszteriumanak/
+     </sch:url>
+     <sch:name>
+      Lakcímet kérünk Mikulásra! 2500 ember követelését adtuk át az Emberi Erőforrások Minisztériumának
+     </sch:name>
+     <sch:datePublished>
+      2016-12-06T14:20:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      érdekvédelem
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      nyílt_levél
+     </sch:keywords>
+     <sch:keywords>
+      lakcím
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2732d97c-c3db-59e0-a99d-c5b85d573ead">
+     <sch:identifier>
+      urn:uuid:09fdb44a-eb08-400d-b07f-0b159aaf17ff
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.858521
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:17:15.024780
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2732d97c-c3db-59e0-a99d-c5b85d573ead" when="2021-12-14T15:31:00.858521">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Lakcímet kérünk Mikulásra! 2500 ember követelését adtuk át az Emberi Erőforrások Minisztériumának
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié (AVM) és az Utcajogász októberben kezdeményezte azt az
+     aláírásgyűjtést,
+     amiben azt követeljük az Emberi Erőforrások Minisztériumától és Balog Zoltán minisztertől, hogy haladéktalanul találjanak megoldást a lakcím nélküli családok és gyerekek problémájára. Az AVM másfél hónap alatt 2500 aláírást gyűjtött össze, amiket 2016. december 6-án délelőtt egy Mikulás napi ünnepség keretében átadtunk a minisztérium képviselőjének.
+    </hi>
+   </p>
+   <p>
+    Ma Magyarországon 60 ezer embernek – közülük hozzávetőleg 4500 gyereknek – nincs érvényes lakcíme, ami lényegében minden ellátásból kizárja őket. 1500 gyereknek csak ún. település szintű lakcíme van, ami nagyon megnehezíti, hogy hozzájussanak az ellátásokhoz. Több tízezerre tehető azoknak a gyerekeknek a száma, akik a szülei lakcím problémája miatt szenvednek hátrányt. A lakcím nélküli vagy érvénytelen lakcímmel rendelkező gyerekek és szüleik nem, vagy csak nagyon nehezen jutnak hozzá a következő szolgáltatásokhoz: államilag támogatott egészségügyi ellátásra, gyes, családi pótlék, gyed, rendszeres gyermekvédelmi kedvezményt, ingyenes intézményi gyermekétkeztetés. Az ún. települési támogatások igényléséhez (ilyen pl. a lakhatási támogatás, a gyógyszertámogatás és az átmeneti segély) szintén bejelentett lakóhely vagy tartózkodási hely kell. Ahhoz, hogy egy gyerek biztosan tudjon iskolába és óvodába járni (vagyis legyen olyan iskola, ami kötelezően felveszi), szintén kell, hogy legyen lakcíme.
+   </p>
+   <p>
+    A mai demonstráción Kovács Vera az AVM aktivistája elmondta: „
+    <hi>
+     Az okmányirodákban, hiába vonatkozik erre törvény, nem jelentik be még az érvényes szerződéssel rendelkező albérlőket sem, nem beszélve azokról, akik kilakoltatás után, szívességből élnek valahol…. Akinek pedig nincs rendben a lakcímük, akár még a családi pótlék, és az anyasági támogatások igénybevétele is nehézséget jelenthet.”
+    </hi>
+   </p>
+   <p>
+    Noha
+    Czibere Károly először azt nyilatkozta
+    ,
+    hogy Magyarországon nincsenek lakcím nélküli gyerekek, az
+    EMMI az aláírásgyűjtésünknek köszönhetően munkacsoportot hozott létre
+    a probléma megoldására. A minisztérium képviselőivel történt 2016. december 5-i találkozónk ellenére jelenleg sajnos nem tudjuk, hogy pontosan kik a munkacsoport tagjai, ki a vezetője, és hogy milyen munkaterv és ütemezés szerint dolgoznak. Mindezek miatt egyelőre nem látjuk biztosítottnak, hogy a lakcím nélküli családok ügyében belátható határidőn belül megfelelő intézkedések fognak születni. Tegnapi találkozónkon határozottan kértük, hogy az AVM és az Utcajogász tagjai is csatlakozhassanak a munkacsoporthoz annak érdekében, hogy a lakcímproblémákkal érintett emberek ügyében szerzett tapasztalataink is hasznosuljanak a megoldási javaslatok kidolgozásakor, de kérésünkre nem adtak egyértelmű választ a minisztérium képviselői.
+   </p>
+   <p>
+    A Város Mindenkié és az Utcajogász megoldási javaslatai a problémára, amelyeket részletesebben kifejtve az EMMI számára is megküldünk:
+   </p>
+   <list>
+    <item>
+     A járási hivatalok gyakran nem jogszabályszerűen járnak el és nem mindig fogadják el a teljes bizonyító erejű magánokiratba foglalt bérleti szerződéseket a szállásadó hozzájárulásaként, noh
+     a
+     a jogszabály ezzel kapcsolatban világosan rendelkezik
+     .
+     A járási hivatalok számára a lakcímbejelentési eljárás tárgyában
+     <hi rend="bold">
+      egyértelmű állásfoglalás kiadására, valamint az ügyintézők azonnali és átfogó képzésére
+     </hi>
+     van szükség.
+    </item>
+   </list>
+   <list>
+    <item>
+     <hi rend="bold">
+      Jogszabály-módosításokra
+     </hi>
+     van szükség annak érdekében, hogy a gyermekek – az Alaptörvényben és a New York-i Gyermekjogi egyezményben is biztosított – jogai a lakcím hiánya és az ebből következő bürokratikus akadályok miatt ne sérülhessenek.
+    </item>
+   </list>
+   <list>
+    <item>
+     <hi rend="bold">
+      Átfogó lakáspolitikára
+     </hi>
+     van szükség, amely minden embernek biztosítja a megfizethető és biztonságos lakhatást, így senki sem kerülhet olyan helyzetbe, hogy nem jelentik be oda, ahol valójában lakik.
+    </item>
+   </list>
+   <p>
+    A petícióhoz 2500 magánszemély mellett a következő szervezetek csatlakoztak: A Város Mindenkié, Utcajogász, Gyerekesély Közhasznú Egyesület, Arany Liliom Alapítvány, Hívatlanul Hálózat, Család, Gyermek, Ifjúság Közhasznú Egyesület, Társaság a Szabadságjogokért, Magyar Női Érdekérvényesítő Szövetség, Utcáról Lakásba Egyesület, Hilscher Rezső Szociálpolitikai Egyesület, Heti Betevő budapesti csoportja
+   </p>
+   <p>
+    Képek a tüntetésről
+   </p>
+   <p>
+    A tüntetésen elhangzott beszédek:
+   </p>
+   <p>
+    Csécsei Ilona (Arany liliom Alapítvány) beszéde
+   </p>
+   <p>
+    Kovács Vera (A Város Mindenkié) beszéde
+   </p>
+   <p>
+    Pfalz Aziz (A Város Mindenkié) beszéde
+   </p>
+   <p>
+    <hi>
+     Fotók: Várady István
+    </hi>
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

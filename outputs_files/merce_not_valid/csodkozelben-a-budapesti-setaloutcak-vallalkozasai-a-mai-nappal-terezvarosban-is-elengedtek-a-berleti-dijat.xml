@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Csődközelben a budapesti sétálóutcák vállalkozásai, a mai nappal Terézvárosban is elengedték a bérleti díjat
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d3cdb0c9-b35e-5d51-a4d1-e264f7a113b6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Csődközelben a budapesti sétálóutcák vállalkozásai, a mai nappal Terézvárosban is elengedték a bérleti díjat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-28T18:05:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/28/csodkozelben-a-budapesti-setaloutcak-vallalkozasai-a-mai-nappal-terezvarosban-is-elengedtek-a-berleti-dijat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/28/csodkozelben-a-budapesti-setaloutcak-vallalkozasai-a-mai-nappal-terezvarosban-is-elengedtek-a-berleti-dijat/
+     </sch:url>
+     <sch:name>
+      Csődközelben a budapesti sétálóutcák vállalkozásai, a mai nappal Terézvárosban is elengedték a bérleti díjat
+     </sch:name>
+     <sch:datePublished>
+      2020-03-28T18:05:00
+     </sch:datePublished>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      munka járvány idején
+     </sch:keywords>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      terézváros
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d3cdb0c9-b35e-5d51-a4d1-e264f7a113b6">
+     <sch:identifier>
+      urn:uuid:38643b12-1fd3-4a2a-8df1-a3d486658654
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:06.562363
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:04:33.855810
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d3cdb0c9-b35e-5d51-a4d1-e264f7a113b6" when="2021-12-14T15:26:06.562363">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Csődközelben a budapesti sétálóutcák vállalkozásai, a mai nappal Terézvárosban is elengedték a bérleti díjat
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Rengeteg az elbocsájtás és több helyen csődközeli állapotokról számolnak be a a BUM (Bevásárló és Tematikus Utcák Nonprofit Kft.) hálózatába tartozó üzletek vezetői a koronavírus-járvány miatt. A BUM többek között olyan budapesti utcák vállalkozásainak éredekképviseletét látja el, mint a Király utca, a Bartók Béla út, a Ráday és a Falk Miksa utca.
+   </p>
+   <p>
+    Antal Attila, a BUM igazgatója arról számolt be
+    a Portfoliónak
+    , hogy a hálózathoz tartozó legtöbb kereskedő attól tart, a járvány végén nem tud majd újranyitni. Tudnak olyan vállalkozóról is, akinek lehet, hogy negyven év után kell bezárnia a boltját.
+   </p>
+   <p>
+    „A következő hetekben is folyamatos kapcsolatban leszünk velük, mert a tapasztalataink alapján két fontos mentőpillérre kell most fókuszálnunk: a bérletidíjak elengedésére és az alkalmazottak béreinek megteremtésére”
+   </p>
+   <p>
+    -mondta Antal.
+   </p>
+   <p>
+    A Ráday utcában a legtöbb vendéglátóhelyiség március végéig a tartalékait éli fel, eddig a húsvéti forgalommal járó vérfrissítést várták. Egy-egy üzlet napi átlagos bevétele mostanában 30 ezer forint, ami miatt folyamatosan mondanak fel az alkalmazottaiknak.
+   </p>
+   <p rend="head">
+    A BUM eddigi tapasztalatai szerint a kormány által eddig hozott segítő intézkedések, illetve a járulékok elengedése sem menti meg a vállalkozásokat, a legtöbben alkalmazottaik nettó bérét sem tudják már kifizetni.
+   </p>
+   <p>
+    A társaság bértámogatást és újrakezdő hitelcsomagokat szeretne kiharcolni az általa képviselt vállalkozásoknak. Úgy gondolják, a kijárási korlátozás bevezetése után a bezárt üzletek száma csak nőni fog, így gyors intézkedést szorgalmaznak.
+   </p>
+   <p>
+    Karácsony Gergely, Budapest főpolgármestere
+    nemrég bejelentette
+    : járványügyi helyzetre való tekintettel a főváros elengedi azoknak a kis- és középvállalkozóknak a bérleti díját, akik üzlethelyiségüket a fővárostól bérlik; nekik márciustól júniusig nem számlázzák ki az összeget.
+   </p>
+   <p>
+    Emellett Soproni Tamás, Budapest VI. kerületének polgármestere a
+    mai napon
+    hasonló gazdasági döntést hozott: Terézvárosban március 30-tól felfüggesztik az önkormányzati tulajdonú, nem lakhatási célú bérlemények díját egészen június 30-ig. Az erre a három hónapos időszakra fizetendő bérleti díjat a vállalkozásoknak július 1-től, 12 havi egyenlő részletben, késedelmi kamat- vagy pótlékmentesen kell megfizetniük.
+   </p>
+   <p>
+    „Bár a járvány miatt az önkormányzatnak is milliárdos nagyságrendű bevételkieséssel és növekvő kiadással kell számolnia, ez nem jelenti azt, hogy nem nyújtunk segítő kezet azoknak a vállalkozásoknak, amelyek tevékenysége meghatározza a kerület gazdaságát, arculatát”
+   </p>
+   <p>
+    -áll a közleményben.
+   </p>
+  </body>
+ </text>
+</TEI>

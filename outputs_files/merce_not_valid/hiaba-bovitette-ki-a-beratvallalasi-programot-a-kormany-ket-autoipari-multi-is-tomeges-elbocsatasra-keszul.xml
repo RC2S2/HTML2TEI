@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hiába bővítette ki a bérátvállalási programot a kormány, két autóipari multi is elbocsátásokra készül
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d96444e0-a36b-5f36-8baf-a307abb56df0
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hiába bővítette ki a bérátvállalási programot a kormány, két autóipari multi is elbocsátásokra készül
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-04-22T08:33:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/04/22/hiaba-bovitette-ki-a-beratvallalasi-programot-a-kormany-ket-autoipari-multi-is-tomeges-elbocsatasra-keszul/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/04/22/hiaba-bovitette-ki-a-beratvallalasi-programot-a-kormany-ket-autoipari-multi-is-tomeges-elbocsatasra-keszul/
+     </sch:url>
+     <sch:name>
+      Hiába bővítette ki a bérátvállalási programot a kormány, két autóipari multi is elbocsátásokra készül
+     </sch:name>
+     <sch:datePublished>
+      2020-04-22T08:33:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      munka járvány idején
+     </sch:keywords>
+     <sch:keywords>
+      bérek
+     </sch:keywords>
+     <sch:keywords>
+      vdsz
+     </sch:keywords>
+     <sch:keywords>
+      suzuki
+     </sch:keywords>
+     <sch:keywords>
+      leépítés
+     </sch:keywords>
+     <sch:keywords>
+      continental
+     </sch:keywords>
+     <sch:keywords>
+      gazdaságvédelmi akcióterv
+     </sch:keywords>
+     <sch:keywords>
+      elbocsátás
+     </sch:keywords>
+     <sch:keywords>
+      Hankook Tire
+     </sch:keywords>
+     <sch:keywords>
+      székely tamás
+     </sch:keywords>
+     <sch:keywords>
+      hankook
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d96444e0-a36b-5f36-8baf-a307abb56df0">
+     <sch:identifier>
+      urn:uuid:db38f959-552b-4013-85d9-2fc3c6d23240
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:10.423948
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:08:19.718849
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d96444e0-a36b-5f36-8baf-a307abb56df0" when="2021-12-14T15:26:10.423948">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hiába bővítette ki a bérátvállalási programot a kormány, két autóipari multi is elbocsátásokra készül
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Több száz fős létszámleépítésre készülnek a Continental váci és makói telephelyén, a Hankook rácalmási üzemében pedig hónapról hónapra küldenek el dolgozókat –
+    tudta meg a Napi.hu
+    Székely Tamástól, a Magyar Vegyipari, Energiaipari és Rokon Szakmákban Dolgozók Szakszervezeti Szövetsége (VDSZ) elnökétől. A szakszervezeti vezető arról is beszélt, hiába a hétfőn bejelentett könnyítések, több járműipari multinál is úgy számolnak, hogy nem veszik igénybe a kormány járvány idejére bejelentett bértámogatását.
+   </p>
+   <p>
+    A Continental-csoporthoz tartozó ContiTech váci és makói telephelyein már a múlt héten döntés született a tömeges leépítésekről: a megrendelésállomány és a dolgozókkal való megállapodás függvényében minimum 200, maximum 700 munkás elbocsátását tervezik. Az még egyelőre nem világos, hogy a leépítések hogyan oszlanának meg a két telephely között.
+   </p>
+   <p>
+    Székely Tamás szerint a hűtő-fűtő csövek, valamint üzemanyagtömlők gyártásával és szerelésével foglalkozó üzemekben a munkáltató a 4 napos munkahétre való átállást, és minimum 20 százalékos bércsökkentés ajánlott fel. H ezt a dolgozók elfogadják, akkor csak 200 fő elbocsátására kerül sor, ellenkező esetben azonban 700 alkalmazott maradhat munka nélkül.
+   </p>
+   <p>
+    Jelenleg aláírásgyűjtés zajlik a kérdésben.
+   </p>
+   <p>
+    A VDSZ-elnök korrektnek nevezte az ajánlatot, ám miután a cég nem vállalt garanciát arra, hogy az aláírók munkaviszonya nem fog megszűnni, a szakszervezet mégsem fogadta el az ajánlatot. A cég által felkínált választási lehetőség régi és rendkívül rossz reflexeket ébreszt fel az emberekben – nyilatkozta Székely.
+   </p>
+   <p>
+    (Az ügyben a Napi.hu még múlt héten kereste a Continental sajtóosztályát, a mai napig még nem kaptak választ kérdéseikre.)
+   </p>
+   <p>
+    A ContiTechnél március 23-án állították le a termelést, az átmeneti leállás idejére a dolgozók nem maradtak bér nélkül. A munka most részlegesen újraindul, hiszen a németországi autógyártók újraindulásához előbb szükség van a kisebb alkatrész-beszállítók újraindulására.
+   </p>
+   <p>
+    Székely Tamás szerint a vállalatnál az is felmerült, hogy élnének a kormány
+    nagypénteki rendelete
+    adta lehetőséggel és két éves munkaidőkeretet vezetnének be. Erről azonban egyelőre még nem született döntés, mert a szakszervezeti vezető szerint csökkentett vagy teljesen leállt termelés mellett ennek nem lenne semmi haszna a cég számára.
+   </p>
+   <p>
+    A Hankook Tire Magyarország rácalmási gumiabroncsgyártójában március 24-én állt le a munka, az üzem pedig múlt kedden, április 14-én
+    nyitott ki újra
+    – ekkor egyébként a győri Audi is újraindította a termelést. Ahogy arról korábban
+    mi is beszámoltunk
+    , a Hankooknál nem történik komolyabb leépítés, ám Székely Tamás most a Napi.hu-nak arról beszélt, hogy márciusban és áprilisban is nagyjából 50-50 próbaidős  vagy lejárt határozott idejű munkaszerződéssel rendelkező munkatárstól vált meg a cég. A VDSZ-elnök szerint ez a tendencia folytatódni fog, a vállalat ráadásul így ki tudja kerülni az 50 fő feletti, tömegesnek számító leépítésekkel járó kötelezettségeket.
+   </p>
+   <p>
+    <hi rend="bold">
+     Április 29-én újraindul a termelés a Suzukinál is
+    </hi>
+   </p>
+   <p>
+    Április 29-én a Magyar Suzuki Zrt. újraindítja a termelést. A vállalat minden korábbinál összetettebb egészségügyi biztonsági intézkedések bevezetésével fokozatosan állítja vissza a gyártást kezdetben egyműszakos munkarendben – áll a
+    <hi>
+     Mérce.hu-
+    </hi>
+    hoz eljuttatott közleményben. Az esztergomi gyár folyamatosan figyeli a piaci igényeket, a gyártási tervet ennek megfelelően alakítja.
+   </p>
+   <p>
+    A Suzukinál leépítésekről nem értesültünk.
+   </p>
+   <p>
+    A leépítések annak ellenére folytatódnak, hogy hétfőn a kormányzat bejelentette, módosít a bérátvállalási rendszer feltételein, amelyeket korábban a cégek is
+    kritizáltak
+    , mert túl bonyolultnak és szűknek tartották azokat. Az eredetileg április 6-7-én
+    bejelentett bértámogatási program
+    keretében, maximum 50 százalékos csökkentett munkaidő esetén a kormány átvállalta volna a dolgozók kieső bérének 70 százalékát.
+   </p>
+   <p>
+    Ez a
+    G7 számításai szerint
+    azt jelenti, hogy kivételes esetekben a kormány egy-egy alkalmazott bérének max. 23 százalékát fedezte volna, de a legtöbb eseteben még ennél is kevesebbet.
+   </p>
+   <p>
+    A most hétfőn bejelentett, kedden a Magyar Közlönyben is megjelent módosítást lehetővé teszi, hogy maximum 75 százalékkal csökkentett munkaidő (tehát már napi két munkaóra) után is igénybe vehető legyen a támogatás (az eddigi 50 százalékos helyett). Kikerül a „nemzetgazdasági érdek” alátámasztására vonatkozó kitétel, a bérátvállalás pedig igénybe vehető lesz munkaidőkeretben foglalkoztatott dolgozókra, táv- és otthoni munkavégzésre, illetve kölcsönzött munkaerőre is.
+   </p>
+   <p>
+    Az Innovációs és Technológiai Minisztérium ATV által megszerzett belső feljegyzéséből
+    az derül ki
+    , hogy immár 320 ezernél is többen veszítették el a munkájukat idén Magyarországon.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (16:20) – Reagált a Continental
+    </hi>
+   </p>
+   <p>
+    A cég a szerkesztőségünkhöz eljuttatott közleményében a következőket írja:
+   </p>
+   <p>
+    A munkatársaink egészségének védelme és az üzleti tevékenységünk fenntartása érdekében döntéseket hoztunk az operatív működésünket érintően.
+   </p>
+   <p>
+    Korábban tájékoztatást adtunk, miszerint igazodva vevőink szállítási igényeihez 2020. március 23. hétfőtől, Makón és Vácott átmenetileg szüneteltettük a termelést, melyet 2020. április 20- tól fokozatosan újraindítottunk.
+   </p>
+   <p>
+    Makón a jelenleg látható vevői megrendelések és a termelés várható felfutási üteme alapján arra a döntésre jutottunk, hogy csökkentjük az egyik munkaerőkölcsönző partnerünk által biztosított szolgáltatás igénybevételét, továbbá 2020. május 1- től csökkentett munkaidőt tervezünk bevezetni. Ezen intézkedések bevezetésével rövid távon csökkenthetők a megrendelésállomány változásból adódó esetleges negatív hatások, bízva abban, hogy az év második felében a kapacitásainknak megfelelő kereslet is fokozatosan megjelenik. Vállalatunk a munkahelyek megtartása érdekében, folyamatosan értékeli azokat a lehetőségeket, amikkel a rendelésállomány csökkenésből adódó, esetleges negatív hatásokat minimalizálni tudja.
+   </p>
+   <p>
+    Köszönettel fogadtuk a Magyar Kormány eddigi intézkedéseit. Az R&amp;D munkahelyek támogatása attraktív és jelentős támogatás a kompetenciák megtartásához. A rövidített munkaidőre vonatkozó szabályozás a ma, 2020. április 22- én véglegesített utolsó változat szerint már szintén érdemi előrelépést jelent vállalatainknak a munkahelyek megőrzésében. Az első analízisek szerint több telephelyünk is alkalmazni fogja.
+   </p>
+  </body>
+ </text>
+</TEI>

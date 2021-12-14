@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A magyar baloldalnak találnia kell egy bajnokot – interjú a Corbyn-mozgalom vezetőjével
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Szadai Levente
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f367f710-da24-5b57-88ad-025772ea659f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A magyar baloldalnak találnia kell egy bajnokot – interjú a Corbyn-mozgalom vezetőjével
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szadai Levente
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-03-25T19:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/03/25/a-magyar-balodalnak-talalnia-kell-egy-bajnokot-interju-a-corbyn-mozgalom-vezetojevel/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/03/25/a-magyar-balodalnak-talalnia-kell-egy-bajnokot-interju-a-corbyn-mozgalom-vezetojevel/
+     </sch:url>
+     <sch:name>
+      A magyar baloldalnak találnia kell egy bajnokot – interjú a Corbyn-mozgalom vezetőjével
+     </sch:name>
+     <sch:datePublished>
+      2019-03-25T19:30:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Szadai Levente
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      Nagy-Britannia
+     </sch:keywords>
+     <sch:keywords>
+      Egyesült Királyság
+     </sch:keywords>
+     <sch:keywords>
+      Corbyn
+     </sch:keywords>
+     <sch:keywords>
+      konferencia
+     </sch:keywords>
+     <sch:keywords>
+      európai baloldal
+     </sch:keywords>
+     <sch:keywords>
+      pártkonferencia
+     </sch:keywords>
+     <sch:keywords>
+      laura parker
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f367f710-da24-5b57-88ad-025772ea659f">
+     <sch:identifier>
+      urn:uuid:6d1c8ef6-5eee-414a-af24-24e45ad3ca97
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.088948
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:26:17.959422
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f367f710-da24-5b57-88ad-025772ea659f" when="2021-12-14T15:35:04.088948">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A magyar baloldalnak találnia kell egy bajnokot – interjú a Corbyn-mozgalom vezetőjével
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Laura Parker politikai titkárként dolgozott a 2015-ben megválasztott szocialista brit munkáspárti vezető, Jeremy Corbyn mellett, majd 2018 januárjában az immár Nagy-Britannia-szerte 40 000 tagot soraiban tudó corbynista aktivistacsoport, a Momentum országos koordinátorává vált. Előtte a 2000-es években az intézeti gyermekek jogaival foglalkozott Bulgáriában a
+    </hi>
+    <hi rend="bold">
+     <hi rend="italic">
+      Save the Children
+     </hi>
+    </hi>
+    <hi rend="bold">
+     nemzetközi civil szervezetben, és 2007-ben az Európai Bizottság mellett, tanácsadóként segítette Bulgária EU-csatlakozását is. A március 2-án, Londonban tartott No Pasarán!-konferencián előadóként is kifejtette, éppen amiatt a politikai tehetetlensége miatt fordított hátat az Európai Bizottságnak, ami a kilépést támogatóknak sem tetszett, de ugyanakkor a megegyezés nélküli Brexit szerinte katasztrófa lenne az Egyesült Királyság számára. A
+    </hi>
+    <hi rend="bold">
+     <hi rend="italic">
+      Mércé
+     </hi>
+    </hi>
+    <hi rend="bold">
+     nek azt is elmondta, hol áll most Corbyn mozgalma, mit gondol Orbán Viktorról és milyen szerepet szán az erősödő brit Munkáspárt külpolitikájában térségünknek.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      Mérce: Mit gondol, hogyan változott meg 2015-ös megalakulása óta a Momentum, milyen állomások voltak azóta?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Laura Parker:
+    </hi>
+    Azt gondolom, hogy kezdetben a szervezetnek egyetlen, nagyon fontos célja volt, ez pedig Jeremy Corbyn pártvezetővé választása. Ez nagyon fontos volt, hiszen Corbyn megválasztása egyedi, vissza nem térő alkalmat teremtett számunkra arra, hogy megváltoztassuk a Munkáspárt politikai irányvonalát, ezzel pedig az ország politikai irányvonalát is. Szóval kezdetben egy nagyon egyszerű, és egyszerűen átlátható kampánycsapat voltunk. Már akkor is a Momentumnak dolgoztam, de nem voltam tagja a vezetőségének, viszont már akkor rádöbbentünk, hogy először is országosan kell aktivistahálózatot építenünk, hogy továbbvihessük a politikai párbeszédnek azt az energiáját, amely 2015 nyarán kezdődött el Nagy Britanniában. Így tehát az első év folyamán létrejött ez az óriási, politikailag aktív emberekből álló hálózat, amit a Momentum aktivista-csoportjának hívhatunk.
+   </p>
+   <p>
+    Azután természetesen 2016-ban (Owen Smith walesi centrista munkáspárti képviselőtől) kihívás érkezett Corbyn vezetői posztja ellen, így tehát meg kellett védenünk Jeremyt, mint pártvezetőt is. Azután pedig, amikor már ismét talpra álltunk, újabb kampányba kellett belevetnünk magunkat, hiszen 2017 tavaszán választást írtak ki.
+   </p>
+   <p>
+    Ekkor a Momentum valószínűleg rengeteg olyan embert győzött meg arról, hogy a Munkáspártra szavazzanak, akik amúgy ezt nem tervezték. Ekkor vetettük be először nagyon erős, digitális kampányeszközeinket is.
+   </p>
+   <p>
+    Akkor nagyon vakmerőek, és optimisták voltunk, olyan kerületekbe  mentünk el kampányolni (pl. Canterbury), amelyekről a pártvezetés azt gondolta, sohasem nyerheti meg őket. Ezek olyan marginális választókerületek voltak, ahol senki sem gondolta, hogy ez lehetséges lehet. Én azt gondolom, egyfajta spontaneitást és új energiát hoztunk a 2017-es kampányba, amellett, hogy tényleg óriási elérésű közösségi médiás műveletünk is volt. Megcsináltuk a brit politika egyik legnézettebb internetes politikai videóját is, amelyet 8 millióan néztek meg a választás napja előtt.
+   </p>
+   <p>
+    „Theresa Mayre szavaztam” „Apa, gyűlölsz?” „Nyilván!” – a Momentum legismertebb kampányszpotja a 2017-es választási kampányból, ahol Theresa May elvesztette kormányzó többségét, Corbynra pedig 12 millióan szavaztak.
+   </p>
+   <p rend="head">
+    Mindezekkel az eszközökkel természetesen áttörtük a hagyományos pártpolitikai frontvonalakat.
+   </p>
+   <p>
+    Azóta azonban azt hiszem, egy másik szakaszban vagyunk, ahol azon kell gondolkodnunk, hogyan változtathatjuk meg magának a Munkáspártnak a szerkezetét és hozzáállását ahhoz, hogy ezt az egészet sokkal fenntarthatóbbá tegyük.
+   </p>
+   <p>
+    Így hát 2018 nagy részében rengeteget dolgoztunk a Munkáspárton belüli demokrácia új rendszerén, ez olyan munka, amely ma is folytatódik, amely messze van attól, hogy kész legyen. Ezzel együtt pedig igenis el kell gondolkodnunk azon, hogy melyek azok a területek, ahol változtatnunk kell. Természetesen ez nem jelenti a párt politikájának megváltoztatását, magától értetődik, kiállunk Corbyn és vezető szerepe mellett. De el kell gondolkodnunk azon, melyek azok a területek, ahol továbbfejleszthetjük mindezt.
+   </p>
+   <p rend="head">
+    Az egyik ilyen terület a klímaváltozás. Rengeteg fiatal aktivista már eleve úgy lépett be hozzánk, hogy a klímaváltozás a fő érdeklődési körükbe tartozik.
+   </p>
+   <p>
+    Azután ott van a lakhatás tematikája, amelyben Corbynnak, brit viszonyok között, nagyon is radikális programja van,  amelynek lényegi pontjait nem tudod megvalósítani addig, amíg kormányra nem kerülsz. Valójában azonban egy csomó dolgot már az önkormányzatokban is át lehet vinni, ezekkel pedig demonstrálni tudjuk, hogyan nézne ki ez a politika a gyakorlatban. Például elkezdtünk komolyan együtt dolgozni a magánlakás-bérlők szövetségeivel. Noha folyamatosan csökken, relatívan még mindig stabil azoknak az embereknek a kormányzati támogatása, akik szociális bérlakásokban élnek, de azoknak a száma folyamatosan növekszik, akik magánkézből, esetleg magántársaságoktól bérelnek, az ő nagy részük természetesen fiatal, kifejezetten Londonban például ezeknek a bérlőknek a jogai alig biztosítottak. Éppen ezért, mivel a törvényeket egyelőre nem tudjuk megváltoztatni, a magánbérlők szövetkezeteivel dolgozunk, hogy mégis megmutassuk, mit akarunk.
+   </p>
+   <p>
+    Ebben a fázisban vagyunk most, emellett természetesen figyelnünk kell, hiszen a Brexit itt van a nyakunkon, és nem tudjuk mi lesz: alapvetően simán el tudom képzelni, hogy a Toryknál hamarosan vezetőt váltanak, akkor pedig új választást írnak ki, és akkor egyik napról a másikra ismét „nagykampány-üzemmódba” kerülünk vissza.
+   </p>
+   <p>
+    Laura Parker a Londonban tartott No Pasarán!-konferencián. Fotó: Mérce
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      M: Így tehát ez a mostani állomás jóval kevésbé látható, mint az eddigiek… a pártmunka, a párt újraszervezése a 2017-es manifesztó nyomán történik most, ha jól értjük…
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     L.P:
+    </hi>
+    Igen, most mindezt akarjuk hosszútávú változássá formálni. De a pártmunka mellett is vannak feladataink. Például sok aktivista-kiképzésünk volt 2017-ben a teljes ország területén, és néhány hete a BAME-kampányt is elindítottuk. Ennek célja, hogy a 18 és 25 év közötti fekete, és más etnikai kisebbségekből származó aktivistákat hozunk össze. Mindez szükséges, mert természetesen fenntarthatóvá kell ezt az egészet alakítani.
+   </p>
+   <p rend="head">
+    Az a fajta változás, amit látni szeretnénk, természetesen nem fog egyetlen, ötéves kormányzati ciklus alatt megvalósulni. Azok igazából 5-10-15-20 év alatt válnak majd valósággá. Ez tehát mondhatni az az állomás, ahol most tartunk.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      M: Mindez természetesen sok pénzbe kerül…
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     L.P.:
+    </hi>
+    Hát, sok pénzünk az például nincs… A bevételünk 79%-a jelenleg a tagdíjakból származik. A maradék 21% óriási része pedig adományokból jön össze. Talán néhány olyan adományozónk van, akik nem formálisan tagok, de nagyon-nagyon kicsi része származik ennek a pénznek kívülről. Talán 2-3 %. Jövedelmünk így tehát a „sokaktól” származik, nem a „kevesektől”, és ez az üzleti modellünk is.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      M: Az, ami a Momentumban külföldről a legfigyelemreméltóbb volt, az a Corbyn megválasztásáért folytatott sikeres kampány, amely igazából az egyik legnagyobb nyugati szociáldemokrata párt átvételét jelentette. Mit gondol, ez a modell másolható? Például Kelet-Európában…
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     L.P.:
+    </hi>
+    Nos, azt hiszem, ez leginkább az adott ország pártstruktúrájától függ. Nem tudok sokat Magyarországról, de évekig éltem Bulgáriában. És úgy gondolom, kifejezetten sokkal nehezebben működne ilyen helyeken ez a megközelítés.
+   </p>
+   <p>
+    Mi három okból tudtuk „átvenni a pártot.”: Az első, hogy amikor Jeremy elindult a pártvezetésért, akkor az összes többi jelölttel együtt hozzáférést kapott az óriási párttámogató-adatbázishoz, amely a Munkáspárt pártkönyves tagjaiból állt. Így őket mind jogunkban állt például körbetelefonálni.
+   </p>
+   <p>
+    De ehhez viszont kell egy klasszikus értelemben szervezett párt, konkrét adatbázissal. Úgy értem, például most az olasz barátaim épp azt mondják nekem a nagy baloldali párt a PD szétesése után, hogy nem találják a taglistákat, szóval még azt sem tudják, kit is kellene felhívni ahhoz, hogy pártot szervezzenek.
+   </p>
+   <p>
+    Ezzel szemben a brit Munkáspárt egy nagy és szilárd struktúra. Miközben, ha Bulgáriára gondolok, ott olyan képlékeny jelenleg a pártok rendszere, hogy ez lehetetlen lenne.
+   </p>
+   <p>
+    Laura Parker a Londonban tartott No Pasarán!-konferencián. Fotó: Mérce
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      M: Magyarországon meg van egy nagy és szilárd szocialista párt, az MSZP, amely kormányon neoliberális politikát folytatott, és sok fiatal egyszerűen nem szereti a politikájukat, nem szereti őket, mert a „márka” eléggé bemocskolódott az utóbbi években. Tehát van egy nagy és szilárd párt, mit javasolna azoknak a fiataloknak, akik ezt akarnák átvenni?
+     </hi>
+    </hi>
+   </p>
+   <p rend="head">
+    L.P.: Hát először is találjatok egy politikust, egy „bajnokot” a párton belül.
+   </p>
+   <p>
+    Hiszen a második – majdnem teljesen egyedi – kedvező körülmény számunkra az volt, hogy mivel alapvetően kétpárti rendszerben élünk, (plusz a Skót Nemzeti Párt), ez azt jelentette, hogy noha Jeremy lényegében marginalizált pozícióban volt évekig a Munkáspárton belül, azért mégis bent volt a pártban.
+   </p>
+   <p>
+    Az olaszoknak, akikkel beszéltem, az első reflexe – no persze azon kívül hogy az összes hajukat kitépték a régi párt (a Matteo Renzi-féle Partito Democratico) politikája miatt – az volt, hogy teljesen új pártot alapítottak (Potere al Popolo), ez azonban a legutóbbi választásokon csak 3 százalékot kapott. Persze a mi helyzetünk most bizonyos értelemben gyengeségünk is, hiszen ahogyan az előbb mondtam, előbb szereztük meg a párt vezetését, minthogy lett volna egy teljes mozgalmunk arra, hogy ezt támogassuk is. De itt győzni jóval-jóval egyszerűbb feladat volt, hiszen – és ez a harmadik – dolog,
+   </p>
+   <p rend="head">
+    az ok, amiért Corbyn nyerni tudott, közvetlenül maga a brit politika súlyos válsága volt, ahol a választók egyszerűen azt látták, hogy a főbb pártok ajánlatai közül egyszerűen egyik sem volt elég jó. Jeremy elsősorban ezt ismerte föl, és azután kezdte el bevonni az embereket.
+   </p>
+   <p>
+    Egyszóval azt gondolom, a kiváló pillanatok tökéletes kombinációja volt ez számunkra. Mindez – úgy gondolom – objektív okok miatt sem egyszerű sok más országban, mert az emberek vagy nem érzik a politikai krízist ennyire akutnak, avagy egészen másféle pártstruktúrák vannak, másféle választási rendszerek vannak.
+   </p>
+   <p>
+    Végeredményben azonban mindenki, akivel Németországból, Olaszországból, Ausztriából találkoztam, és aki tanácsért fordult hozzánk, pontosan ugyanazt hallotta tőlem: akárhogy is kell hozzákezdenetek, akármilyen választói koalíciókat is kell felépítenetek, akár találtok egy „bajnokot”, akár új pártot hoztok létre, esetleg pártkoalíciókat hoztok össze vagy valami egészen radikális dolgot csináltok,
+   </p>
+   <p rend="head">
+    az áttörés legfontosabb és legegyszerűbb összetevője egy tiszta és egyértelmű politikai vízió.
+   </p>
+   <p>
+    Mert bármit is kell majd csinálnotok, nem fog sikerülni, ha nem olyasmi köré építitek fel, amiről a többség úgy érzi, valódi, igazi változást fog hozni. Az emberek nem fognak lelkesedni egy 68 éves fickóért, ha csak annyit mond: „ó hát kicsikével kevesebb megszorítást akarok”, vagy „kicsit több hatékonyságot”, vagy „kicsivel kevesebb hadi kiadást”, avagy „kicsikét több pénzt a kórházakra legyetek szívesek.”
+   </p>
+   <p rend="head">
+    Nem! Jeremy azzal kezdte: „Véget vetek a megszorításoknak”, „Megmentem a közszolgáltatásokat, kevesebb pénzt adok hadi kiadásokra, nem fogok fegyvereket eladni Szaúd-Arábiának!”
+   </p>
+   <p>
+    Az embereknek bátor megoldásokra van szükségük. Így tehát nem egyszerű a helyzetetek, megvan a nagy gépezetetek, de ezt a gépezetet teljesen át kellene fordítanotok. Eltelhet öt év is, mire mondjuk kiképeztek egy csomó aktivistát, és a végén például meg tudtok választatni 5 tisztességes embert. Talán. De más módozatok is vannak: benyomulhattok az önkormányzatokba. Vannak alternatív struktúrák, amelyeket átvehettek, nem kell mindjárt a parlamenti pártpolitikával kezdeni. Még akkor sem, ha azt gondolom, hogy végülis nem sok változást tudtok elérni egy parlamenti demokráciában, ha… no de ti viszont egészen másban éltek, nem?
+   </p>
+   <p>
+    Laura Parker a Londonban tartott No Pasarán!-konferencián. Fotó: Mérce
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi rend="italic">
+      M: Ön ismeri Kelet-Európát, élt például Bulgáriában is. Bár e pillanatban nem tudhatjuk, hogy megtörténik-e a Brexit, akár el is halaszthatják, senki sem tudja biztosra, de jelentheti ez azt, hogy nagyobb figyelmet fordít a Momentum és a Munkáspárt arra, hogy mi történik Kelet-Európában, és esetleg becsatornázza ezt a tapasztalatot…
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     L.P.:
+    </hi>
+    Igen, beszéltem korábban arról, hogy mekkora vakfoltja a brit baloldalnak Kelet-Európa, és emlékszem, hogy amikor a
+    <hi rend="italic">
+     Save the Children
+    </hi>
+    nemzetközi szervezetnél dolgoztam, érveltem amellett, hogy milyen fontos lenne Kelet-Európában is jelen lenni. Mert egyszerűen nem elég annyit mondani, hogy véget kell vetni a megtévesztésnek, fejleszteni fogjuk a bankrendszereket, és akkor máris a klubban vagytok, és minden rendben van. Ezt semmi sem illusztrálja jobban, mint Magyarország.
+   </p>
+   <p>
+    Én voltam az Európai Bizottság politikai tanácsadója is Bulgária csatlakozási folyamatánál, és a bővítési folyamat egyik legnagyobb hibája szerintem az volt, hogy a rossz irányból indítottak. Tehát a bővítési folyamat a közös piachoz szükséges reformokkal kezdődött, mert nem akarták, hogy az alacsonyabb színvonalú és olcsóbb bolgár gazdaság feszültségeket okozzon. Bankreformokkal kezdődött, technikai szabályozásokkal kezdődött, és csak a végén vették figyelembe a demokratikus, az emberi jogi és a jogállami szempontokat.
+   </p>
+   <p>
+    És ha ebből az irányból indítasz, a rossz irányt választod. Azt gondolom, hogy Magyarország sajnos a legjobb példa arra, hogy az Európai Unió nem ragaszkodott eléggé, legalább a saját maga által meghatározott értékeihez, és azzal, hogy erőltették a gyors integrációt, szintén hibát követtek el. Erre már rájöttem Bulgária és Románia esetében, akik ugye késtek is a csatlakozással. Tehát azt mondták, hogy ez a klub, ezek a szabályok, amiket be kell tartanod, de a végén így is, úgy is bekerülsz.
+   </p>
+   <p rend="head">
+    Ez egészen olyan, mintha valaki azt mondaná nekem, hogy én lehetek a szépségkirálynő, ha leadok tizenöt kilót, de egyébként amúgy is én leszek a szépségkirálynő. Nincs késztetés arra, hogy diétázni kezdjek.
+   </p>
+   <p>
+    <hi rend="italic">
+     <hi rend="bold">
+      M:
+     </hi>
+     Épp ez az a kerülőút, amit Orbán olyan jól kihasznált. Ha már klubtag vagy, azt csinálsz, amit akarsz.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     L.P.:
+    </hi>
+    Pontosan.
+   </p>
+   <p rend="head">
+    Szóval azt gondolom, sokkal aktívabbnak kellene lennünk Kelet-Európában.
+   </p>
+   <p>
+    Már csak azért is, mert ha megnézzük Kelet-Európát, és kifejezetten Kelet-Európa keleti csücskét, sokat tanulhatunk. Például Bulgária kifejezetten a keresztúton van. Ha az ország lakosságára gondolunk, abban ott találjuk a török-roma közösséget, a török-nem roma közösséget, a macedónokat, görögöket… tehát nagyjából mindennek a kereszteződésében terül el. Ezzel együtt pedig nagyon-nagyon sebezhető térség. Azt gondolom, hogy a berlini fal leomlása után rendkívül lusta és felületes gondolkodás lett úrrá Nagy-Britanniában, ami nagyjából úgy nézett ki, hogy „ó, most hogy minden ország kapitalista lett, immár mindnyájan szabadok is vagyunk”. Mert az emberek azt gondolták, hogy a kapitalizmus szabadságot is ad.
+   </p>
+  </body>
+ </text>
+</TEI>

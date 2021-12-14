@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Koronavírus: egyre fiatalabb betegek, eddig 41 halott és 56 millió ember karanténban
+    </title>
+    <author>
+     <persName>
+      Varga Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3624982c-b904-5341-93c0-a97eaaf3b6db
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Koronavírus: egyre fiatalabb betegek, eddig 41 halott és 56 millió ember karanténban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varga Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-01-25T09:10:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/01/25/koronavirus-egyre-fiatalabb-betegek-eddig-41-halott-es-56-millio-ember-karantenban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/01/25/koronavirus-egyre-fiatalabb-betegek-eddig-41-halott-es-56-millio-ember-karantenban/
+     </sch:url>
+     <sch:name>
+      Koronavírus: egyre fiatalabb betegek, eddig 41 halott és 56 millió ember karanténban
+     </sch:name>
+     <sch:datePublished>
+      2020-01-25T09:10:00
+     </sch:datePublished>
+     <sch:author>
+      Varga Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      járvány
+     </sch:keywords>
+     <sch:keywords>
+      kína
+     </sch:keywords>
+     <sch:keywords>
+      vuhan
+     </sch:keywords>
+     <sch:keywords>
+      távol kelet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3624982c-b904-5341-93c0-a97eaaf3b6db">
+     <sch:identifier>
+      urn:uuid:ab68cdd9-99c4-4c37-b7e9-21e27030b569
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.631162
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:58:56.734840
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3624982c-b904-5341-93c0-a97eaaf3b6db" when="2021-12-14T15:30:52.631162">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Koronavírus: egyre fiatalabb betegek, eddig 41 halott és 56 millió ember karanténban
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Ez a cikk januárban frissült utoljára, a benne foglalt számadatok – a halálozási arány kivételével – azóta elavultak, a betegség már megjelent Magyarországon is. A koronavírusról szóló további cikkeink
+    itt olvashatók
+    . A járvány alakulását, terjedését és visszaszorulását, a legfrissebb számokat
+    ide kattintva
+    lehet állandóan frissülő térképen követni.
+   </p>
+   <p>
+    A 26 fős előző ismert halálozási számhoz képest hatvan százalékos emelkedéssel immáron 41 ember vesztette életét a Vuhanban kitört koronavírus-járványban. A megerősített kínai esetek száma ezzel elérte a közel 1300-at, azonban a valós megbetegedések száma ennél jóval több, hatezer körüli lehet. Kínán kívüli halálos áldozat egyelőre nincsen, Közép-Kínában eddig
+    18 várost zártak le
+    , ennek ellenére a Kínán kívüli esetek száma egyre nő: szombat reggelre Amerika után Európából is jelentettek megbetegedést. Szerdán számoltunk be arról, hogy a mostani vírus könnyen
+    globális járvánnyá fajulhat
+    .
+   </p>
+   <p>
+    Huszonkét kínai tartományban első szintű közegészségügyi riasztást rendeltek el, ez összesen 1,1 milliárd emberre vonatkozik. A kínai Nemzeti Egészségügyi Bizottság szombat reggel nyilatkozatot adott ki arról, hogy ellenőrzőállomások felállításával tervezik kiszűrni a tüdőgyulladás-gyanús utasokat a buszokról, vonatokról és repülőkről országszerte. A kiszűrt koronavírus-gyanús embereket azonnal kórházba fogják szállítani, az érintett közlekedési eszközöket és pályaudvarokat pedig azonnal fertőtlenítik. Vuhanban megkezdték egy ezerágyas kórház építését kifejezetten a koronavírusban szenvedők számára, a tervek szerint ez február 3-ára készül el.
+   </p>
+   <p>
+    Ezzel párhuzamosan egyre több megbetegedést regisztrálnak világszerte, a korábbról ismert délkelet-ázsiai országokon (Dél-Korea, Japán, Tajvan, Vietnám, Thaiföld, Nepál, India, Malajzia, Szingapúr)  kívül most már az érintettek között van Ausztrália, Franciaország és az Egyesült Államok is.
+   </p>
+   <p>
+    Pénteken jelentették az Egyesült Államokból a második megbetegedést, mindkét beteg nemrég járt Vuhanban. További 63 embert a betegség gyanújával megfigyelés alatt tartanak: a vuhani koronavírus súlyosabb tünetei közé tartoznak a légzőszervi tünetek, láz, köhögés, légszomj és légzési nehézségek, a tüdőgyulladás, a súlyos akut légúti szindróma és a veseelégtelenség.
+   </p>
+   <p>
+    A betegség megfékezésében további nehézséget jelent, hogy sokaknál csak lappangási idő után jelentkeznek az influenzaszerű tünetek, így már azelőtt is terjeszthetik cseppfertőzéssel a vírust, hogy tudnák, hogy betegek.
+   </p>
+   <p>
+    Egyre fiatalabbak a halálos áldozatok is: míg a legelső koronavírusban elhunyt betegek jellemzően idősek, 70-80 év felettiek voltak, egyre fiatalabb elhunytakról szólnak a hírek. Legutóbb egy vuhani orvos halálhíre járta körbe a világsajtót, így az áldozatok életkora már 55-től 87 évesig terjed. Ez azonban nem jelenti azt, hogy a megbetegedők között is ugyanez az életkor lenne kizárólagosan jellemző –  egy pénteken publikált kutatásban például egy hétfős család koronavírussal való érintkezését vizsgálták, a családban lévő gyerekek is megbetegedtek, valamint a család azon fele is, akik nem jártak Vuhanban.
+   </p>
+   <p>
+    „Az új koronavírus emberről emberre is tud terjedni, például kórházban, otthon családtagok vagy épp városok között. Éppen ez teszi a vírust nehezen kontrollálhatóvá.”
+   </p>
+   <p>
+    – nyilatkozta Yuen Kwok-yung, a pénteken megjelent tanulmány szerzője. A kutatóorvos egyúttal „tünetmentes járkáló tüdőgyulladás”-nak írta le a betegséget.
+   </p>
+   <p>
+    A járvány terjedését tovább segíti, hogy Vuhan Közép-Kína legnépesebb városa, a Hupej tartomány székhelye, egyúttal fontos közlekedési csomópont, valamint az, hogy éppen most tart a kínai holdújév, amihez a világ legnagyobb éves vándorlása köthető. Ilyenkor hagyományosan több százmillió ember utazik Kínán belül a családjához, hogy együtt töltsék az időszakot – emellett tavaly csaknem hétmillióan külföldre mentek vakációzni. Vuhan a január 10-február 18 közötti időszakban általában 3,5 millió légi, és 24,4 millió vasúti utast fogad, és bár sokan az utazási korlátozások miatt mégse látogatnak haza vagy hagyhatják el a várost, még a karantén bevezetése előtt sokan menekültek el más kínai nagyvárosokba.
+   </p>
+   <p>
+    via The New York Times, The Guardian
+   </p>
+  </body>
+ </text>
+</TEI>

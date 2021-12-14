@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A hatalom eddig mindig a félelemre épített, pedig a kulcs a szomszédokkal való együttműködésben van
+    </title>
+    <author>
+     <persName>
+      Csonka Julianna
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     67c3cbba-9a5d-59cc-ad6b-a44dfe6d8d57
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A hatalom eddig mindig a félelemre épített, pedig a kulcs a szomszédokkal való együttműködésben van
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csonka Julianna
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-01T21:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/01/a-hatalom-eddig-mindig-a-felelemre-epitett-pedig-a-kulcs-a-szomszedokkal-valo-egyuttmukodesben-van/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/01/a-hatalom-eddig-mindig-a-felelemre-epitett-pedig-a-kulcs-a-szomszedokkal-valo-egyuttmukodesben-van/
+     </sch:url>
+     <sch:name>
+      A hatalom eddig mindig a félelemre épített, pedig a kulcs a szomszédokkal való együttműködésben van
+     </sch:name>
+     <sch:datePublished>
+      2019-07-01T21:30:00
+     </sch:datePublished>
+     <sch:author>
+      Csonka Julianna
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      történelem
+     </sch:keywords>
+     <sch:keywords>
+      interjú
+     </sch:keywords>
+     <sch:keywords>
+      Kelet-Közép-Európa
+     </sch:keywords>
+     <sch:keywords>
+      trianon
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="67c3cbba-9a5d-59cc-ad6b-a44dfe6d8d57">
+     <sch:identifier>
+      urn:uuid:1a73b3ef-d815-4d1e-bc59-c8b89d9702b1
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:33.003943
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:42:15.883597
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="67c3cbba-9a5d-59cc-ad6b-a44dfe6d8d57" when="2021-12-14T15:30:33.003943">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A hatalom eddig mindig a félelemre épített, pedig a kulcs a szomszédokkal való együttműködésben van
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi>
+     Az idén júniusban 99 éves trianoni békeszerződés a mai napig éles indulatokat vált ki belőlünk, magyarokból. Akármelyik oldalról is közelítsük meg a témát, a trianoni döntésről és annak következményeiről szóló vitáinkat gyakran ellehetetlenítik a heves érzelmek. Ez a jelenség revizionista elgondolásokban és a románozásban éppúgy tetten érhető, mint a határontúlizásban. Pedig fontos lenne, hogy megértsük a történteket, és higgadt párbeszédeket folytassunk róla, mert nemzeti szinten csak így tudjuk földolgozni azt a traumát, amit Trianon a magyarság számára okozott. Legalábbis ezt mondja Kopcsik István történész, a Történelemtanárok Egyletének alelnöke, akit a trianoni békeszerződés máig érezhető traumatikus hatásairól és a feldolgozás lehetőségeiről kérdeztünk.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Csonka Julianna: Mit veszített Magyarország és a magyar nemzet a trianoni döntéssel?
+    </hi>
+   </p>
+   <p>
+    Kopcsik István: Az igazi veszteség nem a bányák vagy az elcsatolt területek, hanem az az egyharmadnyi magyar, akik a határokon túlra kerültek. A trianoni veszteségeink a mai napig éreztetik a hatásukat. Egyik ilyen veszteségünk a nemzettudat zavara. Ezáltal van a mindenkori politikai elitnek lehetősége arra, hogy a múlt feldolgozatlan problémáin keresztül szembe tudja állítani ezekben az országokban az embereket egymással. Például a kilencvenes évek délszláv háborúiból jól látszik, hogy a megoldatlan és földolgozatlan nemzetiségi problémák mihez vezethetnek. Akár véres konfliktusokhoz is, ha a politikai akarat úgy gondolja.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: A trianoni határokon belül maradtakat hogy érintette a területek elcsatolása?
+    </hi>
+   </p>
+   <p>
+    K. I.: A világháború utáni viszonyok között mindenkinek sokkal rosszabb volt a helyzete, mint előtte. Valamivel meg kellett magyarázni, hogy miért nincs pozitív változás. A legkönnyebb válasz erre az volt, hogy azért, mert elvették a területeinket, a gyárainkat, a lakosság egyharmadát. Ugyanezt csinálta az összes trianoni utódállam is. A győztesek is, akik megkapták a területeinket, hozzánk hasonlóan bűnösöket kerestek, hogy miért nem tudnak egyből jobb életviszonyokat teremteni. Ezekben az országokban ugyanúgy ki kellett építeni az infrastruktúrát, a saját kultúrát, a bírósági rendszert, a hivatali szervezetet, mindent. Erre képzett emberek nem voltak; mert akik voltak, azok a monarchia rendszerén belül voltak. Azokat a viszonyokat ismerték, annak a jogrendszernek az alapján dolgoztak. Akár a saját nyelvükön, akár magyarul.
+   </p>
+   <p rend="head">
+    A magyar állam ott követett el nagyon nagy hibát, amikor az 1800-as évek végén, az 1900-as évek elején elkezdték bezárni a nemzetiségek iskoláit. Az iskola az a terület, ahol a mesterséges asszimilációt lehet erősíteni. Ha én nem engedem, hogy az adott etnikum azon a területen, ahol többséget képez, saját nyelvén tanuljon, saját vallást gyakoroljon, akkor ezzel borzasztó ellentéteket tudok gerjeszteni.
+   </p>
+   <p>
+    A kétnyelvűség, a kétkultúrájúság egy ezeréves együttélés tapasztalataira épülő kapcsolatrendszer volt. Ezért lett volna jó ötlet a Kossuth-féle konföderáció vagy Ferenc Ferdinánd elképzelése a több központú Monarchiáról.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Trianon közel száz év múltán is nagyon mély érzelmeket és indulatokat vált ki az emberekből. Ennek mi az oka?
+    </hi>
+   </p>
+   <p>
+    K. I.: Az, hogy a trianoni trauma földolgozatlan. Az elmúlt százhúsz évben rengeteg sérelem ért minket, amire könnyű ráhúzni az indulatokat. A sérelmeket így vagy úgy, de továbbadják a családok. A családokra ugyanaz érvényes, mint a nagy politikai rendszerekre: valahogy meg kell magyarázni, hogy miért nyomorgunk. És akkor jön a válasz, hogy mert az a magyar elveszi a helyemet, az a szerb került a helyemre. Ezek valóságelemekre épített szellemi, érzelmi és indulati elemek. Meg kell magyarázni, hogy miért nincs az asztalon ennivaló, hogy miért nem elég fejlett a gazdaság. Ha erre nem vagyok képes, akkor hibásokat kell keresni. Trianon egy szörnyű Kárpát-medencei történet. Nemcsak számunkra, nemcsak magyar családok százezreire nézve volt katasztrofális, hanem minden létrejövő állam számára is.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: A magyarokra sokak szerint jellemző, hogy szeretik siratni a múltat. A levert forradalmak, az elveszített háborúk, a török vagy tatár megszállások sorából Trianon kiemelkedik?
+    </hi>
+   </p>
+   <p>
+    K. I.: Mindenképpen, mert több tízezer család szakadt szét. Dönteni kellett. Azonos-e a szülőföldem a hazámmal? Mert ha nem, akkor ebből feszültség keletkezik. Nagyon fontos, hogy nemcsak az állampolgárnak van kötelessége a haza felé, hanem a hazának is az állampolgár felé.
+   </p>
+   <p>
+    A mesterségesen meghúzott határok nem etnikai határok voltak, erre nem is törekedtek. A nagyhatalmak úgy gondolták, hogy sok apró ország legyen itt. Az első világháború után más nem foglalkozott velünk, csak az olaszok és a németek, ezért rákényszerültünk arra, hogy melléjük sodródjunk. Így keveredtünk bele a második világháborúba. Ez a háború még akkor se olthatta volna meg a problémákat, ha ne adj isten, Hitler győz. El kell olvasni a náci irodalmat, a hivatalos dokumentumokat, ezekben benne van nemcsak a zsidók megsemmisítése, hanem hogy mit szántak azoknak a népeknek, akik a német birodalmon belül éltek. A szlávok például egyszerűen nem tanulhattak volna tovább az általános iskola után, a magyarok elvégezhették volna a középiskolát, szakmát tanulhattak volna, de ennyi. Tehát egyáltalán nem lett volna egy szabadabb, kiegyensúlyozottabb világ. Ezek nagyon kemény és nagyon száraz történetek, és ezeket lehet a nemzeti érzelmekkel, indulatokkal egymás ellen kijátszani.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Hol tartunk a trianoni döntés okozta trauma földolgozásában?
+    </hi>
+   </p>
+   <p>
+    K. I.: Alapvető lenne, hogy legalább a huszadik századi nagy traumáinkat dolgozzuk föl, beszéljük meg. A történettudománynak ehhez megvannak az eszközei is, a genetikai vizsgálatoktól kezdve a gazdasági, kulturális tényanyagokig bezárólag. Ezekkel le lehet ülni, és ki lehet alakítani az adott közösség álláspontját: mit csináltunk mi, mit csináltunk jól, mit csináltunk rosszul. Ezeket a dolgokat ki kéne beszélni. Rengeteg indulat eltűnne, ha lehetne ezekről a dolgokról beszélni. Ez kell a továbblépéshez.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Miért nem lehet beszélni róluk?
+    </hi>
+   </p>
+   <p>
+    K. I.: Mert a mindenkori politikai diskurzus csak a maga eszméit hirdeti. Egyelőre még ott tartunk, hogy az adott nemzeten belül milyen politikai irányzatok vannak, melyik kikre épül, kik alkotják az uralkodói elitet.
+   </p>
+   <p rend="head">
+    Ha megnézzük a rendszerváltás utáni magyar valóságot, akkor azt látjuk, hogy egy-két ember kivételével mindenki ugyanabból a fészekből jött. Mindnyájan a párttitkárok, tanácsnokok gyerekei, csak más-más nézeteket sajátítottak el.
+   </p>
+   <p>
+    De maga a törekvés ugyanaz. Nagyon nagy baj például, hogy ama kevés ország közé tartozunk, amelyek a mai napig nem hozták nyilvánosságra a titkosügynökök listáját. Ennek a célja nem a büntetés lenne, hanem az, hogy föltárjuk, ki mit csinált, milyen volt a rendszer, miért jelentettek a házmesterek, hogy került ki besúgó a baráti társaság tagjai közül.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Miért van az, hogy miközben gyakorlatilag senki nem kérdőjelezi meg egy holokauszt-megemlékezés létjogosultságát, addig egy Trianon-emlékművet nem lehet anélkül fölállítani, hogy ne jelenne meg egy markáns vélemény, miszerint Trianont el kell felejteni, régen volt, ne foglalkozzunk vele?
+    </hi>
+   </p>
+   <p>
+    K. I.: Trianont nem lehet elfelejteni. Azt kell megnézni, hogy mi volt benne az igazságtalan, mi volt a jogos, hogyan alakultak az etnikai határok. A történeti Magyarország visszaállítása, a Nagy-Magyarország-matricák nem visznek előre. A háborút követően a politika tudatos nemzetiségi politikaként, telepítéspolitikaként jelent meg: hogy a határok környékén az addig egységes magyar etnikumokat megtörjék, az embereket beköltöztessék az országba, vagy éppen kitelepítsék, mint a szlovák–magyar lakosságegyezmény esetén. De ilyen volt az is, amikor a világháború után a közös felelősség ürügyén kitelepítették a németeket. Egy adott nép vagy etnikum nem felelős azért, hogy a velük egy nyelvet beszélő hatalom mit csinált.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: A lakosságcsere önmagában is traumatizálhatja az érintett családokat.
+    </hi>
+   </p>
+   <p>
+    K. I.: Hogyne. A második világháború után nagyon kemény példák voltak erre. Jöttek Erdélyből, Felvidékről a magyar menekültek, akik egy szekéren hozták magukkal, amit tudtak, és ott álltak, abban a faluban, ahol éppen kitelepítették az erre ítélt svábokat. Nézték, ahogy ezek várják, hogy kiköltözzenek a saját lakásukból. Még sürgetik is időnként, hogy menj már gyorsabban innen. De honnan? A hazámból, a házamból, a falumból? Nagyon mély ellentéteket ültettek így el. Azt kell megnézni, mi van az emberek indulatának hátterében.
+   </p>
+   <p rend="head">
+    Egy tudatos – államilag támogatott – politikára lenne szükség, amelyik abban gondolkodik, hogy a fiataloknak, az új nemzedéknek együtt kell dolgozniuk itthon és a világban, és amelyik abban érdekelt, hogy ezeket az indulatokat és ellentéteket föloldja.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Ez az oktatásnak lenne a föladata?
+    </hi>
+   </p>
+   <p>
+    K. I.: Abszolút az oktatásé, illetve egy olyan kultúrpolitikái, amelyik elővenné a történelmi Magyarország ezeréves népi együttélésének pozitív példáit. El kéne kezdeni komolyan foglalkozni a vegyes házasságokkal is: mikor, hogyan, miért jönnek létre. Kevesen tudják, hogy kétszázezernél több cseh és tót munkás vett részt a millenniumi építkezésekben. Közülük hatvanezren itt maradtak, magyar nőt vettek feleségül. Az ő számukra iskolákat hoztak létre, majd az erőszakos magyarosítás során ezeket az iskolákat sorra bezárták. A feldolgozás kulcsa az oktatásban van. Elő kéne szedni a nemzeti emlékezet még megmaradt, valódi elemeit. Városokból, falvakból, házak tetejéről, padlásokról össze kell gyűjteni az eredeti dokumentumokat. Az öregek ezeket nem dobálták ki, főleg vidéken nem. Ezekből lehetne fölépíteni új család- és nemzedéktörténeteket. Az elmúlt százhúsz év sérelmeinek a hozadéka, hogy megszoktuk a félelmet. Gyakorlatilag nem kormány-, hanem rendszerváltások történtek nagyon rövid időn belül, ezért kialakult egy félelemrendszer.
+   </p>
+   <p rend="head">
+    A félelem az első világháborús vereséggel és Trianonnal vált általánossá. Innentől kezdve erre már csak rá kellett építeni: hol egy jobboldali rendszernek, hol egy baloldalinak, hol egy vörös diktatúrának, hol egy fehérnek. Gyönyörűen építkezhet erre a rendszer, ha nem hagyja, hogy a családok mindezt földolgozzák.
+   </p>
+   <p>
+    A félelem miatt a szülő nem adja tovább az ismeretet, ezért a fiatalok nem bíznak a szüleikben. A félelem miatt nem beszélünk arról, mi történt valójában, ezért fordulhat elő, hogy Magyarországon belül született emberek rácsodálkoznak arra, hogy hol tanult meg a határon túli magyar magyarul. Merthogy ő román vagy szerb vagy horvát. A mindenkori hatalom pedig abban érdekelt, hogy ezeket az árkokat ne temessük be, csak húzzunk rájuk egy kis gallyat, egy kis levelet. Így bármikor elő lehet őket venni. Nagyon penge logika van emögött.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Úgy tűnik, hogy a németek, akik vezető szerepet játszottak mindkét világháborúban és a zsidóüldözésekben is, nemzeti szinten földolgozták a múltat. Ők hogy csinálták?
+    </hi>
+   </p>
+   <p>
+    K. I.: A zsidóüldözés a legkegyetlenebb része volt a háborúnak, de nemcsak erről van szó. A németek fölvetettek olyan kérdéseket, amiket egyébként az emberek, a nemzetek nem szoktak föltenni. Megkérdezték és kibeszélték, hogy joga volt-e az adott államnak, császárnak, elnöknek, bárkinek német férfiak millióit beáldozni a frontokon. A férfiak több mint negyven százaléka elesett vagy megrokkant. Miről szólt az a háború? Nem elég nekem Németország, kell hozzá Oroszország is? De mi kell belőle, a szántóföld vagy a nyersanyag? És ezért áldozom be a saját embereimet, ezért szakítom szét a családokat? Ezen fölül kell kerekedni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Merre induljunk, ha meg akarjuk tanulni?
+    </hi>
+   </p>
+   <p>
+    K. I.: A feldolgozás politikai akarat kérdése. A térségben a trianoni örökség összes negatívumát és pozitívumát kéne egy kalapba rakni, és megnézni, hogy a most élő fiataloknak, a holnap meg a holnapután nemzedékének mi lenne a legjobb. A legjobb az, amikor békésen, együttműködve tudnak együtt élni, szerelemből tudnak egymás közt házasodni. Az életet kell első helyre tenni. Nem lehet olyan szembeállításokat csinálni, hogy ha a cigány élhet, akkor a zsidót üldözöm, és hasonlók. A látens cigánygyűlölet, a látens antiszemitizmus mind a mai napig megvan, mégpedig politikai párttól függetlenül.
+   </p>
+   <p>
+    Ugyanez a helyzet az utódállamokban: szerb–magyar, román–magyar ellentét is van. Az erdélyi románok sok száz évig éltek együtt a magyarokkal, és teljesen mások voltak az érdekeik, mint a Moldvából betelepített tömegeknek. Többször is felajánlották, hogy legyen egy erdélyi párt, ami magyaroké és románoké egyaránt. Ennek azonnal nekimentek magyar és román oldalról is. Ugyanezek a helyzet a felvidéki Híd-Most párttal, akik hiába próbáltak a felvidéki tótok és a felvidéki magyarok közös érdekei mentén politizálni. A kis népeknél a nagyokhoz való alkalmazkodás nem azt jelenti, hogy hol ide, hol oda hódolok be. Azt kellene megtanulni, hogy hol tudok úgy mozogni a politikai térben, hogy a legtöbbet valósítom meg a saját etnikumom, a saját polgáraim számára anélkül, hogy másoktól elvennék. Ez a politika felelőssége. Nem úgy, mint itt Közép-Európában, a trianoni utódállamokban, ahol keveselljük a tortát, és én akarom belőle elvenni a legnagyobb darabot. A tortát kell növelni. Ezt tanulták meg a németek, így lettek Európa egyik legerősebb gazdasági, ezen keresztül pedig politikai hatalma.
+   </p>
+   <p>
+    Amikor a második világháború után az amerikaiak megtiltották a japán fegyverkezést, akkor Japánban nem kellett többé a hadseregre költeni. Minden tőke mehetett a gazdaságba meg az oktatásba. Erre lenne lehetőség az Európai Unió is. Nem érdeke, hogy ne fejlődjünk gazdaságilag, ezért van a kohéziós fejlesztési alap. A különböző országok éppen adott hatalmi elitje miért is nyúlja le ezeket a pénzeket a saját céljaira? Ez nem erről kellene, hogy szóljon. Az EU-nak kiegyensúlyozottságra van szüksége, ehhez felzárkóztatásra van szükség, amihez pedig képzett, nyelveket ismerő fiatalok kellenek.
+   </p>
+   <p>
+    <hi rend="bold">
+     Cs. J.: Nagyon élesek az ellentétek mind a kormánypárt és az ellenzék hívei között, mind az anyaországi és a határon túli magyarok között, és hasonlóan éles ellentétek vannak a trianoni utódállamok nemzetiségei között. Ezt figyelembe véve életszerű elgondolás az, hogy pártok és nemzetek fölött gondolkodjunk?
+    </hi>
+   </p>
+   <p>
+    K. I.: Az utóbbi négy-öt évben a világot átölelő környezetvédelmi problémák miatt megteremtődött az országokon felüli gondolkodás lehetősége.
+   </p>
+   <p rend="head">
+    A vajdasági paraszt és a dunántúli paraszt problémáját nem az etnikumok közti ellentétek fogják megoldani, hanem az, ha tudunk locsolni a Dunából és a Tiszából.
+   </p>
+   <p>
+    Ha ebben nincs probléma, ha meg tudunk egyezni, hogy ki mennyi vizet használjon, ha erre épített technológiákat hozunk létre, ha a hajóinkon vegyes etnikumú, szerb és magyar matrózok utazgatnak. Az emberiség problémái nagyon nagyok. Már nem lehet megnyerni egy nagy háborút, mert az atomszennyeződés miatt a győztesnek se maradna élettere, ő sem nyerhetne. Erre már sokan rájöttek, milliók tüntetnek Európában a környezetért. Kulcskérdés, hogy efelé tereljük a fiatalokat: mit együnk, hogyan termeljünk. A nemzetiségi problémákat is az együttélés lehetősége oldja meg. Ahogy korábban hozzánk jöttek a Felvidékről dolgozni az emberek, most úgy megyünk mi hozzájuk. De nem az a lényeg, hogy ki megy kihez, hanem az, hogy együtt vagyunk.
+   </p>
+  </body>
+ </text>
+</TEI>

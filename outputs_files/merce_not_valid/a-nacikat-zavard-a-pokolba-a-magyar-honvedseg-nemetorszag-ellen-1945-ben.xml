@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „A nácikat zavard a pokolba!” – A Magyar Honvédség Németország ellen 1945-ben
+    </title>
+    <author>
+     <persName>
+      Barta Léka Tamás
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0d7a62b3-2352-5ee9-8f09-9b91798049c3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „A nácikat zavard a pokolba!” – A Magyar Honvédség Németország ellen 1945-ben
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Barta Léka Tamás
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-23T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/23/a-nacikat-zavard-a-pokolba-a-magyar-honvedseg-nemetorszag-ellen-1945-ben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/23/a-nacikat-zavard-a-pokolba-a-magyar-honvedseg-nemetorszag-ellen-1945-ben/
+     </sch:url>
+     <sch:name>
+      „A nácikat zavard a pokolba!” – A Magyar Honvédség Németország ellen 1945-ben
+     </sch:name>
+     <sch:datePublished>
+      2020-05-23T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Barta Léka Tamás
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      történelem
+     </sch:keywords>
+     <sch:keywords>
+      2. világháború
+     </sch:keywords>
+     <sch:keywords>
+      Magyar Honvédség
+     </sch:keywords>
+     <sch:keywords>
+      1945
+     </sch:keywords>
+     <sch:keywords>
+      felszabadulás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0d7a62b3-2352-5ee9-8f09-9b91798049c3">
+     <sch:identifier>
+      urn:uuid:919ab43e-4a28-40b1-ab11-a3602ae7d043
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:02.422059
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:11:30.019602
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0d7a62b3-2352-5ee9-8f09-9b91798049c3" when="2021-12-14T15:35:02.422059">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „A nácikat zavard a pokolba!” – A Magyar Honvédség Németország ellen 1945-ben
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Nemrég volt a II. világháború európai befejezésének 75. évfordulója. Ennek kapcsán ismét sok helyen fellángolt a vita: érdemes-e ezt a napot megünnepelni? Sokak szerint a fasizmus európai vereségének napjaként érdemes a megemlékezésre. Mások szerint Magyarország, mint vesztes állam szempontjából május 8-a/9-e csak gyásznap lehet.
+   </p>
+   <p>
+    Ami azonban feltűnő volt az évforduló kapcsán megjelenő véleményekben: Magyarország mindegyik narratívában a passzív szemlélő, az áldozat (a megmentendő áldozat vagy a legyőzött áldozat) szerepébe szorult. Mintha teljesen kiveszett volna a történeti emlékezetből annak tudata, hogy Magyarország hivatalosan átállt, és hogy a nyilas diktatúrát felváltó új, demokratikus kormányzat mindent megtett azért is, hogy hazánk aktívan vegye ki a részét a nácik elleni hadműveletek befejezéséből. Ennek a történeti emlékezetkiesésnek megvannak a maga okai, amelyekre alább még visszatérek.
+   </p>
+   <p rend="head">
+    Pusztulás és remény között
+   </p>
+   <p>
+    Az átállástól függetlenül azért természetesen azt sem lehet kijelenteni, hogy Magyarország győzött.
+   </p>
+   <p>
+    Magyarország számára a háború egésze tényleg katasztrófa volt: elvesztette az 1938-1939-ben visszaszerzett területeit, katonái és civil lakossága százezreit. (Ezek jelentős részét persze nem kizárólag az ellenség, hanem saját vezetése hibájából, részben egy tudatos népirtás keretében.) Az ország lerombolva és kifosztva került ki a történelem legnagyobb fegyveres konfliktusából. Mindezek elismerése mellett, mégsem kellene azt sem elfelejteni, hogy 1945-ben Magyarország előtt nagy lehetőségek is álltak. Sokak számára az újrakezdés, a tiszta lap lehetőségét jelentette ez az év.
+   </p>
+   <p>
+    Magyarország hivatalosan a győztesek oldalán fejezte be a háborút, és nem is teljesen passzív szereplőként, hanem hadviselő félként. Magyar csapatok nem csak a visszavonuló németek mellett maradtak, hanem az újjászülető ország önálló hadseregeként részt vettek a náci Németország elleni utolsó hadműveletekben is. Még ha ez csak szimbolikus gesztus is volt, de nagyon fontos szimbolikus gesztus.
+   </p>
+   <p>
+    Érdekes, hogy erről nem csak a mai, fasizálódó világban feledkezünk meg, hanem már az államszocializmus idején sem kapott különösen nagy hangsúlyt, sem a Rákosi-, sem a Kádár-korszakban. Mintha már abban az időben is meglett volna a készség, a cél arra, hogy az 1945-1949 közötti időszakot, a II. Magyar Köztársaság korát összemossák az 1949-ben hatalomra jutó államszocialista rezsimmel, persze a maival teljesen ellentétes értékeléssel.
+   </p>
+   <p>
+    Magyar hadifoglyok 1945-ben (a kép forrása: Vörös Hadsereg/ Fortepan)
+   </p>
+   <p>
+    Pedig az 1945 és 1948/1949 közötti pár év sok szempontból előremutató időszak volt az ország életében, fontos társadalmi változások indultak el.
+   </p>
+   <p rend="head">
+    Ekkor valósult meg az, amiért a magyar nemzet legjobb írói, tudósai, újságírói, szociológusai és politikusai évtizedekig hiába küzdöttek: a földreform, azaz a magyar földbirtokoknak egy igazságosabb elosztása, ami a társadalom széles rétegeit juttatta biztos megélhetéshez.
+   </p>
+   <p>
+    1945 egy sokszínű, pezsgő társadalmi és kulturális élet időszakának kezdetét is jelentette. A későbbi pártállami propaganda célja persze az volt, hogy minden ekkor elinduló pozitív változást igyekezzen a kommunisták érdemeként megjeleníteni. Talán ennek köszönhető, hogy a határok elmosódtak, és a mostani rendszer ezt az emlékezeti homályt a saját érdekeinek megfelelően alakítja át.
+   </p>
+   <p rend="head">
+    Az ideiglenes államhatalom és hadserege
+   </p>
+   <p>
+    Való igaz, hogy a Magyarországon átvonuló szovjet katonák sok helyen fosztogatásba kezdtek, erőszakoskodtak és kegyetlenkedtek a magyar civil lakossággal. (A háborús bűnökre természetesen nem adhat felmentést az sem, hogy korábban a magyar megszálló csapatok is sok helyen hasonlóan bántak a Szovjetunió fegyvertelen polgáraival.) Az azonban nem igaz, hogy a Szovjetunió már ekkor megpróbálta rákényszeríteni a maga politikai rendszerét a legyőzött országra.
+   </p>
+   <p>
+    A szovjetek nem nevezték ki minden pozícióba a saját embereiket, ez lehetetlen is lett volna, lévén, hogy a Magyar Kommunista Párt (MKP) taglétszáma akkor még egyáltalán nem volt országos szinten magas. Azokon a helyeken, ahol már elvonult a front, maguk a helyi lakosok választották és szervezték meg helyi, községi és városi önkormányzataikat, az ún. nemzeti bizottságokat. (A közvetlen demokráciának és az önkormányzatiságnak ez a tapasztalata rendkívül hasznosnak bizonyult 11-12 évvel később, 1956-ban az akkori helyi forradalmi bizottságok és munkástanácsok megszervezésekor. Valószínűleg számos esetben ugyanazok is voltak a szervezők.)
+   </p>
+   <p>
+    Az új országgyűlés és az új kormány sem a szovjetek által összeállított, és a megszállókat feltétel nélkül kiszolgáló „bábkormány” lett. Természetesen 1944 decemberében, mikor az ország nagy részén még harcok folytak, nem lehetett szó szabályos, országos választásokról, de az egymással összefogó nemzeti bizottságok törekedtek arra, hogy minél több ember vehessen ezeken részt, és a lehetőségekhez képest demokratikus legyen a szavazás, a korábbi vagyoni, nemi és regionális különbségtételek nélkül. Így a korábbi rendszerben hatósági üldözést, vagy legalábbis akadályoztatást szenvedő demokratikus ellenzéki erők is lehetőséghez jutottak. A későbbiek folyamán, ahogyan az ország egyre nagyobb részén megszűntek a harci cselekmények, a Nemzetgyűlést kiegészítették új képviselőkkel is az ország nyugatabbra lévő területeiről.
+   </p>
+   <p>
+    Az Ideiglenes Nemzetgyűlés végül 1944. december 21-én alakult meg Debrecenben. Másnap megkezdte a működését az Ideiglenes Nemzeti Kormány is. Ebben öt korábbi ellenzéki párt képviseltette magát: a Független Kisgazdapárt (FKGP), a Szociáldemokrata Párt (SzDP), a Magyar Kommunista Párt (MKP), a Nemzeti Parasztpárt (NPP) és a Polgári Demokrata Párt (PDP). Távolról sem a kommunisták kizárólagos uralmáról volt tehát szó. (A Nemzetgyűlésben, a kormányüléseken és különböző pártközi értekezleteken pedig hosszú és komoly szakmai viták folytak az ország újjáépítésének kérdéseiről. Így tehát tévedés lenne azt gondolni, hogy ez a parlament csupán egy előre eldöntött kérdések formális jóváhagyására összeállított testület volt.)
+   </p>
+   <p>
+    De ekkor még az sem volt cél, hogy a régi rendszer minden emberét kiszorítsák a hatalomból. A kormányban helyet kaptak a Horthy-hadseregnek azok a (pártonkívüli) tábornokai is, akik 1944 októberében nem voltak hajlandóak kiszolgálni a hazaáruló, saját állampolgárait tömegével legyilkoló nyilaskeresztes rezsimet. Ilyen volt maga a kormány miniszterelnöke (Dálnoki) Miklós Béla és honvédelmi minisztere, Vörös János is. Közoktatási miniszterként ott volt a kormányban a liberális PDP színeiben Teleki Géza is, az egykori öngyilkos miniszterelnök, Teleki Pál fia.
+   </p>
+   <p>
+    De  az akkori Magyar Kommunista Párt sem azonosítható teljesen a későbbi Rákosi-diktatúra állámpártjával, a Magyar Dolgozók Pártjával. A pártban számos olyan képviselő és aktivista működött, aki korábban az antifasiszta ellenállásban, majd a parlamenti munkában és a mindennapi életben is sokat tett a demokratikus pártok együttműködéséért. Őket persze a későbbi diktatúra nagyrészt eltávolította pozícióikból; sokuk útja 1949-ben és utána a börtön vagy az akasztófa felé vezetett.
+   </p>
+   <p>
+    Az Ideiglenes Nemzeti Kormány azonnal fegyverszünetet kért a Szovjetunióval, ennek hivatalos kimondására azonban csak 1945. január 20-án került sor. A fegyverszüneti megállapodásban a magyar fél vállalta, hogy részt vesz a további hadműveletekben, Magyarország felszabadításában, majd követi új szövetségeseit akkor is, ha a harcok német területekre mennek át.
+   </p>
+   <p rend="head">
+    Azok után, ami történt (a Szovjetunió magyar lerohanása,
+    a magyar katonák ottani kegyetlenkedései
+    , valamint a korábbi magyar hatóságoknak a saját állampolgárai elleni fellépése, az, hogy több százezer magyart kiszolgáltattak a náci német halálgyáraknak), a háborús részvételnek ezt a formáját a kormány természetesen becsületbeli ügynek is tekintette.
+   </p>
+   <p>
+    Magyarország hivatalosan hadat üzent Németországnak, ennek konkrét következményei azonban csak később lettek.
+   </p>
+   <p>
+    Bár az egyezmény a magyar és a szovjet fél között nyolc magyar hadosztály (minimum 80 ezer ember) fegyverbe állításáról szólt, a szovjet hadvezetés egyelőre Vörös János tábornok, honvédelmi miniszter sürgetésére sem sietett a magyar hadifoglyokat tömegével elengedni, sem őket zsákmányolt német fegyverekkel felszerelni. Több korszakkal foglalkozó történész és író szerint emögött a Román Királyság diplomatáinak közbelépése állt. A már 1944 augusztusában átállt Románia törekvése nem csak az volt, hogy a zsákmányolt fegyvereket a saját hadserege számára foglalja le, hanem az is, hogy a magyar haderő minél később kapcsolódhasson be a hadműveletekbe. Úgy számoltak ugyanis, hogy ez minél később következik be, annál kisebb érdemeket szerezhet a magyar fél a nácik legyőzésében, és így Erdély és a Partium annál kisebb részére nyújthatja majd be az igényét egy jövendő nemzetközi béketárgyaláson. Hogy valóban így volt-e, és ha igen, pontosan hogyan zajlott ez a diplomáciai lobbitevékenység, a jövő kutatásainak feladata lesz kideríteni.
+   </p>
+   <p>
+    A magyar katonák toborzása ugyanakkor már 1945. január végén elkezdődött. A katonák között volt az ekkor 23 éves balmazújvárosi Kis András főtörzsőrmester is, aki később (már 1990 után) hadtörténészként egy nagy összefoglaló könyvet írt a hadsereg szervezéséről. Az ő adatai szerint országosan mintegy 70 ezer ember jelentkezett az új Honvédségbe.
+   </p>
+   <p>
+    „Ha (…) nem csak azt vesszük figyelembe, hogy a felszabadított területek felnőtt férfilakossága 1945 tavaszán igen-igen megfogyatkozott, (…) hanem azt is, (…) hogy az idegen megszálló katonaság jelenléte miatt a katonai szervező munkának megvoltak a maga korlátai, akkor valóban elégedettek lehetünk a toborzás magyarországi eredményeivel, hiszen a szervező munka fogyatékossága ellenére is tízezrek jelentkeztek katonának. (…)
+   </p>
+   <p>
+    Az önkéntesek életüket és vérüket ajánlották fel a hazának. 1945 tavaszán elsősorban ők dokumentálták Magyarországon azt, hogy az Ideiglenes Nemzeti Kormány programja történelmi realitás. Az önkéntesek jelentkezése, kiállása a legkézzelfoghatóbb népszavazás volt az Ideiglenes Nemzeti Kormányra és annak programjára.”
+    <hi>
+     –írta Kis András
+    </hi>
+    A Magyar Honvédség újjászervezése
+    <hi>
+     (1945) című könyvében.
+    </hi>
+   </p>
+   <p>
+    Kis főtörzs persze némileg elfogult volt. Egyáltalán nem lehetünk biztosak benne, hogy a toborzás ténylegesen minden esetben az önkéntességen alapult. Az azonban elég sok korabeli visszaemlékezésből elég világosan látszik, hogy az akkori huszonéves fiatalok körében valóban elég nagy volt az új kormány támogatottsága. Ezek a fiatalok csalódtak a korábbi rendszerben, amely egy véres és reménytelen háborúba vitte az országot, és kész volt saját civil állampolgárait is feláldozni egy idegen nagyhatalomnak a területi gyarapodás érdekében. A lakosság nagy részét kitevő parasztság pedig emellett hálás volt az új kormánynak az 1945 márciusában megkezdett földosztásért. Így tehát reális lehet az a kép, hogy 1945-ben sokan bizakodva tekintettek a jövőbe, és ezért a jövőért hajlandóak lehettek némi áldozatot hozni, akár még a valóban sok szenvedést okozó szovjet Vörös Hadsereg oldalán is. (Voltak egyébként, akik rosszindulatból vagy csak tréfából az új Magyar Honvédséget is „Vörös-hadseregnek” nevezték, a honvédelmi miniszter nevére utalva.) Úgy tűnik, a többség hangulata a szovjetek minden visszaélése ellenére nem volt annyira pesszimista, mint azt utólag sokan hiszik.
+   </p>
+   <p>
+    Toborzó röplap az új Magyar Honvédségbe 1945-ben (közreadta KIS András: A Magyar Honvédség újjászervezése (1945). Zrínyi Kiadó, Budapest,
+   </p>
+   <p>
+    Az új önkéntesek mellett a szervezők a toborzásban természetesen építettek azokra az ellenálló csoportokra, amelyek az elmúlt egy évben részt vettek a németek és a nyilasok elleni fegyveres harcban és az ártatlan magyar civilek mentésében. Így például a miskolci bányászok és munkások csapatára, amely 1944 decemberében megakadályozta, hogy a németek kifosszák Miskolc bányáit és ipari üzemeit. (A miskolci ellenállók között volt pl. Kopácsi Sándor, a későbbi rendőrtiszt, az 1956-os forradalom hőse, és Fekete Sándor, a későbbi híres író, akit 1956-os tevékenységéért szintén bebörtönöztek). Vagy a Budai Önkéntes Ezredre, amely Variházy Oszkár alezredes vezetésével már 1945 februárjában állt át a szovjetekhez, és a Budai Citadella, illetve a Déli Pályaudvar elfoglalásában vett részt. (És mint magyar fegyveres alakulat igyekezett biztosítani azt is, hogy a szovjetek ne erőszakoskodjanak a magyar civilekkel. A Budai Önkéntes Ezred katonái egyébként a Várból való sokat vitatott kitörést túlélt magyar bajtársaikat is felkutatták, összeszedték, és nekik védelmet biztosítottak, nem adták át őket a szovjeteknek.) Számítani lehetett néhány olyan szlovákiai magyarra  is, akik a szlovák nemzeti felkelésben vettek részt, valamint a szovjet jóváhagyással az ország közlekedésének újjáépítésén dolgozó magyar vasút- és hídépítő zászlóaljakra. És persze olyanokra is, akik már 1943-ban, a Don-kanyarban szovjet fogságba estek, de később jelentkeztek a németek elleni harcra, és akik az Ideiglenes Nemzeti Kormány személyes védelmét ellátó alakulatokban szolgáltak. (Közéjük tartozott például Maléter Pál hadnagy is, aki később, 1956-ban Nagy Imre-kormány honvédelmi minisztere lett.)
+   </p>
+   <p>
+    Ennek ellenére a még mindig a Szovjetunió területén lévő magyar hadifoglyok nagyobb tömegeinek hazaengedése és hazahozatala csak nagyon lassan haladt. A már Magyarországon az utóbbi hónapokban fogságba esettek közül azonban sokakat sikerült az új Magyar Honvédségnek átvenni, és felfegyverezni. (A legnagyobb hadifogolytábor Jászberényben volt, innen szinte minden magyar hadifogoly az új honvédségbe került át. Persze őket nehezen lehetne önkénteseknek nevezni.)
+   </p>
+   <p rend="head">
+    Két hadosztály Ausztriában
+   </p>
+   <p>
+    Az országot a Honvédelmi Minisztérium hét honvédelmi kerületre osztotta. (1. Budapest, 2. Székesfehérvár, 3. Szombathely, 4. Pécs, 5. Szeged, 6. Debrecen, 7. Miskolc). Természetesen ezek közül Székesfehérváron és Szombathelyen a még folyamatban lévő harcok miatt jó darabig szó sem lehetett toborzásról. De az említett nehézségek, elsősorban a felszerelés akadozása miatt végül egyik kerület hadosztálya sem vehetett részt a magyarországi harcokban. (Ha ez bekövetkezett volna, akkor ma valószínűleg nem lenne kérdés, hogy az ő harcukat nevezhetjük-e felszabadító harcnak.) Áprilisra végül csak három hadosztályt sikerült felszerelni, és ezek közül a hónap második felében is csak kettő (tehát kb. 20 ezer ember) lépte át Magyarország határát: az egyik az 1. (budapesti-jászberényi) gyaloghadosztály (amely jelentős részben a Jászberényből elengedett magyar katonákból állt) Fülöp József vezérkari őrnagy, Szalay Tibor alezredes (a miskolci ellenállók egyik vezetője) és Variházy Oszkár alezredes parancsnoksága alatt. A másik a Debrecenben (az Ideiglenes Nemzeti Kormány székhelyén) szervezett 6. gyaloghadosztály Székely László vezérkari ezredes parancsnoksága alatt.
+   </p>
+   <p>
+    Kis András közli a 6. hadosztály indulójának szövegét is (sajnos sem a szerző neve, sem a dallam nem maradt fenn):
+   </p>
+   <p>
+    „Holnapután, rózsám, felülünk a masinára 
+Holnapután, rózsám, elmegyek Németországba 
+Így szólt édesapám: Édes fiam, én nem bánom. 
+Te is tedd meg az én kívánságom! 
+Egyet-kettőt köpjél a markodba, 
+A nácikat zavard a pokolba! 
+Aztán gyere haza nyárra 
+Virágos Magyarországra!”
+   </p>
+   <p>
+    Mindkét hadosztály az akkor a Német Birodalom részének számító Ausztriába került, a 3. Ukrán Front és a 27. szovjet hadsereg műveleti területére, elsősorban megszálló-biztosító egységekként. Állomásterületük Burgenland volt, elsősorban Felsőőr (Oberwart) környéke, tehát nem távolodtak el jelentősen Magyarországtól, sőt nagyrészt az egykori Magyarország területén foglaltak állást. Feladatuk rendfenntartás, járőrözés, a megszállt területek ellenőrzése volt. Nagyobb méretű harcba már nem kerültek, de katonáik visszaemlékezései szerint még részt vettek kisebb bujkáló vagy eltévedt SS-csapatok felkutatásában, amelyeknek tagjai kiéhezve és lerongyolódva általában már harc nélkül megadták magukat.
+   </p>
+   <p>
+    Pár hét ausztriai állomásozás után a háború véget ért. A két magyar hadosztály ezután már nem sokáig maradt a szomszédos országban: tavasz végén, nyár elején visszavonták őket Magyarország területére, és jelentős részüket (elsősorban a besorozott hadifoglyokat) hamarosan le is szerelték. Valószínűsíthető, hogy az Ideiglenes Kormány reménykedett abban, hogy a két magyar hadosztály továbbra is Ausztriában maradhat, és Magyarország számíthat valamiféle határkorrekcióra Ausztria (illetve a Német Birodalom) rovására, azonban ez sem következett be.
+   </p>
+   <p>
+    A 6. hadosztály 16. gyalogezredének tisztjei Magyarországra való visszatérésük után Gyulafirátóton (a kép forrása: KIS András: A Magyar Honvédség újjászervezése (1945). Zrínyi Kiadó, Budapest, 1995. 45. o.)
+   </p>
+   <p>
+    Feltehető a kérdés: kik maradtak hűek katonai esküjükhöz 1944-1945-ben: a szovjet vagy a német oldalon harcoló magyar katonák? Ennek eldöntésénél érdemes figyelembe venni két dolgot. Az egyik: a II. világháborúban harcoló katonaság először Horthy Miklósra mint hadúrra esküdött fel, őt pedig a nyilasok törvénytelenül távolították el a hatalomból. A nyilas puccs előtt Horthy még kimondta a szovjetekkel kötött fegyverszünetet. Az Ideiglenes Nemzeti Kormány tehát részben helyreállított egy korábban fennállt törvényes állapotot. Az átállás pedig ennek logikus következménye volt, azt Horthy vezetésével sem lehetett volna elkerülni. A másik dolog: a honvédek feladata elsősorban mindig a lakosság, az emberi életek védelme, emellett persze a haza anyagi értékeinek védelme is.
+   </p>
+   <p rend="head">
+    Egy olyan hatalomnak tett eskü, amely civilek százezreit, nőket és gyerekeket küld a halálba, valamint az ország gyárait, egyetemeit külföldre juttatja és feltétel nélkül kiadja egy idegen nagyhatalomnak, nem kötelezheti a katonát.
+   </p>
+   <p>
+    Ezt így gondolhatták azok, akik 1944-ben és 1945-ben átálltak a szovjetek oldalára. (A Budai Önkéntes Ezred célja is elsősorban Budapest lakosságának védelme volt egyrészt a további harcoktól, másrészt a szovjetek kegyetlenségétől is.)
+   </p>
+   <p>
+    Az Ideiglenes Nemzetgyűlést, ha nem is teljesen szabályos, de a háborús körülményekhez képest lehetséges demokratikus választás emelte az ország élére. Mivel azt a külföldi államok is elismerték, ez volt akkoriban Magyarország legitim törvényhozó szerve, D. Miklós Béla kormánya pedig az ország legitim végrehajtó hatalma. Ezek alapján 1945-ben az akkor felálló új hadosztályok alkották Magyarország legitim hadseregét, nem pedig azok, akik a német Wehrmacht alárendeltségében harcoltak tovább a szovjetek ellen.
+   </p>
+   <p rend="head">
+    Emlékezet I. 
+A nemzet becsülete
+   </p>
+   <p>
+    Nem mondható, hogy az 1. és 6. magyar hadosztályok stratégiailag különösebben fontos szerepet játszottak volna a háború menetében. Az utólagos emlékezet szempontjából talán mégsem lényegtelen megemlékezni róla, hogy egyáltalán léteztek ilyen alakulatok. Szándékukat (és persze az Ideiglenes Nemzeti Kormány szándékát) a „magyar becsület helyreállítására” nemigen lehet vitatni. Mint az egyik Ausztriát megjárt katona, Karátsony József megjegyezte:
+    <hi>
+     „Aki 1945 elején lett tagja az új magyar hadseregnek, tudatában volt annak, (…) hogy a harctéren meghalni is lehet.”
+    </hi>
+   </p>
+   <p>
+    Hasonlóan fogalmazott visszaemlékezésében a 6. hadosztály egyik zászlóaljorvosa, dr. Ákos Károly is (később neves pszichológus és számos ismeretterjesztő könyv szerzője), akinek szavait érdemes egy kicsit hosszabban is idézni:
+   </p>
+   <p>
+    „Könnyű utólag okosnak lenni, s tudni, hogy a háború hamarosan véget ért. Mi akkor arra készültünk fel, hogy a németek még konokabbul fogják védelmezni Ausztria &gt;&gt;alpesi erődjét&lt;
+   </p>
+   <p>
+    Két fő szempont volt a döntő. Az első az, hogy mindannyiunknak elegünk volt ebből a háborúból, elegünk volt a németekből, akik éppen ezidőtájt új meg új erőket vetettek be. (…) Úgy éreztük, mindent el kell követnünk, hogy vége legyen az országot elpusztító háborúnak, és segíteni akartunk leverni, végleg megsemmisíteni a német fasizmust. (…) A másik okot talán szégyennek vagy talán dühnek nevezhetném amiatt a megaláztatás és meggyaláztatás miatt, amely az egész nemzetet érte, amikor a fasizmus szövetségeseként hozott súlyos áldozatokat, ontott vért, szenvedett vereséget. (…)
+   </p>
+   <p>
+    Oly sokszor és oly könnyelműen éltek vissza az ilyen fogalmak emlegetésével: hazaszeretet, nemzet, nép! Mindenki, aki a maga szűkkörű érdekeit szolgálta, s lelkesen tolta a nemzet szekerét a második világháború szakadéka felé, mindig a haza érdekéről, hazafiságról, magyarságról szavalt. (…)
+   </p>
+   <p>
+    Akkor minket valóban áthatott annak a felelősségnek a tudata, hogy az ország népén nem szabad rajta maradnia a bélyegnek, hogy mindvégig a fasizmus szövetségese volt. Azt reméltük, tehetünk valamit a nemzet becsületéért. Nem egyéni előnyökért, nem jutalomért vállaltuk a részvételt a háborúban a sarokba szorított ellenség ellen, hanem egy nemzet gyalázatát akartuk lemosni. S épp ezért fáj ma látnom kislányom iskolai történelemkönyvében, hogy emlékünk feledésbe merült.
+   </p>
+   <p>
+    Gyermekeink nem tanulnak róla, hogy volt egy debreceni és egy jászberényi hadosztály a második világháború végén, voltunk mi is, akik akartunk valamit tenni, ha késve és végül elkésetten is.”
+   </p>
+   <p>
+    A fenti sorok 1985-ben kerültek kinyomtatásra (de feltehetően korábban íródtak). A partizán-romantikát olyannyira felkaroló államszocialista rendszer tehát nem igazán sietett a két magyar hadosztály emlékét ápolni. Felhozható, hogy stratégiai jelentőségük nem sok volt, de ez elmondható más kommunista ellenállókról is, akiknek kultuszát pedig az akkori hatalom olyannyira támogatta, tetteiket, jellemvonásaikat igyekezett is felnagyítani.
+   </p>
+   <p rend="head">
+    Emlékezet II. 
+Magyarország, a megalázott gyarmat
+   </p>
+   <p>
+    A Rákosi-rendszer a II. világháború végéről való megemlékezésre április 4-ét jelölte ki kötelező ünnepnapnak. Hogy valóban ez volt-e az a nap, amelyen az utolsó Wehrmacht-katona is elhagyta Magyarország területét, erősen vitatott, a lényeg azonban nem is ez. Egy ünnep esetén nem feltétlenül a naptári dátum az érdekes, hanem az, hogy milyen eseményt ünneplünk akkor, és hogy annak milyen üzenete van történelmünkre és mostani életünkre nézve.
+   </p>
+   <p>
+    A Rákosi-rezsim az ünnepet a szovjeteknek való teljes behódolás jegyében alakította ki, kizárólag „a felszabadító Vörös Hadsereg” győzelmét hangsúlyozta. Ez annál ellentmondásosabb volt, mivel a kommunista hatalom a hidegháborús készülődés jegyében a magyar hadsereg fejlesztésébe kezdett, és az április 4-i felvonulások a magyar katonai erő demonstrálásának eszközei lettek. Mégis: a beszédekben, a propagandában kizárólag a szovjetek felszabadító szerepéről esett szó, a szerény magyar részvételről szinte sosem. (Pedig az 1950-es évek hadseregében természetesen elég sokan szolgáltak azok közül, akik még 1945-ben jelentkeztek katonának az újjászervezett Honvédségbe.)
+   </p>
+   <p>
+    Ezzel a Rákosi-rendszer kialakította a szerencsétlen, legyőzött, passzív Magyarország képét, amelyet egy fejlettebb, haladóbb, kegyes „nagy testvérnek” kellett felszabadítania. Amely nagy testvérnek a megtévedt, de felszabadított kis nemzet feltétlen gyarmati hálával tartozik, ezért is ajánlja fel haderejét a nagy szövetséges szolgálatára. Így vált az április 4-i ünnep a magyar nemzettudat megalázásának napjává. Nemigen találni példát máshol arra, hogy egy ország fő nemzeti ünnepén egy másik ország (egy másik nemzet) katonai győzelmét kellett ünnepelni katonai parádéval.
+   </p>
+   <p rend="head">
+    Az a történeti torzkép, ami sokakban él az egyik diktatúrát azonnal, minden átmenet nélkül felváltó másik diktatúráról és a megszállt Magyarországról, amelyet kizárólag az áldozat szerepében lehet feltüntetni, valahonnan innen veszi az eredetét.
+   </p>
+   <p>
+    A Rákosi-diktatúra mindezt azzal is súlyosbította, hogy 1951-ben szovjet egyenruhába öltöztette a Magyar Néphadseregre átkeresztelt Honvédséget, még inkább egy gyarmati segédhaderő képét alakítva ki az ország katonaságáról. (Ilyesmire a keleti blokk egyetlen más államában sem került sor, még a „bűnös múltú” Kelet-Németországban sem.)
+   </p>
+   <p>
+    1956 után a Kádár-rendszer ezzel is, mint mindennel a Rákosi-rendszer örökségéből, csak ímmel-ámmal és felemásan számolt le. Új egyenruhát vezetett be, visszaadta a magyar katonáknak az olyannyira karakteres Bocskai-sapkát, az állami címer esetében megpróbált egy köztes megoldást létrehozni egy még mindig „szovjetizált”, de valamivel mégis „magyarosabb” címerrel. De az április 4-ei ünnephez nem mert hozzányúlni. Pedig ha az 1945-ös eseményeknek akartak emléket állítani, találhattak volna más, szimbolikus dátumot is, amely az Ideiglenes Nemzetgyűléshez és/vagy az Ideiglenes Nemzeti Kormányhoz, a földosztás megkezdéséhez, vagy akár az 1. és a 6. hadosztályhoz kapcsolódik, és még csak azt sem lehetett volna mondani, hogy mindez szovjetellenes lépés lett volna.
+   </p>
+   <p>
+    Talán azért nem láthatta alkalmasnak a Kádár-rendszer a két magyar hadosztály emlékét ápolni, mert felismerte azt, hogy ezzel nem feltétlenül az államszocialista rendszert legitimálná, hanem éppen annak a rendszernek az emlékét, amelyet a kommunista diktatúra 1949-ben megdöntött. Az Ideiglenes Nemzeti Kormányt ugyanis nem kizárólag a Magyar Kommunista Párt hozta létre, mint ahogyan nem lehet a kommunisták érdemeinek tulajdonítani a nemzeti bizottságokat, a földosztást és a Honvédség újjászervezését sem.
+   </p>
+   <p rend="head">
+    Mindezek 1945-ben, szélesebb erők összefogásából keletkeztek. Ezek az erők pedig 1956-ban szembefordultak az erőfeszítéseiket kihasználó, segítségükkel felemelkedő, de őket (és sok esetben saját egykori tagjait is) később félresöprő és megalázó sztálinizált párttal („a” Párttal), amely diktatúrába vezette az országot. 1956-ban az 1945-ben helyben az alulról kezdeményezett önkormányzatiság, országosan pedig az 1945-ben összefogó pártok szerveződtek újra.
+   </p>
+   <p>
+    1956 története nem érthető meg az 1945-ben létrejött rendszer ismerete nélkül. De a dolog talán fordítva is igaz lehet: 1956 azt is megmutatta, milyen irányba mehetett volna tovább Magyarország 1945 után, ha hagyják szabadon fejlődni. Az államszocialista rendszer vezetői mintha maguk is belátták volna, hogy uralmuk elsődleges alapja mégiscsak a szovjet csapatok magyarországi jelenléte (és nem a nép elégedettsége), és ennek megfelelően alakították az állam legfőbb ünnepének hagyományát is.
+   </p>
+   <p rend="head">
+    A régi köztársaság Honvédsége
+   </p>
+   <p>
+    Az új, Ausztriába „kiránduló” magyar hadsereg története a II. Magyar Köztársaság történetének csak egy kisebb epizódja. Akármennyire jelentéktelennek ítéljük is a háború szempontjából, arra mindenképpen szükség van, hogy a II. Magyar Köztársaság történetét, a heroikus erőfeszítéseket az ország újjáépítésére, helyzetének stabilitására, egy demokratikusabb kultúra megteremtésére ne hagyjuk feledésbe merülni, ne hagyjuk összemosni azzal a rendszerrel, ami ezt 1949-ben felváltotta.
+   </p>
+   <p>
+    Ha ezeket az eredményeket, a II. Magyar Köztársaság demokratikus örökségét figyelembe vesszük, a II. világháború befejezése is más megvilágításba kerülhet. (Ehhez természetesen szükséges, hogy ezt a komplex történeti eseményt külön tudjuk választani attól a torzképtől, amit róla az államszocialista hatalom a maga érdekeinek megfelelően kialakított az 1949 és 1989 közötti négy évtizedben.) Erősen kétséges ugyanis, hogy a Tengelyhatalmak világháborús győzelme esetén ilyen arányú földosztásra, ilyen előremutató oktatási reformokra, illetve a társadalmi mobilitás ilyen formáira, a feudalizmus örökségének ilyen szintű felszámolására sor kerülhetett volna.
+   </p>
+   <p>
+    A 6. és az 1. hadosztály egy jó apropó arra, hogy beszéljünk a II. Magyar Köztársaságról, és annak más szimpatikus kezdeményezéseiről, mint a földosztás vagy
+    a népi kollégiumok
+    , de arról is, miért maradt végül alul ez a rendszer egy gyilkos diktatúrával szemben. Egy új demokratikus magyar mozgalomnak erre, az ilyen kérdések megvitatására mindenképpen szüksége lesz.
+   </p>
+   <p rend="head">
+    Felhasznált irodalom
+   </p>
+   <p>
+    KIS András:
+    <hi>
+     A Magyar Honvédség újjászervezése (1945)
+    </hi>
+    . Zrínyi Kiadó, Budapest, 1995.
+   </p>
+   <p>
+    <hi>
+     Új haza, új hadsereg. Visszaemlékezések az 1945-1948-as évekre
+    </hi>
+    . Szerk.: Nagy Gábor és Móricz Lajos. Zrínyi Katonai Könyvkiadó Budapest, 1985.
+   </p>
+   <p>
+    Az idézetek forrásai ebből a kötetből:
+   </p>
+   <list>
+    <item>
+     Karátsony József:
+     <hi>
+      Elismerésre méltó tett
+     </hi>
+     (38-44. o.)
+    </item>
+    <item>
+     Ákos Károly:
+     <hi>
+      Egy zászlóaljorvos emlékei
+     </hi>
+     (57-69. o.)
+    </item>
+   </list>
+   <p>
+    KIS András:
+    <hi>
+     A 16. gyalogezred
+    </hi>
+    . Zrínyi Katonai Kiadó, Budapest, 1980.
+   </p>
+   <p>
+    MUCS Sándor:
+    <hi>
+     Politika és hadsereg Magyarországon 1944-1948
+    </hi>
+    . Zrínyi Katonai Kiadó – Kossuth Könyvkiadó, Budapest, 1985.
+   </p>
+   <p>
+    KIS András:
+    <hi>
+     A magyar honvédség megalakulása és harca a fasizmus ellen
+    </hi>
+    . In: Fegyverrel a hazáért. Magyar ellenállási és partizánharcok a második világháború idején. Szerk.: Dombrády Loránd és Nagy Gábor. Kossuth Könyvkiadó, Zrínyi Katonai Kiadó, Budapest, 1980. 139-160. o.
+   </p>
+   <p>
+    DONÁTH Ferenc:
+    <hi>
+     Demokratikus földreform Magyarországon 1945-1947
+    </hi>
+    . Akadémiai Kiadó, Budapest, 1969.
+   </p>
+   <p>
+    <hi>
+     Az 1944. évi december hó 21-ére Debrecenbe összehívott, majd később Budapestre összegyűlt Ideiglenes Nemzetgyűlés naplója
+    </hi>
+    . Athenaeum, Budapest, 1946.
+   </p>
+   <p>
+    <hi>
+     Pártközi értekezletek 1944-1948
+    </hi>
+    . Szerk.: Horváth Julianna, Szabó Éva, Szűcs László, Zalai Katalin. Napvilág Kiadó, Budapest, 2003.
+   </p>
+   <p>
+    <hi>
+     A magyarok krónikája
+    </hi>
+    . Szerk.: Glatz Ferenc. Magyar Könyvklub – Officina Nova Könyvkiadó, Budapest, 2000.
+   </p>
+   <p>
+    HORVÁTH Miklós:
+    <hi>
+     Maléter Pál
+    </hi>
+    . Osiris Kiadó – Századvég Kiadó – 1956-os Intézet, Budapest, 1995.
+   </p>
+   <p>
+    FEKETE Mihály:
+    <hi>
+     Ellenállók az Avas alján. Egy diósgyőri munkás visszaemlékezései
+    </hi>
+    . Kossuth Könyviadó, Budapest, 1974.
+   </p>
+   <p>
+    TÓTH Sándor:
+    <hi>
+     Magyar katonák Buda felszabadításában
+    </hi>
+    . In: Fegyverrel a hazáért. Magyar ellenállási és partizánharcok a második világháború idején. Szerk.: Dombrády Loránd és Nagy Gábor. Kossuth Könyvkiadó, Zrínyi Katonai Kiadó, Budapest, 1980. 117-138.
+   </p>
+   <p>
+    DONÁTH Ferenc:
+    <hi>
+     A nemzeti bizottságok térvesztése 1945-ben
+    </hi>
+    . In: Kritika 1991/5. 37-38. o.
+   </p>
+  </body>
+ </text>
+</TEI>

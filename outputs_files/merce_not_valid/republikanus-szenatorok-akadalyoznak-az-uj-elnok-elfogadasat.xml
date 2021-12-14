@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Republikánus szenátorok akadályoznák az új elnök elfogadását
+    </title>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1b60bc5f-43d6-541a-bb05-6d75e32c5211
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Republikánus szenátorok akadályoznák az új elnök elfogadását
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-01-02T22:02:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/01/02/republikanus-szenatorok-akadalyoznak-az-uj-elnok-elfogadasat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/01/02/republikanus-szenatorok-akadalyoznak-az-uj-elnok-elfogadasat/
+     </sch:url>
+     <sch:name>
+      Republikánus szenátorok akadályoznák az új elnök elfogadását
+     </sch:name>
+     <sch:datePublished>
+      2021-01-02T22:02:00
+     </sch:datePublished>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      Donald Trump
+     </sch:keywords>
+     <sch:keywords>
+      Joe Biden
+     </sch:keywords>
+     <sch:keywords>
+      elnökválasztás
+     </sch:keywords>
+     <sch:keywords>
+      szenátus
+     </sch:keywords>
+     <sch:keywords>
+      Ted Cruz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1b60bc5f-43d6-541a-bb05-6d75e32c5211">
+     <sch:identifier>
+      urn:uuid:1fdba53b-facf-440a-9a55-c295c11fee9a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:04.065293
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:37:16.536329
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1b60bc5f-43d6-541a-bb05-6d75e32c5211" when="2021-12-14T15:26:04.065293">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Republikánus szenátorok akadályoznák az új elnök elfogadását
+   </head>
+   <p>
+    Ted Cruz Texasi republikánus szenátor vezetésével 11 hivatalban lévő és még be nem iktatott szenátor tiltakozik Biden győzelme ellen,
+    írja a Politico
+    . A képviselők mindaddig nem hajlandók jóváhagyni az elektori kollégium szavazatait, amíg a Trump által csalással vádolt államokban felül nem vizsgálják a választás eredményeit.
+   </p>
+   <p>
+    Az elnökválasztás után decemberben megtartott szavazáson az elektori kollégium tagjai   minden államban az ottani győztes alapján adják le voksukat. A Kongresszus két házának pedig ezt a szavazást kell jóváhagynia, hogy hivatalosan is beiktassák az állampolgárok által már novemberben
+    megválasztott elnököt
+    . A leköszönő Donald Trump azonban hónapok óta választási csalásról beszél, bebizonyítani viszont eddig még nem sikerült álláspontját. A legfelsőbb bíróság például
+    nemrég utasította el
+    a texasi eredményeket kifogásoló keresetet, mivel az teljesen spekulatív, és pusztán feltételezésekkel érvelt. A Louie Gohmert texasi képviselő által benyújtott keresetben a bukott republikánusok azt követelték, hogy a bíróság mondja ki, Pence egyedüli hatáskörben jogosult eldönteni, hogy elutasítja-e Biden néhány elektori szavazatát, és helyettesíti-e a Trump által állítólagosan elnyert államok elektori szavazataival.
+   </p>
+   <p>
+    A szenátus január 6-án fog szavazni az elektori kollégium voksairól. Az eddig pusztán egy ceremoniális megerősítést szolgáló választás, a hivatalban lévő hét és négy még be nem iktatott republikánus szenátor akciójával a New York Times szerint átcsaphat egy megalapozatlan vádakon folytatott veszekedésbe.
+   </p>
+   <p>
+    A szenátorok ellenben a választás integritásának megőrzésével érvelnek, és követelik, hogy állítsanak fel egy választási vizsgálóbizottságot a Trump által vitatottnak ítélt államokban, ahol 10 napon belül döntenének a választási eredmények hitelességéről. Azt mondják, amíg ez nem történik meg, nem fogják megszavazni az újonnan megválasztott Joe Biden demokrata elnököt. Ez azonban a gyakorlatban semmit nem változtat a végeredményen, ha már csak a száz fős képviselői létszámot is nézzük.  Habár a szenátus republikánus többséggel rendelkezik, a párt egy része szerint nincs sok értelme a próbálkozásnak. Mitch McConnell a szenátus republikánus frakcióvezetője kifejezetten kérte a törvényhozó testületet, hogy ne csatlakozzanak a törekvéshez,
+    írja a New York Times.
+   </p>
+  </body>
+ </text>
+</TEI>

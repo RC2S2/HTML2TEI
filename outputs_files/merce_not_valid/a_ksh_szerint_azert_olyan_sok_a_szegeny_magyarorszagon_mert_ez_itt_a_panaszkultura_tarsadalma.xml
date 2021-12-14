@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A KSH szerint azért olyan sok a szegény Magyarországon, mert ez itt a panaszkultúra társadalma
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3b989d49-90fa-5bdb-b600-4ddc3cef9ed9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A KSH szerint azért olyan sok a szegény Magyarországon, mert ez itt a panaszkultúra társadalma
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-12-04T09:13:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2015/12/04/a_ksh_szerint_azert_olyan_sok_a_szegeny_magyarorszagon_mert_ez_itt_a_panaszkultura_tarsadalma/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2015/12/04/a_ksh_szerint_azert_olyan_sok_a_szegeny_magyarorszagon_mert_ez_itt_a_panaszkultura_tarsadalma/
+     </sch:url>
+     <sch:name>
+      A KSH szerint azért olyan sok a szegény Magyarországon, mert ez itt a panaszkultúra társadalma
+     </sch:name>
+     <sch:datePublished>
+      2015-12-04T09:13:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      szegénység
+     </sch:keywords>
+     <sch:keywords>
+      KSH
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3b989d49-90fa-5bdb-b600-4ddc3cef9ed9">
+     <sch:identifier>
+      urn:uuid:6ec67d33-7d47-40ba-962e-f6a96be9a371
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.496776
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:20:12.413592
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3b989d49-90fa-5bdb-b600-4ddc3cef9ed9" when="2021-12-14T15:30:45.496776">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A KSH szerint azért olyan sok a szegény Magyarországon, mert ez itt a panaszkultúra társadalma
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Úgy tűnik, a Központi Statisztikai Hivatalnak (KSH) ismét sikerült találnia néhány újító ötletet, hogy megmagyarázzák a magyar emberek szegénységének kézzel fogható, számszerűsíthető tényét.
+    </hi>
+   </p>
+   <p>
+    Bárdos Tamás:
+    Kontraszt
+   </p>
+   <p>
+    Valamiért a jelenlegi kurzus nem szereti azt hallani, hogy Magyarországon van szegénység. Még akkor sem, ha ennek egyik oka épp az, hogy rendelkezéseik százezreket hajtanak ebbe az irányba. Mi is lenne jobb példa erre, mint a legutóbb bűnbaknak megtett dolgozói szegénység. Mert igen, ilyen is van, ahogy azt a minap Németh Zsolt, a KSH elnökhelyettese kiemelte a 2014-es, a háztartások életszínvonalát összegző kiadványuk bemutatásakor.
+   </p>
+   <p>
+    Dolgozói szegénységnek mostanság leginkább azt nevezzük, amikor valaki közmunkából próbál megélni, de valójában a fizetése meg sem közelíti a piaci jövedelmet. „
+    <hi>
+     Ezek az emberek kikerültek ugyan a mélyszegénységből, de a közmunkával megszerezhető jövedelem nem éri el az átlagjövedelmet
+    </hi>
+    ” – fogalmazott az elnökhelyettes. Azt persze senki sem feszegette, hogy a közmunkával megszerezhető jövedelem miért is marad el ennyire az átlagtól, ki állapítja meg azt, és milyen alapon osztják…
+   </p>
+   <p>
+    Amikor egy másik mutató, a munkanélküliség kapcsán kerül szóba a közmunka, a kormány diadalként szokta értékelni a közmunka-programot. 2010 óta évről évre halljuk, mennyivel többen dolgoznak, és mennyivel kevesebb a munkanélküli hazánkban. Ezeket a számokat kivétel nélkül a közmunka-program kozmetikázza. A legújabb jelentés szerint immár csaknem ugyanannyi a közmunkás, mint a munkanélküli: előbbiből kicsit több, mint 230 ezer, utóbbiból 290 ezer van Magyarországon (ez az adat egyébként 11 éve nem volt ennyire rossz). Amennyiben tehát elfogadjuk Németh érvelését, van közel 300 ezer ember, akik mélyszegénységben élnek vagy afelé tartanak (csaknem felük tartósan munkanélküli, vagyis legalább egy éve nincs munkája), és van 230 ezer, akiket ebből a lesújtó kategóriából az úgynevezett dolgozói szegénység csöppet sem tisztes nyomorába „emelt fel” a kormány. Félmilliónál is több magyarról beszélünk.
+   </p>
+   <p>
+    Még ennél is érdekesebb az, hányféle módon igyekszik épp a statisztikai hivatal leplezni, hogy valóban van szegénység Magyarországon. Hiszen akár örömhírként is értékelhetnénk, hogy a KSH (ismét) bejelentette: csökkent hazánkban a szegénység. Ha nem lennénk kissé gyanakvóak. Amikor például egy évvel ezelőtt, hasonló lelkesedéssel közölték ugyanezt, az európai statisztikai hivatal, az Eurostat adatbázisából valahogy épp az ellenkezője derült ki: szerintük tragikusan nőtt idehaza a szegénység. Akkor a KSH magyarázkodni kényszerült: az ő adataik valóban csökkenést mutattak, csakhogy azt elfelejtették közölni, hogy a kutatás módszertanát megváltoztatták, így az adatok, amiket frissnek akartak beállítani, valójában egy évvel korábbra vonatkoztak… Ez okozhatta azt a jelentős eltérést, ami az európai és a hazai adatok közt megjelent: míg az Eurostat adatsorában azt látjuk, hogy Magyarországon az emberek 26,8 százaléka súlyos nélkülözőnek számított, addig a KSH-nál ez a szám „csupán” 23,9 százalék volt. 2014-ben a KSH még arra hivatkozott, „módszertani megfontolások miatt” döntött úgy, hogy jóformán figyelmeztetés nélkül változtat saját módszertanán.
+   </p>
+   <p>
+    Még ennél is megdöbbentőbb volt azonban, hogy ezen a nyáron eltörölték azt a fogalmat, ami valójában jelezhette volna, hol is kezdődik a szegénység, és hányakat érint. (Ferge Zsuzsa írása erről
+    itt olvasható
+    .) A létminimum fogalmának kivezetését a statisztikai hivatal azzal indokolta, hogy torz képet közöl a szegénység mértékéről. A létminimum valóban összetett képet közöl: azt a határvonalat jeleníti meg, amely fölött az embernek még nem kell azon vacillálnia, ennivalót vegyen-e, a rezsit fizesse be, vagy a gyógyszereire költsön inkább. Aki tehát ez alatt a küszöb alatt él, annak már megélhetési problémái vannak. Jó lenne persze tudni, hányan is vannak azok, akiket ez a probléma érint, csakhogy a KSH ilyen adatokat 2011 óta egyáltalán nem közöl. Idén pedig a mutatót is megszüntették – talán nem nehéz megérteni, hogy miért.
+   </p>
+   <p>
+    És most itt az új indok. A KSH természetesen elöljáróban jelezte, hogy „
+    <hi>
+     összességében javult a magyar háztartások jövedelmi helyzete 2014-ben
+    </hi>
+    ”, de még mielőtt bárki pezsgőt bontana, azért a tényeket is közölték. Ezekből pedig többek közt az is kiderült, hogy a megkérdezett háztartásokban élők 70 százaléka számára bármilyen váratlan kiadás gondot okoz, és közel negyedük(!) kétnaponta sem tud húst venni. Mi erre a magyarázat? Ésszerűen az lenne: nem élnek jól a magyarok.
+   </p>
+   <p>
+    Németh Zsolt szerint viszont más oka van ennek: az adatok, amiket kénytelenek voltak a köz elé tárni, önbevalláson alapulnak (magyarán a megkérdezettek ismerték be, hogy nem kerül kétnaponta hús az asztalra), emellett pedig „
+    <hi>
+     mi a panaszkultúra társadalma vagyunk, és ez itt is megmutatkozik
+    </hi>
+    ”. Figyeljék tehát, mitől lesz szegény manapság egy magyar ember: attól, hogy a KSH kérdezői előtt is beismeri, hogy az. Ettől válik ez az egész igazán rettenetessé – attól a cinizmustól, hogy immár nem is a körülményekre, a gazdasági helyzetre, a munkanélküliségre vagy hasonló csacskaságokra próbálják kenni a szegénységet. Hanem az egyes emberekre, akik egy kérdezőbiztosnak vallják be (mert panasznak azért ne tituláljuk azt, ha valaki a feltett kérdésekre válaszol…), hogyan is élnek.
+   </p>
+   <p>
+    Ezek után mégis mit kéne még tennünk ahhoz, hogy a kormány végre megszabaduljon a szegénység rémétől? Hazudjunk?
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

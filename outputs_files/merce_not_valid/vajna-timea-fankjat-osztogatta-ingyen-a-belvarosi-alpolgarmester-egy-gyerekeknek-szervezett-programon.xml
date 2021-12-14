@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vajna Tímea fánkját osztogatta ingyen a belvárosi alpolgármester egy gyerekeknek szervezett programon
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9e51fbc4-fa1c-59a0-aa25-ebf0851b54fb
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Vajna Tímea fánkját osztogatta ingyen a belvárosi alpolgármester egy gyerekeknek szervezett programon
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-21T17:08:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/09/21/vajna-timea-fankjat-osztogatta-ingyen-a-belvarosi-alpolgarmester-egy-gyerekeknek-szervezett-programon/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/09/21/vajna-timea-fankjat-osztogatta-ingyen-a-belvarosi-alpolgarmester-egy-gyerekeknek-szervezett-programon/
+     </sch:url>
+     <sch:name>
+      Vajna Tímea fánkját osztogatta ingyen a belvárosi alpolgármester egy gyerekeknek szervezett programon
+     </sch:name>
+     <sch:datePublished>
+      2019-09-21T17:08:00
+     </sch:datePublished>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      önkormányzati választások 2019
+     </sch:keywords>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      gyerekjogok
+     </sch:keywords>
+     <sch:keywords>
+      politikai pedofília
+     </sch:keywords>
+     <sch:keywords>
+      belváros
+     </sch:keywords>
+     <sch:keywords>
+      vajna tímea
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9e51fbc4-fa1c-59a0-aa25-ebf0851b54fb">
+     <sch:identifier>
+      urn:uuid:7859596e-d16d-4ec5-858a-c533ad78773a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:08.470307
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:46:18.289932
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9e51fbc4-fa1c-59a0-aa25-ebf0851b54fb" when="2021-12-14T15:31:08.470307">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Vajna Tímea fánkját osztogatta ingyen a belvárosi alpolgármester egy gyerekeknek szervezett programon
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Javában tombol a kampányidőszak: az évente megrendezett Belvárosi Családi pikniken idén nem csak a kedves programok jutottak szerephez – ezúttal felbukkant az ötödik kerület alpolgármestere, Jeneiné Rubovszky Csilla is, hogy némi fánkot osztogasson az ott összegyűlt gyerekeknek.
+   </p>
+   <p>
+    A Mérce információi szerint az önkormányzat által a Károlyi-kertbe szervezett eseményen, Tutu bohóc műsora közben bejelentették: meglepetés érkezik. A konferanszié és a fellépők ekkor megkérdezték a gyerekeket: tudják-e, mi lesz az?
+   </p>
+   <p rend="head">
+    Pár gyerek ekkor kitalálta, hogy bizony fánkozás lesz – ugyanis aznap már nem először bukkant fel az alpolgármester, hogy Mr. Funk fánkjait osztogassa.
+   </p>
+   <p>
+    Fánkosztás. Fotó: Mérce
+   </p>
+   <p>
+    A színes fánkokat gyártó, belvárosi székhelyű cég tulajdonosa egyébként a Nemzeti Cégtár
+    adatbázisa
+    szerint maga Vajna Tímea. Rubovszky Csilla pedig alpolgármestersége mellett annak az ötödik kerületi területnek a képviselője, amelyhez a Károlyi-kert is tartozik.
+   </p>
+   <p>
+    A gyerekekkel való kampányolásnak
+    nagy hagyománya
+    van Magyarországon annak ellenére is, hogy törvénybe ütközik. Vannak politikusok, akik előszeretettel fordulnak meg kampányidőszakban óvodákban, iskolákban, családi eseményeken, hogy aztán az ott készült képeket felöltsék valamelyik közösségi oldalra, biodíszletként használva az ott összegyűlt gyerekeket (ezt nevezik politikai pedofíliának, szép példákat lehet találni
+    <hi>
+     A gyerek nem kampányeszköz
+    </hi>
+    mozgalom
+    Facebook-oldalán
+    ).
+   </p>
+   <p>
+    A Hintalovon Gyermekjogi Alapítvány nemrégiben egy
+    kisokosban
+    foglalta össze a kampányidőszakban alkalmazandó gyerekjogi alapelveket, amely szerint:
+   </p>
+   <list>
+    <item>
+     A gyerekeket védeni kell a manipulációtól. A választási kampányoknak ők nem célcsoportjai.
+    </item>
+    <item>
+     A gyereknek joguk van a megfelelő tájékoztatásra a politikáról. Segíteni kell őket, hogy megértsék a politika és pártpolitika szerepét a közélet alakításában.
+    </item>
+    <item>
+     A gyerekek nem használhatók politikai célokra.
+    </item>
+    <item>
+     A gyerekek nem közszereplők: személyes adataik, képmásuk felhasználása sértheti jogaikat és  érdeküket.
+    </item>
+    <item>
+     A gyerekeknek vannak polgári jogaik, és részt vehetnek az őket érintő közéleti kérdésekben.
+    </item>
+   </list>
+   <p>
+    Emellett az Alapvető Jogok Biztosának Hivatala is
+    kiadott áprilisban
+    egy közleményt, amelyben az akkori, európai parlamenti választások kapcsán hívta fel arra a figyelmet:
+   </p>
+   <p>
+    egyetlen gyermek sem lehet pártpolitikai tevékenységnek háttere, díszlete, népszerűségnövelő tényezője,
+   </p>
+   <p>
+    valamint
+   </p>
+   <p>
+    a gyermekek pártpolitikai célú szerepeltetését, illetve felhasználását nem igazolja és nem is igazolhatja az önkéntesség, a beleegyezés.
+   </p>
+  </body>
+ </text>
+</TEI>

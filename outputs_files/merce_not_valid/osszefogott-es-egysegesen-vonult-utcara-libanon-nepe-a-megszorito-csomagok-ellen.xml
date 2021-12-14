@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Összefogott és egységesen vonult utcára Libanon népe a megszorító csomagok ellen
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d574043b-2cd0-5198-9d55-0d305e663724
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Összefogott és egységesen vonult utcára Libanon népe a megszorító csomagok ellen
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-22T21:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/22/osszefogott-es-egysegesen-vonult-utcara-libanon-nepe-a-megszorito-csomagok-ellen/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/22/osszefogott-es-egysegesen-vonult-utcara-libanon-nepe-a-megszorito-csomagok-ellen/
+     </sch:url>
+     <sch:name>
+      Összefogott és egységesen vonult utcára Libanon népe a megszorító csomagok ellen
+     </sch:name>
+     <sch:datePublished>
+      2019-10-22T21:50:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      közel-kelet
+     </sch:keywords>
+     <sch:keywords>
+      osztályharc
+     </sch:keywords>
+     <sch:keywords>
+      libanon
+     </sch:keywords>
+     <sch:keywords>
+      bejrút
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d574043b-2cd0-5198-9d55-0d305e663724">
+     <sch:identifier>
+      urn:uuid:355fa44b-ad38-4f00-8891-fccd018440a8
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:30.054115
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:49:16.417675
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d574043b-2cd0-5198-9d55-0d305e663724" when="2021-12-14T15:30:30.054115">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Összefogott és egységesen vonult utcára Libanon népe a megszorító csomagok ellen
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Azután sem csökkent a teljes országot megállító tüntetéssorozat ereje Libanonban, hogy a miniszterelnök, Szaad Hariri részletes szociális reformprogrammal próbálta csillapítani a napokban a kedélyeket.
+   </p>
+   <p>
+    A Hariri-kormány a széleskörű blokádra és felháborodásokra reagálva visszavonta 2020-as költségvetésének megszorító adóit és intézkedéseit, és sokkal több szociális kiadást és a politikusok, miniszterek fizetésének csökkentését
+    irányozta elő
+    , mindezt pedig „reformcsomagnak” nevezve tárta hétfő reggel az ország közvéleménye elé.
+   </p>
+   <p>
+    Ez azonban minden jel szerint egyáltalán nem volt elég a kedélyek lecsillapításához. Múlt héten ugyanis a számos kulturális-vallási törésvonal mentén megosztott, sőt, több mint 2 millió szíriai menekültet is befogadó kis, közel-keleti államban 15 éve nem látott nagyságú, egységes tüntetéshullám tört ki a megszorító Hariri-csomag ellen.
+   </p>
+   <p rend="head">
+    Több százezren vonultak utcára ma hatodik alkalommal is, miután a megszorító csomag részeként – kicsit a 2014-es magyar „netadó”-tervekhez hasonlóan – a kormány azon terve is kiszivárgott, hogy a WhatsApp telefonos csevegőprogram hanghívásait is megadóztatnák, mivel a kormány múlt heti terve szerint „nem fair”, hogy a hagyományos telefonhívásokkal szemben ez nem kerül semmibe jelenleg.
+   </p>
+   <p>
+    Ez volt az a szikra amely az évtizedek óta nélkülöző libanoni népet végül felgyújtotta, és nemcsak Bejrút, de a teljes, egyébként különböző politikai erők által megosztott országban utcai blokádokat eredményezett, pár nap után pedig már az irodák, iskolák is bezártak, az ország pedig most egy az egyben leállt.
+   </p>
+   <p>
+    Just got to
+    #Beirut
+    ‘s Martyrs Square for Day 6 of
+    #LebanonProtests
+    . If Hizbullah thought their scooter gang yesterday would scare everyone off today.. the video speaks for itself
+    #لبنان_ينتفض
+    #Lebanon
+    pic.twitter.com/ehG90cdj1v
+   </p>
+   <p>
+    — Alex Rowell (@alexjrowell)
+    October 22, 2019
+   </p>
+   <p>
+    A demonstrációk Bejrútban több tízezres létszámmal mindennap elindulnak, a mai is a Mártírok terén gyülekezett össze, hogy Haririék és a teljes, szerintük korrupt politikai elit azonnali távozását követelje.
+   </p>
+   <p>
+    „Most először valódi egységet látok a nép körében”
+   </p>
+   <p>
+    -nyilatkozta a BBC helyszíni tudósításában az egyik tüntető, a 29 éves Christian Manachi, aki azt is hozzátette, már rég nem a „WhatsApp-adó”, vagy a megszorítások, de az eddig az embereket leláncoló politikai rezsim ellen folynak tovább a tiltakozások:
+   </p>
+   <p>
+    „Az emberek rájöttek arra, hogy egy mélyszegénységben élő keresztény egyáltalán semmiben sem különbözik egy mélyszegénységben élő szunnita vagy siíta muszlimtól.”
+   </p>
+   <p>
+    A tiltakozások mindeddig békésen folytak, bár a Hariri-kormány támogató egyes aktivisták a napokban már erőszakkal fenyegetőztek, erre válaszul a libanoni hadsereg közölte, hogy a tüntetők gyülekezési jogának zavartalanságát
+    „minden eszközzel készek biztosítani” az országban, tehát megvédik a tiltakozókat az esetleges provokációktól.
+   </p>
+   <p>
+    Annak ellenére, hogy már közel egy hete folynak a tömegjelenetek Bejrút utcáin, az emberek lelkesedése nem lankad, sőt, immár a főváros népesebb külvárosaiban is elképesztő tömeg hömpölygött a demonstráción.
+   </p>
+   <p>
+    This is a protest in Jal El Dib, an area on the outskirts of Beirut
+    #Lebanon
+    #LebanonProtests
+    .
+    pic.twitter.com/pXWjiMFiMh
+   </p>
+   <p>
+    — Dalal Mawadدلال معوض (@dalalmawad)
+    October 22, 2019
+   </p>
+   <p>
+    Az egyre növekvő társadalmi feszültség és a területükön is növekvő tüntetések nagy nyomás alá helyezik az ország ésa főváros déli részét uraló, siíta és Irán által támogatott Hizbulla katonai szervezet vezetőit. Hasszán Naszrallah, a szervezet vezetője, aki általában nagyon kritikus a vegyes, szunni-keresztény bejrúti vezetéssel, most egyértelműen kiállt Hariri és tervei mellett. Azonban épp ezért komoly kritikával nézett szembe saját tömegbázisa részéről.
+    Mai sajtóhírek szerint
+    ez, talán a Hizbulla libanoni uralmának történetében először, komolyan megkérdőjelezheti saját, siíta támogatóik körében eddig töretlen legitimációjukat is.
+   </p>
+   <p>
+    (
+    BBC
+    , The961.com, AFP)
+   </p>
+  </body>
+ </text>
+</TEI>

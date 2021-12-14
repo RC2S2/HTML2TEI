@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szorul a hurok: a Kósát „átverő” nő papírokkal igazolhatja, hogy a miniszter mindenről tudott
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     059d1091-f6e0-5169-a1a4-e404efd9c15c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szorul a hurok: a Kósát „átverő” nő papírokkal igazolhatja, hogy a miniszter mindenről tudott
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-27T22:15:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/27/szorul-a-hurok-a-kosat-atvero-no-papirokkal-igazolhatja-hogy-a-miniszter-mindenrol-tudott/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/27/szorul-a-hurok-a-kosat-atvero-no-papirokkal-igazolhatja-hogy-a-miniszter-mindenrol-tudott/
+     </sch:url>
+     <sch:name>
+      Szorul a hurok: a Kósát „átverő” nő papírokkal igazolhatja, hogy a miniszter mindenről tudott
+     </sch:name>
+     <sch:datePublished>
+      2018-03-27T22:15:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Kósa Lajos
+     </sch:keywords>
+     <sch:keywords>
+      1300 milliárd
+     </sch:keywords>
+     <sch:keywords>
+      átverés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="059d1091-f6e0-5169-a1a4-e404efd9c15c">
+     <sch:identifier>
+      urn:uuid:d119cf67-5fcf-45ed-ad4c-41680c4fd6c6
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:08.139718
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:47:01.919347
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="059d1091-f6e0-5169-a1a4-e404efd9c15c" when="2021-12-14T15:26:08.139718">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szorul a hurok: a Kósát „átverő” nő papírokkal igazolhatja, hogy a miniszter mindenről tudott
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Kósa Lajos felett egyre csak gyűlnek a sötét fellegek, amit ő és pártja is érzékel. Eleinte még próbált magyarázkodni, egy hete már csak
+    szótlanul menekült az újságírók elől
+    , mára pedig teljesen eltűnt a közéletből, sorra mondják le szerepléseit.
+   </p>
+   <p>
+    Mi is figyelemmel kísértük
+    az állítólagos átverést, amit egy csengeri asszony követett el ellene. Kósa története szerint megkereste őt egy csengeri hölgy, aki 1300 milliárd forintos, óriási összeget örökölt, amit Kósa segítségével szeretett volna befektetni, de később bebizonyosodott, hogy a nő átverte őt.
+   </p>
+   <p rend="head">
+    Miközben Kósa tagadja, hogy egyáltalán ismertségben állna a nővel, a nő állítja, ismerik egymást és tényleg voltak közös ügyleteik, ráadásul mindenről hiteles jegyzői okiratok is tanúskodnak.
+   </p>
+   <p>
+    A nő Kósával ellentétben olyannyira nem bujdokol, hogy
+    interjút is adott a Független Hírügynökségnek
+    . Szabóné jelenleg Svájcban tartózkodik egészségügyi okokból, de közben igyekszik felpörgetni az ügyintézést is, hogy igazolni tudja, valóban megörökölte az óriási vagyont. Elvileg 30-60 napon belül hozzá fog jutni az örökségéhez, így reméli, sikerül tisztára mosnia magát és családját a vádak alól.
+   </p>
+   <p rend="head">
+    A nő állítása szerint Orendi Mihály és Kósa Lajos is aláírt egy titoktartási szerződést Svájcban, miszerint egymillió svájci frankra büntethetik őket, ha bármit elmondanak.
+   </p>
+   <p>
+    Szabóné történetéből kiderül, legelőször a nő kért segítséget Kósától, akihez Orendi Mihályon (Magyar Olimpiai Bizottság alelnöke, a korcsolyaszövetség ügyvezető igazgatója) keresztül jutott el. Szabóné a Magyar Fejlesztési Bankon keresztül szerette volna egy hotel részvényeit megvenni, ami közben csődbe ment, a nő pedig hosszú pereskedésbe keveredett a bankkal – ebben kérte Kósa segítségét.
+   </p>
+   <p>
+    „Ezt követően már egyre több dologról beszélgettünk, állandósult a kapcsolatunk, így meséltem el neki, hogy én miből akartam kifizetni a szállodát, és egyre több bizalmas információt osztottam meg vele.”
+   </p>
+   <p>
+    – mondja a nő, akinek elmondása szerint Kósa 2016 februárjáig többször is járt Szabóékkal külföldön, végül 2017 elején járt náluk Csengeren utoljára, utána már csak telefonon beszéltek.
+   </p>
+   <p rend="head">
+    A Kósa feleségének ajándékozott 800 milliós összegről azt mondta, ő ajánlotta fel, Kósa pedig elfogadta.
+   </p>
+   <p>
+    Amikor bizalmasabb viszonyba kerültek, Kósa azt tanácsolta a nőnek, ne beszéljen a hatalmas örökségéről, mert onnantól kezdve, hogy sokan tudnak róla, veszélybe kerülhet a családja, akár a gyerekeit is elrabolhatják. Kósa felajánlotta, hogy segít abban, hogy a család biztonságban legyen, a nő pedig úgy gondolta, ezt viszonoznia kell, ezért ajánlotta fel a 800 millió forintos ajándékot.
+   </p>
+   <p>
+    Arra a kérdésre, hogy tisztában van-e vele, ha hazajön, előzetes letartóztatásba kerül, ezt felelte:
+   </p>
+   <p>
+    „Igen. És én ott halnék meg, mert egyébként is beteg vagyok. Mondom, tudom, hogy arra készül a Fidesz, hogy az egész családot kiírtsa. Nekik az lenne az elégtétel, ha engem a férjem mellé temetnének, mert akkor már mondhatnák, hogy csalás volt az egész.”
+   </p>
+   <p>
+    A nő férje ugyanis az ügy kirobbanása után öngyilkos lett, elmondása szerint 12 éves fia is rossz lelki állapotban van, lányát pedig „a nyomozók vegzálják”, a család folyamatosan attól fél, hogy „milyen kreált ügyet” fognak rájuk kenni,
+   </p>
+   <p rend="head">
+    a nő ügyvédje viszont cáfolta Kósa Lajos állítását, miszerint a nő ellen eljárás folyik. Szerdán hallgatná ki a Nemzeti Nyomozó Iroda, de nem tartózkodik itthon.
+   </p>
+   <p>
+    Ha minden igaz, az asszony 1-2 hónapon belül hozzájut a pénzéhez és minden okirathoz is, ami még okozhat nagyon kellemetlen pillanatokat Kósa Lajosnak. A nő azt mondta, családja biztonsága érdekében külföldön szeretne maradni és ezek után már a pénzt sem szeretné Magyarországon befektetni.
+   </p>
+   <p rend="head">
+    Szabóné ügyvédje, Helmeczy László azt mondta a 444-nek, hogy kezdeményezi Kósa Lajos tanúkénti meghallgatását, illetve Kósa és Szabóné szembesítését.
+   </p>
+   <p>
+    Ha Szabóné valóban rendelkezik az általa említett iratokkal, Kósa Lajos már nem fogja tudni kimagyarázni magát. Az az elejétől kezdve biztos, hogy nem kerek a története, most viszont hónapokon belül az általa aláírt papírok is bizonyíthatják, hogy ismeri a nőt, járt vele külföldön és voltak közös ügyleteik – ezt jelenleg egyértelműen tagadja.
+   </p>
+  </body>
+ </text>
+</TEI>

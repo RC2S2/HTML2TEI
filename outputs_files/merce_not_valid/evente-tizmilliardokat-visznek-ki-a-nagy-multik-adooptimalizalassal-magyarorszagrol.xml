@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Évente tízmilliárdokat visznek ki a nagy multik adóoptimalizálással Magyarországról
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f13df25e-b529-59f2-8c7a-7fb21053569c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Évente tízmilliárdokat visznek ki a nagy multik adóoptimalizálással Magyarországról
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-13T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/13/evente-tizmilliardokat-visznek-ki-a-nagy-multik-adooptimalizalassal-magyarorszagrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/13/evente-tizmilliardokat-visznek-ki-a-nagy-multik-adooptimalizalassal-magyarorszagrol/
+     </sch:url>
+     <sch:name>
+      Évente tízmilliárdokat visznek ki a nagy multik adóoptimalizálással Magyarországról
+     </sch:name>
+     <sch:datePublished>
+      2018-11-13T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      multi
+     </sch:keywords>
+     <sch:keywords>
+      nagyvállalatok
+     </sch:keywords>
+     <sch:keywords>
+      offshore
+     </sch:keywords>
+     <sch:keywords>
+      társasági adó
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f13df25e-b529-59f2-8c7a-7fb21053569c">
+     <sch:identifier>
+      urn:uuid:67511c56-68a7-4188-a3b1-b74b4f5d9f4c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:07.651607
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:13:16.530616
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f13df25e-b529-59f2-8c7a-7fb21053569c" when="2021-12-14T15:31:07.651607">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Évente tízmilliárdokat visznek ki a nagy multik adóoptimalizálással Magyarországról
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A G7 szedte össze, mekkora lehet a nagyvállalati adókerülés mértéke Magyarországon. Miközben a nagy multik az  alacsony társasági adó töredékét fizetik csak be, különböző elszámolásokkal trükközhetnek is, hogy még kevesebbet keljen fizetniük.
+   </p>
+   <p>
+    „
+    <hi>
+     A  Magyarországon működő globális nagyvállalatok papíron sokkal kevesebb nyereséget termelnek, mint az anyavállalataik. A vállalatok éves beszámolójából úgy tűnhet, a legtöbbnek nem is éri meg, hogy Magyarországon működik, mivel jóval kisebb profitot termel, mint az anyavállalatuk. Utánanéztünk, és úgy néz ki, hogy ez csak a könyvelésben van így, a valóságban nagyon is megéri nekik nálunk működni
+    </hi>
+    ”
+    – írja a G7 cikkében.
+   </p>
+   <p>
+    A lap 30 nagy, magyarországi leányvállalattal rendelkező nemzetközi multinacionális vállalat magyar cégeit vette górcső alá, ebből pedig a következő  megállapításokra jutott: 
+– A 30 megvizsgált cég összesen 11 ezer milliárd forint árbevételt ért el, ami a teljes magyar vállalati árbevétel (96 milliárd forint) 11 százaléka. 
+– Ellenben csak 23 milliárd forint társasági adó fizetett be ez a 30 cég, ami csak  4 százaléka a társasági adó 625 milliárd forintos, az összes cégtől beszedett éves összegének. 
+– Miközben a társasági adó kulcsa 9 százalék, ezek a cégek csupán ennek felét fizetik be.  Ez a 30 cég átlagosan az adózás előtti eredményhez képest csupán 3,6 százalék adót fizet be. 
+– A magyar állam által adott adókedvezmények  jelentősen csökkentik ezeknél a cégeknél a befizetett adó mértékét. 
+– Másrészt, ahogy a G7 írja „a nagyvállalatok egyszerűen és hatékonyan tudják csökkenteni az adóalapjukat például az anyavállalattól papíron igénybe vett k+f szolgáltatásokkal, licenszdíjakkal vagy szoftverfejlesztési költségekkel.” 
+– „
+    <hi>
+     A nemzetközi nagyvállalatok anyavállalatai összességében 70 százalékkal magasabb üzemi eredményt értek el árbevétel arányosan 2017-ben, mint a magyarországi leányaik
+    </hi>
+    ”, miközben az adatokból annak kéne kijönnie, hogy az olcsóbb munkaerő miatt magasabb üzemi eredményt érnek el, mint az anyacégek. 
+– Azért lehetséges, hogy mégis az anyavállalatok érnek el jobb eredményt, mert ezek a cégek a termékeiket nem a piacon értékesítik, hanem a leány- és az anyavállatok között mozognak, és jelentős a cégcsoporton belüli szolgáltatások igénybevétele is. 
+– Így viszont kivihetik a profitot, és utaztathatják a vállalat különböző országban lévő cégei között. Növelhetik az anyavállalat eredményeit, ami a céges belső és az anyaországi politikában is fontos lehet, másrészt pedig olyan országokban mutathatják ki a keletkezett profitot, ahol a magyarnál is kedvezőbb környezetben vehetik ki a profitot a cégekből. 
+– Ebből kiindulva, a G7 szerint, ha az anyavállalatok profitrátáját vesszük alapul, akkor a valóságnak megfelelő 3,6 százalékos társasági adókulccsal is ennek a 30 multinak körülbelül 12 milliárd forinttal több adót kéne befizetnie a magyar államkasszába, mint teszi most. 
+– Ha viszont az anyavállatok profitjával számolunk, és 7,2 százalékos (az összes  cégre jellemző átlag) társasági adó rátával, akkor ez az összeg már 48 milliárd forint lenne, ami a teljes társasági adóbevétel 8 százaléka. 
+– De a kiesés ennél is nagyobb lehet, ugyanis a helyi önkormányzatok által kivetett iparűzési adóból is kevesebb bevétel folyhat be a trükközések miatt. Ez a szám is több tízmilliárdra rúghat. 
+– A GDP-t is jelentősen módosítaná, ha nem trükköznék ki ezek a cégek a profitot: ha csak erről a 30 cégről beszélünk, akkor az 400 milliárd körüli összeggel növelné meg a magyar GDP-t. 
+– Érdekes az is, hogy míg Magyarországon valójában ezek a cégek 3,4 százaléknyi adót fizetnek átlagosan, addig az anyacégeik átlagosan 23,4 százalékos adót. Tehát itt az anyacégek eredményeinek kozmetikázásáról lehet szó. De ez is jól mutatja, mennyire „hatásos” az alacsony társasági adó a cégek profitjának Magyarországon tartására.
+   </p>
+   <p>
+    A G7 teljes cikke itt olvasható.
+   </p>
+   <p>
+    Címlakép: MTI Fotó: Czeglédi Zsolt
+   </p>
+  </body>
+ </text>
+</TEI>

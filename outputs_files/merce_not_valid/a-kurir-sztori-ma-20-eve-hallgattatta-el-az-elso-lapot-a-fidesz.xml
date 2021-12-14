@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Kurír-sztori: ma 20 éve hallgattatta el az első lapot a Fidesz
+    </title>
+    <author>
+     <persName>
+      Szücs Gábor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4b008619-d7da-5f5b-a57e-cecf81873638
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Kurír-sztori: ma 20 éve hallgattatta el az első lapot a Fidesz
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szücs Gábor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-09-30T17:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/09/30/a-kurir-sztori-ma-20-eve-hallgattatta-el-az-elso-lapot-a-fidesz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/09/30/a-kurir-sztori-ma-20-eve-hallgattatta-el-az-elso-lapot-a-fidesz/
+     </sch:url>
+     <sch:name>
+      A Kurír-sztori: ma 20 éve hallgattatta el az első lapot a Fidesz
+     </sch:name>
+     <sch:datePublished>
+      2018-09-30T17:00:00
+     </sch:datePublished>
+     <sch:author>
+      Szücs Gábor
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      sajtószabadság
+     </sch:keywords>
+     <sch:keywords>
+      média
+     </sch:keywords>
+     <sch:keywords>
+      bezárás
+     </sch:keywords>
+     <sch:keywords>
+      Kurír
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4b008619-d7da-5f5b-a57e-cecf81873638">
+     <sch:identifier>
+      urn:uuid:655fe423-43fb-4268-a038-4ef43eca3377
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:39.455416
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:04:57.686015
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4b008619-d7da-5f5b-a57e-cecf81873638" when="2021-12-14T15:30:39.455416">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Kurír-sztori: ma 20 éve hallgattatta el az első lapot a Fidesz
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+    Ilyentájt, szeptember végén, rendre össze szoktunk gyűlni, hogy megemlékezzünk a Kurír történetének végnapjairól. Így történik ez idén is: hol többen, hol kevesebben jövünk el az egykori csapatból; volt, hogy harmincan, volt, hogy kétszázan. Ama bizonyos végnap pontos időpontja egyébként 1998. szeptember 30-a, egy szerdai nap délutánja, amikor az Orbán kormány – illetve megbízásából az annektált (értsd: ellopott) „új” Postabank kedves képviselője: Kőhalmi Alfrédné vezérigazgató-helyettes – két mondattal befejezettnek nyilvánította az akkor nyolc és fél éve működő Kurír életét.
+    Pontosan húsz éve történt mindez.
+    Az évforduló lehetőség arra, hogy ne csak ennek az emblematikus napilapnak a lefejezésére emlékezzünk, hanem a jelen sajtó viszonyaira is. Mert a húsz évet összekötő mondat éppen a minap hangzott el Strasbourgban Orbán Viktor szájából:
+    „Mi sohasem vetemednénk arra, hogy elhallgattassuk azokat, akik nem értenek egyet velünk”.
+    Ezt mondta az a miniszterelnök, aki elhallgattatott már újságokat, megfélemlített tévét, rádiót, nyomtatott és internetes sajtót, tanárokat, civileket, tudósokat, aki miatt „félelem és reszketés” költözött, ha nem is Las Vegasba, de Magyarországra. S ahogy Hunter S. Thompson könyvében a két eszement főszereplő: Duke és dr. Gonzo minden törvényt áthágva dúlja fel a Las Vegast, úgy dúlja fel lassan egész Európa életét Orbán.
+    Miénk viszont a szerény dicsőség: az elhallgattatott lapok sorában az első a Kurír volt.
+    Ha a születésnapunkra is érkezik felkérés az emlékezésre, akkor majd mesélek erről a feledhetetlen nyolc és fél évről, de ezúttal a végjátékról szólnék. Annyit azért mégis, mivel olvashatják ezt az írást olyanok is, akik nem éltek még a Kurír idején, hogy 1990-ben ez a lap máig utánozhatatlan sikerrel robban be a magyar sajtóba. A sikernek sok összetevője volt, ami a témánkhoz leginkább hozzátartozik, hogy egy addig nem létező műfajt teremtettünk, az intelligens bulvárlapét: mindkét laptípusból, tehát a szeriőz politikai napilapból és az akkor Magyarhonban még alig ismert bulvárvilágból is megpróbáltuk átvenni a legjobb hagyományokat.
+   </p>
+   <p>
+    Kurír-logók: reggel, délután, vasárnap
+   </p>
+   <p>
+    Ez különösen a politikát illetően valósult meg. Ugyanis komolyan vettük a mindenkori hatalommal szembeni ellenzéki-ellenőrző szerepünket, mert, ahogy Mikszáth mondta: a polgár kormányt választ és ellenzéki lapot járat. Ennek megfelelően nagy terjedelemben foglalkoztunk a politikával, ráadásul olyan hangnemben, ami addig ismeretlen, sőt, inkább elképzelhetetlen volt a magyar sajtóban. A nem egyszer kijelentő módban, ellenkezést nem tűrő módon megfogalmazott véleményünk mellett a hatalmat különösen bosszantotta a Kurír humora, amivel egyszerűen nem tudtak mit kezdeni. Tollunkat – számítógépünket – az irónia, a szarkazmus, a gúny vezette, ha politikusról, politikáról írtunk. Ahogy kitűnő kollégánk, Peterdi Pál mondta: akinek humora van, az mindent tud, akinek nincs, az mindenre képes. Ezért aztán utált is minket minden humortalan párt és kormány, mi meg éppen ettől dőltünk nyugodtan hátra gondolván, akkor mégis csak jól végezzük munkánkat…
+    Na, de forduljunk rá a végjátékra, az 1998-as esztendőre. A történet két szálon futott: a mi bukásunkat megelőzte a Kurírt (is) tulajdonló bank, a Postabank végjátéka. Ez is történelem – banktörténelem –: miért ment majdnem csődbe az akkor legsikeresebb kereskedelmi bank 1997. februárjában? Aki még emlékszik, az nehezen felejti az izgatott sorban állást a bank fiókjai előtt, amikor a rém(es) hírektől megrémült betétesek tömegével kezdték kimenekíteni vagyonukat. Becslések szerint néhány napon belül 25 és 40 milliárd forint közötti összeget vehettek fel. Még éjszaka is várakoztak a bankfiókok előtt, s ugyan az intézet forrásainak közel hatodát vonhatták ki a pánik napjaiban, de a Postabank állta az ostromot.
+    Ám a történet arra mindenesetre jó volt, hogy a Postabank ellenségei és irigyei megindítsák a harcot az addig bekebelezhetetlennek tűnő bankért. Most ismét csak rövidítve az eseményeket: a rendszerváltással létrejött magyar bankrendszer 1993-ra gyakorlatilag elvesztette a tőkéjét. Ezen az állam a maga módján, hitel- és bankkonszolidációval segített, aminek természetesen megkérték az árát: többségében állami tulajdonná vált bankszektor. A Postabank nem engedett a csábításnak, saját erőből próbálta megoldani problémáit. Ez azonban a májusi választásokkal első ízben hatalomra került Fidesz-kormánynak nem tetszett.
+    Ennek jeleként, május végén, rögtön a választás után, egyik legelsőként Orbán Viktor Princzzel találkozott. A helyszín az akkori Fórum szálloda Bécsi kávéháza volt. A telt kávézó volt tanúja annak, hogy a beszélgetés során Princz igen éles szavakat használt, állítólag némi anyázás is elhangzott. Ami némelyest érthető, hiszen a Fidesz úgy 800 milliós hitelt kapott Princztől a kampányára. Persze, nem támogatást, hanem hitelt. A hitelből ugyebár akkor lehet támogatás, ha azt nem fizetik vissza… Mi okozhatta a vitát? Princz vélhetően úgy kért konszolidációt, hogy a bankja megmaradjon neki, Orbánnak pedig már akkor szüksége lehetett egy bankra, aminek segítségével gondolta finanszírozni pártját. (Ez, a mai történések fényében, akár igaz is lehet.) Princznek felajánlott egy menekülő utat: állítólag valami egzotikus ország nagyköveti posztjáról volt szó, de Princz a bankot választotta.
+    Július 23-án történt még egy kísérlet Princz lemondatására, hátha csendben, botrány nélkül távozik. Járai Zsigmond pénzügyminiszter és Stumpf István kancelláriaminiszter győzködte Princzet, de ő nekik is kategorikus nemmel válaszolt. Aztán elhangzott egy máig rejtélyes mondat: „Senki biztonságát nem tudom szavatolni száz méteres körzeten belül!” A rejtély oka, hogy máig nincs bizonyítva, ki mondta kinek… Ha Princz mondta, nyilván a nála lévő kompromittáló papírokra gondolt, ha Stumpfék, akkor a nemzetbiztonsági módszerek bevetésére…
+    Az események drámai módon felgyorsultak. Princz leváltásához az alapszabály szerint a részvényesek 75 százalékának a jóváhagyása kellett. Az állam kezében azonban csak 70 százalék volt a közgyűlés előtt, ami augusztus 7-re volt kitűzve. Ezért, kerül, amibe kerül, meg kellett szerezzék a hiányzó öt százalékot. Ennyi részvény, pontosabban 5,6 százaléknyi postabankos papír együtt a Reálbanknak volt, ők azonban nem gondoltak eladásra. Talán csak egyedül őket lepte meg, hogy július 10-én az Állami Pénz és Tőkepiaci Felügyelet még aznap (!) felügyeleti biztost és helyszíni ellenőröket rendelt ki a Reálbank Rt.-hez. Hogy miért? Nem fogják elhinni, de hirtelen kiderült, hogy a bank nem a hatályos jogszabályi előírásoknak megfelelően minősítette kockázatait, a valóságtól eltérő adatokat szolgáltatott, így a Felügyelet nem kapott megbízható információkat a bank helyzetéről, a tűrhetetlen helyzet azonnali intézkedést igényelt. Például olyasmit, hogy a felügyeleti biztos utasíthatja a bankot, hogy az állammal együtt szavazzon Princz leváltására. Hogy a háttérben mi történt, nem tudni, de erre az utasításra végül nem került sor: a Reálbank, hogy hogy nem, mégis eladta a postabankos részvényeit, hogy aztán a közgyűléskor az állam 75,6 százalékkal nyújthassa át a selyemzsinórt Princznek.
+    De biztos, ami biztos, a közgyűlést sem várták meg Princz menesztésével. Július 31-én, péntek délelőtt 11-kor felügyeleti biztosok, rendőrök, a Központi Bűnüldözési Igazgatóság nyomozói lepték el a bankot. Kiss Ernő, a KBI vezetője Járai Zsigmond szobájából vezényelte az akciót. Princz éppen szabadságon volt, s Füredről, a banki üdülőből tartott munkahelye felé, mert aznapra interjút ígért a nagy napilapoknak, amikor utolérte a barátként számon tartott Kiss Ernő telefonja: ne gyere be a bankba. Mi vagyunk ott…
+    Tíz év és két nap után Princz elhagyta az általa alapított bankját. A Kurír pedig, a sajtóportfólió egészével, a bosszúállók kezébe került.
+    A Postabank által birtokolt sajtóholding hatalmas volt. Csak napilapból négy tartozott ide, ezeken kívül heti- és havilapok, különféle periodikák, rádióadó, egy fél nyomda. Miközben felépült a sajtóholding, két, állam által elkövetett hibát is igyekezett Princz Gábor kiigazítani. Az egyik: nem kevés lapot karolt föl, amelyek csak és kizárólag neki köszönhették létüket. Közöttük nagy múltú, nagy értékű lapok is akadtak, olyanok, amiket a hivatalos állam talán már le is írt volna. A Magyar Nemzet – amely akkor évi 500 milliós (!) veszteséget termelt – megmentése épp úgy nevéhez köthető, mint a Beszélőé, a Magyar Narancsé vagy a Tallózóé, az ÉS-é.
+    Ugyancsak az állam hibáztatható azért, hogy addigra a magyar lapok zöme már nem volt magyar kézben. Sem a Népszabadság, sem a Népszava, sem a Magyar Hírlap, sem a Mai Nap, sem a Blikk, sem a vidéki napilapok döntő többsége, és akkor ne beszéljünk az egyéb periodikákról, mert azoknál a helyzet egész egyszerűen riasztó lett! Velük vette fel – és nem is rossz esélyekkel – a versenyt a postabankos sajtóholding, amely minden hibájával együtt legalább magyar volt.
+    A Kurír alig két hónap múlva került sorra.
+    Hogy miért pont minket választottak elsőként a leszámolásra? Hát mert továbbra is végeztük dolgunkat, a regnáló hatalom piszkálását, ellenőrzését, hazugságainak leleplezését, szennyesének kiteregetését. Korábban a szocik, ha nem is örültek nekünk, de megszüntetni azért eszükbe sem jutott minket. A Fidesz azonban nem tétovázott: velünk üzent a sajtónak: így járhat mindenki. Ahogy a Tanúban Pelikánnak mondja a lánya: „A statuálás a lényeg, mert aszerint kapja apuka a büntetést…”
+    Az, hogy az utolsó lapszámig jól végeztük dolgunkat, azt egy szeptember 24-én megjelent számunk bizonyította legjobban, amelynek címlapján Pintér Sándor belügyminiszter portréja mellett ez a cím ordított: Pintér Sándornak mennie kell? És ugyan ott volt az a kérdőjel, de a következő néhány sor inkább felkiáltójellé formálta a szöveget: „Felröppent hírek szerint a német származású Dietmar E. Clodo, a pilisszentlászlói bombagyár főnökének élettársa, a Kriminális kamerája előtt tett nyilatkozatában arról beszélt, hogy egy egykori magas rangú rendőr, aki jelenleg is jelentős pozíciót tölt be, korábban többször találkozott Clodóval. Mi persze nem gondoljuk, hogy a vallomásnak bármi köze lenne a belügyminiszterhez, uram bocsá!, azt is el tudjuk képzelni, hogy a hölgy – párja védelmében – egy kis füllentéstől sem riadt vissza, mégis könnyen lehet, hogy a nyilatkozat hatására megszületik az Orbán-kormány első tisztáldozata, azaz a közeljövőben menesztik Pintér Sándor belügyért. Ezt látszik alátámasztani az az értesülés, hogy a Miniszterelnöki Hivatal főnöke, Stumpf István úr szóbeli felkérést kapott: készítse elő a belügyér távozásának válságtervezetét…”
+    Ennyi év után tán fölösleges lenne belemennünk a hír igaz vagy hamis voltába – állítólag Polt Péter legfőbb ügyész még 2018-ban is nyomoztat ebben az ügyben –, ennek a hírnek ránk nézve végzetes hatása lett. Utólag visszagondolva, bizonyos fokig mi is áldozatai voltunk a történetnek. Ugyanis mi ezt már hetek óta tudni véltük, ám előző nap, vagyis szeptember 23-án az MTI is kiadta az információt. Ugyan név nélkül, de a beosztást megjelölve. A nap folyamán az MTI visszavonta a hírét, ők talán már előbb megijedhettek, mi viszont ezt nem vettük figyelembe…
+    Pontosan egy héttel később Orbán Viktor utasítására megszüntették a lapot. Akkoriban ebben még nem volt gyakorlatuk, így hát például minket nem tessékeltek ki azonnal az épületből, így módunk volt másnapra, vagyis október 1-re, Csütörtöki Kurír néven csakazértis megjelenni. (Érezve a vészt, jómagam, hetekkel korábban levédettem hétfajta, tehát napi kuríros címvariációt.) Erre a fidesznyikok, jelesül a Nemzeti Kulturális Örökség Minisztériumának akkori államtitkára, Várhegyi Attila személyesen diktálta a napi kurírok névre kiállított lapengedély – tegyük hozzá: törvénytelen – visszavonását. Állítólag a nyomdát is megfenyegették, hogy a további kurírok nyomtatásától elriasszák. (A Népszabadság megszüntetésére már sokat okosodtak: költözésnek hazudták a bezárást, így a munkához szükséges számítógépeket sikerült ügyesen elzárniuk az újságíróktól. Viszont a lapnevet sem nekünk, sem nekik nem adták el, hiába jelentkeztek ezekért vevők.)
+    „Mi sohasem vetemednénk arra, hogy elhallgattassuk azokat, akik nem értenek egyet velünk” – mondta a miniszterelnök, holott húsz éve mást sem csinál. (A legfrissebbek: Hír TV, Magyar Nemzet, Heti Válasz, Lánchíd rádió, felkészül: Index.) Hogy mi vár a még a megmaradt magyar sajtóra? Hát a leendő Sajtókamara. A kiszivárgott információk szerint a kormány 2019-ig egy karámba terelné az újságíró-társadalmat. Az eddig megismert részletek szerint csak az az újság, rádió, televízió maradhatna, amelynek minden munkatársa, sőt, maga a cég is tagja lesz a Sajtókamarának. Ez sem új a nap alatt: 1939-ben már megalakult egy ilyen kamara, amely legfőbb feladatát a zsidó újságírók kiakolbólításában látta, s az a könyvégető, nyilas Kolosváry-Borcsa Mihály lett a kamara elnöke, akit mint háborús bűnöst, 1945-ben kivégeztek. Hogy hogyan fogunk majdan újságot írni, azt is megtanulhatjuk a Sajtókamara 1941-es évkönyvéből, Gáspár Jenő igazgató-főtitkár beszédéből, ami Horthy Miklós kamara épületében felavatott egész alakos festményének leleplezésekor hangzott el:
+    „Egyéni elhivatottságának végzése volt az, hogy a nagy katasztrófa viharos hullámai közül ő mentette meg a magyar öröklét számára mindazt, ami maradandó érték: hagyományainkat, becsületünket, testvéreink iránti hűségünket, keresztény hitünket és nemzeti önérzetünket. A mi kötelességünk: követni a hősi példamutatást. A Sajtókamarában megújult magyar újságírás az ő általa képviselt eszményeknek jegyében fog élni és dolgozni, míg a nyomtatott betűnek hivatása van ezen a földön.”
+    És akkor már tényleg nem lesz kit elhallgattatni.
+    <hi rend="bold">
+     Szücs Gábor
+    </hi>
+    <hi rend="bold">
+     (Az elhallgattatott Kurír még beszélő főszerkesztője)
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

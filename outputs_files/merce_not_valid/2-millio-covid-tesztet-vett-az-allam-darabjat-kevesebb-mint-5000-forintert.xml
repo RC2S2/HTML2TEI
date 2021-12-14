@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     2 millió COVID-tesztet vett az állam, darabját kevesebb mint 5000 forintért
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7a6656bb-4294-5234-9a06-2f4f4219b42a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      2 millió COVID-tesztet vett az állam, darabját kevesebb mint 5000 forintért
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-09-24T08:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/09/24/2-millio-covid-tesztet-vett-az-allam-darabjat-kevesebb-mint-5000-forintert/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/09/24/2-millio-covid-tesztet-vett-az-allam-darabjat-kevesebb-mint-5000-forintert/
+     </sch:url>
+     <sch:name>
+      2 millió COVID-tesztet vett az állam, darabját kevesebb mint 5000 forintért
+     </sch:name>
+     <sch:datePublished>
+      2020-09-24T08:24:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      járvány
+     </sch:keywords>
+     <sch:keywords>
+      Ujhelyi István
+     </sch:keywords>
+     <sch:keywords>
+      teszt
+     </sch:keywords>
+     <sch:keywords>
+      külügyminisztérium
+     </sch:keywords>
+     <sch:keywords>
+      hatósági ár
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7a6656bb-4294-5234-9a06-2f4f4219b42a">
+     <sch:identifier>
+      urn:uuid:3e1d8899-5e47-4d69-ba44-445a7ec9e664
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:23.992242
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:23:12.024737
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7a6656bb-4294-5234-9a06-2f4f4219b42a" when="2021-12-14T15:30:23.992242">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    2 millió COVID-tesztet vett az állam, darabját kevesebb mint 5000 forintért
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Közérdekű adatigényléssel fordult a Külügyminisztériumhoz Ujhelyi István szocialista EP-képviselő, hogy kiderítse, mely
+    cégektől és milyen összegben szerzett be a magyar állam koronavírus-teszteket.
+   </p>
+   <p rend="head">
+    A minisztérium tájékoztatása szerint 2.043.280 darab tesztet szerzett be a kormány, a beszerzések ellenértéke mindösszesen 9.580.639.177.- forint volt, vagyis egy teszt ára nagyjából 4700 forintra jött ki.
+   </p>
+   <p>
+    A beszerző cégek közt Ujhelyi szerint olyan vállalkozás is van, amely például alapvetően ingatlanértékesítéssel foglalkozik.
+   </p>
+   <p>
+    Azt egyelőre nem tudni, hogy a kormány a beérkezett teszteket értékesítette-e magáncégeknek is, erre vonatkozóan a minisztérium tájékoztatása szerint „
+    közérdekű adat még nem keletkezett.”
+   </p>
+   <p>
+    „Már az is eleve kérdéseket vet fel, hogy miért nem az egészségügyért felelős tárca intézi az egészségügyi beszerzéseket, az pedig egy ilyen súlyos járványhelyzetben különösen problémás, hogy a sokmilliárd forintnyi közpénzből történő vásárlások nem a teljes és proaktív transzparencia mellett zajlanak, ráadásul mind anyagi, mind pedig szakmai alapon kérdéseket vetnek fel.” – írja Ujhelyi Facebook-posztjában.
+   </p>
+   <p>
+    Orbán Viktor szeptember 16-án
+    jelentette be
+    , hogy
+   </p>
+   <p rend="head">
+    19 500 forintnál nem lehet drágább a koronavírus-teszt semmilyen esetben.
+   </p>
+   <p>
+    Ez az összeg ugyan valóban érezhetően alacsonyabb a tesztek korábban megszokott 30 000 forintos áránál, de még mindig nagyon sok embernek jelent komoly anyagi terhet – azzal pedig, hogy hatósági ár helyett miért lenne szükség inkább ingyenes tesztelésre,
+    ebben a cikkünkben
+    foglalkoztunk.
+   </p>
+   <p>
+    Az mindenesetre
+    már látszik
+    , hogy a tesztek hatósági árazása a vírus terjedését nem, a tisztánlátást azonban jelentősen akadályozza: a tesztelési kapacitások ugyanis szűkültek a korlátozás után, ugyanis a magáncégek közül többen is felfüggesztették a szolgáltatást. Ennek következtében máshol várólisták alakultak, és hosszabbra nyúlik maga a tesztelési procedúra,
+    mint maga a karantén
+    . És az állam sem muzsikál valami fényesen: a teszteredményekre rengeteget kell várni. Így viszont azt is nehéz felmérni (nem mintha eddig könnyebb lett volna), hogy pontosan mennyire súlyos a járványhelyzet Magyarországon.
+   </p>
+   <p>
+    Minden cikkünk a koronavírusról
+    itt olvasható
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

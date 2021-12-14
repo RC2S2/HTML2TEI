@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mi vagyunk a harmadik legnagyobb offshore vesztesek az EU-ban
+    </title>
+    <author>
+     <persName>
+      Krausz Fanni
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     96f3b99b-b718-58e0-80c1-ce085d961065
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mi vagyunk a harmadik legnagyobb offshore vesztesek az EU-ban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Krausz Fanni
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-08T13:32:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/08/mi-vagyunk-a-harmadik-legnagyobb-offshore-vesztesek-az-eu-ban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/08/mi-vagyunk-a-harmadik-legnagyobb-offshore-vesztesek-az-eu-ban/
+     </sch:url>
+     <sch:name>
+      Mi vagyunk a harmadik legnagyobb offshore vesztesek az EU-ban
+     </sch:name>
+     <sch:datePublished>
+      2017-11-08T13:32:00
+     </sch:datePublished>
+     <sch:author>
+      Krausz Fanni
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      gazdaság
+     </sch:keywords>
+     <sch:keywords>
+      offshore
+     </sch:keywords>
+     <sch:keywords>
+      adóelkerülés
+     </sch:keywords>
+     <sch:keywords>
+      Elúszott pénz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="96f3b99b-b718-58e0-80c1-ce085d961065">
+     <sch:identifier>
+      urn:uuid:53b307bf-d054-468e-bf71-d747131e601c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:42.657136
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:36:59.627403
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="96f3b99b-b718-58e0-80c1-ce085d961065" when="2021-12-14T15:30:42.657136">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mi vagyunk a harmadik legnagyobb offshore vesztesek az EU-ban
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Az Európai Unión belül működő nagy cégek évi 60 milliárd eurónyi (vagyis 18 600 milliárd Ft) adózást kerülnek ki offshore-ozás által. A neves francia szakember, Gabriel Zucman nyilvánosan elérhető adatok alapján végzett számításokat az egyes EU-országban lévő offshore-ozás méretéről, amely a 28 tagállamot mintegy 20 százaléknyi bevételtől fosztja meg.
+   </p>
+   <p>
+    Az offshore-ozás azt jelenti, hogy gazdasági szereplők olyan országban alapítanak céget és ott könyvelik el gazdasági tevékenységeiket, ahol alacsonyabbak az adók, mint ahol a valós tevékenységüket folytatják. Az offshore-ozás gyakran magával vonja a pénzmozgások és tulajdonosi viszonyok átláthatatlanná tételét is, így a pénzmosás remek módszere.
+   </p>
+   <p>
+    A legalacsonyabb társasági adókulccsal egyes egzotikus szigetek rendelkeznek (pl. a
+    Bahama-szigetek vagy a Kajmán-szigetek
+    , egészen pontosan 0 százalékkal, ezeknél csupán üzleti licencdíjat és ingatlanadót kell fizetni), az EU-n belül pedig Magyarország (9 százalék) . Európai adóparadicsomnak számít még Belgium, Ciprus, Hollandia, Luxemburg és Málta is. A multinacionális vállalatok ezekben, vagyis az alacsonyabb adóterhű EU-s országokban könyvelnek el évi 350 milliárd eurót.
+   </p>
+   <p>
+    Németország esik el a legtöbb társasági adóból származó bevételtől, 17 milliárd eurótól, ami a társasági adójából származó bevételének 32 százaléka. A folyamatot jól szemlélteti, hogy amíg Németországban a multik minden alkalmazotti bérre fordított euró után kb. 50 cent profitot termelnek, addig Luxemburgban 3,5 eurót. Mindezt nem azért, mert a luxemburgi munkavállalók hétszer termelékenyebbek a németeknél, hanem mert a cégek Luxemburgban könyvelik el a nyereségüket, mert ott alacsonyabb a társasági adó.
+   </p>
+   <p>
+    (Forrás: Süddeutsche Zeitung)
+   </p>
+   <p>
+    A második legtöbb bevételtől eleső ország Franciaország, amely offshore-ozás nélkül 25 százalékkal több bevételre tenne szert.
+   </p>
+   <p>
+    Magyarországnak 23 százalékkal lenne nagyobb bevétele a társasági adókból, ha a cégek nem vinnék át azokat kisebb adókulcsú országokba.
+   </p>
+   <p>
+    (
+    Privátbankár
+    , MTI)
+   </p>
+  </body>
+ </text>
+</TEI>

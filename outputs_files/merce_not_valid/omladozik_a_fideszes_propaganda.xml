@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Omladozik a fideszes propaganda?
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     02eb35b4-b310-551f-b264-672965a7e21d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Omladozik a fideszes propaganda?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-04-13T09:18:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/04/13/omladozik_a_fideszes_propaganda/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/04/13/omladozik_a_fideszes_propaganda/
+     </sch:url>
+     <sch:name>
+      Omladozik a fideszes propaganda?
+     </sch:name>
+     <sch:datePublished>
+      2017-04-13T09:18:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      propaganda
+     </sch:keywords>
+     <sch:keywords>
+      CEU
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="02eb35b4-b310-551f-b264-672965a7e21d">
+     <sch:identifier>
+      urn:uuid:bcbe0914-7c5b-4f41-8063-b0159d57cc46
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:08.982115
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:29:34.550692
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="02eb35b4-b310-551f-b264-672965a7e21d" when="2021-12-14T15:26:08.982115">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Omladozik a fideszes propaganda?
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    A fideszes médiamasina jó ideje megelőzi korát, és olyan úttörő megoldásokat alkalmaz, amelyekhez képest még a kanyarban sincsenek a nyugati „alternatív tények” és „poszt-igazságok”. A CEU-t ellehetetlenítő törvény nyomán kirobbanó kormányellenes tüntetéssorozat is megkapta a maga adagját ebből. Soros által repülőztetett tüntetők, akik nem is voltak elegen, CEU-s diákok dolgozatcímeiből készült önkényes válogatás, külföldről irányított békaemberek és migránspropaganda. Tokkal vonóval.
+   </p>
+   <p>
+    A játszma ugyanaz, mint amit a korábbi hasonló tiltakozásokkor, vagy a „randomra” kiválasztott ellenzéki politikusok, aktivisták lejáratásakor tapasztalhattunk. Ám azzal párhuzamosan, hogy a Fidesz egyre nagyobb szeletét kebelezi be a nyilvánosságnak, mintha egyre kevésbé hatna a propaganda. De vajon miért?
+    „Repülővel jöttünk!” – skandálták az egybegyűltek hétfő este a Sándor-palota előtti spontán tüntetésen, amely rögtön azután szerveződött, hogy Áder János flottul aláírta a lex CEU-t. A tiltakozók ezzel üzenték a fideszes médiabirodalomnak, hogy magasról tesznek a vádaskodásra, sőt mi több, kiröhögik. Vagyis azt a reakciót adják a kormányzati erőlködésre, amit megérdemel: gúnyt.
+   </p>
+   <p>
+    Ez jelentős újítás a korábbi évekhez képest. Persze, minden egyes lejáratóakció alkalmával hallhattunk privátban gúnyos megjegyzéseket, de az általános, nyilvános reakció mégiscsak a felháborodás volt. Ami implicite komolyan vételt is jelentett. De amikor ezrek reagálnak ilyen iróniával az egészre, akkor teljesen megváltozik a propaganda hatása.
+   </p>
+   <p>
+    Nem arról van szó, hogy a tüntetők hirtelen megvilágosodtak és 7 év után rájöttek, hogy ki is lehetne röhögni azt az izzadtságszagú erőlködést, amit a kormányoldal médiának hív. Hanem a körülmények változnak lassacskán, és az emberek hozzáállása csak tükrözi ezt a változást.
+   </p>
+   <p>
+    Az orbáni propaganda célja minden esetben a demobilizáció. Hogy gyanakvást szórjon szét az emberek között, hogy lelombozzon, hogy a privát életbe való visszahúzódásra ösztönözzön, hogy elijesszen a politikától. Mindennek azonban feltétele, hogy minden vád, minden álinformáció, minden ferdítés és hazugság egy szilárd és összefüggő egészet alkosson. Egy olyan szilárd egészet, amellyel szemben nincs semmi hasonló kaliberű narratíva, csak az egyes hazugságok tényszerű cáfolata.
+   </p>
+   <p>
+    A Fidesz egy olyan erős narratívát épített ki, amelyikben minden mindennel összefügg, és minden elem a többit erősíti. Egy, az ország szuverenitására és biztonságára rontó hétfejű sárkányt festettek meg, amelyben Brüsszeltől, a civil szervezeteken, tüntetőkön és menekülteken át Sorosig, mindenkinek megvan a maga jól kijelölt helye. Minden ellenvéleményt, a hatalommal szembeni minden kiállást elég volt a konglomerátum egyik aprócska részéhez kötni valahogyan, és azzal az is a sárkány részévé vált.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    Amíg ez a koherens egész létezik, addig egy-egy hazugság, egy-egy ferdítés mit sem számít, hiszen a nagy igazság úgyis igazolja azt.
+   </p>
+   <p>
+    Nem nehéz belátni, hogy az egyes állítások tényszerű cáfolata édeskeveset ér ebben a rendszerben, hiszen csak azt erősíti meg, hogy aki cáfol, az bizony szintén a Nagy Gonosz egyik része.
+   </p>
+   <p>
+    De a mostani tüntetéseken, erősebben, mint korábban, mintha egy ellennarratíva kezdene kibontakozni. Nem kiforrott még, és mivel nem pártlaboratóriumokban gyártják, nem is lesz egy-kettőre kész, de mintha alakulna. Egy olyan narratíva, amelyikben szintén mindennek megvan a helye, szintén minden összefügg, csak éppen a gonosz szerepében Orbán Viktor és a Fidesz áll. Mintha hét év kormányzás után egyre több és több ember jönne rá, hogy az örökös hadakozás nem magyarázhatja meg az ország teljes lezüllesztését. Kezd összeállni a kép, amelyben a CEU, a korrupció, az orosz „kapcsolat”, a minden területen romló mutatók, a pökhendiség szépen összeállnak egy képpé. És amikor ez megtörténik, onnantól egyetlen propagandamondat sem kap már igazolást egy nagyobb igazságtól, hanem valódi színében tűnik fel, annak kezd látszani, ami: saját hatalommániájába belegabalyodott, rettegő kisszerűség kapálózásának.
+   </p>
+   <p>
+    Amin már nem csak magánemberként, hanem nyilvánosan, közösen, mintegy politikai gesztusként is lehet röhögni. Amit nem szemlesütve kell cáfolni, hanem büszkeséggel magunkra akasztani, hogy még élesebb legyen a kontraszt a valóság és a propaganda között.
+   </p>
+   <p>
+    Persze mindez még csak egy lehetőség, amelyet az időszakosan megismétlődő tiltakozási hullámok és hétköznapi ellenállási gesztusok aprómunkával építettek fel. A fideszes propaganda és az orbáni rendszer összeomlásának nem elégséges, de szükséges, elengedhetetlen feltétele, hogy tovább üssük a réseket a nagy narratívájukon, és vele szemben felépítsük a sajátunkat, amely már nem külső ellenfelekről, hanem a magyar állampolgárokat kizsigerelő, a társadalmat szétromboló orbáni klikkről szól majd.
+   </p>
+   <p>
+    Fontos eleme mindennek az erő, amit az emberek képesek felmutatni, hiszen minél nagyobb a tömeg, annál nagyobb a legitimáció, amelyet a Fidesszel szembeni ellennarratíva kap. Utoljára, amikor hasonló mértékben beomlott a kormánypárt kommunikációs gépezete, az utcán épp a netadó miatt tüntetők vonultak. Abban az időszakban fél évig semmi nem tapadt azokból a panelekből, amiket Habonyék kitaláltak. Nem talált be a vizeletmintás demonizáció, nem működött a boltzár. Csak a menekültválság volt képes visszarántani a hatalmat a süllyedésből.
+   </p>
+   <p>
+    Igazuk van azoknak, akik a hatalmas civil tüntetések depolitizált jellegét
+    kritizálják
+    , hiszen valódi (párt)politikai szereplők bekapcsolódása, kiemelkedése nélkül a kormány nem váltható le. De a Fidesz nagy narratívájának az is része, hogy a (párt)politika mocskos, távol kell tőle tartanunk magunk. Ez egy nagyon kemény, demobilizáló erő, amely a jelenlegi civil mederben tartja a tüntetéseket. De ha tovább ütjük a réseket a nagy narratíva falán, akkor talán könnyebb lesz az antipolitika bénító béklyójából is kiutat találni.
+   </p>
+   <p>
+    Amikor elérkezik az a pont, hogy a fideszes nagy narratíva és a tüntetők igazsága közötti erőviszony átbillen, minden egyes alkalommal, amikor a Pesti Srácok főszerkesztő Huth Gergely
+    azon kesereg
+    az EchoTV-ben, hogy a külföldiek tüntetésekre történő idebuszoztatása helyett Soros az albániai éhezőkre is költhetett volna, akkor a Nemzeti Együttműködés Rendszerének egy-egy korhadt gerendája hatalmas robajjal fog a földhöz csapódni.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mi köti össze Harry herceg menyasszonyát, a szegénységet és az offshore-ozást?
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     106ffeeb-2bcc-5413-8369-8b9500998394
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mi köti össze Harry herceg menyasszonyát, a szegénységet és az offshore-ozást?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-12-03T08:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/12/03/mi-koti-ossze-harry-herceg-menyasszonyat-a-szegenyseget-es-az-offshore-ozast/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/12/03/mi-koti-ossze-harry-herceg-menyasszonyat-a-szegenyseget-es-az-offshore-ozast/
+     </sch:url>
+     <sch:name>
+      Mi köti össze Harry herceg menyasszonyát, a szegénységet és az offshore-ozást?
+     </sch:name>
+     <sch:datePublished>
+      2017-12-03T08:00:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      szegénység
+     </sch:keywords>
+     <sch:keywords>
+      offshore
+     </sch:keywords>
+     <sch:keywords>
+      jótékonyság
+     </sch:keywords>
+     <sch:keywords>
+      Meghan Markle
+     </sch:keywords>
+     <sch:keywords>
+      celeb
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="106ffeeb-2bcc-5413-8369-8b9500998394">
+     <sch:identifier>
+      urn:uuid:c693b82b-3335-4963-9c09-0d17d2579d8e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.472675
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:40:43.130239
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="106ffeeb-2bcc-5413-8369-8b9500998394" when="2021-12-14T15:30:50.472675">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mi köti össze Harry herceg menyasszonyát, a szegénységet és az offshore-ozást?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A magyar sajtót is megigézi a legújabb globális celebpár, a brit Harry herceg és menyasszonya, az amerikai színésznő és aktivista, Meghan Markle. Ugyanúgy, hogy anno Vilmos herceg és Kate Middleton esküvője, majd családi élete is hasonló érdeklődést váltott ki világszerte.
+   </p>
+   <p>
+    Harry herceg és Meghan Markle
+   </p>
+   <p>
+    Meghan Markle kapcsán sokat írtak
+    feminista megszólalásairól
+    , a Trump-kormányzattal szemben megfogalmazott kritikáiról, illetve az ENSZ-nek és a World Vision nevű jótékonysági szervezetnek végzett humanitárius munkájáról.
+   </p>
+   <p rend="head">
+    Az amerikai baloldali lap, a Jacobin azonban
+    arra hívja fel a figyelmet
+    , hogy a celebkultusz, illetve a celebek azonosítása a globális szegénység elleni harccal komoly veszélyekkel jár.
+   </p>
+   <p>
+    A cikk szerzője, Branko Marcetic szerint üdvözlendő, hogy vagyonnal és befolyással rendelkező hírességek részt vesznek a világ legégetőbb problémáinak megfékezésében, de ha ezt a küzdelmet pusztán ilyen egyéni jócselekedetekkel azonosítjuk, akkor szem elől tévesztjük, valójában mi is szükségeltetik a globális nyomor és kizsákmányolás felszámolásához.
+   </p>
+   <p>
+    Marcetic ezután sorra veszi a világ legnagyobb humanitárius szervezeteinek éves költségvetését (mindegyiknek jut pár tízmillió dollár), és megállapítja, hogy valóban jelentős összegeket fordítanak a szegények megsegítésére. De mindez messze van attól az összegtől, amit a világ gazdagjai évente offshore számlákon rejtenek el adózás és bármiféle ellenőrzés nélkül.
+   </p>
+   <p rend="head">
+    Ezt az összeget a szakértők 13 ezer milliárd és 32 ezer milliárd közé teszik.
+   </p>
+   <p>
+    A
+    Guardian úgy számol
+    , hogy ha ezek az offshore-ba rejtett összegek évente 3 százalékkal növekednek, és ezt az új bevételt az államok, mondjuk, 30 százalékos adókulccsal megadóztathatnák, ahogy szokás, akkor nagyobb éves bevételt kapnának, mint amennyit most a fejlett országok nemzetközi segélyezésre költenek.
+   </p>
+   <p>
+    Ehhez képest az Oxfam nevű jótékonysági szervezet szerint évente 66 milliárd dollárra lenne szükség, hogy a világon minden ember számára napi 1,25 dolláros minimumjövedelmet garantáljunk (ezt mutatják a
+    Brookings számításai is
+    ), amely kb. fel is számolná a szélsőséges szegénységet a világban.
+   </p>
+   <p>
+    Ugyanez a szervezet állítja, hogy csak az európai adóparadicsomokban 12 ezer milliárd dollár tűnik el, az Európai Uniónak pedig lenne mozgástere ezen adóparadicsomok felszámolására, hiszen ebben az esetben mégsem távoli karibi szigetországokról beszélünk, hanem az uniótól sok szempontból függő országokról.
+   </p>
+   <p>
+    Egyébként maga a brit királyi család is, amelybe most Meghan Markle beházasodik, érintett volt az offshore-leleplezések legújabb hullámában, a Paradise Papírokban. A dokumentumok szerint a királynő magánvagyonából 10 millió fontnyi került befektetésre a Kajmán-szigeteken és Bermundán. Mindez úgy, hogy közben a brit adófizetők évente majdnem 100 millió dollárral járulnak hozzá II. Erzsébet udvartartásához. Ráadásul a királyi família minden tagja önjogon is hatalmas magánvagyonnal és százmilliós befektetésekkel rendelkezik.
+   </p>
+   <p>
+    Mindez persze nem a Meghan Markle hibája vagy felelőssége, írja a Jacobin szerzője, fontos humanitárius munkát végzett eddig is, és nem szabadna démonizálni őt azokért a pénzügyi „praktikákért”, amelyeket a szupergazdagok, például leendő családja is használ.
+   </p>
+   <p rend="head">
+    De ettől függetlenül észben kell tartanunk azokat a csillagászati összegeket, amelyeket királyi pompára költ a világ, vagy épp az offshore-ozás miatt veszít el.
+   </p>
+   <p>
+    Ahogy a
+    Mércén is írtuk
+    , ezek azok az összegek, amelyek tisztességes adóztatásából szociális védőhálót, közösségi infrastruktúrákat, minőségi oktatást és egészségügyet tarthatnánk fenn. (Igen, mi is, hisz
+    Magyarország élen jár
+    az offshore miatti veszteségekben.)
+   </p>
+   <p>
+    Végső soron ezekből az összegekből sokkal hatékonyabban lehetne a globális szegénység és kizsákmányolás ellen küzdeni. Ám ehhez folyamatosan szem előtt kell tartanunk, hogy a világ problémáinak okozói az igazságtalan gazdasági és társadalmi rendszerek, így a problémamegoldáshoz sem elegendőek a jószándékú, emberbarát celebek, hanem rendszerszintű változásra van szükség.
+   </p>
+   <p>
+    „Igazságos világ nemcsak az lesz, amelyben nem léteznek majd olyan divatjamúlt intézmények, mint a monarchia – függetlenül attól, mennyire bájosak, elragadóak és jószándékúak is a ma királyi családjai. Már nem lesz szükségünk humanitárius hírességekre sem” – zárja sorait Marcetic.
+   </p>
+  </body>
+ </text>
+</TEI>

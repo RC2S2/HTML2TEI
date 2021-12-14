@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Saját közös jelöltjük visszalépésében bíznak az ellenzéki pártok a fideszes mohácsi polgármester váratlan halála után
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3503382a-9ac1-5ce1-8458-1029b2b205a2
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Saját közös jelöltjük visszalépésében bíznak az ellenzéki pártok a fideszes mohácsi polgármester váratlan halála után
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-01T08:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/01/sajat-kozos-jeloltjuk-visszalepeseben-biznak-az-ellenzeki-partok-a-fideszes-mohacsi-polgarmester-varatlan-halala-utan/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/01/sajat-kozos-jeloltjuk-visszalepeseben-biznak-az-ellenzeki-partok-a-fideszes-mohacsi-polgarmester-varatlan-halala-utan/
+     </sch:url>
+     <sch:name>
+      Saját közös jelöltjük visszalépésében bíznak az ellenzéki pártok a fideszes mohácsi polgármester váratlan halála után
+     </sch:name>
+     <sch:datePublished>
+      2019-10-01T08:30:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzati választások 2019
+     </sch:keywords>
+     <sch:keywords>
+      összefogás
+     </sch:keywords>
+     <sch:keywords>
+      Baranya
+     </sch:keywords>
+     <sch:keywords>
+      Szabad Pécs
+     </sch:keywords>
+     <sch:keywords>
+      mohács
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3503382a-9ac1-5ce1-8458-1029b2b205a2">
+     <sch:identifier>
+      urn:uuid:41086f92-be68-4d4d-beb4-bd99f0ed8c5c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:24.605888
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:51:44.649083
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3503382a-9ac1-5ce1-8458-1029b2b205a2" when="2021-12-14T15:30:24.605888">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Saját közös jelöltjük visszalépésében bíznak az ellenzéki pártok a fideszes mohácsi polgármester váratlan halála után
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Azt remélik a mohácsi DK-Jobbik-Momentum  képviselőjelöltjei, hogy az ellenzéki szövetség közös polgármesterjelöltje visszalép a tisztességes verseny érdekében a mindössze két hét múlva esedékes választás előtt, miután egyedüli jelölt maradt a regnáló fideszes polgármester, Szekó József tragikus halála után –
+    írja a Szabad Pécs
+    .
+   </p>
+   <p>
+    Mint ismert, a város polgármesterére pénteken
+    találtak holtan
+    egy mustgázzal teli borospincében, ahol baleset áldozatává válhatott a 63 éves politikus. A rendőrség közölte, hogy a Mohácsi Rendőrkapitányság közigazgatási hatósági eljárás keretében vizsgálja az esetet, további részleteket nem közölhetnek.
+   </p>
+   <p>
+    Mivel Szekó Józsefnek csak egyetlen riválisa lett volna az október 13-ai önkormányzati választáson, a tragédia után az MSZP-s Csorbai Ferenc maradt az egyetlen polgármester-jelölt a város élére.
+   </p>
+   <p>
+    A tisztességes versenyre hivatkozva hétfőn egy közös közleményt fogalmazott meg a helyi ellenzéki szövetség, amelyben azt írják:
+   </p>
+   <p>
+    „A DK-Jobbik-Momentum mohácsi jelöltjei megdöbbenten értesültek Szekó József polgármester úr tragikus haláláról és részvétüket fejezik ki hozzátartozóinak. Az előzetesen bejelentett hétvégi kampányeseményeinket kegyeleti okokból kifolyólag nem tartottuk meg. Bízunk benne, hogy egyedüli indulóként Csorbai Ferenc polgármesterjelölt úr a tisztesség jegyében és a demokratikus választások érdekében visszalép, hogy Mohács lakói időközi választás keretében dönthessenek az új polgármester személyéről.„
+   </p>
+   <p>
+    Bonyolítja a helyzetet, hogy Csorbai egyelőre úgy tűnik, közel sem szánta el magát a visszalépésre:
+    a HVG információi szerint
+    az MSZP szóvivője, Nyakó István azt mondta, jelöltjük nem lép vissza. Amikor megkérdezték, miért, Nyakó azt mondta, azért, mert hivatalos jelölt, leadta a szükséges ajánlásokat. Ketten érezték magukat alkalmasnak a polgármesterségre, egyikük elhunyt, ettől ő még alkalmasnak érzi magát, meg is kapta a kellő támogatást.
+    (Szabad Pécs, HVG)
+   </p>
+  </body>
+ </text>
+</TEI>

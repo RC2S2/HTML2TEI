@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az orosz rendőrség letartóztatta Alekszej Navalnijt, gyakorlatilag földet érése után azonnal
+    </title>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4fdb524b-26d8-5994-b31c-5472355b31dc
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az orosz rendőrség letartóztatta Alekszej Navalnijt, gyakorlatilag földet érése után azonnal
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-01-17T18:06:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/01/17/technikai-nehezsegekre-hivatkozva-egy-zart-katonai-bazisra-tereltek-a-navalnijt-szallito-gepet/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/01/17/technikai-nehezsegekre-hivatkozva-egy-zart-katonai-bazisra-tereltek-a-navalnijt-szallito-gepet/
+     </sch:url>
+     <sch:name>
+      Az orosz rendőrség letartóztatta Alekszej Navalnijt, gyakorlatilag földet érése után azonnal
+     </sch:name>
+     <sch:datePublished>
+      2021-01-17T18:06:00
+     </sch:datePublished>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      oroszország
+     </sch:keywords>
+     <sch:keywords>
+      Putyin
+     </sch:keywords>
+     <sch:keywords>
+      alekszej navalnij
+     </sch:keywords>
+     <sch:keywords>
+      rendőr
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4fdb524b-26d8-5994-b31c-5472355b31dc">
+     <sch:identifier>
+      urn:uuid:6840e3cf-9d48-41d8-a31c-d256fb76e1ff
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:01.658702
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:35:55.698819
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4fdb524b-26d8-5994-b31c-5472355b31dc" when="2021-12-14T15:31:01.658702">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az orosz rendőrség letartóztatta Alekszej Navalnijt, gyakorlatilag földet érése után azonnal
+   </head>
+   <p>
+    <hi rend="bold">
+     Frissítés 3 (19:01):
+    </hi>
+   </p>
+   <p>
+    Alekszej Navalnijt
+    letartóztatták
+    a reptéri kiléptető kapuknál, útlevél-ellenőrzéskor.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 2 (18:57):
+    </hi>
+   </p>
+   <p>
+    Megszakadt az Ost/West csatorna élő adása abban a pillanatban, ahogy Navalnij kilépett a reptérről, így egyelőre nem tudjuk pontosan a politikus jelenlegi helyzetét.
+   </p>
+   <p>
+    A rendőrség viszont a Seremetjevó reptérre gyorsan átözönlő újságírókat elkezdte igazoltatni, még a belépés előtt.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (18:20):
+    </hi>
+   </p>
+   <p>
+    A Novaja Gazeta információi szerint a gép végül a Seremetjevó Nemzetközi Repülőtéren landolt, így is jóval arrébb a tervezett Vnukovótól. Navalnij sajtósa, Kira Jarmis Twitteren erősítette meg a hírt.
+   </p>
+   <p>
+    <hi rend="bold">
+     Korábban írtuk:
+    </hi>
+   </p>
+   <p>
+    A moszkvai Vnukovó repülőteret már órákkal az orosz ellenzék legismertebb figurája, Alekszej Navalnij tervezett landolása előtt nagy erőkkel szállták meg a rendőrök és az OMON speciális rendészet alakulatai. A Putyin legnagyobb kritikusaként számon tartott politikus hívei közül párat jóval a landolás előtt már
+    elkezdtek
+    „megelőző jelleggel” őrizetbe venni a hatóságok.
+   </p>
+   <p rend="head">
+    A Navalnijjal a fedélzetén Berlinből érkező – amúgy polgári – járatot 10 perccel annak landolása előtt meglehetősen gyanúsan a hóeltakarító gépek meghibásodására hivatkozva a Cskalovszkoje katonai légibázisra
+    terelték
+    , így aztán az ellenzéki politikust váró sajtó és szimpatizáns-tömegek nem fogják tudni követni a landolás utáni pillanatokat.
+   </p>
+   <p>
+    A politikus egyébként repülőútja előtt közvetlenül már Twitteren ironizált azon, hogy az orosz politikai vezetés szerinte mennyire izgul hazatérése miatt:
+   </p>
+   <p>
+    Когда с друзьями ждёшь прилёта самолета
+    pic.twitter.com/GGWbukM1n7
+   </p>
+   <p>
+    — Alexey Navalny (@navalny)
+    January 17, 2021
+   </p>
+   <p>
+    A Navalnijt támogató több száz szimpatizáns a reptér jeggyel nem rendelkezők elől való lezárását úgy próbálta meg kijátszani, hogy a délutáni óráktól kezdve 6-8 fős csoportokban, egymást felváltva köröztek a reptér bejárati ajtaja előtt, hogy ne lehessen egyszerre mindenkit őrizetbe venni.
+   </p>
+   <p>
+    На аэроэкспрессе приехало до 100 человек массовки «на Бузову». Стоят с кураторами по группами по 6-8 человек. По очереди идут к турникетам
+    pic.twitter.com/QchJhaNHfp
+   </p>
+   <p>
+    — Олег Степанов (@olsnov)
+    January 17, 2021
+   </p>
+   <p rend="head">
+    Ahogy Navalnij gépe egyre közeledett az – akkor még biztosra vett – moszkvai célállomáshoz, úgy vált egyre feszültebbé a helyzet, és helyi idő szerint 7 óra körül a rohamrendőrség
+    megrohamozta
+    a reptéren jócskán felduzzadt tömeget, majd 21 embert őrizetbe is vettek.
+   </p>
+   <p>
+    Молодые люди, которые сначала пели песни Ольги Бузовой, теперь достали такие плакаты
+   </p>
+   <p>
+    Фото: «Медиазона»
+    pic.twitter.com/nwhgzWHdgn
+   </p>
+   <p>
+    — Медиазона (@mediazzzona)
+    January 17, 2021
+   </p>
+   <p>
+    Ahogy arról
+    mi is beszámoltunk
+    , a Putyin legfőbb kihívójaként számon tartott orosz politkus még augusztus 20-án került kórházba mérgezéses tünetekkel. A politikust mesterséges kómában, lélegeztető gépen ápolták, állapota csak
+    szeptember elejére kezdett javulni
+    .
+   </p>
+   <p>
+    A Bellingcat oknyomozó portál, a The Insider amerikai lap és a CNN közösen végzet nyomozása arra a – Putyinék által hivatalosan tagadott – következtetésre jutott, hogy minden bizonnyal a belbiztonságért felelős orosz nemzetbiztonsági szolgálat egyik különítménye mérgezte meg az ellenzéki politikust.
+   </p>
+   <p>
+    A nagyrészt oroszországi mobil távközlési adatok, az orosz belföldi repülőjáratok utaslistái és más források elemzése alapján készült kutatásból kiderül, az orosz kormánynak fontos szerepe lehetett a politikus megmérgezésében.
+   </p>
+   <p>
+    Navalnijt csak két nappal az omszki kórházba kerülése után engedték áthelyeztetni a berlini Charité Klinikára, ahol kezelőorvosai megállították a a kolinészteráz-gátlók csoportjába tartozó anyaggal való mérgezését.
+   </p>
+   <p>
+    Ez nem az első alkalom volt hogy Navalnijt megmérgezték:
+    egy évvel korábban
+    , tavaly nyáron allergiás tünetekkel vitték a börtönből, a tüntetés-szervezés miatt 30 napos elzárását töltő politikust kórházba. A Bellingcat és az Insider nyomozása szerint az is az orosz kormányszerv akciója volt.
+   </p>
+   <p>
+    (Novaja Gazeta, Media Zona, Zeit)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aki ma elutasítja a politikai részvételt, nem csak él, hanem visszaél a kiváltságaival
+    </title>
+    <author>
+     <persName>
+      Misetics Bálint
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f014f27f-14e9-571b-8b6e-15fa66c9efd4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Aki ma elutasítja a politikai részvételt, nem csak él, hanem visszaél a kiváltságaival
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Misetics Bálint
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-07T18:10:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/07/aki-ma-elutasitja-a-politikai-reszvetelt-nem-csak-el-hanem-visszael-a-kivaltsagaival/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/07/aki-ma-elutasitja-a-politikai-reszvetelt-nem-csak-el-hanem-visszael-a-kivaltsagaival/
+     </sch:url>
+     <sch:name>
+      Aki ma elutasítja a politikai részvételt, nem csak él, hanem visszaél a kiváltságaival
+     </sch:name>
+     <sch:datePublished>
+      2019-10-07T18:10:00
+     </sch:datePublished>
+     <sch:author>
+      Misetics Bálint
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      AVM
+     </sch:keywords>
+     <sch:keywords>
+      beszéd
+     </sch:keywords>
+     <sch:keywords>
+      lakásmenet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f014f27f-14e9-571b-8b6e-15fa66c9efd4">
+     <sch:identifier>
+      urn:uuid:a1492e7e-da48-49f2-9ae6-604ddf61f388
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:22.192289
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:51:04.261794
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f014f27f-14e9-571b-8b6e-15fa66c9efd4" when="2021-12-14T15:27:22.192289">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Aki ma elutasítja a politikai részvételt, nem csak él, hanem visszaél a kiváltságaival
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi>
+     Az alábbi szöveg A Város Mindenkié csoport szervezésében létrejött
+     9. Lakásmeneten
+     hangzott el.
+    </hi>
+   </p>
+   <p>
+    Kedves barátaim!
+   </p>
+   <p>
+    A Város Mindenkié csoportban a kilakoltatások megakadályozása érdekében végzett munkánkat koordinálom, utcai szociális munkásként pedig hajléktalan emberekkel dolgozom. Közelről látom, hogy mit tesz az egy családdal, mit tesz az egy ember életével, ha nincsen biztos otthona, ha attól kell rettegnie, hogy elveszíti az otthonát, vagy már semmilyen otthona nincsen.
+   </p>
+   <p>
+    Túl sokszor láttam annak a folyamatnak az elejét is, a végét és a következményeit is, amelynek során emberek hajléktalanná válnak, mert
+    <hi rend="italic">
+     hagyjuk
+    </hi>
+    , hogy hajléktalanná
+    <hi rend="italic">
+     tegyék
+    </hi>
+    őket – gyakran közvetlenül azok az önkormányzatok, amelyeknek törvénybe foglalt kötelezettsége a hajléktalanná válás megelőzésének a biztosítása.
+   </p>
+   <p>
+    A biztos otthon hiánya:
+    <hi rend="italic">
+     jogfosztás
+    </hi>
+    , ami mérhetetlen szenvedést okoz.
+   </p>
+   <p>
+    Arra az idős budafoki úrra gondolok, akit nemrégiben a lakásmaffia módszereihez hasonló eszközökkel tett hajléktalanná Budafok-Tétény önkormányzata. Ennek megakadályozásában a családsegítő szolgálat nem csak hogy nem segített neki – az önkormányzatnak segített abban, hogy hajléktalanná tegye őt. Az önkormányzat azóta sem engedi vissza a 22 négyzetméteres otthonába, hogy kiderült, már a bérleti szerződését is törvénysértő módon mondták fel. Ez az idős budafoki úr azt mondta, hogy amióta kitették az otthonából, úgy érzi: ő egy senki.
+   </p>
+   <p>
+    Arra a családra gondolok, akiket törvénysértő módon lakoltattak ki az elárverezett otthonukból, miután azzal fenyegették meg őket, hogy „elvitetik a gyerekeket állami gondozásba”, és ahol a gyerekeket az iskolában azzal csúfolták, hogy hajléktalanok és csövesek lesznek. Arra az idős asszonyra, akit a fia betegsége miatt tett ki az önkormányzat abból a lakásból, ahol évtizedek óta lakott, és aki utána hónapokig ugyanabban a bérházban aludt, a kukák mellett, a lépcsőházban.
+   </p>
+   <p>
+    Arra a nőre gondolok, aki hiába próbál cserelakást kérni az önkormányzattól, pedig két gyermeke évek óta asztmás a nedves és penészes falaktól, egyiküknek pedig pszichiáterhez kell járnia azóta, hogy az önkormányzat majdnem kilakoltatta őket. Arra a nyugdíjas, tartósan beteg házaspárra, akiket az önkormányzat tett utcára  – az idős nő emiatt öngyilkos akart lenni, ezért pszichiátriára vitték, a férjét pedig egy utcán élő embereknek fenntartott éjjeli menedékhelyre.
+   </p>
+   <p>
+    Szomorú történetek, nem igaz? Nagyon sok hasonló – és hasonlóan szomorú – történetet tudnék még felidézni.
+   </p>
+   <p rend="head">
+    Az a helyzet azonban, hogy ezeknek az embereknek nem lesz jobb attól, ha sajnáljátok őket. Ugyanis nem sajnálatra van szükségük, meg leereszkedő jótékonyságra, meg esetleges méltányosságra, könyörületre meg segélyekre, hanem szolidaritásra. Szociális jogokra és egyenlősítő újraelosztásra. A kirívó gazdagság és a nyomor ugyanis ok-okozati összefüggésben állnak egymással.
+   </p>
+   <p>
+    <hi rend="italic">
+     Társadalmi
+    </hi>
+    problémákra
+    <hi rend="italic">
+     társadalompolitikai
+    </hi>
+    – vagyis politikai – válaszokat kell adnunk.
+   </p>
+   <p>
+    Fotó: Mérce.
+   </p>
+   <p>
+    A politika elutasítása egy kiváltságos álláspont: az engedheti meg magának, akit nem taszít nyomorba, nem nyomorít meg és nem nyom el a politika; akinek nem kell penészes, túlzsúfolt lakásban nyomorogva végig élnie az életét, akinél nem kapcsolják ki az áramot, és akit nem raknak ki az otthonából
+    <hi rend="italic">
+     annak közvetett, de egyenes következményeként
+    </hi>
+    , hogy az uralmon lévők – a kiváltságosok hallgatólagos beleegyezésével
+    <hi rend="italic">
+     –
+    </hi>
+    milyen politikai döntéseket hoznak.
+   </p>
+   <p>
+    Aki elutasítja a politikai részvételt, nem csak él, hanem
+    <hi rend="italic">
+     visszaél
+    </hi>
+    a kiváltságaival: magára hagyja, cserben hagyja azokat, akiknek, társadalompolitikai – vagyis: politikai – változások nélkül a mai Magyarországon esélyük sincsen rá, hogy biztonságban, egészségben, szabadon és méltósággal élhessék az életüket.
+   </p>
+   <p>
+    A lakhatás pedig a biztonság, az egészség, a szabadság és a méltóság egyik legfontosabb előfeltétele. Ha tehát azt akarjuk – és
+    <hi rend="italic">
+     azt akarjuk –
+    </hi>
+    , hogy mindannyian biztonságban, a kiszolgáltatott, alárendelt, kiszolgáltatott társadalmi helyzetünkbe nem belebetegedve, szabadon és méltósággal élhessünk, akkor helyre kell hoznunk mindazt a pusztítást, felelőtlenséget és mulasztást, amit a politikai uralkodó osztály a lakhatás területén – nem csak 2010, hanem a rendszerváltás óta – elkövetett.
+   </p>
+   <p>
+    Ehhez pedig, mindenekelőtt a következő alapvető igazságok kimondására, egyértelművé tételére, képviseletére, kiküzdésére és érvényre juttatására van szükség:
+   </p>
+   <list>
+    <item>
+     A lakhatás nem kiváltság, nem kegy, de nem is csupán árucikk, hanem alapvető emberi jog.
+    </item>
+    <item>
+     A lakhatás nem magánügy, hanem közügy, amellyel kapcsolatban az államnak – a rendvédelemhez, az oktatáshoz vagy az egészségügyhöz hasonlóan –
+     <hi rend="italic">
+      felelőssége
+     </hi>
+     és
+     <hi rend="italic">
+      feladata
+     </hi>
+     van.
+    </item>
+    <item>
+     Az államnak nem a magasabb jövedelmű, vagyonosabb társadalmi rétegek, és főleg nem a gazdag kormánypárti politikusok és azok gazdag rokonainak a lakhatását kell támogatnia, hanem azokét, akiknek erre szükségük van.
+    </item>
+   </list>
+   <p>
+    Erre tekintettel követeljük, hogy a kormány és az önkormányzatok
+   </p>
+   <list>
+    <item>
+     vizsgálják felül a lakástámogatások jelenlegi, szándékosan igazságtalan rendszerét;
+    </item>
+    <item>
+     fejlesszék és bővítsék a támogatott bérlakás-szektort;
+    </item>
+    <item>
+     vezessenek be egy olyan lakásfenntartási támogatást, ami lehetővé teszi, hogy az alacsonyabb jövedelműek is tudjanak, és
+     <hi rend="italic">
+      anélkül
+     </hi>
+     tudjanak lakni valahol, hogy a rezsi és a lakbér a jövedelmük aránytalanul nagy részét felemésztené;
+    </item>
+    <item>
+     biztosítsák a jog uralmát a magánbérleti szektorban, lépjenek föl a gyermekes családokat, a cigány magyarokat, valamint a szexuális kisebbségeket sújtó hátrányos megkülönböztetés ellen, és szabjanak gátat a lakbérek szélsőséges mértékű emelkedésének;
+    </item>
+    <item>
+     nyújtsanak hathatós védelmet a családon belüli erőszakkal szemben, ami az egyik legfontosabb oka a nők hajléktalanná válásának;
+    </item>
+    <item>
+     egyszer és mindenkorra számolják fel az elhelyezés nélküli kilakoltatások kegyetlen gyakorlatát; és
+    </item>
+    <item>
+     azt a kegyetlen gyakorlatot is, amelynek során kizárólag a szegénységük miatt választanak el gyermekeket a családjuktól;
+    </item>
+    <item>
+     a hajléktalanságot ne betiltsák, hanem megelőzzék, az utcán élést pedig ne üldözzék, hanem tegyék szükségtelenné!
+    </item>
+   </list>
+   <p>
+    Mindennek a valóra váltása túlmutat az önkormányzati politika mozgásterén. Mégis,
+    <hi rend="italic">
+     ez is
+    </hi>
+    a tétje a jövő vasárnapi választásoknak – és nem állunk olyan jól, hogy akár csak egyetlen részeredményről is lemondhassunk; még akkor sem, ha a feladat több ennél.
+   </p>
+   <p>
+    Lakhatást, demokráciát, jogállamot!
+   </p>
+   <p>
+    Éljen a köztársaság!
+   </p>
+  </body>
+ </text>
+</TEI>

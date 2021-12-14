@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fideszesek nem akartak vitatkozni a magyar tudomány helyzetéről az MTA elnökével, úgyhogy hazaküldték inkább
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     26b7d770-6694-52cc-8ef5-23a92226c968
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A fideszesek nem akartak vitatkozni a magyar tudomány helyzetéről az MTA elnökével, úgyhogy hazaküldték inkább
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-06-05T17:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/06/05/a-fideszesek-nem-akartak-vitatkozni-a-magyar-tudomany-helyzeterol-az-mta-elnokevel-ugyhogy-hazakuldtek-inkabb/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/06/05/a-fideszesek-nem-akartak-vitatkozni-a-magyar-tudomany-helyzeterol-az-mta-elnokevel-ugyhogy-hazakuldtek-inkabb/
+     </sch:url>
+     <sch:name>
+      A fideszesek nem akartak vitatkozni a magyar tudomány helyzetéről az MTA elnökével, úgyhogy hazaküldték inkább
+     </sch:name>
+     <sch:datePublished>
+      2019-06-05T17:24:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      MTA
+     </sch:keywords>
+     <sch:keywords>
+      palkovics lászló
+     </sch:keywords>
+     <sch:keywords>
+      itm
+     </sch:keywords>
+     <sch:keywords>
+      Lovász László
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="26b7d770-6694-52cc-8ef5-23a92226c968">
+     <sch:identifier>
+      urn:uuid:c18253fc-a558-4d29-a3ab-741922069cf1
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.236717
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:38:46.946113
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="26b7d770-6694-52cc-8ef5-23a92226c968" when="2021-12-14T15:30:45.236717">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A fideszesek nem akartak vitatkozni a magyar tudomány helyzetéről az MTA elnökével, úgyhogy hazaküldték inkább
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Lovász László, a kutatóhálózatától várható hamarosan kényszerűségből megváló Magyar Tudományos Akadémia elnöke is meghívást kapott az Országgyűlés Kulturális Bizottságának ülésére, ám sok köszönet nem volt abban, hogy a professzor ellátogatott a Parlamentbe: a bizottság kormánypárti tagjai ugyanis leszavazták az
+    <hi>
+     MTA munkájáról és a magyar tudomány általános helyzetéről 2015-2016
+    </hi>
+    címmel benyújtott beszámoló megvitatását.
+   </p>
+   <p>
+    A Népszava beszámolója szerint
+    az ülés elején Lovász rövid összefoglalót tartott a beszámolóról; szerinte az eredmények, következtetések is bizonyítják, hogy a magyar tudomány európai szinten elismert, támogatott és tiszteletben tartott. Arra is kitért, hogy az Európai Kutatási Tanács által kiírt pályázatok durván felét is rendszerint magyar tudósok nyerik meg. Az MTA kutatóintézet-hálózata pedig – a ráfordított összegekhez képest – Európa legjobbjai közé tartozik.
+   </p>
+   <p>
+    Lovász beszámolójára Cseresnyés Péter az Innovációs és Technológiai Minisztérium államtitkára reagált, aki kétségbe vonta az MTA beszámolójában szereplő számok hitelességét, majd a fideszes többség a napirendet is elnapolta. Cseresnyés arra hivatkozott, hogy a doktori fokozatot szerzők aránya nemhogy csökkent az elmúlt években, hanem éppen hogy nőtt az Oktatási Hivatal statisztikái szerint. Lovász erre azt felelte, hogy az egyetemi oktatási adatok a felvi.hu-ról származnak, és nem ők tehetnek arról, ha ezek nem egyeznek az Oktatási Hivatal adataival.
+   </p>
+   <p>
+    Az ülésen jelenlévő ellenzéki képviselő, Szabó Szabolcs szerint Lovászt megalázták azzal, hogy elnapolják a beszámolóról szóló vitát, miután meghívták a professzort a Parlamentbe.
+   </p>
+   <p>
+    Mint ismert, az akadémiai dolgozók, illetve az MTA közgyűlésének határozott
+    állásfoglalása
+    ellenére a kormány kétharmados többséggel venné el és államosítaná végül az MTA-tól a kutatóhálózatát, valamint
+    tegnap az is kiderült
+    , hogy a jövő évi költségvetésben már nem is szerepel a kutatóhálózatra vonatkozó fejezet.
+   </p>
+   <p>
+    A kiszervezésről szóló, Palkovics László által jegyzett tervezet
+    kedden éjszaka meg is jelent
+    a parlament honlapján.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (19:40):
+    </hi>
+    Az MTA közleményben reagált szerdai történésekre:
+   </p>
+   <p>
+    Mint írják, a szóban forgó beszámolót
+    <hi>
+     „az MTA 2018. február 21-én, azaz közel másfél éve nyújtotta be az Országgyűlésnek, a dokumentum azóta az mta.hu oldalon is teljes egészében elérhető minden érdeklődő számára.
+    </hi>
+   </p>
+   <p>
+    <hi>
+     A beszámolóhoz a Kormány a korábbiakban semmilyen észrevételt nem tett. Nem jeleztek semmilyen kifogást a Kormány azon képviselői sem, akik az anyagot részleteiben is tárgyaló, az akadémiai kutatóhálózat szakmai felügyeletét a Kormány képviselőivel együtt ellátó Akadémiai Kutatóintézetek Tanácsa ülésén vettek részt.
+    </hi>
+   </p>
+   <p>
+    <hi>
+     Mindezek után legalábbis furcsa, hogy a Kormány képviselője a bizottsági ülésen az országgyűlési beszámolóban szereplő adatok sorát kérdőjelezte meg. Az MTA eddig is kész lett volna és a jövőben is kész a Kormány szakmai kifogásaira választ adni, amennyiben ezekről tudomással bír”
+    </hi>
+    – írja
+    honlapján
+    az Akadémia.
+   </p>
+  </body>
+ </text>
+</TEI>

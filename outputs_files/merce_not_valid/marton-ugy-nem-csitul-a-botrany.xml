@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marton-ügy: nem csitul a botrány
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d6af4e46-7df8-506d-a0d1-99d17f62aa5b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Marton-ügy: nem csitul a botrány
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-10-25T07:46:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/10/25/marton-ugy-nem-csitul-a-botrany/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/10/25/marton-ugy-nem-csitul-a-botrany/
+     </sch:url>
+     <sch:name>
+      Marton-ügy: nem csitul a botrány
+     </sch:name>
+     <sch:datePublished>
+      2017-10-25T07:46:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      metoo
+     </sch:keywords>
+     <sch:keywords>
+      zaklatás
+     </sch:keywords>
+     <sch:keywords>
+      marton_lászló
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d6af4e46-7df8-506d-a0d1-99d17f62aa5b">
+     <sch:identifier>
+      urn:uuid:ac7da819-78b6-4e18-b7ad-71d7d2de4932
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:05.642902
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:33:48.192881
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d6af4e46-7df8-506d-a0d1-99d17f62aa5b" when="2021-12-14T15:35:05.642902">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Marton-ügy: nem csitul a botrány
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Olyan iramban pörögnek az események Marton László zaklatási ügyeivel kapcsolatban, hogy könnyű elveszíteni a fonalat. Összeszedtük, mi történt tegnap.
+   </p>
+   <p>
+    Kedd reggelre Radnóti Zsuzsa dramaturg mellett Kornis Mihály író is kiállt a rendező mellett, érvként szakmai múltját, eredményeit emlegetve fel (hogy ez miért probléma, és miért nem írhatja felül egy ember cselekedeteit az, hogy szakmai múltja van, arról
+    itt írtunk bővebben
+    ). Kornis egyébként így írt Martonról:
+   </p>
+   <p>
+    „Ha Ő valami rosszat tett – nem tudom, lehet, az más kérdés – ez sem tiporhatja a sárba egy 75 éves nagy színházi ember életének minden eredményét. Bennem Marton László ifjúkorától embermentőként s ennyiben makulátlan férfiként él, amíg élek.”
+   </p>
+   <p rend="head">
+    Eközben azonban tegnapra már
+    8-ra nőtt
+    azon nők száma, akik nyilvánosság előtt is vallottak arról, mit tett velük Marton.
+   </p>
+   <p>
+    A Kornis által csak makulátlannak titulált Marton továbbra sem szólalt meg az ügyben, illetve a nyilvánosság elől is eltűnt. A Vígszínházba nem ment be a botrány kezdete óta – és valószínűleg már nem is nagyon látják majd arrafele, lefújták ugyanis A vadkacsát, azt az előadást, amit éppen rendezett. A Vígszínház viszont végre érdemben is megszólalt, hivatalos állásfoglalásukban kiálltak az áldozatok mellett, és elítéltek minden hasonló cselekményt. Emellett a Vígszínház csatlakozik a Független Előadó-művészeti Szövetség kezdeményezéséhez, és aktívan részt vesz „a hatalommal való visszaélések és a szexuális zaklatások megelőzését célzó közös munkában”.
+   </p>
+   <p>
+    Eszenyi Enikő pedig
+    külön levelet
+    küldött a színház bérleteseinek, ebben azt írta, 35 éve dolgozik a Vígszínházban, de ennyi idő alatt nem értesült ilyen és hasonló esetekről.
+   </p>
+   <p>
+    Miután egyre többen határolódnak el Martontól, az őt szexuális zaklatással vádoló áldozatok száma pedig egyre nő, talán nem meglepő, hogy a hírek szerint a rendező mégsem indít pert a történetével először a nyilvánosság elé álló Sárosdi Lilla ellen (pedig eddigi egyetlen, másfél soros megnyilvánulásában még ezzel fenyegetőzött).
+   </p>
+   <p>
+    Csakhogy miközben Marton körül fogy a levegő, egyre többen érzik úgy, hogy meg kell szólalniuk az ügyben. Bár ne tennék!
+   </p>
+   <p>
+    Stohl András például a létező összes, áldozathibáztató és sztereotip közhelyet elsütötte egyetlen adásban – röpködtek a Class FM műsorában a „hát neked állandóan megfogom a válladat, a fenekedet” meg a „nem kell beülni ebbe az autóba” kitételek, és bár a felvétel ugyan korábbi, mostanra viszont elérhetetlenné vált. (Hogy hányféle probléma van Stohl kijelentéseivel, arról
+    itt írtunk
+    ). Ma reggelre kelve viszont a színész gyakorolt némi önkritikát, és közölte: „Én is, Stohl András és az egész Morning Show stábja – mindenki, szerkesztőstül, mérnököstül, technikustól, PR-ostul – messzemenően elítéli a nőkkel szembeni erőszakot, bántalmazást. És ez a legtermészetesebb dolog.”
+   </p>
+   <p>
+    És mindeközben az ügy kezd átgyűrűzni más területekre is: Falcsik Mari költő saját, 27 évvel ezelőtti
+    traumájáról vallott
+    a Facebookon, őt 18 évesen egy egyetemi tanára, egy azóta már elhunyt irodalomtörténész professzor bántalmazta az ELTÉ-n.  Falcsik története egyébként annyiban tipikus(an szomorú), hogy miután előállt a saját történetével, bejegyzése alatt számtalan támadás érte: „olyan választ is kaptam, hogy ha ez, amit kivallottam, valóban megtörtént volna, akkor már régen fel kellett volna dolgoznom a verseimben, de ha ezt nem tettem, nyilván hazugság az egész”, és ehhez hasonló inzultusok lepték el a Facebook-falát.
+   </p>
+   <p>
+    Vasárnap megírtuk
+    , hogy a Magyar Távirati Iroda egyetlen egyszer sem tett említést a botrány kezdete óta sem Sárosdi Lilláról, sem Marton Lászlóról és a szexuális zaklatásról. Nos, ez a szomorú statisztikai adat tegnap némileg változott. Immár van hír az MTI-n Marton Lászlóról, egy darab: Fodor Gábor, a Liberálisok elnöke tartott tegnap egy sajtótájékoztatót, ahol valamiért erről az ügyről is kérdezték. Az MTI így tudósít erről:
+    „Marton László rendező ügyéről kérdésre felelve azt mondta, a leghatározottabban elítél mindenféle hatalommal való visszaélést és erőszakot. Hozzátette, bátrak volt a nyilvánosság elé lépő nők, a vitát pedig társadalmilag hasznosnak tartja, mert az ilyen ügyekről beszélni kell.” És míg Martonnak legalább sikerült bekerülnie egy sajtótájékoztató leírásának lábjegyzetébe, Sárosdi Lillával, illetve az egész országot foglalkoztató hazai zaklatási üggyel a távirati iroda továbbra sem foglalkozik.
+   </p>
+  </body>
+ </text>
+</TEI>

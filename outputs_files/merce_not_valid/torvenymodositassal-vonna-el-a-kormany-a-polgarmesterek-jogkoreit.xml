@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karácsony Gergely: Ez most nem egy katonai, hanem egészségügyi, szociális és gazdasági válság
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5f9549c7-9d2f-59d0-aefc-b5c67ae2efd5
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Karácsony Gergely: Ez most nem egy katonai, hanem egészségügyi, szociális és gazdasági válság
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-04-01T10:07:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/04/01/torvenymodositassal-vonna-el-a-kormany-a-polgarmesterek-jogkoreit/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/04/01/torvenymodositassal-vonna-el-a-kormany-a-polgarmesterek-jogkoreit/
+     </sch:url>
+     <sch:name>
+      Karácsony Gergely: Ez most nem egy katonai, hanem egészségügyi, szociális és gazdasági válság
+     </sch:name>
+     <sch:datePublished>
+      2020-04-01T10:07:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      veszélyhelyzet
+     </sch:keywords>
+     <sch:keywords>
+      törvénymódosítás
+     </sch:keywords>
+     <sch:keywords>
+      semjén zsolt
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5f9549c7-9d2f-59d0-aefc-b5c67ae2efd5">
+     <sch:identifier>
+      urn:uuid:bc07bfe2-e1e8-4424-ba3c-2f895027abd2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:05.754637
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:10:38.104619
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5f9549c7-9d2f-59d0-aefc-b5c67ae2efd5" when="2021-12-14T15:31:05.754637">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Karácsony Gergely: Ez most nem egy katonai, hanem egészségügyi, szociális és gazdasági válság
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     FRISSÍTÉS:
+    </hi>
+   </p>
+   <p>
+    Karácsony Gergely, Budapest főpolgármestere Facebook-posztban reagált arra a törvénymódosító javaslatra, amellyel a kormány elvonná a polgármesterek döntési jogköreit, és helyettük a védelmi bizottságra ruházná azokat.
+   </p>
+   <p>
+    Karácsony ezzel kapcsolatban úgy fogalmazott:
+   </p>
+   <p>
+    „A parlament elé terjesztett kormányjavaslat arról szól, hogy a közvetlen választói legitimációval rendelkező polgármesterek helyett a zömében rendőrökből, katonákból, olykor pártkatonákból álló védelmi bizottságok hozhatnak döntéseket. Sok baj van ezzel a javaslattal, de leginkább az, hogy emberek egészsége és élete múlhat rajta. Márpedig nincs az a hatalmi akarat, ami többet érne az emberéletnél.”
+   </p>
+   <p>
+    A főpolgármester emlékeztetett arra is, hogy „békeidőben” a főváros és  a kerületek egy hónapban körülbelül 2-3 ezer határozatot hoznak, a veszélyhelyzet idején azonban ezek azonnali, gyors döntési helyzetekkel egészülnek ki, amelyek a kerületi egészségügyi ellátásra, idősgondozásra, szociális válsághelyzetek kezelésére, vagy akár a hajléktalan-ellátásra vonatkoznak. Karácsony ezzel kapcsolatban leszögezte:
+   </p>
+   <p>
+    „Most nem napok, hanem órák, néha percek alatt kell reagálni. Ezt a felelősséget a választók októberben a polgármesterekre bízták. A veszélyhelyzet nem lehet ürügy a választói akarat leradírozására. El nem tudom képzelni, hogyan lenne képes felelősen mérlegelni például egy kerületi szociális helyzet kezelését a szakmájában mégoly képzett katonatiszt, rendőrtiszt, vagy tűzoltó.”
+   </p>
+   <p>
+    A főpolgármester nonszensznek nevezte, hogy a kormány ebben a munkában feladatokat szabott ugyan, de pénzügyi támogatást eddig semmilyen formában nem adott az önkormányzatoknak. Pedig – mint arra Karácsony emlékeztetett – a megnövekedett és hatalmas felelősséget jelentő feladataikat egyre csökkenő bevételekből kell ellátniuk.
+   </p>
+   <p>
+    A főpolgármester azzal zárta sorait:
+   </p>
+   <p>
+    „Ez most nem egy katonai, hanem egészségügyi, szociális és gazdasági válság, amelynek kezelésében a választói legitimációval, egyben helyismerettel rendelkező önkormányzatok és polgármesterek kiemelt szerepet kell kapjanak. Mi pont azt akarjuk, amit éjjel-nappal minden csatornán a polgároktól kérünk: együttműködést. Ha a mindennél fontosabból, a ránk bízott településeken élők egészségének és életének védelméből indulunk ki, nem lehet más út, csakis ennek a kormányjavaslatnak a visszavonása.”
+   </p>
+   <p>
+    A teljes poszt itt olvasható:
+   </p>
+   <p>
+    <hi rend="bold">
+     Mint korábban írtuk:
+    </hi>
+   </p>
+   <p>
+    Hétfőn fogadta el az Országgyűlési
+    a felhatalmazási törvényt
+    , ami alapból is elég nagy teret ad a kormánynak arra, hogy rendeleti úton irányítsa az országot
+    <hi>
+     határozott időkorlát nélkül
+    </hi>
+    .
+   </p>
+   <p>
+    Március 31-én (vagyis tegnap) este 23 óra 38 perckor viszont Semjén Zsolt miniszerelnök-helyettes benyújtotta az
+    <hi>
+     Egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról
+    </hi>
+    című
+    törvényjavaslatot
+    , ami egy sor módosítást tartalmaz, és amelyek közt akad olyan, ami még tovább növelné a kormány hatáskörét a veszélyhelyzet idején.
+   </p>
+   <p>
+    A javaslat ugyanis módosítaná a
+    katasztrófavédelmi törvényt
+    is, méghozzá az alábbi módon:
+   </p>
+   <p>
+    (1) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 46. §-a a következő (4a) bekezdéssel egészül ki:
+   </p>
+   <p>
+    „(4a) A polgármester, a főpolgármester, illetve a megyei közgyűlés elnöke (4) bekezdés szerinti döntéséhez szükséges a megyei, fővárosi védelmi bizottság előzetes jóváhagyása. A megyei, fővárosi védelmi bizottság az előzetes jóváhagyás tekintetében a döntési javaslat beérkezését követő 5 napon belül köteles dönteni, amely határidő jogvesztőnek minősül.”
+   </p>
+   <p>
+    Ami lényegében annyit tesz, hogy a kormány a törvénymódosítással kiveszi a demokratikus úton megválasztott polgármesterek és főpolgármester kezéből a döntési jogköröket, és azokat a védelmi bizottságra ruházza. Arra a védelmi bizottságra, ami leginkább kormányhivatalok (jellemzően fideszes) vezetőiből, illetve honvédségi, katasztrófavédelmi és a rendvédelmi szervek vezetőiből áll.
+   </p>
+   <p>
+    A módosítás tehát tulajdonképpen bármilyen, a polgármesterek által meghozandó döntés esetében kötelezővé teszi, hogy azt a védelmi bizottság hagyja jóvá. Amire van öt napjuk, vagyis amíg áldásukat nem adják rá, addig az intézkedés csak áll, és nem történik semmi. Mindezt ugyebár veszélyhelyzetben.
+   </p>
+   <p>
+    Eredetileg egyébként az állt a törvényben:
+   </p>
+   <p>
+    veszélyhelyzetben a települési önkormányzat képviselő-testületének, a fővárosi, megyei közgyűlésnek feladat- és hatáskörét a polgármester, illetve a főpolgármester, a megyei közgyűlés elnöke gyakorolja. Ennek keretében nem foglalhat állást önkormányzati intézmény átszervezéséről, megszüntetéséről, ellátási, szolgáltatási körzeteiről, ha a szolgáltatás a települést is érinti.
+   </p>
+   <p>
+    Ez az a passzus, amire hivatkozva több városban, ahol a fideszes városvezető ellenzéki többségű közgyűléssel volt kénytelen együtt dolgozni, a törvény adta lehetőséggel élve a közgyűlések jogkörét gyakorló polgármester
+    <hi>
+     érdekes
+    </hi>
+    intézkedéseket hozott.
+   </p>
+   <p>
+    Emlékezetes a
+    nagykanizsai polgármester esete
+    , aki a veszélyhelyzetre hivatkozva egymaga nevezte ki a szintén fideszes alpolgármestert, visszahívta a tanácsnokokat és csökkentette a képviselők tiszteletdíját. Komló polgármestere, Polics József pedig a költségvetést fogadta el egymaga, emellett lenullázta a képviselők fizetését is a veszélyhelyzet végéig, és lefújta a helyi média üzemeltetésére és helyi kommunikációs feladatokra szóló tervezett döntést is, mondván, arra majd pályázatot írnak ki. A szekszárdi polgármester, Ács Rezső szintén egymaga bólintott rá a költségvetésre, ő emellett a megszüntetett polgármesteri kabinet visszaállításáról is döntött, valamint kijelentette, visszaveszik a városi lapot a vagyonkezelőtől, állítása szerint a járvány idején folytatott tájékoztatás végett.
+   </p>
+   <p>
+    A mostani módosítás azonban az ellenzéki polgármesterek, és Karácsony Gergely főpolgármester kezét is megköti, vagyis újabb lehetőséget ad a kormánynak arra, hogy felülbíráljon egyes intézkedéseket.
+   </p>
+   <p>
+    És ha már Karácsony Gergely és Budapest: a Semjén által benyújtott salátatörvényben a Városliget is megjelenik. Nem is akárhogy. Kiemelten közérdekű beruházásnak minősíti azt – vagyis a főpolgármester feje felett átnyúlva folytatódhat a kormányzati építkezés, mintha mi sem történt volna.
+   </p>
+   <p>
+    A katasztrófavédelmi törvény módosítása egyébként sarkalatosnak minősül, ezért elfogadásához a jelen lévő országgyűlési képviselők kétharmadának
+    <hi>
+     igen
+    </hi>
+    szavazata szükséges. Nagy meglepetésre ne számítson senki.
+   </p>
+   <p>
+    Gy. Németh Erzsébet, Budapest humán területekért felelős főpolgármester-helyettese a következőképp kommentálta a javaslatot:
+   </p>
+   <p>
+    „Egy napot bírtak ki, és máris visszaélnek a hatalmukkal! Benyújtottak egy „saláta”törvényt, amiben gyámság alá helyezik a (fő)polgármestereket. Ezentúl csak a fideszes kormányhivatali vezetők jóváhagyásával hozhatnak bármilyen döntést a településük érdekében.”
+   </p>
+  </body>
+ </text>
+</TEI>

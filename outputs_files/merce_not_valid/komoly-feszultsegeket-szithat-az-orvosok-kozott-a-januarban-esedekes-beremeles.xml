@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Komoly feszültségeket szíthat az orvosok között a januárban esedékes béremelés
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6e671e85-b8ce-506d-bbb0-f0b6e001aca5
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Komoly feszültségeket szíthat az orvosok között a januárban esedékes béremelés
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-12-30T16:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/12/30/komoly-feszultsegeket-szithat-az-orvosok-kozott-a-januarban-esedekes-beremeles/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/12/30/komoly-feszultsegeket-szithat-az-orvosok-kozott-a-januarban-esedekes-beremeles/
+     </sch:url>
+     <sch:name>
+      Komoly feszültségeket szíthat az orvosok között a januárban esedékes béremelés
+     </sch:name>
+     <sch:datePublished>
+      2020-12-30T16:51:00
+     </sch:datePublished>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      orvos
+     </sch:keywords>
+     <sch:keywords>
+      háziorvos
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6e671e85-b8ce-506d-bbb0-f0b6e001aca5">
+     <sch:identifier>
+      urn:uuid:73e77566-c222-4519-accb-66b0c3e0ec01
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:03.371593
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:31:48.918794
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6e671e85-b8ce-506d-bbb0-f0b6e001aca5" when="2021-12-14T15:31:03.371593">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Komoly feszültségeket szíthat az orvosok között a januárban esedékes béremelés
+   </head>
+   <p>
+    Az egészségügy átalakítása kapcsán újabb feszültséget kelt az alapellátó praxisban dolgozó orvosok körében a januárban esedékes béremelés,
+    írja a Népszava
+    . Azt, hogy pontosan mikortól és mennyi béremelést kapnak, még nincsenek pontos információik, de félnek, hogy a szabályozás miatt sokan kimaradnak.
+   </p>
+   <p>
+    A lap szerint az érintettek úgy tudják, hogy nem csak az önkormányzatok alkalmazásában álló háziorvosok, hanem a praxistulajdonos vállalkozók is megkapják a januártól érvényes, magasabb szakorvosi bért. Viszont amíg előbbiekre érvényesek lesznek az új, szolgálati jogviszonnyal járó kötelezettségek is (vezényelhetőek lesznek, csak engedéllyel vállalhatnak másodállást), addig a másik csoportra ezek nem vonatkoznak, ráadásul a hálapénz tilalmán és az adatközlési kötelezettségen kívül plusz terhet nem rónak rájuk.
+   </p>
+   <p rend="head">
+    Az alapellátóknak járó összeg szétosztásáról még így, évvégén sem jött ki a végrehajtási utasítás, ám ha az úgy jelenik meg, ahogyan azt az érintettek most várják, akkor még nagyobb feszültséget fog kelteni a „szabadnak” gondolt vállalkozási formában dolgozó, és a „katonaként szolgáló”alkalmazott orvosok között.
+   </p>
+   <p>
+    „Súlyos felháborodás van ezzel kapcsolatban a háziorvosok között. Komoly akciókra kell számítani, ki kell kényszeríteni, hogy minden orvos a kamarai bértáblának megfelelő bért megkaphassa. Nem tartható, hogy a háziorvosok, fogorvosok és házi gyermekorvosok hátrányt szenvedjenek pusztán azért, mert nem állami vagy önkormányzati alkalmazottak, hanem vállalkozók”
+   </p>
+   <p>
+    -nyilatkozta dr. Soós Zoltán, a Magyar Orvosi Kamara (MOK) háziorvosi csoportjának vezetője
+    tegnap a Blikknek
+    .
+   </p>
+   <p>
+    Az országban egyébként mintegy 5800 háziorvos dolgozik, körülbelül nyolc százalékuk alkalmazott, a többi orvos vállalkozó.
+   </p>
+   <p rend="head">
+    A legnagyobb bajban a fogorvosok vannak, ugyanis közülük csakis az alkalmazottként dolgozók kapnak többletpénzt a jövedelem mellé, tehát a közfinanszírozott alapellátó fogászatok 85 százaléka kimarad az orvosbér-emelésből. Az információt az EMMI megerősítette a lapnak.
+   </p>
+   <p>
+    A MOK ezzel kapcsolatban már november végén a szakminiszterhez és a belügyminisztériumhoz fordult, jelezve, hogy a fogászat ugyanúgy az alapellátás része, és egyben a legköltségesebb területe is. Bármilyen negatív megkülönböztetés azért elfogadhatatlan, mert ez a mindenki számára hozzáférhető közellátás működőképességét veszélyezteti, magánellátásba kényszerítve az orvosokat és a betegeket is, nem beszélve a jelenség súlyos népegészségügyi hatásairól.
+   </p>
+   <p>
+    Pedig nagy szükség lenne rá, hogy a háziorvosi hivatás valamiféleképpen vonzóvá váljon az egészségügyi pályát választók számára. Az üres praxisok problematikája régóta terheli a magyar egészségügyi ellátást, a kivándorlás és a háziorvosok magas átlagéletkora miatt évről évre több praxis marad betöltetlenül az alapellátásban. Ahogyan arról
+    mi is beszámoltunk
+    , jelenleg közel 720 embernek nincsen lakhelyéhez közel első háziorvosa és
+    több, mint 500 praxis betöltetlen
+    . Vélhetően erre a problémára kíván megoldást nyújtani az
+    a januárban életbe lépő rendeletmódosítás
+    , amely szerint a jövőben olyan orvosok is elláthatnak háziorvosi tevékenységet, akiknek még nincs meg ehhez a szakképesítése.
+   </p>
+  </body>
+ </text>
+</TEI>

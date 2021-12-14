@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Másfél év után sikerült egy szegedi LMBT szervezetnek visszajutnia az állami közösségi terekbe
+    </title>
+    <author>
+     <persName>
+      Csizmadia Benedek
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     361d44c4-0f5b-5bfa-a078-94415aead063
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Másfél év után sikerült egy szegedi LMBT szervezetnek visszajutnia az állami közösségi terekbe
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csizmadia Benedek
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-03-13T14:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/03/13/masfel-ev-utan-sikerult-egy-szegedi-lmbt-szervezetnek-visszajutnia-az-allami-kozossegi-terekbe/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/03/13/masfel-ev-utan-sikerult-egy-szegedi-lmbt-szervezetnek-visszajutnia-az-allami-kozossegi-terekbe/
+     </sch:url>
+     <sch:name>
+      Másfél év után sikerült egy szegedi LMBT szervezetnek visszajutnia az állami közösségi terekbe
+     </sch:name>
+     <sch:datePublished>
+      2019-03-13T14:50:00
+     </sch:datePublished>
+     <sch:author>
+      Csizmadia Benedek
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      bíróság
+     </sch:keywords>
+     <sch:keywords>
+      LMBTQ
+     </sch:keywords>
+     <sch:keywords>
+      szeged
+     </sch:keywords>
+     <sch:keywords>
+      egyenlőség
+     </sch:keywords>
+     <sch:keywords>
+      diszkrimináció
+     </sch:keywords>
+     <sch:keywords>
+      homoszexualitás
+     </sch:keywords>
+     <sch:keywords>
+      civil szervezetek
+     </sch:keywords>
+     <sch:keywords>
+      háttér társaság
+     </sch:keywords>
+     <sch:keywords>
+      fidelitas
+     </sch:keywords>
+     <sch:keywords>
+      egyenlő bánásmód hatóság
+     </sch:keywords>
+     <sch:keywords>
+      fővárosi tőrvényszék
+     </sch:keywords>
+     <sch:keywords>
+      civil társadalom
+     </sch:keywords>
+     <sch:keywords>
+      új nemzedék központ
+     </sch:keywords>
+     <sch:keywords>
+      kitiltás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="361d44c4-0f5b-5bfa-a078-94415aead063">
+     <sch:identifier>
+      urn:uuid:1b0cc9d0-84d5-447c-ae93-cc8915d03d9d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:21.348647
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:27:56.591429
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="361d44c4-0f5b-5bfa-a078-94415aead063" when="2021-12-14T15:30:21.348647">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Másfél év után sikerült egy szegedi LMBT szervezetnek visszajutnia az állami közösségi terekbe
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Ismét összegyűlhetett a Szegedi LMBT Közösségért Csoport a város Új Nemzedék elnevezéssel illetett közösségi terében, miután az azokat működtető Új Nemzedék Központ Nonprofit Kft. (ÚNK) három és fél hónap késéssel eleget tett az erre utasító
+    bírósági döntésnek.
+    Az állami tulajdonú, de EU-s pénzből fenntartott cég 2017 novemberében politikai semlegességre való törekvéssel indokolva
+    tiltotta ki az LMBTQ-szervezeteket az ország összes ilyen helyéről.
+    Most, másfél év jogi küzdelem után a leginkább érintett szegedi szervezet közölte: a héten újra visszatérhettek a városi közösségi házba.
+   </p>
+   <p rend="head">
+    Politikai tevékenység
+   </p>
+   <p>
+    A Szegedi LMBT Közösségért Csoport
+    beszámolói szerint
+    a másfél évvel ezelőtti tiltást megelőzően jó viszonyt ápoltak a helyi intézménnyel. Áprilistól például azért választották állandó helyszínüknek az általuk működtetett közösségi teret, mert az kihelyezte ajtajára a szivárványszínű, „Biztonságos tér” feliratú matricát, ezzel nyilvánosan is kifejezve, hogy biztonságos és diszkriminációmentes környezetet kíván biztosítani az LMBTQ-emberek számára. Az intézmény honlapja szerint 2015-ben még „Antidiszkriminációs és esélyegyenlőségi képzés”-t is valósított meg a budapesti székhelyű, központi fenntartó.
+   </p>
+   <p>
+    Éppen ezért érte külön meglepetésként a szegedi szervezetet a hír 2017 novemberében, hogy munkatársaiknak közölték: a jövőben nem szervezhetnek a megszokott helyszínre közösségi programokat. A működtető szerint mivel ezek a szervezetek a pártokhoz hasonlóan politikai tevékenységet (is) végeznek, ezért hasonló bánásmódban kell, hogy részesüljenek.
+   </p>
+   <p>
+    „Sírva hívott fel minket a szegedi koordinátor, hogy ő ezzel nagyon nem ért egyet, de mostantól nem szervezhetünk több programot”
+   </p>
+   <p>
+    – emlékszik vissza Kiss Anna és Tari Ákos, a Szegedi LMBT Közösségért Csoport két tagja. „Még néhány hónapig próbálkoztunk lehetőleg konfliktus nélkül visszajutni, de semmi hajlandóság nem volt a részükről” – mondják. A helyszínre szervezett aznapi programokat át kellett helyeznie a csoportnak, miközben sajnálattal látták,
+   </p>
+   <p rend="head">
+    hogy a „Biztonságos tér” matricát is eltávolították a közösségi tér ajtajáról.
+   </p>
+   <p>
+    A csoport számára magától értetődő politizálás, mint az LMBT-embereket érintő közügyekbe való beleszólás olyan tevékenységekben nyilvánult meg, mint hogy „tüntetést szerveztek az azonos nemű párok házasságának népszerűsítését tiltó ásotthalmi rendelet ellen, meggyőzték az önkormányzatot, hogy a helyi esélyegyenlőségi programban a szexuális és nemi kisebbségek is szerepeljenek, valamint felszólaltak a civil szervezeteket érő támadások ellen.” – sorolta később a bíróságon őket képviselő Háttér Társaság.
+   </p>
+   <p rend="head">
+    Másfél év jogi küzdelem
+   </p>
+   <p>
+    Tavaly februárban a szegedi civil szervezet eljárást indított az Egyenlő Bánásmód Hatóság előtt az ügyben, ahol az aktivisták saját maguk vitték az ügyet és végezték a jogi képviseletet. Az ÚNK először eljáráson kívüli ajánlatokat tett a Szegedi LMBT Közösségért Csoportnak a későbbi együttműködésről, melyek azonban a szervezet szerint nem garantálták volna teljesen, hogy később ne legyenek visszaélések.
+   </p>
+   <p rend="head">
+    Júniusban
+    az EBH kimondta:
+    az ÚNK megsértette az egyenlő bánásmód követelményét, és a Szegedi LMBT Közösségért Csoporttal szemben a tagok szexuális irányultsága és politikai véleménye miatt közvetlen hátrányos megkülönböztetést valósított meg.
+   </p>
+   <p>
+    A hatóság megtiltotta a későbbi jogsértéseket és 100 ezer forint bírság, valamint 17 275 Ft eljárási költség megfizetésére kötelezte a működtetőt.
+   </p>
+   <p>
+    Az ÚNK azonban fellebbezett, így végül tavaly novemberben a Fővárosi Törvényszék
+    adott igazat
+    a szegedi szervezetet itt képviselő Háttér Társaságnak, miszerint
+    <hi rend="bold">
+     egy civil szervezettől nem várható el, hogy soha, semmilyen formában ne foglaljon állást politikai-közpolitikai kérdésekben.
+    </hi>
+   </p>
+   <p>
+    Az állami fenntartású intézmény azonban az elsőfokú bírósági ítéltet után sem akarta visszafogadni a civil szervezetet, így annak aktivistái demonstrációkkal és petíció indításával próbálták feloldani a tiltást és ugyanerre bátorították az országos korlátozásban részesült összes többi LMBTQ-csoportot.
+   </p>
+   <p>
+    „A kitartó küzdelemnek végül meglett az eredménye:
+    <hi rend="bold">
+     másfél év „kihagyás” után újra összegyűlhettünk a szegedi közösségi térben
+    </hi>
+    , hogy megvitassuk a csoportunk aktuális ügyeit. Ezúton is szeretnénk megköszönni mindenkinek, aki közreműködött abban, hogy ezt a sikert elérjük!”
+   </p>
+   <p>
+    – írja a Szegedi LMBT Közösségért Csoport
+    szerdai közleményükben.
+   </p>
+   <p rend="head">
+    A fideszes Új Nemzedék
+   </p>
+   <p>
+    Az Új Nemzedék Központok az ifjúság aktivizálására jöttek létre, a kormány által menedzselt Új Nemzedék programot az Európai Unió Európai Szociális Alapja támogatja. A politikai-ideológiai semlegességre való hivatkozás azért is tűnt ellentmondásosnak, mert a program végrehajtásáért és az országszerte működő közösségi terekért felelős Új Nemzedék Központ Nonprofit Kft.-t tavaly nyár óta
+    <hi rend="bold">
+     Vincze Géza, a Fidelitas alelnöke vezeti.
+    </hi>
+   </p>
+   <p>
+    A politikai-ideológiai ingerküszöböt pedig látszólag az sem ütötte meg, hogy a Szegedi LMBT Közösségért Csoport szerint „általános jelenség, hogy a közösségi terekben évről évre megrendezett „Rólad szól!” programsorozat keretében
+    <hi rend="bold">
+     kizárólag Fidesz-KDNP-s politikusokkal
+    </hi>
+    beszélgethetnek a fiatalok az őket érintő kérdésekről.”
+   </p>
+   <p>
+    Az intézménnyel kapcsolatos, enyhén szólva kétes közbeszerzési eljárásokról, valamint a Vincze Géza vezetése óta történő sorozatos felmondásokról többek között az
+    Index
+    és a
+    444
+    számolt be.
+   </p>
+  </body>
+ </text>
+</TEI>

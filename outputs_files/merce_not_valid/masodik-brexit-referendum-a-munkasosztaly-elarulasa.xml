@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Második Brexit-referendum: a munkásosztály elárulása
+    </title>
+    <author>
+     <persName>
+      Weiler Vilmos
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lebanov Barbara
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Császár Simon Gergely
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ab55e0ed-b437-54d1-a6da-0091cdae3ce3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Második Brexit-referendum: a munkásosztály elárulása
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Császár Simon Gergely
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lebanov Barbara
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Weiler Vilmos
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-25T22:42:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://balraat.merce.hu/2019/07/25/masodik-brexit-referendum-a-munkasosztaly-elarulasa/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://balraat.merce.hu/2019/07/25/masodik-brexit-referendum-a-munkasosztaly-elarulasa/
+     </sch:url>
+     <sch:name>
+      Második Brexit-referendum: a munkásosztály elárulása
+     </sch:name>
+     <sch:datePublished>
+      2019-07-25T22:42:00
+     </sch:datePublished>
+     <sch:author>
+      Weiler Vilmos
+     </sch:author>
+     <sch:author>
+      Lebanov Barbara
+     </sch:author>
+     <sch:author>
+      Császár Simon Gergely
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ab55e0ed-b437-54d1-a6da-0091cdae3ce3">
+     <sch:identifier>
+      urn:uuid:4bbc35c2-2d04-4485-9d05-4555e12d8f59
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:23.202064
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:39:21.243356
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ab55e0ed-b437-54d1-a6da-0091cdae3ce3" when="2021-12-14T15:30:23.202064">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Második Brexit-referendum: a munkásosztály elárulása
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A brit politika elmúlt három évét kétségkívül egyetlenegy téma határozta meg. A Brexit-népszavazás eredményének végrehajtásával, az EU-ból való kilépés mikéntjével a britek nem hogy dűlőre jutni nem tudnak, de még csak abban sem sikerült megegyezni, milyen tervet akarnak egyáltalán végrehajtani. Mert hiába született meg az érvényes eredmény arról, hogy az ország kilépjen az Unióból, a politikusok egy része nem akarja tiszteletben tartani az eredményt, a másik részük pedig ugyan kilépne, de nem tud megegyezni az Európai Unióval.
+   </p>
+   <p>
+    Theresa May bukását az okozta, hogy megpróbált egyensúlyozni a kemény és a puha brexit között. A puha brexit ugyanis azt jelentené, hogy a kilépési kampány ígéretei közül semmit nem tudnak betartani, s az ország csak jogilag kerül kívül az unión, s valójában nagyon kevés változik. A kemény Brexit viszont komoly gazdasági következményein kívül az északír konfliktus garantált újjászületését jelentené: a brit kormány annak idején úgy kötött békét az északír függetlenségiekkel, hogy garantálta a két ország közötti szabad átjárást.
+   </p>
+   <p>
+    Theresa May másfél éves tárgyalások után megszületett Brexit-megállapodása valamiféle középút volt a két koncepció között. Ez a kompromisszum azonban azzal járt, hogy a problémák jelentős részét szőnyeg alá söpörte. Ennek megfelelően az északír kérdésre pont az volt a „megoldás”, hogy később megegyeznek még az ügyben. S nem csak ebben a kérdésben kerülték a konfliktust: a gazdasági szabályozás terén is sok esetben olyan döntés született, amely a kemény brexiteseknek túl puha, a puha brexiteseknek túl kemény megoldás volt.
+   </p>
+   <p>
+    A választók ugyanakkor általában azért szavaznak a politikusokra, mert elvárják, hogy végrehajtsák a közös döntéseket. Ebben a szerencsétlenkedésben és örökös kompromisszumkeresésben a valamikori kilépés-párti tábor fokozatosan radikalizálódott és ma már egyértelműen a kemény brexit hívei vannak többségben. Nem véletlen a megegyezés nélküli brexittel kampányoló Nigel Farage EP-választásokon elért jó eredménye és a kemény brexit támogatójának számító Boris Johnson miniszterelnökké válása sem.
+   </p>
+   <p>
+    Az immár három éve tartó mizéria eredményeképpen aztán a másik oldal is radikalizálódott: miközben az Európa-pártiak a népszavazási vereségük után még arról beszéltek, hogy minél puhább brexitet szeretnének elérni, addig ma már inkább elvetnék a népszuverenitás elvét és megismételnék a referendumot. Ebben a polarizálódott közéletben se a nemrég megbukott Theresa Maynek, se a munkáspártot vezető Jeremy Corbynnak nem volt könnyű dolga, miközben egyszerre próbálták meg betarttatni a népszavazás eredményét és egyben tartani pártjaikat.
+   </p>
+   <p>
+    Jeremy Corbyn eredeti elképzeléseit tekintve inkább számít eurokritikusnak, mint pártja nagy része. Corbyn a nyolcvanas évektől az EU megreformálásról beszélt, s annak neoliberális intézményei helyett „
+    szocialista Európát
+    ” építene inkább. Ezen kívül – a népszuverenitás elve mentén – támogatja az egységes Írország létrehozását is, azaz lehetőséget biztosítana az északíreknek, hogy kiszakadjanak az Egyesült Királyságból és egyesüljenek az Ír Köztársasággal.
+   </p>
+   <p>
+    Corbyn eurokritikus nézetei ellenére pártja döntésének megfelelően az EU-ban való maradás mellett kampányolt.
+   </p>
+   <p rend="head">
+    Mikor aztán elbukták a népszavazást, a népszuverenitás elve mentén Corbyn a puha brexitet képviselte. Pártjának vezetése aztán, a liberális közvéleményhez hasonlóan, fokozatosan kihátrált mögüle, s egyre többen követeltek új népszavazást. Tették ezt annak ellenére, hogy a három éve a népszavazáson a Munkáspárt szavazóinak egyharmada a kilépésre szavazott.
+   </p>
+   <p>
+    Így a liberális politikusok végül rá tudták venni Corbynt, hogy a népszuverenitás elvét elhagyva támogasson egy második népszavazást. Kockáztatva ezzel azt, hogy a kilépést támogató munkáspártiak átálljanak a konzervatívokhoz, vagy Nigel Farage Brexit pártjához.
+   </p>
+   <p>
+    Az ellentmondás megértéséhez azonban érdemes jobban megvizsgálni a Munkáspárt felépítését. A valamikor szociáldemokrata elvek mentén alapított párt a múlt század első felében kifejezetten a munkásosztály politikai ereje volt mind a tőkésekkel (gyártulajdonosokkal), mind a polgársággal szemben. Míg a konzervatív párt szavazótábora már akkor is a vidéki középosztály volt, a liberálisok pedig a városi polgárságon belül voltak népszerűek, addig a munkáspárt szűk egy évszázadon keresztül az iparvárosokban hasított, sok körzetben 90% feletti eredményeket elérve.
+   </p>
+   <p>
+    A huszadik század végén a bányák bezárásával és a hagyományosan ipari jellegű brit gazdaság szolgáltatások irányába való átalakításával aztán a társadalom szerkezete is megváltozott. A hagyományos, kétkezi munkásosztály aránya fokozatosan csökkenni kezdett, a szolgáltatási szektorban dolgozók pedig már nem voltak úgy mozgósíthatók a régi szakszervezeti és szociális ipari politika mentén. A huszadik század utolsó negyedében a Munkáspárt válságon ment keresztül, s sokáig nem tudott választ adni a konzervatívok thatcherizmusára.
+   </p>
+   <p>
+    A megoldást végül Tony Blair szégyenteljes neoliberalizmusa hozta el: 1997-ben a Munkáspárt a „New Labour” eszméje alatt úgy nyert választást középosztálybeli szavazatokat is szerezve, hogy már egyáltalán nem volt baloldali párt, s ennek megfelelően kormányon nem is valósítottak meg semmi hagyományos szociális reformot. Sőt, ebben az időben maga a Munkáspárt volt az, ami kiállt a piac liberalizációja mellett, felpörgetve ezzel néhány gazdasági ágazatot, de közben pecsétet téve a szegényebb rétegek leszakadására.
+   </p>
+   <p>
+    A 2010-es konzervatív fordulat után a Munkáspárt egy ideig még a neoliberalizmussal próbálkozott a hatalom visszaszerzéséért, amíg végül Corbyn meglepetésszerűen át nem vette a párt vezetését és meg nem hirdette a maga valódi baloldali programját.
+   </p>
+   <p rend="head">
+    A Labour új stratégiája ennek megfelelően a kulturális kérdések helyett a gazdaságiakra teszi a hangsúlyt. A brit társadalomban a jövedelmek nyugat-európai összehasonlításban is páratlanul igazságtalan módon vannak elosztva, Jeremy Corbyn politikájának lényege pedig pontosan a szegények és a munkásosztály életkörülményeinek javítása.
+   </p>
+   <p>
+    A Labour szavazótábora ennek megfelelően meglehetősen összetett: egyrészt rájuk szavaztak a hagyományos iparvárosok munkásai, másrészt nagy volt a támogatottságuk a városi középosztály és a liberális fiatalok között. Ez a három csoport pedig szerencsétlen módon kettészakadt a Brexit-népszavazás kampányában. Mert miközben a városi értelmiség és a fiatalok az EU legnagyobb támogatói, addig a vidéki munkásosztály a rendszer vesztesének érezve magát inkább a kilépést támogatta a referendumon.
+   </p>
+   <p>
+    Corbyn stratégiája, mellyel két éven keresztül kiállt a puha Brexit mellett, ezt az óriási ellentétet próbálta meg áthidalni. Miközben a párt hagyományos szavazótábora, a kétkezi munkások, azon belül pedig az északnyugati iparvárosok alsó osztályai kőkeményen kiálltak a kilépés mellett, addig a fiatalok és a városi liberálisok egyre hangosabban követelték a népszavazás eredményének figyelmen kívül hagyását. Ez utóbbi rétegek annyira ragaszkodtak a több Európához, hogy az EP-választáson saját pártjukat büntetendő kollektíven szavaztak át a Liberális Demokratákra és a Zöldekre. Ezeket a szavazókat mentendő kényszerítették végül Corbynt is rá arra a párt liberális vezetői, hogy álljon ki teljes mellszélességgel a második referendum mellett és hagyja cserébe veszni a Brexit-párti baloldaliakat.
+   </p>
+   <p>
+    Ez a folyamat, amelynek részeként lassan két éve tolják el egyre liberálisabb irányba a Labourt, most már végéhez kezd érni. A maradáspártiak a Munkáspárt népszerűségvesztését látva abban igyekeznek menteni a menthetőt, hogy liberalizmusban veszik fel a versenyt a Liberális Demokratákkal. A már eredetileg is esélytelen és értelmetlen verseny talán részben sikerrel jár és vissza lehet szerezni néhány Európa-párti szavazót, de a stratégia egyben veszteségekkel is járni fog: az EP-választásokon a munkáspárt számos iparvárosi és szegény lakója szavazott már át a határozott kilépés reményében a Brexit-pártra. Az egyébként baloldali, de kilépést sürgető szavazók pedig egy nyíltan maradáspárti Labourt látva nem fognak hezitálni, hogy végleg átálljanak a jobboldalhoz.
+   </p>
+   <p>
+    Bár nem tudjuk, hogy ebből a sokmilliós rétegből mennyien fognak végül átállni a kilépést támogató jobboldalhoz, de a várakozások rosszat sejtetnek: vannak olyan választókerületek, ahol a Munkáspárt közel egy évszázada minden egyes választáson nyert, most viszont a szavazók kétharmada kilépéspárti.
+   </p>
+   <p rend="head">
+    Ha a Labour a népszavazás eredményét (és ezzel sok munkáspárti szavazatát) figyelmen kívül hagyva kiáll egy második népszavazás mellett, ezeket a körzeteket száz év után elveszítheti, szavazók millióit hagyva a populista jobboldal mérgező ölelésében.
+   </p>
+   <p>
+    Az, hogy a párt vezetése rá tudta kényszeríteni Corbynt korábbi álláspontjának megváltoztatására, jól mutatja, hogy a polarizálódó társadalomban a Munkáspárton belüli liberálisok az Európa-párti pólusba akarják kényszeríteni a korábban megosztott pártot.
+   </p>
+   <p>
+    Ennek a folyamatnak az eredménye pedig az, hogy végleg megbukik a corbyni elv, miszerint az ország nem a kilépésről kellene beszéljen, hanem a szegények és a gazdagok között tátongó óriási különbségről. És ha leszámítjuk azt, hogy egy második népszavazás az emberek hülyének nézése is egyben (hiszen ugyan dönthettek egy kérdésben, de mivel nem azt döntötték, amit akarunk, ezért újra kell dönteniük), akkor is ki kell mondani, hogy ez azt jelenti, hogy a Labournek nem számít valamikori szavazóinak egyharmada. És itt derül ki az, hogy mit képviselnek valójában a baloldalon belül a második népszavazást követelő liberálisok. Azt, hogy a munkásosztály véleménye, mint mindig, most sem érdekel senkit.
+   </p>
+  </body>
+ </text>
+</TEI>

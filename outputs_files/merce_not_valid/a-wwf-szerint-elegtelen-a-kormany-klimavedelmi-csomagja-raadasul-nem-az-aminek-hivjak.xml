@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A WWF szerint elégtelen a kormány klímavédelmi csomagja, ráadásul nem az, aminek hívják
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     68507628-3323-5030-ad22-5996c4d9aed3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A WWF szerint elégtelen a kormány klímavédelmi csomagja, ráadásul nem az, aminek hívják
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-20T20:58:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/20/a-wwf-szerint-elegtelen-a-kormany-klimavedelmi-csomagja-raadasul-nem-az-aminek-hivjak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/20/a-wwf-szerint-elegtelen-a-kormany-klimavedelmi-csomagja-raadasul-nem-az-aminek-hivjak/
+     </sch:url>
+     <sch:name>
+      A WWF szerint elégtelen a kormány klímavédelmi csomagja, ráadásul nem az, aminek hívják
+     </sch:name>
+     <sch:datePublished>
+      2020-02-20T20:58:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      környezetszennyezés
+     </sch:keywords>
+     <sch:keywords>
+      itm
+     </sch:keywords>
+     <sch:keywords>
+      mezőgazdaság
+     </sch:keywords>
+     <sch:keywords>
+      víz
+     </sch:keywords>
+     <sch:keywords>
+      erdő
+     </sch:keywords>
+     <sch:keywords>
+      WWF
+     </sch:keywords>
+     <sch:keywords>
+      talajvíz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="68507628-3323-5030-ad22-5996c4d9aed3">
+     <sch:identifier>
+      urn:uuid:ef70e91b-9d71-4180-9a8f-248ae2a4eb25
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:04.704400
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:02:16.354124
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="68507628-3323-5030-ad22-5996c4d9aed3" when="2021-12-14T15:31:04.704400">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A WWF szerint elégtelen a kormány klímavédelmi csomagja, ráadásul nem az, aminek hívják
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A WWF Magyarország közleménye szerint, habár jó kiindulópontnak tartják a kormány klíma- és környezetvédelmi nyolcpontos csomagját, véleményük az, hogy további lépésekre lesz szükség a kormány részéről, amennyiben valódi változást szeretnének elérni.
+   </p>
+   <p rend="head">
+    Kiemelték azt is, noha a kormány klímavédelmi csomagként hivatkozik a tervezetre, valójában összemos két, egymással párhuzamos problémát, a klímaváltozást és a környezetszennyezést.
+   </p>
+   <p>
+    Az Innovációs és Technológiai Minisztérium tervezete a következő:
+   </p>
+   <p>
+    Ebből a klímaváltozással, vagyis az üvegházhatású gázok magas légköri koncentrációja okozta globális felmelegedéssel foglalkozik az energetikai és zöldítési – szén-dioxidot megkötő növények – kérdéseket taglaló 4, 5, valamint 6. pont, emellett ide lehet számítani az energiamixtől függő kibocsátású, zéró helyi szennyezésű elektromos autókat támogató hetedik pontot.
+   </p>
+   <p>
+    A WWF közleményében is felhívja a figyelmet a kormányzati képzavarra: kiemelik a különböző, jövőnket és jelenünket fenyegető probléma közötti különbséget. Mint írják,
+   </p>
+   <p>
+    „jelenkori világunkat valójában két,
+    <hi rend="bold">
+     egymással párhuzamosan zajló környezeti krízis
+    </hi>
+    állítja kihívások elé.
+   </p>
+   <p>
+    Az egyik a
+    <hi rend="bold">
+     globális felmelegedés
+    </hi>
+    , melyet a fosszilis energiahordozók (a szénfélék, kőolaj és földgáz) égetése miatt a légkörbe jutó többlet szén-dioxid okoz – ennek következtében olvadnak a sarki jégsapkák, emelkedik a tengerszint, sűrűsödnek a szélsőséges időjárási jelenségek és természeti katasztrófák. Erre vonatkozóan határozott meg magas szintű, államfők által jóváhagyott közös célkitűzéseket a Párizsi Klímaegyezmény 2015-ben, és ennek kulcsfeladatai a megújuló energia felé történő átmenet és a karbonsemlegesség.
+   </p>
+   <p>
+    Biológiai létfeltételeinket, az ivóvíz- és élelmiszer-biztonságunkat, valamint a lakható területek kiterjedését azonban egy másik krízis is kockáztatja: a minket körülvevő
+    <hi rend="bold">
+     természeti környezet pusztulása
+    </hi>
+    , melynek olyan súlyos tünetei vannak, mint a beporzó rovarok eltűnése, vízkészleteink elszennyeződése, a vadonélő fajok tömeges kihalása, a talaj termőképességének csökkenése, a mikroműanyagok felhalmozódása vagy a bolygó erdőterületeinek zsugorodása. Ezeket a problémákat a karbonsemlegesség önmagában nem fogja megoldani, sőt, nem megfelelő energiaátmenettel – például zöldmezős energetikai beruházásokkal vagy vízierőművek építésével – tovább ronthatjuk a természeti környezet állapotát.”
+   </p>
+   <p>
+    A szervezet emiatt további nyolc pontot javasol a kormánynak, melyek ugyan nem fednek le valamennyi releváns kérdést, azonban az intézkedéscsomag részeként hasznosak lehetnek klíma- és környezetvédelmi szempontból, valamint segítenék az alkalmazkodást a klímaváltozás támasztotta kihívásokhoz.
+   </p>
+   <list>
+    <item>
+     Az állami természetvédelem erősítése, a természetvédelmi oltalom alatt álló területek állapotának javítása, védett természeti értékeink megőrzése.
+    </item>
+    <item>
+     Az állami tulajdonú erdőterületeken a hagyományos, vágásos erdőgazdálkodás visszaszorítása, a háborítatlan erdők és az örökerdők területének robusztus növelése. Őshonos fafajokból álló, vegyes összetételű erdők telepítése.
+    </item>
+    <item>
+     Magánerdő-területeken az erdők természetességi állapotának javítását és az örökerdők kiterjesztését szolgáló támogatási rendszerek fejlesztése.
+    </item>
+    <item>
+     Az árvizek levezetése helyett a vizek visszatartását fókuszba helyező vízkészlet-gazdálkodás, mely egyforma hangsúlyt helyez az aszály és az áradás kezelésére. Tavaink és folyóink ökológiai állapotának megóvása és javítása, az árterek bővítése és a vizek természetbarát tározása.
+    </item>
+    <item>
+     A csapadékvíz, a belvíz és a villámáradások okos kezelése és hasznosítása kisléptékű vizesélőhelyek kialakításával; tájszintű, természeti erőforrások megőrzésére alapozott vízpótlás megvalósítása.
+    </item>
+    <item>
+     Célzott költségvetési forrás elkülönítése élőhelyeket helyreállító és szén-dioxidot elnyelő ökológiai beruházásokra az önkormányzatok, az állami szervek, a KKV-k és a társadalmi szervezetek számára.
+    </item>
+    <item>
+     Az éghajlatváltozáshoz alkalmazkodó, talaj- és vízkímélő mezőgazdaságot és többcélú tájgazdálkodást erősítő agrártámogatási rendszerek kidolgozása, a természeti erőforrások kíméletén alapuló mezőgazdasági módszerekre való áttérés.
+    </item>
+    <item>
+     Az energetikai célú biomassza-felhasználáson belül a tűzifa arányának csökkentése a lehetséges minimumig, ezzel az erdők egyéb hasznainak védelme a fakitermeléssel szemben (széndioxid-elnyelés, mikroklíma-védelem, vízmegtartás, talajvédelem, a levegőtisztaság védelme és közjóléti funkciók).
+    </item>
+   </list>
+   <p>
+    Ezekkel szemben az állami természet- és környezetvédelmi funkciókat a Fidesz-kormányok elmúlt tíz évében módszeresen leépítették, még az első ciklus elején megszüntették a környezetvédelmi minisztériumot, és az agrártárca alá rendelték a területet, ami azzal járt, hogy gyengültek a már korábban sem elégséges környezetvédelmi intézmények, valamint lazultak az állami szabályozások.
+   </p>
+   <p>
+    A kormányzati programban a környezetvédő szervezet javaslataival ellentétben nincs kifejtve a szándék az őshonos erdők telepítésére, megóvására, az egymás mellé ültetett fák pedig nem helyettesíthetik a valódi erdőket, társulásukat, melyek a biodiverzitás és az ellenállóképesség miatt különösen fontosak. Jelenleg még sincsenek megfelelő védelem alatt, és jelenleg nincs is olyan szabályozás, mely ösztönözné ezek telepítését, így a magánerdő-gazdálkodók is az ipar igényeinek megfelelő faültetvényeket tartanak fenn.
+   </p>
+   <p>
+    Arra is csupán viszonylag gyenge, helyi pilot-projekt jellegű kezdeményezések vannak, hogy megóvják az élővizeket és a természetes élőhelyeket, valamint a XIX-XX század folyamszabályozásainak örökségeként a folyók árvízveszélyesebbek, az árterek viszont eltűntek a mezőgazdasági területek rovására – melyek azonban egyre erőteljesebb öntözésre szorulnak, éppen a vízmegtartó-képesség gyengülése miatt. Jelenleg a vizek megtartásával szemben az egyes rendszerek inkább az elvezetésre koncentrálnak, miközben a csapadékosabbak közötti száraz időszakokban fel lehetne használni az így elpazarolt vizet. Az öntözéses földműveléssel ugyanakkor a talajvíz szintje is csökken, és mivel az utánpótlás lassabb, mint a felhasználás, egyre mélyebb kutakat kell fúrni, ami egyrészt a kisebb és kevesebb anyagi lehetőséggel rendelkező gazdákra helyez aránytalan terhet, másrészt a vízzáró rétegek átfúrásával járhat, ami veszélyezteti a mélyebb rétegekben megtalálható talajvíz minőségét.
+   </p>
+   <p>
+    A jelenlegi mezőgazdasági támogatások sem veszik megfelelő mértékben figyelembe, hogy az adott gazdaság mennyire környezetbarát, így bőven megéri ipari típusú gazdálkodást folytatni, ami rengeteg gyomirtó- és műtrágya használattal jár, ami súlyosan
+    károsítja
+    mind a talajt, mind a vizeket, melyekbe végső sorom bemosódik.
+   </p>
+  </body>
+ </text>
+</TEI>

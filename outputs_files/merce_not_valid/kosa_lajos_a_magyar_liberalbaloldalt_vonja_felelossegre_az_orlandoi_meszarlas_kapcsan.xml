@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kósa Lajos a magyar „liberálbaloldalt” vonja felelősségre az orlandói mészárlás kapcsán
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4b6c6f85-af60-579e-8d58-102583d5dd6f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kósa Lajos a magyar „liberálbaloldalt” vonja felelősségre az orlandói mészárlás kapcsán
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-06-13T12:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/06/13/kosa_lajos_a_magyar_liberalbaloldalt_vonja_felelossegre_az_orlandoi_meszarlas_kapcsan/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/06/13/kosa_lajos_a_magyar_liberalbaloldalt_vonja_felelossegre_az_orlandoi_meszarlas_kapcsan/
+     </sch:url>
+     <sch:name>
+      Kósa Lajos a magyar „liberálbaloldalt” vonja felelősségre az orlandói mészárlás kapcsán
+     </sch:name>
+     <sch:datePublished>
+      2016-06-13T12:50:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      erőszak
+     </sch:keywords>
+     <sch:keywords>
+      LMBTQ
+     </sch:keywords>
+     <sch:keywords>
+      homoszexualitás
+     </sch:keywords>
+     <sch:keywords>
+      kósa
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4b6c6f85-af60-579e-8d58-102583d5dd6f">
+     <sch:identifier>
+      urn:uuid:4e74e3ad-0566-4323-9f53-0cad139f9df5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:32.124745
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:23:31.387929
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4b6c6f85-af60-579e-8d58-102583d5dd6f" when="2021-12-14T15:30:32.124745">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kósa Lajos a magyar „liberálbaloldalt” vonja felelősségre az orlandói mészárlás kapcsán
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Régóta hallgatok parlamenti felszólalásokat, de olyan ocsmány, részvétlen és undorító felszólalást, mint amelyet Kósa Lajos ma megeresztett a Parlamentben, még nem hallottam. A Fidesz frakcióvezetője a magyar baloldalt tette felelőssé az orlandói tragédiáért, hibának nevezte, hogy az olasz parti őrség kimenti a menekülteket a tengerből, és nem sikerült kimondania, hogy kik voltak a szombat éjszakai ámokfutás áldozatai, hogy melegek, leszbikusok voltak.
+   </p>
+   <p>
+    Fotó: hirado.cms.mtv.hu
+   </p>
+   <p>
+    Kósa felszólalásában egy éjszakai bárról beszél, és még azt is nehéz mondani, hogy kerülgetné a tényeket – egyszerűen nem beszél arról, hogy a meleg közösséget érte itt atrocitás. De beszél másról. Arról, hogy a jelenlegi menekültválság és a kontrollálatlanul beáramló menekültek felelősek az orlandói tragédiáért, amelyet egy 1986-ban az USA-ban született afganisztáni szülőkkel rendelkező illető követett el. A logikai bukfencet Kósa így oldja meg:
+   </p>
+   <p>
+    „teljesen másik civilizációból érkezik, de már itt születik”.
+   </p>
+   <p>
+    De Kósa kifejti azt is, hogy miként lehet felelős az európai menekültválság egy USA-ban történt merényletért. Ugyanis szerinte az EU, Magyarország és az USA ebből a szempontból egy térségnek a tagja.
+   </p>
+   <p>
+    Kósa persze továbbmegy: szerinte ez az elkövető, aki amerikai muszlim származású, de egyébként nem volt vallásos, és nincs kapcsolata terrorszervezettel (bár esküt tett az Iszlám Állam vezetőjének a 911-et felhívva, miközben azért rimánkodott, valaki hallgassa meg), azt jelzi, hogy az integráció „majdnemhogy lehetetlen”. Ezt a majdnemhogy lehetetlenséget már láttuk a párizsi terrortámadások muszlim hőseinél, akiket rendőrként ért a végzet, miközben a terrorcselekményt próbálták megakadályozni, vagy biztonsági őrként akadályoztak meg robbantást. Ők is nyilván az integráció lehetetlenségét bizonyítják, meg a több millió, a nyugati világban békésen élő muszlim.
+   </p>
+   <p>
+    Cikkünk az orlandói tragédiáról:
+   </p>
+   <p>
+    A melegek, a leszbikusok, a biszexuálisok és a transzneműek életének szerves részét képezi az erőszak és annak á…
+   </p>
+   <p>
+    Közzétette:
+    Kettős Mérce
+    –
+    2016. június 13.
+   </p>
+   <p>
+    Vagy mondjuk London muszlim polgármestere, aki Londonban felvonta a szivárványszínű zászlót is, és aki ki tudta mondani, hogy elítéli a melegek ellen indított támadásokat. Speciel ezt Kósának nem sikerült.
+   </p>
+   <p>
+    Kósa szerint a veszélyt, amely Orlandóhoz vezetett, a kontrollálatlan migráció és a kényszerbetelepítés jelenti. Kicsit ellentmondásos a helyzet, mert ugye a kényszerbetelepítésnek nevezett kvótarendszer nem kontrollálatlan: kiszűrik és visszatoloncolják a menedékre nem jogosult menekülteket az eljárás alatt. De ennél is durvább az, ahogyan két világképet állít egymással szembe Kósa.
+   </p>
+   <p>
+    Szerinte az egyik oldalon az olasz parti őrség áll, akik kimentik a tengerből a menekülteket, míg a másik oldalon a magyar kormány, akik nemet mondanak a kényszerbetelepítésre. Hogy mi van? Az emberek életét megmentő, a menekülteket vízbe fulladni nem hagyó olasz parti őrség a bűnös az orlandói tragédiáért? Persze ezt így nem mondja ki Kósa, de felszólalása végén megnevezi a valódi bűnösöket.
+   </p>
+   <p>
+    Először azt a kérdést veti fel, hány ártatlannak kell meghalnia, hogy a baloldal megváltoztassa menekültpárti véleményét. Sőt, szerinte ma a baloldal miatt nem lehet vitatkozni a menekültek helyzetéről Magyarországon. De aztán egy kijelentő mondattal zárja beszédét:
+   </p>
+   <p>
+    „Úgy tűnik nem volt elég halott, hogy a trendi liberálbaloldali megközelítés megváltozzon.”
+   </p>
+   <p>
+    Kósának sajnos a felszólalás alatt nem sikerült az áldozatokról megemlékeznie, vagy részvétét kifejeznie a családtagok iránt. Úgy tűnik erre már nem maradt ideje a habzószájú felszólalás után.
+   </p>
+   <p>
+    A felszólalás itt meghallgatható.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

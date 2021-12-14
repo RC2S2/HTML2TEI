@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Furcsa időpontcserével hozták nehéz helyzetbe a hódmezővásárhelyi szavazatszámláló bizottságok ellenzéki tagjait
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     65459c06-b05b-5349-845e-f22648aea473
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Furcsa időpontcserével hozták nehéz helyzetbe a hódmezővásárhelyi szavazatszámláló bizottságok ellenzéki tagjait
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-02-19T17:27:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/02/19/furcsa-idopontcserevel-hoztak-nehez-helyzetbe-a-hodmezovasarhelyi-valasztasi-bizottsag-ellenzeki-tagjait/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/02/19/furcsa-idopontcserevel-hoztak-nehez-helyzetbe-a-hodmezovasarhelyi-valasztasi-bizottsag-ellenzeki-tagjait/
+     </sch:url>
+     <sch:name>
+      Furcsa időpontcserével hozták nehéz helyzetbe a hódmezővásárhelyi szavazatszámláló bizottságok ellenzéki tagjait
+     </sch:name>
+     <sch:datePublished>
+      2018-02-19T17:27:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      választás
+     </sch:keywords>
+     <sch:keywords>
+      márki-zay péter
+     </sch:keywords>
+     <sch:keywords>
+      hódmezővásárhely
+     </sch:keywords>
+     <sch:keywords>
+      lázár jános
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="65459c06-b05b-5349-845e-f22648aea473">
+     <sch:identifier>
+      urn:uuid:1560b239-469f-4a26-a8ea-43ca9c6d5ab5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:32.477825
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:44:49.571927
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="65459c06-b05b-5349-845e-f22648aea473" when="2021-12-14T15:30:32.477825">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Furcsa időpontcserével hozták nehéz helyzetbe a hódmezővásárhelyi szavazatszámláló bizottságok ellenzéki tagjait
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Az eredeti, február 21-i időpont helyett február 19-ére, hétfőre hozta előre a választási bizottsági tagok eskütételét, és a delegáltak jegyzői oktatását Hódmezővásárhely polgármesteri hivatala.
+   </p>
+   <p>
+    A levelet, amely az utolsó pillanatban az időpont-változásról tájékoztatja a szavazatszámláló bizottságban résztvevőket, információnk szerint pénteken a helyi fideszes jelölt kampányanyagaival együtt dobták be a hódmezővásárhelyi delegáltakhoz.
+   </p>
+   <p rend="head">
+    Csakhogy Márki-Zay szavazatszámláló delegáltjai közül (több mint 100 emberről van szó) 70 helyi delegált mellett, Budapestről, a Közös Ország Mozgalom aktivistái közül érkeznek majd harmincan. Az ellenzéki delegáltak döntő többsége a hétfői időpont ellenére nem kapott hivatalos értesítést az időpont-változásól, és közülük többen nem is tudják megoldani az időpontcserét, értesült a
+    <hi>
+     Mérce
+    </hi>
+    .
+   </p>
+   <p>
+    Az ellenzéki delegáltak közül végül 95 ember a megváltozott időpontra, február 19-ére, utólagos gyors szervezés után el tudott menni, és ekkor le tudta tenni a hivatalos esküt is.
+   </p>
+   <p>
+    Kép: Közös Ország Mozgalom
+   </p>
+   <p>
+    Korsós Ágnes, Hódmezővásárhely megyei jogú város címzetes főjegyzője kérdéseinkre a helyszínen azt mondta, az eredeti, szerdai időpontot sebtében meg kellett változtatniuk, ugyanis addigra már elkezdődik az időközi választásra a választópolgárok értesítőinek kipostázása. Elmondása szerint a megváltozott időpontról szóló levelet, már helyben kedden-szerdán kiküldték, Márki-Zay Péter delegáltjainak is. Arról, hogy ezt a többségük egészen múlt szombatig nem vehette kézhez, szombaton értesült a főjegyző több, számára elküldött emailből.
+   </p>
+   <p>
+    Korsós Ágnes azt mondta, túlterheltségük és a delegáltak viszonylag nagy száma (400 fő) miatt, erre önhibájából került sor.
+   </p>
+   <p rend="head">
+    Hozzátette azonban, hogy a választási törvényhez fűzött rendtartás értelmében, amennyiben a választás előtti péntekig nem tudnak esküt tenni a delegáltak, úgy lehetőség lesz szombaton a szegedi megyei közgyűlés elnöke előtt is esküt tenni, így mindenképpen részt vehetnek majd a szavazatszámláló bizottságok munkájában.
+   </p>
+   <p>
+    Az eredeti értesítés. Gyorsan változott az időpont / Kép: Mérce
+   </p>
+   <p>
+    A független jelölt egyik delegáltja a Mércének elmondta, körülbelül egy hónapja kérte meg Márki-Zay Péter a Közös Ország Mozgalom aktivistáit, legyenek szavazatszámláló bizottsági delegáltjai, ugyanis kiépült pártstruktúra nélkül nehéz a helyi Fidesz 300 delegáltjával szemben a minimálisan szükséges száz embert másképpen összeszedni. Ebből az okból az ország más részeiből is jelentkeztek önkéntesek. Végül tíz napja, február 9-én adták le a száz ellenzéki bizottsági tag nevét, akkor arról értesítették őket, hogy február 21-22-én lesz lehetőségük az eskütételre.
+   </p>
+   <p>
+    Néhány, helyi hódmezővásárhelyi bizottsági delegált, akik Márki-Zayhoz tartoztak, azonban múlt pénteken kapták meg az újabb értesítést, aláírás és pecsét nélkül.
+   </p>
+   <p>
+    Márki-Zay Péter független jelölt a Mércének úgy reagált a történtekre, hogy még ha jogilag akár szabályos is lehet a hirtelen csere, és az ellenzéki delegáltak eskütételének megnehezítése, mégis inkorrekt és nonszensz a hódmezővásárhelyi önkormányzat eljárása és utolsó időpontos átszervezése.
+   </p>
+   <p rend="head">
+    Mint Márki megjegyezte, ha nincs is szó konkrét választási csalásról, a választás menetének befolyásolásáról bizonyosan beszélhetünk.
+   </p>
+   <p>
+    Február 25-én, vasárnap időközi polgármester-választás lesz Hódmezővásárhelyen, amelyre az előző városvezető, Almási István halála miatt kerül sor. A Fidesz Hegedűs Zoltán megbízott polgármestert és volt önkormányzati képviselőt indítja, vele szemben függetlenként Márki-Zay Péter, a városban szokatlan módon nagy támogatással indul.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés – 2018 február 20
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Cikkünkre reagálva Korsós Ágnes, Hódmezővásárhely címzetes főjegyzője, a helyi választási iroda vezetője az alábbi levél változtatás nélküli közlését kérte szerkesztőségünktől, amely kérésnek e helyütt eleget is teszünk, ugyanakkor a levél alatt közöljük a felvetésekre megfogalmazott szerzői választ is.
+    </hi>
+   </p>
+   <p>
+    <hi>
+     Tisztelt Tóth Csaba Tibor Úr!
+    </hi>
+    <hi>
+     Kérem, szíveskedjenek a hiteles tájékoztatás érdekében változtatás nélkül közölni az alábbiakat:
+    </hi>
+    <hi>
+     Visszautasítom azon állítását, hogy „Furcsa időpontcserével hozták nehéz helyzetbe a hódmezővásárhelyi szavazatszámláló bizottságok ellenzéki tagjait”, valamint az írásában megjelent csúsztatásokat és hazugságokat!
+    </hi>
+    <hi>
+     Sajnálom, hogy csak csúsztatásokkal, és fél- vagy ferdített információkkal próbál szenzációt kelteni. Javasolom, hogy legközelebb írja le, amit mondanak Önnek, ha képtelen hallás után megjegyezni információkat.
+    </hi>
+    <hi>
+     1.
+     A városban a Postán kívül egy kézbesítő cég található, akikkel a helyben kézbesítendő leveleket sürgős esetben a Választási Iroda ki tudja küldeni. Nem tilthatom meg a vállalkozónak, hogy más küldeményekkel együtt vigye ki a Választási Iroda küldeményeit!
+    </hi>
+    <hi>
+     2.
+     A Helyi Választási Iroda február 12.-én, 13.-án 14.-én, 15.-én két időpontban, 16.-án és 19.-én tartott a Szavazatszámláló Bizottságok tagjai részére oktatást, és azt megelőzően minden alkalommal esküt is tehettek egyidejűleg. A delegáltak névsorát február 09.-én pénteken 16,00 óráig adhatták le a jelöltek, jelölő szervezetek. Kiértesítésükre erre tekintettel, 12.-én hétfőn kerülhetett sor, amikor is fő időpontként 15-16.-a került megjelölésre, és tartalék időpontnak határoztuk meg 21-22.-ét. E két időpontot hoztuk előre 19.-ére! Valamennyi időpont munkaidőnket követő időre szólt!
+    </hi>
+    <hi>
+     <hi rend="bold">
+      3.
+     </hi>
+     <hi rend="bold">
+      <hi rend="underline">
+       Nem teszünk különbséget választott és delegált bizottsági tagok között, hiszen a választás napján a Szavazatszámláló Bizottságok a választópolgárok független, kizárólag a törvénynek alárendelt szervei, feladatuk elsődlegesen a választási eredmény megállapítása, a választások tisztaságának, törvényességének biztosítása, a pártatlanság érvényesítése és szükség esetén a választás törvényes rendjének helyreállítása! Feladatukat tehát nem egyéni érdekek mentén végzik, hiszen ez esetben megszegik esküjüket, és törvénysértést követnek el! Mint hivatalos személyek fokozott büntetőjogi védelmet élveznek, de törvénysértés esetén ez velük szemben is érvényesül!
+      </hi>
+     </hi>
+    </hi>
+    <hi>
+     4.
+     Nem igaz, hogy „Az ellenzéki delegáltak döntő többsége a hétfői időpont ellenére nem kapott hivatalos értesítést az időpont-változásól…”! Az értesítés megküldése mellett megkértük a delegáló személyt, szervezetet, hogy segítsenek abban, hogy a hír mindenkihez eljusson, ami teljesült is, hiszen a tegnapi nappal bezárólag több mint 400 fő esküt tett és részt vett az oktatáson. Az „…ellenzéki delegáltak közül végül 95 ember…” kitétel sem igaz!
+     <hi rend="bold">
+      Tegnap az Ön által ellenzékinek aposztrofált bizottsági tag közül 46 fő volt jelen. 42 fő a korábbi időpontokban tett esküt, és összesen 15 fő az, aki nem tudott megjelenni, akik közül 5 fő a Budapestről érkező, akikkel még hétfőn a délelőtti órákban leegyeztettük a számukra megfelelő időpontot.
+     </hi>
+     Összességében az Ön által cikkében kiemelt delegáltak 98-an vannak. Közülük 10 fő nem tett esküt, akik még péntekig megtehetik a Választási Irodánál.
+    </hi>
+    <hi>
+     5.
+     Nagyon sajátosan értelmezi az általam elmondottakat. Kérdésére elmondtam, hogy elmulasztottam az időpontok meghatározásánál figyelembe venni azt a tényt, hogy
+     <hi rend="bold">
+      ezen a héten már az országgyűlési választással kapcsolatos határidős feladatinkat kell elvégeznünk, amely miatt az e hétre tervezett oktatásokat előre kellett hozni.
+     </hi>
+     Szó sem volt az időközi választás értesítőiről, amit mellesleg még január első napjaiban megkaptak a választópolgárok! Nem igaz, hogy azt mondtam volna, szombaton értesültem arról, hogy többségük nem kapta meg az értesítést. Egészen pontosan azt mondtam Önnek érthetően, hogy néhány leendő bizottsági tag jelezte e-mailben, hogy nem jó számára az új időpont. Ha nem értesültek az új időpontról, hogyan tudták jelezni, hogy az nem felel meg számukra? Közülük 5 fő volt az, aki nem tudott tegnap megjelenni, és elmondtam azt is, hogy másik időpontban állapodtam meg ezzel az öt, vidékről érkező személlyel. Szó sem volt arról, hogy 400 fő delegáltat kell oktatnunk, hiszen összesen 148 delegált van!
+    </hi>
+    <hi>
+     6.
+     Hazugság, hogy a FIDESZ-nek 300 delegáltja van. Az érintett szervezet minden bizottságba 1-1 főt delegált, szemben a törvény által biztosított 2-2 fővel. Tehát összesen 50 főt delegáltak. Dr. Márki-Zay Péter 100 főt delegált, információim szerint közülük ketten akadályoztatva vannak, így 98 delegáltja van. És ha már a fővárost említi, tájékoztatom, hogy Budapesti címmel összesen 8 delegált rendelkezik, szó nincs 30 főről!
+    </hi>
+    <hi>
+     7.
+     Bízom abban, hogy az alábbi mondatában leírtakat is félrehallotta: „Mint Márki megjegyezte, ha nincs is szó konkrét választási csalásról, a választás menetének befolyásolásáról bizonyosan beszélhetünk.”, hiszen tapasztaltam, mennyire pontosan tudja megjegyezni hallás után az elhangzottakat. 1990. óta veszek részt választási munkában, végig járva minden lépcsőfokát ennek a nem könnyű feladatnak. 2001. óta mint a Választási Iroda vezetője végzem a munkámat. Eddig még ilyen vád nem ért, de javasolom, ha tényleg ezt mondta Önnek Dr. Márki-Zay Péter polgármester jelölt, forduljon panaszával a Területi Választási Irodához. Megítélésem szerint minden esetben elfogulatlanul, a jogszabályi előírásoknak megfelelően jártam el, amelyet a Tőle kapott válasz e-mailek is tanúsítanak, ha bárki mást feltételez rólam, az nyugodtan tehet feljelentést ellenem. 41 éves közszolgálati múlttal a hátam mögött megtanultam, hogy egy esetben tudom megvédeni magam a rágalmaktól, ha a munkámat a jogszabályok betartásával látom el. Hitem szerint ezt tettem ez előtt is, és ezt teszem ezután is.
+    </hi>
+    <hi>
+     8.
+     És még egy megjegyzés! A választással kapcsolatos feladatok a Választási Irodára és nem az Önkormányzatra tartoznak. A választással kapcsolatos feladataimban sem a polgármester, sem a közgyűlés nem utasíthat, nem vonhat felelősségre. Erre csak és kizárólag a Területi Választási Iroda vezetője, illetve a Nemzeti Választási Iroda vezetője jogosult. Ha már a választásokról tudósít, célszerű lenne ezeknek a dolgoknak utána nézni!
+    </hi>
+    <hi>
+     Javaslom, szerezzen be egy diktafont, mert a véleménye bármi lehet, de a tényeken sosem szabad változtatni, mert azok mindig visszaütnek!
+    </hi>
+    <hi>
+     Hódmezővásárhely, 2018. február 20.
+    </hi>
+    <hi>
+     Dr. Korsós Ágnes címzetes főjegyző, Helyi Választási Irodavezető.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Válaszul szerzőként az alábbiakat a fenti pontok szerint szeretném közölni:
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     1. Nem állítottam az ellenkezőjét annak, ami itt a pontosításban szerepel.
+    </hi>
+    <hi rend="bold">
+     2. A cikkben ezek az információk még szemléltető fénykép formájában is szerepelnek.
+    </hi>
+    <hi rend="bold">
+     3. Sehol sem állítottam, hogy a helyi választási iroda különbséget tesz párt-delegáltak és nem-delegált szavaszatszámláló bizottsági (SzSzB) tagok között
+    </hi>
+    <hi rend="bold">
+     4. Cikkünk megjelenésének pillanatában egy legalább 24 fős, akkor Budapesről érkező és az ellenzéki jelölt által február elején felkért SzSzB delegált-kontingens még nem kapta kézhez az új értesítést, mivel jövendőmondó nem vagyok, ezért csak a kurrens állapotról írhattam. Márki-Zay Péter ellenzéki jelölt a részemre is nyíltan kifejezte, hogy egyáltalán nem találta rendben az utolsó napokban bekövetkezett változások kommunikációját, én ezt írtam meg.
+    </hi>
+    <hi rend="bold">
+     5. Valóban nem idéztem szó szerint, tehát idézőjelben azt ami a jegyző asszony velem közölt, csupán parafrazáltam azt. Az értesítők kikézbesítésére vonatkozó megjegyzését félre is értettem, ezzel együtt az időközi választást január 12-én írták ki, így érvelése a felkészülés utolsó hetében kicsit furcsán hathat.
+    </hi>
+    <hi rend="bold">
+     6. Az egyszerűsítés kedvéért a FIDESZ-KDNP által delegált 50 fő és a a fideszes többségű önkormányzat által a bizottságokba küldött 250 fő között nem tettem különbséget, ez nem elsősorban a felületesség, hanem az ellenzéki jelölt és a felkért delegáltak elmondása alapján is indokolt volt. Semmit nem írtam viszont arról, ki rendelkezik Budapesten címmel, és ki nem, csupán azt írtam, ők Budapestről érkeztek.
+    </hi>
+    <hi rend="bold">
+     7. Kifejezetten furcsának találom, hogy a míg a jegyző asszony az előző pontokban a pártoktól való függetlenségét hangsúlyozza, ebben a pontban politikai ízű kritikát fogalmaz meg Márki-Zay Péter független jelölt megjegyzésére reagálva.
+    </hi>
+    <hi rend="bold">
+     8. Maga Korsós Ágnes jegyző asszony említi levelében, és említette az helyszíni oktatás záróakkordjaként, valamint több, a delegáltaknak elküldött, itt nem közölt elektronikus üzenetében is, hogy a helyi választási iroda munkájában szokás szerint az önkormányzat alkalmazotta vesznek részt – akik pedig kétségkívül függenek munkahelyük révén a közgyűléstől és a tisztségviselőktől.
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

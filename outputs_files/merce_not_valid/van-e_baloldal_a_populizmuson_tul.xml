@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Van-e baloldal a populizmuson túl?
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     aad189cf-d7da-528e-b1d6-08c2ff07b83f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Van-e baloldal a populizmuson túl?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-07-29T10:26:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/07/29/van-e_baloldal_a_populizmuson_tul/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/07/29/van-e_baloldal_a_populizmuson_tul/
+     </sch:url>
+     <sch:name>
+      Van-e baloldal a populizmuson túl?
+     </sch:name>
+     <sch:datePublished>
+      2016-07-29T10:26:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      marxizmus
+     </sch:keywords>
+     <sch:keywords>
+      populizmus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="aad189cf-d7da-528e-b1d6-08c2ff07b83f">
+     <sch:identifier>
+      urn:uuid:48d3d7fd-e0c3-4a82-a649-6320f9ffe779
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.967787
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:23:51.676919
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="aad189cf-d7da-528e-b1d6-08c2ff07b83f" when="2021-12-14T15:30:50.967787">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Van-e baloldal a populizmuson túl?
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az elmúlt kétezer-ötszáz év politikai tapasztalata azt mutatja, hogy a nép széles rétegeivel szemben hosszú távon nem lehet kormányozni. Az elmúlt évtizedben kibontakozó populista kihívás pedig azt a veszélyt hordozza, hogy a nép széles rétegeivel egyetértésben nem lesz érdemes. A populizmus kihívását eddig úgy értelmezték, mint ami azért rezonál a választókkal, mert nem látják be, nem értik meg, hogy mivel jár a populista válaszok elfogadása. Ezzel szemben azt javaslom, hogy vegyük komolyan azt a lehetőséget, hogy a választók tudják, mit választanak.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     kép: economist
+    </hi>
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     A populista kihívás
+    </hi>
+   </p>
+   <p>
+    Radnóti Sándor egyszer megjegyezte, hogy Magyarország politikai értelemben 2006 óta a világ homlokán táncol, mivel itt olyan politikai fejleményekkel találkozhatunk, amelyek máshol csak később jelennek meg (pl. szimbolikus jelentőségű közterek elfoglalása, amelyet később az occupy mozgalom használt). És valóban: 2010-ben, majd 2014-ben úgy tűnt, hogy valami politikai értelemben kivételes történt, amennyiben egy kormányt úgy választottak meg széles tömegek, hogy az hatalmon deklaráltan ezen széles tömegek gazdasági érdeke ellenében akart kormányozni. A populista tekintélyelvű rendszerek eddig sem voltak ismeretlenek: Oroszország és Törökország Európában is meghonosította ezt a modellt, de ott a társadalom nagy része számára érezhető és megélhető gazdasági- és életszínvonal-növekedés garantálta a vezér hatalmát. Ezzel szemben Magyarországon a kormánynak úgy sikerült megőriznie uralmát, hogy semmilyen számottevő gazdasági növekedést vagy életszínvonal-javulást nem sikerült elérnie. Vagyis, látszólag a választók a saját jól felfogott érdekeik ellenében szavaztak.
+   </p>
+   <p>
+    Hasonló modell látszik most kibontakozni Nagy-Britanniában, ahol mindenkit meglepve és minden létező gazdasági racionalitás ellenében a britek egy nehezen vitatható demokratikus legitimációjú népszavazáson az Európai Unióból való kilépésre szavaztak. Továbbá az Egyesült Államokban, ahol
+    komoly esély mutatkozik arra
+    , hogy Donald Trumpot válasszák meg a következő elnöknek. Mindkét esetben elsősorban azok szavaznak a populista oldalra, akik egyfelől hagyományosan a baloldal szavazói voltak: az ipari régiók szegényebb, iskolázatlanabb kétkezi munkás lakói, másfelől akik a legsérülékenyebbek a rossz kormányzás következményeivel szemben. A Brexitre szavazó régiók voltak azok, amelyek a leginkább részesedtek az Európai Unió támogatásaiból, a Trumpot támogató fehér alsó-középosztály jövője függ leginkább a gazdaság teljesítményétől és a konjunktúrafüggő munkahelyektől.
+   </p>
+   <p>
+    A látszólagos ellentmondás feloldására eddig két megoldási javaslat született. Az egyik szerint (amely kísértetiesen emlékeztet
+    a késő római műveltségi eszmény elitizmusára
+    ) a szegény és műveletlen rétegeket megtévesztik az ügyes manipulátor populista politikusok, akik
+    az emberek érzelmeire apellálnak
+    az értelmük helyett. Ha rendes iskolába jártak volna és tudnák használni az eszüket,
+    maguk is belátnák, hogy butaságot csinálnak
+    , de hát mit lehet várni tőlük: akinek még érettségije sincs, attól nem lehet elvárni, hogy bonyolult gazdasági összefüggéseket lásson át. Ennél kőkemény elitizmusnál némileg érzékenyebb a baloldali válasz,
+    amely szerint valósak
+    azok a
+    társadalmi problémák
+    , amelyek a
+    populista szavazó indulatait fűtik
+    , azonban ezt az indulatot
+    rossz helyre csatornázza
+    : ahelyett, hogy a helyes válaszokat felkínáló progresszív jelöltet támogatná (ha van ilyen), aki valóban tehet a problémái enyhítéséért, hamis ígéretekkel kecsegtető bohócokat és opportunistákat juttat a hatalomba. Vagyis,
+    hamis tudata van
+    , téved.
+   </p>
+   <p>
+    Ami mind a két válaszban közös: feltételezi, hogy a választó tévedésben van választásának valódi tárgyával kapcsolatban. A választó tévedésből választja a Brexitet, tévedésből választja Trumpot, a választó valójában valami olyat akar választani, ami segít neki kikecmeregni a gazdasági és társadalmi kilátástalanságból. Mivel a választót történetesen nem sikerült meggyőzni arról, hogy ez a valami a progresszív oldal, most éppen (szigorúan ideiglenesen!) a populista jelöltet támogatja. Azonban ez egy tévedés a részéről: valójában a progresszív oldalt akarja támogatni, csak most valami fatális véletlen folytán összetévesztette a kommunista pártot Donald Trumppal és Boris Johnsonnal. De ha felvilágosítjuk róla, hogy Trump nem igazi baloldali jelölt és az Európai Unióból való kilépés csökkenteni fogja a GDP-t, akkor azonnal észhez tér.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Politikai halálösztön
+    </hi>
+   </p>
+   <p>
+    A javaslatom az, hogy ezzel a narratívával szemben egy pillanatra gondoljuk végig, hogy mi van akkor, ha a választók nem tévednek, hanem azért választják a populista jelöltet, mert
+    a populista jelöltet akarják választani.
+    Mi van, ha nem arról van szó, hogy a megvezetett választó nem tudja, hogy Trump és Johnson opportunista bohócok, hanem éppen ellenkezőleg: pontosan tudják, hogy opportunista bohócok, akik győzelme gazdasági és társadalmi katasztrófát okoz, azonban éppen ezért választják őket. Vagyis azt gondolják, hogy a jelenlegi társadalmi rendszer oly mértékben marginalizálta őket, a mainstream politika által kínált előnyök olyan elenyészők ahhoz képest, amit jogosnak éreznének, hogy hajlandók az egész rendszert bedönteni, mert
+    ennél csak jobb lehet
+    . Amikor a newcastle-i választó azt mondja a King’s College professzorának, hogy nem érdekli a 2%-os GDP csökkenés, mert az a
+    „ti rohadt GDP-tek és nem a miénk”
+    , akkor ezzel nem azt akarja mondani, hogy nem hiszi el, hogy a GDP tényleg csökkenni fog, hanem hogy nem érdekli, mert ő szívesen elviseli, hogy neki rosszabb, ha az elitnek cserébe sokkal rosszabb lesz. Azaz érdemes elgondolkodni azon – legyen ez az establishment nézőpontjából
+    bármennyire felfoghatatlan is
+    –, hogy mi van akkor, ha a választó direkt választja a populista jelöltet. Azaz nem azért választja, mert tévedésben van azzal kapcsolatban, hogy a populista jelölt mit kínál, vagy azzal kapcsolatban, hogy a populista jelölt által kínált megoldások milyen hatással lesznek rá és a társadalomra, hanem mert neki a populista jelölt megoldása tűnik a legjobb választásnak. És ha ez így van, és a választó szándékosan választja a populista oldalt, akkor ezzel szemben az a leereszkedő megközelítés, hogy mi majd elmondjuk a választónak, hogy miért téved, aligha lesz sikeres. És azt állítom, hogy amennyiben ez a lehetőség írja le legjobban a valóságot, az a baloldali politikai tér egy olyan súlyos válságtünete, amelynek megoldása mindannyiunk közös érdeke.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     A baloldali válasz meghasad
+    </hi>
+   </p>
+   <p>
+    Amikor
+    már a davosi találkozón
+    és
+    a Bilderberg-csoport ülésén
+    is a prekariátus helyzetéért aggódnak, aligha igényel bizonyítást, hogy progresszív, integratív és emancipatorikus politikára lenne kereslet. A legpiacpártibb polgári közgazdások is amellett érvelnek, hogy a társadalmi mobilitás hiánya, az intézményesült előítéletek és az aszimmetrikus gazdasági viszonyok olyan változatos és a polgári nézőpontból is értelmezhető problémákat eredményeznek a fejlett társadalmakban, mint a gazdasági versenyképesség csökkenése, terrorizmus, munkaerőhiány, innováció visszaesése stb. Ez tehát elvben azt kellene, hogy jelentse, hogy számos, a jobb és a baloldal által egyaránt fontosnak tekintett ügynek kellene lenni. Ezzel szemben az az igazság, hogy az ezekre az ügyekre rezonáló politikát a baloldal nem tud felmutatni, és ezen a munkásmozgalom harcos időszakának aktivista retorikájához való visszatérés sem tud változtatni. Mint azt az angol Munkáspárt válsága is mutatja, jelenleg a baloldal két, véleményem szerint politikailag egyaránt vállalhatatlan pozícióra hasadt.
+   </p>
+   <p>
+    Az egyik oldalon állnak a New Labour és követőinek maradványai, akik úgy vélik, hogy a hagyományos értelemben vett munkásosztály eltűnése a munkáspárt átkalibrálását teszi szükségessé: az elesetteknek akkor lesz munkahelye, ha fejlődik a gazdaság, így tulajdonképpen a piacpártiság egyszerre munkáspártiság is. A kimondatlan előfeltevés szerint az elnyomás választóvonala áthelyeződött a társadalmon belülről a társadalmon kívülre: immár nem az angol gyáriparos zsákmányolja ki az angol munkást, hanem az angol gyáriparos és az angol munkás együttes erővel a távol-keleti bérmunkást. Ez pedig azt jelenti, hogy értelmetlen a kapitalisták ellen küzdeni, hiszen mindenki a nagy osztályharc azonos oldalán áll. Azon túl, hogy ez a megközelítés kétes morális értékkel bír, nem meglepő módon éppen praktikus és kompromisszumos jellege miatt nehezen tartható politikai pozíció: minden javaslat, amely a status quo fenntartása mellett javít a szavazók helyzetén olyan, amit a konzervatív oldal is át tud venni anélkül, hogy az rá veszélyt jelentene, innentől kezdve pedig nehéz megkülönböztetni a konzervatív oldalt
+    az állítólagos baloldaltól
+    .
+   </p>
+   <p>
+    A másik oldalon áll a Corbynista újbaloldal, akik a valódi progresszív megoldásokat kívánják elhozni a langyos és piacpárt New Labour helyett. Üzenetük szerint a folyamatos gazdasági fejlődés fenntarthatatlan és a természet, illetve emberek széles csoportjainak a kizsákmányolását feltételezi, amivel éppen ezért ezzel fel kell hagyni. Ugyan általánosságban, a távoli jövőben bevezetendő általános feltétel nélküli alapjövedelmen keresztül garantálni szeretnék az emberek életszínvonalának emelését, de ennek a pontos mikéntje még finoman szólva is kidolgozatlan. Amiket viszont addig is tudnak ajánlani, azok vagy olyan lépések, amelyek tulajdonképpen kevéssé különböztetik meg őket akár a piacpárti baloldal, akár egy társadalmilag érzékenyebb konzervatív oldal intézkedéseitől, vagy csupa valóban morálisan helyes és gazdaságilag hosszú távon szükséges, azonban rövid és középtávon költséges megoldás: fair trade, megújuló energia, tőzsdeadó stb. Üzenetük szerint, ha rájuk szavazunk, sokkal morálisabban és kicsit rosszabbul fogunk élni. És ezek után csodálkoznak, hogy megválaszthatatlannak tartják őket.
+   </p>
+   <p>
+    És ehhez kapcsolódik az a másik probléma, hogy az újbaloldal által képviselt értékek egy olyan magas belépési küszöbű nyelven értelmezhetők csak, amelyet azok, akiken leginkább segíteni akarnak,
+    nem tudnak megugrani
+    . Míg a New Labour üzenete világos: szavazz ránk, és a többől neked is több jut, addig az újbaloldal absztrakt moralitása és homályos ígéretei nehezen értelmezhetők. Arról nem is beszélve, hogy az egyetemet végzett középosztály számára a morális és fenntartható opciókért fizetendő plusz költség nem tűnik elviselhetetlennek, azonban azok számára, akik nem értik, hogy mi az a prekariátus, mert nem volt lehetőségünk a nyolc általánost sem elvégezni, és holnap kell enni adni a gyerekeiknek, nem biztos, hogy a fair trade és a zöld energia valóban mobilizáló erővel bíró hívószavak. Erre persze lehet azt mondani, hogy a globalizált világ globális problémáit csak globális keretben lehet megoldani, azonban a nemzeti parlamentekben még mindig csak nemzeti pártokat választ be a nemzet.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Intellektuális emancipáció
+    </hi>
+   </p>
+   <p>
+    Az biztos, hogy a jelenlegi állapotba való belenyugvás nem opció: az, hogy a britek kiszavazták magukat az Európai Unióból intő jel, azonban minden jel arra mutat, hogy háttéralkuk során
+    ártalmatlanítják a döntést
+    . Ha Trumpot megválasztják elnöknek, még előfordulhat, hogy túlságosan el lesz foglalva a narcisztikus önajnározásával ahhoz, hogy bármi érdemi döntést hozzon. Ugyanakkor a tendencia világos, ott van az írás a falon: egyszer jön egy olyan jelölt,
+    lesz egy olyan népszavazás
+    , amelyik képes olyan eredményt hozni, ami a gazdasági elit érdekeit olyan mértékben képes sérteni, hogy megérje
+    nyíltan szembefordulni a demokráciával
+    . Ez pedig azt hiszem, hogy mindenkinek a lehető legrosszabb forgatókönyv lenne.
+   </p>
+   <p>
+    Ahhoz azonban, hogy elkerüljük ezt a lehetőséget, szükség van arra, hogy ne tételezzük fel leereszkedő módon, hogy a választó téved, amikor döntést hoz, hanem inkább olyan lehetőségeket kell felkínálni, amelyekkel élni szeretne. Ezzel hangsúlyozottan nem azt javaslom, hogy a jobboldali populizmussal egy baloldali populizmust állítsunk szembe, hanem hogy olyan megoldási javaslatot és intellektuális keretrendszert kell megalkotni, amely a kitaszítottak számára meggyőzően képes magyarázni a helyzetüket és valódi, a helyzetükön javító alternatívát kínál.
+   </p>
+   <p>
+    Amikor a XIX. században a munkásmozgalom felívelő szakaszában volt, a marxizmus egy ilyen keretrendszert kínált. Az egyszeri agitátor azt tudta mondani a munkásnak, hogy ha elolvassa az ő könyveit, akkor ebből megtudja egyrészt, hogy ki van zsákmányolva, másrészt hogy van egy út arra, hogyan lehetne a kizsákmányolást megszüntetni. Ez a válasz direkt módon magyarázta a munkás élethelyzetét és világos kitörési pontot kínált. Ebben a keretben a szakszervezeti könyvtár felállítása legalább akkora mozgalmi potenciállal bírt, mint egy sztrájk megszervezése, hiszen a progresszív oldal által kínált tudás direkt alkalmazható volt a kitaszítottak élethelyzetének javítására.
+   </p>
+   <p>
+    Ezzel szemben ma az egyszeri agitátor azt tudja csak mondani a munkásnak, hogy ha elolvassa az ő könyveit, akkor ebből megtudja, hogy ő is egy elnyomó poszt-koloniális társadalom haszonélvezője, akinek lehetőség szerint négyszer ennyit kellene fizetnie a ruháiért és nem lenne szabad elektronikus eszközöket vásárolnia, a megoldás pedig az, hogy egyszer majd valahonnan lesz pénz arra, hogy mindenki emberhez méltó jövedelmet kapjon a munkájától függetlenül, mert majd a globális tőkeadó vagy a robotok. Az előbbi egy tudományos program volt, az utóbbi egy utópikus hit. Viszonylag kevés esélyt látok arra, hogy egy szakszervezeti könyvtár felállítása ma komoly ellenállásba ütközne: míg a XIX. században egy gyáros joggal tartott attól, hogy a marxista tudással felvértezett munkás keményebben lép fel a bértárgyalásokon, esetleg szolidárisabb lesz az ugyanabban a gyárban, de más munkakörben dolgozó munkásokkal, addig ma nehéz olyan, a progresszív tudomány által termelt tudást felmutatni, amely képes lenne ilyen módon anyagi hatóerővé válni.
+   </p>
+   <p>
+    Vagyis azt állítom, hogy a populizmus előretöréséért nem a megvezetett, műveletlen választók a felelősek, sem a manipulatív politikusok, esetleg a felelőtlen konzervatívok, akik a populista szólamokat mainstreammé teszik, hanem az a baloldali intellektuális közeg, amely képtelen válaszokat kínálni a kapitalizmus válságára. Persze a konzervatív oldal sem képes válaszokat kínálni, de mivel ők a status quo megőrzésében érdekeltek, ez kevésbé feltűnő. Ha pedig nem találunk válaszokat, akkor a választók egyre szélsőségesebb jelöltekkel és szavazásokkal fogják büntetni az establishmentet, ami egyre nehezebbé fogja tenni a megfelelő válaszok megtalálását. Ha a társadalom széles rétegei számára kívánatos az, amely az elit számára – úgy a jobboldalon, mint a baloldalon – felfoghatatlan badarságnak tűnik, akkor
+    súlyos probléma van a demokráciánkkal
+    . Ezt a problémát pedig csak úgy tudjuk felfoldani, ha a progresszív oldal képes egy olyan intellektuális keretet mutatni, amely a kitaszítottak számára kézzelfogható problémákról tud morálisan elfogadható és ugyanakkor praktikusan megvalósítható válaszokat adni. Amennyiben ugyanis választani kell a morálisan elfogadható, de kivitelezhetetlen és a morálisan elfogadhatatlan, de hatékony megoldások között, nincsen baloldali politikai tér.
+   </p>
+   <p>
+    <hi rend="bold">
+     Tóth Olivér István
+    </hi>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Apámnak, a jobboldalra
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fff741f6-0b6d-5627-8531-5367e3105a05
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Apámnak, a jobboldalra
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-12-23T19:53:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2015/12/23/apamnak_a_jobboldalra/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2015/12/23/apamnak_a_jobboldalra/
+     </sch:url>
+     <sch:name>
+      Apámnak, a jobboldalra
+     </sch:name>
+     <sch:datePublished>
+      2015-12-23T19:53:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      jobboldal
+     </sch:keywords>
+     <sch:keywords>
+      nemzet
+     </sch:keywords>
+     <sch:keywords>
+      állampolgár
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fff741f6-0b6d-5627-8531-5367e3105a05">
+     <sch:identifier>
+      urn:uuid:53af5923-09d2-46ac-bd5c-a342ad3a145a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:06.052994
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:19:45.312778
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fff741f6-0b6d-5627-8531-5367e3105a05" when="2021-12-14T15:35:06.052994">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Apámnak, a jobboldalra
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Számba vettem, hogy mit kaptam az Apámtól. Mármint hogy mi jót.
+   </p>
+   <p>
+    Amikor „politikailag” egy egyre mérgesedő világ választ el egymástól, akkor ez elég fontossá válik.
+   </p>
+   <p>
+    És hogy miért itt írok erről?
+   </p>
+   <p>
+    Azért, mert a számára oly’ fontos identitását jelentő nemzeti radikális csoportot és gondolkodást is itt támadtam, jó sokszor (egyébként egy lézerágyú erejével és pontosságával, a Dalai Láma bölcsességével, de ez most mindegy). Ezeket a támadásokat pedig jó eséllyel és jó okkal vehette magára.
+   </p>
+   <p>
+    Valamint azért itt írok erről, mert hiszem, hogy van az olvasó számára is hozzáadott értéke annak, ha emberek (sőt még a társadalmi konvenciókkal szembemenve, a férfiak is) az érzelmeikkel foglalkoznak, lelki munkát végeznek. Adott esetben jelentős politikai vetületekkel.
+   </p>
+   <p>
+    A szerző négyévesen, valószínűleg a Kétágú-hegyen, egy sziklamászó táborban
+   </p>
+   <p>
+    Bele a lecsóba.
+   </p>
+   <p>
+    Kedves Apa! Neked köszönhetem a természet szeretetetét. Hogy megismertem természetben való létezés örömét. A mozgás szeretetét. Hogy gyerekkoromba turistaházakba vittetek, evezni, sátrazni, a feljavított orosz katonai UAZ terepjáróval és lakókocsival, amerre csak a szocializmusban a keményen dolgozó kisemberek mehettek. Úsztam a Krka vízesés alatt, búvárkodtam az Adrián, max 10 éves voltam, amikor megmásztuk az Adamello csúcsát (Dolimitok, 3016 méter, rendes mászás, semmi felvonó, kitaposott ösvény!).
+   </p>
+   <p>
+    Kiraktál Dobogókőn az öcsémmel és két pár síléccel, pedig akkor egy nagyobb jégkár miatt még a „szőrös tökű” síelők is járhatatlannak és követhetetlennek tartották az utakat. Az élen járó román ipar termékével, egy ARO terepjáróval vártál ránk Pilisszentkereszten, gondolom azért nem egészen nyugodtan, míg mi meg nem érkeztünk határtalanul boldogan és büszkén. Talán tizenkét éves lehettem.
+   </p>
+   <p>
+    A nudista kempingekben megtanultam a szabadban, barátokkal, meztelenül létezés mélyreható, semmihez nem hasonlítható örömét. Tudok tájékozódni, ha nagyon muszáj lenne, egy háromszögeléses helymeghatározásra most is képes lennék egy tükrös iránytűvel.
+   </p>
+   <p>
+    Korosztályomban alig valaki tudja, hogy a sífutás a világ legjobb sportja, amihez elegendő hó még talán a mostani teleken is előfordul. Én tudom. Ezt is neked köszönhetem.
+   </p>
+   <p>
+    A könyvek szeretete. Benedek István, Hans Hass, Rejtő, Molnár Gábor (Éjbe zuhant évek!), Ray Bradbury, hány éjszaka olvastam zseblámpával a takaró alatt!
+   </p>
+   <p>
+    Neked köszönhetem a rockzenét. Ha nyolcévesen nem ismerem meg a Hobo Blues Band bakelitjeit, a Vadászatot és a Csavargók könyvét, most sehol se lennék, ezt egy Oscar-díj átvételekor is le kellene szögeznem.
+   </p>
+   <p>
+    Az állatok szeretetét. Városi gyerek létemre volt otthon a macska mellett még sünink, ebihalunk, kagylónk, axolotl-ünk is (na ki tudja google nélkül mi az?), másfél napig egy baglyunk is, Kuksinak hívták, és nagyon vicces volt, amilyen döbbent pofával néztek egymással farkasszemet a macskával.
+   </p>
+   <p>
+    A humort. A tudást, hogy játszani, felszabadultan hülyéskedni egészséges, tíz éves kor fölött is. (Most éppen rókát akarsz háziasítani, na kinek van még ilyen apja?!)
+   </p>
+   <p>
+    A fizikai munka szeretetét. Kb. 14 éves voltam, amikor véget ért a zsebpénz, kaptam helyette munkát, keresetet. El sem tudom képzelni az életemet, gondolkodásomat, az építőipari segédmunkásként eltöltött idők tapasztalatai nélkül. És nem csak azért, mert számos pesti házra nézve eszembe jut, hogy a felújításakor én kevertem és adogattam az anyagot, takarítottam a járdát, bibibá, hanem olyan embereket ismertem meg, a városnak olyan arcait, amik visszavonhatatlanul gazdagítanak. El akartam menni vitorlástáborba? Egy teherautónyi sódert lapátoltam és talicskáztam el érte.
+   </p>
+   <p>
+    Lomtalanításból rendeztük be a tanyát (mert tanyánk is volt ám, én ástam ki a betemetett kutat, vagy öt méter mélyen találtam meg a vizet). Egyébként a lomizásért ma rendesen megbüntetnének, lopásnak számít, te meg kiskorút „kényszerítettél” rá. Sosem felejtem el, amikor először kötöztem le egy szekrényt egyedül a tetőcsomagtartón, és te csak két pillantást vetettél rá, nem ellenőrizted le. Megbíztál bennem.
+   </p>
+   <p>
+    Kevés szerszámról nem tudom, hogy miként kell használni, egyszerűbb bútorokat (nem ikeát, sajátot) bármikor összedobok és nagyon szeretem az asztalosmunkák velejáróját, a friss fűrészpor illatát.
+   </p>
+   <p>
+    Vagyis minden olyan dologra megtanítottál, ami az önálló, szabad, testileg és lelkileg egészséges élet alapfeltétele.
+   </p>
+   <p>
+    Kell ennél több?
+   </p>
+   <p>
+    S hogy mi a beígért politikai vetület?
+   </p>
+   <p>
+    Nem sok, de most az is soknak számít.
+   </p>
+   <p>
+    Ma már az is forradalmi tett, ha a dinamós Böcskei Balázs a Terror Házás Békés Mártonnal ír közös könyvet a városról, amelyben mindketten élnek. Forradalmi tett, hogy két, bizonyos (igaz, nem lényegtelen) szempontból eltérű világnézetű ember közösen gondolkodik és dolgozik.
+   </p>
+   <p>
+    Hát az is sok és fontos, ha felidézem és rögzítem, hogy mi minden köt össze valakivel, akiről úgy érzem, másik világban él, más valóságot érzékel.
+   </p>
+   <p>
+    Hiszen bármi is lesz a jövőben Magyarországon, bárki is fog „győzni”, a másikkal, a másikkal és táborával együtt kell élni. Más választás akkor sincs, ha Nemzeti Együttműködés Rendszerének nagybetűvel írt Magyar támogatói szeretnek olyanokat skandálni, mint „zsidókat a Dunába, buzikat meg utána” – amibe felmenőim és szexuális szokásaim ismerete nélkül evidens módon engem is bele értenek, biztos, ami biztos.
+   </p>
+   <p>
+    Ez az álmuk nem fog valóra válni.
+   </p>
+   <p>
+    Úgyhogy igenis rögzítsük, újra és újra, hogy mi minden köt össze és mi mindent köszönhetünk egymásnak – ha nem is a másik politikai identitásán keresztül. Hanem mint szülők, szülőtársak, sporttársak, a pult másik oldalán ülők, mint akik sorban álláskor jófejek vagyunk egymáshoz, mint akik vigyázunk a közös utcáinkra és erdeinkre, mint akik foglalkozunk a másik számára is fontos elhagyott gyerekekkel és kutyákkal. Mint akik tudják, maroknyian a hétmilliárdból, hogy miért olyan csodálatos Babits, vagy éppen a Szabadság-híd alkonyatkor, amikor már ki van világítva, de a Vár fölött, a János-hegy felé még egész világoskék az ég, pont mint egy Csontváry-képen, és fúj a szél, épp nem túl erősen, csak annyira, hogy jobban érezzük a teret magunk körül.
+   </p>
+   <p>
+    Együttélésre vagyunk ítélve, és ez ha fárasztó is, egyáltalán nem tragédia. Jobb fejben és szívben tartani mindazt, ami ebből következik.
+   </p>
+   <p>
+    <hi rend="bold">
+     Vay Márton
+    </hi>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

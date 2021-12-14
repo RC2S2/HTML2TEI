@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hiába a videók és a tanúk a túlkapásokról, nem vizsgálják a TEK röszekei attakját
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     265163f9-0453-5904-9307-102e2e6397bd
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hiába a videók és a tanúk a túlkapásokról, nem vizsgálják a TEK röszekei attakját
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-09-30T20:49:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2015/09/30/hiaba_a_harom_video_es_a_tanuk_akik_tulkapasokrol_beszelnek_nem_vizsgaljak_a_tek_roszekei_atakjat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2015/09/30/hiaba_a_harom_video_es_a_tanuk_akik_tulkapasokrol_beszelnek_nem_vizsgaljak_a_tek_roszekei_atakjat/
+     </sch:url>
+     <sch:name>
+      Hiába a videók és a tanúk a túlkapásokról, nem vizsgálják a TEK röszekei attakját
+     </sch:name>
+     <sch:datePublished>
+      2015-09-30T20:49:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="265163f9-0453-5904-9307-102e2e6397bd">
+     <sch:identifier>
+      urn:uuid:1d7b4cc1-5e06-4247-9cdd-00ec3c787189
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:07.802896
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:17:30.536711
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="265163f9-0453-5904-9307-102e2e6397bd" when="2021-12-14T15:35:07.802896">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hiába a videók és a tanúk a túlkapásokról, nem vizsgálják a TEK röszekei attakját
+   </head>
+   <p>
+    Ez a cikk több mint 6 éves.
+   </p>
+   <p>
+    Nem vizsgálja ki a rendőri vezetés, hogy a szeptember 16-án, Röszke-Horgos határátkelőhelyen kialakult helyzet rendőri kezelése megfelelő volt-e, mivel az minden tekintetben megfelelő volt – ezt közölte az
+    Országos Rendőr-főkapitányság (ORFK) az atlatszo.hu megkeresésére
+    .
+   </p>
+   <p>
+    Pedig az elmúlt két hétben sorra kerültek elő a bizonyítékok, felvételek és tanúk, akik állítják, az esemény egy adott pontján a rendőrség elkezdett hátrálni, hogy azt az 50-100 fős csoportot, akik kövekkel dobáltak, Magyarországra csalja, és intézkedhessen velük szemben. Csakhogy tájékoztatás és információ hiányában a menekültek – ahogy ez több videón is látszik – azt hitték, megnyílik a magyar határ, és a békés menekültek is elkezdtek a határ felé áramolni, „Thank you Hungary, thank you Hungary!” kiáltásokkal. Majd pár másodperc múlva elindult a TEK rendőrattakja, amelyben viperát is használva, válogatás nélkül ütöttek mindenkit, nőket, gyerekeket, férfikat. A támadásban a menekültek mellett
+    újságírók
+    is megsérültek.
+   </p>
+   <p>
+    Aki pedig az események közben magyar oldalra sodródott, tiltott határátlépés miatt előállitották. Így került 2 rokkant férfi, és egy idős cukorbeteg nő is előzetes letartoztatásba, akinek minden emberséget nélkülöző fogvatartásáról a
+    helsinki bizottság ügyvédje addott tájékoztatást
+    .
+   </p>
+   <p>
+    Az Al Arabyia felvétele:
+   </p>
+   <p>
+    Az Al-Arabiya helyszíni felvételén is menekültverésnek látszik…
+   </p>
+   <p>
+    Az Al-Arabiya helyszíni felvételén is menekültverésnek látszik a röszkei csatahttp://blog.atlatszo.hu/2015/09/az-al-arabiya-helyszini-felvetelen-is-menekultveresnek-latszik-a-roszkei-csata/
+   </p>
+   <p>
+    Posted by
+    atlatszo.hu
+    on 2015. szeptember 29.
+   </p>
+   <p>
+    A Jobbik-közeli N1Tv felvétele:
+   </p>
+   <p>
+    2015.09.16. rendőr attack Röszke
+    from
+    atlatszo.hu
+    on
+    Vimeo
+    .
+   </p>
+   <p>
+    A rendőrség felvétele:
+   </p>
+   <p>
+    De a videók mellet erről nyilatkozott
+    egy szlovák
+    és egy
+    ausztrál újságíró
+    , a magyar
+    Fejér Martin
+    is, és
+    a helyszínen nekünk nyilatkozó szír férf
+    i is ezt erősítette meg, nem beszélve a
+    Hír24
+    és a
+    444 információiról
+    .
+   </p>
+   <p>
+    Tehát minimum kérdéses a TEK szerepe az intézkedés helyessége, arányossága és jogossága a röszkei intézkedésben. Az Átlátszónak a TEK nem is válaszolt, és nem kaptak arra sem választ, ki vezényelte és milyen parancs alapján a TEK mozgását.
+   </p>
+   <p>
+    2006 utóélete is valahogy így kezdődött. Először tagadták az rendőri túlkapásokat, majd az akkori ellenzék (a Fidesz), a jogvédő szervezetek és a média nyomására kivizsgálták azokat. Az egyetlen különbség a két helyzet között jelenleg az, hogy a röszkei balhéért még nem tüntettek ki senkit.
+   </p>
+   <p>
+    Persze azt is meg kell jegyezni, nyilvánvalóan kemény melót vállaltak magukra a rendőrök Röszkénél, és a körülményekhez képest nagyrészt emberségesen látták el a feladatukat. Az eddigi információk szerint pedig nem is a mezei rendőrök, hanem parancsnokaik illetve a TEK egységei hibáztak, akiknek az átlátszónak nyilatkozó volt rendőrségi vezető szerint nincs is ilyen tapasztalatuk. A rendőrségi vezető szerint abban is hibázott a rendőrség, hogy fölöslegesen kockáztatta kisrendőrök testi épségét.
+   </p>
+   <p>
+    Mindenesetre vizsgálatra szükség lenne a Röszkén történtekről. Nem szabad hagyni, hogy normává váljanak azok az eljárások, amiket a fenti videók és tanúk dokumentálnak. Az állami erőszakszervekkel lehet élni, és van amikor be is lehet őket vetni, de tanulni kell a hibákból is, hogy ne ismétlődjenek meg újra.
+   </p>
+   <p>
+    Mi továbbra is bízunk (bár egyre kevésbé van rá okunk), hogy legalább az ellenzéki pártok vizsgálatot fognak a parlamentben kezdeményezni, és a rendőrség is elindítja azt az eljárást, amit ilyenkor kötelező lenne.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét nektek írjuk, és fenntartásához a ti támogatásotokra számítunk! Ha te is szeretnéd tudni mi történt pontosan Röszkénél,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

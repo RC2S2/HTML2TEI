@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Greenpeace: a kormány 50% napelem – 50% Paks terve blöff
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5d5c941b-97a9-5663-b90c-ea6e167cf079
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Greenpeace: a kormány 50% napelem – 50% Paks terve blöff
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-02-16T17:37:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/02/16/greenpeace-a-kormany-50-napelem-50-paks-terve-bloff/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/02/16/greenpeace-a-kormany-50-napelem-50-paks-terve-bloff/
+     </sch:url>
+     <sch:name>
+      Greenpeace: a kormány 50% napelem – 50% Paks terve blöff
+     </sch:name>
+     <sch:datePublished>
+      2018-02-16T17:37:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      greenpeace
+     </sch:keywords>
+     <sch:keywords>
+      megújuló energia
+     </sch:keywords>
+     <sch:keywords>
+      paksi atomerőmű
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5d5c941b-97a9-5663-b90c-ea6e167cf079">
+     <sch:identifier>
+      urn:uuid:f7a46ad8-9dce-415f-b3cd-cc7459c4453c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:30.940315
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:45:04.902234
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5d5c941b-97a9-5663-b90c-ea6e167cf079" when="2021-12-14T15:30:30.940315">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Greenpeace: a kormány 50% napelem – 50% Paks terve blöff
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A csütörtöki kormányinfón
+    Lázár János bejelentette
+    , hogy folytatódik a zöldforradalom. Állítása szerint a jövőben Magyarország áramellátását 50 százalékban a paksi atomerőművek biztosítanák, 50 százalékban pedig a megújuló energiaforrások, egész pontosan a napenergia.
+    A Greenpeace szerint
+    ez a bejelentés, amit Lázár 2017 áprilisában lengetett be először, nonszensz, mivel egyrészt elképesztően messze vagyunk jelenleg ettől a céltól, másrészt több gyakorlati akadálya is van a teljesülésének.
+   </p>
+   <p>
+    A
+    legfrissebb Eurostat-jelentés
+    szerint Magyarország az EU-s országok között hátulról a harmadik a zöldenergiafelhasználás mértékében: a magyar áramnak csak a 7,2 százaléka származik megújuló forrásból. Nálunk csak Luxemburg és Málta teljesít rosszabbul. Ehhez képest Ausztria 72,6 százalékban, Svédország 65 százalékban, Portugália, Dánia és Lettország 50 százalékban megújuló forrásból fedezi az áramellátását. Már ennyiből is látszik, mennyire távol vagyunk attól, hogy elérjük az áhított 50 százalékos szintet.
+   </p>
+   <p rend="head">
+    2010 óta lényegében nem nőtt Magyarországon a megújuló energiaforrásokból származó áram, ráadásul 2016-ban a kormány
+    szinte betiltotta
+    a szélerőművek építését, a napenergia lakossági felhasználását pedig „
+    indokolatlanul magas környezetvédelmi termékdíj, magas áfa és úgynevezett elosztói teljesítménydíj
+    ” is akadályozza.
+   </p>
+   <p>
+    A kormányinfón Lázár napelemparkok létrehozását ígérte, az általuk előállított áramot pedig az áramelosztó cégeknek kötelezően fogadniuk kellene. A Greenpeace szerint ez is elhibázott hozzáállás, mivel az „európai tapasztalatok azt mutatják, hatalmas gazdasági és társadalmi változást hozhat egy olyan decentralizált rendszer kiépítése, amikor magánszemélyek, esetleg társasházak, kisvállalkozások telepítenek kisméretű (legfeljebb néhány 10 kW-os) napelemes rendszereket.”
+   </p>
+   <p>
+    Ehhez képest a nagyobb napelemparkok kevesebb szereplőt vonnának be, miközben az erőműveket valószínűleg mezőgazdasági területeken alakítanák ki – pedig a lakossági tulajdonban lévő háztetőkön hétszer annyi napelemet lehetne elhelyezni, mint amennyit Lázár a bejelentésében ígért.
+   </p>
+   <p rend="head">
+    „Mindezzel nemcsak értékes termőterületeket vonhatnak ki a forgalomból, de csökkentenék a megújulók decentralizációját, és így az abból fakadó társadalmi, gazdasági, környezeti, energetikai előnyöket is,” – írja a Greenpeace.
+   </p>
+   <p>
+    Ezeken a problémákon felül pedig a környezetvédő szervezet szerint Paks II. nem is kombinálható a megújuló energiaforrásokkal – legalábbis nem úgy, hogy 50-50 százalékos arányban termeljék ki a magyar áramellátást. Az atomerőműveket biztonsági és műszaki okokból nem lehet akkor leállítani, amikor a nap- és szélerőművek az aktuális időjárás miatt épp több és olcsóbb áramot termelnek. Így Paks II és a megújuló források nem kiegészítenék egymást, hanem versenytársak lennének.
+   </p>
+   <p>
+    Az államnak ráadásul nem áll érdekében a paksi árammal szemben a megújulók által termelt áramot támogatnia, mivel az új atomerőműnek „nemcsak a hazai, hanem a regionális piacon is kéne majd versenyeznie. A megújulók gyors terjedése miatt azonban a Paks II. által megtermelt drága áramra várhatóan nem lenne kereslet. A magyar állam így minden bizonnyal nem lenne érdekelt abban, hogy a megújulók használatát komoly mértékben támogassa.”
+   </p>
+   <p>
+    Így bár fantasztikus lenne, ha Magyarország a következő években egyre inkább át tudna állni a megújuló energiaforrások használatára, a tények és jelenleg létező körülmények (főleg Paks II. épülése) ennek a valószínűségét erősen megkérdőjelezik.
+   </p>
+  </body>
+ </text>
+</TEI>

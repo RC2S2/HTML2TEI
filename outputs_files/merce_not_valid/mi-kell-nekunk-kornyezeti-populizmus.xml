@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mi kell nekünk? Környezeti populizmus!
+    </title>
+    <author>
+     <persName>
+      Kárpáti Jakab
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fbdbc605-6542-5ab4-a3ca-acfd7fa11359
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mi kell nekünk? Környezeti populizmus!
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kárpáti Jakab
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-03-27T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/03/27/mi-kell-nekunk-kornyezeti-populizmus/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/03/27/mi-kell-nekunk-kornyezeti-populizmus/
+     </sch:url>
+     <sch:name>
+      Mi kell nekünk? Környezeti populizmus!
+     </sch:name>
+     <sch:datePublished>
+      2019-03-27T20:30:00
+     </sch:datePublished>
+     <sch:author>
+      Kárpáti Jakab
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      nagyvállalatok
+     </sch:keywords>
+     <sch:keywords>
+      globális felmelegedés
+     </sch:keywords>
+     <sch:keywords>
+      fogyasztás
+     </sch:keywords>
+     <sch:keywords>
+      piac
+     </sch:keywords>
+     <sch:keywords>
+      fenntarthatóság
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fbdbc605-6542-5ab4-a3ca-acfd7fa11359">
+     <sch:identifier>
+      urn:uuid:d4787d4e-7265-4a69-8c51-35aaf286aea7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:24.514867
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:26:05.874163
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fbdbc605-6542-5ab4-a3ca-acfd7fa11359" when="2021-12-14T15:30:24.514867">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mi kell nekünk? Környezeti populizmus!
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Huszonegy éves vagyok, Angliában, a durhami egyetemen tanulok szociológiát, nemzetközi kapcsolatokat és földrajzt. Határozott elképzelésem volt a jövőmről: a külföldön megszerzett diplomámmal, az ott begyűjtött tudással megpróbálok bekapcsolódni a magyarországi politikai életbe, és valamilyen módon igyekszem hozzájárulni az ország helyzetének javításához.
+   </p>
+   <p>
+    Semmi kétség, van tennivaló: az otthon nem létező menekültek elleni vad gyűlölet fojtogatja Magyarországot, miközben az igazi baj, hogy a nélkülözésben élők száma a
+    negyedik legnagyobb Európában
+    . A temérdek magyar probléma közül ez két olyan pont, amiről azt gondoltam, hogy ha a megoldásukért teszek, akkor valamiféle nagyobb jóért teszek: csökkentem a gyűlöletet és a szegénységet a világban.
+   </p>
+   <p>
+    Ezekről a tervekről lemondtam. Nem fogok magyarországi vidékfejlesztéssel, lakás- vagy oktatáspolitikával foglalkozni. Legalábbis egy pár évtizeden át biztos, hogy nem. Nem azért, mert kiábrándultam az országból, vagy mert beleszerettem egy angol lányba. Hanem azért, mert jelenleg nem Magyarország kérdése a legnagyobb probléma.
+   </p>
+   <p rend="head">
+    A sürgető kérdés, hogy lehet-e ezen a bolygón élni néhány évtized múlva. Hogy vállalhatunk-e gyerekeket anélkül, hogy a legmélyebb ösztöneinkkel ütköző bűntudatot éreznénk emiatt.
+   </p>
+   <p>
+    A probléma az, hogy
+    tizenkét évünk van gyökeresen változtatni az életmódunkon
+    . Ha ezt megtesszük, akkor reménykedhetünk benne, hogy nem lesz végzetes a kár, amit okoztunk. Ha nem teszünk semmit, akkor kétezerszázra kihalunk vagy a Marsra kell költöznünk. Ami az én személyes problémáimat illeti, határozottan nem szeretnék se idő előtt kihalni, se a Marsra költözni.
+   </p>
+   <p>
+    De hogyan lehet a globális felmelegedés tényével szembenézni? Egy biztos: először három szereplő felelősségét kell tisztázni.
+    Helyes a felvetés
+    , hogy a globális felmelegedés nem az egyéni felelősség kérdése. A kevesebb áramhasználat, a visszafogott marhahúsevés, ritkább repülőre szállás, vagy mindezek teljes elhagyása életbe vágó, de ne az átlagember vállára rakjuk a világ megmentésének terhét, és ezáltal ne mentsük fel a valós felelősöket.
+   </p>
+   <p>
+    Igaz, a különböző vállalatok gyártják a környezetszennyező termékeket, és így pusztítják a természetet. Dühítő gondolat, hogy néhány erkölcstelen pénzeszsák ül az olajból szerzett vagyonán, és a környezettel mit sem törődve egyre nagyobb és nagyobb haszonra vágyik.
+   </p>
+   <p>
+    De egy racionalistább megközelítésben, azaz a vállalatok rövid és hosszú távú szempontjait tekintve már más a helyzet. Gondoljunk bele, egy kiszolgáltatott munkás általában rövid távon gondolkozik: a létbiztonság elvesztésének veszélye a domináns érzés, nem a környezeti tudatosság.
+   </p>
+   <p>
+    Másrészről a cég hosszú távú szempontja, hogy helyt álljon a versenyben, és ne menjen csődbe, ami lássuk be, nem csak a tulajdonosok érdeke, hanem az alkalmazottaké is. Tehát egy vállalatnak meg kell felelnie a részvényesek elvárásainak, biztosítaniuk kell az alkalmazottaik megélhetését, illetve mindezeknek eleget téve fejlődniük kell, hogy helyt álljanak a cégek közötti vetélkedésben.
+   </p>
+   <p rend="head">
+    Tény, hogy ez nem fenntartható a globális felmelegedés tekintetében, de a kapitalista rendszer „kényszeríti” a piac szereplőit erre a fajta működésre.
+   </p>
+   <p>
+    Távol álljon tőlem, hogy mentegessem az olajvállalatokat, de sajnos nem tartom reálisnak, hogy egyik pillanatról a másikra bezárják a kapuikat és kevésbé nyereséges, de környezettudatos vállalkozásokba fogjanak, maguktól.
+   </p>
+   <p>
+    Fontos elismerni a fentiek alapján, hogy mind az egyének és a vállalatok jogok és szabályok mentén teszik azt, amit tesznek: jogom van bármit megvenni, amit legális úton-módon eladnak nekem. A vállalatoknak pedig adott, hogy a szabadverseny keretein belül, a profitmaximalizálás jegyében működjenek. Ez a két, valamiféle felvilágosult szabadságra épülő jog vezet nagy vonalakban a globális felmelegedéshez.
+   </p>
+   <p rend="head">
+    Ebből én arra következtetek, hogy azt a szereplőt terheli a felelősség, aki a szabályokat hozza: a politikust.
+   </p>
+   <p>
+    Az állam több módon is tud tenni a környezetért. Például, Alexandria Ocasio-Cortez, New York állam 14-es számú körzetének képviselője,
+    szeretné bevezetni az úgynevezett zöld New Deal keretein belül a marhatartás korlátozását
+    . Az amerikai nép nagy tömegekben hördült fel attól félve, hogy sztálini elképzelések mentén most betiltják a hamburgert. Azonban a modern technológia nem csak a környezetvédő elképzelést teszi lehetővé, de a hamburgert sem veszi el az amerikai néptől: bizonyos startupok kifejlesztettek egyfajta módszert, hogy előállítsanak szinte marhahússal megegyező élelmiszert, ami valójában nem tartalmaz marhahúst.
+   </p>
+   <p>
+    Vagy persze ott vannak más, hagyományosabb törvények, mint például a környezetvédelmi területek meghatározása.
+   </p>
+   <p>
+    Ezek mind reményteli lépések, de szerintem az adórendszerben rejlenek igazán kecsegtető lehetőségek.
+   </p>
+   <p>
+    A politika és a gazdaság viszonya nem egyszerű, de egy valami könnyen átlátható: a kormányok adókat vetnek ki és behajtják azokat. A vállalatok a profitmaximalizására törekszenek. Ebből logikusan következik, hogy minél alacsonyabb az adó, annál nagyobb a haszon. Szóval az adókulcsok meghatározásával a politikusok irányítják, hogy mi profitábilis üzlet, és mi nem az. A politikusok hozzák a szabályokat, a gazdaság szereplői pedig alkalmazkodnak azokhoz. Viszont a politikus dolga, hogy ezeket a szabályokat a jólét és az igazságosság jegyében hozza meg. A globális felmelegedés kontextusában pedig a fenntarthatóság az irányadó elv.
+   </p>
+   <p>
+    Ezen a vonalon továbbmenve, Ürge-Vorsatz Diána az Éghajlat-változási Kormányközi Testület (IPCC) mérséklésért felelős munkacsoportjának alelnöke
+    kifejtette
+    , hogy a jelenlegi globális szén-dioxid-kibocsátás mellett a 4-6 fokos hőmérséklet-emelkedés lenne reális. Ez már az a határ, ami mellett nem tehetnénk mást, el kellene költözni és tiszta lappal nyitni a Marson.
+   </p>
+   <p>
+    Ahhoz, hogy ezt elkerüljük, szembe kell nézni a ténnyel, hogy a kibocsátás mértékének egy meghatározó szereplője például a légi közlekedés (de itt persze más példáit is hozhatnánk az üvegházhatású gáz kibocsátásának). Ha ezzel szembenéztünk, hangsúlyozni kell, hogy a fenntarthatóság csakis egy roppant fontos elv mentén valósulhat meg: globális elképzelések mentén, lokális cselekedetek által.
+   </p>
+   <p>
+    De természetesen a lokális cselekedeteknek globális méreteket kell ölteniük. Szóval, ha az a cél, hogy csökkentsük a globális széndioxid-kibocsátást, akkor nem elég egy államban súlyos adóterheket kivetni a kerozin értékesítésére, mivel ebben az esetben a repülők felvehetnek üzemanyagot egy másik országban, vagy a légitársaságok kivonulhatnak az adott országból. Ezzel a környezettudatos állam talán megdicsőülne, de semmi mást nem érne el: kiesne a globális gazdaság vérkeringéséből, és az önfeláldozásán mások nyerészkednének.
+   </p>
+   <p>
+    Ez annyit jelent, hogy a globális felmelegedést értelemszerűen csak globális megoldásokkal lehet lassítani. Ez az állítás, félek tőle, hogy naivan hangzik, és a megvalósítása ezer problémát és nehézséget hordoz magában.
+   </p>
+   <p rend="head">
+    De én sem amellett érvelek, hogy el lehet képzelni egy repülők nélküli világot, hanem hogy a fejlődést kell más mederbe terelni.
+   </p>
+   <p>
+    Például elektromos repülők gyártásának ösztönzésével. Vagy megújuló energiaforrások globális felhasználásával. Ezt pedig a politika tudja adókkal megtámogatni. És ha a politikus szakma idealista, de egyben lényeglátó szinten a társadalom érdekeinek képviseletéről szól, akkor a politikus erkölcsi kötelessége, hogy az ártalmas üzletágakat elrettentse adóemeléssel, másokat meg adócsökkentéssel helyzetbe hozzon.
+   </p>
+   <p>
+    Már ha a Marsra költözés az érdekeink ellen való. Ezt mindenki döntse el magának.
+   </p>
+   <p>
+    De mi egy politikus lényegi – nem erkölcsi – célja? Hogy szavazatokat szerezzen. Ha a politikusok a szavazatmaximalizálásra törekszenek, akkor olyan dologgal kampányolhatnak csak, ami húsba vágó és látványos. A kérdés, hogy a globális felmelegedés már elég látványos-e. Elég-e, ha számítások jelennek meg arról, hogy a grönlandi jéghegyek olvadásával mennyit emelkedik a vízszint, és elönti a part menti városokat, vagy meg kell-e ennek történnie, hogy a csónakban ülve majd azon gondolkozzunk, melyik pártra kellett volna szavazni.
+   </p>
+   <p>
+    Kérdés, hogy mikor érné meg a politikusnak a környezetvédelemmel kampányolni? Akkor, ha ez választási sikerrel kecsegtet. Azt gondolnám, hogy a globális felmelegedés elleni harc adja magát mint sikeres kampányüzenet: nem akarunk 2100-ban a Marsra költözni! De azt figyelhetjük meg, hogy az idegengyűlöletben valamiért nagyobb potenciált látnak a nemzeti kormányok. Morális szempontból nyilván a klímaváltozással kéne kampányolni, de én itt most nem csak a morális szempontokra szeretném felhívni a figyelmet.
+   </p>
+   <p>
+    Vegyük például a menekültkérdést: a migrációs válságra adott válasz nem csak a magyar kormány esetében áll igen messze a jóérzéstől. Ezért félő arra gondolni, hogy mi lesz a jövőben:
+    a globális felmelegedés több százezres menekülthullámokat fog elindítani a szárazság és az élelmiszerhiány következtében a Közel-Keletről és Afrikából Európa irányába
+    , amit, a mostani helyzetet elnézve, nem feltétlenül tud majd Európa egésze megfelelően kezelni. Tehát a globális felmelegedés lassítása megakadályozná, hogy milliók körülményei váljanak teljesen élhetetlenné.
+   </p>
+   <p>
+    Amellett a klímaváltozás elleni harccal nem csak környezeti katasztrófákat lehetne elkerülni, de a klímamenekültek érkezésével fellépő esetleges konfliktusokat és kiadásokat is.
+   </p>
+   <p rend="head">
+    Ez az érv valamire mindenképpen rávilágít: az államok részéről minden menekültellenes megnyilvánulás teljesen hiteltelen, ha azok egyidejűleg nem tesznek a klímaváltozás ellen is.
+   </p>
+   <p>
+    Természetesen szó sincs róla, hogy menekültek elleni gyűlöletkampány bármilyen módon is morálisan indokolható lenne. Viszont ha nem tudja Európa megfelelően kezelni a menekültkérdést, akkor egy populista kampánynak lehet része a további menekültválságok elkerülésének üzenete, amit a globális felmelegedés elleni harccal lehet elérni. És ennek az üzenetnek kétoldalúnak kell lennie: európai szempontból az esetleges pénzügyi terhek és konfliktusok elkerülését, míg a globális felmelegedés által drámaian érintett területek lakóinak szempontjából az élhető körülményeik megőrzését kell hangsúlyozni. Tehát a kampánynak ez az aspektusa az érdekeinket és morális kötelességeinket is szolgálhatná.
+   </p>
+   <p>
+    És ez nem csak sikeres kampányüzenetként működhetne, de egy konkrét utat is kijelölne a pártok számára. A Környezeti Igazságosság Alapítvány (EJF) ügyvezető igazgatója, Steve Trent
+    összefoglalta
+    , mire lenne szükség, hogy elkerüljük a világ legnagyobb menekültválságát: fokozatosan meg kell szüntetni az üvegházhatású gázok kibocsátását és létre kell hozni egy nemzetközi jogi hálózatot a klímamenekültek védelmének érdekében.
+   </p>
+   <p>
+    Másik fontos kérdés, hogy a pártok miből finanszíroznák a kampány és a program véghezvitelét? A pénzügyi részt tekintve, egyrészt azt gondolom, hogy nemzetközi ösztönzőkkel lehet a környezetvédő politikát elősegíteni. Olyan alapokat kell létrehozni, amik jelentős pénzügyi támogatást adnak azoknak a pártoknak, amik a globális felmelegedés elleni harcot tűzték zászlajukra. Szerintem ez nem egy lehetetlen elképzelés, tekintve, hogy a
+    Világbank 200 milliárd dollárt fektet 2021 és 2025 között a klímaváltozás csökkentésébe
+    .
+   </p>
+   <p>
+    Tehát vannak források, amikből lehetne támogatni a klímavédő pártokat és kampányokat.
+   </p>
+   <p>
+    Másrészről a
+    zöld adó narratívájában
+    , ha a kormány azt adóztatná, ami értéket vesz el, tehát a környezetszennyezést, ahelyett, hogy megadóztatná, ami értéktöbbletet jelent, vagyis a munkát, azzal nem csak a jólétet, de a környezetvédelmi program finanszírozását is elősegíthetné.
+   </p>
+   <p>
+    Hosszabb távon persze ott van, ideális esetben, az adóemeléssel megszüntetett olajvállalatok és repülőgyárak kérdése. Nehézséget jelentene, hogy ezek a cégek már nem adóznának. Ebben az esetben fontos, hogy a piacot kapitalista elvek mentén, de a fenntarthatóságot szem előtt tartva szervezzük.
+   </p>
+   <p>
+    Szóval, a gazdasági erőviszonyok átrendeződésével megoldható lenne az anyagi források előteremtése: ha az olajvállalatok és a hagyományos repülőgépgyárak helyett megújuló energiaforrásokat és elektromos repülőket fejlesztő cégek jönnek létre, akkor azok pótolhatnák az adókiesés legalább egy részét.
+   </p>
+   <p>
+    Reménykedem benne, hogy a feljebb említett szempontok lehetővé tennék drasztikus klímavédő programok megszületését. Ha igen, nincs más hátra: a klímaváltozás lassításának víziójával tematizálni kell a politikai diskurzust. És ezzel a vízióval választást nyerni. A mi felelősségünk pedig az, hogy arra a pártra szavazzunk, amelyiknek a globális felmelegedés elleni harc a programja. És természetesen az, hogy vasszigorral kérjük számon a program teljesítését.
+   </p>
+   <p>
+    Szerintem eljött az a pont, amikor már van ennek valódi politikai ereje, már látszik a hatása, átment a köztudatba, most lehet a globális felmelegedés kérdését megragadni reálisan. Ezt mutatja a
+    Cofidis Hitel Monitor felmérése
+    , miszerint jobban félnek az emberek a globális felmelegedéstől, mint egy újabb gazdasági világválságtól.
+   </p>
+   <p>
+    Fontos kiemelni: a fentebbiekkel egy reális utat próbáltam felvázolni, de a lényeget tekintve nem arról van szó, hogy a globális felmelegedés elleni harc – mint program – egy potenciálisan sikeres módja a politikai hatalom megszerzésének. Nem is az a kérdés, hogy a politika más tartalmi dimenziói mit tudnak kínálni a különböző társadalmi csoportoknak. Nem lényeges, hogy megrendül-e a nemzetállam szuverenitása egy-egy globális klímavédő rendelet következményeképpen.
+   </p>
+   <p rend="head">
+    Aki azt állítja, hogy a környezetvédelem összeegyeztethetetlen a gazdasági növekedéssel, annak nem azért nincs igaza, mert a két cél igenis összeegyeztethető, hanem azért téved, mert a környezetvédő politika egyszerűen élet-halál kérdése.
+   </p>
+   <p>
+    Tehát van egy politikai program, és csak egy politikai program van: a globális felmelegedés elleni harc programja.
+   </p>
+  </body>
+ </text>
+</TEI>

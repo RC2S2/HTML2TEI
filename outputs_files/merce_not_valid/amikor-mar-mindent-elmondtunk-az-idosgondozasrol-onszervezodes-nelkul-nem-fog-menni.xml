@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amikor már mindent elmondtunk az idősgondozásról: önszerveződés nélkül nem fog menni
+    </title>
+    <author>
+     <persName>
+      Milánkovics Kinga
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ae041770-3e95-5def-a24c-a4db6d34f975
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Amikor már mindent elmondtunk az idősgondozásról: önszerveződés nélkül nem fog menni
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Milánkovics Kinga
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-06-23T17:43:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/06/23/amikor-mar-mindent-elmondtunk-az-idosgondozasrol-onszervezodes-nelkul-nem-fog-menni/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/06/23/amikor-mar-mindent-elmondtunk-az-idosgondozasrol-onszervezodes-nelkul-nem-fog-menni/
+     </sch:url>
+     <sch:name>
+      Amikor már mindent elmondtunk az idősgondozásról: önszerveződés nélkül nem fog menni
+     </sch:name>
+     <sch:datePublished>
+      2020-06-23T17:43:00
+     </sch:datePublished>
+     <sch:author>
+      Milánkovics Kinga
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      szociális ellátórendszer
+     </sch:keywords>
+     <sch:keywords>
+      idősgondozás
+     </sch:keywords>
+     <sch:keywords>
+      önszerveződés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ae041770-3e95-5def-a24c-a4db6d34f975">
+     <sch:identifier>
+      urn:uuid:356e633d-2313-4a2c-963a-a035d63349db
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.886707
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:14:26.838421
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ae041770-3e95-5def-a24c-a4db6d34f975" when="2021-12-14T15:35:04.886707">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Amikor már mindent elmondtunk az idősgondozásról: önszerveződés nélkül nem fog menni
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egy ideje jobbnál jobb cikkek születnek az idősgondozás egyéni, közösségi és strukturális nehézségeiről, a koronavírus-járvány kapcsán pedig most még aktuálisabbá vált a téma. A társadalmi dialógusba egyértelműen beemelődött a probléma, ami igen örömteli előrelépés.
+   </p>
+   <p>
+    Öt évvel ezelőtt még örültek az érintettek, ha egy-egy jó írás megszületett a témában, lelkesen osztottuk őket a köreinkben és a közösségi médiában. Mostanában már napi több cikk is olvasható, válogatni is lehet. Magyar nyelvű írások sokasága jelenik meg az ápolók, az idősgondozók, a családok, az idősek nézőpontjairól, megélt valóságáról, olvashatunk az érzelmekre és az értelemre ható szövegeket, megindító, felkavaró, szép, sokkoló történeteket, közgazdasági elemzéseket, társadalmi, szakpolitikai javaslatokat.
+   </p>
+   <p>
+    Így már kimondható: immáron elvileg mindenki mélységében ismerheti a problémát. Van elég információ, hozzáférhető a problémakörrel kapcsolatos tudás és a megoldási javaslatok is. A kérdés egyre inkább az, hogy mit kezdünk mindezzel a tudással? Hogyan tud ez társadalmi változássá, emberbarátabb rendszerré alakulni?
+   </p>
+   <p>
+    Tudhatjuk például, hogy az idősotthoni férőhelyek száma nyomasztóan kevés, hogy bekerülni több éves várakozás után várólistáról, vagy a „bekerülési feketepiacról” lehet, és hogy nincs elég ápoló, sem felszerelés. Azt is tudhatjuk, hogy az állami otthoni idősellátás színvonala az ország legtöbb részén teljesen elfogadhatatlan, és praktikusan sokak számára nem is hozzáférhető. Harminc éve van ez így, minden kormány felelős érte, ráadásul a helyzet folyamatosan romlik.
+   </p>
+   <p>
+    Azt is tudhatjuk, hogy a családok magukra hagyva, egyedül küszködve próbálják megoldani a saját idős rokonaik ellátását a feketepiacról. A körülmények vadnyugatiak (vagy inkább vadkeletiek), nincs minőségbiztosítás, ellenben a szektort áthatják a visszaélések. Számtalan olyan család van, ahol nincs pénz fizetett ápolót felfogadni, itt a családtagok erőn felül, kimerülten, katasztrofális fizikai és mentális állapotban próbálnak helytállni. Az emberek, hacsak nem egy kő alatt élnek, pontosan tudhatják mindezt. Pontosan tudható, hogy nincsenek rendes és jó megoldások.
+   </p>
+   <p>
+    Ebbe a térbe ütött be a koronavírus pár hónappal ezelőtt, ennek kapcsán pedig az idősgondozás kérdésköre a korábbinál is nagyobb nyilvánosságot kapott. A járvány mint egy nagy teljesítményű nagyító, belezoomolt az idősek és a családjaik valóságába.
+   </p>
+   <p>
+    Bár a nagypolitikában az egymással csatázó felek igyekeznek egymásra hárítani a felelősséget, pontosan lehetett tudni, hogy az önkormányzati fenntartású idősotthonok nagy részében évtizedek óta áldatlan állapotok vannak, függetlenül attól, hogy épp milyen színű volt a kormány vagy az önkormányzat.
+   </p>
+   <p>
+    A járvány kitörése után, és főképpen mikor elkezdték kitenni a kórházakból az öregeket, az idősgondozási ügyekben segítő Ozmózis Közösségi Idősgondozási Programunkat többen is megkeresték azzal, hogy mit lehet ilyen helyzetben csinálni, mi a jó megoldás. Újságírók és családok egyszerre keresték a válaszokat, mivel hirtelen és váratlanul kellett megoldásokat találni az újonnan érintettek ezreinek. Leírom itt is, amit mindenkinek elmondunk: nincsenek jó megoldások. Rossz és mégrosszabb megoldások vannak. Illetve néha-néha szerencsés megoldások is, ha  több szükséges körülmény véletlenül egyszerre teljesül. De ezek a ritkább esetek.
+   </p>
+   <p>
+    Az
+    Ozmózis Közösségi Idősgondozási Program
+    egy olyan szakmai alapon szerveződő autonóm közösség, ami az idősgondozási nehézségekkel küzdő családokat és az ápolókat segíti információkkal, képzésekkel, tanácsadással, és szolgáltatásokkal.
+   </p>
+   <p rend="head">
+    Ha valakinek a rokonát otthon kell ápolni, gondozni, akkor erre számíthat:
+   </p>
+   <list>
+    <item>
+     Elég nehéz lesz jó ápolót találni, pláne ha az idős ember nem valamilyen centrumban él, vagy olyan mentális/testi állapotban van („nehéz eset”), hogy gondozása speciális ápolói tudást és/vagy lelkierőt követel.
+    </item>
+    <item>
+     Ha valóban jó bentlakásos ápolót szeretne valaki, az havonta a családnak kb. 450.000 Ft-ba fog kerülni, hacsak nem akarja tökéletesen etikátlan módon kizsákmányolni az ápolót. (A bentlakásos idősgondozás napi „korrektnek tekinthető” bére Budapesten 10-15.000 Ft, feketén, zsebbe, ellátással és szállással együtt.) Ennél persze lehet olcsóbban munkaerőt találni, hiszen sok olyan nő vállal ápolási munkát, akinek sem képzettsége, sem szaktudása nincs, ellenben anyagi kényszerpályán van, netán bántalmazásból menekül. Ki lehet fogni havi 2-300.000-ért is angyalokat, sokszor szakképzettség nélküli nőket, de ez mind eseti szerencse és nem rendszerszintű válasz, megoldás.
+    </item>
+    <item>
+     Óriási szerencsére lesz szükség ahhoz, hogy az ápoló/ápolók stabil, hosszú távú partnernek bizonyuljanak. Ahogy a szociális szférában általában, itt is  jellemző a nagy fluktuáció, így a családoknak számítani kell arra, hogy pár havonta új ápoló(ka)t kell keresniük. Ez különösen akkor nagyon nehéz ügy, ha az ápolt pl. demens, és amúgy is nehezen fogad el új arcokat maga körül.
+    </item>
+    <item>
+     Bár a családok Magyarországon általában azt feltételezik, hogy a felvett bentlakásos ápoló minden problémát megold, a valóság közel sem ez. Az idős rokon ápolásával és életének logisztikájával a családnak továbbra is rengeteg dolga lesz, plusz még a munkáltatói feladatok is terhelik majd, az ebből fakadó problémákkal együtt.
+    </item>
+   </list>
+   <p>
+    Nem tudom eléggé hangsúlyozni, hogy nincsenek jó megoldások, aminek számos oka van. Az egyik legfőbb oka, hogy a rendszerváltás óta vonakodtunk megfelelő struktúrákat, ellátási rendszereket építeni és finanszírozni az idősgondozás körül (is). Mindezt ráadásul úgy, hogy minimum húsz éve beszél arról a mindenkori kormányzat, hogy a társadalom öregszik és az idősek ellátása egyre növekvő és krónikusan megoldatlan probléma.
+   </p>
+   <p>
+    Csakhogy a mindenkori kormányzat ezt a problémát mindig is igyekezett a nők nyakába lőcsölni, akik már amúgy is roskadoznak a gondoskodási terhek alatt. Mindeközben az új generációk fiatal tagjai, abszolút érthető módon, igyekeznek egyre jobban kivonulni a gondoskodással kapcsolatos lélekölő ingyenmunkából. A társadalmi kontextus miatt érdemes megemlíteni a tudatosan gyerektelen fiatalok növekvő mozgalmát, akik világosan és karakteresen kommunikálják az álláspontjukat.
+   </p>
+   <p>
+    A két téma ott függ össze, hogy ma jelenleg elsősorban azok a nők végzik az ápolói, nővéri, idősgondozói munkákat Magyarországon, lehetetlen bérekért és munkakörülmények között, akik maguk is kénytelenek a saját gyerekeikről gondoskodni. Azok a fiatalok, akik kimaradnak a gyerekvállalás terheiből, sokkal kevésbé kényszerülnek az ilyen kizsákmányoló munkákat elfogadni. Nem is véletlen, hogy a gondoskodó jellegű munkákban egyre nagyobb a munkaerőhiány és a dolgozók átlagéletkora is egyre nő.
+   </p>
+   <p rend="head">
+    A mostani középkorú generációk életét és kilátásait egyre sötétebben árnyékolja be egyrészt a saját idősödő rokonaik ellátásának a kérdése, másrészt a saját öregkorukban várható és előrejelezhető társadalmi állapotok víziója.
+   </p>
+   <p rend="head">
+    Hogy befolyásolja mindezt a koronavírus-járvány?
+   </p>
+   <p>
+    Most, a járvány és a kórházakból hazaküldött emberek ellátásának nehézségei hatványozottan felerősítik  a figyelmet. Az Ozmózis Közösséghez a korábbinál sokkal több és sokkal tanácstalanabb ember fordult kapkodva. A tapasztalatunk az, hogy az embereknek sokszor fogalmuk sincs, hogy pontosan hogyan oldják meg ezt a helyzetet. A lakások nincsenek felkészítve egy esetleges ápoló fogadására, és hiába elérhető immár sok cikk a témában, a rokonok teljesen tanácstalanul és ide-oda
+    kapkodva próbálnak válaszokat
+    , információkat és segítséget találni.
+   </p>
+   <p>
+    Csakhogy ezek a támogató struktúrák, ellátási rendszerek hiányoznak. A családok leginkább az internetről tudnak tájékozódni,  ha szerencsések, akkor az ismeretségi körükben kapnak gyakorlati tanácsokat. Ha még szerencsésebbek, akkor olyan körzeti orvosuk és önkormányzatuk van, aki valamilyen szinten megszervezi a segítséget, de ilyen sikertörténetet nagyon keveset lehet hallani.
+   </p>
+   <p rend="head">
+    Hogyan tovább?
+   </p>
+   <p>
+    Hamarosan lecseng a koronavírus első hulláma és az ezzel kapcsolatos pánik és társadalmi figyelem is. A kedélyek már most is valamennyire megnyugodni látszanak, a status quo visszarendeződési mechanizmusai igyekszenek csillapítani az elmúlt időszak kilengését.
+   </p>
+   <p>
+    A kérdés az, hogy mi várható ezek után, mire számíthatnak az érintettek? Sokan veszítették el az állásukat, az idősotthoni férőhelyek száma nem növekedett és nem úgy tűnik, mintha a kormányzat és az önkormányzatok – mély tisztelet az egyébként számos kivételnek – nagy erőkkel igyekeznének a viszonyokon javítani (Európában máshol sem egyébként). Magyarán számítani lehet arra, hogy az idősgondozás társadalmi körülményei tovább romlanak.
+   </p>
+   <p>
+    Ezen a ponton érdemes feltenni magunknak, hétköznapi állampolgároknak a kérdést: mit tehetünk mi a saját, a családtagjaink és úgy általában a társadalom érdekében? Mi lesz most? Beszélünk tovább a problémákról, elmélkedünk, elemzünk? Várjuk reménykedve, hogy a „vezetők” jobb belátásra térnek és megteremtik azokat a körülményeket, amiket eddig sem teremtettek meg? Ha ránk szakad a teher, majd kapkodunk mi is? Mire számítunk, miben reménykedünk?
+   </p>
+   <p>
+    Korábban
+    ebben a cikkben
+    írtam már arról, hogy melyek lennének azok a lépések, amelyek véleményem szerint a magyarországi otthoni idősgondozás viszonyaiban pozitív változásokat tudnának indukálni. A koronavírus első hulláma után, a jelenlegi helyzetben is relevánsnak tartom az ott felvetett szempontokat.
+   </p>
+   <p rend="head">
+    Az elmúlt hetekben, a családok és az ápolók visszajelzései méginkább mutatják, hogy milyen nyomasztóan nyomorult állapotok között kénytelenek az érintettek feltalálni magukat.
+   </p>
+   <p>
+    A koronavírus-járvány tapasztalatai, a vezetői válaszok és a probléma növekvő volumene alapján a következőket állítom:
+   </p>
+   <list>
+    <item>
+     Nem lehet arra számítani, hogy a kormányzat elkezdjen érdemben foglalkozni az emberek százezreinek problémájával.
+    </item>
+    <item>
+     Ugyanez érvényes az önkormányzatok nagy részére is.
+    </item>
+    <item>
+     Eközben a járvány azt is megmutatta, hogy a civilek összefogásai, adott esetben a progresszív önkormányzatokkal együttműködésben milyen hatékony helyi szerveződésekké tudtak formálódni, gyakorlatilag hetek alatt.
+    </item>
+    <item>
+     Ezeknek a kezdeményezéseknek az életben tartása, fejlődése, szakmai fejlesztése a strukturális alapja lehet egy olyan politikai és társadalmi elit, vezetés és szakpolitika kialakulásának, amely valódi és tevőleges gondot fordít a rászorulók ellátására. Csak ezeket tovább kell fejleszteni.
+    </item>
+   </list>
+   <p rend="head">
+    Mit tehet akkor az állampolgár, ha változást szeretne?
+   </p>
+   <p>
+    Amit biztosan tehet, és amit fontos is megtenni: beszállni, részt vállalni, segítséget adni ezeknek a helyi struktúráknak, közösségi szintű segítő rendszereknek. Fenntartani, működtetni, fejleszteni, finanszírozni kell ezeket a kezdeményezéseket, ezeket a rendszereket, továbbra is közösségi összefogással.
+   </p>
+   <p rend="head">
+    Ugyanis senki másra nem számíthat jelenleg a társadalom, csak saját magára, a saját közösségeire, a saját önszerveződéseire.
+   </p>
+   <p>
+    Optimális esetben, ha erre nyitottak, akkor a helyi önkormányzatokkal összefogva. Senki más nem fogja a problémát megoldani, ezt mostanra bizonyította a rendszerváltás utáni mindenkori kormányzat, legutóbb például az idős, ellátásra szoruló idős emberek  a kórházakból való szélnek eresztésével.
+   </p>
+   <p>
+    Az idősgondozás körüli rendszerhibák nem fognak maguktól megoldódni vagy elmúlni. Ellenben egyre inkább súlyosbodnak és egyre nagyobb tömegeket érintenek. Mindenképpen érdemes lehet megfontolni, hogy várunk-e tovább a csodára, kínlódunk-e tovább egyéni, családi hatáskörben, vagy megpróbálunk együtt, a már elindult kezdeményezések, helyi szinten megszületett közösségi rendszerek mögé/mellé beállni, azokat erősíteni.
+   </p>
+   <p>
+    Vagy ha nincs ilyen a környezetünkben, akkor létrehozni ezeket. Lehet még sok-sok cikket, elemzést, panaszt, kívánságot leírni, ragozni a témát a végtelenségig. Tudjuk, ez önmagában semmire nem elég. Társadalmi struktúrákat, helyi ellátórendszereket, gondoskodási hálózatokat, közösségi megoldásokat, illetve ezek szövetségéből érdekképviseleti potenciált és kritikus tömeget kell létrehozni és/vagy beszállni a már meglévők fejlesztésébe. Mindezt nekünk, hétköznapi embereknek, polgároknak, családoknak, jelenlegi és jövőbeli érintetteknek kell megtennünk. Így, együtt van esély javulást elérni és félő, hogy ez az egyetlen esélyünk.
+   </p>
+   <p>
+    <hi>
+     A szerző közgazdász, idősgondozó és az Ozmózis Közösségi Idősgondozási Program szakmai vezetője
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

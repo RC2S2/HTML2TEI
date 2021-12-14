@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Független elemzők szerint Tyihanovszkaja győzött, Minszket lezárták, este 10-től tüntetés
+    </title>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c6c7a4c0-741a-50e4-a0f0-19731fb39635
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Független elemzők szerint Tyihanovszkaja győzött, Minszket lezárták, este 10-től tüntetés
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-08-09T18:56:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/08/09/feheroroszorszag-fovarosaban-pancelautokkal-zarjak-le-a-kormanyepuleteket-mikozben-zajlik-a-valasztas/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/08/09/feheroroszorszag-fovarosaban-pancelautokkal-zarjak-le-a-kormanyepuleteket-mikozben-zajlik-a-valasztas/
+     </sch:url>
+     <sch:name>
+      Független elemzők szerint Tyihanovszkaja győzött, Minszket lezárták, este 10-től tüntetés
+     </sch:name>
+     <sch:datePublished>
+      2020-08-09T18:56:00
+     </sch:datePublished>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      belarusz
+     </sch:keywords>
+     <sch:keywords>
+      elnökválasztás
+     </sch:keywords>
+     <sch:keywords>
+      választási csalás
+     </sch:keywords>
+     <sch:keywords>
+      Fehéroroszország
+     </sch:keywords>
+     <sch:keywords>
+      alekszandr lukasenka
+     </sch:keywords>
+     <sch:keywords>
+      politikai elnyomás
+     </sch:keywords>
+     <sch:keywords>
+      diktatúra
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c6c7a4c0-741a-50e4-a0f0-19731fb39635">
+     <sch:identifier>
+      urn:uuid:0d3f2418-0634-4563-a97e-521fa710ff92
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:07.939672
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:21:48.322670
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c6c7a4c0-741a-50e4-a0f0-19731fb39635" when="2021-12-14T15:31:07.939672">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Független elemzők szerint Tyihanovszkaja győzött, Minszket lezárták, este 10-től tüntetés
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 4 (21:11):
+    </hi>
+   </p>
+   <p>
+    Minszket a jelek szerint hermetikusan lezárták a hatóságok, a városból se ki, se be.
+   </p>
+   <p>
+    #Belarus
+    : My mobile network (A1) is completely down. Riot police is mobilised not just in Minks, but also other cities with strong protest potential, Brest &amp; Hrodna.Hardly any observers during the counting. The access to Minsk is restricted.
+    pic.twitter.com/bvGeAXRIrd
+   </p>
+   <p>
+    — Maryia Rohava (@MRohava)
+    August 9, 2020
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 3 (20:40):
+    </hi>
+   </p>
+   <p>
+    A külföldről szavazók körében a követségeken készített exit pollok érkeznek be folyamatosan, és szintén nem igazán támasztják alá a hivatalos eredményeket. Budapesten például a hazánkban szavazók körében az eredmények így alakultak:
+   </p>
+   <p>
+    Budapest: 83% for Tsikhanouskaya
+    pic.twitter.com/szuEqiUmbc
+   </p>
+   <p>
+    — Franak Viačorka (@franakviacorka)
+    August 9, 2020
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 2 (20:20):
+    </hi>
+   </p>
+   <p>
+    A lengyel
+    <hi>
+     Bielsat
+    </hi>
+    elemzése alapján éppen fordítva van az eredmény, mint a hivatalos. Eszerint Tyihanovszkaja győzött 71 százalékkal, Lukasenka pedig 10 százalékot tudott összeszedni. Közben este 10 órára tüntetés szerveződik a fővárosban.
+   </p>
+   <p>
+    ⚡️ Łukaszenka otrzymał 10% za granicą
+    pic.twitter.com/1zWp9VARr6
+   </p>
+   <p>
+    — Biełsat po polsku (@Bielsat_pl)
+    August 9, 2020
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (19:40):
+    </hi>
+   </p>
+   <p>
+    Az erősen kormánykézben lévő BKMO „
+    exit pollja
+    ” alapján a várható eredmények:
+   </p>
+   <p>
+    Lukasenka: 79.7%
+   </p>
+   <p>
+    Tyihanovszkaja: 6.8%
+   </p>
+   <p>
+    Ez „földindulásszerű” győzelmet jelentene Lukasenkának, persze egy konkrétan komédiáig elcsalt választáson. Jellemző egyébként, hogy a „felmérést” készítő kormányközeli intézmény az egyetlen Fehéroroszországban be nem tiltott szociológiai műhely.
+   </p>
+   <p>
+    <hi rend="bold">
+     Korábban írtuk:
+    </hi>
+   </p>
+   <p>
+    Helyi sajtóértesülések szerint szükségállapot-szerű intézkedéseket vezettek be a fehérorosz hatóságok vasárnap délután, miközben még javában zajlik az elnökválasztás.
+   </p>
+   <p>
+    De facto, a state of emergency introduced in Minsk. Central squares and administrative buildings are blocked. Police and soldiers everywhere.
+   </p>
+   <p>
+    — Franak Viačorka (@franakviacorka)
+    August 9, 2020
+   </p>
+   <p>
+    A közel három évtizede regnáló diktátor, Alekszandr Lukasenka a jelek szerint semmit sem bízott a véletlenre. Az internetszolgáltatás akadozik, illetve több helyen teljesen szünetel az országban, miközben az eseményekről tudósító külföldi újságírókat nem engedik be Minszkbe, hiába regisztrálták magukat hetekkel ezelőtt. Aki mégis bejut, azt most tíz évre kitiltják Fehéroroszországból.
+    Franak Viačorka
+    , fehérorosz ügyekkel foglalkozó újságíró Twitteren tudósít a lényegesebb fejleményekről.
+   </p>
+   <p rend="head">
+    A jelzések szerint a független választási megfigyelőket tucatjával tartóztatják le, miközben a főváros utcáit és tereit állig felfegyverzett katonák lepték el. A kormányzati épület köré kordonokat húztak, és fegyveresek tömegeivel védik.
+   </p>
+   <p>
+    A beszámolók szerint a főváros környékén aktív szolgálatot teljesítő katonákat szállító teherautók konvojokban érkeznek a főutakon:
+   </p>
+   <p>
+    These cars belong to regular army. And they are full of soldiers. It seems that troops are entering Minsk. (UGC)
+    pic.twitter.com/x3oX5zZfuc
+   </p>
+   <p>
+    — Franak Viačorka (@franakviacorka)
+    August 9, 2020
+   </p>
+   <p>
+    Ahogy arról vasárnap a
+    <hi>
+     Mérce
+    </hi>
+    is
+    beszámolt
+    , a fehérorosz rendőrség letartóztatta tegnap este a Lukasenkát kihívó Szvetlána Tyihanovszkaja ellenzéki fehérorosz jelölt minszki kampánycsapatának több tagját is. A
+    <hi>
+     Guardian
+    </hi>
+    által átvett
+    helyi hírek szerint letartóztatását megelőzendő, maga Tyihanovszkaja is ismeretlen helyre távozott, sajtófőnöke azt közölte, „nincsen egyedül, és Minszket sem hagyta el, de az éjszakát nem merte a lakásában tölteni.”
+   </p>
+   <p>
+    Róla korábban már
+    megírtuk
+    , azóta jelent igazi fenyegetést a fennálló hatalomra, hogy július 26-án egyesítette kampányát Veronika Cepkalo és Marija Kolesznyikova jelöltekkel. Veronika Cepkalo vasárnap elmenekült az országból.
+   </p>
+   <p>
+    A brutális és átlátszó módon az elnök politikai ellenfeleinek megfélemlítésére irányuló rendőri akciók tegnap egész nap folytak Fehéroroszországban. Eltakart arcú rendőröknek ugyanis Minszk-szerte több, spontán szerveződő, elnök elleni tüntetést is fel kellett oszlatniuk. Az elnöki párt televíziós hirdetései eközben az ukrán és grúziai (2014-es és 2005-ös) „színes forradalmak” kaotikus képeivel riogatnak, azt állítva, hogy az ellenzéket nyugati erők pénzelik és csak „a káosz a céljuk”
+   </p>
+   <p>
+    Miközben már kora délután bejelentették a helyi „választási szervek”, hogy a választás érvényes, több helyről súlyos szabálytalanságokról érkeznek hírek. Volt olyan szavazóhelyiség, ahonnan a számlálóbiztosok rendőri segítséggel, létrán menekítették ki a bezsákolt szavazatokat:
+   </p>
+   <p>
+    Seems like too many people voted for Tikhanovskaya already. The number of ballots doesn’t add up because of early vote rigging. Police had to bring a ladder and commission members are climbing out of polling station with full bags
+    pic.twitter.com/NjzKcANUop
+   </p>
+   <p>
+    — Tadeusz Giczan (@TadeuszGiczan)
+    August 9, 2020
+   </p>
+   <p>
+    Egyes helyszíneken a szavazáson a voksolásra jogosultak
+    <hi>
+     jelentősen több mint 100 százaléka
+     jelent meg
+    </hi>
+    , de egyéb furcsaságokról is érkeztek az akadozó internetes csatornákon keresztül tudósítások: több helyen kettő-négyszerese volt a hivatalos jelentések szerint a részvételi arány a megfigyelők által jelentetteknél, a levélszavazatok viszont így is az összes szavazat 40 százalékát teszik ki.
+   </p>
+   <p>
+    Az ellenzék már hónapok óta hangoztatja, ugyan most sokkal jobb esélyük van a választásokon, azonban még így is óriási arányú választási csalástól tartanak. A fehéroroszok egyharmada ugyanis korai, postai úton már voksolt is, ezeket a beérkező szavazólapokat azonban Lukasenka kritikusai szerint az elnöki párt nagy mértékben manipulálja minden választáson.
+   </p>
+  </body>
+ </text>
+</TEI>

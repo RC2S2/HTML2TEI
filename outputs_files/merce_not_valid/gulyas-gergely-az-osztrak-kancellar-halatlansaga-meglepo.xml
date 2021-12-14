@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gulyás Gergely: az osztrák kancellár „hálátlansága” meglepő
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     968ffa78-6b88-5caf-9852-d2d368c39fa2
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Gulyás Gergely: az osztrák kancellár „hálátlansága” meglepő
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-09-13T15:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/09/13/gulyas-gergely-az-osztrak-kancellar-halatlansaga-meglepo/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/09/13/gulyas-gergely-az-osztrak-kancellar-halatlansaga-meglepo/
+     </sch:url>
+     <sch:name>
+      Gulyás Gergely: az osztrák kancellár „hálátlansága” meglepő
+     </sch:name>
+     <sch:datePublished>
+      2018-09-13T15:30:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      Gulyás Gergely
+     </sch:keywords>
+     <sch:keywords>
+      Sargentini-jelentés
+     </sch:keywords>
+     <sch:keywords>
+      CSU
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="968ffa78-6b88-5caf-9852-d2d368c39fa2">
+     <sch:identifier>
+      urn:uuid:584545af-8f4d-46f5-84cd-7e202566a9eb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:05.403557
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:06:41.242631
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="968ffa78-6b88-5caf-9852-d2d368c39fa2" when="2021-12-14T15:31:05.403557">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Gulyás Gergely: az osztrák kancellár „hálátlansága” meglepő
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Elítélő nyilatkozatot terjeszthet elő a parlamentben a Fidesz a Sargentini-jelentés elfogadása után – jelentette be Gulyás Gergely miniszterelnökséget vezető miniszter a csütörtöki Kormányinfón.
+   </p>
+   <p>
+    Azt is kijelentette, hogy a kormány álláspontja szerint a jelentést nem szabályszerűen fogadta el az Európai Parlament. Szerintük a lisszaboni szerződés alapján a jelenlévő képviselők kétharmadának „igen”-szavazata kellett volna ehhez, de a 48 tartózkodás miatt ennél kevesebben fogadták el a teljes szöveget.
+   </p>
+   <p rend="head">
+    Ezek alapján pedig a Fidesz a szavazás felülvizsgálatát fogja kérvényezni.
+   </p>
+   <p>
+    Az Echo TV kérdésére Gulyás emlékeztetett, 2013-ban, Rui Tavares jelentésének Európai Parlamenben történő elfogadása után ő maga és Kocsis Máté nyújtott be elítélő nyilatkozatot. Hozzátette, jelenleg is hasonló nyilatkozatra lehet majd számítani.
+   </p>
+   <p>
+    Gulyás szerint az EP-ben szerdán kétharmaddal elfogadott jelentés
+   </p>
+   <p>
+    „választ kíván, hiszen sérti az ország szuverenitását, olyan dolgokba szól bele, amelyekhez az EU-nak semmi köze. Sajátos bosszúról van szó, mivel mi szilárdan és 4 éves következetesen a migrációval szemben foglalunk állást.”
+   </p>
+   <p>
+    Arra a kérdésre, hogy a jelentés elfogadása szerinte növeli-e a Fidesz népszerűségét, úgy reagált, „a kormány küzdeni fog az ország szuverenitásáért, ez nem magától értetődő.”
+   </p>
+   <p>
+    Kiemelte, a kormány álláspontja szerint a jelentés megállapításai nem igazak, így „nem áll fent a jogállam általános korlátozása” Magyarországon. Hozzátette, szerinte a jelentésnek „nem lesznek az EU-n kívüli kapcsolatainkban következményei.
+   </p>
+   <p>
+    Az ATV főmunkatársa arról is megkérdezte a minisztert, mit gondol régi szövetségesük, Manfred Weber Sargentini-jelentés támogató véleményéről. Gulyás erre a kérdésre élesen válaszolt:
+   </p>
+   <p>
+    „azt látni kell, hogy a bajor CSU-nak az összes képviselője a jelentés ellen szavazott, kivéve Manfred Webert. Ebből azt a következtetést tudom levonni, hogy Webernek a pártja és bizottsági elnökségi ambíciói között kellett választania, és utóbbit választotta.. Ez nem egy jó hír sem a CSU-nak ,sem nekünk.”
+   </p>
+   <p>
+    Gulyás Gergely nemcsak Webert hanem Sebastian Kurz osztrák kancellárt is élesen kritizálta. Azt mondta, miközben a magyar kormányt veszélyesnek tekinti, ő maga „az FPÖ-vel koalícióban kormányoz,” és
+   </p>
+   <p>
+    „A hálátlanságnak az a mértéke, amelyet Kurz kancellár tanúsít felénk, egyszerűen hihetetlen.”
+   </p>
+   <p rend="head">
+    Azt viszont ő is hozzátette ehhez, nem gondolkodtak még el azon, hogy az Európai Néppárt bizottsági elnöki jelöltje helyett a Fidesz mást támogasson az EP-választásokon, ugyanakkor súlyos problémának tartotta, hogy Weber „egy hazug jelentést” támogatott.
+   </p>
+   <p>
+    A miniszter most is kiemelte, az szerdai, Sargentini-jelentésről szóló szavazás érvénytelenségének megállapítását az Európai Bíróságtól fogják kérni. Azt is hozzátette, „nincs mértékadó nyilatkozat,” amely követelné a Fidesz kizárását a Néppártból, elismerte azonban, hogy vannak olyan hangok, amelyek ezt kívánhatják. Megerősítette, ők továbbra is a „Néppárt soraiban készülnek” a 2019-es EP-választásokra.
+   </p>
+   <p>
+    Kiemelt kép: MTI Fotó, Szigetváry Zsolt
+   </p>
+  </body>
+ </text>
+</TEI>

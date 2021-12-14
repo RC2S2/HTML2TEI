@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mi történik, ha egy illiberális államban radikálisan próbálják korlátozni a nők jogait?
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6c3ca92d-0bd7-5531-802b-7a1d5251fad7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mi történik, ha egy illiberális államban radikálisan próbálják korlátozni a nők jogait?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-10-28T10:17:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/10/28/mi_tortenik_ha_egy_illiberalis_allamban_radikalisan_probaljak_korlatozni_a_nok_jogait/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/10/28/mi_tortenik_ha_egy_illiberalis_allamban_radikalisan_probaljak_korlatozni_a_nok_jogait/
+     </sch:url>
+     <sch:name>
+      Mi történik, ha egy illiberális államban radikálisan próbálják korlátozni a nők jogait?
+     </sch:name>
+     <sch:datePublished>
+      2016-10-28T10:17:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      sztrájk
+     </sch:keywords>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      lengyelország
+     </sch:keywords>
+     <sch:keywords>
+      Kaczyński
+     </sch:keywords>
+     <sch:keywords>
+      női_jogok
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6c3ca92d-0bd7-5531-802b-7a1d5251fad7">
+     <sch:identifier>
+      urn:uuid:cb2550ee-7d66-45ec-8be3-8affbef01605
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.722491
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:25:35.761555
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6c3ca92d-0bd7-5531-802b-7a1d5251fad7" when="2021-12-14T15:31:00.722491">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mi történik, ha egy illiberális államban radikálisan próbálják korlátozni a nők jogait?
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    1918 novemberében egy csoport szüfrazsett körbeállta a lengyel államfő, Józef Piłsudski villáját, és addig döngették esernyőikkel a tábornagy ablakait, amíg az végül beengedte őket az esőről, és megígérte nekik választójoguk törvénybe iktatását. November 28-án pedig valóban megkapták a lengyel nők a szavazati jogot, korábban, mint az USA-ban, Nagy-Britanniában vagy Franciaországban. Akkor az esernyő lett a női egyenjogúsági mozgalom jelképe, és most, majdnem száz évvel később, a lengyel nők újra azt kiáltják: „Nem tesszük le az esernyőinket!”
+   </p>
+   <p>
+    Fotó: Pempel / Reuters
+   </p>
+   <p>
+    Idén október harmadikán több tízezer feketébe öltözött nő vonult utcára több lengyel városban is, miután a parlament egy új, az addig érvényben lévőnél még szigorúbb abortusztörvényt akart bevezetni. Az új törvényjavaslat értelmében minden esetben illegális lett volna a terhességmegszakítás. Ez akkora felháborodást váltott ki, hogy egy rohamosan növekvő létszámú Facebook csoport, a ‘Nők a nőkért’ (‘Dziewuchy Dziewuchom’) javaslata nyomán össznemzeti sztrájkot hirdettek a nők. Több százezren jelezték részvételi szándékukat a sztrájkban, és harmadikán az eső ellenére (az esős megmozdulás miatt vált végül az esernyő a mozgalom hivatalos logójává) olyan sikeres tiltakozás alakult ki, hogy a kormány kénytelen volt meghátrálni.
+   </p>
+   <p>
+    Jaroslaw Gowin, a tudományért és felsőoktatásért felelős miniszter bejelentette, hogy a tiltakozások „elgondolkodtatták és alázatra tanították”. Sajnos ez az alázat kérészéletűnek bizonyult, miután a kormánypárt elnöke, Jaroslaw Kaczynski mindössze egy héttel a sztrájk után egy interjúban kifejtette, hogy pártja továbbra is minden eszközzel az élet megőrzésére fog törekedni.
+   </p>
+   <p rend="head">
+    Konkrétabban: Kaczynski szerint az ideális az lenne, ha minden gyermek megszületne, még azok is, akik halva születnek, vagy olyan súlyos betegséggel, ami a szülést követően mindenképp halállal végződik. És hogy miért? Hogy nevet kaphassanak, megkeresztelhessék és eltemethessék őket. Az már nyilván teljesen mindegy, hogy ezzel milyen lelki és fizikai veszélyeknek lennének kitéve az eleve traumatizált anyák.
+   </p>
+   <p>
+    Ugyan Kaczynski nyilatkozatai még nem öltöttek testet törvényjavaslatban, de egy újabb civil kezdeményezés következtében máris a parlament elé került az abortusztörvény módosítására tett legújabb javaslat. Az
+    <hi rend="italic">
+     Életpárti Mozgalom
+    </hi>
+    (Polska Federacja Ruchów Obrony Życia) beadványa több mint 160 ezer aláírással került a Szejm elé, és szerzői úgy vélik, hogy javaslatuk biztosan nem fog olyan tiltakozást kiváltani, mint a korábbi javaslat, az Ordo Iuris szervezeté, mivel ők nem tennék teljesen illegálissá az abortuszt.
+   </p>
+   <p>
+    Időközben pedig az október harmadikán sztrájkoló nők sem ültek a babérjaikon. A mozgalom folyamatosan tovább szerveződött, különböző városokból és társadalmi rétegekből származó, más-más szakmában dolgozó, a legkülönbözőbb korú nőket kötve össze a politikai cselekvésben. Új Facebook csoport alakult, melynek jelenleg több mint 100 ezer tagja van, nevük a
+    <hi rend="italic">
+     Nők nemzeti sztrájkja
+    </hi>
+    . A csoport döntött az esernyő mellett a mozgalom hivatalos jelképeként, valamint az új szlogent is ők kezdték el terjeszteni: „Nem tesszük le az esernyőinket!” Október 24-re pedig meghirdették a sztrájk második körét, az izlandi nősztrájk (amely az eredeti ötletet adta az első lengyel sztrájkhoz) 41. évfordulójára.
+   </p>
+   <p>
+    A második sztrájkot megelőzően a csoport közzétette három követelését:
+   </p>
+   <p>
+    1. Nemet mondunk a nők elleni erőszakra és megvetésre!
+   </p>
+   <list>
+    <item>
+     Elegünk van abból, hogy a nőket úgy kezelik, mint akiket vezetni és irányítani kell.
+    </item>
+    <item>
+     Nem értünk egyet azzal, hogy a minket érintő legfontosabb dolgokban mások döntsenek helyettünk.
+    </item>
+    <item>
+     Elegünk van a nemi alapú erőszak megelőzésére hozott intézkedések bevezetését és fenntartását övező hazugságokból.
+    </item>
+    <item>
+     Nemet mondunk az alapvető reproduktív jogok korlátozására.
+    </item>
+    <item>
+     Elegünk van a rendes szexuális felvilágosítás hiányából az iskolákban.
+    </item>
+   </list>
+   <p>
+    2. Nemet mondunk az egyház és a politika összefonódására.
+   </p>
+   <list>
+    <item>
+     Elegünk van a katolikus egyház privilegizalt helyzetéből Lengyelországban.
+    </item>
+    <item>
+     Elegünk van a vallási oktatásból az iskolákban, és az etikaoktatáshoz való hozzáférés hazugságából.
+    </item>
+    <item>
+     Nem értünk egyet a lengyel hitközségekben megtörtént szexuális bántalmazások eltitkolásával.
+    </item>
+    <item>
+     Elegünk van abból, hogy vallásos elveket próbálnak ránk kényszeríteni állami törvényeken keresztül.
+    </item>
+   </list>
+   <p>
+    3. Nemet mondunk a politikára az oktatásban!
+   </p>
+   <list>
+    <item>
+     Nem értünk egyet a tudomány indoktrinációval való felváltására.
+    </item>
+    <item>
+     Elegünk van Anna Zalewska miniszter gyerekek, szülők és tanárok felé tanúsított megvetéséből.
+    </item>
+    <item>
+     Nem értünk egyet a lengyel közoktatási rendszer lerombolásával és a fiatalabb generációk oktatási esélyeinek tönkretételével, akiktől az országunk jövője függ.
+    </item>
+   </list>
+   <p>
+    Hétfőre 106 különböző eseményt hirdettek meg több mint 70 lengyel városban, valamint 24 külföldi városban, a főesemény oldalán pedig 12 ezer ember jelezte biztosra részvételi szándékát. A tiltakozás ezúttal összességében kisebb volt, mint az október eleji, de ez várható volt, hiszen nem egy konkrét helyzetre adott reakció volt, ahogy a harmadikai sztrájk. A mozgalom követeléseinek köre is láthatóan kitágult, hiszen már egyáltalán nem csak az abortuszról volt szó: a lengyel nők tiszteletet és megbecsülést követeltek maguknak, és helyet a politikai életben.
+   </p>
+   <p>
+    Nem kizárt, hogy a lengyel kormány jóvátehetetlen baklövést követett el az abortusztörvény szigorításának felvetésével. Ez a lépés messzemenően az eddigi legsúlyosabb politikai nyomást helyezte a Jog és Igazságosság (PiS) pártra rövid kormányzási ideje alatt. Bármerre is lépnek az ügyben ezek után, jelentős ellenállásba fognak ütközni: vagy az újonnan kialakult, de annál erősebb női mozgalom, vagy saját konzervatív szavazóik részéről.
+   </p>
+   <p>
+    Máris rengetegen bírálták jobboldalról a kormány visszalépését a törvényszigorítástól, a parlamenten belül és kívül is. Meghökkentő módon például Kaczynski interjúját követően a párt Facebook-oldalát elözönlő negatív és gyűlölködő kommentek szinte kivétel nélkül  a PiS korábbi támogatóitól származtak, akik egyrészt becsapva érezték magukat a korábbi törvénymódosítás elutasítása miatt, másrészt a pártelnök szavait őszintétlennek és politikai nyerészkedésnek látták korábbi meghátrálása után.
+   </p>
+   <p>
+    Kételkedésüknek van is némi alapja, hiszen bár az orbáni illiberális vonalat követő Kaczynski konzervativizmusát nem igazán lehet megkérdőjelezni, de az abortuszról tett megjegyzéseihez hasonló vallási fundamentalizmusról eddig még soha nem tett tanúságot. A dolog további érdekessége, hogy Kaczynski 2010-ben elhunyt ikertestvérének felesége, Maria Kaczyńska mindig kiállt a női jogokért, és azon belül is küzdött az abortusztörvény szigorítása ellen. Most pedig lányuk, azaz Jaroslaw Kaczynski unokahúga, Marta Kaczyńska is kiállt a nőmozgalom mellett. Úgyhogy könnyen lehet, hogy Kaczynskit még személyes vonalon is érik támadások a jelenlegi helyzet miatt.
+   </p>
+   <p rend="head">
+    Pedig október harmadika előtt a Jog és Igazságosság párt helyzete közel megingathatatlannak tűnt, megválasztásuk óta csak nőtt az amúgy is nagyon magas támogatottságuk. A párt nemcsak nagyon jó érzékkel tapintott rá az elmúlt években egyre erősödő konzervatív és jobbra tolódó európai közhangulatra, hanem egyben viszonylag erős szociálpolitikai döntéseket is hoztak – Lengyelországban már nagyon régen volt olyan kormány, amely valódi lépéseket tett a szegénység enyhítése érdekében.
+   </p>
+   <p>
+    Márpedig a PiS úgynevezett 500+ programja pont ezt célozta meg. A program keretében kivétel nélkül minden család minden gyermeke után havi 100 eurót kap. Ez egy többgyermekes és alacsony bevételű család számára nyilvánvalóan nagyon sokat jelent. Ez és ehhez hasonló intézkedések pedig nagy sikerrel terelték el a figyelmet azokról a kérdésekről, amiket kevésbé progresszív, vagy egyenesen szélsőjobboldali módon közelített meg a kormány. Egészen az abortusztörvényig.
+   </p>
+   <p>
+    Az 1993-ban hozott „kompromisszum” (azaz az a törvény, amely csupán a törvénytelen úton fogant terhességek megszakítását engedélyezte), amely a szocialista időszak jóval megengedőbb abortusztörvényét váltotta fel, egészen 2016-ig szinte szakrális jelleget vett fel. Pár progresszívebb pártnak még a programjában időnként benne volt, de semmilyen kormány nem mert rajta változtatni. És most úgy tűnik, okkal. Ugyanis ez a lépés felébresztette a lengyel nőket, és korábban soha nem látott egységbe kovácsolta őket. És persze nemcsak a nőket, hanem mindenkit, aki a Jog és Igazságosság kormányzását talán kevéssé tartotta igazságosnak, vagy aki az emberi jogokat fontosabbnak tartotta, mint a katolikus egyház tanításait. A mozgalom pedig lehet, hogy a jövőben veszít majd látványosságából, de ezt a lendületet már nehéz lenne megakasztani. És maguk a tiltakozó nők is ezt üzenik, amikor azt kiáltják, hogy nem teszik le az esernyőiket.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 297 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

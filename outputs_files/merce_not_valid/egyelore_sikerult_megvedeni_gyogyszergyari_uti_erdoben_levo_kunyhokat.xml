@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Egyelőre sikerült megvédeni a Gyógyszergyári úti kunyhókat
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bfcdc8c8-2a55-556d-b061-c86c89a587cf
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Egyelőre sikerült megvédeni a Gyógyszergyári úti kunyhókat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2013-02-09T15:58:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2013/02/09/egyelore_sikerult_megvedeni_gyogyszergyari_uti_erdoben_levo_kunyhokat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2013/02/09/egyelore_sikerult_megvedeni_gyogyszergyari_uti_erdoben_levo_kunyhokat/
+     </sch:url>
+     <sch:name>
+      Egyelőre sikerült megvédeni a Gyógyszergyári úti kunyhókat
+     </sch:name>
+     <sch:datePublished>
+      2013-02-09T15:58:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      érdekvédelem
+     </sch:keywords>
+     <sch:keywords>
+      kunyhóbontás
+     </sch:keywords>
+     <sch:keywords>
+      kőbánya
+     </sch:keywords>
+     <sch:keywords>
+      élőlánc
+     </sch:keywords>
+     <sch:keywords>
+      gyógyszergyári_út
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bfcdc8c8-2a55-556d-b061-c86c89a587cf">
+     <sch:identifier>
+      urn:uuid:073b8066-5612-42d3-a483-dbfee603994b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:00.072023
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:08:11.859530
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bfcdc8c8-2a55-556d-b061-c86c89a587cf" when="2021-12-14T15:35:00.072023">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Egyelőre sikerült megvédeni a Gyógyszergyári úti kunyhókat
+   </head>
+   <p>
+    Ez a cikk több mint 8 éves.
+    <hi rend="bold">
+     2013. február 8-án pénteken járt le annak a megbízásnak a határideje, amit a Fővárosi Önkormányzat adott egy vállalkozónak a főváros tulajdonában lévő kőbányai erdők takarítására, és az ott felépített kunyhók lerombolására. Az ügy előzménye, hogy a X. Kerületi Önkormányzat 2012 novemberében felszólította a Fővárost, hogy a kerületben található, de a főváros tulajdonában lévő területekről bontsa el az ott élő hajléktalan emberek kunyhóit. Az érintettek közül van, aki hat éve él ott, az önkormányzat tudtával, most mégis hivatalos, írásbeli értesítés és a megfelelő közigazgatási eljárás lefolytatása nélkül, néhány napos határidővel –
+     <hi rend="italic">
+      tehát jogszerűtlenül –
+     </hi>
+     akarják lebontani szerény otthonukat. A munkával megbízott vállalkozó hétfő reggel közölte velük, hogy pár napon belül, de legkésőbb pénteken kilakoltatják őket.
+    </hi>
+    Pénteken kora reggel ott volt az bontással fenyegetett kunyhók lakóival A Város Mindenkié (AVM) csoport hívására érkezett mintegy 20 aktivista, valamint a kerületben dolgozó utcai szociális munkások is. Amennyiben arra került volna sor, akkor az aktivisták akár a polgári engedetlenség eszközeivel is igyekeztek volna megvédeni a három ember otthonát.
+    Szintén aznap reggel a kunyhók lakói kérelmet nyújtottak be a fővárosi önkormányzat Vagyongazdálkodási Főosztályához, amelyben kérték a bontási munkák azonnali felfüggesztését és azt, hogy tisztességesen tájékoztassák őket az ügyről.
+    Délután az AVM azt a tájékoztatást kapta telefonon, hogy a főváros hétfőn küldi el azt a hivatalos kérelmet a kőbányai jegyzőnek, amelyben 60 nap haladékot kérnek a feladat teljesítésére. A Város Mindenkié csoport üdvözli, hogy a főváros megértette: senki otthonát nem lehet jogellenesen, hivatalos értesítés és a megfelelő lakhatás lehetőségének biztosítása nélkül lerombolni.
+    Mindeközben az Alapvető Jogok Országgyűlési Biztosa azonnali hatállyal vizsgálatot indított az ügyben, A Város Mindenkié munkáját segítő jogászok pedig továbbra is dolgoznak azon, hogy a strasbourgi Emberi Jogok Európai Bírósága is intézkedjen az ügyben.
+    Bízunk benne, hogy a kőbányai jegyző helyt ad a Főváros kérelmének, továbbá arra kérjük a Fővárosi és a X. Kerületi Önkormányzatot, hogy használják ki az így nyert haladékot: járjanak el jogszerűen és emberségesen és vonják be az egyeztetésekbe a kunyhóban élő embereket és az illetékes szociális szakembereket is. A tapasztalatok azt mutatják, hogy erőszakos bontás helyett csak így lehet
+    <hi rend="italic">
+     mindenki számára
+    </hi>
+    elfogadható és megnyugtató megoldást találni.
+    A Város Mindenkié csoport továbbra is figyelemmel kíséri az ügyet és segítséget nyújt a kunyhóban élő érintetteknek jogaik és érdekeik érvényesítésében.
+    <hi rend="bold">
+     Háttér:
+    </hi>
+    Fotók a helyszínről
+    A bontás előzményei
+    Az Alapvető Jogok Országgyűlési Biztosának korábbi jelentését a kőbányai kunyhóbontások ügyében
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

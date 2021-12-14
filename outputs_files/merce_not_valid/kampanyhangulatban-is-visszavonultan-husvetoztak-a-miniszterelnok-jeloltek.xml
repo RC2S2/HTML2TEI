@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kampányhangulatban is visszavonultan húsvétoztak a miniszterelnök-jelöltek
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     eea929fe-2201-53a5-9c5f-5381be37fedd
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kampányhangulatban is visszavonultan húsvétoztak a miniszterelnök-jelöltek
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-04-03T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/04/03/kampanyhangulatban-is-visszavonultan-husvetoztak-a-miniszterelnok-jeloltek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/04/03/kampanyhangulatban-is-visszavonultan-husvetoztak-a-miniszterelnok-jeloltek/
+     </sch:url>
+     <sch:name>
+      Kampányhangulatban is visszavonultan húsvétoztak a miniszterelnök-jelöltek
+     </sch:name>
+     <sch:datePublished>
+      2018-04-03T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      választás 2018
+     </sch:keywords>
+     <sch:keywords>
+      szél bernadett
+     </sch:keywords>
+     <sch:keywords>
+      kampány
+     </sch:keywords>
+     <sch:keywords>
+      vona gábor
+     </sch:keywords>
+     <sch:keywords>
+      Húsvét
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="eea929fe-2201-53a5-9c5f-5381be37fedd">
+     <sch:identifier>
+      urn:uuid:5a4bb9a0-610d-42a3-952e-63de138f6154
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.712730
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:52:51.336687
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="eea929fe-2201-53a5-9c5f-5381be37fedd" when="2021-12-14T15:30:50.712730">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kampányhangulatban is visszavonultan húsvétoztak a miniszterelnök-jelöltek
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A felfokozott kampánnyal szinte már együtt járó módon húsvéthétfőig sorra kerültek fel a miniszterelnök-jelöltek húsvéti közösségi-média bejegyzései. Közös pontnak számít, hogy minden jelölt hangsúlyosan családi körben, elvonulva töltötte az ünnepeket: volt aki meditált, volt aki unokánál locsolkodott, más pedig egészen hagyományos, falusi környezetben ünnepelt.
+   </p>
+   <p>
+    Orbán Viktor már ominózus nagyszombati sonkafőzős videójával igyekezett megadni a családias alaphangot, erről azóta
+    ki is derült
+    , hogy veje családjának csabdi lovastanyáján készült el valamilyen okból. Ehhez a videóhoz ma egy másik is párosult, ahol a miniszterelnök első unokájának, Alíznak ad elő egy locsolóverset, meg is locsolja, mire a kislány hímestojással jutalmazza. A felvétel valószínűleg a kormányfő felcsúti otthonának udvarán készült el:
+   </p>
+   <p>
+    Orbán témaválasztása azért is különösen furcsa, mert éppen a napokban marasztalta őt el a választási bizottság, amiért óvodásokkal a szüleik engedélye nélkül forgatott kampányvideót. A 345,000 forintos
+    büntetés után
+    a miniszterelnök úgy határozhatott, ezúttal csak saját unokájával próbálkozik.
+   </p>
+   <p>
+    Karácsony Gergely ma már inkább az ellenzéki koordináció ügyeivel foglalkozott, húsvét vasárnapján azonban Krisztus feltámadásáról is megemlékezett, méghozzá egy Ferenc pápától származó idézettel:
+   </p>
+   <p>
+    Szél Bernadett is családi körben ünnepelt, itt a borsodi falu LMP-s polgármestere és helyi jelöltje, Köteles László mellett kampányolt a párt miniszterelnök-jelöltje, emellett azonban jutott idő a családi ünneplésre is:
+   </p>
+   <p>
+    Némileg csendesebb meditációt sugároz Vona Gábor, a Jobbik miniszterelnök-jelöltjének bejegyzése. E szerint ő szüleinél, Gyöngyösön töltötte el a hosszú hétvége egy részét, és gazdálkodó családjának kertjében elmélkedett el az előtte álló hétről:
+   </p>
+   <p>
+    A rövid ünneplés után mától minden bizonnyal újra teljes fordulatszámon fog pörögni a kampányhajrá, hiszen már csak öt nap áll a kormány és az ellenzék rendelkezésére ahhoz, hogy mozgósítsa híveit a szavazáshoz.
+   </p>
+  </body>
+ </text>
+</TEI>

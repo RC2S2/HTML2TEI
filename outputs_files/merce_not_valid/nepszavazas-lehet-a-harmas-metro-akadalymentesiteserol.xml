@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Népszavazás lehet a hármas metró akadálymentesítéséről
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e85b0d6c-6419-5382-bec7-a5e5fda8ba7a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Népszavazás lehet a hármas metró akadálymentesítéséről
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-12-14T18:01:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/12/14/nepszavazas-lehet-a-harmas-metro-akadalymentesiteserol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/12/14/nepszavazas-lehet-a-harmas-metro-akadalymentesiteserol/
+     </sch:url>
+     <sch:name>
+      Népszavazás lehet a hármas metró akadálymentesítéséről
+     </sch:name>
+     <sch:datePublished>
+      2017-12-14T18:01:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      mszp
+     </sch:keywords>
+     <sch:keywords>
+      népszavazás
+     </sch:keywords>
+     <sch:keywords>
+      3-as metró
+     </sch:keywords>
+     <sch:keywords>
+      mozgássérült
+     </sch:keywords>
+     <sch:keywords>
+      Tarlós
+     </sch:keywords>
+     <sch:keywords>
+      metró
+     </sch:keywords>
+     <sch:keywords>
+      akadálymentes
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e85b0d6c-6419-5382-bec7-a5e5fda8ba7a">
+     <sch:identifier>
+      urn:uuid:1e7c4da0-e9e2-4ec1-827c-0ddee75fe7c0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:42.563115
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:39:27.860985
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e85b0d6c-6419-5382-bec7-a5e5fda8ba7a" when="2021-12-14T15:30:42.563115">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Népszavazás lehet a hármas metró akadálymentesítéséről
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    „Akarja-e Ön, hogy a 2017-2020 között történő budapesti M3-as metróvonal felújításával egyidejűleg valósuljon meg ezen metróvonal valamennyi megállójának teljes értékű akadálymentesítése, az 1997. évi LXXVIII. törvény 2. §-ának 1. pontjában meghatározottak szerint?”
+   </p>
+   <p>
+    – ezt a kérdést nyújtotta be Horváth Csaba, az MSZP budapesti képviselője, és erre bólintott rá csütörtöki ülésén a Fővárosi Választási Bizottság is. Ezzel pedig lehetőség nyílik arra, hogy a budapestiek népszavazáson döntsenek erről a kérdésről.
+   </p>
+   <p>
+    Az MTI beszámolója szerint a
+    z ellenzéki politikus a döntést úgy értékelte, hogy a budapestiek megnyerték az első csatát. Ez a kormány csak az erőből ért, itt az ideje, hogy a budapestiek az erő nyelvén beszéljenek a kormánnyal – mondta Horváth. Az MSZP-s politikus a 138 ezer aláírás összegyűjtéséhez a demokratikus ellenzéki pártok együttműködését kérte. Elmondta, hogy a Párbeszéd már jelezte együttműködését és tudomása szerint az Együtt is csatlakozni fog a kezdeményezéshez.
+   </p>
+   <p>
+    A Mérce megkérdezte az összes ellenzéki pártot, hogy támogatják-e a népszavazást és részt vennének-e az aláírásgyűjtési kampányban. Eddig az Együtt és a Párbeszéd jelezte, hogy teljes mellszélességgel kiállnak az ügy mellett és részt is fognak venni az aláírások gyűjtésében. Amint megkapjuk a többiek válaszát, frissítjük a cikket.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (2017. 12. 15.):
+    </hi>
+    A Jobbik válaszában arra hívta fel a figyelmet, hogy ők már régóta képviselik az akadálymentesítés ügyet, de képmutatónak tartják, hogy a korábban főpolgármester-helyettesként is tevékenykedő Horváth Csaba csak most ébredt rá az ügy fontosságára. „A fentiekkel együtt az akadálymentesítést célzó népszavazás aláírására biztatunk mindenkit, ugyanakkor nem kívánunk egy törpe méretűre zsugorodott, hiteltelen párt ingyen BKV-t ígérő, komolytalan képviselőjének kampányfogásához asszisztálni” – írják.
+   </p>
+   <p>
+    A hármas metró akadálymentesítésének kérdése már hetek óta terítéken van, hála azoknak az érdekérvényesítő civileknek, akik
+    több akcióval
+    is
+    tiltakoztak
+    a fővárosi önkormányzat fejújítási tervezete ellen. A metróvonal felújítási munkálatai november elején kezdődtek, ám a felújítás nem terjed ki a teljes körű akadálymentesítésre, így nyolc metróállomás a jövőben sem lesz akadálymentesen hozzáférhető a mozgáskorlátozott emberek, vagy épp az idősek, babakocsival közlekedő szülők számára.
+   </p>
+  </body>
+ </text>
+</TEI>

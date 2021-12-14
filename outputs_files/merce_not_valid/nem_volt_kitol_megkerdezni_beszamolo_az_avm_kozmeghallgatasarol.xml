@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nem volt kitől megkérdezni – beszámoló az AVM közmeghallgatásáról
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e340b840-2348-561b-964a-8532974dff0d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Nem volt kitől megkérdezni – beszámoló az AVM közmeghallgatásáról
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2011-09-27T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2011/09/27/nem_volt_kitol_megkerdezni_beszamolo_az_avm_kozmeghallgatasarol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2011/09/27/nem_volt_kitol_megkerdezni_beszamolo_az_avm_kozmeghallgatasarol/
+     </sch:url>
+     <sch:name>
+      Nem volt kitől megkérdezni – beszámoló az AVM közmeghallgatásáról
+     </sch:name>
+     <sch:datePublished>
+      2011-09-27T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e340b840-2348-561b-964a-8532974dff0d">
+     <sch:identifier>
+      urn:uuid:77b3431f-fa4d-44dc-a715-15946e515e6a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:02.699122
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:04:05.246399
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e340b840-2348-561b-964a-8532974dff0d" when="2021-12-14T15:35:02.699122">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Nem volt kitől megkérdezni – beszámoló az AVM közmeghallgatásáról
+   </head>
+   <p>
+    Ez a cikk több mint 10 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az országgyűlés várhatóan idén ősszel tárgyalja a szabálysértésekről szóló 1999. évi LXIX. törvény módosításáról szóló
+     előterjesztést
+     , amit idén június 14-én nyújtott be tizenkét kormánypárti képviselő: Rogán Antal, dr. Kocsis Máté, Wintermantel Zsolt, Kovács Péter, Riz Levente, Németh Szilárd, Bácskai János, Menczer Erzsébet, László Tamás, Ughy Attila, dr. Vas Imre és Papcsák Ferenc. Az előterjesztés lehetővé tenné, hogy a hajléktalan embereket börtönbe zárják azért, mert nincs hol lakniuk.
+    </hi>
+   </p>
+   <p>
+    A Város Mindenkié csoport 2011. szeptember 15-én nyilvános közmeghallgatást szervezett, hogy a hajléktalan emberek közvetlenül tehessék fel kérdéseiket a módosító javaslat beterjesztőinek. A fórum célja a valódi párbeszéd elindítása volt a felek között.
+   </p>
+   <p>
+    A fórumra meghívtuk mind a tizenkét országgyűlési képviselőt, akik aláírták a módosító javaslatot. Egyikük sem jelent meg az eseményen, más elfoglaltságukra hivatkozva. Egyedül Bácskai János jelezte, hogy helyette Dr. Gáspár László, a Ferencvárosi Családvédelmi Iroda vezetője vesz részt a beszélgetésen.  Az irodavezető úr számára helyszínen derült ki, hogy a közmeghallgatás témája a szabálysértési törvény módosítása (ami a meghívóban szerepelt, és a titkársággal folytatott telefonos egyeztetéskor is elhangzott). Sajnálattal közölte, hogy ebben az ügyben nem ő az illetékes, és a közmeghallgatás kezdete előtt távozott.
+   </p>
+   <p>
+    Jelen voltak viszont az
+    Ombudsmani Hivatal
+    munkatársai: Borza Beáta, Lápossy Attila, és a
+    TASZ
+    képviseletében Kapronczay Stefánia.
+   </p>
+   <p>
+    A fórum házigazdája Takács Attila volt, az AVM aktivistája, aki a rendezvény elején felolvasta Rogán Antalnak írt
+    levelünket
+    , amelyben arra kérjük, hogy vonja vissza a kérdéses javaslatot, és a választáson kapott felhatalmazását a lakhatáshoz való jog érvényre juttatására, a hajléktalanság megelőzésére, a szélsőséges társadalmi egyenlőtlenségek csökkentésére, és ne a Magyar Köztársaság legszegényebb és legkiszolgáltatottabb állampolgárainak további jogfosztására használja fel.
+   </p>
+   <p>
+    Ezután az OBH munkatársai beszéltek a hivatal „Emberi méltóság korlátok nélkül” programjáról. Borza Beáta hangsúlyozta, hogy az állampolgári jogok biztosa kiemelten kezeli a hajléktalan emberek méltóságának védelmét, és igyekeznek jobb belátásra bírni a döntéshozókat. A főosztályvezető asszony kiemelte, hogy a hajléktalanság elsősorban társadalmi és gazdasági probléma, amit nem szabad rendészeti kérdésként kezelni.
+   </p>
+   <p>
+    Lápossy Attilától megtudtuk, hogy a döntéshozók eddig nem nagyon reagáltak érdemben az ombudsman javaslataira. A közterületen való életvitelszerű tartózkodást ötvenezer forint szabálysértési bírsággal büntető fővárosi rendelet kapcsán a főpolgármester egy szűkszavú nemmel válaszolt az ombudsman által kiadott állásfoglalásra, melyben felszólította a főpolgármestert, hogy azonnali hatállyal vonja vissza az alkotmányos jogokat sértő rendeletet. A Belügyminisztérium az építési tv. kapcsán kiadott ombudsmani ajánlásra még egyáltalán nem reagált. Lápossy elmondta, hogy a minisztérium válaszának ismeretében megvizsgálják a további lehetőségeket (pl. Alkotmánybíróság megkeresése).
+   </p>
+   <p>
+    Kapronczay Stefánia a törvénymódosítás lehetséges következményeiről beszélt. Kiderült, hogy nagyon sok a homályos pont, emiatt nehéz megjósolni, hogyan valósul meg a törvény a gyakorlatban.
+   </p>
+   <p>
+    Ezután következtek a kérdések, hozzászólások. A hozzászóló hajléktalan emberek szerették volna megkérdezni a politikusokat, hogy mégis hova menjenek, ha tilos lesz közterületen élniük. Szerették volna az ő szájukból hallani, hogy miért akarják börtönbe zárni őket pusztán azért, mert nincs otthonuk.
+   </p>
+   <p>
+    Sajnos nem volt kitől megkérdezni, mert a tizenkét országgyűlési képviselőből egy sem tartotta elég fontosnak azt, hogy meghallgassa azokat, akiket ténylegesen érint ez az elfogadhatatlan előterjesztés.
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

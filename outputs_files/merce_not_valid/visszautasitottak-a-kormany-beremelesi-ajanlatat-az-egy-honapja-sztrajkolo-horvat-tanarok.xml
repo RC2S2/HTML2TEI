@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visszautasították a kormány béremelési ajánlatát az egy hónapja sztrájkoló horvát tanárok
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c48ad63b-bda9-5f98-a09e-097f35dd385f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Visszautasították a kormány béremelési ajánlatát az egy hónapja sztrájkoló horvát tanárok
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-11-29T20:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/11/29/visszautasitottak-a-kormany-beremelesi-ajanlatat-az-egy-honapja-sztrajkolo-horvat-tanarok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/11/29/visszautasitottak-a-kormany-beremelesi-ajanlatat-az-egy-honapja-sztrajkolo-horvat-tanarok/
+     </sch:url>
+     <sch:name>
+      Visszautasították a kormány béremelési ajánlatát az egy hónapja sztrájkoló horvát tanárok
+     </sch:name>
+     <sch:datePublished>
+      2019-11-29T20:45:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      oktatás
+     </sch:keywords>
+     <sch:keywords>
+      sztrájk
+     </sch:keywords>
+     <sch:keywords>
+      munka
+     </sch:keywords>
+     <sch:keywords>
+      béremelés
+     </sch:keywords>
+     <sch:keywords>
+      Horvátország
+     </sch:keywords>
+     <sch:keywords>
+      tanársztrájk
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c48ad63b-bda9-5f98-a09e-097f35dd385f">
+     <sch:identifier>
+      urn:uuid:0048c5dd-ec28-4d9e-bebf-8a8ce3bf9ed3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:25.917183
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:51:53.744602
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c48ad63b-bda9-5f98-a09e-097f35dd385f" when="2021-12-14T15:30:25.917183">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Visszautasították a kormány béremelési ajánlatát az egy hónapja sztrájkoló horvát tanárok
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Több mint egy hónapja sztrájkolnak a pedagógusok Horvátországban, előbb gördülő sztrájk formájában naponta más-más megyében szüntették be a munkát, majd november 18-án országos sztrájkba léptek. Ezzel rákényszerítették az egyébként kéréseikkel nem túlzottan szimpatizáló kormányt, hogy tárgyalóasztalhoz üljön.
+   </p>
+   <p rend="head">
+    A szakszervezetek azonban pénteken bejelentették ezek a tárgyalások sem hoztak eredményeket, a belső szavazáson a tagság elutasította a kormányzat utolsó ajánlatát is.
+   </p>
+   <p>
+    Az Andrej Plenković vezette konzervatív kormányzat egyébként 10 százalékos, négy lépésben, 2020 végéig megvalósuló béremelési javaslatot tett le az asztalra, ám a sztrájkoló tanárok a pedagógusokra érvényes közalkalmazotti illetményszorzók 6,11 százalékos emelését szeretnék elérni, ami nem egyszeri béremelést jelentene csupán, hanem hosszabb távra emelne a szakma státuszán.
+   </p>
+   <p>
+    A tiltakozók ugyanis úgy vélik, a havi 7.290 kuna (kb. 325 ezer forint) körüli átlagfizetésük igazságtalanul elmarad más közalkalmazottak és közszolgák bérétől, ami kihatással van a munkájuk megbecsültségére is. Ezen a helyzeten szeretnének változtatni.
+   </p>
+   <p>
+    A tanárok hétfőn Zágrábban hatalmas tüntetést is tartottak, az ország minden pontjáról nagyjából 20 ezer pedagógus, szülő és támogató állampolgár gyűlt össze. A kormány ezután a nagy demonstráció után ült tárgyalóasztalhoz, igaz Plenković miniszterelnök nem vett részt az egyeztetéseken.
+   </p>
+   <p>
+    A tanárok megmozdulása mögött jelentős politikai és társadalmi konszenzus alakult ki, összefogott mindegyik jelentősebb ágazati szakszervezet és a politikai pártok, illetve más szakszervezetek túlnyomó többsége is támogatja a követeléseket. A rendőrök szakszervezete például nyilvánosan kritizálta a kormányzatot, amiért utasításba adta, hogy „biztonsági okokból” ellenőrizzék a hétfői tüntetésre vidékről érkező autókat és buszokat.
+   </p>
+   <p rend="head">
+    A szakszervezet vezetője szerint elfogadhatatlan, hogy az ország vezetése a rendőri egyenruha látványával akarja megfélemlíteni a tiltakozó pedagógusokat.
+   </p>
+   <p>
+    Csütörtökön Andrej Plenković „abszurdnak” és „igazságtalannak” titulálta a sztrájkot, mondván a diákok és a szülők már nagyon türelmetlenek. A kormányzat egyébként a tiltakozás kezdete óta manipulatív álhírekkel próbálta kihúzni a szőnyeget a sztrájk alól, nem reprezentatív fizetési nyilatkozatokat téve közzé, és azzal riogatott, hogy a munkabeszüntetés miatt egy egész évfolyam nem fog tudni lediplomázni ebben a tanévben.
+   </p>
+   <p>
+    Ez a dolgozói kollektív érdekérvényesítést aláásó, nálunk is ismert trükk azonban nem jött be, részben a média kritikusabb hozzáállásának, de főként a szülők kiállásának köszönhetően. A szülők az elmúlt hónapokban a közösségi médiában szerveződtek, és koordinált kampány folytattak, hogy kivegyék a szelet a kormányzati rémisztgetés vitorláiból.
+   </p>
+   <p>
+    (via
+    N1
+    ,
+    Bilten
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A részmunkaidős bértámogatásra fordított tavaszi összeg kétszeresét utalja át holnap az EU Magyarországnak
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     13b5a609-ff43-5411-a591-a229ed57eb01
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A részmunkaidős bértámogatásra fordított tavaszi összeg kétszeresét utalja át holnap az EU Magyarországnak
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-11-30T13:59:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/11/30/a-reszmunkaidos-bertamogatasra-forditott-tavaszi-osszeg-ketszereset-utalja-at-holnap-az-eu-magyarorszagnak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/11/30/a-reszmunkaidos-bertamogatasra-forditott-tavaszi-osszeg-ketszereset-utalja-at-holnap-az-eu-magyarorszagnak/
+     </sch:url>
+     <sch:name>
+      A részmunkaidős bértámogatásra fordított tavaszi összeg kétszeresét utalja át holnap az EU Magyarországnak
+     </sch:name>
+     <sch:datePublished>
+      2020-11-30T13:59:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      EU
+     </sch:keywords>
+     <sch:keywords>
+      koronaválság
+     </sch:keywords>
+     <sch:keywords>
+      hitel
+     </sch:keywords>
+     <sch:keywords>
+      kurzarbeit
+     </sch:keywords>
+     <sch:keywords>
+      bértámogatás
+     </sch:keywords>
+     <sch:keywords>
+      munkahelyvédelem
+     </sch:keywords>
+     <sch:keywords>
+      gazdasági válságkezelés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="13b5a609-ff43-5411-a591-a229ed57eb01">
+     <sch:identifier>
+      urn:uuid:92231fea-dc72-48a4-a1ec-b3690c7b6384
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:58.010880
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:28:31.225268
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="13b5a609-ff43-5411-a591-a229ed57eb01" when="2021-12-14T15:30:58.010880">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A részmunkaidős bértámogatásra fordított tavaszi összeg kétszeresét utalja át holnap az EU Magyarországnak
+   </head>
+   <p>
+    Ez a cikk 1 éves.
+   </p>
+   <p>
+    Kedden utalja át az Európai Bizottság azt a 200 millió eurós (72,5 milliárd forintos) első részletet, amely Magyarországnak jár az uniós munkahelyvédelmi hitelkeretből, amely a koronaválság hatásait hivatott enyhíteni. A
+    Bruxinfo cikke
+    szerint az összesen 100 milliárd eurós védőhálót (SURE) az Európai Bizottság kötvénykibocsátással fedezi, hazánknak több részletben összesen 500 millió eurót fog átutalni.
+   </p>
+   <p rend="head">
+    A SURE célja, hogy olyan részmunkaidős vagy rövid távú (Kurzarbeit) programokat finanszírozzon, amelyek segítségével a cégeknek nem kell tömegesen elbocsátaniuk alkalmazottaikat a koronaválság miatt.
+   </p>
+   <p>
+    A kedvezményes kölcsönt Magyarországnak 15 éven belül kell visszafizetnie, az összeg felét egészségüggyel kapcsolatos intézkedésekre kell fordítania, a fennmaradó összeg legnagyobb hányadát (113,7 millió eurót) pedig a február-március óta bevezetett gazdasági, munkahelyvédelmi válságintézkedések fedezetére kell fordítani. (Hogy pontosan milyen intézkedésekről van szó, az a cikkvégi keres írásunkban tekinthető meg.)
+   </p>
+   <p>
+    Hogy az összeg nagyságrendjét is lássuk: a Bruxinfó szerint a magyar kormány 640 millió eurót fordít különböző, munkahelyekkel összefüggésben álló intézkedésekre, ennek tehát nagyjából ötödét az uniós hitelrésznek (a fent említett 113,7 millió eurónak) a segítségével lehet fedezni.
+   </p>
+   <p>
+    Ám fontos hangsúlyozni, hogy a magyar kormány filozófiájának megfelelően a nehéz helyzetbe került, részmunkaidőre küldött munkavállalóknak közvetlenül viszonylag kevés pénzt ad a kormány, inkább nagyvállalati támogatások és adókedvezmények képezik a gazdasági intézkedéseinek gerincét.
+   </p>
+   <p>
+    A tavaszi hullám idején, három hónapos időintervallumra bevezetett munkahelyvédelmi bértámogatásra (a német Kurzarbeit magyarosított verziójára), illetve kutatás-fejlesztési szektor bértámogatására a kormány nagyjából 50 milliárd forintot költött, de ha ebből levonjuk a kutatás-fejlesztési bértámogatást, akkor csak 35 milliárdot. Vagyis a most átutalandó első hitelrészlet felét.
+   </p>
+   <p rend="head">
+    Mindez azért is érdekes, mert a kormánykommunikáció a járvány hazai megjelenése óta sulykolja, hogy az Európai Unió nem segíti a magyar védekezést és gazdasági válságkezelést – ennek mond ellent például ez az 500 millió euró.
+   </p>
+   <p>
+    Másrészt a SURE keretében folyósított kedvezményes hitelek az épp zajló jogállamisági vitát is új megvilágításba helyezheti. Mert bár ennek a hitelkeretnek nincs köze a tervezett uniós jogállamisági feltételrendszerhez, azt a kormány igyekszik hangsúlyozni, hogy nincs szüksége az EU pénzére, lévén, hogy saját erőből is tud felvenni hiteleket a nemzetközi piacokról.
+   </p>
+   <p>
+    Nemrégiben Orbán Viktor
+    azt is bejelentette
+    , hogy már fel is vettünk egy 30 évre szóló 900 milliárd forintos hitelt a nemzetközi pénzpiacokról, kötvénykibocsátás révén.
+   </p>
+   <p>
+    A magyar önállóság bizonygatása azonban komoly anyagi terheket róhat majd a magyar társadalomra: a SURE is jól mutatja, hogy az EU-s együttműködéseken belül is hozzá tudunk jutni jelentős összegű hitelekhez, ráadásul kevésbé kockázatos módon, mintha azt önállóan tennénk. A jogállamisági feltételek bevezetése elleni harcával viszont Orbán inkább a
+    magyar társadalommal fizetteti meg
+    a kockázatosabb, drágább hitelek árát, csakhogy saját mozgásterét megőrizze.
+   </p>
+   <p>
+    Az is fontos kérdés, hogy ezeket a gazdasági válságkezelő hiteleket – függetlenül attól, hogy az EU-n keresztül, vagy más forrásból érkeznek – hogyan költi el a kormány. Utóbbi ugyanis szeret azzal büszkélkedni, hogy több mint 230 ezer munkahelyet sikerült megmenteni a különböző intézkedésekkel, ám ezeknek az intézkedések nagy része nem közvetlenül a válság sújtotta dolgozókhoz, hanem a cégekhez került. Ahogy arról korábban
+    mi is írtunk
+    , és a Népszava novemberi
+    elemzése
+    is megerősíti, a kifejezetten dolgozóknak juttatott bértámogatások csak a dolgozók egy nagyon kis részét érintették.
+   </p>
+   <p>
+    A második hullám idejére bevezetett
+    bértámogatások
+    pedig – ha lehet – még a tavaszinál is szűkmarkúbbak, sőt csak egyes szektorokra terjednek ki.
+   </p>
+   <p>
+    Összességében tehát jól látszik, hogy a válságos időszak ellenére a kormány nincs pénzszűkében, ám a lehívott hitelek elosztásának módja egyáltalán nem lényegtelen. És a magyar kormány az elosztásban inkább a cégeknek kedvez, a költségeket pedig apránként az állampolgárokkal fizettetné ki.
+   </p>
+   <p>
+    A Bruxinfo szerint ezekre a tevékenységekre fordítható a SURE Magyarországnak ítélt része:
+   </p>
+   <p>
+    1. Turisztikai célpontok kapacitásainak javításához nyújtott ideiglenes támogatás a meglévő munkaerő megtartása érdekében. 
+2. Ideiglenes támogatás élelmiszerfeldolgozó vállalkozásoknak, különösen önfoglalkoztatók és egyszemélyes cégek számára. 
+3. Ideiglenes támogatás a méhészeti szektorban. 
+4. Ideiglenes támogatás haltenyésztő vállalkozásoknak. 
+5. Azoknak a gyermektámogatási kedvezményeknek a kiterjesztése 2020. június 30-ig, amelyek a veszélyhelyzet alatt lejártak. 
+6. A munkavállalók tb-befizetésének felfüggesztése bizonyos szektorokban 2020 márciusa és decembere között, a költségeknek arra a részére, amelyek a munkaidő csökkentése vagy felfüggesztése miatt keletkeztek a cégeknek. 
+7. A képzési díjak befizetése alól a munkaadóknak 2020 márciusa és december között nyújtott mentességek. 
+8. A munkaadók által fizetett rehabilitációs hozzájárulási adó csökkentése bizonyos szektorokban 2020 márciusa és júniusa között. 
+9. Adómentesség nyújtása a KATA-rendszerben adózó kisadófizetőknek 26 tevékenység esetében. 
+10. A KIVA adóalapjából a személyi költségek kizárása bizonyos szektorokban 2020 március és június között. 
+11. Egyszeri átalány fizetés az egészségügyben dolgozóknak a járvány idején végzett többletmunka elismeréseként. 
+12. A járvány megfékezésére bevezetett különleges intézkedésekhez kötődő költségek az állami tulajdonú vállalatoknál. 
+13. A járvány megfékezésére bevezetett különleges intézkedésekhez kapcsolódó költségek és az állami tisztviselők egészségének megóvására meghozott intézkedések költségei. 
+14. A kórházakban az infrastruktúra és az ápolószemélyezt, valamint a betegek védelmében eszközölt beruházások költségei. 
+15. A kórházakban és más egészségügyi intézményekben a személyi védelmet szolgáló eszközök és berendezések közvetlen költségei.
+   </p>
+  </body>
+ </text>
+</TEI>

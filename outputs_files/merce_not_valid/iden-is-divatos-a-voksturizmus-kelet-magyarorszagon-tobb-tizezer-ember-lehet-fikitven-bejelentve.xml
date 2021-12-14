@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Idén is divatos a voksturizmus, Kelet-Magyarországon több tízezer ember lehet fikítven bejelentve
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9b8e7b81-9f6c-5e9a-bba1-83d279ff1642
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Idén is divatos a voksturizmus, Kelet-Magyarországon több tízezer ember lehet fikítven bejelentve
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-02T13:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/02/iden-is-divatos-a-voksturizmus-kelet-magyarorszagon-tobb-tizezer-ember-lehet-fikitven-bejelentve/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/02/iden-is-divatos-a-voksturizmus-kelet-magyarorszagon-tobb-tizezer-ember-lehet-fikitven-bejelentve/
+     </sch:url>
+     <sch:name>
+      Idén is divatos a voksturizmus, Kelet-Magyarországon több tízezer ember lehet fikítven bejelentve
+     </sch:name>
+     <sch:datePublished>
+      2019-10-02T13:00:00
+     </sch:datePublished>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      önkormányzati választások 2019
+     </sch:keywords>
+     <sch:keywords>
+      Partizán
+     </sch:keywords>
+     <sch:keywords>
+      választási csalás
+     </sch:keywords>
+     <sch:keywords>
+      kistelepülések
+     </sch:keywords>
+     <sch:keywords>
+      kettős állampolgárság
+     </sch:keywords>
+     <sch:keywords>
+      magyar vidék
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9b8e7b81-9f6c-5e9a-bba1-83d279ff1642">
+     <sch:identifier>
+      urn:uuid:731e9db3-465f-4508-8e30-85df0250a0fc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.033770
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:51:41.834644
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9b8e7b81-9f6c-5e9a-bba1-83d279ff1642" when="2021-12-14T15:30:41.033770">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Idén is divatos a voksturizmus, Kelet-Magyarországon több tízezer ember lehet fikítven bejelentve
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Tavaly, az országgyűlési választások után a HírTV Célpont című műsorának nyomán
+    mi is beszámoltunk
+    arról: Kelet-Magyarországon bevett szokás ukrán-magyar, szavazásra jogosult kettős állampolgárokat utaztatni és levoksoltatni őket a Fideszre. A Partizán most videós riportot készített arról: két településen, Tiszabecsen és Záhonyban idén is több száz, életvitelszerűen nem a községben tartózkodó polgár került be a választási jegyzékbe.
+   </p>
+   <p>
+    A videó elején egy férfi a stáb autójában ülve arról beszél, hogy nemrég érdeklődött arról, hány fő szerepel a választási névjegyzékben; kérdésére azt a választ kapta, hogy 1170 fő.
+   </p>
+   <p>
+    „Én erre csak azt tudom mondani, hogy Tiszabecs teljes lakossága nincs annyi.”
+   </p>
+   <p>
+    -fűzte hozzá.
+   </p>
+   <p>
+    Egy helyi nyugdíjas, Mósa Zoltán beszámolójából az derül ki: ezek közül az emberek közül mintegy négyszáz lehet fiktív lakhellyel rendelkező kettős állampolgár. Szabados József, a választókerület MSZP-elnökre pedig arról mesél a Partizánnak: olyan is előfordult már, hogy egy lakásba száz ember volt egyszerre bejelentve.
+   </p>
+   <p rend="head">
+    A probléma az: ha a választási jegyzékbe fel van véve valaki, a választóbizottság nemigen tud mit tenni, ha fiktív lakos megjelenik és van nála bármiféle személyazonosságot igazoló okirat, engedniük kell leszavazni.
+   </p>
+   <p>
+    Parlag Jánosné, aki szintén tiszabecsi lakos, megerősíti ezt: azt meséli, két éve azt mondta a polgármester, az ukrán-magyar állampolgároknak szüksége van magyarországi lakcímre, a saját lakásukba annyit jelentsenek be, amennyit szeretnének. Olyannal is találkozott, hogy egy üres telken, amelyen ingatlan nem áll, papírforma szerint 15 ember lakik. Szerinte Tiszabecsen nincsen olyan lakás, ahová ne lenne legalább egy ukrán bejelentve.
+   </p>
+   <p>
+    Mósa Zoltán úgy tudja: kint külön erre szakosodott ügyintézők vannak – és sajnos általánosságban elmondható, hogy a szegényebb ukrán rétegek szavazatait vásárolják meg a magyar, kormánypárti politikusok.
+   </p>
+   <p>
+    „Ha felajánlják az éhező embernek, akinek napi kenyere nincsen, akkor ő el fogja fogadni a húszezret, a negyvenezret, az ötvenezret, hogy a családjának enni adjon.”
+   </p>
+   <p>
+    Az egész megyében mintegy 15-20 ezer ilyen ember lehet bejelentve Szabados József szerint.
+   </p>
+   <p>
+    A videó itt megtekinthető:
+   </p>
+   <p>
+    A voksturizmus nem újkeletú találmány: egy Északkelet-Magyarországon fekvő kisfaluban, Kispaládon tavaly valószínűsíthetően mintegy
+    200 szavazatot
+    vásárolhatott a kormánypárti jelölt; ilyen botrány miatta esett el több község idén a
+    falusi CSOK-tól
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

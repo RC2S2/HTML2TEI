@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Baranyi Krisztina a képviselőjelöltek között is előválasztást szeretne Ferencvárosban
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c583da12-6a4a-5f9a-8d98-ca14b0b44786
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Baranyi Krisztina a képviselőjelöltek között is előválasztást szeretne Ferencvárosban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-26T15:23:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/26/baranyi-krisztina-a-kepviselojeloltek-kozott-is-elovalasztast-szeretne-ferencvarosban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/26/baranyi-krisztina-a-kepviselojeloltek-kozott-is-elovalasztast-szeretne-ferencvarosban/
+     </sch:url>
+     <sch:name>
+      Baranyi Krisztina a képviselőjelöltek között is előválasztást szeretne Ferencvárosban
+     </sch:name>
+     <sch:datePublished>
+      2019-07-26T15:23:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzati választások 2019
+     </sch:keywords>
+     <sch:keywords>
+      előválasztás
+     </sch:keywords>
+     <sch:keywords>
+      Baranyi Krisztina
+     </sch:keywords>
+     <sch:keywords>
+      jancsó andrea
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c583da12-6a4a-5f9a-8d98-ca14b0b44786">
+     <sch:identifier>
+      urn:uuid:49df00fd-e1fa-4d34-aab7-485af40060ba
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:20.885433
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:39:48.417022
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c583da12-6a4a-5f9a-8d98-ca14b0b44786" when="2021-12-14T15:27:20.885433">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Baranyi Krisztina a képviselőjelöltek között is előválasztást szeretne Ferencvárosban
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Nemcsak a polgármesterjelöltről, hanem az önkormányzati képviselőjelöltekről is a ferencvárosiaknak kellene dönteniük Baranyi Krisztina szerint. A ferencvárosi polgármesteri pozícióért ringbe szálló politikus ezért azt a javaslatot küldte el az előválasztásban érintett pártoknak és civil szervezeteknek, hogy az előválasztáson résztvevő ellenzéki választók a polgármesterjelölt személye mellett egyúttal az egyéni képviselőjelöltekről is dönthessenek – ezt maga Baranyi írta meg egy Facebook-bejegyzésben pénteken.
+   </p>
+   <p>
+    Mint arról korábban
+    írtunk
+    , az előválasztáson
+    való elinduláshoz azt a feltételt szabták
+    Baranyi Krisztinának a vele szemben álló Jancsó Andreát támogató pártok, hogy írja alá: támogatja az által összeállított közös egyéni képviselőjelöltek és közös ellenzéki kompenzációs jelöltek (tehát a választások után felálló új képviselőtestület lehetséges ellenzéki tagjainak) listáját.
+   </p>
+   <p>
+    Mint ismert, miután két ellenzéki jelölt is
+    bejelentkezett
+    a polgármesterjelölti posztra Ferencvárosban, a főpolgármester-jelölti poszt mintájára a felek előválasztás lebonyolítását kezdeményezték a IX. kerületben is. Jancsó Andreát a Momentum, az MSZP és a Jobbik támogatja. A parkolási botrányt felgöngyölítő Baranyi Krisztina pedig az LMP-vel, a Kétfarkú Kutya Párttal és a kerület volt polgármesterével a háta mögött jelentette be korábban, hogy megméretteti magát.
+   </p>
+   <p>
+    A listák tartalmáról azonban vita alakult ki a felek között az előválasztással kapcsolatos egyeztetések során: a Jancsó Andreát támogató MSZP-Momentum-Jobbik oldal szerint
+    konszenzus született
+    a listákról,
+    Baranyi szerint
+    viszont ő maga nem vett részt az erről szóló tárgyalásokon, és ennek megfelelően a megállapodás tartalmát sem ismerte eredetileg.
+   </p>
+   <p>
+    Miután ismertették vele a jelöltlistáról szóló megállapodás tartalmát, Baranyi nem fogadta azt el, mivel szerinte
+    <hi>
+     „olyan megállapodás elfogadását szabnák a polgármester-jelölti előválasztáson való indulás feltételéül, amely alapján közös ellenzéki jelöltek lennének a korábban rendszeresen a Fidesz és a kerületi közpénzeket eltüntető bűnszövetkezet érdekei szerint szavazó eddigi képviselők.”
+    </hi>
+   </p>
+   <p rend="head">
+    Mint fogalmazott, bár valamennyi szervezési kérdésben megegyeztek a felek az előválasztás kapcsán, a tárgyalások mára mégis holtpontra jutottak.
+   </p>
+   <p>
+    A Jancsó Andreát támogató tömb eredeti javaslata szerint Ferencváros 12 választókörzetéből a Momentum, az MSZP és a DK 3-3, a Jobbik, a Párbeszéd és az LMP pedig 1-1 helyet kapna. A Baranyi által ma köztétett alternatíva rímel a független képviselő korábban megfogalmazott feltételére, vagyis arra, hogy legalább az egyik választókerületben induljon a Kulcs Egyesületből, Baranyi jelölőszervezetéből egy jelölt. Ezenkívül Baranyi Krisztina verziójában a kompenzációs listán szerepelne az előválasztás vesztese is (legalább 30 százalékos támogatottság esetén), valamint a Momentum 4, a DK 3, a Jobbik, az MSZP, a Párbeszéd és az LMP pedig 1-1-1 helyet kapnának.
+   </p>
+   <p>
+    Baranyi közlése szerint megkérte az ellenzéki partnereit, hogy erősítsék meg vagy igényük szerint módosítsák korábbi javaslatukat a jelöltek személyeiről valamint arra is, hogy az általa javasolt, az övéktől eltérő leosztást illetően nevezzék meg az indítani kívánt személyeket.
+   </p>
+   <p>
+    A két ellenzéki polgármesterjelölt hétfőn (július 29-én)
+    vitázni is fog
+    egymással, amelyet élőben közvetítünk a Mércén.
+   </p>
+  </body>
+ </text>
+</TEI>

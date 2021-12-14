@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A magyar kormány erdélyi médiahelytartója szerint megérdemelné egy újságírónő, hogy agyonverjék
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fff4cb5e-3f72-5148-a622-2cb96fdfc397
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A magyar kormány erdélyi médiahelytartója szerint megérdemelné egy újságírónő, hogy agyonverjék
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-16T21:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/16/a-magyar-kormany-erdelyi-mediahelytartoja-szerint-megerdemelne-egy-ujsagirono-hogy-agyonverjek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/16/a-magyar-kormany-erdelyi-mediahelytartoja-szerint-megerdemelne-egy-ujsagirono-hogy-agyonverjek/
+     </sch:url>
+     <sch:name>
+      A magyar kormány erdélyi médiahelytartója szerint megérdemelné egy újságírónő, hogy agyonverjék
+     </sch:name>
+     <sch:datePublished>
+      2021-03-16T21:30:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      sajtószabadság
+     </sch:keywords>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      bántalmazás
+     </sch:keywords>
+     <sch:keywords>
+      erdély
+     </sch:keywords>
+     <sch:keywords>
+      újságírás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fff4cb5e-3f72-5148-a622-2cb96fdfc397">
+     <sch:identifier>
+      urn:uuid:65654d4c-36dc-4fc8-9a92-d15f85a82156
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:55.873399
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:41:12.212758
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fff4cb5e-3f72-5148-a622-2cb96fdfc397" when="2021-12-14T15:30:55.873399">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A magyar kormány erdélyi médiahelytartója szerint megérdemelné egy újságírónő, hogy agyonverjék
+   </head>
+   <p>
+    Parászka Boróka erdélyi magyar újságíró bántalmazását legitimáló posztot tett közzé hétfőn Szőke László, a magyar kormány által Erdélybe juttatott
+    másfél, majd újabb közel kétmilliárd forintos sajtótámogatás
+    médiaportfóliójának fejlesztési igazgatója.
+   </p>
+   <p>
+    Vagy ahogy Parászka fogalmaz: „tulajdonképpen ő a Fidesz erdélyi sajtópolitikájának egyik arca, hangja. A helyi ember, végrehajtó – s, a fenti posztból úgy tűnik, Erdélyben ő az egyik, aki
+    dönt arról, kit érdemes agyonverni, és kit nem.”
+   </p>
+   <p>
+    Szőke ugyanis – jó érzékkel a magyar sajtószabadság napjára időzítve – az alábbi szöveggel osztotta meg az újságíró egyik Facebook-bejegyzését,
+    melyben a Fidesz „vakcinanacionalizmusát” kritizálta
+    :
+   </p>
+   <p>
+    „Szegény Boróka. Hülye, de legalább van nekünk. Legalább. Néha gondolkodom, hogy kell-e figyelnünk rá. Nem. Agyonverni sem érdemes, de megérdemelné.”
+   </p>
+   <p>
+    Képernyőfotó Szőke László Facebook posztjáról. Forrás: Mérce
+   </p>
+   <p>
+    A – Szőke által azóta már törölt – posztra Parászka a kolléganőit érő hasonló fenyegetésekre való figyelemfelhívással reagált: csak az elmúlt hetekben célkeresztben állt többek közt Csata Orsolya csíkszeredai televíziós újságíró, aki a leégett csíksomlyói romagettó károsultjainak életét követi, Víg Emese, aki a kolozsvári Transindex felelős szerkesztője, számos politikai véleménycikk szerzője, és a nőjogi kérdések egyik avatott elemzője, a marosvásárhelyi Hunyadi Zsuzsa vágó, aki többek között a Deutsche Wellenek készített filmeken dolgozik (így ő vágta például a magyar kormány budapesti építkezéseiről szóló,
+    a kormánypárti sajtóban
+    nagy port kavart
+    riportfilmet
+    is). Emellett kiemeli a tavalyi év egyik legmegrázóbb és legagresszívebb támadássorozatát is, amely Juhász-Boylan Kincsőt érte, aki a Csíki Sör szexista, nőket sértő és lealacsonyító marketing filmjéről írt kritikus cikket a kolozsvári Transindexen (és aki mellett a Mérce szerkesztősége is
+    nyilatkozatban állt ki
+    ).
+   </p>
+   <p rend="head">
+    Parászka szerint a hasonló támadássorozatokban felbukkan a fizikai erőszakkal való fenyegetés, az érzékeny adatokkal való visszaélés, vagy azzal fenyegetés, a verbális erőszak, a családtagok, ismerősök zaklatása, bevonása a konfliktusba, a nyilvános megalázás és az online lincselés.
+   </p>
+   <p>
+    „Számos zaklatási ügy nem kerül nyilvánosságra, mert a háttérben zajlik, mert az áldozat a saját védelme érdekében úgy dönt, nem hozza nyilvánosságra. Újságírónak lenni ma nehéz feladat. Újságírónőnek lenni kétszeresen nehéz: mert a kolléganőknek viselniük kell mindazt, amit az újságírók és amit a nők elszenvednek, amiért kiszolgáltatottá válnak”
+   </p>
+   <p>
+    – írja.
+   </p>
+   <p>
+    Parászka felhívja a figyelmet: tudatos védelem nélkül nem végezhetik a munkájukat, veszélybe kerül nem csak az, amin és ahogy dolgoznak, de a magánéletük, a személyes integritásuk is.
+    Az újságíró szerint ez
+    a fajta erőszak elfogadhatatlan, tűrhetetlen, a védelmet vele szemben pedig az tudja biztosítani, hogy nagyon sokakban ott a vágy és az elkötelezettség az erőszakmentes, méltányos közélet iránt.
+   </p>
+   <p>
+    Mint arra a
+    Transindex
+    cikke emlékezet, Szőke László ráadásul úgy legitimálja az erőszakot, hogy néhány éve még ő maga hozta folyamatosan nyilvánosságra azokat a fenyegetéseket, amelyeket munkája során kapott, és ült fel arra a szolidaritáshullámra, amely az ellene intézett támadásokkor
+    keletkezett.
+   </p>
+   <p>
+    Később Szőke újabb posztot tett közzé, melyben bocsánatot nem kér, csupán Parászka „érzékenységét” bagatellizálva „beismeri”, hogy túllőtt a célon, mert abból indult ki, ő mit képes elviselni.
+   </p>
+   <p>
+    „Más nem, így Parászka Boróka sem érdemli, hogy ennyire ócskán, aljasul – kinek ahogy tetszik – megküldjem. Ráadásul, s ebben igazatok van, nem a förvedményében állítottakkal szálltam vitába, hanem őt küldtem meg. Tehát helyesen: azt sem érdemli, hogy agyba-főbe szeressük. Még ha meg is érdemelné… „
+   </p>
+   <p>
+    – írja.
+   </p>
+   <p>
+    Parászka Boróka korábban megjelent cikke
+    ide kattintva
+    olvasható az Erdélyi Médiatér Egyesület
+    rekordösszegű támogatásáról
+    és az erdélyi magyar sajtó helyzetéről.
+   </p>
+  </body>
+ </text>
+</TEI>

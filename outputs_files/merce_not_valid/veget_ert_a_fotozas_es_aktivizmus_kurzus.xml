@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Véget ért a Fotózás és aktivizmus kurzus
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8d6ccea0-05b3-5895-a0e8-14ba491418e9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Véget ért a Fotózás és aktivizmus kurzus
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2014-07-07T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2014/07/07/veget_ert_a_fotozas_es_aktivizmus_kurzus/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2014/07/07/veget_ert_a_fotozas_es_aktivizmus_kurzus/
+     </sch:url>
+     <sch:name>
+      Véget ért a Fotózás és aktivizmus kurzus
+     </sch:name>
+     <sch:datePublished>
+      2014-07-07T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      képzés
+     </sch:keywords>
+     <sch:keywords>
+      fotózás_és_aktivizmus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8d6ccea0-05b3-5895-a0e8-14ba491418e9">
+     <sch:identifier>
+      urn:uuid:43eecc31-6bd8-40d7-81c5-4dbadd337610
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:02.126992
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:12:19.596365
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8d6ccea0-05b3-5895-a0e8-14ba491418e9" when="2021-12-14T15:35:02.126992">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Véget ért a Fotózás és aktivizmus kurzus
+   </head>
+   <p>
+    Ez a cikk több mint 7 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Meglepetés volt a „
+     Fotózás és aktivizmus
+     ” kurzus elején a képzés szokatlan módja, hogy nem mindenkinek egy adott tananyagot kell bebiflázni, hanem a különböző szinten állók egyszerre fejlődhetnek. Egy csoportban voltak a teljesen kezdők (nekem saját gépem máig sincs), a páréves tapasztalattal rendelkezők, valamint az évtizednyi fotózási gyakorlattal rendelkezők is. Sőt a fotóelmélet csak annyiban volt jelen, amennyiben a fotózási gyakorlathoz szükség volt rá.
+    </hi>
+   </p>
+   <p>
+    Folyamatosan része volt a kurzusnak az elkészült képeink átnézése. Itt egymás képeinek elemzése alatt mindenkiben kifejlődött, (ha az elején még nem volt elképzelése) hogy ő milyen képeket szeretne készíteni. Mások képei, illetve a meghívott előadók pedig motivációt adtak saját célok kitűzésére és megvalósítására. Csoszó Gabi sikeres művészeket hívott el (a résztvevők kívánsága alapján), akik egy-egy este a foglalkozáson meséltek a művészetükről, amiből kirajzolódott az életük, céljaik, sikereiknek az alapja, az a munka, amit évek alatt tettek bele az életútjukba, és azok az emberi értékek, amik a művészembert meghatározzák. Tehát pusztán fotózási ismeretek átadása helyett emberi minőségeket közvetített a képzés.
+   </p>
+   <p>
+    Egyenrangú félként vehettem részt én is az órákon, kezdőségem ellenére. Egyfajta „közösen ismerjük meg korunk világát, közös érdeklődésünk, a fotózás segítségével” hangulatban folytak le a foglalkozások. A tapasztalt társak, és a kurzusvezetés egyenrangú társként kezelt engem és szintén hajléktalan társamat, akik helyzetünk miatt nem fizettünk a képzésért. Az utcán élés elutasítása után sokáig hihetetlen volt ez az elfogadás. Sőt ez a közösség értéknek tekintette azt, hogy élethelyzetünk miatt, hajléktalanként másként látjuk a világot, mint életüket jobb szinten élő társaink.
+   </p>
+   <p>
+    A fotózási alapismereteket –a kurzusra járás ideje alatt- mellékesként, és a saját ütemünkben szedtük fel, miközben a fotózó közösségbe jártunk, azaz hetente egy délutánon összejöttünk, hogy együtt legyünk. Mellékesként ki-ki tovább képezte magát abban, amiben ő fejlődni kívánt, miközben az álmaihoz közvetlen inspirációt kapott a tanfolyamon. Alapvetően jól érezni „kellett” magunkat, tanulási kényszer nélkül, ami olyan komoly motivációt adott, aminek a segítségével pillanatok alatt tanultuk meg azt, amit mi magunk meg akartunk tanulni, mivel semmi sem volt „kötelező”. Csoszó Gabi végig rendelkezésére állt minden tanítványának, és amit kértek tőle, amire megérett a résztvevő, azt adta meg a résztvevőknek. Valamint ezt a nyitott, közösségben létezős önmegvalósítást mutatta be, ami mellett mindenki más is a leggyorsabban valósíthatja meg önmagát. Ez a „tanulási módszer”, ha az egyáltalán, ez teszi élvezetessé és elvégzett évek után is kívánatossá a Csoszó Gabi fotókurzusait. (Többeknek sokadik kurzus volt az idei, és most is jelezték, ha lesz folytatás, szeretnének részt venni)
+   </p>
+   <p>
+    A kurzus ideje alatt lezajlott konferenciák-, utazások-, szabadság téri szoborállítás-, tavaszi gyümölcsfavirágzás-, AVM-es és egyéb tüntetések- és további események képeit,
+    órákon keresztül el lehet nézegetni
+    .
+   </p>
+   <p>
+    A kurzus ideje alatt készült fotók szégyenkezés nélkül megmérkőzhetnek bármely más fotókurzus anyagával, én mégis azt tartom nagyra a képzésben, hogy egymás megismerésére és közös együtt dolgozásra vett rá bennünket, egy elfogadó közösségben, az egymással versengés helyett. Remélem a közeljövőben még sokan megtapasztalhatják ezt, az „először érezd jól magad, mellesleg bármit elsajátítasz, amivel kiteljesíted önmagadat” tanulást. A világban az értékek között zajló ideológiai harc jelen állása nem biztosítja a további fent maradását a foto kurzusnak. Köszönöm a sorsnak, hogy most részt vehettem rajta, és szurkolok Magyarországnak, hogy úgy alakítsa a jövőjét, hogy ez, és az ilyen tanfolyamok elszaporodjanak Magyarországon!
+   </p>
+   <p>
+    2014. június 25.                                                                                       gat
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

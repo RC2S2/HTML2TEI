@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szalmabábbal viaskodnak, akik szerint rasszisták a kritikai elméletek
+    </title>
+    <author>
+     <persName>
+      Nagy Dániel
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9cee7051-ba94-5b14-b5e6-a73f0bbe6ede
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szalmabábbal viaskodnak, akik szerint rasszisták a kritikai elméletek
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nagy Dániel
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-27T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/27/szalmababbal-viaskodnak-akik-szerint-rasszistak-a-kritikai-elmeletek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/27/szalmababbal-viaskodnak-akik-szerint-rasszistak-a-kritikai-elmeletek/
+     </sch:url>
+     <sch:name>
+      Szalmabábbal viaskodnak, akik szerint rasszisták a kritikai elméletek
+     </sch:name>
+     <sch:datePublished>
+      2021-07-27T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Nagy Dániel
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      rasszizmus
+     </sch:keywords>
+     <sch:keywords>
+      sajtó
+     </sch:keywords>
+     <sch:keywords>
+      marxizmus
+     </sch:keywords>
+     <sch:keywords>
+      george floyd
+     </sch:keywords>
+     <sch:keywords>
+      amerikai egyesült államok
+     </sch:keywords>
+     <sch:keywords>
+      civilizáció
+     </sch:keywords>
+     <sch:keywords>
+      kolonializmus
+     </sch:keywords>
+     <sch:keywords>
+      nyelvészet
+     </sch:keywords>
+     <sch:keywords>
+      gender studies
+     </sch:keywords>
+     <sch:keywords>
+      fehér faj
+     </sch:keywords>
+     <sch:keywords>
+      faji politika
+     </sch:keywords>
+     <sch:keywords>
+      fajgyűlölet
+     </sch:keywords>
+     <sch:keywords>
+      szemiotika
+     </sch:keywords>
+     <sch:keywords>
+      kritikai elméletek
+     </sch:keywords>
+     <sch:keywords>
+      fehérség
+     </sch:keywords>
+     <sch:keywords>
+      kifehéredés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9cee7051-ba94-5b14-b5e6-a73f0bbe6ede">
+     <sch:identifier>
+      urn:uuid:3039a7f2-883b-4036-8144-19bc2d0d1639
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:06.077709
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:33.867315
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9cee7051-ba94-5b14-b5e6-a73f0bbe6ede" when="2021-12-14T15:31:06.077709">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szalmabábbal viaskodnak, akik szerint rasszisták a kritikai elméletek
+   </head>
+   <p>
+    Tavaly nyár óta,
+    amikor George Floyd halálának képei az egész világot bejárták
+    , a korábbinál sokkal nagyobb figyelem irányul az Egyesült Államokban és számos más országban a rasszizmus problémájára, illetve annak társadalmi következményeire.
+   </p>
+   <p>
+    Természetesen azonban – sajnálatos módon – ez a kérdés sem kerülhette el, hogy a világszerte folyó kulturális, identitáspolitikai küzdelmek frontvonalává váljon (gondoljunk csak
+    a futballmeccsek előtti térdelés kérdésére
+    , amiről korábban már írtam).
+   </p>
+   <p>
+    A közbeszéd tematizációjáért folyó politikai harcban e kérdés kapcsán magukat jobboldalinak vagy konzervatívnak nevező szereplők az Atlanti-óceán mindkét oldalán előszeretettel hozzák fel, hogy voltaképpen a „faj” kérdéséről a társadalomban és az oktatásban folytatott diskurzus, illetve a téma akadémiai szinten történő tanulmányozása a rasszista, hiszen a „fehéreket” (egészen pontosan az ő „privilégiumaikat” és az általuk megvalósított elnyomást) teszi meg bűnbaknak, bőrszín alapján „bűnösökre” és „áldozatokra” osztva a társadalom tagjait. Ráadásul a „faj” kérdéséről és az intézményes rasszizmusról, valamint annak előzményeiről szóló beszélgetés az iskolákban még a történelmet is „újraírná”, aláásva a fehér gyerekek identitását azáltal, hogy kvázi megtiltaná nekik, hogy büszkék legyenek az őseikre, akik közül sokan rabszolgatartók, vagy legalábbis egy rabszolgatartó társadalom haszonélvezői voltak.
+   </p>
+   <p>
+    Az Egyesült Államokban a Republikánus Párt egyes politikusai és a jobboldali média egy része mindent elkövet a témával kapcsolatos félelmek gerjesztése érdekében, azt állítva, hogy a „faj” kérdését vizsgáló kritikai elméletek az amerikai identitás és az állampolgári szabadságjogok elpusztítására törnek. A tengerentúli elemzők az ehhez hasonló jelenségeket gyakran a magyarra nehezen fordítható „
+    <hi>
+     moral panic
+    </hi>
+    ” kifejezéssel írják le, ami nagyjából annyit tesz, hogy azzal próbálnak embereket valami ellen fordítani, hogy azt
+   </p>
+   <p>
+    a civilizációra, az erkölcsre, a hagyományos értékekre leselkedő veszélyként, vagy legalábbis annak tüneteként azonosítják.
+   </p>
+   <p>
+    Amerikában mindez egészen magas szintű politikai cselekvésben is megnyilvánul, miután az elmúlt bő fél év során több tagállam republikánus többségű szenátusa is törvényt hozott a „faj” kérdéséről folytatott kritikai elméleteken alapuló megközelítés betiltásáról az adott állam oktatási intézményeiben.
+    [1]
+   </p>
+   <p>
+    Magyarországon pedig időről-időre felbukkan a kormánypárti sajtóban egy-egy cikk, amiben leplezetlen (vagy legalábbis alig leplezett) rosszallással, elrettentő példaként mutatják be, hogy „a Nyugatot” (különösen a nyugati egyetemeket) milyen mértékben hatalmába kerítette a fehérek elleni rasszizmus és diszkrimináció (hasonló modorban ahhoz, ahogyan ugyanezen orgánumok a „genderőrület” megnyilvánulásairól szoktak beszámolni).
+   </p>
+   <p rend="head">
+    De vajon pontosan mit is állítanak ezek az ördögi „kritikai elméletek” a rasszizmus és a „faj” kérdéséről? Tényleg azt mondják, hogy a fehér embereknek szégyellniük kell magukat a bőrszínük miatt, ahogy
+    egyes hazai jobboldali portálok beszámolói
+    sugallják?
+   </p>
+   <p>
+    A különböző társadalmi csoportok helyzetének az adott csoport bőrszíne alapján való tárgyalása nem jelenti-e valóban azt, hogy megkülönböztetjük az egyes embereket valamely biológiai tulajdonságuk alapján, miközben biológiai értelemben tény, hogy a Földön élő valamennyi Homo Sapiens egyetlen fajt alkot?
+   </p>
+   <p>
+    E kérdések megválaszolásához mindenekelőtt azt szükséges tisztázni, egészen pontosan mit is ért a
+    <hi>
+     critical race theory
+    </hi>
+    a „faj” (
+    <hi>
+     race
+    </hi>
+    ) fogalma alatt. Nos, általában valamennyi ezzel foglalkozó szakkönyv már az előszóban siet leszögezni, hogy a „faj és a különböző fajok fogalma társadalmi gondolkodásmódok és viszonyrendszerek eredménye.”
+    [2]
+   </p>
+   <p>
+    Egyszerűbben fogalmazva a kritikai elméletek szemében a „faj” társadalmilag konstruált kategória, amely „nem objektív, inherens, vagy rögzített tulajdonság, s nem függ össze semmiféle biológiai vagy genetikai realitással.”
+    [3]
+    Épp ellenkezőleg, „a fajok olyan kategóriák, amelyeket a társadalom talál fel, alkalmaz, vagy von vissza, amikor éppen szükséges.”
+    [4]
+   </p>
+   <p>
+    Útkereszteződés Párizsban. A felirat a George Floyd elleni merényletre emlékeztet. (Fotó: Flickr)
+   </p>
+   <p>
+    Természetesen egyes emberek és embercsoportok között vannak objektíve leírható, biológiai különbségek, ám a „faj” társadalmilag használt fogalma alapvetően független ezektől, legfeljebb ürügyként használ bizonyos, önkényesen kiválasztott biológiai tulajdonságokat (mint például az ember bőrének pigmentáltsága) – legalábbis a kritikai elméletek ezt állítják.
+   </p>
+   <p>
+    Feltűnő, hogy ez a megközelítés bizonyos értelemben nagyon hasonló ahhoz, amit a magyar kormánypárti médiában szintén a „Nyugat” intellektuális és erkölcsi hanyatlásának tüneteként prezentált
+    <hi>
+     gender studies
+    </hi>
+    (társadalmi nemek tanulmányozása) alkalmaz a „
+    <hi>
+     nem
+    </hi>
+    ” kérdése kapcsán. A különbség csupán annyi, hogy a
+    <hi>
+     gender studies
+    </hi>
+    önálló terminust vezetett be a „társadalmi nemre”, vagyis szóhasználatában is elkülönítette az egyes személyek kromoszómákon alapuló „biológiai nemét” azoktól a társadalmilag, kulturálisan megfogalmazott szerepelvárásoktól, előítéletektől stb., amelyekkel egy adott személy a mások által érzékelt nemi jellegeinek megfelelően szembesül.
+   </p>
+   <p>
+    A
+    <hi>
+     critical race theory
+    </hi>
+    ezzel szemben a terület nevét adó kulcsfogalomként vette át a korábbi áltudományos diskurzusok (mindenekelőtt az eugenika) által alkalmazott „faj” (
+    <hi>
+     race
+    </hi>
+    ) terminust, hangsúlyozva, hogy az emberek a köztük lévő biológiai-genetikai különbségek alapján nem sorolhatók élesen elkülöníthető kategóriákba, vagyis
+   </p>
+   <p rend="head">
+    a „faj” fogalma (különböző emberi „rasszok” definiálása) sohasem tudományos, hanem mindig is politikai-hatalmi célokat szolgált.
+   </p>
+   <p>
+    A
+    <hi>
+     critical race theory
+    </hi>
+    tehát azzal foglalkozik, hogyan és miért alkotnak meg egyes emberi társadalmak „faji” kategóriákat különböző egyének és társadalmi csoportok megkülönböztetésére, illetve hogy ez a megkülönböztetés hogyan segít fenntartani vagy épp megváltoztatni egy adott társadalom hierarchikus rétegzettségét vagyon, jogi státusz, politikai hatalom stb. tekintetében.
+   </p>
+   <p>
+    Vagyis a kérdést kutató tudósok és az ezzel foglalkozó aktivisták gyakorlatilag kivétel nélkül abból indulnak ki, hogy
+   </p>
+   <p>
+    az ember nem „születik” valamilyen „fajúnak” (feketének, fehérnek vagy bármi egyébnek), hanem adott társadalmi gyakorlatok következtében „azzá válik”, pontosabban többnyire inkább „azzá teszik”.
+   </p>
+   <p>
+    Ez a folyamat, amely során egy adott társadalmi-kulturális környezetben valaki például „fehérként” vagy „feketeként” kerül besorolásra, implikál egy szemiotikai cselekvést, vagyis azt, hogy az adott személy egy adott biológiai tulajdonságát (a bőrszínét, hajszínét, testalkatát, egyes jellegzetes arcvonásait, szemformáját stb.) az illető társadalmi státuszának, vagyoni helyzetének, sőt jellemének, fizikai vagy intellektuális képességeinek stb. szimptomatikus jeleként fogják fel. Vagyis azt feltételezik, hogy az adott biológiai tulajdonság szükségszerűen kapcsolódik a vele asszociált egyéb tulajdonságokhoz – szemiotikai kifejezéssel élve
+    <hi>
+     indexikus kapcsolat
+    </hi>
+    , valamiféle egzisztenciális összefüggés áll fenn a látható tulajdonság (például a bőrszín), és az adott szocio-kulturális kontextusban hozzá kapcsolódónak tekintett jellemzők között.
+   </p>
+   <p>
+    A kritikai elmélettel foglalkozó kutatók ezzel kapcsolatban éppen arra mutatnak rá, hogy ebben az esetben is igaz Umberto Eco ismert szellemessége, miszerint „jel az, amivel hazudni lehet” – ugyanis valójában szó sincs
+    <hi>
+     indexikus kapcsolat
+    </hi>
+    ról. A „faj” és a hozzá kapcsolódó asszociációk ténylegesen mindig egy adott közösségben elfogadott konvenció alapján konstruálódnak. Vagyis az,
+   </p>
+   <p rend="head">
+    hogy melyik embert tekintjük „feketének” vagy „fehérnek” (és milyen tulajdonságokkal ruházzuk fel e csoportok tagjait) éppúgy közmegegyezés kérdése, mint hogy az asztalra az „a-sz-t-a-l” hangsorral utalunk-e, vagy másképp.
+   </p>
+   <p>
+    Jó példa erre
+    Sarah Rector esete
+    , akit – fekete bőrszíne ellenére – a földje alatt talált olajból származó vagyona miatt Oklahoma állam szenátusa 1913-ban hivatalosan „fehérnek” nyilvánított, ami szintén azt mutatja, hogy a „fehérség” a Jim Crow törvények idején is alapvetően jogi státusz kérdése volt, amit jogi úton (egy törvényhozók által szentesített konvencionális aktussal) meg lehetett változtatni, s azóta is a társadalmi konvención múlik, hogy mikor alkalmazzák vagy épp hagyják figyelmen kívül például a bőrszínnel kapcsolatos előítéleteket.
+   </p>
+   <p>
+    Röviden tehát a
+    <hi>
+     critical race theory
+    </hi>
+    szerint a „fehérség” és a „feketeség” olyan szimbólumok, amelyek
+    <hi>
+     index
+    </hi>
+    nek álcázzák magukat – vagyis arra mutat rá, hogy a „faj” kérdése kapcsán meglévő distinkciókat nem „felfedezzük”, hanem társadalmi konvenciók révén „létrehozzuk”. Mindez természetesen a „fehérségre” is vonatkozik, vagyis a „fehérek” sem biológiai okokból kategorizálódnak „fehérként” egy adott társadalomban, hanem politikai-hatalmi okokból.
+   </p>
+   <p>
+    Antirasszista tömegtüntetés 2014-ben.
+   </p>
+   <p>
+    Ennek illusztrálására a
+    <hi>
+     critical race theory
+    </hi>
+    művelői klasszikus példaként szokták felhozni azt a folyamatot, amely során a 20. század első évtizedeinek Amerikájában olyan korábban kisebbséginek és marginalizáltnak számító bevándorló csoportok, mint például az ír és olasz katolikusok, vagy a kelet-európai zsidók bevonódtak a többséget alkotó csoportba az angolszász és német származású protestánsok mellé, vagyis például írből „fehérré” váltak.
+    [5]
+    Ennek okaként például marxista szempontból azt szokás azonosítani, hogy a korabeli amerikai társadalom elitje így próbált a „faj” szimbolikus kategóriája mentén maga mellé állítani viszonylag széles társadalmi csoportokat, megelőzve, hogy ezek a csoportok a vagyoni és politikai hatalmi viszonyok megváltoztatására törekvő, osztályalapon szerveződő politikai tevékenységbe kezdjenek.
+   </p>
+   <p>
+    Bűnügyi analógiával élve tehát a „fehér felsőbbrendűséggel” (
+    <hi>
+     white supremacy
+    </hi>
+    ) összefüggő bűnök (elnyomás és kizsákmányolás az iparosítás centrumországaiban és a gyarmatosítás során egyaránt, utóbbi területeken alkalmanként konkrétan népirtásnak tekinthető cselekedetek stb.) esetében
+   </p>
+   <p>
+    a „fehérség” a kritikai elméletek művelői szerint sosem az indíték, sokkal inkább a gyilkos fegyver.
+   </p>
+   <p>
+    Tehát amikor az e megközelítésből kiinduló aktivizmus a „fehér faj” (
+    <hi>
+     white race
+    </hi>
+    ), vagy pontosabb megfogalmazásban a „fehérség” (
+    <hi>
+     whiteness
+    </hi>
+    ) mint szimbolikus kategória felszámolásáról (
+    <hi>
+     abolition
+    </hi>
+    ) beszélnek, az természetesen nem bizonyos bőrszínű emberek kiiktatását jelenti, hanem annak a gyakorlatnak a megszüntetését, amely egy adott társadalom tagjait önkényesen megválasztott biológiai jellemzőkhöz önkényesen hozzákapcsolt szimbolikus kategóriák alapján ruházza fel különböző privilégiumokkal annak érdekében, hogy a különböző hátrányos helyzetű csoportok tagjait egymás ellen fordítsa, vagy ideológiailag alátámassza bizonyos csoportok kizsákmányolását, tulajdonától való megfosztását stb.
+   </p>
+   <p>
+    Ebben az értelemben tehát a „fehér bűnösség” (
+    <hi>
+     white guilt
+    </hi>
+    ) nem a fehér bőrszínű emberek kollektív, velük született bűnössége, hanem olyan bűnök összessége, amelyeket a „fehérség” (a „fehér civilizáció”, időnként egyszerűen csak „civilizáció”) nevében és által követtek, illetve követnek el.
+   </p>
+   <p>
+    Ez morális szempontból nézve természetesen maga után vonja, hogy különösen a globálissá vált kapitalizmus centrumországaiban élő fehér bőrszínű emberek, amennyiben nem óhajtanak az elnyomás, kizsákmányolás és egyéb bűnök örökösei és bűnrészesei lenni, kénytelenek szembenézni a ténnyel, hogyan használták és használják legalább négyszáz éve egy önkényesen kijelölt biológiai tulajdonságukat ezen atrocitások végrehajtására és igazolására.
+   </p>
+   <p>
+    Másképpen fogalmazva,
+   </p>
+   <p rend="head">
+    amennyiben a társadalmi egyenlőtlenséget felszámolandó állapotnak tartjuk, akkor felvethető, hogy az elitek által önkényesen privilégiumokhoz juttatott csoportoknak (például a „fehéreknek”) erkölcsi kötelessége volna elutasítani az efféle hatalomtechnikai okokból létező arbitrális hierarchiákat, ellenkező esetben bűnrészesnek tekinthetők mindabban, amit az elitek tagjai mindenki más kárára elkövetnek.
+   </p>
+   <p>
+    Természetesen ezzel a felfogással számos pontot vitába lehet szállni, például nem kötelező adekvát értelmezési keretként elfogadni az osztályalapú megközelítést, vagy egyetemes erkölcsi imperatívusznak tekinteni az emberek közötti egyenlőséget az élet minden területén, sőt akár a sokat emlegetett „rendszerszintű rasszizmus” gazdasági, politikai, jogi megnyilvánulásainak bizonyítékait is meg lehet próbálni cáfolni. Ezek és számos hasonló pont a társadalmaink problémáiról folytatott legitim és akár potenciálisan előre vivő viták kiindulópontja lehet.
+   </p>
+   <p>
+    A kritikai elméletek rasszizmussal való nyílt vagy burkolt megvádolása azonban nem ebbe a kategóriába tartozik, hiszen, mint láthattuk, a probléma ily módon történő keretezése valójában épp ellentétes álláspontot tulajdonít a kritikai elméleti keretekből kiinduló tudósoknak és aktivistáknak, mint amit azok valójában vallanak, hiszen azt implikálja, hogy a „faj” fogalmát biológiai és nem társadalmi kategóriaként, indexikus és nem szimbolikus jelviszonyként fogják fel.
+   </p>
+   <p>
+    Az érveléstechnika szakértői az ellenfél álláspontjának ilyesfajta eltorzítását
+    <hi>
+     szalmabáb
+    </hi>
+    nak szokták nevezni, mivel ez esetben az egyik vitázó fél a vele szemben álló helyett egy saját maga által konstruált „bábuval” küzd meg, amelyet képzeletben könnyebb legyőzni, mint a tényleges ellenfelet a valóságban.
+   </p>
+   <p>
+    Szemiotikai szempontból viszont csak annyit lehet erről megállapítani, hogy mivel a „rasszizmus” fogalma is egy jel, így – Ecoval szólva – hazudni is lehet vele.
+   </p>
+   <p>
+    Más kérdés, hogy azt Deák Ferenc szerint a sajtónak nem lenne szabad…
+   </p>
+   <p>
+    [1]
+    – Az államokra lebontott
+    összefoglalást ld. itt
+    .
+    [2]
+    – Delgado, Richard – Stefancic, Jean:
+    <hi>
+     Critical Race Theory – An Introduction
+    </hi>
+    , New York University Press, 2001. 7. o.
+    [3]
+    – Uo.
+    [4]
+    – Uo.
+    [5]
+    – Lásd pl. ld. pl. Ignatiev, Noel:
+    <hi>
+     How the Irish became white?
+    </hi>
+    Routeledge, 1995.
+   </p>
+  </body>
+ </text>
+</TEI>

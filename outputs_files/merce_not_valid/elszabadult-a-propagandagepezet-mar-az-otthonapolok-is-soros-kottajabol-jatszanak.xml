@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Elszabadult a propagandagépezet: már az otthonápolók is Soros kottájából játszanak
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6f4596a1-76a0-53e1-bb9a-ed5a812fb158
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Elszabadult a propagandagépezet: már az otthonápolók is Soros kottájából játszanak
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-22T20:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/22/elszabadult-a-propagandagepezet-mar-az-otthonapolok-is-soros-kottajabol-jatszanak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/22/elszabadult-a-propagandagepezet-mar-az-otthonapolok-is-soros-kottajabol-jatszanak/
+     </sch:url>
+     <sch:name>
+      Elszabadult a propagandagépezet: már az otthonápolók is Soros kottájából játszanak
+     </sch:name>
+     <sch:datePublished>
+      2018-07-22T20:00:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      emmi
+     </sch:keywords>
+     <sch:keywords>
+      otthonápolás
+     </sch:keywords>
+     <sch:keywords>
+      Magyar Idők
+     </sch:keywords>
+     <sch:keywords>
+      pestisrácok
+     </sch:keywords>
+     <sch:keywords>
+      soros-terv
+     </sch:keywords>
+     <sch:keywords>
+      Soros-hálózat
+     </sch:keywords>
+     <sch:keywords>
+      tisztességtelen
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6f4596a1-76a0-53e1-bb9a-ed5a812fb158">
+     <sch:identifier>
+      urn:uuid:54280899-a435-4270-a258-ee9c84149dd4
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:00.836195
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:59:37.203024
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6f4596a1-76a0-53e1-bb9a-ed5a812fb158" when="2021-12-14T15:35:00.836195">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Elszabadult a propagandagépezet: már az otthonápolók is Soros kottájából játszanak
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    <hi>
+     „Újabb tüntetést tartottak a Soros-szervezetek”
+    </hi>
+    .
+    <hi>
+     „Soros civiljei nem vesznek el, csak átalakulnak – Újabb tüntetéshullám kezdődik a Parlamentnél”
+    </hi>
+    – adta hírül a Magyar Idők és a Pesti Srácok a pénteki otthonápolási díj emeléséért tartott tüntetés után.
+   </p>
+   <p>
+    „Néhány tucatnyi civil vett részt az Emberi Erőforrások Minisztériuma (Emmi) épületénél tartott demonstráción péntek délután, amit az ápolási díjak miatt hirdettek meg. Az eseményt az aHang mozgalom hirdette meg, a platformhoz olyan jól ismert szereplők csatlakoztak, akik a migrációtól a fakivágásokon és a miniszterelnök-jelölti vitákon át az otthonápolási munkaviszony ügyéig emelték már fel szavukat a kormány ellen.”
+   </p>
+   <p>
+    – sorolja a Magyar Idők szerzője, miféle kétes ügyekben vettek részt a tüntetést szervező civil szervezetek.
+   </p>
+   <p>
+    „A migránssimogatás után, és saját finanszírozásuk és embercsempészetet segítő tevékenységük védelmezése után, amelyhez nem igazán sikerült még minimális társadalmi támogatottságra sem találni, most igyekeztek valami szívhez szólóbb témát találni. Mi más is lehetne meghatóbb, mint a beteg szeretteiket otthon ápoló szegény emberek sorsa?”
+   </p>
+   <p>
+    – írja a Pesti Srácok.
+   </p>
+   <p>
+    Mivel a kormányközeli média boldog-boldogtalant sorosozik, nehezen ugorja már meg az ember ingerküszöbét a menetrend szerinti rágalmazás – a pénteki tüntetés után megjelenő cikkeken mégis megakadt a szemem.
+   </p>
+   <p>
+    Tisztázzuk, kikről is van szó valójában: olyan anyákról, apákról, férjekről, feleségekről, akik saját szeretteiket ápolják otthon gyakorlatilag teljes munkaidőben, sőt, azon is túl.
+   </p>
+   <p rend="head">
+    A valamilyen súlyos rendellenességgel születő, megbetegedő vagy balesetet szenvedő családtagjaikat otthon ápolók 24 órás műszakot teljesítenek az év 365 napján. Nincs betegség, nincs nyaralás, nem lehet elfáradni.
+   </p>
+   <p>
+    A beteget nem lehet magára hagyni, így az otthonápolók nem tudnak munkát vállalni sem. Szerencsésebb esetben van valaki a családban, aki tud pénzt keresni, de így is egy fizetéssel kevesebb jut nekik, sokan pedig egyedül kénytelenek megküzdeni a problémákkal.
+   </p>
+   <p>
+    Az EMMI szerint viszont nincs itt semmiféle probléma:
+   </p>
+   <p>
+    „A legsúlyosabb állapotú hozzátartozót gondozók ellátása 2010 óta 63 százalékkal, 37 050 forintról 58 680 forintra nőtt. Ezenfelül idén januártól bevezették a tartósan beteg gyermeküket legalább húsz éven át otthon ápoló idősek számára az 50 ezer forintos nyugdíj-kiegészítést. Az is fontos előrelépés, hogy a bruttó díjakból nyugdíjjárulékot is fizet az állam, ez azt jelenti, hogy az érintettek nyugdíjjogosultságot szereznek. ”
+   </p>
+   <p>
+    – írja a minisztérium a tüntetésre reagálva.
+   </p>
+   <p>
+    Igen, az EMMI komolyan azzal érvel, hogy az ápolási díj 58 680 forintra emelkedett, ami gyermekesek esetében a családi pótlékkal kiegészülve is csupán 75 810 forint, illetve azzal is eldicsekszik, hogy azok az idős emberek, akik 20 éve ápolják a tartósan beteg gyermeküket, kapnak 50 ezer forint nyugdíj-kiegészítést.
+   </p>
+   <p rend="head">
+    Köszönjük szépen, kedves EMMI, akkor már csak azt a 20 évet kell valahogy túlélni!
+   </p>
+   <p>
+    Gondoljuk csak végig, mi mindent kell finanszírozniuk hónapról-hónapra az államtól kapott segélyekből azoknak embereknek, akiknek gyakorlatilag nincs semmilyen bevételük. Fenn kell tartani egy lakást, vagy albérletet, a közgyógyellátási keret nem mindig elég a szükséges gyógyszerekre és eszközökre, ráadásul a pénzből legalább két ember napi szükségleteit kell finanszírozni nem is beszélve arról, ha esetleg több kiskorú is van a családban, vagy mondjuk egy devizahitel, vagy egyéb tartozást is törleszteni kell. Ha mindezt nem tudják finanszírozni a fiatalkorú gyermekeiket ápoló szülők, még az a veszély is fenyeget, hogy elveszik a szülőktől a gyermeket.
+   </p>
+   <p>
+    Mindkét kormánypárti portál az EMMI közleményével érvel, mely szerint a tárca „Szociális Ügyekért és Társadalmi Felzárkózásért Felelős Államtitkársága széleskörű párbeszédet indít az ápolási díj emeléséről, több szakmai és civilszervezet érdekképviselet és a szociális ágazati egyeztető fórum javaslatait is meg fogjuk hallgatni, és azt követően várhatóan ősszel javaslatot fogunk tenni a kormány számára az ápolási díjjal kapcsolatos intézkedésekről.”
+   </p>
+   <p rend="head">
+    De mikor jelentettek bármit ezek az ígéretek? Egyáltalán megszületett volna ez az ígéret, ha nem gyűjt aláírásokat és megy a Parlament elé ez a társadalom számára láthatatlan csoport?
+   </p>
+   <p>
+    2014-ben például szintén civilek kezdeményezték az otthonápolás minimálbéres munkává nyilvánítását, az EMMI viszont munkajogi és adminisztrációs akadályokra hivatkozva elkaszálta az egészet. Akkori álláspontja szerint a hozzátartozójukat ápolók kiesett jövedelmét az ápolási díj pótolja.
+   </p>
+   <p>
+    Borzalmasan aljas dolog épp az otthonápolási díj megemeléséért küzdő emberek problémáit sorosozással hiteltelenné tenni, de a propagandavonaton nincsen fék. Erről a Pesti Srácok szerzőjének alábbi mondata tanúskodik a legtökéletesebben:
+   </p>
+   <p>
+    „Nyugodtan kijelenthetjük, hogy a szociálisan rászorulók, családtagjaikat otthon ápolók Soros legújabb civil szervezete kezében egy újabb eszköz céljaik eléréséhez, vagyis Soros György tervének megvalósításához, amelynek Orbán Viktor és kormánya az útjában áll.”
+   </p>
+   <p rend="head">
+    Mégis milyen eszközt jelenthetnek a családtagjaikat otthon ápolók a „Soros-terv” megvalósításához? – erre nem tér ki a cikk, mert nyilvánvalóan nincs az az érvelés, ami megállná a helyét.
+   </p>
+   <p>
+    Magyarországon jelenleg kb. 45 000 ember ápolja otthon tartósan beteg vagy súlyosan fogyatékos hozzátartozóját. Ebből kb. 12 000 szülő – nagyrészt édesanya – ápolja otthon súlyosan-halmozottan sérült gyermekét.
+   </p>
+   <p>
+    Ennyi ember problémáit bagatellizálják el az eszetlen sorosozással. Mert nem konkrétan az otthonápolókat nevezik Soros embereinek, hanem azokat a civil szervezeteket, akik kiállnak mellettük. Ide-oda rángatható szerencsétlenekként állítják be őket, akik örülhetnének, hogy kapnak kemény 58 680 forintot az államtól, miközben észre sem veszik, hogy a gonosz civil szervezetek kihasználják őket.
+   </p>
+   <p>
+    És ezzel újfent bebizonyította a lakájmédia, hogy egy csepp tisztesség sem szorult belé.
+   </p>
+   <p>
+    (Címlapkép:
+    Mérce Instagram
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

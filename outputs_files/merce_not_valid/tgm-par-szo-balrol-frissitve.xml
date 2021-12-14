@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     TGM: Pár szó balról – FRISSÍTVE
+    </title>
+    <author>
+     <persName>
+      Tamás Gáspár Miklós
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d99643d6-234f-50e5-9d76-269d5a732be7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      TGM: Pár szó balról – FRISSÍTVE
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tamás Gáspár Miklós
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-02-13T16:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/02/13/tgm-par-szo-balrol-frissitve/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/02/13/tgm-par-szo-balrol-frissitve/
+     </sch:url>
+     <sch:name>
+      TGM: Pár szó balról – FRISSÍTVE
+     </sch:name>
+     <sch:datePublished>
+      2019-02-13T16:00:00
+     </sch:datePublished>
+     <sch:author>
+      Tamás Gáspár Miklós
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      venezuela
+     </sch:keywords>
+     <sch:keywords>
+      Nicolás Maduro
+     </sch:keywords>
+     <sch:keywords>
+      Juan Guaidó
+     </sch:keywords>
+     <sch:keywords>
+      Elliot Abrams
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d99643d6-234f-50e5-9d76-269d5a732be7">
+     <sch:identifier>
+      urn:uuid:b5b2813c-253c-4a33-8f45-daabb5208db3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:21.620708
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:24:12.619597
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d99643d6-234f-50e5-9d76-269d5a732be7" when="2021-12-14T15:30:21.620708">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    TGM: Pár szó balról – FRISSÍTVE
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Nem szabad elkövetnünk eleink hibáit ismét: a hamis szolidaritás, a cinkosság és az elhallgatás hibáit, amikor baloldali bűnökről van szó.
+   </p>
+   <p>
+    Nincs különösebb jelentősége annak, hogy valamelyik apró kelet-európai országban valaki mit mond Latin-Amerikáról, ezért nem is írok részletesebben, csak regisztrálni szeretném: az, amit a valaha népszerű Hugo Chávez utóda, Nicolás Maduro (valamint állampártja és rendőrsége-hadserege) művel Venezuelában – éhezés, terror, az ellenzék betiltása, politikai ellenfelek sommás elintézése – , tűrhetetlen. El kell ítélni, és el is ítéljük. Pedig nincs kétség aziránt, hogy szimbolikus és ideológiai értelemben a rezsim
+    <hi rend="italic">
+     baloldali
+    </hi>
+    .
+   </p>
+   <p>
+    Évtizedekig lelkesedett a baloldali közvélemény – különösen Nyugaton – a nicaraguai sandinistákért, akik megdöntötték a szörnyűséges (az Egyesült Államok által támogatott) Somoza-diktatúrát, s úgy látszott, létrehoznak valamiféle egyenlősítő, forradalmi demokráciát széleskörű népi részvétellel. Ebből is csak latin-amerikai tucatzsarnokság lett, a hitvallásában kétségkívül autentikus baloldali Daniel Ortega éppen élessel lövet a tüntető diákokra. Daniel Ortega nem akárki. A forradalom egyik vezetője volt, szabad választásokon veszített és nyert, számos pozitívum fűződik a nevéhez. Ma már eljutott az abortusz betiltásáig és a tiltakozások katonai leveréséig. A hét végén
+    <hi rend="italic">
+     [ez a cikk
+    </hi>
+    <hi rend="italic">
+     eredetileg
+    </hi>
+    <hi rend="italic">
+     2018. július 17-én jelent meg]
+    </hi>
+    két egyetemistát lőttek agyon.
+   </p>
+   <p>
+    Sokan attól tartanak, hogy a venezuelai, nicaraguai (és kubai) baloldal előrelátható bukása után a szélsőséges reakció következhet, ezért a nyugati baloldal – s itt főleg az észak-amerikai baloldal számít – habozik vagy hallgat, természetesen kivételekkel.
+   </p>
+   <p>
+    Ezek az aggodalmak alighanem indokoltak, ennek ellenére diktatúrákat – méghozzá egyre inkább népellenes diktatúrákat, amelyek forradalmi, emancipációs jellege elveszett – nem támogathatunk. Bűneikről nem hallgathatunk. A szakítást nem halogatjuk.
+   </p>
+   <p>
+    A kelet-európaiak szerepe mindebben persze teljesen elhanyagolható.
+   </p>
+   <p>
+    <hi rend="italic">
+     Pas d’ennemi à la gauche
+    </hi>
+    – mondták eleink Franciaországban valaha („baloldalon nincs ellenség”). Ez tévedés. Súlyos következményekkel.
+   </p>
+   <p>
+    Nem újdonság, hogy a társadalmi igazságosság, az egyenlőség vagy a szocializmus nevében rémuralmat gyakorolnak. Nem ez az első eset. Sajnos talán nem is az utolsó. De nem a mi nevünkben.
+   </p>
+   <p>
+    <hi rend="bold">
+     FRISSÍTÉS
+    </hi>
+   </p>
+   <p>
+    Amióta ez a szöveg
+    <hi rend="italic">
+     tavaly júliusban
+    </hi>
+    megjelent itt a Mércén
+    , azóta folytatódtak a tüntetések a Maduro-rezsim ellen, Juan Guaidó parlamenti elnök államelnöknek nyilvánította magát – ezt szokatlan módon elismerte az Egyesült Államok, Brazília, az Európai Unió és több latin-amerikai állam – , majd a politikai válság elmélyült, bár a hadsereg eddig Nicolás Madurót támogatja. (Ld. Pap Szilárd István
+    kitűnő cikkét itt
+    .)
+   </p>
+   <p>
+    A venezuelai jobboldali ellenzék vezére nem Juan Guaidó, hanem a házi őrizetben tartott Leopoldo López (
+    portréját ld. itt
+    ). López nem az USA kreatúrája, régóta harcol a Chávez/Maduro-féle „bolívarista” rendszer ellen, de az utóbbi időben Trump szövetségese (aki fogadta – López helyett, aki nem utazhat – Señora Lilian Tintorit, López hitvesét a Fehér Házban), az ellenzéki akciók ihletője és koordinátora (nem az összes tüntetéseké, amelyek hatalmasak és spontának, és a López/Guaidó-féle jobboldali ellenzék csak „rájuk ül”, ami nem ismeretlen jelenség a világpolitikában…). Cáfolhatatlan tény, hogy Guaidó stratégiáját egyeztette Trump és a posztfasiszta Bolsonaro brazil elnök embereivel.
+   </p>
+   <p>
+    Ennél is baljósabb dolog, hogy Trump nem mást, mint Elliot Abrams volt miniszterhelyettest nevezte ki a venezuelai ügyek – Pesten így neveznék – kormánybiztosává.
+   </p>
+   <p>
+    Elliot Abrams a Reagan/Bush-éra egyik legsötétebb figurája. Szerepe volt a salvadori mészárlások eltussolásában. (Ezeket a CIA által szervezett és pénzelt halálbrigádok hajtották végre.) Ő intézte a nicaraguai ellenforradalmárok (a hírhedt „kontrák”) finanszírozását, majd erről hazudott a Kongresszusnak, amiért elítélték, de ifj. Bush elnök kegyelmi rendeletével megúszta a börtönt.
+   </p>
+   <p>
+    Mint elnöki tanácsadónak, szerepe volt az értelmetlen és katasztrofális iraki háború kirobbantásában. Minden jel szerint döntő szerepe volt a Chávez elnök elleni sikertelen puccskísérlet megszervezésében is.
+   </p>
+   <p>
+    Most – Mike Pompeo külügyminiszter társaságában – azt nyilatkozza:
+    <hi rend="italic">
+     „It’s nice to be back”
+    </hi>
+    , majd kijelenti, hogy alig várja, hogy elkezdhessen „dolgozni” a venezuelai ügyön. Eddigi pályája arra utal, hogy ennek a „munkának” az eredménye terror lesz, vérengzés, katonai-paramilitáris-fasisztoid diktatúra, bábkormány, elnyomás; ha az lesz, amit Mr. Abrams szeret.
+   </p>
+   <p>
+    Az ún. nemzetközi közösség – ahelyett, hogy megpróbálná a feleket rávenni a békés átmenet kieszközlésére, és nem fegyverként használná a humanitárius segélyt – a lehető legbrutálisabban tör a rendszer megdöntésére, a konfliktus élezésére.
+   </p>
+   <p rend="head">
+    Általános meglepetésre a harmadik világ ügyeiben eddig többnyire óvatos Európai Unió képviseli a legkeményebb álláspontot a maga abszurd ultimátumával, a legnagyobb héja pedig nem más, mint Heiko Maas, német szociáldemokrata (!) külügyminiszter (
+    ld. itt
+    ).
+   </p>
+   <p>
+    A rettenetes Maduro-kormányzatot még rettenetesebb erők óhajtják valami borzalommal helyettesíteni; az egész ügy csak rosszul végződhetik. A nemzetközi baloldal békefölhívásai (
+    egyet én is aláírtam
+    ) természetesen süket fülekre találnak. Oroszország és Kína (kösz) Madurót támogatja, ami kellemetlen a gyilkosságkedvelő és indiángyűlölő Bolsonaro elnöknek, aki mind Putyinnak, mind a félelmetes kínai rendszernek is nagy rajongója (valamint az Orbán-sajtó – és Orbán – kedvence). Putyin ködös formában katonai segítséggel is kecsegteti Madurót. A venezuelai kőolaj még mindig nagy vonzerőt gyakorol a „nemzetközi közösség” cápáira és hiénáira.
+   </p>
+   <p>
+    Az egész ügyben egyetlen racionális szereplő se található, akit érdekelne a venezuelai nép sorsa.
+   </p>
+   <p>
+    Az óbaloldal putyinista és
+    <hi rend="italic">
+     knee-jerk
+    </hi>
+    Amerika-ellenes része a tévesen forradalminak vélt és névlegesen „szocialista” Maduro agyalágyult diktatúrája mellett áll (beleértve Jeremy Corbynt), a nyugati
+    <hi rend="italic">
+     mainstream
+    </hi>
+    (a szociáldemokratáktól és liberálisoktól a fasisztákig) a venezuelai jobboldal mellett (ami az Elliot Abrams-féle desperádók puccsista vérfürdőpolitikájának igenlését is jelenti).
+    <hi rend="italic">
+     No good guys here
+    </hi>
+    , attól tartok.
+   </p>
+   <p>
+    Madurót nem lehet védeniük a baloldaliaknak, az ellenfeleit még kevésbé. Megoldás nincs. A reménytelenség indokolt.
+   </p>
+  </body>
+ </text>
+</TEI>

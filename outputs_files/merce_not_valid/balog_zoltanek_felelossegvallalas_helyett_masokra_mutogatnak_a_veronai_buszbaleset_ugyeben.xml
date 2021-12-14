@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Balog Zoltánék felelősségvállalás helyett másokra mutogatnak a veronai buszbaleset ügyében
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ff419625-6994-5228-9e7f-2928a6b3d674
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Balog Zoltánék felelősségvállalás helyett másokra mutogatnak a veronai buszbaleset ügyében
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-05-17T09:08:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/05/17/balog_zoltanek_felelossegvallalas_helyett_masokra_mutogatnak_a_veronai_buszbaleset_ugyeben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/05/17/balog_zoltanek_felelossegvallalas_helyett_masokra_mutogatnak_a_veronai_buszbaleset_ugyeben/
+     </sch:url>
+     <sch:name>
+      Balog Zoltánék felelősségvállalás helyett másokra mutogatnak a veronai buszbaleset ügyében
+     </sch:name>
+     <sch:datePublished>
+      2017-05-17T09:08:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      oktatás
+     </sch:keywords>
+     <sch:keywords>
+      emmi
+     </sch:keywords>
+     <sch:keywords>
+      Balog Zoltán
+     </sch:keywords>
+     <sch:keywords>
+      klik
+     </sch:keywords>
+     <sch:keywords>
+      veronai_buszbaleset
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ff419625-6994-5228-9e7f-2928a6b3d674">
+     <sch:identifier>
+      urn:uuid:28401deb-62db-4ca3-9468-fd194e4fdcf2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:51.225845
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:30:11.136883
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ff419625-6994-5228-9e7f-2928a6b3d674" when="2021-12-14T15:30:51.225845">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Balog Zoltánék felelősségvállalás helyett másokra mutogatnak a veronai buszbaleset ügyében
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Balog Zoltánnak, az emberi erőforrások miniszterének van érzéke a magyarázkodáshoz. Kijelentései közül nehéz megtalálni a legkevésbé emberminiszterhez méltót – de a veronai buszbaleset kapcsán azért erősen esélyes mondás született.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Kép forrása:
+     24.hu
+    </hi>
+   </p>
+   <p>
+    Ha még emlékszünk, a veronai buszbaleset után Palkovics László a lehető leghamarabb bejelentette, hogy a kormány
+    internetes konzultáción
+    fogja kikérni az állampolgárok véleményét az iskolai buszoztatással kapcsolatban. Tehát még egyszer: oktatási államtitkár, iskolai buszoztatás, konzultáció, emberek véleménye.
+   </p>
+   <p>
+    Még mielőtt ez megtörtént volna(?!?!), a Klebelsberg Központ (lánykori nevén Klik) leveleket küldött szerteszét az országban, hogy arra „kérje” az iskolákat, a kirándulásokat úgy szervezzék, hogy 23 és 4 óra között a sofőrök mindenképpen tartsanak pihenőt egy szálláshelyen. Röviden: központ, levél, iskolák, buszoztatás.
+   </p>
+   <p>
+    Aztán lecsengett a konzultáció, amit 30 ezren (ó, az istenadta nép!) kitöltöttek, és meglepő módon összességében azt válaszolták, hogy igen, biztonságosabban kell buszoztatni az iskolásokat a kiránduláson. Hurrá.
+   </p>
+   <p>
+    Majd jött megint Palkovics, és nagy garral bejelentette, hogy akkor itt és most az Emberi Erőforrások Minisztériuma neki is lát egy jogszabály-módosításnak, hogy a veronaihoz hasonló tragédiák ne történhessenek többé. Vagyis: oktatási államtitkár, konzultáció végeredménye, jogszabály-módosítás.
+   </p>
+   <p>
+    Tiszta sor, nemde?
+   </p>
+   <p>
+    Nem.
+   </p>
+   <p>
+    Mert most, hogy a veronai busztragédia óta eltelt csaknem négy hónap, az össznemzeti egyeztetés óta meg lassan kettő, nagy hirtelen kiderült, hogy minden megy a maga útján, csak a Klebelsberg Központ nem csinálja azt, ami leginkább a dolga lenne. Például kártérítést fizetni (a megfizethetetlenért) a családoknak, azt nem akaródzik.
+   </p>
+   <p rend="head">
+    Van ugyanis az a szomorú tény, hogy a Klebelsberg Központ korlátlan kártérítési felelősséggel rendelkezik, amennyiben a biztosító kerete nem lenne elegendő a kártérítések, sérelemdíjak maradéktalan kifizetésére. Jelen esetben a biztosító 1,6 milliárd forintig állja a számlát, az e fölötti összeget kéne a központnak fizetnie, felső korlát nélkül.
+   </p>
+   <p>
+    Erre aztán jön Balog Zoltán miniszter, és miután kiderül, hogy az áldozatok hozzátartozói nem kapták még meg a kártérítést, azt találja mondani, hogy „nincs semmifajta jogi vonatkozása annak, hogy mit tehetne ezért akár az intézményfenntartó, akár az iskola, miután nem iskolai rendezvényen történt ez a baleset”. Szóval akkor: miniszter, nem iskolai, nem fizetnek.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    És még csak nem is ez a legszebb az egészben, ugyanis a minisztérium által kidolgozott jogszabály-módosításban nemcsak a buszok kötelező pihenőidejét szabnák meg, hanem korlátoznák a köznevelési intézmények objektív kártérítési felelősségét is, méghozzá az olyan eseményekre, amelyeknek az elhárítására az intézményeknek módja és lehetősége van. Ráadásul beleírnák a módosításba azt is, hogy „a tanulmányi és a külföldi iskolai kirándulások esetén a köznevelési intézmény a tanulónak okozott kárért a kártérítési felelősség általános szabályai szerint felel”.
+   </p>
+   <p rend="head">
+    Ami nagyjából annyit tesz, hogy eztán az intézmények nem lesznek perelhetőek a veronai tragédiához hasonló esetekben, a Klebelsberg Központ korlátlan kártérítési felelőssége pedig megszűnne.
+   </p>
+   <p>
+    Igen, így kell kabátot varrni egy gombhoz. A veronai tragédia után az Emmi törvényt módosít, hogy lefektesse az iskolai kirándulások szabályait. De ez nem segít már azokon a családokon, akik elvesztették a szeretteiket, most meg a kártérítés után is futniuk kell.
+   </p>
+   <p>
+    A szigorú szabályozásnak egyébként legfeljebb abban lehet majd mérni a „hasznát”, hogy az amúgy is kevés pénzből kihozott iskolai kirándulások még szűkösebb keretből gazdálkodjanak. Ha külön felelősségbiztosítást kell kötniük majd az iskolai kirándulásra – márpedig a törvény módosítása ezt hozhatja magával –, az vagy azzal jár majd, hogy nem minden család tudja kifizetni a kirándulás költségeit, vagy azzal, hogy maguk a kirándulások lesznek egyre rövidebbek, kevésbé színesek, és nagy távolságok helyett a szomszédos utcába indulnak majd. Mert lássuk be: sok családnak kifejezetten megterheli a pénztárcáját az, hogy a gyerek kirándulni megy. A törvény módosítása pedig tovább növelheti az erre fordítandó összeget.
+   </p>
+   <p>
+    És miután ez az egész kiderült, az Emberi Erőforrások Minisztériuma
+    közleményben tudatja
+    , hogy elítéli azokat az állításokat, melyek azt sugalmazzák, hogy a Klebelsberg Központ ki akarna bújni a kártérítési kötelezettség alól, külön hangsúlyozva, hogy jogi segítséget azért biztosítanak azoknak, akik ezt igénylik. De fizetni nem fizetnek, hisz nem iskolai rendezvényen történt a baleset.
+   </p>
+   <p>
+    Csak torpanjunk meg egy pillanatra, mindenféle sugalmazás nélkül: a Klebelsberg Központ még lánykori nevén is évi több száz milliárd forintos költségvetéssel működött (bár folyamatosan úszott az adósságban). 2018-ra pedig csak személyi juttatásokra 419 milliárdot különítettek el nekik a költségvetésből.
+   </p>
+   <p>
+    És akkor Balogból hirtelen előtör a sóher, és ahelyett, hogy fizetne, mint a katonatiszt, ha másért nem, akkor emberségből, kegyeletből, inkább terel, kivár, csúsztat, és másokra mutogat? Meg törvényt módosít? Mert nem iskolai rendezvényről volt szó?
+   </p>
+   <p>
+    De akkor eddig miért Palkovics, az oktatási államtitkár lengette az internetes konzultációt? Akkor miért a Klebelsberg levelezgetett az iskolákkal, hogy hogyan buszoztassanak? És miért az Emmi állt neki törvényt módosítani? Akkoriban még intézményi hatáskör volt, most meg már nem az?
+   </p>
+   <p>
+    Amúgy speciel pont az internetes konzultációról, ami ugye a buszoztatós kérdéseket felvetette, fogalmunk sincs, hogy mennyibe került. De viszonyításként elevenítsük fel a nyilván jóval nagyobb volumenű, Deutsch Tamás nevével megtámogatott internetes konzultációt az internetadóról – az 13 millió forintnyi közpénzünkbe fájt…. De hát ugye, mi mindenre van itt pénz, intézményi hatáskörben?
+   </p>
+   <p>
+    „Mélységesen elítélünk minden olyan kísérletet, amely emberi tragédiák kapcsán megalapozatlan, feltevésekre alapuló, illetve hamis információkkal próbálja meg hergelni az áldozatok hozzátartozóit, és nehezíteni a kárrendezési-kárenyhítési folyamatot” – így szól az Emmi közleménye.
+   </p>
+   <p>
+    Mi meg mélységesen elítéljük az olyan minisztériumokat, amelyek ahelyett, hogy tennék, amit tenniük kell, álságos internetes konzultáción tesznek fel álkérdéseket, és törvénymódosításokkal igyekeznek hárítani a felelősséget, majd ezt közleményben cáfolják, de a tényeken változtatni nem tudnak.
+   </p>
+   <p>
+    Balog Zoltántól és az ő minisztériumától eddig sem számítottunk semmilyen emberségre. Egy olyan minisztertől, aki képes
+    viccelődni
+    a mentősök bérén, és luxusszállodában
+    parádéztat
+    mélyszegénységben élő gyerekeket, ha úgy adódik? Ugyan…
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

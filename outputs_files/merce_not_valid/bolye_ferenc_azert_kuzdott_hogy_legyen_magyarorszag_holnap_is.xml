@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bolye Ferenc azért küzdött, hogy legyen Magyarország holnap is
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     648afa79-2362-5ad6-b235-d7ca9ff3be6f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Bolye Ferenc azért küzdött, hogy legyen Magyarország holnap is
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-10-09T19:58:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/10/09/bolye_ferenc_azert_kuzdott_hogy_legyen_magyarorszag_holnap_is/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/10/09/bolye_ferenc_azert_kuzdott_hogy_legyen_magyarorszag_holnap_is/
+     </sch:url>
+     <sch:name>
+      Bolye Ferenc azért küzdött, hogy legyen Magyarország holnap is
+     </sch:name>
+     <sch:datePublished>
+      2016-10-09T19:58:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      gyász
+     </sch:keywords>
+     <sch:keywords>
+      Kishantos
+     </sch:keywords>
+     <sch:keywords>
+      Bolye_Ferenc
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="648afa79-2362-5ad6-b235-d7ca9ff3be6f">
+     <sch:identifier>
+      urn:uuid:d72cd7aa-e2a4-474e-8aee-67c80b06808d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:21.745737
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:25:53.826460
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="648afa79-2362-5ad6-b235-d7ca9ff3be6f" when="2021-12-14T15:30:21.745737">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Bolye Ferenc azért küzdött, hogy legyen Magyarország holnap is
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Bolye Ferenccel akkor találkoztam, amikor jelentkeztem a Kishantosi Népfőiskola által hirdetett dániai ösztöndíjra. Ács Sándornéval (Évával), és a szervezet másik hantosi képviselőjével, Koncz Ferenccel ők interjúztattak bennünket. Szokatlan volt a felvételi beszélgetés hangulata, többek között Feri közvetlensége miatt. Már volt két jelöltjük, és a fennmaradó egy helyre aspiráltunk négyen.
+   </p>
+   <p>
+    Feri többször fesztelenül adott visszajelzést a beszélgetés alatt; szinte türelmetlen volt, minek tartjuk a jelölteket feszültségben, hiszen mindannyian rátermettek, hívjuk fel a dánokat, és mondjuk meg nekik, hogy nem tudunk választani, mennek mind. Éva szelíden próbálta tartani a helyzethez illő, távolságtartó kommunikációs keretet; megkapó volt, ahogy egyszerre biztattak és igyekeztek megőrizni a kiválasztási folyamat hivatalosságát.
+   </p>
+   <p>
+    Egy óra szünetet kértek, hogy döntsenek. Sétáltunk a népfőiskola épülete körül elterülő, magával ragadó parkban, és arra gondoltam: ha nem is választanak ki, milyen jó lenne ide visszajönni. Persze meggyőzték a dániai fogadó intézményt: a tervezett három helyett hatan mentünk abban a félévben a Vestjyllandi Népfőiskolára tanulni.
+   </p>
+   <p>
+    Feri ilyen volt, nem érdekelte, hogy egy-egy helyzetben mi a szokás, vagy mi a reális, azzal foglalkozott, aminek értelmét látta.
+   </p>
+   <p>
+    A rendszerváltás évében, aktív hantosi mezőgazdászként jelentkezett egy népfőiskolai ösztöndíj-programra Dániában. A népfőiskola a dán oktatási paletta sajátos intézménytípusa: azért alapították – nem sokkal Dánia alkotmányos monarchiává válása után – hogy a szavazati jogot kapó parasztemberek tájékozottabban tudjanak részt venni a demokratikussá váló állam életében. A célja részben ma is hasonló: a társadalom jólétének és demokratikus együttműködésének erősítése. Az oktatott tárgyak mellett legalább olyan fontos a diákok és tanárok közössége. Mindenki az iskolában vagy a közvetlen környezetében él, és a résztvevő felek közösen hoznak döntéseket. Ilyen közösségben tanult Feri is, negyvenéves fejjel a többnyire huszonéves diákok között.
+   </p>
+   <p>
+    Kíváncsi volt, és szívesen részt vett olyan órákon is, amik távol álltak addigi tapasztalataitól; beállt szőni, kézműveskedni, akrobatika órákon vett részt. Szabadidejében pedig kiment a vidéki iskola környezetében lévő farmokra, és traktorba ült, a helyi gazdáknak segített puszta kedvtelésből. Vagy talán hiányzott neki az otthoni munka. És azért is, mert ösztönösen jól teremtett kapcsolatokat. Az önkéntes és közös tevékenység közben olyan szoros barátságokat kötött, hogy bár nem beszélt jól se angolul, se dánul, mégis az ő hitelének köszönhető, hogy a dániai Velling falu ösztöndíjat ajánlott magyar diákok számára 1994-ben. Azóta folyamatosan működik a program, a Vestjylland Népfőiskolán jelenleg is három magyar diák tanul.
+   </p>
+   <p rend="head">
+    Nemcsak a közvetlen demokrácia élményszerű megtapasztalásának eszméjét hozta magával és terjesztette, hazatérése után köteleződött el az ökológiai gazdálkodás mellett. Ekkor szövetkezett Évával, kitartó és küzdelmes munkájuknak köszönhetően született meg a Kishantosi Ökológiai Mintagazdaság, és ennek központi épületében a felnőttképzési központ. A rendszerváltás utáni időszak egyedülálló civil kezdeményezése.
+   </p>
+   <p>
+    Sajnos a munkájukra mindig igaz maradt a küzdelmes jelző. A népfőiskola és a gazdaság épületeit évekig csak bérelhették, és amikor végre hitelből megvehették, elkezdődött a küzdelem az igazságtalan és – azóta bíróság mondta ki – jogtalan állami döntés ellen, amely megfosztotta őket attól, hogy tovább művelhessék a két évtized alatt egyre gyarapodó értékű biogazdaságot. Az állam – ami elviekben mindannyiuk érdekét hivatott képviselni – sohasem tüntette ki őket azért, hogy egy egészségesebb, emberközelibb, korszerűbb és tudatosabb magyar közösségért dolgoztak. Hogy azért fáradoztak: legyen holnap is. Helyette csatákat kényszerültek vívni a legpitiánerebb ügyekben minden kormányzattal szemben. A Fidesz pedig egyszerűen – vélhetően bosszútól vezérelve – tönkretette az addig vegyszermentesen művelt földeket, és rágalmakat terjesztett egykori művelőikről.
+   </p>
+   <p rend="head">
+    Feri és Éva nemcsak a kevés hazai ökológiai gazdálkodás egyikének megteremtésével, és a komplex szemléletű képzési és közösségi központ létrehozásával, hanem kitartásukkal és jogvédő harcukkal is értéket hoztak létre. Nem adták fel az elnyomó önkénnyel szemben, kampányt indítottak,
+   </p>
+   <p>
+    szövetkeztek a Greenpeace-szel, jogi eljárásokat kezdeményeztek  (amik többnyire számukra kedvező eredménnyel zárultak eddig), és folyamatosan tudósítottak arról, mi történik velük. Ahogy korábban is mindig, új utakat kerestek Kishantos számára. Tudatosságuk egyedülálló ma az országban.
+   </p>
+   <p>
+    Nem kizárólag a saját földjeikért küzdöttek, hanem azért, hogy ez ne történhessen meg Magyarországon.
+   </p>
+   <p>
+    Nehéz nem arra gondolni, hogy ez a hosszadalmas és jelenleg reménytelennek látszó küzdelem vitte el Ferit. Keserves, hogy Magyarországon ilyen sorsa van a legeredetibb, legerősebb személyiségeknek.
+   </p>
+   <p>
+    De ne adjuk fel. Ahogy Éva sem fogja, aki most egyik legfontosabb szövetségesét vesztette el. Álljunk mellé a küzdelemben.
+   </p>
+   <p>
+    <hi rend="bold">
+     Juhász Bálint
+    </hi>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 297 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

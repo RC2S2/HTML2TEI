@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Százhúsz európai civil szervezet tiltakozik az USA-EU szabadkereskedelmi megállapodás ellen
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9ac3b7e0-9841-5ff2-afd2-eb9dd1959bd9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Százhúsz európai civil szervezet tiltakozik az USA-EU szabadkereskedelmi megállapodás ellen
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-20T22:31:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/20/szazhusz-europai-civil-szervezet-tiltakozik-az-usa-eu-szabadkereskedelmi-megallapodas-ellen/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/20/szazhusz-europai-civil-szervezet-tiltakozik-az-usa-eu-szabadkereskedelmi-megallapodas-ellen/
+     </sch:url>
+     <sch:name>
+      Százhúsz európai civil szervezet tiltakozik az USA-EU szabadkereskedelmi megállapodás ellen
+     </sch:name>
+     <sch:datePublished>
+      2020-02-20T22:31:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      EU
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      szabadkereskedelem
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9ac3b7e0-9841-5ff2-afd2-eb9dd1959bd9">
+     <sch:identifier>
+      urn:uuid:5b03a283-27db-4f21-84ee-678af8354409
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:06.243291
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:02:12.346703
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9ac3b7e0-9841-5ff2-afd2-eb9dd1959bd9" when="2021-12-14T15:26:06.243291">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Százhúsz európai civil szervezet tiltakozik az USA-EU szabadkereskedelmi megállapodás ellen
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Több, mint száz környezetvédő szervezet tiltakozik az Amerikai Egyesült Államok és az Európai Unió közötti szabadkereskedelmi tárgyalások ellen, mivel – ahogy azt mi is
+    megírtuk
+    – tervek értelmében az Unió lazítaná az élelmiszerekre vonatkozó szabályozásokon, ezzel zöld utat adva az eddig az Unióban tiltott permetszerekkel kezelt élelmiszerek és takarmány importját, ezzel a szervezetek szerint hasonló hatása lenne, mint a szerencsésen elbukott korábbi, TTIP megállapodásnak.
+   </p>
+   <p rend="head">
+    A Magyar Természetvédők Szövetsége közleménye szerint világossá vált, hogy az Európai Bizottság kész behódolni az amerikai érdekeknek a kereskedelmi egyezmény tető alá hozása érdekében.
+   </p>
+   <p>
+    A szabadkereskedelmi egyezmény alapvető célja, hogy az európai autóipar válságát enyhítse, mivel megkötése esetén jelentősen olcsóbb lenne az európai autók exportja az Egyesült Államokba, így támogatói szerint meg lehetne fordítani a csökkenő eladások tendenciáját.
+   </p>
+   <p>
+    Az USA számára pedig azért lenne előnyös a szerződés megkötése, mert ezzel megnyílna a jelentős uniós piac azon mezőgazdasági termények előtt, melyek korábban be voltak tiltva az EU-ban. Ez azonban a fogyasztók mellett az EU-s gazdáknak is hátrányos lenne, tekintve hogy termékeiknek az olcsó, amerikai ipari mezőgazdasági terményekkel kellene versenyezniük, miközben továbbra sem alkalmazhatnák a vegyi szennyezett élelmiszereket és takarmányokat profitábilissá tévő technológiákat.
+   </p>
+   <p>
+    Az egyezmény – a korábban zátonyra futott TTIP megegyezéshez hasonlóan – olyan termékeket, pl. a
+    „klórozott csirkét”
+    legalizálná az EU közös piacán, melyek egészségkárosító hatásaik miatt eddig nem véletlenül estek tiltás alá az Unió területén.
+   </p>
+   <p>
+    „A TTIP tárgyalások során az Európai Bizottság megpróbálta megnyugtatni az uniós polgárokat, hogy nem fogják áruba bocsátani egészségünket és a környezetünket. Most úgy tűnik, a Trump-adminisztráció által autókra kivetendő magas vámokra vonatkozó fenyegetésének hatására a Bizottság beadja a derekát. Ez felháborító, meg kell akadályoznunk ezt a folyamatot!”
+   </p>
+   <p>
+    – jelentette ki Újszászi Györgyi, a Védegylet főtitkára.
+   </p>
+   <p>
+    Ráadásul az egyezmény megkötése esetén fellendülő interkontinentális kereskedelmi forgalom az egyébként is súlyosan terhelt Atlanti-óceánt is még jobban elszennyezné a távolsági szállítmányozás volumenének növekedésével.
+   </p>
+   <p>
+    A megállapodásra valamennyi uniós államnak, így Magyarországnak is rá kell bólintania. Fidrich Róbert, az MTVSZ programvezetője úgy nyilatkozott,
+   </p>
+   <p>
+    „Az Európai Bizottság figyelmen kívül hagyja az Egyesült Államokkal való kereskedelmi tárgyalásokra vonatkozó felhatalmazást, és zárt ajtók mögött elfogadhatatlan engedményeket ígér az amerikai félnek. Politikusainknak határozottan a sarkukra kell állniuk és meg kell állítaniuk e nem kívánatos fejleményeket (…) Amennyiben a magyar kormány komolyan gondolja az elmúlt napokban meghirdetett klímavédelmi akciótervet, akkor világosan nemet kell mondania erre a kereskedelmi megállapodásra, amely csupán a jelentős környezetterheléssel rendelkező autóipar érdekeit szolgálná, viszont aláásná az EU éghajlatváltozásra vonatkozó kötelezettségvállalásait is”.
+   </p>
+   <p>
+    Ugyanakkor valószínűtlen, hogy a magyar kormány betartana a megállapodásnak. Noha a Fidesz idén év elején váratlan zöld fordulatot tett klímavédelmi pontokkal, teremtésvédelemmel, miegymással, az ország gazdasága szempontjából az autóipar továbbra is kiemelkedő jelentőséggel bír, így aligha érdekelt a kormány olyan döntésben, melynek fényében a magyarországi üzemek termelése csökkenne.
+   </p>
+   <p>
+    A Magyarországon termelő autógyárak közül különösen a német Audinak (Volkswagen-csoport), valamint Mercedesnek jelentene bővülési potenciált a szabadkereskedelmi egyezmény, mivel így a német prémium márkák versenyképesebb áron árulhatnák termékeiket az amerikai autópiacon, ahol 2019-ben 4,7 millió személyautót adtak el, a könnyű teherautónak minősülő pick-upokkal együtt pedig 17 milliót – miközben világszerte 77 milliót értékesítettek.
+   </p>
+   <p>
+    Phil Hogan, az Európai Unió kereskedelmi biztosa a Politico-nak úgy nyilatkozott, hogy legalább részlegesen még március 18 előtt szeretné tető alá hozni a megállapodást.
+   </p>
+   <p>
+    A civil szervezetek állásfoglalása, valamint az aláíró szervezetek az alább olvashatók:
+   </p>
+   <p>
+    <hi rend="bold">
+     Az egészségünk, környezetünk és az éghajlat nem alku tárgya
+    </hi>
+    <hi rend="bold">
+     Civil szervezetek állásfoglalása az EU – Egyesült Államok kereskedelmi
+    </hi>
+    <hi rend="bold">
+     tárgyalásokról
+    </hi>
+    <hi>
+     Több mint 100 civil szervezet követeli az EU egészségügyi és környezetvédelmi előírásainak veszélyeztetésével és az éghajlatváltozás erősítésével fenyegető kereskedelmi tárgyalások felfüggesztését. Teljes irányváltásra van szükség!
+    </hi>
+    Csalódottan és megdöbbenve követjük az Európai Bizottság és az amerikai kormány között folyó, új kereskedelmi tárgyalásokról szóló híreket. Mára világossá vált, hogy a Bizottság kész behódolni az amerikai követeléseknek, melyekben az élelmiszerbiztonsági előírások enyhítését várja el az Uniótól. Mindez a közegészség, az állatjólét és a környezet rovására történne, aláásva 
+egyúttal az EU éghajlatváltozásra vonatkozó kötelezettségvállalásait is.
+    Az Egyesült Államok elnöke azzal fenyeget, hogy magas vámot vet ki az Európából behozott autókra. Ez azonban még nem lehet ok arra, hogy feladjuk alapvető érdekeinket. A Bizottság több hónapnyi, zárt ajtók mögött lezajlott, a nyilvánosság elől elzárt tárgyalás után történő nyilvánvaló irányváltása rendkívül aggasztó. Felszólítjuk a kormányokat és az európai parlamenti képviselőket, hogy vegyék rá a Bizottságot nézőpontjának megváltoztatására. Az amerikai 
+kormány számára világossá kell tenni, hogy egészségünk és környezetünk védelmének szintje nem képezi alku tárgyát.
+    Nincs semmi újdonság abban, hogy az Egyesült Államok a közegészségügyi és környezetvédelmi előírások gyengítésére akarja rábírni az Európai Uniót. Az amerikai mezőgazdasági miniszter, Sonny Perdue nemrégiben kijelentette, hogy minden azon múlik, az EU hajlandó-e engedményeket tenni a savakkal, klórral átmosott, valamint a hormonkezelt hústermékekre, az élelmiszerben és takarmányban található növényvédőszer-maradványokra, valamint a génmódosított élelmiszerekre vonatkozó intézkedéseket illetően.
+    Az újdonság az EU magatartásában mutatkozik. Amikor a Bizottság korábban egy átfogó szabadkereskedelmi megállapodásról (Transzatlanti Kereskedelmi és Befektetési Partnerség – TTIP) tárgyalt az Egyesült Államokkal, azt állította, nem hajlandó enyhíteni ezeken az előírásokon. Azonban az EU kereskedelmi biztosa, Phil Hogan által a mostani tárgyalásokról tett legutóbbi kijelentései más megvilágításba helyezik az ügyet: szerinte ugyanis a „mezőgazdaságra vonatkozó szabályozási korlátok hosszú listájának” kérdése „megoldható” egy 
+kereskedelmi megállapodásban.
+    Ezek a „szabályozási korlátok” jó okkal vannak érvényben. A növényvédőszerekre és hormonokra vonatkozó szabályokat egészségünk és környezetünk megóvása érdekében állítottuk fel. Korlátozásokat vezettünk be a génmódosított élelmiszerekre vonatkozóan, a biológiai sokféleség 
+és a fogyasztók védelme érdekében. Korlátozásokat léptettünk életbe a klórral és savval átmosott hústermékekre vonatkozóan az állatjólét és az élelmiszerbiztonság érdekében. Az uniós polgárok – elővigyázatosság elvét követő – környezetvédelem iránti elköteleződése csak megerősödött a TTIP-ről szóló nyilvános vita hatására. A TTIP olyan kereskedelmi egyezmény lett volna, amely még egy EU-s demokratikus szavazást sem élt volna túl, ha a szavazás részét képezik olyan mértékű visszalépések a környezetvédelem és élelmiszerbiztonság terén, amelyeket az Egyesült Államok jelenleg követel.
+    Véleményünk szerint az Európai Bizottság az európai zöld megállapodás (European Green Deal) célkitűzéseit teszi most kockára. Ez az átfogó stratégia számos olyan elemet tartalmaz, amelyek most az Egyesült Államok megpróbál megtorpedózni. Így például a stratégia szerint az EU-nak azon kell dolgoznia, hogy „jelentősen csökkentse a kémiai növényvédőszerek felhasználásának 
+mértékét és kockázatait”. Az Éghajlatváltozási Kormányközi Testület (IPCC) és a biológiai sokféleséggel és az ökoszisztéma-szolgáltatásokkal foglalkozó kormányközi testület (IPBES) többször felhívta a figyelmet a fenntartható mezőgazdaság támogatásának szükségességére, ami tovább kell erősítse az Unió ezirányú elköteleződését. Mivel a Bizottság nem utasította el az Egyesült Államok által az uniós normák gyengítésére vonatkozó követeléseit, ez arra utal, hogy az EU hajlandó lenne támogatni a mezőgazdaság leginkább szennyező és kockázatos módjait. Ráadásul a jelentős környezetterheléssel rendelkező autók Európából Amerikába történő exportjának védelme érdekében mutatott engedékeny hozzáállásával, szemmel láthatóan maga a Bizottság ássa alá az európai zöld megállapodás környezetbarát mezőgazdaságra és kereskedelemre vonatkozó ígéreteit.
+    Az Európai Bizottságnak felhatalmazása sincs ezekben a kérdésekben tárgyalni. A 2019 áprilisában kapott tárgyalási felhatalmazás ugyanis nem terjed ki az élelmiszerbiztonsági- és egyéb normákról szóló kérdésekre. Phil Hogan kijelentette, „próbálja megtalálni a módját annak, hogy a szabályozási együttműködés révén úgy tekinthessünk a nem vámjellegű korlátok témájára, hogy azon keresztül a mezőgazdaság kérdését is napirendre tűzhessük”. Ez pedig arra utal, hogy az unió kereskedelmi biztosa hosszas, zárt ajtók mögötti tárgyalást szeretne folytatni, és egyúttal módot szeretne találni az amerikai követelések elfogadására; ehhez pedig egyes tagországok támogatását is élvezi. Ezt nem engedhetjük megtörténni, hiszen évtizedekkel ezelőtt lefektetett uniós jogszabályokat és eljárásokat tenne semmissé, hiszen nem képezi részét a 
+jelenlegi tárgyalási felhatalmazásnak, ahogy újabbnak sem kellene részét képeznie.
+    Mindezek fényében felszólítjuk az Európai Unió Tanácsát és a parlamenti képviselőket, hogy vegyék figyelembe a téma kapcsán a munkavállalói jogok, az átláthatóság, és a környezetvédelem érvényesülésére vonatkozó aggályainkat, és biztosítsák a civil társadalom bevonását. Megválasztott képviselőinknek kötelessége felszólalni azért, hogy az Egyesült Államok és az EU között zajló kereskedelmi tárgyalásokat teljesen újragondolják. Az Uniónak minden kétséget kizáróan az amerikai kormány tudtára kell adnia, hogy az európai 
+egészségvédelem és környezetvédelem jelenlegi szintje nem képezheti alku tárgyát, hogy nem hajlunk meg senki fenyegetése előtt, és végezetül, hogy a kereskedelempolitikának az embert és a környezetet kell előtérbe helyeznie.
+    <hi rend="bold">
+     Az állásfoglalást aláíró magyar szervezetek:
+    </hi>
+    Magyar Természetvédők Szövetsége 
+Védegylet Egyesület 
+Ararát Teremtésvédelmi Munkacsoport 
+Civilek a Mecsekért Mozgalom 
+Csalàn Egyesület 
+Egyesült Villamos-ipari Dolgozók Szakszervezeti Szövetsége 
+Életfa Környezetvédelmi Egyesület 
+Fauna Alapítvány 
+Felelős Gasztrohős Alapítvány 
+Fenntarthatóság Felé Egyesület 
+Fényszaruiak Baráti Egyesülete 
+Gyermekláncfű Kézműves, Oktatási és Környezetnevelési Egyesület 
+Holocén Természetvédelmi Egyesület 
+Közép-magyarországi Zöld Kör 
+Karátson Gábor Kör 
+Környezeti Tervezési és Nevelési Hálózat 
+Levegő Munkacsoport 
+Magosfa Alapítvány 
+Magyarországi Éghajlatvédelmi Szövetség 
+Pécsi Zöld Kör 
+Profilantrop Association 
+REFLEX Környezetvédő Egyesület 
+Szombathely-Herény K. Cs. S Egyesület 
+Tanácsadók a Fenntartható Fejlődésért 
+Vízió Egyesület 
+Zöld Akció Egyesület 
+Zöldövezet Társulás Környezetvédelmi Egyesület
+    <hi rend="bold">
+     Külföldi aláíró szervezetek:
+    </hi>
+    Attac – Austria 
+Katholische ArbeitnehmerInnen Bewegung Österreich – Austria 
+Allianz gerechtes Handeln – Austria 
+transform!at – Austria 
+Aufstehn.at – Verein zur Förderung zivilgesellschaftlicher Partizipation – Austria 
+Center for Encounter and Active Non-Violence – Austria 
+GLOBAL 2000 – Friends of the Earth Austria 
+Evangelische Kirche Hallein – Austria 
+Anders Handeln – Austria 
+ELA – Basque Country 
+CNE – Belgium 
+vzw Climaxi – Belgium 
+d19-20 – Belgium 
+CNE – Belgium 
+Entraide et Fraternité – Belgium 
+MAP – Belgium 
+11.11.11 – Belgium 
+CNCD-11.11.11 – Belgium 
+Mouvement d’Action Paysanne – Belgium 
+Global Aktion – Denmark 
+ClientEarth – Europe 
+Africa Europe Faith &amp; Justice Network – Europe 
+Corporate Europe Observatory – Europe 
+Slow Food Europe 
+European Federation of Public Service Unions (EPSU) – Europe 
+Seattle to Brussels Network – Europe 
+European Environmental Bureau – Europe 
+Friends of the Earth Europe 
+Banana Link – France 
+AAF-PSo – France 
+Comité Pauvreté et politique – France 
+Emmaüs International – France 
+confederation paysanne – France 
+réseau Roosevelt IDF – France 
+France Nature Environment – France 
+Fédération Artisans du Monde – France 
+alofa tuvalu – France 
+Comemrce Équitable France 
+Sherpa – France 
+Africa Europe Faith and Justice Network France 
+Réseau Foi &amp; Justice Afrique Europe antenne France 
+Veblen Institute – France 
+Attac France 
+Aitec – France 
+Collectif stop tafta – France 
+Amis de la Terre – France 
+BLOOM Association – France 
+Committee in Solidarity with Indigenous Peoples of thecAmericas (CSIA-Nitassinan) – France 
+Youth and Environment Europe – France 
+Confederation paysanne 24 France – Dordogne 
+CONFEDERACIÓN INTERSINDICAL GALEGA (CIG) – Galizia 
+PowerShift e.V. – Germany 
+Campact – Germany 
+BUND KG Bonn – Germany 
+Kölner Bündnis für gerechten Welthandel – Germany 
+Zukunftskonvent – Germany 
+Forum Umwelt &amp; Entwicklung – Germany 
+Bonner Bündnis gegen TTIP &amp; Co – für solidarischenWelthandel – Germany 
+Arbeitskreis Freihandelsfalle von Attac München – Germany 
+Berliner Wassertisch – Germany 
+foodwatch international – Germany 
+Sozial- und Schuldnerberatung – Germany 
+Naturefriends – Greece 
+GRAIN – international 
+Greenpeace – international 
+Good Energies Alliance Ireland 
+Feasta: the Foundation for the Economics of Sustainability – Ireland 
+Irish Seed Savers Association CLG – Ireland 
+Fracking Free Clare – Ireland 
+An Claíomh Glas – Ireland 
+An Taisce – the National Trust for Ireland 
+Fairwatch – Italy 
+Stop TTIP/CETA Italia 
+transform! italia 
+Latvian Fund for Nature – Latvia 
+Mouvement Ecologique asbl – Luxembourg 
+Both ENDS – Netherlands 
+Transnational Institute – Netherlands 
+We&amp;waste – Poland 
+Instytut Globlanej Odpowiedzialności (IGO) – Poland 
+Stowarzyszenie Rozruch – Poland 
+Pro-Terra Foundation – Poland 
+TROCA- Plataforma por um Comércio Internacional Justo – Portugal 
+ZERO – Association for the Sustainability of the Earth System – Portugal 
+CEPTA – Slovakia 
+SOSNA – Slovakia 
+Umanotera – Slovenia 
+Focus Association for Sustainable Development – Slovenia 
+ASiA-Associació Salut i Agroecología – Spain 
+Campanya Catalunya No als Tractats de Comerç iInversió – Spain 
+Campaña No a los Tratados de Comercio e Inversión – Spain 
+Ecoogistas en Acción – Spain 
+Coag (Coordinadora de Organizaciones de Agricultores y Ganaderos) – Spain 
+CONFEDERACIÓN GENERAL DEL TRABAJO(CGT) – Spain 
+Institute for Agriculture and Trade Policy – U.S. and Europe
+   </p>
+  </body>
+ </text>
+</TEI>

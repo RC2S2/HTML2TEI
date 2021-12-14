@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ma találták a második legtöbb koronavírus-fertőzöttet Magyarországon a járvány kitörése óta
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     87e1a652-9d33-55bf-9d00-51a96a294bf9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Ma találták a második legtöbb koronavírus-fertőzöttet Magyarországon a járvány kitörése óta
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-08-29T13:55:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/08/29/ma-talaltak-a-masodik-legtobb-koronavirus-fertozottet-magyarorszagon-a-jarvany-kitorese-ota/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/08/29/ma-talaltak-a-masodik-legtobb-koronavirus-fertozottet-magyarorszagon-a-jarvany-kitorese-ota/
+     </sch:url>
+     <sch:name>
+      Ma találták a második legtöbb koronavírus-fertőzöttet Magyarországon a járvány kitörése óta
+     </sch:name>
+     <sch:datePublished>
+      2020-08-29T13:55:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      járvány
+     </sch:keywords>
+     <sch:keywords>
+      koronavírus összefoglaló
+     </sch:keywords>
+     <sch:keywords>
+      határzár
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="87e1a652-9d33-55bf-9d00-51a96a294bf9">
+     <sch:identifier>
+      urn:uuid:7f3f53dd-8ff7-4cb4-a5f8-383847a52ad0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:05.655646
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:19:51.754516
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="87e1a652-9d33-55bf-9d00-51a96a294bf9" when="2021-12-14T15:26:05.655646">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Ma találták a második legtöbb koronavírus-fertőzöttet Magyarországon a járvány kitörése óta
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egyetlen nap alatt
+    rekord számú
+    , 158 új koronavírus-fertőzést mutattak ki Magyarországon a kormányzat mai, hivatalos tájékoztatása szerint.
+   </p>
+   <p rend="head">
+    Ez a második legnagyobb napi új fertőzött-szám a járvány megjelenése óta, ennél több koronavírusost csak április 10-én regisztráltak, akkor 210-et.
+   </p>
+   <p>
+    Mindezzel együtt az újonnan felfedezett esetek közül egy sem súlyos, a Covid-19 következtében jelenleg az 1296 aktív fertőzöttből országszerte csupán 90 embert ápolnak kórházban, és 7-en szorulnak lélegeztetőgépre.
+   </p>
+   <p>
+    A
+    tegnapi
+    132 új fertőzött után tehát a mai szám is arra figyelmeztet tehát, hogy a járvány Magyarországon a tavaszi mértékhez képest egyáltalán nem csengett le, ezért a hatóságok is arra figyelmeztetik az embereket, „nagyon fontos továbbra is a fegyelmezettség, a beutazási korlátozások és az általános higiénés szabályok betartása. ”
+   </p>
+   <p>
+    A kormány egyébként úgy véli, „Európában elindult a járvány második hulláma”, erre azonban egyelőre Magyarország szeptember 1-től csupán a határok külföldi állampolgárok részére történő lezárásával reagált. A tegnap, Gulyás Gergely Miniszterelnökséget vezető miniszter által
+    a kormányinfón bejelentett
+    , új rendelkezések szerint
+   </p>
+   <p>
+    <hi rend="bold">
+     -keddtől külföldi állampolgár nem léphet be az ország területére,
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     -a külföldről érkező magyar állampolgároknak mostantól Magyarországon kell saját forrásból 2 covid-tesztet finanszírozniuk, különben 14 napos hatósági karanténra kötelezik őket,
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     -a Magyarországra tanulni érkező, külföldi diákokra pedig ugyanezek a szabályok lesznek irányadóak
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     -az iskolák azonban továbbra is rendes tanévre készülnek, az évnyitók megtartását a kormány nem tiltotta el, de nem is javasolta.
+    </hi>
+   </p>
+   <p>
+    Orbán Viktor miniszterelnök ma délelőtt egy videót is közzétett, amelyen a „határvédelmi operatív munkacsoport” reggeli ülésén vesz részt a rendelkezés szeptember 1-i bevezetésének előkészítő munkálataiban, a Belügyminisztériumban.
+   </p>
+   <p>
+    A miniszterelnök úgy fogalmazott, „képesek vagyunk arra, hogy összefogással a második hullámot megfékezzük, most még időben vagyunk.”
+   </p>
+   <p>
+    Az új hullám esetleges megjelenésével kapcsolatban tegnap Karácsony Gergely budapesti főpolgármester is intézkedett, a fővárosi operatív törzs tanácskozása után kiderült ugyanis, teljes látogatási tilalmat rendelnek el a főváros összes idősotthonában.
+   </p>
+   <p>
+    A Covid-19 második hullámát a szakértők ősz folyamán várják, az esetek számát tekintve azonban a járvány epicentruma továbbra is Európán kívül marad: a legtöbb fertőzött továbbra is az Egyesült Államokban, Brazíliában és Indiában van, míg
+    Európán belül
+    február óta a legtöbb esetet Spanyolországban (439.286), az Egyesült Királyságban (333.644) és Franciaországban (267.077) tartják nyilván. A járványnak a kontinensen a legtöbb halálos áldozata eddig Nagy-Britanniában lett, itt eddig 41.486-an haltak ebbe bele.
+   </p>
+  </body>
+ </text>
+</TEI>

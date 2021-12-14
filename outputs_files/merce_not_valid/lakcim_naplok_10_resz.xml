@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lakcím naplók – 10. rész
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1bd9af6c-522c-57a1-8f30-bd9142b5854c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Lakcím naplók – 10. rész
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-12-02T21:07:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2017/12/02/lakcim_naplok_10_resz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2017/12/02/lakcim_naplok_10_resz/
+     </sch:url>
+     <sch:name>
+      Lakcím naplók – 10. rész
+     </sch:name>
+     <sch:datePublished>
+      2017-12-02T21:07:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      lakcím
+     </sch:keywords>
+     <sch:keywords>
+      lakcím_naplók
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1bd9af6c-522c-57a1-8f30-bd9142b5854c">
+     <sch:identifier>
+      urn:uuid:c335a7f5-0461-457b-bf9e-4582fd2c88cb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:23.112044
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:18:50.469904
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1bd9af6c-522c-57a1-8f30-bd9142b5854c" when="2021-12-14T15:30:23.112044">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Lakcím naplók – 10. rész
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A lakcím nélküliség és a lakcímbejelentésből adódó nehézségek a lakhatási válság egyik egyre jobban látható, százezrek életét megkeserítő következménye. Az, hogy valaki nem tud bejelentkezni oda, ahol lakik, nagyon súlyos következményekkel járhat arra, hogy mennyire tud élni állampolgári jogaival és milyen – amúgy neki járó – szolgáltatásokból és ellátásokból esik ki. Mivel ezzel a kérdéssel évek óta kiemelten foglalkozunk, A Város Mindenkiét és az Utcajogászt is évente több százan keresik fel lakcímmel kapcsolatos problémák miatt. Most válogatást adunk közre abból, hogy milyen ügyekben kerestek fel minket és milyen megoldásokat tudtunk javasolni 2017 novemberében.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Kérdés:
+    </hi>
+    Nagy bajban vagyok. Sajnos elárverezték a lakásomat, így nincs állandó lakcímen. Nekem ez nagyon kellene, mert szívbeteg vagyok és rokkantnyugdíjas. Nekem csak az kéne, hogy jelentsenek be lakni, mert attól tartok, hogy nem kapok ellátást meg orvosi vizsgálatot. Jelenleg a fiamnál élek albérletben, de a tulaj őt sem engedi bejelentkezni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Válasz:
+    </hi>
+    Az állandó lakcím valóban nagyon fontos az egészségügyi ellátáshoz. Ha a fiának van érvényes bérleti szerződése, akkor már nem kell a tulajdonos külön aláírása a bejelentkezéshez,
+    erről itt olvashat bővebben
+    .
+    Ha mégse sikerül bejelentkezni a lakásba, ahol laknak, sajnos csak azt tudjuk javasolni, hogy létesítsen ún. település szintű lakcímet,
+    mert ezzel legalább jogosultságot nyer az egészségügyi ellátásra.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kérdés:
+    </hi>
+    Elváltam és ezután megszűnt az állandó lakcímem. Most Pestre költöztem albérletbe. A lakcímkártyámon az szerepel, hogy X. kerület lakcím nélküli. A leendő munkahelyemen emiatt nem akarnak felvenni, mert ilyen lakcím igazolót nem fogad el a rendszerük. Nem akarják elhinni, hogy az okmányirodában azt mondták, hogy mivel nincs állandó lakcímem, ezért csak ilyen lakcím igazolót kaphatok. A kérdésem az lenne, hogy van-e valamilyen lehetőség, hogy a jelenlegi tartózkodási helyem legyen felvezetve? A tulajdonos elzárkózik, hogy bárkit bejelentsen ide állandóra.
+   </p>
+   <p>
+    <hi rend="bold">
+     Válasz:
+    </hi>
+    Ha jelenlegi albérletében van érvényes bérleti szerződése, akkor nem kell már a szállásadó külön hozzájárulása (aláírása) a lakcím bejelentéséhez, hanem elegendő, ha kitölti a lakcímbejelentő nyomtatványt és elviszi magával az érvényes bérleti szerződést. Ezzel az okmányirodán a lakcím törvény alapján kötelező Önt bejelenteni.
+    Erről részletesebben itt olvashat.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kérdés:
+    </hi>
+    Van állandó lakcímem vidéken, ahol édesanyám él, de az ideiglenes lakcímem lejárt. Ma szerettem volna menni a Munkaügyi Központba regisztrálni és ott tájékoztattak, hogy már nem érvényes az okmányon szereplő ideiglenes lakcím, amit már nem is áll módomban meghosszabbítani. Most bérelek egy szobát, de oda nem engednek bejelentkezni. Ilyen esetben mit tehetek? Településszintű lakcímre bejelentkezhetek úgy, hogy van állandó lakcímem?
+   </p>
+   <p>
+    <hi rend="bold">
+     Válasz:
+    </hi>
+    Sajnos, ha település szintű lakcímet csináltat, akkor meg fog szűnni az állandó lakcíme (a település szintű lesz helyette) és amellett nem lehet tartózkodási címet létesíteni. Ha az albérletében van érvényes szerződése, akkor már nincs szükség a szállásadó külön aláírására a lakcímbejelelentő lapon, elég kitölteni az árlapot és elvinni az érvényes bérleti szerződést az okmányirodába.
+    Erről részletesebben itt olvashat.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kérdés:
+    </hi>
+    Meg szeretném tudni, hogy egy ember hány állandó lakhellyel rendelkezhet? Egy vagy több állandó bejelentett lakcíme lehet?
+   </p>
+   <p>
+    <hi rend="bold">
+     Válasz:
+    </hi>
+    Mindenkinek összesen három lakcíme lehet: egy állandó lakcím (hivatalos nevén lakóhely), egy tartózkodási hely és egy értesítési cím. Vagyis nem lehet két állandó lakcíme, de egy állandó és egy tartózkodási helye igen.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kérdés:
+    </hi>
+    A napokban szűnt meg az állandó lakcímem Budapesten, a lakcímkártyámat le kellett adnom. Most a fiamnál tartózkodom Budapesten, mert itt van az orvosom, itt kezelnek és Budapesten láttak el eddig is kórházban. Hogyan és hol kaphatok hajléktalan lakcímkártyát Budapesten? A fiamhoz nem tudok bejelentkezni, mert a tulajdonos nem engedi meg.
+   </p>
+   <p>
+    <hi rend="bold">
+     Válasz:
+    </hi>
+    Ebben az esetben település szintű lakcímkártyát tud csináltatni,
+    aminek az igénylési folyamatáról itt olvashat
+    .
+    Ami az egészségügyi ellátást illeti, település szintű lakcímmel is jár önnek az ellátást, de sajnos elképzelhető, hogy nem mindig ott, ahol eddig megszokta. A háziorvosa maga döntheti el, hogy kezeli-e önt tovább másik lakcímmel, a kórházi ellátás esetében sajnos ennél bonyolultabb a helyzet, ott a központi ágynyilvántartó dönti el, hogy hova fogják vinni. Fontos, hogy mindig, minden esetben jelezze, hogy hova szeretne menni és kitől szeretne ellátást hagyni és ne hagyja, hogy a rendszer sodorja magával.
+    <hi rend="bold">
+     Ha neked is problémát jelent a lakcímbejelentés és szeretnéd, ha igazságosabb lenne a lakcímszabályozás,
+    </hi>
+    csatlakozz a lakcím érdekvédelmi fórumhoz a Facebookon
+    ,
+    ahol a kérdéseidet is felteheted!
+   </p>
+   <p>
+    Kapcsolat:
+    [email protected]
+   </p>
+   <p>
+    Fotó: Vörös Anna
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

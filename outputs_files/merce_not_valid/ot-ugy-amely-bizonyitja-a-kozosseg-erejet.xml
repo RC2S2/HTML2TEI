@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Öt ügy, amely bizonyítja a közösség erejét
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b2aae0ff-06ef-513c-acf6-14d235e1424e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Öt ügy, amely bizonyítja a közösség erejét
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-09-24T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/09/24/ot-ugy-amely-bizonyitja-a-kozosseg-erejet/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/09/24/ot-ugy-amely-bizonyitja-a-kozosseg-erejet/
+     </sch:url>
+     <sch:name>
+      Öt ügy, amely bizonyítja a közösség erejét
+     </sch:name>
+     <sch:datePublished>
+      2020-09-24T07:30:00
+     </sch:datePublished>
+     <sch:alternateName>
+      Civilek a tőke ellen
+     </sch:alternateName>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      civil
+     </sch:keywords>
+     <sch:keywords>
+      vasút
+     </sch:keywords>
+     <sch:keywords>
+      Tata
+     </sch:keywords>
+     <sch:keywords>
+      Öreg-tó
+     </sch:keywords>
+     <sch:keywords>
+      Keszthely
+     </sch:keywords>
+     <sch:keywords>
+      hajógyári sziget
+     </sch:keywords>
+     <sch:keywords>
+      álomvölgy
+     </sch:keywords>
+     <sch:keywords>
+      pilismarót
+     </sch:keywords>
+     <sch:keywords>
+      helyi politika
+     </sch:keywords>
+     <sch:keywords>
+      civil társadalom
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b2aae0ff-06ef-513c-acf6-14d235e1424e">
+     <sch:identifier>
+      urn:uuid:ee0bd527-468e-4070-b231-535056876175
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:01.523671
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:23:12.418387
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b2aae0ff-06ef-513c-acf6-14d235e1424e" when="2021-12-14T15:31:01.523671">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Öt ügy, amely bizonyítja a közösség erejét
+   </head>
+   <head type="subtitle">
+    Civilek a tőke ellen
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    2020 eddig tagadhatatlanul izgalmas év volt, sokszor nem éppen a szó pozitív értelmében: jelenleg minden idők
+    legpusztítóbb erdőtüzei tombolnak
+    az USA nyugati partján, itthon pedig nyakig vagyunk egy pandémia második hullámában. Ami viszont a közösségiség erejét tekintve némi reményre adhat okot, az az, hogy az elmúlt negyedévben több civil csoportosulás nyert a tőke ellen lokális ügyekben, vagy legalábbis meghallotta hangjukat az országos sajtó: ezekből az eseményekből válogattunk most öt olyat, amelyet mi is részletesen végigkövettünk a Mércén.
+   </p>
+   <p>
+    Harc a tatai Öreg-tóért
+   </p>
+   <p>
+    A különleges természeti értékekkel rendelkező településre még az év elején vetett szemet a kormányzati támogatásokkal
+    bőven kistafírozott
+    Hell Energy cégcsoport egyik tagja, az Avalon szállodalánc: a cég májusban hivatalosan is bejelentette, hogy megvásárolt az Öreg-tó partján két telket, amelyekre egy ötcsillagos, 120 szobás szállodát építenének, a kihasználatlanul álló Esterházy-lovarda műemlék épületét pedig étteremmé alakítaná át. A beruházásról szóló, hosszabb cikkünk
+    ide kattintva olvasható
+    .
+   </p>
+   <p>
+    A helyi civilek a járvány első hullámának idején a
+    Stop Avalon! Tata
+    Facebook csoportban kezdtek el szerveződni: a csoportnak mostanra már több, mint 14 ezer tagja van, valamint innen nőtt ki később a Miénk a Grund Városvédő Egyesület is.
+   </p>
+   <p>
+    Az akkor még Stop Avalon! Tata néven működő csoportosulás júliusban egy nagyobb tüntetést is szervezett azon helyiek számára, aki nem értettek egyet a természetkárosító beruházással:
+    az eseményen
+    mintegy ezer ember vett részt. Michl József, a beruházást támogató tatai polgármester pár nap késéssel úgy
+    kommentálta az eseményeket
+    , hogy a tüntetésen szép számmal vettek részt „vendégek”, így próbálva elbagatellizálni a helyiek felháborodását.
+   </p>
+   <p>
+    A grundosok végül négy népszavazási kérdésükből kettőt
+    át tudtak nyomni
+    a Helyi Választási Bizottságon, a polgármester viszont
+    fellebbezéssel élt
+    , így időben biztosan eltolódik az aláírásgyűjtés. Addig is vírusbiztos
+    tóátölelő akciót szerveztek
+    : a résztvevők között a 1,5 méteres védőtávolságot színes, kék és zöld szalagok segítettek betartani.
+   </p>
+   <p>
+    Pilismarót, kavicsbánya nélkül
+   </p>
+   <p>
+    Arról, hogy a váci GM-Pro Kft. tavaly december óta egy 1,2 millió négyzetméteres kavicsbánya megépítését tervezi Pilismaróton, sok helyi
+    az utolsó pillanatban értesült
+    : a hirtelen fellángoló felháborodás miatt Pergel István Csaba, a város független, ám Fidesz által támogatott polgármestere, valamint a teljes testület rövid időn belül le is mondott, a civilek pedig petíciót indítottak a bánya ellen, mert attól tartottak, hogy a működése nagy zajjal, porral és természetkárosítással járhat, a munkagépek és teherautók pedig aránytalanul megterhelnék majd a falu infrastruktúráját.
+   </p>
+   <p>
+    Az augusztus elején,
+    tiltakozásképpen szervezett tüntetésen
+    több százan voltak jelen, a felszólalók beszéde után hangbejátszással is szemléltették, milyen fülsüketítő zajjal járna egy ekkora területű, aktívan működő kavics- és homokbánya.
+   </p>
+   <p>
+    A Komárom-Esztergom Megyei Kormányhivatal Környezetvédelmi és Természetvédelmi Osztálya végül augusztus 25-én bejelentette: a GM-Pro Kft. bányatársaság Pilismarót településen külszíni bányászati tevékenységre vonatkozó környezetvédelmi engedélyét visszavonta, illetve a környezetvédelmi engedély kiadása iránti kérelmét elutasította. Ahogyan a Bányamentes Dunakanyart civil csoportosulás is
+    írja Facebook-oldalán
+    : lefordítva ez annyit jelent, hogy egyelőre
+    sikerült megakadályozni
+    a mostani bányanyitást.
+   </p>
+   <p>
+    „Szeretnénk felhívni mindenki figyelmét arra, hogy munkánk ezzel természetesen nem áll le, továbbra is feszített tempóban dolgozunk a civil szervezet megalapításán és további lépéseket teszünk arra vonatkozóan, hogy a jövőben még egy hasonló próbálkozás teret ne kapjon”
+   </p>
+   <p>
+    – tették hozzá.
+   </p>
+   <p>
+    A vonatközlekedés Keszthely és Budapest között marad
+   </p>
+   <p>
+    A győzelemről egy helyi ellenzéki önkormányzati képviselő, Molnár Tibor számolt be: szeptember 13. után is
+    marad a két város közötti
+    , menetrendszerű vonatközlekedés, az erre irányuló petíciót (amelyhez az aláírásokat a KEVE, azaz a Kisvárosunkért Érdekvédelmi Egyesület aktivistái gyűjtötték) 4517 ember írta alá.
+   </p>
+   <p>
+    👍 Örömmel jelentem az általam indított online petíció 4517 aláírójának, valamint a papír alapú aláírásgyűjtés több száz…
+   </p>
+   <p>
+    Posted by
+    Molnár Tibor
+    on
+    Monday, 7 September 2020
+   </p>
+   <p>
+    A két város közötti közlekedés leállásának első fázisa a helyközi autóbuszos járatok
+    számának csökkentése volt
+    : a döntés minden bizonnyal a
+    MÁV-Volán közös joggyakorlásának
+    és emiatt a vasúti közlekedés priorizálásnak egyik következménye lehetett. A kimaradó autóbuszok alternatívájaként a társaság a vonatos utazást ajánlotta, ám rögtön ezután a naponta közlekedő kilenc közvetlen gyorsvonatból
+    hetet meg akartak szüntetni
+    .
+   </p>
+   <p>
+    Ezután
+    indította el petícióját Molnár Tibor
+    , amelyet közvetlenül Mosóczi László közlekedéspolitikáért felelős államtitkárnak címzett és amelyet végül több, mint négyezren írtak alá.
+   </p>
+   <p>
+    „Azon túl, hogy tanulmányi, üzleti és munkaügyekben rengeteg keszthelyi és környékbeli lakos utazik vonattal a fővárosba és onnan vissza, a gépkocsi nélkül közlekedő turisták széles rétege számára is megnehezedik a Balaton nyugati végébe való eljutás”
+   </p>
+   <p>
+    –
+    áll a petíció szövegében.
+   </p>
+   <p>
+    Bár az illetékes államtitkár végül válaszra sem méltatta a képviselő levelét, időközben mégis úgy határozott, hogy az eredeti menetrendterveket – miszerint csupán egy vonatpár, azaz két gyorsvonat maradt volna – elvetik. A képviselő bejegyzésében több civil szervezet munkáját is kiemelte – és emellett a Mérce témában született írásait is megköszönte.
+   </p>
+   <p>
+    Óbudai kutyások a fakivágás ellen
+   </p>
+   <p>
+    Június végén a kormány egy újabb kiemelt nemzetgazdasági érdekű tervet mutatott be:
+    egy védműrendszert szerettek volna építeni
+    a harmadik kerületi Hajógyári-szigeten, a beruházás akár 900-1000 fa kivágásával is járhatott volna. A tervezetnek köze lehetett a kormány régóta húzódó kajak-kenu sportakadémia tervéhez, amely különösen jól jöhet egy majdani olimpia megrendezésénél.
+   </p>
+   <p>
+    A hivatalos indoklás szerint a rendszert azért szerették volna létrehozni, hogy megóvják a területet az áradásoktól, viszont megépítése akár 9 centis vízemelkedést is okozhatott volna a Duna óbudai mellékágában a meder vízszállító képességének változása miatt. Ez árvíz esetén a Megyeri híd pillérénél úgynevezett állékonysági problémákhoz vezetett volna.
+   </p>
+   <p>
+    A projekt részeként földgátakat, mobilgátakat és szivárgásgátló résfalakat építettek volna, amely a hatástanulmány szerint több kockázatot is rejtett volna magában: a résfalak például kedvezőtlenül befolyásolhatják a sziget vízháztartását. De emellett a területet rekreációs célokra használó lakosság számára is kényelmetlenségeket jelenthetett volna. A projekttel kapcsolatban Karácsony Gergely, valamint a kerület polgármestere, dr. Kiss László is tiltakozását fejezte ki.
+   </p>
+   <p>
+    Ezen a ponton kapcsolódott be a történetbe az Óbudai Kutyás Egyesület,
+    akiknek élőláncos demonstrációjára több százan vonultak ki
+    . A lakossági tiltakozás miatt
+    egy ideig úgy tűnt
+    , hogy a népszerű területen nem szabadulnak meg csak úgy ezer fától: még maga Gulyás Gergely is azt nyilatkozta egy Kormányinfón, hogy nem szeretnének olyan beruházást támogatni, amelyért a helyi önkormányzat sem lelkesedik. A
+    legújabb fejlemények alapján
+    viszont a kormány még mindig nem tett le a fák kivágásáról, sem a gátépítésről, a WWF ehhez kapcsolódó petíciója
+    itt érhető el
+    .
+   </p>
+   <p>
+    Megmenekült az Álomvölgy
+   </p>
+   <p>
+    Az Álomvölgy megmentése Budakeszin már
+    a 2018-as kampányidőszakban is
+    kiemelt téma volt, ám az események tavaly gyorsultak fel igazán. Szél Bernadett független országgyűlési képviselő hívta fel a figyelmet arra, hogy bár korábban a Párbeszéd képviselőivel közösen környezetkárosítás bűntettének megalapozott gyanúja miatt ismeretlen elkövető ellen
+    tettek feljelentést
+    , az
+    építkezés tovább folytatódott
+    . A Natura 2000 besorolású területet a tulajdonosok elkerítették, abban betonoszlopokat helyeztek el és a patak folyásába is beavatkoztak, amellyel visszafordíthatatlan környezetkárosítás történt természetvédelmi besorolású területen. A területen egyébként a helyi önkormányzat által hozott változtatási tilalom van érvényben 2020. május 9-ig.
+   </p>
+   <p>
+    Most viszont úgy tűnik, az egységes és sok irányból érkező fellépésnek köszönhetően az évek óta tartó küzdelemnek valóban lett eredménye: t
+    avaly novemberben a helyi lakosok és civilek is tüntettek
+    az Álomvölgy megóvásáért,
+    idén augusztus végén
+    pedig a helyi képviselőtestület egységesen megszavazta a terület, illetve a környező Bodzás-árok, a Mamutfenyők és a Nádas-tó védetté nyilvánítását, ezzel helyi szinten megerősítve a védett természeti értékekkel rendelkező terület megőrzéséért fellépő helyieket.
+   </p>
+   <p>
+    Kedves Álomvölgyért küzdők Budakeszin és országszerte! Nagyon jó hírrel szolgálunk:
+   </p>
+   <p>
+    A Pest Megyei Kormányhivatal…
+   </p>
+   <p>
+    Posted by
+    Álomvölgy Őrzői
+    on
+    Sunday, 6 September 2020
+   </p>
+   <p>
+    Szeptember elején az Álomvölgy Őrzői nevű helyi civil szerveződés Facebook oldalán tudatta: a Pest Megyei Kormányhivatal Építési és Örökségvédelmi Osztálya elutasította a terület tulajdonosának építési engedély kérelmét. Ez pedig már jócskán győzelemnek számít: a döntést ugyanis csak bíróságon tudják megtámadni, a szervezet jogászai szerint kis eséllyel.
+   </p>
+  </body>
+ </text>
+</TEI>

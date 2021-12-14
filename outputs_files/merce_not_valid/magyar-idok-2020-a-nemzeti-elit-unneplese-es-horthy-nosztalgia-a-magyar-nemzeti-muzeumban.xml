@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Magyar Idők 2020: A ,,nemzeti” elit ünneplése és Horthy-nosztalgia a Magyar Nemzeti Múzeumban
+    </title>
+    <author>
+     <persName>
+      Birkut Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     21e2ec55-2369-5796-a212-c14f1ab471f9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Magyar Idők 2020: A ,,nemzeti” elit ünneplése és Horthy-nosztalgia a Magyar Nemzeti Múzeumban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Birkut Máté
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-14T19:06:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/14/magyar-idok-2020-a-nemzeti-elit-unneplese-es-horthy-nosztalgia-a-magyar-nemzeti-muzeumban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/14/magyar-idok-2020-a-nemzeti-elit-unneplese-es-horthy-nosztalgia-a-magyar-nemzeti-muzeumban/
+     </sch:url>
+     <sch:name>
+      Magyar Idők 2020: A ,,nemzeti” elit ünneplése és Horthy-nosztalgia a Magyar Nemzeti Múzeumban
+     </sch:name>
+     <sch:datePublished>
+      2020-05-14T19:06:00
+     </sch:datePublished>
+     <sch:author>
+      Birkut Máté
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      kásler miklós
+     </sch:keywords>
+     <sch:keywords>
+      kultúra
+     </sch:keywords>
+     <sch:keywords>
+      kritika
+     </sch:keywords>
+     <sch:keywords>
+      kiállítás
+     </sch:keywords>
+     <sch:keywords>
+      magyar nemzeti múzeum
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="21e2ec55-2369-5796-a212-c14f1ab471f9">
+     <sch:identifier>
+      urn:uuid:a0ce7664-82d8-4092-ab1f-379e62a5bf6d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:04.486351
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:12:20.426159
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="21e2ec55-2369-5796-a212-c14f1ab471f9" when="2021-12-14T15:31:04.486351">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Magyar Idők 2020: A ,,nemzeti” elit ünneplése és Horthy-nosztalgia a Magyar Nemzeti Múzeumban
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Horthy Miklóst 100 éve választották kormányzónak, ezért mindenképpen indokolt lenne, hogy az autoriter vezetőről, valamint a nevével fémjelzett korszakról átfogó kiállítás szülessen. A Magyar Nemzeti Múzeumban
+     március 15-éig volt látható
+     a Kásler Miklós által létrehozott Magyarságkutató Intézet és a Kodolányi János Egyetem által közösen rendezett
+    </hi>
+    <hi rend="bold">
+     <hi rend="italic">
+      Magyar Világ 1938-1940
+     </hi>
+    </hi>
+    <hi rend="bold">
+     című nosztalgia-kiállítás, amelyről azért is érdemes megemlékezni, mert korunk jellegzetes kulturális produktumaként néhol komikus, de többnyire tragikus módon vette védelmébe a Horthy-rendszert és azon keresztül a NER torz társadalomképét.
+    </hi>
+   </p>
+   <p>
+    A Kásler Miklós emberminiszter által létrehozott, évi 800 millió forint közpénzből működő Magyarságkutató Intézet egyre aktívabb: tavaly nyitották meg a Magyar Természettudományi Múzeumban az
+    <hi rend="italic">
+     Attila örökösei – A hunoktól az Árpád-házig
+    </hi>
+    című kiállítást, idén pedig már két tárlatot is kínáltak a Nemzeti Múzeum látogatóinak.
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Magyar Világ 1938-1940
+    </hi>
+    című kiállítás másik rendező intézménye a Kodolányi János Egyetem, melynek rektoraként Szabó Péter elég egyértelműen fogalmazott a kiállítás céljaival kapcsolatban: ,
+    <hi rend="italic">
+     ,a két világháború közötti időszakot a szocializmus idején egyértelműen rossz színben mutatták be, a kiállítás ezért ezt a képet szeretné ellensúlyozni.
+    </hi>
+    ”
+    [1]
+   </p>
+   <p>
+    Nem árnyalni vagy kiegészíteni szeretnék tehát a rendezők a Horthy-rendszer megtépázott imázsát valamilyen történész-szakmai szempontból, hanem ellensúlyozni. Ennek fényében érthető, hogy a Magyar Nemzeti Múzeum ez esetben csak befogadta a kiállítást, de erről majd később.
+   </p>
+   <p>
+    A kiállítás előtt egy hatalmas plakát állt, amely az 1938 és 1940 közötti időszakot Magyarország utolsó békeéveiként hirdeti. Szemben a plakáttal, ezen a kissé ízléstelen brandingelésen gondolkodva csapott meg először az erős parfüm illata, ami a jellemzően nyugdíjas, gyakran nemzeti vagy Árpád-sávos kitűzőket hordó urakból és asszonyokból áradt, és szinte elárasztotta a kiállítóteret (volt persze néhány fiatal is, ők a jövő).
+   </p>
+   <p>
+    Mindenki nagyon kedves volt, mosolygott rám, udvariasan elnézést kért, ha hozzámért. Bevallom, jól esett kicsit ebben a buborékban sétálni, mintha én is a „nemzeti tábor” tagja lettem volna. De ennek sajnos gyorsan vége lett, mert hamar kiderült, hogy ez az összetartozás érzés nem kölcsönös.
+   </p>
+   <p>
+    „Horthy-oltár 1.” A szerző felvétele.
+   </p>
+   <p>
+    A rendezők nem voltak szégyenlősek a Teleki Pál és Horthy Miklós iránti szinte gyermeki rajongásukban. Valószínűleg ennyi festmény, szobor, plakát, relikvia és oltár a két politikusról nem volt ilyen szűkös helyen még kiállítva, és ez a fent említett urak és asszonyok számára feltehetően erős identitás-simogatást jelentett. Szintén dominálta a tárlatot a számtalan Nagy-Magyarország-térkép, korona, címer, miegymás. Végig a látogatótársaim reakcióját kutattam, remélve, hogy legalább nekik örömet okoz, hogy az évtizedekig egymásnak duruzsolt történetek és ,,igazságok” most a Magyar Nemzeti Múzeum tereiben nyernek visszaigazolást.
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Magyar Világ
+    </hi>
+    nagy részére az egyszeri látogató fel lehetett készülve, hiszen bármelyik vonaton, kocsmában vagy piacon találkozni egy ,,történelem tudóssal”, aki az olyan közhelyként ismert hazugságokat ismételgeti, minthogy a zsidók irányítják a sajtót. És ezzel el is jutottunk a tárlat azon aspektusaihoz, amelyek már kevésbé bájosak, mint az egymást nyaldosó Horthy-portrékra büszkén tekintő szépkorúak.
+   </p>
+   <p>
+    „Horthy-oltár 2.”. A szerző felvétele.
+   </p>
+   <p>
+    Ugyanis egészen más a szélsőjobboldali szubkultúrából ismert gondolatokat, ha esetlenül is megfogalmazva, de mégiscsak egy múzeum, különösen a Magyar Nemzeti Múzeum falain olvasni. Az egyik, éppen a sajtóról szóló rész például elismeri a zsidótörvényeknek hatását: ,,
+    <hi rend="italic">
+     Az intézkedések hatására csökkent a zsidó vallásúak arányszáma, valamint visszaszorultak az ellenzéki lapok. Ez utóbbi azonban egyaránt jelentette a németekkel szimpatizáló magyar szélsőjobb visszaszorítását is, a Magyar Nemzet megjelenésével pedig egy hangsúlyosan németellenes lap kezdi meg működését.
+    </hi>
+    ”
+   </p>
+   <p>
+    Egyrészt némi magyarázatra szorulna persze, hogy akkor a zsidók írták-e a németbarát nyilas lapokat is, nem igazán érthető, hogy ez a kettő hogyan függ össze. Vagy arra gondolt a szerző, hogy az, hogy a zsidók mellett nácikat is visszaszorították, egyfajta kiegyensúlyozottságot mutat? A
+    <hi>
+     Magyar Nemzet
+    </hi>
+    megemlítése persze indokolt, de igazán megjegyezhették volna, hogy azt akkoriban még nem közpénzből nyomták, és nem az uralkodó osztály propagandalapja volt, hanem a Chorin–Kornfeld–Weiss nagytőkés csoport finanszírozta az ellenzéki médiát.
+   </p>
+   <p>
+    A szerző felvétele.
+   </p>
+   <p>
+    Talán sokaknak kukacoskodásnak tűnik, hiszen ez a rendszerváltás utáni időszak általános múzeumi problémája, de az úri középosztállyal, az elittel és más társadalmi csoportokkal szemben az ipari munkásság vagy a zsellérség semmilyen szinten sem volt reprezentálva a kiállításon. A
+    <hi rend="italic">
+     Vidéki Magyarország
+    </hi>
+    című szöveg, mely főként a parasztságról szólt volna, elismerte ugyan a birtokviszonyokban fennálló elképesztő egyenlőtlenségeket, de azt főleg egy megörökölt problémaként írta le, nem pedig a két háború közötti uralkodó elit hatalmának és vagyonának alapvető feltételeként.
+   </p>
+   <p rend="head">
+    A kiállított mintacsalád karácsonyi idillje éppen ezért hatott olyan bután. Pontosan hányan éltek így? És hányan tengődtek kisemmizett zsellérként, gyári munkásként vagy a stróman szomszéd jóindulatának kiszolgáltatva? Melyik volt a jellemzőbb 1940 Magyarországán?
+   </p>
+   <p>
+    A baloldali nyilvánosság 1919 utáni ellehetetlenítése, a ,,fehérterror” és általában a Horthy-rendszer nem náci ellenzéke szinte semmilyen szinten nem kapott teret a
+    <hi rend="italic">
+     Magyar Világ
+    </hi>
+    ban. Jellemző módon a kiállítás úgy nyújtott lehetőséget az interaktivitásra, hogy a látogató nyugodtan belehelyezheti magát a Horthyék által meghatározott keretekbe. Például szavazhattunk a kiállítás legjobb részei mellett politikai pártokra is: így ha a Magyar Élet Pártjával elégedetlenek lennénk, ott vannak a nyilasok és a rendszerrel lepaktáló szocdemek. Mintha az ilyen választékhoz szükség lenne ,,időutazásra”.
+   </p>
+   <p>
+    Kéthly Anna szociáldemokrata politikus személye persze ezen a tárlaton is előkerült mint a jobboldal által a mai napig szinte egyedül engedélyezett baloldali politikus (persze Kéthly zseniális és bátor volt, ahogy sokan mások is a korban, csak róluk nem illik beszélni, mert Kövér László morogni kezd). Azt a kiállítás sehol nem jelezte ugyanakkor, hogy az 1922-ben elfogadott választási törvény csak Budapesten és agglomerációjában tette lehetővé a titkos szavazást, továbbá kor és nem szerinti, valamint vagyoni és műveltségi cenzust is bevezetett (a Tanácsköztársaságban elfogadott általános választójoggal ellentétben); továbbá rendszerszintűek voltak a választási csalások, különösen a vidéki választókerületekben.
+   </p>
+   <p>
+    A Horthy-rendszer alapvetően autoriter jellege egyszerűen el van hazudva a
+    <hi rend="italic">
+     magyarságkutatók
+    </hi>
+    által, amiben tényleg semmi meglepő nincs, ezt szoktuk meg a kormánypropagandában is, a kiállítás igazán felháborító része azonban pár méterre arrébb volt található.
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Magyar Világ
+    </hi>
+    ban ugyanis egy külön falszöveg foglalkozott a zsidótörvényekkel, ami egyrészt több mint indokolt, másrészt már a grafikai megoldása is egy csúsztatás. A rendezők egy menórával jelezték ezt a szekciót, mintha ezek a jogfosztó törvények kizárólag egy vallási közösséget érintettek volna, nem pedig egy nagyon is heterogén, több százezres társadalmi csoportot.
+   </p>
+   <p>
+    A szövegben a szokásos jobboldali mítoszok és mentségek (fokozódó német nyomás, a Tanácsköztársaságban sok volt a zsidó, stb.) jelennek meg, így jellemző mondatnak tekinthető, hogy ,,
+    <hi rend="italic">
+     Mindenekelőtt meg kell említeni, hogy a magyar társadalomban jelenlévő antiszemitizmus nem a zsidók kiirtására irányult
+    </hi>
+    .” Azt persze ,,elfelejti” a szerző, hogy ekkor még a német nácik sem ezen törték a fejüket (erről 1942-ben született döntés Wannsee-ban), de nyilván jár a köszönet a Kormányzó Úrnak, mert
+    <hi rend="italic">
+     közéjük is lövethetett volna
+    </hi>
+    .
+   </p>
+   <p>
+    A rendezők ugyanakkor itt nem álltak meg, és egészen új szempontokat kínáltak a látogatók számára. Például sokakat meglephet, hogy a zsidótörvények egyik célja, ,,
+    <hi rend="italic">
+     egy olyan társadalom létrehozása volt, amelynek minden tagja elsősorban magyarnak tartja magát és bármit kész megtenni a házájáért
+    </hi>
+    ”(sic!). ,,
+    <hi rend="italic">
+     Sokan vélték úgy, hogy a zsidók nem ilyen nemzetben gondolkoznak, ezért átnevelésre szorulnak vagy korlátozni kell őket.
+    </hi>
+    ”
+   </p>
+   <p>
+    A szöveg sajnos nem tisztázza, hogy pontosan kik vélték így, pedig talán tanulságos lenne inkább róluk beszélni. De hamar el is felejtjük ezt a kérdést, mert újabb erős kijelentések következnek: ,,
+    <hi rend="italic">
+     Ennek a vélekedésnek köszönhető, hogy bár a zsidók életét megbocsájthatatlan módon korlátozták, fizikai bántódásuk az 1944-es német megszállásig nem esett.
+    </hi>
+    ”
+   </p>
+   <p>
+    Ennek a ,,logikának” persze semmi értelme nincsen, de ennél fontosabb, hogy aljas hazugság is. A munkaszolgálaton több tízezer honfitársunkat gyilkolták meg, és az 1941-es kamenyec-podolszkiji tömegmészárlás sem ,,
+    <hi rend="italic">
+     idegenrendészeti eljárás
+    </hi>
+    ” volt, ahogy Szakály Sándor néhány éve jellemezte.
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Magyar Világ
+    </hi>
+    egyszerűen nem tudott úgy beszélni a horthysta család idilljén túli valódi magyar világról, hogy az ne legyen ízléstelen és buta. Ennek pedig az az egyszerű oka, hogy a rendezők számára ők, pontosabban szólva ezek a nyamvadt uniformisok, a Horthy-címlapok tömegei és a ,,polgári élet” megannyi giccse és színpadi kelléke jelentik a nemzet beteljesülését, az ezen kívül esők pedig kizárólag zavaró tényezők. Ki akarják őket irtani? Dehogyis. Csak tudomást sem akarnak venni róluk, problémáikról, történeteikről és kultúrájukról.
+   </p>
+   <p>
+    A kiállítás persze ennél jóval többről szólt, például kiemelten foglalkozott az 1938-as Eucharisztikus Kongresszussal (ami hibátlanul sikerült), Budapest sötét oldaláról (volt zsidó bűnözés! – nem viccelek), a magyar film állítólagos aranykoráról, de el lehet olvasni Klebelsberg Kúnó mondatait is, amelyek szerint szeretni kell a gyerekeket. Ugyanakkor bevallom, hogy a tárlat ezen a részén már egészen máson gondolkodtam.
+   </p>
+   <p rend="head">
+    Mégis, miért vállal be egy ilyen kiállítást a Nemzeti Múzeum?
+   </p>
+   <p>
+    Először is tisztázzuk, a Magyar Nemzeti Múzeum nem tehető teljes mértékben felelőssé ezért a propaganda-tárlatért. Pontosan tudjuk, hogy ma minden olyan múzeum, aminek fenntartója valamelyik minisztérium (általában az EMMI) vagy egy fideszes önkormányzat, szinte naponta kerül olyan helyzetbe, hogy a szakmai alapú működését egy-egy fentről érkező direktívának megfelelően kell felülírnia. Ez a rendszer része, nem hibája.
+   </p>
+   <p>
+    Ma örülhet az egyszeri muzeológus, ha nem neveznek ki felé egy olyan megkérdőjelezhető szakmaiságú személyt, mint a Magyar Természettudományi Múzeum főigazgatójaként saját intézménye ellen éppen történelmi bűnöket elkövető Bernert Zsoltot vagy a Petőfi Irodalmi Múzeum vezetőjeként (is) önbizalmát (elég sok) közpénzből építő Demeter Szilárdot.
+   </p>
+   <p>
+    Az egyszeri múzeumi dolgozó 2020-ban értékeli, ha olyan, a Kádár-rendszer szabályait szigorúan betartó főigazgatót tudhat magáénak, mint az egyre szomorúbban vergődő Baán László (Szépművészeti Múzeum és Magyar Nemzeti Galéria) vagy éppen a Magyar Nemzeti Múzeum élén álló Varga Benedek. Utóbbi pedig, amellett, hogy a múzeumi pletykák szerint kifejezetten jó kapcsolatot ápol a Kormánnyal, szakmailag is elismert muzeológus. 2016-os kinevezését megelőzően a Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár sikeres vezetője volt, 2015 óta pedig a világ múzeumait összefogó szervezetének, az ICOM Magyar Nemzeti Bizottságának az elnöke.
+   </p>
+   <p>
+    Kár lenne azt is számon kérni rajta, hogy miért fogad be szakmailag nehezen védhető politikai kiállításokat. Megtette ő ezt már korábban, gondoljunk a
+    <hi rend="italic">
+     Kereszt-tűzben – Keresztényüldözés a Közel-Keleten
+    </hi>
+    című vándorkiállításra, akárcsak Baán László, aki nyilván helyet adott a mára méltatlanul elfeledett
+    <hi rend="italic">
+     Hősök, királyok, szentek
+    </hi>
+    című Kerényi-projektnek a Magyar Nemzeti Galériában.
+   </p>
+   <p>
+    Pitiáner, idétlen vagy éppen megalázó alkukba belemenni persze kellemetlen, de 2020 Magyarországán érthető, sőt, gyakran ez a felelős magatartás egy közintézmény vezetője részéről. Hiszen miért is lenne morális beszólni a miniszternek, vagy nemet mondani egy szakmaiatlan döntésre, ha utána évek vagy évtizedek munkáját, beosztottaid megélhetését teszed tönkre? Nyilván nem az, de ez esetben nem erről van szó.
+   </p>
+   <p>
+    A szerző felvétele.
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Magyar Világ
+    </hi>
+    ugyanis lényegesen eltér a korábbi butaságoktól, mert ez a fajta kritikátlan Horthy-nosztalgia, ezer és ezer hazugságával, csúsztatásával és szinte mellbevágó antiszemitizmusával kiemelkedik minden korábbi kormányzati megrendelés közül. Ahogy Kerpel Fronius Gábor főpolgármester-helyettesnek, úgy a látogatók többségének sem esett le, hogy itt egy befogadott kiállításról van szó, és egyértelműen a Nemzeti Múzeum kiállításaként
+    aposztrofálta
+    a
+    <hi rend="italic">
+     Magyar Világot
+    </hi>
+    .
+   </p>
+   <p>
+    Fontos azért megjegyezni, hogy a múzeum saját kiállításai sem mentesek a politikailag buta és gyáva megoldásoktól. A
+    <hi rend="italic">
+     Magyar Világtól
+    </hi>
+    csupán néhány méterre volt látható ugyanis a
+    <hi rend="italic">
+     Közös Időnk ’89-90
+    </hi>
+    című ,,közösségi kiállítás” (ami nem az, de ez egy másik téma), ahol újra kiderült, hogy Orbán Viktor szinte egyedül űzte ki az oroszokat.
+   </p>
+   <p>
+    Felmerül tehát a kérdés, hogy pontosan miért éri meg a Nemzeti Múzeumnak, hogy nem csak teret, de hitelt is adjon a legbutább történelemhamisításnak. Ugyanis a múzeumokat nem a legizgalmasabb, de talán a leghitelesebb közintézményeink között tartjuk számon, konkrétan ezért is tartjuk fenn őket.
+   </p>
+   <p>
+    Közös történelmünk, emlékeink és fájdalmaink gyűjtésére, megőrzésére és bemutatására, ahol mindenki megtalálja magát. Erre jelenleg a Nemzeti Múzeum nem alkalmas, és ez így lesz egészen addig, amíg a kormány képviselői napi szinten szólnak bele a kulturális intézmények programalakításába. Ugyanakkor, ha a Magyar Nemzeti Múzeum még arra is képtelen, hogy mint nemzeti intézmény az útszéli antiszemita propagandát visszautasítsa, nem mindegy, hogy ki vezeti?
+   </p>
+   <p>
+    [1]
+    –
+    https://www.kormany.hu/hu/emberi-eroforrasok-miniszteriuma/hirek/magyar-vilag-kiallitas-a-masodik-vilaghaboru-elotti-utolso-bekeevekrol
+   </p>
+  </body>
+ </text>
+</TEI>

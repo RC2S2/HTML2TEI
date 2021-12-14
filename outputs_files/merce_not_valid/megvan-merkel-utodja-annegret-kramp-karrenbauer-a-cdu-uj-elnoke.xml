@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Megvan Merkel utódja: Annegret Kramp-Karrenbauer a CDU új elnöke
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8f3a6137-e8c2-5195-8c97-7e5c52a8a717
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Megvan Merkel utódja: Annegret Kramp-Karrenbauer a CDU új elnöke
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-12-07T17:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/12/07/megvan-merkel-utodja-annegret-kramp-karrenbauer-a-cdu-uj-elnoke/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/12/07/megvan-merkel-utodja-annegret-kramp-karrenbauer-a-cdu-uj-elnoke/
+     </sch:url>
+     <sch:name>
+      Megvan Merkel utódja: Annegret Kramp-Karrenbauer a CDU új elnöke
+     </sch:name>
+     <sch:datePublished>
+      2018-12-07T17:00:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      CDU
+     </sch:keywords>
+     <sch:keywords>
+      Merkel
+     </sch:keywords>
+     <sch:keywords>
+      Annegret Kramp-Karrenbauer
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8f3a6137-e8c2-5195-8c97-7e5c52a8a717">
+     <sch:identifier>
+      urn:uuid:694c8051-12ba-4755-b7e7-a7d83c2c8c13
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:09.315191
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:17:56.109207
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8f3a6137-e8c2-5195-8c97-7e5c52a8a717" when="2021-12-14T15:26:09.315191">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Megvan Merkel utódja: Annegret Kramp-Karrenbauer a CDU új elnöke
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Új vezetőt választott Németország legnagyobb pártja, a jobbközép Kereszténydemokrata Unió (CDU), miután a formációt 18 éven keresztül vezető Angela Merkel kancellár úgy döntött, nem indul újra ezért a tisztségért. A CDU 31. kongresszusa végül a második fordulóban választotta meg Annegret Kramp-Karrenbauert (AKK), aki a 999 küldött közül 517-nek a voksát nyerte el. Ellenfele, a merkeli vonallal való szakítást ígérő, bevándorlásellenes milliárdos ügyvéd, Friedrich Merz csak 482 szavazatot kapott.
+   </p>
+   <p>
+    Az első fordulóban még hárman versenyeztek a posztért, ám a jelenlegi kormányban egészségügy-miniszteri pozíciót betöltő Jens Spahn a maga 157 szavazatával már nem jutott tovább a döntő megmérettetésbe. Az első fordulóban Annegret Kramp-Karrenbauer 450, Friedrich Merz pedig 392 szavazatot kapott
+   </p>
+   <p>
+    Ahogy a jelölteket bemutató
+    cikkünkben
+    már írtunk róla, AKK a párt mérsékelt szárnyához tartozik. Saar-vidék korábbi miniszterelnökeként ő rendelkezik a legtöbb kormányzati tapasztalattal, és Merkelhez is ő áll a legközelebb.
+   </p>
+   <p>
+    Leköszönő beszédében a kancellár méltatta is AKK érdemeit, a Saar-vidéken elért sikereit, ezt a legtöbben burkolt támogatásként is értelmezték.
+   </p>
+   <p>
+    Merkel felszólalása egyébként hosszú vastapsot kapott: a 2021-ig a kancellári pozíciót megtartó Mutti összefogásra buzdította a CDU tagjait. Szerinte a politikai közép „egyetlen néppártja”, és az a feladata, hogy összefogja „Németországot, Európát, az idős és a fiatal nemzedéket, Keletet és Nyugatot, az erősebbeket és a gyengébbeket, várost és vidéket, a helyieket és a bevándorlókat”. Beszélt a párt és a német társadalom előtt álló kihívásokról is, a társadalom kettészakadását és elöregedését, a technológiai fejlődést, a világgazdaság átrendeződését, az álhírek terjedését, a Brexitet és az Európai Unió jövőjét jelölve meg.
+   </p>
+   <p>
+    „Ismét be kell bizonyítanunk, hogy határozottan megvédjük életformánkat, liberális értékeinket és érdekeinket, belül és kívül egyaránt” – jelentette ki.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (17:30)
+    </hi>
+    – A frissen megválasztott pártelnök a szavazatok összeszámlálása utáni első beszédében csatlakozott Merkel összefogásra buzdító felhívásához. Mint mondta, a mostani kongresszus lendületét fenn kell tartani és a „közép nagy, közös néppártjának” megőrzésére és alakítására kell fordítani. Reményét fejezte ki, hogy ebben mind Merz, mind pedig Spahn a partnere lesz.
+   </p>
+   <p>
+    (MTI /
+    Speigel
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

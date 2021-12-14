@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Orbán a rabszolgatörvényről: a puding próbája az evés
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fbf6a4c2-6978-5cca-a1d1-d555d41ee63d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Orbán a rabszolgatörvényről: a puding próbája az evés
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-12-21T09:29:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/12/21/orban-a-rabszolgatorvenyrol-a-puding-probaja-az-eves/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/12/21/orban-a-rabszolgatorvenyrol-a-puding-probaja-az-eves/
+     </sch:url>
+     <sch:name>
+      Orbán a rabszolgatörvényről: a puding próbája az evés
+     </sch:name>
+     <sch:datePublished>
+      2018-12-21T09:29:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      rabszolgatörvény
+     </sch:keywords>
+     <sch:keywords>
+      dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      munkavállalói jogok
+     </sch:keywords>
+     <sch:keywords>
+      túlóra
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fbf6a4c2-6978-5cca-a1d1-d555d41ee63d">
+     <sch:identifier>
+      urn:uuid:5e8729d0-271c-4ff4-a3e6-ec11983f8923
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:38.153609
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:15:56.178534
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fbf6a4c2-6978-5cca-a1d1-d555d41ee63d" when="2021-12-14T15:30:38.153609">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Orbán a rabszolgatörvényről: a puding próbája az evés
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Ha péntek, akkor Kossuth rádió: a miniszterelnök
+    ma reggel is
+    kifejtette gondolatait a rabszolgatörvény, illetve az azt kísérő tüntetések kapcsán.
+   </p>
+   <p>
+    Tegnap alig néhány órával azelőtt, hogy
+    Áder János aláírta
+    volna a Munka Törvénykönyvének rabszolgatörvény néven elhíresült módosítását, Orbán Viktor még csak annyit
+    mondott róla
+    :
+   </p>
+   <p>
+    „most fogadtuk el, és működni fog.”
+   </p>
+   <p>
+    Ma viszont már némileg szofisztikáltabban érvelt, kifejtve, hogy a munkaerőhiány miatt a munkáltatók lasszóval fogják a munkavállalókat, és hogy a dolgozók érdeke az, hogy a túlóráknak köszönhetően többet tudnak majd keresni. Egészen pontosan így fogalmazott:
+   </p>
+   <p>
+    „aki többet akar keresni, dolgozzon többet”,
+   </p>
+   <p>
+    de a munkavállalókat nem lehet majd túlórára kényszeríteni, a kormány pedig csak a „buta szabályokat” akarta megszüntetni.
+   </p>
+   <p rend="head">
+    A miniszterelnök szerint ez egy jó törvény, a puding próbája viszont az evés.
+   </p>
+   <p>
+    Korábban Hídvégi Balázs is hasonlóan nyilatkozott, bár az ő szavaiban még felbukkant az utólagos megfontolás esélye:
+   </p>
+   <p>
+    „Nyilván az étel próbája az evés, ha nem működik jól, akkor a kormány meg fogja fontolni ennek a módosítását.”
+   </p>
+   <p>
+    Orbán ilyesmiről már nem beszélt, érvelése azonban nem túl sok jót vetít előre.
+   </p>
+   <p>
+    Bár a kormánypárti politikusok rendre azzal magyarázzák a rabszolgatörvény szükségességét, hogy az valójában a munkavállalók érdekeit szolgálja, a munkáltatók pedig nem fognak visszaélni a kezükbe adott lehetőséggel, erre azonban nem sok garanciát látunk.
+   </p>
+   <p>
+    A miniszterelnök néhány szóban kitért az interjúban a tüntetéshullámra is: szerinte a rabszolgatörvény elfogadása csupán ürügy a vandálkodásra, „ellenzéki szemfényvesztés”, illetve Soros György. Felemlegette természetesen 2006-ot is, kiemelve, hogy most a rendőrök kifejezetten türelmesek voltak.
+   </p>
+   <p>
+    Cinikus az érvelés azon része is, miszerint a dolgozókon segít, ha többet dolgozhatnak a több fizetésért. Egyrészt a munkavállalók érdeke nem az, hogy még több munkáért kapjanak annyi fizetést, amiből fenn tudják tartani magukat és családjukat – inkább tisztességes bérekre lenne szükség.
+   </p>
+   <p>
+    A rabszolgatörvényről írt korábbi cikkeink
+    ide kattintva
+    olvashatóak.
+   </p>
+   <p>
+    Másrészt az elrendelhető túlórák számának emelése kifejezetten veszélyes is lehet: Magyarországon az elmúlt években így is folyamatosan nő a munkahelyi balesetek száma (nem függetlenül egyébként attól, hogy a munkaerőhiány miatt egyes ágazatokban már így is túlterhelik a dolgozókat), és fennáll a veszélye annak, hogy a helyzet e tekintetben tovább romlik majd.
+   </p>
+   <p>
+    Ahogy az még a nem annyira gránitszilárdságú Alaptörvénybe is bele van írva:
+   </p>
+   <p rend="head">
+    minden munkavállalóknak joga van az egészségét, a biztonságát és a méltóságát tiszteletben tartó munkafeltételekhez.
+   </p>
+   <p>
+    Persze, lehet azzal érvelni, hogy a munkáltatók felelőssége lesz az, hogyan bánnak a munkavállalóikkal. Lehet
+    <hi>
+     feltételezni
+    </hi>
+    , hogy majd teremtenek olyan körülményeket, ahol a túlóráztatott munkavállalók biztonságban dolgozhatnak. Lehet bízni benne, hogy nem élnek vissza a kezükbe adott lehetőséggel.
+   </p>
+   <p>
+    Ám ahogy azt nemrég a Mércének Toldi Miklósné, Vasas Szakszervezet Észak-Alföldi régiójának elnöke
+    nyilatkozta
+    :
+   </p>
+   <p>
+    „… a munkáltatók elsődleges érdeke pont ellentétes ezzel, hiszen abban érdekeltek, hogy minden megrendelést teljesítsenek. Tartunk tőle, hogy ha megkapják ezt a lehetőséget, élni is fognak vele. Nem mondom, hogy mindenhol, minden munkahelyen, de félek, hogy egyre több helyen.”
+   </p>
+   <p>
+    És az eszközöket, amelyek felhasználásáról majd a munkáltatók dönthetnek, a magyar kormány adja a kezükbe. Méghozzá úgy, hogy arról előzetesen még csak tárgyalni sem volt hajlandó a szakszervezetekkel, és az elmúlt hetek összes kritikáját lesöpörte az asztalról.
+   </p>
+   <p>
+    Orbán Viktor szerint a puding próbája az evés – vagyis a törvényt minden áron be fogják vezetni, aztán majd utólag meglátjuk, hogy milyen hatásai lesznek. Hogy ez egyben azzal is jár, hogy dolgozók nyugalmát, egészségét, biztonságát veszélyeztetik, az ezek szerint nem nagyon érdekli a kormányt.
+   </p>
+   <p>
+    De mi van, ha a torkunkon lenyomott puding visszajön?
+   </p>
+   <p>
+    A rabszolgatörvény – az ellenzék szerint vitatható módon történt – megszavazása óta szinte minden napra jutott legalább egy, de inkább több tiltakozás, a főváros mellett rengeteg vidéki és külföldi helyszínen is, ellenzéki pártok, szakszervezetek, civilek szervezésével.
+   </p>
+   <p>
+    A tüntetésekről szóló cikkeink, tudósításaink, összefoglalóink ide kattintva olvashatóak.
+   </p>
+   <p>
+    Ma is lesz megmozdulás: a fővárosban először a
+    Magyar Kétfarkú Kutyapárt
+    tart
+    <hi>
+     Nemzeti Összkarácsonyi Békemenetet
+    </hi>
+    , majd pedig következik az ellenzéki pártok és civilek közös szervezésében meghirdetett
+    demonstráció
+    , ami egészen tegnapig „Ne írd alá, János!” néven futott, ám a köztársasági elnök szignózása után „Szégyelld magad, János!” címre váltott.
+   </p>
+   <p>
+    A szakszervezetek pedig már belengették egy általános sztrájk lehetőségét is, az ezzel kapcsolatos egyeztetések már megkezdődtek. Az biztos, hogy nem a mai lesz az utolsó megmozdulás a rabszolgatörvény ellen, Debrecenben például jelentettek már be tüntetést január elejére is, és minden bizonnyal nem ez lesz az egyetlen megmozdulás.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Több száz helyi tüntetett a tervezett kavicsbánya ellen a pilismaróti Duna-parton
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e686e0b8-0762-5fbd-92d3-40da2ae22eb1
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Több száz helyi tüntetett a tervezett kavicsbánya ellen a pilismaróti Duna-parton
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-08-09T16:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/08/09/tobb-szaz-helyi-tuntetett-a-tervezett-kavicsbanya-ellen-a-pilismaroti-duna-parton/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/08/09/tobb-szaz-helyi-tuntetett-a-tervezett-kavicsbanya-ellen-a-pilismaroti-duna-parton/
+     </sch:url>
+     <sch:name>
+      Több száz helyi tüntetett a tervezett kavicsbánya ellen a pilismaróti Duna-parton
+     </sch:name>
+     <sch:datePublished>
+      2020-08-09T16:51:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      környezetrombolás
+     </sch:keywords>
+     <sch:keywords>
+      bánya
+     </sch:keywords>
+     <sch:keywords>
+      pilismarót
+     </sch:keywords>
+     <sch:keywords>
+      dunakanyar
+     </sch:keywords>
+     <sch:keywords>
+      vizeink
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e686e0b8-0762-5fbd-92d3-40da2ae22eb1">
+     <sch:identifier>
+      urn:uuid:b91f3ff1-1313-42ee-b04f-2a4dd17ee982
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:44.762610
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:21:46.985001
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e686e0b8-0762-5fbd-92d3-40da2ae22eb1" when="2021-12-14T15:30:44.762610">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Több száz helyi tüntetett a tervezett kavicsbánya ellen a pilismaróti Duna-parton
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Több százan gyűltek össze ma délután 3 órakor a pilismaróti Duna-parton az ellen a tervezett kavics- és homokbánya ellen, amit az önkormányzat tudtával egy váci bányatársaság januárban a falu lakói többségének tudta nélkül. Noha a kitört botrány következtében
+    csütörtökön
+    nemcsak a polgármester, Pergel István Csaba, hanem a teljes képviselőtestület is lemondott, a demonstrációt ennek ellenére, a továbbra is érvényben lévő engedélyek és tervek miatt megtartották.
+   </p>
+   <p rend="head">
+    Az eseményen autóval, biciklivel és gyalog a falu számos lakója, környékbeliek és még a tatai Avalon-szállodaprojekt ellen tiltakozók képviselői is megjelentek.
+   </p>
+   <p>
+    Vigh László szervező a tüntetés elején kiemelte, ugyan most minden állami hatóság azt állítja, a környezetvédelmi engedélyeztetésbe a lakosságot is bevonták, ő kiemelte, ez nem igaz, Pilismaróton a legutóbbi hetekig senki nem tudott a tervekről. Felidézte, mivel édesapja húsz évig volt Délegyházán bányafőnök, tisztában van azzal, „hogyan néz ki egy bányafalu” és milyen környezeti hatásai voltak.
+   </p>
+   <p>
+    Emlékeztetett, a délegyházi, hasonló bányák megnyitása után annak idején 2-2.5 méterrel csökkent a talajvíz szintje, a korábbi, virgázó környékbeli kertgazdaságokat, termőföldeket pedig ezek után csupán locsolással tudták fenntartani, úgy ahogy. Ráadásul ezek a bányák nem csupán a vizet szívják el, „de a kipárolgás is nagy mértékű.”
+   </p>
+   <p>
+    „Nem szeretnénk ezt a bányát, nem kell a bánya Pilismarótra!”
+   </p>
+   <p>
+    Radván Adrienn, a megmozdulás és a bánya elleni petíció, valamint a
+    Bányamentes Dunakanyart
+    Facebook-oldal és csoport egyik szervezője arról beszélt, hogy amikor a demonstrációról határoztak, a helyiek érzésének „de a mai világ életérzésének” is hangot akartak adni. Ezért ezek után személyesen a pilismarótiak Duna-parttal kapcsolatos személyes élményeiből, emlékeiből következett egy válogatás.
+   </p>
+   <p>
+    Elmondta, miután a polgármester távozott pozíciójából, és az önkormányzat vezetése is felállt, Radván szerint kétséges, hogy az a falugyűlés, amelyre összesen több mint 400 aláírást gyűjtöttek össze kedden, végül megvalósul. Az, hogy a szükséges aláírások a gyűléshez le lettek adva, lényegében okául szolgáltak a képviselőtestület és a falu első embere távozásának is. Szerinte az, hogy a képviselőtestület a bánya megépítését engedélyező határozatokat megszavazták, méghozzá egyhangúan, azt jelzi „a fejünk fölött döntöttek.” Emlékeztetett arra, az Önkormányzati törvéyn szerint az önkormányzatnak kötelessége ugyanis támogatni a település önszerveződő közösségeit.
+   </p>
+   <p>
+    „Annak a hét képviselőnek kellett volna képviselnie a falu akaratát, nem pedig az akaratukat a falura ráerőltetni.”
+   </p>
+   <p>
+    -emelte ki.
+   </p>
+   <p rend="head">
+    Hozzátette, a beadott helyi népszavazási indítványukra, és a falugyűlést kérvényező beadványokra is hétfőn, a még elvileg hivatalban lévő polgármestertől várnak választ továbbra is, méghozzá sürgősen.
+   </p>
+   <p>
+    Ezek után egy, a szervezők által készített rövid szpotvideót is levetítettek, ahol megmutatták a part jelenlegi állapotát, majd rekonstruálták, milyen rombolást végezne a vízparton a 122 hektáros, óriási bányaterület, a billencsekkel és bányagépekkel.
+   </p>
+   <p>
+    Felszólalása után hangbejátszással emlékeztették arra is a megjelenteket, milyen fülsiketítő zajjal jár egy ekkora területű, aktívan működő kavics- és homokbánya.
+   </p>
+   <p>
+    Pergel és a testület ellen a falusiak legfőbb vádja az, hogy ugyan idén januárban elvileg sor került egy lakossági fórumra a bánya ügyében, erről azonban senki sme tudott. És, ugyan a környezetvédelmi engedélyeztetési folyamat végén kiadott okmány 25 évre szól, mégis meglepően gyorsan, május 27-én kaptak rá engedélyt a Pest Megyei Kormányhivataltól.
+   </p>
+   <p>
+    Ahogyan azt a rövid demonstráción is kiemelték a felszólalók, a teljes képviselőtestület távozása bizonytalanná tette a hivatalos, jogi tiltakozás minden, elérhető formáját, ugyanis kérdés, hogy a távozó polgármester hivatalosan engedélyezni fogja-e még augusztus 15-ig tartó felmondási ideje alatt a helyi népszavazási kezdeményezést és a falugyűlést, amelyről egyébként Pergel a lemondási nyilatkozatában úgy nyilatkozott, „nem kívánja összehívni.”
+   </p>
+   <p>
+    Ha nem hívja össze, akkor a lemondás miatti, időközi választás utánra csúszhat a teljes folyamat, ami viszont felveti, nem kezdik-e el addig valóban építeni magát a bányát is?
+   </p>
+   <p>
+    A pilismaróti demonstrációt a
+    Bányamentes Dunakanyart
+    Facebook-csoport saját oldalán élőben is közvetítette, itt pedig visszanézhető:
+   </p>
+  </body>
+ </text>
+</TEI>

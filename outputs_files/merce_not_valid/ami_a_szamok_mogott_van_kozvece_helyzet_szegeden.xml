@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ami a számok mögött van – közvécé helyzet Szegeden
+    </title>
+    <author>
+     <persName>
+      A Város Mindenkié
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2114b38e-9cbe-5934-9167-3b53821d2aed
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Ami a számok mögött van – közvécé helyzet Szegeden
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       A Város Mindenkié
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-09-18T22:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2017/09/18/ami_a_szamok_mogott_van_kozvece_helyzet_szegeden/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2017/09/18/ami_a_szamok_mogott_van_kozvece_helyzet_szegeden/
+     </sch:url>
+     <sch:name>
+      Ami a számok mögött van – közvécé helyzet Szegeden
+     </sch:name>
+     <sch:datePublished>
+      2017-09-18T22:30:00
+     </sch:datePublished>
+     <sch:author>
+      A Város Mindenkié
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      wc
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2114b38e-9cbe-5934-9167-3b53821d2aed">
+     <sch:identifier>
+      urn:uuid:a011406a-8e4e-4903-9faf-afe5d9fbdb6c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:31.219378
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:18:20.554507
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2114b38e-9cbe-5934-9167-3b53821d2aed" when="2021-12-14T15:30:31.219378">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Ami a számok mögött van – közvécé helyzet Szegeden
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Nemrég tettünk közzé információkat arról, hogy a
+     megyei jogú városokban milyen a közvécé helyzet
+     .
+     A listában Szeged a többi városhoz képet a középmezőnyben szerepelt – a hivatalos adatok szerint itt 32 ezer emberre jut egy közvécé. De mit is jelent ez a valóságban? Dovalovszki András beszámolóját olvashatjátok.
+    </hi>
+   </p>
+   <p>
+    Készítettem
+    egy fényképes térképet a budikról
+    ,
+    amik miatt akár össze is csinálhatja magát az ember, ha Szegeden jár, mert azok leginkább akkor nincsenek nyitva, amikor használnák azokat (pl. hétvégi séta közben, vagy munkaidő után hazafelé félúton, stb.)
+   </p>
+   <p>
+    Az
+    <hi rend="bold">
+     egyedüli önkormányzati WC
+    </hi>
+    (Károlyi utca) bejárata így néz ki. Vélelmezhető, hogy nem elégséges a nyitva tartási ideje (hétfőtől péntekig 8-16 óráig) így akik lecipelték a cuccot a lépcsőn, azok ott is hagyták (lásd fent).
+   </p>
+   <p>
+    A
+    <hi rend="bold">
+     Mars téri piacon működő WC
+    </hi>
+    lehet talán az egyetlen pozitív példa az öt közül, mert az legalább minden nap nyitva van. Az más kérdés, hogy nem igazán nyilvános WC kategória, mert messze van a belvárostól és aki ott megfordul a közelben az szinte biztosan a piacra megy.
+   </p>
+   <p>
+    A
+    <hi rend="bold">
+     Roosevelt téri intézmény nettó hazugság
+    </hi>
+    . Már jó ideje nincs nyitva, de tény, hogy az épület régen WC-ként funkcionált.
+   </p>
+   <p>
+    Lehet hogy az lesz a sorsa, mint az Aradi vértanúk terén lévő hasonló épületnek (képen). Előbb eladta magántulajdonba az önkormányzat, gondolom WC fenntartási kötelemmel, majd hirtelen büfé lett az intézményből az egyetemi városrész kellős közepén (csomópontjában). Nem véletlen a gúnyneve: BUDI BURGER
+   </p>
+   <p>
+    A másik ilyen az
+    <hi rend="bold">
+     Apáthy utcai WC
+    </hi>
+    . Eredetileg nyilvános WC volt, bár leginkább csak a Szabadtéri Játékok idején működött. Eladták magántulajdonba, majd az új tulajdonos ..ik bele. A fenntartási kötelezettségét igyekszik a minimálisra csökkenteni és csak a kávézón keresztül teszi elérhetővé a szolgáltatást. A kitáblázás és nyilak végén csak bezárt ajtó és ez a kedves figyelmeztetés fogadja a csorgatni vágyót.
+   </p>
+   <p>
+    …
+    <hi rend="bold">
+     és végül az ötödik.
+    </hi>
+   </p>
+   <p>
+    Anno amikor milliárdos költségen felújították a teret (meg kell hagyni gyönyörű lett!) Gyurcsány jött le felavatni. Már a tervezéskor ellenzést váltott ki, hogy a helyi kispiac épületeit is mindenáron be akarják szuszakolni a térre. Gondolom az Unió csak ennek a közösségi funkciónak a megtartásával támogatta, vagy nem tudom.
+    A lényeg, hogy nagyon nem a térre való KÉK konténerek keletkeztek boltok gyanánt és a kis piac kiszolgáló létesítményeiként. Így a WC is.
+   </p>
+   <p>
+    Ezek több mint fele üresen áll, mert a bérlők bedobták a kulcsot. Egyszerűen nem volt forgalmuk, vagy a fenntartási költségek miatt magas bérleti díjat szedett az önkormányzat. (A belvárosban is siralmasan konganak az üzlethelyiségek az ürességtől.)
+   </p>
+   <p>
+    Szóval most ott van a konténerszerű üzletsor és a WC kihasználatlanul. Ebből adódóan a WC szinte mindig zárva. A ma délben nyitva talált zöldséges sem tudta megmondani, hogy mikor van nyitva a budi, de legalább az ára ki van téve arra az esetre ha mégis nyitva lenne. 😀
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

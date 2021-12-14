@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Besétált a Jobbik csapdájába a Momentum?
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     72e4d156-c236-5f6e-b1f9-6717601eb0f9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Besétált a Jobbik csapdájába a Momentum?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-03-19T18:42:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/03/19/besetalt_a_jobbik_csapdajaba_a_momentum/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/03/19/besetalt_a_jobbik_csapdajaba_a_momentum/
+     </sch:url>
+     <sch:name>
+      Besétált a Jobbik csapdájába a Momentum?
+     </sch:name>
+     <sch:datePublished>
+      2017-03-19T18:42:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="72e4d156-c236-5f6e-b1f9-6717601eb0f9">
+     <sch:identifier>
+      urn:uuid:cdb468c9-d7b4-49e2-9dd9-40b743c56a66
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:51.636938
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:28:49.035901
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="72e4d156-c236-5f6e-b1f9-6717601eb0f9" when="2021-12-14T15:30:51.636938">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Besétált a Jobbik csapdájába a Momentum?
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Z. Kárpát Dániel (Jobbik):
+    </hi>
+    „Óvnék mindenkit attól, hogy a magyarság lakhatási szegénységét összekeverje a cigányság lakhatási szegénységével. A Jobbik tapasztalatai szerint a lakhatási szegénység által érintett állampolgároknak mintegy egyharmadát teszi ki a cigányság aránya, kétharmadát pedig a társadalom összes többi tagjából kitevődő azon tömeg, amely egész egyszerűen képtelen kezelni azt a helyzetet, példának okáért az elhibázott devizahitelezési úgynevezett rendezés miatt, ami egy nemzetbiztonsági katasztrófa Magyarországon.”
+    <hi rend="bold">
+     Fekete-Győr András (Momentum):
+    </hi>
+    „Ez így van, nem szabad összemosni a kettőt, tehát ezzel teljes mértékben egyetértek.”
+   </p>
+   <p>
+    A Jobbik-közeli N1 TV KO című műsorában hangzott el a fenti beszélgetés (a videón 17:10-tő).
+   </p>
+   <p>
+    De még mielőtt elkezdenénk rasszistázni, nézzük meg, miről beszélhettek valójában a felek.
+   </p>
+   <p>
+    Z. Kárpát etnikai színben fest le egy problémát, amely nem etnikai kérdés. Valóban van különbség a lecsúszó középosztály és a szegénységben, mélyszegénységben élők lakhatási problémái között, de ez nem a cigányok és nem cigányok közötti különbségnek feletethető meg.
+   </p>
+   <p>
+    A lecsúszók potenciális szegények, és pont a lakhatás kérdése az, amiben ez leginkább át tud billenni. Ma több millióan élnek úgy Magyarországon, hogy hitelek, rezsitartozások miatt potenciálisan elveszíthetik a lakhatásukat. Emellett szintén milliók élnek úgy, hogy nincs pénzük egy esetleges hűtő, mosógép vagy drágább eszköz elromlásakor újat vásárolni. Illetve csak a nagyobb fogyasztású, és így nagyobb rezsit termelő eszközöket tudnak megvenni (legtipikusabb a villannyal melegítő hősugárzó, amellyel az olcsóbb gázfűtést kompenzálják, de óriási villanyszámlát kapnak).
+   </p>
+   <p>
+    Pár példa a lakhatási szegénységre
+   </p>
+   <p>
+    A magyarországi lakosok 41,1 százaléka, a szegények 62 százaléka él túlzsúfolt lakásban. 2015-ben körülbelül 91 ezer gyermek élt fürdőszoba, 92 600 gyermek élt WC nélküli lakásban, körülbelül 500 ezer gyermek élt beázó, vizes, potenciálisan egészségkárosító lakásban, és több mint egymillió gyermek él túlzsúfolt lakásban. A lakásállomány 70 százaléka energetikai felújításra szorul – derül ki a
+    Habitat for Humanity tanulmányból
+    .
+   </p>
+   <p>
+    És a lecsúszók mellett ott vannak a legszegényebbek, akik közül sokan dohos, beázott penészes, vagy WC, esetleg fürdőszoba nélküli lakásban, összezsúfolva élnek. Vagy a kilakoltatás vagy a lakás elvesztése után,  rokonoknál élnek, a komfort minden fokozata nélkül. Vagy már nem is lakásban, hanem az utcán, szállón, vagy olyan kunyhókban, amelyek össze sem vethetők egy lakással.
+   </p>
+   <p>
+    Nyilvánvalóan a két csoport gondjai nem ugyanazok, és másként kell kezelni őket (még ha egyébként van is átcsúszás a két csoport között). Az első, a lecsúszó csoport még menthető a teljes elszegényedéstől. Támogatással, lakásfelújítással, korszerűsítéssel, a hiteleik és tartozásaik elengedésével vagy átütemezésével, normális fizetéssel, munkával megoldhatók a problémáik.
+   </p>
+   <p>
+    Míg a második csoportnál, a szegényeknél, már célzott támogatások, nagy lökések kellenek ahhoz, hogy ki tudjanak evickélni ebből a helyzetből. És az elmúlt 27 évben leginkább azt láttuk, hogy lefelé vezet az út, a lecsúszókból a szegények felé, nem fölfelé.
+   </p>
+   <p>
+    De ez nem etnikai kérdés! Az elmúlt években számtalan kilakoltatáson vettem részt, számtalan szegény családdal találkoztam Budapesten és vidéken is. A magyarországi cigányságnál pont ez a lecsúszó státusz az, ami maximum elérhető volt, kemény munkával, a rossz oktatást, a borzasztó szociális hálót kikerülve, a legtöbbször igénybe venni se tudott egészségügyi rendszert túlélve jutottak a bizonytalan, de mégsem teljes szegénység státuszába. És pont a cigányságnak ezen rétege az, amely most leginkább visszacsúszik, a nem cigány középosztállyal együtt.
+   </p>
+   <p>
+    Nem igaz, hogy a devizahitelezés vagy a lecsúszás ne érintené a magyarországi cigányságot, és az is csak etnicista önáltatás, hogy a mélyszegénységben élők között ne lennének nem cigányok.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    Az kétségtelenül igaz, hogy a szegényebb csoportokban felülreprezentáltak a cigányok, de ez leginkább a többségi társadalom szégyene, amely 27 és még jónéhány év alatt se tudott valódi kitörési lehetőséget adni nem csupán a cigányságnak, hanem bármilyen lecsúszónak és szegénynek. Annak az államnak a szégyene, amely nem volt képes megfordítani a magyarországi elszegényedés folyamatát.
+   </p>
+   <p>
+    Nem a levegőbe kiáltott rasszizmus miatt veszélyes a valóban létező társadalmi tények etnicizálása, hanem a megoldás miatt. Mert egyszerűen, ha nem társadalmi tényekből levont, hanem etnikai sztereotípiákból következtetett megoldási javaslatok mentén próbáljuk kezelni a magyarországi szegények és lecsúszók helyzetét, akkor zsákutcába fogunk jutni. Nem a cigánysággal van gond, hanem a szegénységgel, nem a szegényeket kell legyőzni, hanem a szegénységet.
+   </p>
+   <p>
+    Majdnem biztos vagyok benne, hogy Fekete-Győr András csupán besétált Z. Kárpát Dániel etnikai csapdájába, és a társadalmi különbségekből fakadó megoldási javaslatok különbségére mondott volna igent, ha rutinosabb.
+   </p>
+   <p>
+    Cikkünk megírása után megkerestük a Momentumot is, hogy tisztázzák hogyan kell érteni Fekete-Győr András szavait. Válaszukat alább közöljük:
+    „András nem azért értett egyet azzal, hogy a kettőt nem szabad összemosni, mert a cigányság lakhatási nehézségeinek etnikai magyarázata lenne. Hanem mert a mélyszegénység összetettebb kérdés, mint az, hogy rengeteg ember a devizahitelek bedőlése miatt került hirtelen nehéz helyzetbe; és a városi lakhatási problémák is különböznek a falusitól.
+   </p>
+   <p>
+    Valóban szerencsétlen megfogalmazás volt, Z. Kárpát ugyanis talán burkoltan cigányozott a devizahiteles felvetés megfogalmazásakor.”
+   </p>
+   <p>
+    De ez úgy hangzott, mintha a cigányság rossz, mindenki más áldozat különbségtételre mondana igent. Márpedig, ha szegénységről és közös nemzeti jövőről beszélünk, erre nem mondhatunk igent, hanem a társadalmi különbségekből fakadó megoldási lehetőségekre kell igent mondanunk, a cigányozás legkisebb formáit is el kell utasítanunk. Hiszen a célunk nem lehet a cigányokat kizárni a közös jólétből, mindannyiunk érdeke az, hogy ők is részesüljenek ebből, hogy ők is dolgozhassanak, tanulhassanak. Fekete-Győr András ügyes játékos a politikai pályán, de még új játékos, akit könnyű egy ilyen csapdába belevinni, reméljük legközelebb ez már nem történik meg.
+   </p>
+   <p>
+    A Jobbik pedig bemutatta, hogy a cukiságkampány pont odáig tart, ameddig nincs lehetőség a társadalmi problémákat egy jó adag cigányozással elkenni. Mert akkor az etnikai kártyát fogják előhúzni rendületlenül.
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A kívánt gyermekek és a választás szabadsága
+    </title>
+    <author>
+     <persName>
+      Kováts Eszter
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3a473ca8-e3b8-5c74-9840-08764be93968
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A kívánt gyermekek és a választás szabadsága
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kováts Eszter
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-02-02T15:07:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/02/02/a-kivant-gyermekek-es-a-valasztas-szabadsaga/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/02/02/a-kivant-gyermekek-es-a-valasztas-szabadsaga/
+     </sch:url>
+     <sch:name>
+      A kívánt gyermekek és a választás szabadsága
+     </sch:name>
+     <sch:datePublished>
+      2019-02-02T15:07:00
+     </sch:datePublished>
+     <sch:author>
+      Kováts Eszter
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      neoliberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      család
+     </sch:keywords>
+     <sch:keywords>
+      abortusz
+     </sch:keywords>
+     <sch:keywords>
+      szülés
+     </sch:keywords>
+     <sch:keywords>
+      identitáspolitika
+     </sch:keywords>
+     <sch:keywords>
+      otthonszülés
+     </sch:keywords>
+     <sch:keywords>
+      termékenység
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3a473ca8-e3b8-5c74-9840-08764be93968">
+     <sch:identifier>
+      urn:uuid:6307c4b0-73de-4cce-8237-7128c8e66a67
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.789391
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:25:25.008205
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3a473ca8-e3b8-5c74-9840-08764be93968" when="2021-12-14T15:30:43.789391">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A kívánt gyermekek és a választás szabadsága
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     „Szülessenek meg a kívánt gyermekek!” – ez a magyar kormány egyik fő célkitűzése. A demográfiai válság megoldását a magyar nőktől várják, ezért is ígérte a miniszterelnök a választás után, hogy átfogó megállapodást akar kötni a magyar nőkkel. A kormányzat kritikusai „a választás szabadságának” követelésével érvelnek. Lássuk e megközelítés korlátait és alternatíváit!
+    </hi>
+   </p>
+   <p>
+    A Gregor Anikóval közösen írt,
+    <hi>
+     Nőügyek 2018
+    </hi>
+    címmel megjelent kutatásunk világossá tette többek között azt is, hogy a gyerekvállalás kormányzati ösztönzéséről az alacsonyabb társadalmi státuszú nők is értesültek. Az az üzenet is átment, hogy legalább három gyerek vállalása az ideális. Pontosan érzik az üzenet normatív jellegét, és tehernek élik meg, de többségük nem azt fogalmazta meg, hogy „szálljanak ki a méhünkből”, vagy hogy „kormányváltásig nem szülök”, hanem hogy „szeretnénk gyereket, de mire”. Feszültséget érzékelnek a propaganda és a praktikus segítség között:
+   </p>
+   <p rend="head">
+    érzékelik, hogy bátorítva vannak arra, hogy szüljenek, de a gyerekek megszületése után nem kapnak támogatást az államtól.
+   </p>
+   <p>
+    Támogatás nélkül maradnak – elsősorban az ellenérdekelt munkáltatóval szemben. Az anyagi juttatások közül a családi pótlék alacsony összege került elő rendszeresen. (
+    24. o.
+    )
+   </p>
+   <p>
+    Bár EU-s összehasonlításban
+    kiemelkedően sokat költünk
+    családpolitikára, az intézkedések
+    felfele osztanak
+    , elsősorban a családi adókedvezmények és a
+    CSOK
+    formájában, jelezve ezzel, hogy a „kívánt gyermekek” a kormány szempontjából azok, amelyek házas, foglalkoztatott és tehetősebb szülőkhöz születnek.
+   </p>
+   <p rend="head">
+    Mit tudunk?
+   </p>
+   <p>
+    November elején jelent meg a KSH Népesedéstudományi Kutatóintézet (NKI)
+    <hi>
+     Demográfiai portré 2018
+    </hi>
+    című kiadványa. Bár a kormányzat, ahogy azt annyi más területen, felállította a maga párhuzamos intézményét, a Kopp Mária Intézetet a Népesedésért és a Családokért (KINCS), a tudományos munka az NKI-ben nem szűnt meg szerencsére. Ez az
+    online is elérhető kötet
+    közérthető nyelven nyújt áttekintést a legfontosabb demográfiai folyamatokról: a gyerekvállalás mellett többek között a párkapcsolati formák változásairól, az idősödés, az elvándorlás kérdéseiről is.
+   </p>
+   <p>
+    Ennek a szövegnek
+    az eredeti változata az Új Egyenlőség oldalán jelent meg
+    .
+   </p>
+   <p>
+    Az Új Egyenlőség rendszeresen közöl olyan társadalom-, politika-, gazdaságelméleti írásokat, amelyek hasznos szempontokat, kereteket nyújtanak a közéleti gondolkodáshoz, vitákhoz. A lap öndefiníciója szerint „a gazdasági demokrácia alapértékeit – egyenlőség, szabadság, igazságosság és szolidaritás – képviseli”. A Mérce – az Új Egyenlőség szerkesztőivel egyeztetve, olykor szerkesztve – rendszeresen közli újra a magazin szövegeit.
+   </p>
+   <p>
+    Közismert, hogy a 2-t meghaladó értékűnek kellene lennie az egy nőre jutó teljes termékenységi arányszámnak ahhoz, hogy a népesség újratermelje magát. A kötetből kiderül, hogy ez a mutató 2011 és 2017 között 1,24-ről 1,5-re nőtt, ami jelentős emelkedés az azt megelőző évekhez képest, bár ez gyerekszámban nem jelent változást, lévén, hogy csökken a „hadra fogható”, szülőképes korú nők száma. Azonkívül, hogy nem tudjuk, hogy a született gyerekek körében mekkora a több százezer kivándorló (de gyerekét itthon is anyakönyvező) párnál születettek aránya, sok egyéb is árnyalja azt a képet, hogy a kormányzat büszkén magának és a családpolitikájának tulajdonítja a növekményt.
+   </p>
+   <p>
+    Az egyik, hogy
+    „nem azok szülnek, akiktől ezt várná a kormány”
+    : Kapitány Balázs és Spéder Zsolt tanulmánya kimutatja, hogy
+   </p>
+   <p rend="head">
+    a 15 és 19 évesek körében 25%-kal nőtt az időszakban a gyerekvállalás, és leginkább az alacsony iskolai végzettségűek körében.
+   </p>
+   <p>
+    A másik pedig, hogy a családszerkezetek is átalakulnak a növekvő termékenység közben. 2011 és 2017 között, miközben a kétgyerekesekből háromgyerekesekké válók aránya 27-ről 35%-ra nőtt, nőtt a gyerekteleneké is (8-ról 16%-ra), és csökkent a kétgyerekeseké (78-ról 67%-ra), vagyis azoké, akik az elsőt követően vállalják a másodikat. Ez rímel a
+    <hi>
+     Nőügyek 2018
+    </hi>
+    -kutatásunk eredményeire is, amelyből az is kiderült, hogy sokan az első gyerek megszületése után szembesülnek azzal, hogy
+   </p>
+   <p rend="head">
+    mennyire egyedül vannak hagyva ezzel a feladattal: anyagilag, partnerük által, és a munkáltatóval szemben.
+   </p>
+   <p>
+    A kormányzat nem számol sem azzal, hogy a gyerekhez apa is kell, sem azzal, hogy különböző intézkedéseivel egymásnak ellentétes üzeneteket küld (nagyvonalú családtámogatási ösztönzőket vezet be, de a terhes nők könnyebben elbocsáthatók, vagy vegyük csak a rabszolgatörvényt, ami ismét csak a gyerekes – és időst gondozó – családokat fogja a leginkább terhelni). A legfrissebb nemzeti konzultáció lezárulását és a kormányzati kommunikációt figyelve azonban nem lehet kétségünk afelől, hogy 2019 is a szülesztés éve lesz:
+    az egyénektől várják a rajtuk túlmutató problémák kezelését
+    . Rendszeresen elhangzik: nem kényszerítenek ők senkit, csak azt szeretnék, hogy azok, akik szeretnének, megtehessék, hogy vállalják is a kívánt gyermekeket. Most azon túl, hogy a kormányzat esetében egy plusz jelentésréteggel bővül a kérdés (nem minden magyar gyermek kívánt gyermek), honnan tudjuk, hogy mennyit kívánnak?
+   </p>
+   <p rend="head">
+    Kívánt gyermekek
+   </p>
+   <p>
+    A demográfusok különféle termékenységi mutatószámokat vizsgálnak. Az objektív mutatók mellett (például a ténylegesen megszületett gyerekek száma) vannak szubjektív jelzőszámok is, például a (saját családba) tervezett gyerekek száma. Ezt közvélemény-kutatások alkalmával kérdezik meg. A végül megszülető (tényleges) gyerekszám Magyarországon rendre alulmarad a tervezett („kívánt”) gyerekszámhoz képest. E különbséget a kutatók megmagyarázni, a növekvő népesedést kitűző politikusok pedig betömni igyekeznek. Mert lám, valami történt időközben, ezt a politikának orvosolnia kell. Ez részben bizonyosan igaz: például az, hogy kijjebb tolódik az első gyerek vállalásának kora, csökkenti a valószínűségét annak, hogy a vágyott, mondjuk harmadik vagy negyedik gyerek is megszülessen; vagy ha a munkáltatók nem tolerálják a gyereket, akkor az egy fizetésből megélni nem tudó családok nem mernek majd második vagy harmadik gyereket vállalni.
+   </p>
+   <p>
+    Az azonban ritkán merül fel, hogy a probléma nem ott jelentkezik, hogy „nem születnek meg a kívánt gyermekek”, hanem ott, hogy nem lehet e vélekedéseket (a tervezett gyerekszámot) készpénznek venni. Nem merül fel, ahogy azt
+    Adamik Mária már 1999-ben megfogalmazta
+    , hogy a kérdés maga normatív és befolyásolhatja a válaszadást. (Hiszen ki merné mondani ebben a klímában egy kérdezőbiztosnak, hogy nem tervez gyereket, vagy legfeljebb egyet?) És az sem merül fel kérdésként, hogy az ilyen vélekedések (a híres magyar családbarátság) mögött valójában mi áll: magyar kultúránk sajátossága? Vagy valami más? Vajon milyen értékek és kényszerek alakítják a vélekedéseket és választásokat?
+   </p>
+   <p>
+    A
+    <hi>
+     Nőügyek 2018
+    </hi>
+    , akárcsak több korábbi kutatás is kimutatta, hogy sok párt a lakhatási válság és a szegénység elleni védekezés tart össze. Ahogy az is, hogy a család nem pusztán a legfontosabb értékek egyike lehet, hanem következmény is:
+   </p>
+   <p rend="head">
+    annyira meglazult az utóbbi évtizedekben a társadalmunk hálója, annyira nem számíthatnak a párok a szűk családon kívül semmilyen közösségre, hogy a család emiatt értékelődik fel.
+   </p>
+   <p>
+    Az egyéneken túlmutató struktúrák vizsgálata közben nem szabad figyelmen kívül hagyni az emberek vélekedéseit, azt mondván, hogy „az emberek nem tudják, mi a jó nekik”. Jól tesszük, ha komolyan vesszük, mit gondolnak és éreznek az érintettek. Ebből azonban nem következik, hogy a társadalom pusztán egyének összege lenne, és módszertani individualizmussal, például attitűdök lekérdezésével egyúttal a társadalmi valóság is teljesen megismerhető volna. Vélekedéseink is társadalmi kontextusban jönnek létre, ezért természetesen elemezhetők is, ám eközben mögéjük is kell látnunk. Mindezt anélkül, természetesen, hogy aki valamit vélelmez (mondjuk, hogy a család az jó dolog, vagy hogy három gyereket szeretne), azt leereszkedően „hamis tudattal” vádolnánk, vagyis azzal, hogy vak a saját elnyomott mivoltára.
+   </p>
+   <p rend="head">
+    Mi vélekedéseink és választásaink társadalmi kontextusa?
+   </p>
+   <p>
+    Ez a kérdés természetesen nem csak a gyerekvállalás és nem csak a „kívánt gyermekek” vonatkozásában merül fel. Ha valaki úgy dönt, hogy nem akar gyereket, vagy otthonszülést akar, vagy programozott császármetszést szeretne, abortuszra menne, vagy épp nemet akar váltani – elemezhető-e a döntése tágabb társadalmi kontextusban, vagy a döntését nem lehet vizsgálni, mert az a megkérdőjelezéssel egyenlő? Egyáltalán, mi közük van e felsoroltaknak egymáshoz?
+   </p>
+   <p>
+    Ahogy sokan kifejtették, például
+    Gregor Anikó és Weronika Grzebalska Kelet-Közép-Európa vonatkozásában
+    is, körülvesz minket egy globális gazdasági rend, nevezzük neoliberalizmusnak, amely deregulációt, privatizációt, alacsony adókat és a tőkének a nemzetállamok feletti növekvő uralmát foglalja magában, másrészt egy elitista-technokrata politikai-ideológiai rend is a gazdasági elitek szolgálatában. De mindezeken felül a kelet-közép-európai térség félperifériás visszatagozódása a rendszerváltás után a neoliberális szabályok szerint történő kapitalista világgazdaságba kitermelt és magával hozott egy értékrendet is:
+   </p>
+   <p rend="head">
+    a fékevesztett individualizmus értékrendjét, amely nemcsak, hogy meggyengíti a szolidaritást és az egyéni kiteljesedés mindenek felettiségét propagálja, de a felelősséget is kizárólag egyéni szinten határozza meg.
+   </p>
+   <p>
+    „Mindenki a maga szerencséjének a kovácsa”,
+    „minden fejben dől el”
+    , hangzik a mantra, amit
+    az önsegítő könyvek mellett a főáramú pszichológia is
+    sulykol.
+   </p>
+   <p>
+    Shelley Budgeon az egyén szerepének túlburjánzását
+    elemzi
+    a feminizmusban. Annak próbál a mélyére ásni, hogy az olyan, egykor emancipatív erővel bíró szavak, mint a női autonómia, az önrendelkezés vagy a választás szabadsága, hogyan üresedtek ki és váltak egy, ezt éppen aláásó ideológia, a neoliberalizmus szolgálólányaivá. Az eredmény például az, hogy ha egy nő az uralkodó szépségideálnak megfelelően szeretne kinézni, és ezért nem sajnál pénzt és energiát, akkor ez a női autonómia aktusa volna, amit senkinek nincs joga bírálni; ha egy nő szereti, hogy partnere megalázza szex közben: az az ő választása, ne szóljunk bele; ha háziasszonyként vagy szexmunkásként szeretne kiteljesedni: kik vagyunk mi, hogy ítéletet hozzunk egy nő döntéséről?
+   </p>
+   <p>
+    Budgeon – helyesen – élesen bírálja ezt a megközelítést. Bírálja azt a felfogást, hogy pusztán azért, mert nők az adott szocializációjukban és a rendelkezésükre álló alternatívák és nyomások között ezt vagy azt választják, így onnantól – autonómiájuk tiszteletben tartásaként – nem lehetne az adott jelenséget, társadalmi gyakorlatot elemezni, vagy adott esetben bírálni.
+   </p>
+   <p rend="head">
+    Három virulens példa
+   </p>
+   <p>
+    Magyarországon is terjed az a nézet, hogy a prostitúció intézményének kritikája a szexmunkások stigmatizációját jelentené: ne stigmatizáljunk, hiszen a szexmunka ugyanolyan típusú kereső tevékenység, mint a cérnagyári munka, ne ítélkezzünk a nők felett, akik ezt a kereseti formát választják – mondjuk, éhenhalás vagy három műszakos, minimálbérrel járó gyári munka helyett. Ez a vita egyrészt eltereli a figyelmet arról, hogy magyar lányok tömegeit adják el azokba az országokba, ahol a legalizáció nyomán megnövekedett keresletet a „legális” prostituáltak nem tudják kielégíteni. Másrészt azok esetében sem beszélhetünk szabad választásról, akik az ország strukturálisan szegény régióiban más lehetőséget nem találnak maguk vagy családjuk eltartására, vagy ahol a másik opció annyira megalázó munkakörülményeket és kilátástalanságot jelent, hogy egy patriarchális társadalomban ennek a „munkának” a „választása” még a jobbik út.
+   </p>
+   <p rend="head">
+    Ezért téves és káros a prostitúció létezését a nők választásaiból levezetni a nők kiszolgáltatottságát kihasználó növekvő globális szexkereskedelem, valamint a férfiak ún. szexhez való jogán alapuló kereslet helyett.
+   </p>
+   <p>
+    Az abortuszhoz való jogról szóló diskurzus is leggyakrabban a szabad választás kérdésére korlátozódik, pedig, ahogy Elena Zacharenko
+    fogalmaz
+    , egy kívánt terhességet megszakítani anyagi kényszerekből nem szabadabb választás, mint kihordani egy nem kívánt terhességet a korlátozó törvényi környezet miatt. Ezekben az esetekben sem a morális ítélkezés, sem a szabad választás sulykolása nem segít. Természetesen az, ahogyan a megfogant magzatokra gondolunk (mikortól tekintjük őket élőnek), kulturálisan is meghatározott, de sok esetben a nőknek nem az
+    <hi>
+     abortusz jogára
+    </hi>
+    lenne szükségük, hanem arra a biztonsági hálóra, amely megtartja őket ebben az esetben: ha lelép a partner, vagy ha ott van, de együtt (még nagyobb) szegénység várna rájuk egy (újabb) gyerekkel.
+   </p>
+   <p>
+    A nemünk szabad megválasztása is a „választás szabadsága” diskurzus elburjánzásához és neoliberális eltérítéséhez köthető.
+    Amikor
+    a jobboldal a gender fogalmát támadja
+    , sok országban ezzel is összeköti:
+   </p>
+   <p>
+    „Ezek a gőgös követelések a radikális neoliberalizmus individualista antropológiájában termékeny talajra találtak”, hangzik el egy jobboldali ideológustól, Jutta Burggrafftól.
+   </p>
+   <p>
+    A „genderideológia” ellen szerveződő transznacionális mozgalom ideológusai a társadalmi nemnek olyan értelmet tulajdonítanak, ami szerint az nem kötődik a természethez és a biológiai nemhez, az ember mindenről maga dönthet. Ez az oka annak, hogy direkt kapcsolatot feltételeznek a gender és az individualizmus, illetve a neoliberalizmus között. Ez nem légből kapott vádaskodás, ez az értelmezés
+    létezik
+    .
+   </p>
+   <p>
+    Ezért lehet az, hogy az ehhez hasonló összekapcsolásra baloldali és feminista gondolkodók is rámutattak, különösen az angolszász országokban, amelyekben a transz/queer identitáspolitika meghatározó eleme a feminista és az LMBTQ aktivizmusnak.
+   </p>
+   <p rend="head">
+    A baloldali feminista kritika szerint az identitáspolitikai megközelítés az emancipációs mozgalmakat elismerések és egyéni morális kérdések terepévé változtatja, és a neoliberalizmus logikájának megfelelően a rendszerszintű problémák kollektív kezelése helyett az egyéni stratégiák kialakítását hirdeti.
+   </p>
+   <p>
+    (Lásd például
+    itt
+    ,
+    itt
+    ,
+    itt
+    és
+    itt
+    .) A transz- és a queerpolitika nem a szűken körbehatárolt nemi szerepek ellen küzd, ami nők és férfiak életére egyaránt korlátozó hatással van, hanem azt sugallja, hogy aki nem felel meg a társadalom által elvárt férfi- vagy nőképnek, az valójában nem is abba a nembe tartozik. Tehát nem a rendszer megváltoztatására törekszik, hanem a kategóriák közti ugrást és új kategóriák létrehozását javasolja.
+   </p>
+   <p>
+    Miközben szenvedek ebben a testben a nememmel kapcsolatos sokféle elvárással szemben, de beláthatatlannak tűnik, hogy befolyást gyakoroljak arra, hogy a nemi szerepek és elvárások megváltozzanak, ebben a helyzetben könnyen lehet, hogy attól várom, hogy jobban vagy szabadabbnak érezzem magam, ha azt mondom: „ja, én akkor nem is vagyok nő” vagy „ilyen is vagyok, meg olyan is.” Nagyon szűk az elvárásrendszer azzal kapcsolatban, hogy hogyan kell nőnek vagy férfinak lenni. És ha e sztereotip képnek valaki nem tud vagy nem akar megfelelni, akkor arra juthat, hogy ő nem is nő, hanem mondjuk férfi – vagy egyik se. Tehát e narratíva rendszerkonform keretet ad e kérdések kezelésére.
+   </p>
+   <p rend="head">
+    Amikor szembesülünk e társadalmi nyomással és a belőle fakadó dilemmákkal, akkor a mai kulturális közegben kézenfekvőnek tűnő tanácsnak hathat a problémákkal küzdő egyén számára, hogy „oldd meg, emancipáld magad, identifikálj ki a női-férfi kategóriából át a másikba vagy valami nem binárisba”.
+   </p>
+   <p rend="head">
+    Az intézményrendszer kudarcai és a kivonulás luxusa
+   </p>
+   <p>
+    A választás szabadsága azonban nem csak ezekkel az extrém és átpolitizált-átpolarizált esetekkel kapcsolatban fedi el a lényegi kérdéseket. Gyakran az intézményrendszerben való – jogos – bizalmatlanság szabadságként jelenik meg,, és ez tabusítja a probléma megnevezését.
+   </p>
+   <p>
+    Magyarországon igen elterjedt gyakorlat a szülészeti erőszak, többek között a megalázó, nők testi integritását áthágó kórházi szülési körülmények – tudjuk ezt az országszerte szerveződő
+    <hi>
+     Másállapotot a szülészetben!
+    </hi>
+    mozgalomhoz beérkező történetek ezreiből is. Sokan azért választják az otthonszülést, mert menekülnek ebből a rendszerből, mint ahogyan sokan nem kényelemből, hanem azért választják a programozott császármetszést, mert a terhesség során elvették az önbizalmukat az egészségügyi rendszerben azt illetően, hogy maguk meg tudják-e szülni a gyereküket. Egyre többen otthon akarják taníttatni a gyereküket, vagy éppen számtalan különórára járatják. Ki-ki válassza, amit szeretne, ő joga, ne szóljunk bele? Igen, de érdemes feltennünk a kérdést:
+   </p>
+   <p rend="head">
+    Miért választják ezt? És ez milyen következményekkel jár?
+   </p>
+   <p>
+    Fáber Ágoston Hirschman kivonulás-fogalmával
+    ragadja meg
+    ezt a jelenséget, a magánóvodák példáján.
+   </p>
+   <p>
+    Azzal, hogy akinek van pénze, kivonul, akinek nincs, bent marad az állami rendszerben, az a vegyes rendszer (állami és piaci) a későbbi társadalmi szolidaritás bázisát ássa alá.
+   </p>
+   <p>
+    „A másik baj – írja Fáber Ágoston –, hogy az állami szolgáltatással szemben megjelenő piaci versenytárs éppen azokat a cselekvőket „szívja el” az állami rendszerből, akik a körülmények romlásával szemben a leghangosabban és feltehetőleg a leghatékonyabban tudnának tiltakozni, akik erőforrásaik, kapcsolataik, kulturális tőkéjük stb. segítségével felhívhatnák a szolgáltatást nyújtó intézmény vezetésének figyelmét arra, hogy valami nincs rendben, és beavatkozást, esetleg többletforrás bevonását sürgetnék.”
+   </p>
+   <p rend="head">
+    Valódi választások felé
+   </p>
+   <p>
+    Szabadság és elnyomás hamis szembeállítása kisiklatja a vitát valós és mély kérdésekről. Ha csak arról beszélünk, hogy „mindenki hadd döntse el maga, szeretne-e gyereket, és ha igen, hányat”, azzal lemondunk döntéseink társadalmi kontextusának vizsgálatáról. Beszéljünk tehát akár a „kívánt gyermekek” megszületéséről, akár a tizenéves aluliskolázott lányok körében megugrott termékenység társadalmi okairól, akár a tudatos gyerektelenséget propagáló „Gyerekmentes övezet” projektjéről, elsődleges feladatunk: megvizsgálni a választások kontextusát.
+   </p>
+   <p rend="head">
+    Vessük fel: ki miért kíván, ki miért nem kíván gyereket? Milyen kényszerek alakítják választásainkat, esélyeinket, valóságértelmezéseinket és mozgásterünket?
+   </p>
+   <p>
+    A választásaink társadalmi kontextusáról folyó vitákban nem úszható meg, hogy ne sérüljenek emberek érzései, hogy ne legyenek, akik ezt támadásként, ítélkezésként, gyűlölködésként vagy életmódjuk, döntéseik megkérdőjelezéseként tekintenek erre.
+   </p>
+   <p>
+    De e viták lefolytatása az ára annak, hogy majdan a választások valódi alternatívák közötti valódi választások lehessenek, a lehető legtöbb nőnek és férfinak.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Nemzetközi kampány indult azért, hogy tisztább legyen a nagyvárosok levegője, mint a járvány előtt
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6c54406f-e3f5-5f01-ab42-d8651f014695
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Nemzetközi kampány indult azért, hogy tisztább legyen a nagyvárosok levegője, mint a járvány előtt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-05-04T11:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/05/04/nemzetkozi-kampany-indult-azert-hogy-tisztabb-legyen-a-nagyvarosok-levegoje-mint-a-jarvany-elott/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/05/04/nemzetkozi-kampany-indult-azert-hogy-tisztabb-legyen-a-nagyvarosok-levegoje-mint-a-jarvany-elott/
+     </sch:url>
+     <sch:name>
+      Nemzetközi kampány indult azért, hogy tisztább legyen a nagyvárosok levegője, mint a járvány előtt
+     </sch:name>
+     <sch:datePublished>
+      2021-05-04T11:20:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      klímavédelem
+     </sch:keywords>
+     <sch:keywords>
+      szén-dioxid-kibocsátás
+     </sch:keywords>
+     <sch:keywords>
+      szmog
+     </sch:keywords>
+     <sch:keywords>
+      levegő
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6c54406f-e3f5-5f01-ab42-d8651f014695">
+     <sch:identifier>
+      urn:uuid:0dc789e3-0327-4b94-b049-53b3609d30c2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.336178
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:46:50.328355
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6c54406f-e3f5-5f01-ab42-d8651f014695" when="2021-12-14T15:30:59.336178">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Nemzetközi kampány indult azért, hogy tisztább legyen a nagyvárosok levegője, mint a járvány előtt
+   </head>
+   <p>
+    Clean Cities (Tiszta városok) néven
+    nemzetközi kampány
+    indult kedden annak érdekében, hogy a járvány idején a közlekedés intenzitásának visszaesésével valamelyest mérséklődő légszennyezés időszaka után ne a COVID-éra előtti szmogos nagyvárosokat kapják vissza az emberek, hanem új irányt vegyen nagyvárosi környezetpolitika, és élhetőbb, tisztább városokban élhessen a lakosság.
+   </p>
+   <p rend="head">
+    A különböző európai környezet- és egészségvédelmi civil szervezetek szövetségéből induló kampány kimondott célja, hogy a városokat arra ösztönözze, hogy 2030-ig állítsák át közlekedésüket nettó nulla szén-dioxid kibocsátásúra, azaz fokozatosan vonják ki tíz éven belül a szennyező működésű járműveiket.
+   </p>
+   <p>
+    A kampány indításához induláshoz 15 európai városban, köztük Budapesten is készült egy több mint 500 fős, reprezentatív felmérés 2021 márciusában a YouGov közvéleménykutató jóvoltából azzal kapcsolatban, hogy mit várnak el fővárosiak a városvezetéstől a környezetvédelem terén, illetve milyen intézkedéseket támogatnának.
+   </p>
+   <p>
+    Budapest, 2020. január 10. Óbudai panelház a Táborhegyi út felõl 2020. január 10-én. Elrendelte a szmogriadó tájékoztatási fokozatát Budapesten Karácsony Gergely fõpolgármester, miután a szálló por légszennyezettségi szintje január 8-án és 9-én is három mérõponton meghaladta a tájékoztatási küszöbértéket. MTI/Szigetváry Zsolt
+   </p>
+   <p>
+    A budapestiek például elsöprő arányban szeretnének több zöld területet látni a városban (90 százalék), és többet várnak a városvezetéstől egyebek között a légszennyezettség 
+csökkentése és a gyalogos közlekedés népszerűsítése vonatkozásában.
+   </p>
+   <p>
+    Néhány adat a magyar főváros lakosainak a városvezetéssel szemben támasztott elvárásairól:
+   </p>
+   <list>
+    <item>
+     76 % több intézkedést vár a légszennyezettség csökkentése terén, 
+ugyanennyien várnak többet a gyerekek légszennyezéstől való védelme 
+vonatkozásában
+    </item>
+    <item>
+     65 % várja, hogy a városvezetők többet tegyenek a gyalogos közlekedés 
+népszerűsítése érdekében
+    </item>
+    <item>
+     79 % vár intézkedést a több zöldterület érdekében
+    </item>
+   </list>
+   <p>
+    A budapesti helyzetet fokozza, hogy az
+    ingyenes parkolás
+    intézményét a tavaly tavaszi karanténidőszakot követően 2020. november 4-től ismét bevezette, és jelenleg is érvényben van. A főváros belső kerületei azóta is telítettek, sok helyen a mai napig óriási a káosz a parkolás miatt.
+   </p>
+   <p>
+    A kutatás kitért arra is, hogy a Covid-19 járvány mennyiben befolyásolta a városok levegőjével és élhetőségével kapcsolatos véleményeket. A budapestieknek mindössze 15 százaléka mondta azt, hogy sem maga nem volt érintett, sem pedig ismeretségi körében nem tud érintettekről, a nagy többségnek vagy a közeli családi/baráti körében, és/vagy a szélesebb ismeretségi körében voltak fertőzöttek, miközben a válaszadók tíz százaléka volt maga is fertőzött. A kutatás eredményeiből az is leszűrhető, hogy a Covid-érintettek körében némileg magasabb egyes, a város zöldítését célzó intézkedések támogatása (pl. több zöld területet a Covid-érintettek 94%, míg a nem érintettek 83 százaléka támogat.)
+   </p>
+   <p>
+    Budapest, 2020. január 10. Jármûvek haladnak az óbudai Vörösvári úton 2020. január 10-én. Elrendelte a szmogriadó tájékoztatási fokozatát Budapesten Karácsony Gergely fõpolgármester, miután a szálló por légszennyezettségi szintje január 8-án és 9-én is három mérõponton meghaladta a tájékoztatási küszöbértéket. MTI/Szigetváry Zsolt
+   </p>
+   <p>
+    A Tiszta városok kampány vezetője, Barbara Stoll szerint
+   </p>
+   <p>
+    „Az embereknek elegük van a szennyezett levegőből, és azt várják a polgármesterektől, hogy az embereket és ne a kocsikat részesítsék előnyben. A döntéshozók számára a közvélemény kellene legyen irányadó a városok élhetőbbé és fenntarthatóvá tételében”.
+   </p>
+   <p>
+    A felmérésből kiderül még az is, hogy a budapestiek 72 százaléka támogatja, hogy 2030 után ne lehessen az EU-ban belső égésű motorral szerelt autókat forgalomba helyezni, 68 százalékuk pedig egyetért azzal, hogy 2030-tól csak nulla-kibocsátású autók hajthassanak be a városba, ezzel mindkét intézkedés mellett az európai átlagnál (63 illetve 59 százalék) nagyobb többséggel álltak ki.
+    A felmérésben résztvevő városok Budapest mellett: London, Birmingham, Madrid, Barcelona, Milánó, Róma, Hamburg, Berlin, Párizs, Lyon, Brüsszel, Antwerpen, Varsó, Krakkó. A budapesti minta 502 fő volt, a 18 éven felüli budapesten élőket online kérdezték, március 3 és 11-e között, az adatokat súlyozták, hogy reprezetatívak legyenek a teljes budapesti felnőtt lakosságra. A részletes adatok elérhetőek keddtől
+    ezen a linken.
+   </p>
+  </body>
+ </text>
+</TEI>

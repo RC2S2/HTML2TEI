@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kitörni a minket körbevevő sötétségből
+    </title>
+    <author>
+     <persName>
+      Hídvégi-B. Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e573e75e-2af8-5747-b3f1-a638986ea2d6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kitörni a minket körbevevő sötétségből
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Hídvégi-B. Attila
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-03-02T21:40:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/03/02/kitorni-a-minket-korbevevo-sotetsegbol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/03/02/kitorni-a-minket-korbevevo-sotetsegbol/
+     </sch:url>
+     <sch:name>
+      Kitörni a minket körbevevő sötétségből
+     </sch:name>
+     <sch:datePublished>
+      2019-03-02T21:40:00
+     </sch:datePublished>
+     <sch:author>
+      Hídvégi-B. Attila
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      rasszizmus
+     </sch:keywords>
+     <sch:keywords>
+      Tatárszentgyörgy
+     </sch:keywords>
+     <sch:keywords>
+      rasszista sorozatgyilkosság
+     </sch:keywords>
+     <sch:keywords>
+      romák elleni sorozatgyilkosság
+     </sch:keywords>
+     <sch:keywords>
+      Nagycsécse
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e573e75e-2af8-5747-b3f1-a638986ea2d6">
+     <sch:identifier>
+      urn:uuid:00f88400-4a21-457b-a6e0-ef1a1c524c4d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:33.486051
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:28:57.434882
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e573e75e-2af8-5747-b3f1-a638986ea2d6" when="2021-12-14T15:30:33.486051">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kitörni a minket körbevevő sötétségből
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    2007. december 9.
+   </p>
+   <p>
+    Ezen a napon árpádsávos zászlók alatt, katonai alakzatba rendeződve hadrendbe állt és megkezdte menetelését a cigányokkal szembeni gyűlölet. A fényesre pucolt sok száz fekete bakancs csattogása messze visszhangzott a csendes, Pest megyei településen. A katonai vezényszavakra mozgó fekete és barna egyenruhások büszkén meneteltek Tatárszentgyörgy főterére, mert szárnyat bontott a kirekesztő retorika. A cigánysággal szembeni gyűlöletre építő politikai PR, a hét évtizedes távlatot visszaidéző ocsmány beszéd pedig beszivárgott mindenhova. Az ellenségeskedésre, a bűnbakképzésre épülő pártpolitika megerősödött, és a kéretlen új hadsereg állami feladatok kisajátítására törekedett.
+   </p>
+   <p>
+    2007. december 9-én valami elkezdődött.
+   </p>
+   <p>
+    Egy füstös debreceni kocsma mélyén megfogalmazódott, hogy a fegyver nélküli, fekete ruhás katonai alakulat alkalmatlan arra, hogy megdöntsön egy kormányt, felforgasson egy demokratikus társadalmat. Mert a politikailag is megosztott közegben egy-két évvel korábban még zavargások, tömegoszlatások hatására sem történt komolyabb incidens. Az volt a meggyőződésük, a cigányokkal kapcsolatos helyzet kezelésére országunkban polgárháborút kell kirobbantani, hatalmas lyukat kell ütni a társadalmon. De elsőként emberek testén. Az aljas gyűlölet kiteljesedéséhez pedig csak úgy vezethet út, ha vétlen, ártatlan emberéleteket veszélyeztetnek vagy oltanak ki. A szavak tettekre váltásához pedig eszközök kellettek: nagy tűzerejű, halálos sebet ejtő gyilkos szerszámok: fegyverek.
+   </p>
+   <p>
+    A tatárszentgyörgyi menetelés után három hónappal, 2008. március 7-re virradóra, Besenyszögön rátörtek egy hivatásos vadász otthonára. Az álmukból felriadt gyermekeket megkötözték, és a családfőt arra kényszerítették, adja át a korábban eladásra meghirdetett vadászfegyvereit. Összesen hét vadászpuskát vittek magukkal. A fegyverrablás után lőgyakorlatokat tartottak, és katonai pontossággal tervezték akciójukat.
+   </p>
+   <p>
+    Újabb három hónappal később, 2008. június 2-ára virradóra az egyik vadászpuskával kétszer rálőttek a debreceni menekülttábor egyik ablakára. Arra a szobára, amelyben egy szerb-montenegrói állampolgárságú, roma házaspár lakott. Mivel sérülés nem történt, újabb akciót szerveztek.
+   </p>
+   <p>
+    Másfél hónappal később, 2008. július 21-re virradóra Galgagyörkön támadtak romák házaira. Azért szemelték ki az első támadásuknak a Pest megyei falut, mert a fekete ruhás hadsereg tagjai, a média feltupírozott propagandájának segítségével egy egyszerű szerelemféltési ügyet nagy horderejű etnikai konfliktusnak állítottak be. Ez pedig a magukat igazságosztónak tartó debreceniek szerint vért kívánt. Sörétes puskával lőttek az ablakokra. Csak a szerencsének köszönhető, hogy a támadás nem járt áldozatokkal.
+   </p>
+   <p>
+    Mivel a támadás nem hozta a várt médiavisszhangot, három héttel később, 2008. augusztus 8-án már 250 kilométerrel távolabb, Piricsén támadtak két rossz állapotú vályogházra. Molotov-koktélokat dobtak az épültre, majd a zaj miatt az ajtón kilépő idős asszonyra, Getyinás Magdolnára sörétes puskával rálőttek. Az asszony a bal lábán maradandó sérülést szenvedett.
+   </p>
+   <p>
+    Alig egy hónappal később, 2008. szeptember 5-re virradóra Nyíradony-Tamásipusztán egy szintén vályogházban élő családra támadtak. Hét kisgyermek és négy felnőtt aludt a pici házban, de a vadászpuskából leadott, az ablakon behatoló két lövés emberi sérülést nem okozott.
+   </p>
+   <p>
+    Még ugyanebben a hónapban, 2008. szeptember 29-én Tarnabodon Molotov-koktélokkal és vadászfegyverekkel támadtak a Tarna utcai házakra. Eltévesztették a célt, mert a nem romák által lakott utcára támadtak. Sérülést szerencsére itt sem okoztak.
+   </p>
+   <p>
+    A félresikerült akció után másnap kommandósok rajtaütöttek a helyi cigányságon. Németh Renátót, Pusoma Jánost és Szabó Adorjánt több emberen elkövetett emberölés kísérletének gyanújával őrizetbe vették. Egy tanúvallomás alapján azt feltételezték, a három roma fiatal lövöldözött.
+   </p>
+   <p>
+    Alig egy hónappal később, a három roma fiatal 30 napos előzetes letartóztatásának meghosszabbítása után, a debreceni bűnbanda már kifejezett ölési szándékkal érkezett Nagycsécsre. A Dózsa utca két utolsó házára 2008. november 3-ára virradóra támadtak Molotov-koktélokkal és sörétes fegyverekkel. A már lángoló házban, a redőnyön keresztül leadott lövések következtében a 40 éves Nagy Tiborné és sógora, a 43 éves Nagy József azonnal meghalt. A rendőrség úgy vélte, akár a tarnabodi roma fiatalok családtagjai is elkövethették a támadást, hogy igy próbálják menteni az előzetes letartóztatásban lévő családtagjaikat.
+   </p>
+   <p>
+    Másfél hónappal később, 2008. december 15-én, karácsony előtt a 19 éves Rontó Krisztiánra lőttek rá, aki éppen fát vágott a szürkületben házuk teraszán. A vadászpuskából leadott lövedék áthatolt a medencecsontján, roncsolta a végbelét, a húgyhólyagot és az ütőeret. Csak a gyors orvosi beavatkozásnak köszönhető, hogy életben maradt.
+   </p>
+   <p rend="head">
+    Két hónappal később Tatárszentgyörgyön, pontosan tíz évvel ezelőtt, amiért ma itt vagyunk, 2009. február 23-án kevéssel éjfél után a Fenyves soron lévő utolsó ház padlására és az egyik szoba ablakára dobtak Molotov-koktélokat, majd a tűz elől menekülő emberekre közvetlen közelről, célzott lövéseket adtak le. A támadók a vértócsában fekvő áldozataikat hátrahagyták.
+   </p>
+   <p>
+    A 27 éves Csorba Róbertet, aki karjában fogta Robika nevű kisfiát, legalább két lövés érte. A sörétes fegyverből leadott lövések 27 rendbeli sérülést okoztak a testén. A sörétszemek áthatoltak a végtagokon, a mellkason, a hasfalon, a mellüregen, a szívburkon, a szív balkamráján, a tüdő alsólebenyén. A sörétszemek roncsolták a májat, a gyomrot, valamit a mellkasi főverőeret is.
+   </p>
+   <p>
+    Az ötéves Csorba Robika testén az őt ért legalább két lövésből származó sörétszemek 42 rendbeli sérülést okoztak. Az apró lövedékek az agy, az agykoponya, a mellkas és a has, valamint mindkét felsővégtagon okoztak sérüléseket.  A sörétszemek azon áthatolva roncsolták az agyat, a szívburkot, a szív balkamarájának falát, a mellkas főverőerét, a jobb tüdőt és a májat.
+   </p>
+   <p>
+    Csorba Róbert és kisfia olyan mértékű sérülést szenvedtek, hogy életüket az azonnali orvosi szaksegítséggel sem lehetett volna megmenteni. Haláluk néhány perc alatt a vérveszteség következtében beállt. A helyszínre kiérkezett örkényi mentősök a sérülések ellenére az elsődleges halál okaként füstmérgezést állapítottak meg. A sérülésekre pedig azt valószínűsítették, hogy azokat a tetőről lehullott gerendákból kiálló szögek okozhatták. A tűz okát a tűzvizsgálók pedig elektromos zárlatnak vélték. Közel 14 óra elteltével lett világos és egyértelmű a hatóságok számára, hogy Csorba Róbert és ötéves kisfia halálát életfontosságú szervek többszörös lövés okozta sérülései okozták.
+   </p>
+   <p>
+    2009. április 22-én este fél 10 körül az éjjeli műszakba indult 54 éves Kóka Jenőt házuk udvarán egyetlen lövéssel szíven lőtték. Halála azonnal bekövetkezett.
+   </p>
+   <p>
+    A roma holokauszt emléknapjának éjjelén, 2009. augusztus 3-ra virradóra vérbe fagyva találnak rá a 45 éves Balogh Máriára. Az akkor 13 éves Tímea nevű lánya csaknem 5 órán át feküdt a ház padlóján saját vérében. Az ágyában alvó édesanyára két sörétes fegyverből összesen öt lövést adtak le, az asszony azonnal meghalt. A lány testébe mintegy 150 sörétszem fúródott, roncsolva a nyakát, arcát, koponyáját, mellkasát és felsőkarját. Ha aznap hajnalban édesanyjának nem kellett volna napszámba a közeli földeken dohányt törni, a reggeli órákra a vérveszteség következtében ő is életét veszíti.
+   </p>
+   <p>
+    2009. augusztus 21-ére virradóra a debreceni Perényi 1 nevű szórakozóhelyen elfogták az elkövetőket. Bár a nyomozás során egyértelművé vált, hogy sorozatbűncselekményről van szó, és az elsődleges indíték a rasszizmus lehet, a 17 és 20 év közötti tarnabodi három roma fiatal 11 hónapon keresztül ült előzetes letartóztatásban, és csak az elkövetők elfogása után engedték el őket.
+   </p>
+   <p rend="head">
+    Soha senki nem kért tőlük bocsánatot, a bíróság a kártérítési perben is az általuk kért összeg töredékét ítélte meg azzal az indokkal, a családjukban már úgyis megszokták a börtönt, és a fogva tartás nem okozott számukra nagyobb traumát.
+   </p>
+   <p>
+    Tisztelt emlékezők!
+   </p>
+   <p>
+    A cigányellenes terrorhullám egyes eseményeit azért elevenítettem fel ilyen részletességgel, mert 10 év távlatából halványulnak az emlékek, fontos momentumok kerülhetnek a feledés homályába. Mert semmi és senki nincs, aki megőrizte volna a napok eseményeit, a teljes folyamatot az utókornak. Talán az általam működtetett RomNet hírportál az egyetlen, amely bárki számára ma is elérhetővé tette az akkor született hírek jó részét. Pedig minderre emlékezni kell!
+   </p>
+   <p rend="head">
+    Mert Tatárszentgyörgy tragédiája, a cigányok elleni gyűlölethadjárat, a népirtó szándék fontos történelmi esemény volt nemcsak a cigányság, hanem egész Magyarország és egész Európa történelmében.
+   </p>
+   <p>
+    Fel kell dolgoznunk ezt az eseményt, traumaként kell megélnünk, hogy mindezekből tanulva időben gátat szabhassunk a gyűlöletnek. Hogy ne lehessenek követői a testükön náci jelképeket viselő gyilkosoknak.
+   </p>
+   <p>
+    Azzal, hogy a bíróság jogerősen tényleges életfogytiglani fegyházbüntetésre ítélte a gyilkosokat, és Kiss Árpád Sándor, a testvére, Kiss István Zoltán, és Pető Zsolt soha nem szabadulhat, nem nyugodhatunk meg. Három év múlva, 2022-ben szabadlábra kerül a bűnbanda negyedik tagja, Csontos István, kitöltve a 13 éves fegyházbüntetését.
+   </p>
+   <p>
+    Nem nyugodhatunk meg, mert ma sem tudjuk, kik voltak az ötletadók, kik pénzelték a támadókat, és kik voltak azok az emberek, akiket a bűnszervezet negyedik tagja, Csontos István többször úgy emlegetett a bírósági tárgyaláson, hogy Kiss Árpádék mögött állnak. Ha a 100 millió forintos nyomravezetői díj sem ingathatta meg őket hitükben és akaratukban, mit is gondoljunk? Vajon hogyan szerezték be a lőszereket, mi alapján, kinek a javaslatára választottak helyszíneket?  Miért hallgattak a titkosszolgálatok, miért nem végezték rendesen a feladataikat?
+   </p>
+   <p>
+    Miért csak Bencze József akkori országos rendőrfőkapitánynak volt bátorsága, hogy az események súlyának megfelelően kezelje, irányítsa az ügyet? Miért akadályozták a titkosszolgálatok a nyomozást, és miért maradtak ezek a függelemsértések büntetlenek? Emlékezzünk arra is, hogy a debreceni bandatagok néhány barátja, harcostársa megjelent a bírósági ítélethirdetéskor olyan pólóban, melynek üzenete az volt, hogy Csorba Robika és édesapja gyilkosai „Hősök”.
+   </p>
+   <p>
+    A terrorhullám véget ért, de a gyűlölet még parázslik. Fegyveres atrocitás az elmúlt évtizedben ugyan nem történt, de nem nyugodhatunk meg. Láthatjuk, a fekete ruhások újra szerveződnek. Újra a cigányság a gyűlölet céltáblája, és ismét egy újonnan létrejövő politikai tömörülés próbál a romákkal szembeni gyűlöletkeltésre építve politikai tőkét, népszerűséget, erőt és hatalmat kovácsolni magának. Nem engedhetjük, hogy újra megismétlődjön a folyamat!
+   </p>
+   <p>
+    Tisztelt emlékezők!
+   </p>
+   <p rend="head">
+    A Csorba Robika életét kioltó fegyver ravaszán nem csak Kiss István és Pető Zsolt ujjai voltak, hanem mindazoké is, akik támogatják, éltetik, szítják a féktelen és végtelen gyűlöletet. Azok is tartották a fegyvert, és célozni segítettek, akik a szegregáció, a kiszolgáltatottság, az elnyomás, a gyűlöletkeltésre épülő politika fenntartói és haszonélvezői.
+   </p>
+   <p>
+    És ez a fegyver még mindig füstölög, újratáraznak, hogy legyen elég muníció a még vadabb és még mélyebb sötétség elhozatalához.
+   </p>
+   <p>
+    Éppen ezért Tatárszentgyörgy tragédiáját nem feledhetjük. Tanulnia kell a hibákból az egész magyar társadalomnak, egész Európának, mert a romákkal, kisebbségekkel szembeni gyűlöletkeltés és fizikai atrocitás mindennapossá válik. Kárpátalján hasonló jellegű támadások történtek a múlt évben a magyarajkú romák ellen.  Csehországban, Szlovákiában újnyilasok fenyegetnek falvakat, cigánytelepeket, Olaszországból kitoloncolják és összeírják a romákat.
+   </p>
+   <p>
+    Tatárszentgyörgy tragédiájából tanulnia kell a cigány közösségnek is! Be kell látnunk, óriási bűnt követtünk el, mert nem ismertük fel a rasszista sorozatgyilkosság történelmi felelősségét és az azzal járó kötelességünket. Közönyösek maradtunk, nem akartunk tudomást venni arról, hogy a gyűlölet emberéleteket követel.
+   </p>
+   <p rend="head">
+    Az áldozatok gyászszertartásain a tiszalöki és a kislétai temetőkben cigányok tízezreinek kellett volna lerónia kegyeletét, néma jelenlétükkel, szavak nélküli demonstrációval üzenniük a világnak, hogy nem engedünk a népirtásnak, az e célból verbuválódó erőknek. Óriásit hibáztunk, mert teret adtunk a félelemnek.
+   </p>
+   <p>
+    Hibáztunk, mert nem hallottuk meg Kállai Ernő akkori ombudsmanunk hangját, nem értettük meg az Országgyűlésben elhangzott történelmi felszólalásának lényegét. Hibáztak a cigány vezetők, mert túlzott nyugalomra intették az embereket.
+   </p>
+   <p>
+    Pedig ha akkor bátrak vagyunk, megmutatjuk hangunkat, arcunkat, ahogy az más demokratikus országokban is történik egy faji indíttatású bűncselekmény miatt, akkor a magyarországi cigányság társadalmi integrációja ma nem sci-fi lenne. Akkor nem fordulhatna elő, hogy a cigányság nevében eurómilliókat költsenek a semmibe vezető hídépítő kamuprogramokra, nem fordulhatna elő, hogy egy kis faluban marmonkannával kelljen három cigány embernek futkosnia, vagy cigarettázva bicikliznie sportnap gyanánt, félmilliárd forintért.
+   </p>
+   <p>
+    Ha a cigányság 10 évvel ezelőtt öntudatra ébredt volna a terrorhullám hatására, akkor ma önálló képviselője lenne az Európai Parlamentben, saját képviselője, vagy akár frakciója, terjeszthetne be valódi, egyforma esélyt biztosító törvényjavaslatot a magyar Országgyűlésben. Szavazhatnának a legfontosabb társadalmi kérdésekről, amelyekből az elmúlt három évtizedben mindig kihagyták a romákat. Ha öntudatra ébredt volna a cigányság, akkor február 23. a cigányság hivatalos gyásznapja lenne.
+   </p>
+   <p>
+    Tisztelt emlékezők!
+   </p>
+   <p>
+    Az áldozatok és családtagjaik magukra maradtak, a tragédia okozta gyászukban kevesek voltak, akik valóban vigasztalást, támaszt adtak számukra. A mély hallgatás, a közöny megpecsételte az egész népcsoport és az ország sorsát. Emlékezzen mindenki: az elmúlt másfél-két évtizedben számtalanszor hallottuk már, hogy az utolsó óra utolsó percében vagyunk. Számtalanszor hallottuk már, hogy elmentünk a falig, és ennél nincs tovább. Számtalanszor hallottuk már, hogy ennél nincs lejjebb. Számtalanszor hallottuk azt is, hogy átléptek egy bizonyos vonalat.
+   </p>
+   <p>
+    Sötétség kell ahhoz, hogy meglássuk a csillagokat. És még nagyobb sötétség kell ahhoz, hogy meglássuk a legapróbb fényt is. Azt a reménysugarat, amely kivezet minket a sötétségből.
+   </p>
+   <p>
+    A sok évtizedes kiszolgáltatottság, a társadalmi kirekesztettség, az előítéletesség, a megpecsételt sorsunk, és a terrorhullám hat véráldozata azt követeli, nézzünk szembe a valósággal, és legyünk őszinték legalább saját magunkkal: most még csak szürkület van. Hiába reménykedünk, sem csillag, sem fénysugár nincs a látóhatárban.
+   </p>
+   <p>
+    Mert meggyőződésem, hogy még mindig lesz lentebb, a falhoz még szorosabban fogunk állni, és mindig lesz lentebb és lentebb, és mindig lesznek újabb vonalak, határok, amit átlépnek. És ez addig fog így történni, amíg kellő határozottsággal azt nem mondjuk, elég volt.
+   </p>
+   <p>
+    Ha majd a minket körbevevő sötétségből kitörni akarunk, ha majd nem adjuk el a jövőnket üres ígéretekért, mert fontosnak és értékesnek tartjuk, akkor megláthatjuk a csillagot. De addig még nagyon sokat kell bukdácsolni, és egycsapásra nem fog betörni a napfény egyetlen sugara sem. Legfeljebb néhányunk feje, akik a sötétben, tapogatózva keresik az utat, amely árkokkal, gödrökkel és kövekkel, akadályokkal van teli.
+   </p>
+   <p>
+    Ha nem tetszik számunkra egy út, akkor taposni kell egy újat. Taposni kell, ha a jövőt például a szakképzésben csak keresztény és fehér emberek számára képzelik el országunkban. Taposni kell, ha újra összeírásokat akarnak, ha listáznának, ha gettókba zárnának, falakkal vennék körbe emberek ezreit, tízezreit. El kell taposni a faji előítéletességből fakadó gyűlölet gondolatának az írmagját is, hogy kiutat találhassunk a sötétségből. Taposni kell az olyan gondolatokon, amely újra céltáblává teszi a cigányságot.
+   </p>
+   <p>
+    Tisztelt Emlékezők!
+   </p>
+   <p>
+    Csorba Robika most lenne 15 éves. Minden bizonnyal idén nyáron ballagott volna az általános iskolából. De elvették tőle az életet, a reményteljes jövőt. Azt, hogy középiskolába járhasson, szakmát tanuljon, az országért dolgozó tisztességes felnőtt, esetleg értelmiségi válhasson belőle. Mert Csorba Robika előtt is egy ígéretes jövő állhatott volna.
+   </p>
+   <p>
+    Ha megfelelő színvonalú oktatásban részesülhet, ha egyforma, és egyenlő esélyekkel indulhat a nem cigány társaival az élet versenyén. Ha életét, sorsát nem pecsételi meg már születése pillanatában a bőre színe és az, hogy hova születik. Talán Csorba Robika is gyönyörű életet élhetett volna, ha nem Tatárszentgyörgy cigánytelepén, az utolsó házban lakik.
+   </p>
+   <p>
+    Megszakított fiatal élete legyen örök mementó mindannyiunknak. Nyugodjon békében!
+   </p>
+   <p>
+    <hi>
+     Elhangzott Budapesten, 2019. február 23-án, a Fővárosi Cigány Önkormányzat székháza előtt.
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

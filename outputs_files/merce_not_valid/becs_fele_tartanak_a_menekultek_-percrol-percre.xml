@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bécs felé tartanak a menekültek – percről-percre
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     eadf2902-199a-575f-8b79-8b2133ab8594
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Bécs felé tartanak a menekültek – percről-percre
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-09-04T15:38:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2015/09/04/becs_fele_tartanak_a_menekultek_-percrol-percre/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2015/09/04/becs_fele_tartanak_a_menekultek_-percrol-percre/
+     </sch:url>
+     <sch:name>
+      Bécs felé tartanak a menekültek – percről-percre
+     </sch:name>
+     <sch:datePublished>
+      2015-09-04T15:38:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="eadf2902-199a-575f-8b79-8b2133ab8594">
+     <sch:identifier>
+      urn:uuid:8d11da93-355d-40d5-bd89-2d3ceb54fa07
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:01.940951
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:18:06.137841
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="eadf2902-199a-575f-8b79-8b2133ab8594" when="2021-12-14T15:35:01.940951">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Bécs felé tartanak a menekültek – percről-percre
+   </head>
+   <p>
+    Ez a cikk több mint 6 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Délután a Keleti pályaudvarról körülbelül ezer menekült indult el Bécs felé gyalog. Rendőrök biztosították a menetet, az M1-es és M7-es autópályát lezárták. Tudósítóink ott vannak a menetben. Lázár János este 9-kor tartott sajtótájékoztatóján bejelentette, hogy az éjszaka folyamán a Keletihez és a M1-es autópályára autóbuszokat vezényelnek, és felajánlják a menekülteknek, hogy a Hegyeshalomnál lévő határátlépési ponthoz szállítják őket. Az Ausztria felé gyaloglók megálltak, és pihennek, a Keletinél feszült a hangulat az ultrák esetleges érkezése miatt.
+    </hi>
+   </p>
+   <p>
+    Az elmúlt időszakban is próbáltunk emberségesek maradni az embertelenségben, de ma nagyon büszkék vagyunk a Kettős Mérce…
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    2015. szeptember 4.
+   </p>
+   <p>
+    <hi rend="bold">
+     4.42
+    </hi>
+    Az utolsó buszok is elindultak a városból. Boldogok vagyunk, hogy az utolsó pillanatokban, a korábban a menekültekkel együtt gyalogló, most már a buszon lévő tudósítóink és szír, afgán utasok segítségével, még nagyon sok itt maradt embert sikerült telefonon meggyőzni, hogy nem kell félniük elindulni. És felszálltak az utolsó buszokra.
+   </p>
+   <p>
+    <hi rend="bold">
+     4.32
+    </hi>
+    A menekültekkel együtt utazó tudósítóink szerint az osztrák határon semmilyen procedúra nincs, és legalábbis az első busz utasait kis pihenő után átültették egy közvetlenül Németországba tartó buszra.
+   </p>
+   <p>
+    <hi rend="bold">
+     4.03
+    </hi>
+    A Keletiben már/most nincsenek buszok, az önkéntesek a rendőrség tájékoztatása alapján próbálják átkísérni az ott ragadt embereket a Köztársaság térre, ahol még 3 busz vár.
+   </p>
+   <p>
+    <hi rend="bold">
+     3.44
+    </hi>
+    Egy önkéntes segítőtől úgy tudjuk, hogy a Köztársaság téren is állnak buszok, a rendőrök ébresztgetik a menekülteket, hogy szálljanak fel. Sőt, ha igaz, még korábban buszokat küldtek a Nyugatihoz is.
+   </p>
+   <p>
+    <hi rend="bold">
+     3:29
+    </hi>
+    Így ért át az első busz a határon:
+   </p>
+   <p>
+    #Refugees
+    left Hungary. They are now between Hungary &amp; Austria. 2.33am
+    #marchofhope
+    pic.twitter.com/Jf40kUaapO
+   </p>
+   <p>
+    — Martin Kaul (@martinkaul)
+    September 5, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     3.20
+    </hi>
+    Az M1-esről mindenki elindult, a Keletiben maradtak páran, fociznak. Sírunk. Elképzelni nem akarjuk, milyen, amikor egy elvileg civilizált országban olyan helyzetbe hoznak, hogy soha többé ne merj bízni senkiben és semmiben, és így lecsúszol az esélyedről. Nem biztos, hogy lesz másik. Egy csapatról tudunk még, akik most igyekeznek a Keletihez, reméljük őket még megvárják.
+   </p>
+   <p>
+    <hi rend="bold">
+     3.07
+    </hi>
+    A Keletiből elindult egy újabb konvoj, motoros rendőr kíséri őket.
+   </p>
+   <p>
+    <hi rend="bold">
+     3.05
+    </hi>
+    A Köztársaság térről viszont borzasztó hírek jönnek, az Index forrási szerint az ultrák rátámadtak a még ott maradt menekültekre.
+   </p>
+   <p>
+    <hi rend="bold">
+     3.00
+    </hi>
+    10-30 osztrák civil is várta az első menekülteket welcome-táblákkal.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.53
+    </hi>
+    Így van, az indexes kolléga jelenti, hogy az első busz, amin ő is utazott, átért a határon, minden rendben ment, a túloldalon a Vöröskereszt várta őket. Megkönnyebbülés. Végre.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.49
+    </hi>
+    És elindultak a buszok az M1-en végre, tudósítóink is rajta vannak az egyiken. Úgy tűnik, megnyugtató híreket kaphattak az első útnak indult buszról és utasaikról.
+   </p>
+   <p>
+    <hi rend="bold">
+     2:43
+    </hi>
+    Az M1-esen lévő egyik buszra ez a felírat van kiírva, a menekültek azon viccelődnek, remélik, nem ez lesz a végállomás.
+   </p>
+   <p>
+    <hi rend="bold">
+     2:42
+    </hi>
+   </p>
+   <p>
+    Sorra hagyják el a Keleti pályaudvart a buszok, hogy Ausztriába vigyék a menekülteket! Csodálatos látvány!
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    2015. szeptember 4.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.30
+    </hi>
+    A Keletiben most 7 busz áll, és eléggé tele vannak, de meg várnak többen – vagy vacillálnak – hogy felszálljanak. Önkéntesek vizet adnak a buszon ülőknek.
+   </p>
+   <p>
+    <hi rend="bold">
+     2:25
+    </hi>
+    A Nyugatiban és a Déliben senkit nem keltettek fel, ők úgy tűnik Pesten ragadnak.
+   </p>
+   <p>
+    <hi rend="bold">
+     2:20
+    </hi>
+    Az M1-esen, az indulni készülő menekülteknek hangosbeszélőn bemondták, hogy a Keletiben maradt társaikat is elviszik busszal a határra. Az emberek megtapsolták a hírt.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.09
+    </hi>
+    Csak hogy elvarrjuk az ultra-szálat: még mindig ott ácsorognak a Keletinél, hátha bánthatnak valakit, de úgy tűnik nem teszik ezt meg. Bár az egyik buszról a rendőrök szedtek le egy ultrát.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.07
+    </hi>
+    A Keletiben a migration aides önkéntesek hozzak a raktárakból az enni-innivalót a buszra szállóknak. Hosszú sorokban állnak az öreg Ikarusok, hogy a határhoz, reméljük, a szabadságba szállítsák utasaikat.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.05
+    </hi>
+    Szélcsend over, épphogy elhagyták az első buszok a Keletit, Tarlós sietett bejelenteni, hogy akkor leállnak a Verseny utcai tranzit zóna kialakításával. Ízléses.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.59
+    </hi>
+    (A pillanatnyi szélcsendben megjegyezzük, hogy rettenetesen sajnáljuk azokat az embereket, akik egy napig ültek az aljas módon Sopron helyett Bicskére irányított vonaton, majd mindenbe belefáradván, tragédiák után leszálltak, és bementek a menekülttáborba, ahonnan nem viszik el őket Hegyeshalomra, Ausztriába, Németországba.)
+   </p>
+   <p>
+    <hi rend="bold">
+     1.50
+    </hi>
+    M1-es: most mintha valami változna, nagy a készülődés, elég gyorsan számolódik fel az ad hoc tábor. Tudósítónk szerint, várhatóan felszállnak a buszokra az emberek.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.44
+    </hi>
+    hvg:
+    Az M1-esnél még mindig alkudoznak, a Máltai Szeretetszolgálat munkatársai az egyik hangadót akarják meggyőzni, és el is vitték, hogy megmutassák neki a közelben álló 60 buszt. Egyébként a menekültek a tolmácsnak a ma megszavazott törvényi szigorításokkal indokolják, hogy miért nem akarnak felszállni, vagyis képben vannak a mai új információkkal kapcsolatban is.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.40
+    </hi>
+    A Keletiben is vannak menekültek, akik nem hiszik el, hogy nem táborba vinnék őket.
+    Többen próbálják őket meggyőzni, hogy most az egyszer nem verik át őket, de sokan hajthatatlanok, így maradnak.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.32
+    </hi>
+    Egy BKV alkalmazott szerint a BKV és a Volán közösen biztosít 120 buszt a Keletihez. Közben az autópályára is új buszok érkeznek, hangosbeszélőn tájékoztatják a menekülteket. Van miért, a bizalmatlanság nem múlt el (ezen nincs is mit csodálkozni), várják a híreket, hogy az első busz merre megy, és továbbra is azt szeretnék, hogy az önkéntes segítők, vagy a sajtó szállhasson fel velük.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.23
+    </hi>
+    Ez pedig az osztrák kancellár, Werner Faymann éjféli Facebook-posztja arról, hogy a rendkívüli helyzetre való tekintettel mind Németország, mind Ausztria át fogja engedni a határon a menekülteket. Emellett azért azt is írja, elvárják, hogy Magyarország teljesítse a Dublini egyezményből adódó kötelezettségeit, és hogy működjön együtt az Unióval a menekültkrízis közös megoldásában.
+   </p>
+   <p>
+    Bundeskanzler Werner Faymann erklärte heute nach einem Gespräch mit dem ungarischen Premierminister Victor Orban, in…
+   </p>
+   <p>
+    Posted by
+    Bundeskanzler Werner Faymann
+    on
+    Friday, September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     1.20
+    </hi>
+    Már rengeteg busz érkezett a Keletihez. Egy buszra csak 40 embert engednek fel, hogy mindenki le tudjon ülni. Videó a helyszínről:
+   </p>
+   <p>
+    #Keleti
+    at 01:17 Everyone has a seat on every bus, no more than 40ppl on 1bus
+    pic.twitter.com/s4db1d8ZQs
+   </p>
+   <p>
+    — Aron Lukacs (@aronlukacsaron)
+    September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     1.16
+    </hi>
+    Egy sárvári amerikai-magyar házaspár főz a szalagkorlát mellett a menekülteknek.
+   </p>
+   <p>
+    Eközben most legalább 4 busz érkezett, egyre már fel is szálltak a menetelő menekültek.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.05
+    </hi>
+    Egyre több busz érkezik a Keletihez, ahol csöpörög az eső, de a tér minden pontjáról kurjongatnak az emberek, mindenki örül, hogy végre vége ennek a hosszú, embertelen várakozásnak.
+   </p>
+   <p>
+    <hi rend="bold">
+     1.02
+    </hi>
+    Az ITV szerint az osztrák kancellár,
+    Werner Faymann konkrétan azt írta, hogy a mai szükséghelyzetre való tekintettel, ebben az esetben mindkét ország fogadja a menekülteket. Faymann hivatalos FB-oldalán hozzáteszi azért azt is, hogy mindemellett elvárják, hogy Magyarország tartsa be a Dublin III-at, és vegye ki a részét az Európai Bizottság által javasolt, a menekültek országok közti tisztességes elosztását célzó rendszerből is.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.55
+    </hi>
+    Helyzetjelentés az M1-ről: 3 busz már megtelt, a menekültek mellett újságírók is vannak a buszokon, ha mind az 5 megtelik, az ígértek szerint újabb 5 érkezik. A sofőrök ígéretet tettek a menekülteknek, hogy valóban Hegyeshalomra viszik őket. E
+    z egy nagy, és nem belátható terület, a buszokhoz közelebb lévő menekültek szálltak fel először, ugyanakkor a távolabbi részeken emberek nagy tömegben konkrétan alszanak a fáradtságtól. Önkéntesek vízzel és élelemmel ellátták őket, van egy csapat, akik főznek is helyben. Osztrák önkéntesek is segítenek, szerintük az osztrák híradások már arról szólnak, hogy a menekülteket nemcsak Ausztria, Németország is beengedi.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.54
+    </hi>
+    Most szállnak fel a menekültek a buszokra a Keletinél! A Máltai Szeretetszolgálat vezetője, Vecsei Miklós szerint a kormány ezúttal garantálja, hogy a buszok valóban Hegyeshalomra mennek, és nem fogják trükkökkel táborokba szállítani az embereket. Nem keveset vártunk arra, hogy a kormány végre tegyen valamit, reméljük, betartják a szavukat!
+   </p>
+   <p>
+    Most szállnak fel a menekültek a buszokra a Keletinél! A Máltai Szeretetszolgálat vezetője, Vecsei Miklós szerint a korm…
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    Friday, September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     0.45
+    </hi>
+    7 BKK busz vonult fel a Thökölyn a Baross tér oldalába, a Tranzitból pedig áramlanak ki a menekültek. Vannak, akik még alszanak, vannak akik már szedelődzködnek lent a Tranzitban. Közben pár perc alatt első három busz meg is telt, a negyedik most nyitotta ki az ajtajait. Senki sem koordinálja a folyamatot, reméljük, nem lesz fejetlenség.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.39 Egyre több „Különjárat” feliratú busz érkezik a Keletihez
+    </hi>
+   </p>
+   <p>
+    Az emberek a Keleti Tranzitban tapsolnak, füttyögnek, ahogy a Máltai Szeretetszolgálat egy munkatársa tájékoztatja őket.
+   </p>
+   <p>
+    A Köztársaság téren közben találkozott pár lézengő-hőzöngő focidrukker a rendőrök sorfalával, de mielőtt még összecsapásra került volna sor, a drukkerek futásnak eredtek.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.30 M1-es: megtelnek az első buszok
+    </hi>
+   </p>
+   <p>
+    Hiába érkeztek volna meg több média szerint is a buszok az M1-esen táborozókhoz, a menet tagjai feltehetően nagy területen helyezkednek el, mert tudósítónk buszokat még nem észlelt. Az ő csoportjuk továbbra is pihen, újabb segítő civilektől kaptak takarókat, ételt, orvos is jött a menethez. Hivatalos tájékoztatást nem kaptak a buszokról. A társaságukban lévő menekültek arra is ügyeltek, hogy nekik is jusson takaró. Az eső elállt, az ég nagyon szép, de hideg van.
+   </p>
+   <p>
+    A 444.hu arról számol be, a sofőrök ígéretet tettek, hogy tényleg Hegyeshalomra mennek, a menekültek pedig szállnak fel. Az index szerint is megtelt az első busz.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.15
+    </hi>
+    Sokszínű a kavalkád a Keletinél jelenleg. 100-150-en szivárogtak be árpádsávos zászlókkal, nagymagyarországos pólókban, 2-es, 10-es csoportokban. Ittasnak tűnnek, a fenti részen vannak illetve a 24-es villamos megállója környékén tömörülnek. Állítólag „románokat” keresnek. A menekültek viszont lent vannak a Tranzitban, ahol a hangulat egyelőre nyugodt. Sok olyan civil is van a helyszínen, akikről azt feltételezzük, a menekültek támogatása miatt van a téren.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.05
+    </hi>
+    Rengeteg rendőrautó és csapatszállító indult el a Fiumei úton a Keletitől. Közben a Baross térről a rendőrök elkezdték kitolni az embereket, kb. 30 részeg ultráról van szó, nomeg néhány újságíróról.
+   </p>
+   <p>
+    <hi rend="bold">
+     0.01
+    </hi>
+    A Blaha irányából érkezett egy „Különjárat” feliratú busz, ami a rendőrökkel egyeztetve behajtott a területre. Valószínűleg ez az első hírnöke a Hegyeshalom irányába közlekedő buszoknak.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.59
+    </hi>
+    A Festetics utca mellett az ultrák azon puffognak, hogy mi az, hogy rendőrnőket küldenek „ellenük”, egy nyomdafestéket nem tűrő elkapott beszélgetés szerint viszont velük is felvennék a harcot („meg lesznek baszva” – mi kérünk határozottan elnézést).
+   </p>
+   <p>
+    Közben a 444 szerint már a 20-as kilométerkőnél járnak a buszok, a menekültek menete pedig a 27-es kilométerkőnél várakozik. A korábbi Origós hír nem bizonyult megbízhatónak, a Keleti környékén már láttak buszokat, de azok még nem érkeztek meg a Tranzithoz.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.51
+    </hi>
+    Az Festetics György utcában rengeteg rendőr gyülekezik, a Baross tér különböző pontjain továbbra is több csapat rendőr áll. A Kerepesi utat teljesen hermetikusan lezárta a rendőrség. A Keleti sarkán és a téren is több szurkolói sálas, egészségügyi maszkos ember jelent meg, mintha beszivárogtak volna. Emellett az is aggasztó, hogy a Köztársaság téren a rendőrségi jelenlét nem igazán nagy létszámú.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.44
+    </hi>
+    Pesten is és az M1 autópályánál a menet pihenőhelyén is elkezdett cseperegni az eső. Eközben már egy petárda robbanásának zaját lehetett hallani a Keleti pályaudvar Thököly út felőli oldalán, de rohamrendőrök itt is várakoznak.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.34
+    </hi>
+    A Keletinél olyan a hangulat, mint egy ostromlott várban. Fojtogató és ijesztő a szituáció, olyan érzése van tudósítóinknak, hogy bármikor bármi történhet. Az Aréna felé felállt kb. 200 rohamrendőr tömött sorban, és egy vízágyú is érkezett. A menekültek közben hangosbeszélővel tájékoztatják egymást. Tapintható a félelem.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.27
+    </hi>
+    Rengeteg rendőrautó érkezett a Keletihez, 6 csapatszállító és sok rendőrautó, jelenti ottani tudósítónk. A Kerepesi utat elzárta a forgalom elől a rendőrség. A rendőrök a 24-es villamos vonalán indultak tovább. A város felett két rendőrhelikopter kőröz rendületlenül. Az ultrák vonulása után másik tudósítónk egy embert látott, akit éppen elláttak a mentők, de nem tűnt súlyosnak az eset.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.15
+     Hat busz már megérkezett a Keletihez, plusz néhány rohamrendőr is
+    </hi>
+   </p>
+   <p>
+    Hat alacsonypadlós BKK busz érkezett a Keleti pályaudvarhoz, hogy elszállítsa a menekülteket Hegyeshalomra (Origo), tudósítónk pedig 30 rendőr jelenlétéről számolt be. És m
+    egint bemondták a rendőrök kérésére arabul, hogy menjen mindenki minél lejjebb az aluljáróba.
+   </p>
+   <p>
+    <hi rend="bold">
+     23.05 Reagált az osztrák kormány, a továbbikról Németországgal egyeztetnek:
+    </hi>
+    „Az osztrák kormány nem fogja cserbenhagyni a kényszerhelyzetben lévő embereket- így reagált Werner Faymann osztrák kancellár arra, hogy Magyarország buszokkal viszi tovább az osztrák határ felé az M1-es autópályán gyalogló menekülteket.” (
+    444.hu
+    )
+   </p>
+   <p>
+    <hi rend="bold">
+     23.03
+    </hi>
+    Tapsolva énekelnek a Keletinél, így tartják egymásban a lelket, és csitítani a félelmet a magyar foci „szurkolóktól”.
+   </p>
+   <p>
+    <hi rend="bold">
+     22.58
+    </hi>
+    A Népligetből tovább álltak a fociultrák, ahol már csak rendőrautók hangját hallani, és rendőrségi helikopter kőröz az égen. Az tömeg továbbment a Könyves Kálmán körútra, petárdákat és füstbombákat dobálnak, egy-két percenként durran valami. A Hungária körút irányába haladnak – jelenti tudósítónk.
+   </p>
+   <p>
+    <hi rend="bold">
+     22.52
+    </hi>
+    A Keletinél mindenki visszahúzódott az aluljáróba, a feszültség még tapintható.
+   </p>
+   <p>
+    <hi rend="bold">
+     Hogyan tudsz segíteni, ha a menet közelében vagy?
+    </hi>
+    Éjszakára polifoam, takaró, hálózsák kell a hideg miatt. Babahordozó eszközökre, kendőkre, hordozóra, babakocsira is szükség van a menetben, mert sok a kisgyerek. De akár rozoga bicikli is jó. Fontos a víz is és az étel. Jó cipőre is nagy szükség van. Gurulós szatyor remek volna. Bármi, ami a nap ellen véd – sapka, kendő –, szintén jól jön.
+   </p>
+   <p>
+    <hi rend="bold">
+     22.40
+    </hi>
+    Közben a v
+    álságtanácskozást tart az osztrák belügy- és külügyminisztérium arról, hogy mit kezdjenek a kialakult helyzettel. Lázár korábban azt mondta, még nincsenek tisztában azzal, hogyan reagálnak az osztrák hatóságok a magyar kormány döntésére, hogy Hegyeshalomig szállítják a menekülteket. (
+    444.h
+    u)
+   </p>
+   <p>
+    <hi rend="bold">
+     22.36
+    </hi>
+    Nem tudjuk, hogy pontosan mi történik, de kiabálás, rohanó emberek és rohanó rendőrök vannak a Keletinél. Bármitől is támadt a pánik, szégyelljük magunkat, hogy ezek a menekültek most magyaroktól félnek.
+   </p>
+   <p>
+    <hi rend="bold">
+     22.30
+    </hi>
+    Lakner Zoltán véleményével a kormányzati döntésről mi is egyetértünk:
+   </p>
+   <p>
+    Migrációs krízis van Magyaroszágon az EU és Németország miatt (!),mert utóbbi nyilatkozatai nyomán 3500 menekült a…
+   </p>
+   <p>
+    Posted by
+    Zoltán Lakner
+    on
+    Friday, 4 September 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     22.29
+    </hi>
+    Sorfal is készül a Keletinél:
+   </p>
+   <p>
+    <hi rend="bold">
+     22.20
+    </hi>
+    Arabul és magyarul is bemondták, hogy mindenki menjen le az aluljáróba, mert fenn nem lehet megvédeni az embereket, a segítők pedig próbálják leterelni az embereket. A menekültek, úgy tűnik, példát mutatnak szerevezettségből és lélekjelenlétből, mi pedig csak drukkolunk, hogy a magyar focikultúra jelesei ma máshol éljék ki ösztöneiket. Már az is szégyen, hogy egyáltalán félni kell ezeknek az embereknek ma éjjel Budapest közepén. Emlékeztek még a „
+    <hi>
+     Tisztelnetek kell a kultúránkat
+    </hi>
+    ” szövegre?
+   </p>
+   <p>
+    <hi rend="bold">
+     22.10
+    </hi>
+    Csak most érkezett meg a kormány döntésének híre, de az öröm nem igazán érződik, valószínűleg felülírja az ultrák esetleges érkezése miatt érzett aggodalom:
+   </p>
+   <p>
+    <hi rend="bold">
+     22.00
+    </hi>
+    Közben a Keletinél tudósítónk szerint egyre nagyobb a feszültség. Terjed a hír, hogy jönnek az ultrák, pedig még csak a második félidőnél járunk. Lázár János és a hegyeshalmi fuvar hírei még nem érkeztek meg, de a menekültek visszahúzódnak az aluljáróba, és néhányan bontani kezdik a sátrakat. A képen és a videón tájékoztatás, még 21.48-kor:
+   </p>
+   <p>
+    <hi rend="bold">
+     21.51
+    </hi>
+    Az Ausztria felé haladó menetben nagy öröm támadt annak hallatán, hogy buszok érkezhetnek értük, és Hegyeshalomig szállítják őket. Bár egyesek azért nem bíznak annyira a csodaszerű megoldásban, és a magyar hatóságokban. Amit nem is csodálunk. Tudósítónk szerint a gyaloglás egyébként kezdett veszélyessé válni a sötétben, pláne gyerekekkel. Most pihenő következik, a 27-es kilométerkőnél. A képen szereplő egyik srácnak bomba vitte el az egyik lábát – órák óta tolják biciklin – a magyar kormány gondoskodása jóvoltából.
+   </p>
+   <p>
+    <hi rend="bold">
+     21.31
+    </hi>
+    Papp Károly országos rendőrfőkapitány szerint kb. 100 buszt vezényelnek az M1-es autópályához és az 1-es vasúti fővonalhoz. Lázár János kijelentette, nem akarnak erőszakot alkalmazni, és abban reménykedik, hogy az „illegális migránsok” részéről is visszaáll az „együttműködés”. Csak azért is kínosan kerüli a „menekült” kifejezést (ahogy a köztévé is). Abban reménykedik, hogy a menetelők elfogadják a magyar kormány segítségét. Ez a bicskei vonatozások után viszont egyáltalán nem egyértelmű, ugyanis ott alaposan átverték a menekülteket. Lázár nem válaszolt egyértelműen arra, hogy mi lesz, ha nem működnek együtt a menetelők. A sajtótájékoztatónak vége.
+   </p>
+   <p>
+    <hi rend="bold">
+     21.22
+    </hi>
+    Wow, a menekültek
+    közelebb kerülhetnek a céljukhoz! Lázár a sajtótájékoztatón:
+    az operatív törzs a kormány felhatalmazása alapján úgy döntött, hogy az éjszaka folyamán a Keletihez és a M1-es autópályára autóbuszokat vezényelnek, és felajánlják a menekülteknek, hogy a Hegyeshalomnál lévő határátlépési ponthoz szállítják őket. Ez egy lehetőség, a menekültek dönthetnek. Az osztrákok még nem reagáltak a magyar kormány lépésére. Meg még némi EU-bashing, Schengen, stb. És az indok, Habony-módra: a biztonság garantálása a közlekedés biztonságának garantálását is kell, hogy jelentse.
+   </p>
+   <p>
+    <hi rend="bold">
+     21.05
+    </hi>
+    A menet elején még mennének tovább, de a nők és a gyerekek nagyon fáradtak, lassan meg fognak állni, letáboroznak éjszakára. Az eddigi kifejezetten jó hangulat kicsit zaklatottabba váltott a közelgő éjszaka miatt. Nagyon sötét van, a rendőrök élesen világítanak a menetelők arcába. Továbbra is nagyon kell: étel, víz, polifoam, hálózsák, takaró, gyaloglásra alkalmas cipő és izomlazító krém! A következő napokra nagyon nagy segítség lenne a bicikli, aki megteheti, kérjük adjon nekik. Kb. 27 km-nél tartanak, a Zsámbék/Herceghalom leágazásnál.
+   </p>
+   <p>
+    <hi rend="bold">
+     20:30
+    </hi>
+    A magyar ultrák nagyon bátrak. A teljesen kimerült menekültek után, most kiszemeltek maguknak egy roma fiút. Öten-hatan, úgy az igazi. A rendőrök megvédték a srácot – írja az Index.
+   </p>
+   <p>
+    <hi rend="bold">
+     20.26
+    </hi>
+    Az Index szúrta ki Orbán FB-oldalán:
+    Este nyolctól ülésezik a „rendkívüli operatív törzs”, amiről este kilenckor Lázár rendkívüli sajtótájékoztatót tart, a miniszterelnök meg focimeccsre készül. Ott is lesz, no para. Vannak fontos dolgok a világon. #holélünk
+   </p>
+   <p>
+    <hi rend="bold">
+     20.21
+    </hi>
+    Így ugróiskoláznak a gyerekek a Keletinél, miközben a rendőrök vacsoráznak.
+   </p>
+   <p>
+    <hi rend="bold">
+     20.17
+    </hi>
+    Így vonult a menekültek menete az autópályán – drónfelvételek a Slejmtől.
+   </p>
+   <p>
+    <hi rend="bold">
+     19.57
+    </hi>
+    Tudósítónk szerint 20 perces pihenőt tartanak az Európai Szabadság Menete résztvevői. Utána újabb két óra gyaloglást terveznek az éjszakai pihenés előtt. A húszas kilométerkő után járnak.
+   </p>
+   <p>
+    Eközben a Keletinél tudósítónk a gyerekekkel játszik, a rendőrök pedig a Mekiből vacsoráznak – nekik se lehetnek könnyű napjaik mostanában.
+   </p>
+   <p>
+    <hi rend="bold">
+     19.45
+    </hi>
+    „Magyar gyerek megvágta, magyar gyerek gyógyítja” – de sajnos nem síppal-dobbal…
+   </p>
+   <p>
+    Index.hu: Garabli Mohammed éppen a családjával és a barátaival beszélgetett, amikor fejbe dobták a petárdával a huligán…
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    Friday, 4 September 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     19.40
+    </hi>
+    Hihetetlen hely ez az ország!
+   </p>
+   <p>
+    http://mivoltmaaneten.tumblr.com/post/128344146027/roma-csapat-m1-leallosavban-hogy-etelt-osszon
+   </p>
+   <p>
+    <hi rend="bold">
+     19.20
+    </hi>
+    A rendőrség közleménye szerint a Keletitől 13h-kor indult kb. 500 fős csoporthoz azóta többen csatlakoztak, így a Bécs felé vonulók mintegy ezren lehetnek (
+    police.hu
+    ).
+   </p>
+   <p>
+    <hi rend="bold">
+     19.10
+    </hi>
+    És nem tudjuk megállni, hogy ne rakjunk ide még egy jelképes felvételt: 1956 novemberében magyar menekültek gyalogolnak át az osztrák határon:
+   </p>
+   <p>
+    Hungarian refugees crossing the Austrian border, November 1956.
+    pic.twitter.com/fLdoAUwmKS
+   </p>
+   <p>
+    — Nermin Tulic (@NerminTulic)
+    September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     19.03 P
+    </hi>
+    anyi Szabolcs twitterén találtuk ezt a jelképesnek mondható fotót: uniós zászló, Merkel-fotó és az egyik legelszántabb szír menekült:
+   </p>
+   <p>
+    All in 1 pic by Orsi Ajpek: one-legged
+    #Syria
+    guy, portrait of
+    #Merkel
+    &amp;
+    #EU
+    flag. Follow us
+    http://t.co/apTPT2P3tt
+    pic.twitter.com/shRpsTAqDn
+   </p>
+   <p>
+    — Szabolcs Panyi (@panyiszabolcs)
+    September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     18.43
+    </hi>
+    A Keletinél eddig elég nagy nyugi volt, csak vizet és almát osztottak néhányan. Félórája azonban néhány focidrukker jelent meg a színen, akiket a rendőrök rögtön visszafordítottak. Most pedig néhány „civil” demonstrál, a menekültek jelenléte ellen.
+   </p>
+   <p>
+    <hi rend="bold">
+     17:58
+    </hi>
+    Egy házaspár az biatorbágyi autópálya-lehajtón gyalogosan, kézben visz vizet és ennivalót a menetnek.
+   </p>
+   <p>
+    <hi rend="bold">
+     17:52
+    </hi>
+    Aki autóba tud most ülni, a menet már túl van az M0-s kereszteződésen, tehát a pátyi MOL-kúthoz érdemes menni, és vinni jó sok banánt, csokit, ilyesmit. (Vizet is lehet, de az ottlévők szerint az most nem égető, a banán a legnépszerűbb!) A pátyi MOL-kút után a következő jó lehetőség a herceghalmi AGIP-kút, oda is érdemes elindulni!
+   </p>
+   <p>
+    <hi rend="bold">
+     17:34
+    </hi>
+    Így várják a törökbálintiak a Szabadság-menetet.
+   </p>
+   <p>
+    <hi rend="bold">
+     17:30
+    </hi>
+    Törökbálintnál lakosok osztanak vizet, kekszet, szőlőcukrot. A leállósávban sok-sok palack vizet raktak ki, hogy ihassanak a szomjazó menetelők.
+   </p>
+   <p>
+    <hi rend="bold">
+     17:16
+    </hi>
+    Elhunyt az az 50 éves pakisztáni menekült, aki a bicskei vasútállomáson veszteglő vonatból kirohanva, a híradások szerint elesett és beverte a fejét. Pedig csak annyi volt a vágya, hogy átlépje a határt Ausztria, majd Németország felé. Csak reménykedni, imádkozni tudunk, hogy társainak ez sikerüljön! Nyugodj békében testvérünk!
+   </p>
+   <p>
+    Elhunyt az az 50 éves pakisztáni menekült, aki a bicskei vasútállomáson veszteglő vonatból kirohanva, a híradások…
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    Friday, September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     17:13
+    </hi>
+    Nagyon nehezen tudják cipelni a menetelők a holmijaikat, ezért nagyon jól jönnének gurulós szatyrok – jelenti tudósítónk. Emellett jó cipőre is nagy az igény.
+   </p>
+   <p>
+    <hi rend="bold">
+     17:11
+    </hi>
+    Az menetelő emberek most az M1-es 14. kilométerkövénél leültek. A menet eddig már több mint 16 kilométert tett meg a Keletitől.
+   </p>
+   <p>
+    <hi rend="bold">
+     16:51
+    </hi>
+    A Keletinél fociultrák támadtak a menekültekre, petárdákat dobtak az alsó szintre, a menekültek villámgyorsan reagáltak, a rendőröknek szét kellett választani a két csoportot.
+   </p>
+   <p>
+    <hi rend="bold">
+     16:50
+    </hi>
+    Mindeközben Bicskén páran kijutottak a pályaudvarról és a sínek mentén ők is elkezdtek Bécs felé menni, a rendőrség a nyomukban (videó alább). Többen viszont pedig bent maradtak és elbarikádozták magukat a vonatokban, állítólag bármikor indulhat ellenük a rendőrségi akció.
+   </p>
+   <p>
+    #Hungary
+    : Around 300 refugees escape from
+    #Bicske
+    train station &amp; are back in the railway. Video:
+    pic.twitter.com/mNCww6xEil
+    Via
+    @falanfilanvs
+   </p>
+   <p>
+    — José Miguel Sardo (@jmsardo)
+    September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     16:44
+    </hi>
+    Videó: a menekültek útja az Astoriától az M1-M7 bevezető szakaszáig.
+   </p>
+   <p>
+    <hi rend="bold">
+     16:31
+    </hi>
+    Budaörsi lakosok ételt és vizet osztanak a menekülteknek. Emellett egy német rendszámú hússzállító furgonból vizet, kétszersültet és vécépapírt is osztanak.
+   </p>
+   <p>
+    http://atlatszo.tumblr.com/post/128334492471/budaörsi-lakosok-ételt-és-vizet-osztanak-a
+   </p>
+   <p>
+    <hi rend="bold">
+     16:28
+    </hi>
+    A menet most indult tovább a kör alakú felüljáró alól. Előreengedik a nőket és a gyerekeket, hogy ne szakadjon szét a csoport újra.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:57
+    </hi>
+    Elhagyták a budaörsi Tescót, széthúzódott a menet. Az eleje megy tovább, a közepe és a vége megállt pihenni a
+    kör alakú felüljáró
+    alatt.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:45
+    </hi>
+    Még nem tudják, bemegy-e a menet Budaörsre, de nemsokára odaérnek. Tudósítónk szerint nagyon fárad a melegben a tömeg.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:34
+    </hi>
+    Babahordozó eszközökre, kendőkre, hordozóra, babakocsira van szükség a menetben, mert sok a kisgyerek. De akár rozoga bicikli is jó. De fontos a víz is és az étel.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:32
+    </hi>
+    Az autópályán a kocsiból oszt segítséget egy magyar férfi.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:30
+    </hi>
+    Nemsokára indul a Segítsünk együtt a menekülteknek csoport a helyszínre.
+   </p>
+   <p>
+    <hi rend="bold">
+     15:19
+    </hi>
+    Budaörs felé tart a Szabadság-menet. Folyamatosan kapják az adományokat a menekültek, vizet, gyümölcsöket visznek nekik magánemberek! Az ablakokból még Budapesten több helyen bíztatólag integettek, tapsoltak!
+   </p>
+   <p>
+    Budaörs felé tart a Szabadság menet. Folyamatosan kapják az adományokat a menekültek, vizet, gyümölcsöket visznek nekik magánemberek! Az ablakokból még Budapesten több helyen bíztatólag integettek, tapsoltak!
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    Friday, September 4, 2015
+   </p>
+   <p>
+    <hi rend="bold">
+     13:56
+    </hi>
+    A Hegyalja úton a menekültek Bécsbe tartó menete, sok a nő és a gyerek, egy férfi vizet és ételt hozott ki a menekülteknek! Ha közel laktok, hozzatok vizet, nagyon meleg van, és még sok kilométer vár ezekre az emberekre!
+   </p>
+   <p>
+    A Hegyalja úton a menekültek Bécsbe tartó menete, sok a nő és a gyerek, egy férfi vizet és ételt hozott ki a menekü…
+   </p>
+   <p>
+    Posted by
+    Kettős Mérce
+    on
+    Friday, September 4, 2015
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

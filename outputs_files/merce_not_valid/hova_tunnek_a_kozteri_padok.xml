@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hova tűnnek a köztéri padok?
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bb9f8c48-a008-5c33-990d-418b083ff3e3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hova tűnnek a köztéri padok?
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-08-12T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2015/08/12/hova_tunnek_a_kozteri_padok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2015/08/12/hova_tunnek_a_kozteri_padok/
+     </sch:url>
+     <sch:name>
+      Hova tűnnek a köztéri padok?
+     </sch:name>
+     <sch:datePublished>
+      2015-08-12T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      józsefváros
+     </sch:keywords>
+     <sch:keywords>
+      köztér
+     </sch:keywords>
+     <sch:keywords>
+      diszkrimináció
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bb9f8c48-a008-5c33-990d-418b083ff3e3">
+     <sch:identifier>
+      urn:uuid:015f5b27-b428-4081-ab9c-eeb2fd19bb8d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.507328
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:14:36.557134
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bb9f8c48-a008-5c33-990d-418b083ff3e3" when="2021-12-14T15:30:43.507328">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hova tűnnek a köztéri padok?
+   </head>
+   <p>
+    Ez a cikk több mint 6 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Munkám kapcsán sokat járom a várost. A várost, ahol születtem, felnőttem, ahol élek. Budapest a városom, mely mindig más és más megújulást mutat. Fejlődik, szépül Budapest. De… egyben kizáró, kirekesztő és diszkriminatív is – érzéseim szerint – a hatalmon lévő kormány és a Fideszhez tartozó polgármesterek urak miatt.
+    </hi>
+   </p>
+   <p>
+    Ha valaki nem tudná, mesélek egy kicsit. Magyarországon olyan kormány működik, amelynek tagjai menetrendszerűen hazudnak, áltatják a népet, miközben a keresztény és családbarát mondataik mögött rendszeresen megtalálnak egy-egy réteget, akiket megaláznak, kirekesztenek. Ilyen a cigánykérdés – művelt emberek romáknak hívják ezt a népcsoportot – és a parlamentben is folyik a zsidózás. Szinte napi szinten megalázzák, lejáratják a szegénysorban élő magyar polgárokat. A fedél nélkül élő emberek ellen rendészeti eszközökkel lépnek fel, és most folyik a menekültek üldözése. Mindezek tudatában nézelődöm, gondolkodom, és viszonyítok. Viszonyítok, mert mindig dühöt vált ki belőlem, ha a kormány, vagy Fideszes polgármesterek intézkedéseinek következményeit látom, illetve a gazdasági érdekek előrenyomulása tűnik a szemembe.
+   </p>
+   <p>
+    Hogy miért írom ezt? Nos, a Kálvin-téren egy pár hete fesztivál volt. Színpaddal, oltári jó zenével, kis pofás bódékkal, és rengeteg székkel – sorban, mint a moziban. Ebből az alkalomból összeszedték az ottani köztéri padokat. Aztán véget ért a fesztivál, elbontották a színpadot, az aranyos fabódékat, és elvitték a székeket. De nem hozták vissza a padokat. Ugyanez a helyzet a Széna téren a buszvégállomáson. Évekig voltak ott padok a kis kerek téren, aztán egy felújítás kapcsán eltűntek és a járókelők betonpadkákra támaszkodva tudnak megpihenni, beszélgetni, mert elvitték onnan is a padokat. Azokat a padokat, amikre idős asszonyok ültek le egy kicsit pletykálkodni, azokat a padokat, ahol fiatal párok beszélgettek, élcelődtek egymással, azokat a padokat, amik – talán – üzleti érdekből maradnak tárolási helyükön, hisz egymás után három vacsorázó, szórakozó helyiség van, és uram bocsá’, zavarják a vendéglátást a padok foglalói. Így az ott pihenő, alvó hajléktalan emberek is.
+   </p>
+   <p>
+    Dühít, hogy akár a hajléktalan emberek üldözésének szándéka, akár üzleti érdekek állnak a padok elszállítása mögött, embertelen és kizáró ez a a cselekedet!
+   </p>
+   <p>
+    Egyre több helyen tapasztalom, hogy minden felvilágosítás nélkül bontják, viszik el a köztéri padokat. Azokat a padokat, amelyek lehetőséget adnak emberi kapcsolatokra, szomszédok, barátok kényelmes beszélgetésére, kismamák, gyermekes anyukák, megfáradt, fájós lábú idősek pár percnyi megpihenésére. Padokat, amelyek azért kerültek ki a közterületekre, hogy „szolgálják” az embereket. És lám… ott tartunk, hogy sorban fogyatkoznak a padok.
+   </p>
+   <p>
+    Azok a polgármesterek, akik abban a tévhitben élnek, hogy a közterület az övék, és csak nekik van joguk dönteni bármiben, ami a közterületeiket illeti, hát, jó, ha tudják, hogy tévednek!
+   </p>
+   <p>
+    A közterületet azért hívják közterületnek, mert a közé! A lakóké, a polgároké! Azoké a polgároké, akikhez – választások előtt – cédulákkal kopogtatnak, akiknek ígérgetnek, akiknek a szavazatára számítanak. Azoké a polgároké, akik a kerületükben laknak és joguk van használni a padokat, amit tisztes polgármestereink felszámoltatnak!
+   </p>
+   <p>
+    És persze, látom, megélem a Fidesz-kormány kirekesztő politikájának eredményét és tudom, hogy sok helyen pontosan azért szüntetik meg egyre több közterületi pad használatának a lehetőségét, hogy a hajléktalan emberek – és a most már gyűlöletplakátokkal és gyűlöletbeszéddel is kirekesztett – menekültek ne használhassák ezeket pihenésre. A kormány és az azt hűen követő polgármesterek célja az, hogy a fedél nélkül élő embereket bekényszerítsék a hajléktalanellátó-rendszerbe, ahol minden van, csak emberhez méltó elhelyezés nem! A mai kormány célja, hogy táborokba, és továbbutazásra kényszerítse a menekülteket – akik a halál elől menekülnek – és nem engedi még azt sem, hogy a padjainkon megpihenést találjanak!
+   </p>
+   <p>
+    Miközben a Fidesz kirekesztő gyűlöletpolitikáját folytatja, nem veszi észre, hogy saját szavazóitól is megvonja a köztéri padok használatának jogát! Bekebelezi az összes emberi jogot – csak azt szabad, amit a párt megenged! Nem kéne végre gondolkodni egy kicsit? Lesz még választás Magyarországon és akkor fogják csak észrevenni, hogy az egyre inkább öncélú döntéseik milyen hatást váltottak ki szavazópolgáraikból.
+   </p>
+   <p>
+    Lakatosné Jutka
+   </p>
+   <p>
+    A Város Mindenkié hajléktalan aktivistája, aki NEM padon él!!!!!
+   </p>
+   <p>
+    További információ a hajléktalan emberek közterekből történő kirekesztéséről
+   </p>
+   <p>
+    A köztéri kirekesztés további formái Budapesten
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

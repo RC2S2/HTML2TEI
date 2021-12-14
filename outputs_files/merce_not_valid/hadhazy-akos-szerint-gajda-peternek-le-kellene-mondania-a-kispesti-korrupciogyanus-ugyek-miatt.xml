@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hadházy Ákos szerint Gajda Péternek le kellene mondania a kispesti korrupciógyanús ügyek miatt
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b3ed8fcc-be25-5abd-8781-65223ff15930
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hadházy Ákos szerint Gajda Péternek le kellene mondania a kispesti korrupciógyanús ügyek miatt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-12-16T11:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/12/16/hadhazy-akos-szerint-gajda-peternek-le-kellene-mondania-a-kispesti-korrupciogyanus-ugyek-miatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/12/16/hadhazy-akos-szerint-gajda-peternek-le-kellene-mondania-a-kispesti-korrupciogyanus-ugyek-miatt/
+     </sch:url>
+     <sch:name>
+      Hadházy Ákos szerint Gajda Péternek le kellene mondania a kispesti korrupciógyanús ügyek miatt
+     </sch:name>
+     <sch:datePublished>
+      2019-12-16T11:45:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      korrupció
+     </sch:keywords>
+     <sch:keywords>
+      Hadházy Ákos
+     </sch:keywords>
+     <sch:keywords>
+      Kispest
+     </sch:keywords>
+     <sch:keywords>
+      Gajda Péter
+     </sch:keywords>
+     <sch:keywords>
+      lackner csaba
+     </sch:keywords>
+     <sch:keywords>
+      ferenczi istván
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b3ed8fcc-be25-5abd-8781-65223ff15930">
+     <sch:identifier>
+      urn:uuid:1b0b3d4f-3c73-498e-aab2-6bbda8bb4131
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:05.377584
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:56:35.946220
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b3ed8fcc-be25-5abd-8781-65223ff15930" when="2021-12-14T15:26:05.377584">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hadházy Ákos szerint Gajda Péternek le kellene mondania a kispesti korrupciógyanús ügyek miatt
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Hétfő délelőtt tartott sajtótájékoztatót Hadházy Ákos független országgyűlési képviselő, Ferenczi István, az LMP kispesti önkormányzati képviselője, és Paróczai Anikó, a kerület átláthatósági tanácsnoka, aki a Momentumban politizál. A három politikus a kispesti korrupciógyanús ügyekről beszéltek, amelyet legelőször a kormánypárti média szellőztetett meg az önkormányzati választási kampányban: ezek voltak a Lackner Csabáról, korábbi MSZP, a pártból azóta kizárt önkormányzati képviselőről készült felvételek.
+   </p>
+   <p rend="head">
+    Hadházy Ákos ma arról beszélt, hogy az ellenzéki politikusok számára fontos, hogy komolyan vegyék a Lackner-videót, amelyben szerinte zavarba ejtő állítások hangzanak el. A képviselő szerint fontos utánajárni, hogy csak összevissza beszédet hallunk-e a felvételeken, vagy van mögötte igazság.
+   </p>
+   <p>
+    Ha tizede is igaz az elhangzottaknak, akkor az az egész ellenzéket hiteltelenítheti el és az eddigi korrupcióinfókat is feleslegessé teheti – mondta Hadházy.
+   </p>
+   <p>
+    Úgy látja ugyanis, hogy hiába tárja fel mindig a korrupcióinfói keretében a kormányzati mutyigyanús ügyeket, hiszen a kormánypropaganda mindig replikázhat: a másik oldal is lop.
+   </p>
+   <p>
+    Hadházy adatkéréssel fordult a kispesti önkormányzathoz.
+   </p>
+   <p>
+    „A kapott dokumentumok sajnos egyáltalán nem megnyugtatóak” – mondta.
+   </p>
+   <p>
+    A képviselő utalt Lackner azon felvételbeli kijelentésére, mely szerint ha önkormányzati képviselőként nem keresed meg évente a 100 millió forintot, akkor hülye vagy. Hadházy szerint erre például olyan gyakorlatok adhatnak lehetőségek, mint a túlszámlázás – vagyis, hogy bizonyos vállalkozások túlszámláznak, több munkát számolnak el, mint amennyit elvégeznek. Utalt azokra a cégekre is, amelyekről a sajtó nemrégiben már
+    megkongatta a vészharangot
+    , állítva: az egyik kispesti MSZP-s önkormányzati képviselő férjének cégei a kerületben közbeszerzéseket nyerhetett el, miközben Józsefvárosban – Hadházy megfogalmazása szerint – adta a kamuajánlatokat.
+   </p>
+   <p>
+    A politikusok a kispesti járdafelújításokra néztek rá, és szinte minden esetben komoly eltéréseket találtak. Az esetek felében 10-20 százalékkal többet fizettek ki, mint amiről a megrendelés szólt, de volt olyan is, ahol 50-100-150 százalékkal többet – számolt be Hadházy.
+   </p>
+   <p rend="head">
+    A dokumentumok mellett mérőszalaggal is megvizsgálták a járdákat, találtak olyan esetet, hogy ugyanannyi járdát készítettek el, mint amennyi a megrendelésben volt, de kétszer annyit számláztak ki.
+   </p>
+   <p>
+    Hadházy szerint ekkora eltéréseknél a teljesítési igazolásban mindenképp meg kéne jelölni, mi volt az eltérés oka, de egyetlen ilyen megjelölést sem találtak. Becslései szerint így évi sok 10 millió forinttal fizetett ki többet az önkormányzat.
+   </p>
+   <p>
+    „Az út- és járdafelújítások tekintetében feljelentést fogok tenni” – jelentette be a képviselő és örömét fejezte ki, hogy valódi vizsgálóbizottságot állít fel az önkormányzat is.
+   </p>
+   <p rend="head">
+    Hadházy azt is kijelentette, nem rendelkezik bizonyítékokkal arral nézve, hogy Gajda Péter kispesti polgármester tudott volna a gyanús ügyekről, de ha nem tudott, akkor épp azért is le kellene mondania.
+   </p>
+   <p>
+    Az LMP-s Ferenczi István, aki egy vizsgálóbizottság felállítását kezdeményezte múlt héten (
+    erről itt számoltunk be
+    ), bejelentette: minden kispesti párt jelezte a csatlakozási szándékát a vizsgálóbizottsághoz, nagy részük már meg is nevezte jelöltjeit. Most már csak arra várnak, hogy a DK és a Fidesz is megnevezze, kit jelöl a bizottságba. Ha ez megtörténik, Ferenczi azt szeretné, ha a képviselő-testület rendkívüli ülésen meg is szavazná a bizottságot felállító határozatot.
+   </p>
+   <p>
+    Lackner Csabáról
+    a kampányban szivárgott ki felvétel, amelyen fehér port szárogat egy konvektoron, miközben arról beszél, hogyan kell
+    kilakoltatni
+    az önkormányzati bérlakások lakóit és hogyan lehet mutyizni az önkormányzati munka során. Azóta Lacknert kizárta az MSZP, de képviselői mandátumáról nem mondott le, sőt bizottsági helyet is kapott az önkormányzatban
+   </p>
+   <p>
+    Azóta az is kiderült, hogy
+    összejátszhatott a kispesti MSZP és a józsefvárosi Fidesz
+    a közbeszerzések terén, miután látványosan sok volt az átfedés a két kerületben induló cégek és tulajdonosaik között, és feltűnően összhangban nyerték el az egyes kerületekben a megbízásokat. A múlt héten ugyancsak
+    kisebb botrány alakult ki
+    a kispesti közétkeztetéssel kapcsolatban, amelyben Mészáros Lőrinc érdekeltségei is szerepet játszhatnak.
+   </p>
+  </body>
+ </text>
+</TEI>

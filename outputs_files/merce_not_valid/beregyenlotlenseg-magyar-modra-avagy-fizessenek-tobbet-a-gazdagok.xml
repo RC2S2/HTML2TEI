@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Béregyenlőtlenség magyar módra, avagy fizessenek többet a gazdagok!
+    </title>
+    <author>
+     <persName>
+      Kiss Ambrus
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c233a4e9-5f85-5f11-8d56-58ebe60f833b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Béregyenlőtlenség magyar módra, avagy fizessenek többet a gazdagok!
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Ambrus
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-29T22:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/01/29/beregyenlotlenseg-magyar-modra-avagy-fizessenek-tobbet-a-gazdagok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/01/29/beregyenlotlenseg-magyar-modra-avagy-fizessenek-tobbet-a-gazdagok/
+     </sch:url>
+     <sch:name>
+      Béregyenlőtlenség magyar módra, avagy fizessenek többet a gazdagok!
+     </sch:name>
+     <sch:datePublished>
+      2019-01-29T22:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Ambrus
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      egyenlőtlenség
+     </sch:keywords>
+     <sch:keywords>
+      bérek
+     </sch:keywords>
+     <sch:keywords>
+      mediánbér
+     </sch:keywords>
+     <sch:keywords>
+      munkajövedelem
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c233a4e9-5f85-5f11-8d56-58ebe60f833b">
+     <sch:identifier>
+      urn:uuid:24b2c419-d483-482a-a582-beae780dafe0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:07.412555
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:19:06.129471
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c233a4e9-5f85-5f11-8d56-58ebe60f833b" when="2021-12-14T15:26:07.412555">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Béregyenlőtlenség magyar módra, avagy fizessenek többet a gazdagok!
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Sokszor találkozunk azzal az érzéssel, hogy a statisztikai adatok által leírt valóság nem találkozik a saját valóságérzékelésünkkel. Ilyenkor gyakran elhangzik az az idézet: „
+    <hi>
+     Csak abban a statisztikában hiszek, amit én magam hamisítok.
+    </hi>
+    ” (Csak érdekességképpen: ezt az idézetet Winston Churchillnek tulajdonítják, aki kutatások szerint ilyet valószínűleg soha nem mondott. Szóval van abban valami sajátos fanatizmus, amikor
+    <hi>
+     fake news
+    </hi>
+    segítségével érvelünk a számok valósága ellen.)
+   </p>
+   <p>
+    Van egy társadalmi érzület, hogy a számok és a valóság mintha nem lennének köszönőviszonyban. Ennek egyik területe az átlagkeresetek meghatározása. Azt kell mondanom, hogy ebben az esetben mindenkinek igaza van. Mégpedig úgy, hogy a számok is valósak, és az emberek tapasztalatra alapozott érzékelése is. Mégis hogyan lehetséges ez, és legfőképpen milyen következményekkel jár?
+   </p>
+   <p rend="head">
+    Valóság és valóságok
+   </p>
+   <p>
+    Rögzítsünk egy dolgot. Hiszek benne, hogy a minket körülvevő világot számok, adatok, trendek segítségével tudjuk megérteni és leírni. Ezzel szemben vannak, akik saját szemük által látott mikrovalóságot terjesztik ki általános igazsággá.
+   </p>
+   <p>
+    Politikai elemzőként részese voltam olyan vitának, amikor az egyik résztvevő azzal érvelt a magyar egészségügy jó minősége mellett, hogy személyesen járt egy szépen felújított vidéki kórházban. Sőt, állítása alapján ez a kórház volt olyan állapotban, mint egy általa szintén meglátogatott svéd közkórház. Saját érzékelése szempontjából igaza van. Csak közben azt is látjuk, hogy a svéd egészségügyi rendszert leíró statisztikai adatok és a magyarra vonatkozók azt mutatják, hogy komoly lemaradásban vagyunk. A valóságérzékelésünk, a hitünk csap össze az adatokkal. Ez teljesen természetes.
+   </p>
+   <p>
+    De mi van akkor, ha a számok csapnak össze egymással? Ki lesz a győztes?
+   </p>
+   <p>
+    Amikor a hírportálok közölték a KSH legutolsó átlagbér-statisztikáját, nyilván sokan csaptak az asztalukra, hogy hogyan lehet ekkora az átlagbér Magyarországon? Pedig, higgyék el, nincsen semmi okunk kétségbe vonni ezeket a számokat.
+   </p>
+   <p>
+    Fontos egy kicsit elmerülni a statisztikakészítés rejtelmeibe, hogy megértsük, miért is van két valóság. Amikor átlagbért számolunk, akkor összeadjuk a dolgozók jövedelmét, és elosztjuk a dolgozók számával. Persze egy kicsit bonyolíthatjuk is, hiszen a jövedelem gyakran nem állandó összeg. Lehet mozgórésze, amely különböző pótlékokból vagy jutalmakból, esetleg cafeteria keretében adott juttatásokból állhat. De egyszerűség kedvéért összeadjuk a bérpapíron szereplő összeget, és ez lesz a számításunk alapja.
+   </p>
+   <p rend="head">
+    Amennyiben a jövedelem torz módon oszlik el a társadalomban, és egy szűk réteg nagyon jól keres, míg a többség rosszul, akkor az átlagbér értéke nem találkozik a valóságérzékelésünkkel.
+   </p>
+   <p>
+    Ebben az esetben használjuk a mediánértéket. Ha véletlenszerűen behívunk egy terembe százegy embert és a jövedelmük alapján sorba állítjuk őket, akkor az 51. ember jövedelme lesz a mediánjövedelem. A teremben pontosan ugyanannyi ember lesz nála kisebb jövedelmű, mint ahány nagyobb. Sokkal inkább ez az érték áll közel a társadalom által érzékelt valósághoz, semmint az átlagjövedelem.
+   </p>
+   <p>
+    Sajnos Magyarországon a Központi Statisztikai Hivatal (KSH) nem tud mediánjövedelmet számolni. Ennek – legyünk korrektek – nem politikai ármánykodás az oka, hanem egy módszertani probléma. A KSH havonta megkérdezi a foglalkoztatókat, hogy adott időszakban összesen mennyi embernek mennyi munkabért fizettek ki (ennek belső bontását is vizsgálják). Ez tehát nem az egyének szempontjából vizsgálja a munkajövedelmeket, hanem a cégek szempontjából. Így tehát esélyünk sincs arra, hogy a dolgozókat sorba állítva meghatározhassuk a középen lévő munkabérét.
+   </p>
+   <p>
+    Ugyanakkor nem vagyunk mégsem teljesen vakok ebben a kérdésben. A Pénzügyminisztérium minden évben megkéri a versenyszféra és a közszféra foglalkoztatóit, hogy egy mintavételi módszer segítségével adják meg a konkrét dolgozói kereseteket. Ebből felépül egy több százezer konkrét tényadatból álló adatbázis, amely statisztikai súlyozással majd 2 millió dolgozó adatait mutatja meg.
+   </p>
+   <p>
+    Ezen egyéni bér- és keresetstatisztika segítségével már virtuálisan sorba tudjuk rendezni a dolgozókat, és meghatározhatjuk a középen álló munkabérét. Azaz megvan a magyar medián munkajövedelem értéke.
+   </p>
+   <p rend="head">
+    A valóságok összevetése
+   </p>
+   <p>
+    A Magyar Szakszervezeti Szövetség megbízásából a Policy Agenda a legutolsó rendelkezésre álló adatbázis segítségével megvizsgálta, hogy milyen is a magyar statisztikai átlag és a medián közötti különbség. A 2016. májusi adatfelvétel a két jelentős minimálbér- és garantált bérminimum-emelés előtt történt. Ugyanakkor
+   </p>
+   <p rend="head">
+    a KSH adataiból azt látjuk, hogy a két béremelési hullám jelentősen nem változtatott a medián és az átlagbér közötti arányokon.
+   </p>
+   <p>
+    Ha a két párhuzamos valóságot (átlagbér és mediánbér) nézzük, akkor érdemes keresni egy referenciapontot, amihez képest meghatározhatjuk, hogy milyen a magyar helyzet. Utoljára 2014-re vonatkozó Eurostat-adatok állnak rendelkezésünkre. Ez alapján Magyarország jelentősen elmaradt az EU átlagától és az ún. „északi országoktól”, de még a versenytársainktól is.
+   </p>
+   <p>
+    Mediánbér mértéke az átlagbérhez képest; Eurostat adatok, 2014.
+   </p>
+   <p>
+    Jól látszik, hogy Magyarországon a mediánbér az átlagbér 76% volt, Szlovákiában ez a szám 7 százalékponttal magasabb, de az északi országokban szinte alig van különbség a két érték között.
+   </p>
+   <p>
+    A 2016. évi adatokat nézve a helyzet rosszabb lett. Magyarországon számításaink alapján már csak 74%-a a mediánbér az átlagbérnek. Az olló tovább nyílt, a béregyenlőtlenség tovább növekedett. Ha „átváltjuk” jelenértékre ezeket az adatokat, akkor azt kapjuk, hogy a magyar bruttó átlagbér és a mediánbér között 85 ezer forint a havi különbség. Ez jelentős differencia.
+   </p>
+   <p>
+    Mélyebben vizsgálva az adatokat, azt kaptuk, hogy a közszférában 87%-os a medián és az átlag közötti arányszám, míg a versenyszférában 69%-os. Azaz, mintha a bértábla a közszférában, a kiugróan magas tömeges jövedelmek arányának a mérséklésével kordában tartaná a béregyenlőtlenséget.
+   </p>
+   <p>
+    Medián és átlag viszonya
+   </p>
+   <p>
+    Próbáljuk meg lefordítani a valóságokat a számok nyelvére. Ha egy jól működő gazdasági rendszerünk lenne, akkor az mondhatnánk, hogy egy átlagjövedelemmel rendelkező dolgozó a „tornasor” középtáján állna. Egy picivel többen lennének nála magasabb jövedelemmel, mint alacsonyabbal.
+   </p>
+   <p>
+    De nem ilyen a gazdasági rendszerünk, ezért a medián és az átlagbér ilyen kapcsolata azt mutatja, hogy 2016-os tényadatok alapján Magyarországon 100 dolgozóból 69 jövedelme nem éri el az átlagot. A versenyszférában dolgozók esetében ez 73 dolgozóra igaz. Jelentős a különbség statisztikában is kifejezve a társadalmi érzékelés és az átlagérték között.
+   </p>
+   <p rend="head">
+    Milyen hatása van ennek az egyenlőtlenségre?
+   </p>
+   <p>
+    Mit lehet ezzel a helyzettel kezdeni? Pontosabban mit mutat számunkra azon túl menően, hogy érthető válik, miért érzik sokan a statisztikát becsapásnak? A probléma valódi gyökere abban rejlik, hogy nagy lesz ezáltal a béregyenlőtlenség.
+   </p>
+   <p>
+    Teljesen természetes, hogy a dolgozók nem azonos módon keresnek. Ugyanakkor
+   </p>
+   <p rend="head">
+    van egy pont, amikor az egyenlőtlenség társadalmi feszültséget okoz. Magyar politikára lefordítva ez azt jelenti, hogy hiába beszél a kormány a munkaalapú társadalomról, ha közben sokan érzik magukat a vesztes oldalon.
+   </p>
+   <p>
+    Márpedig a munkajövedelmek (is) nagyon torz módon képeződnek le a magyar társadalomban.
+   </p>
+   <p>
+    A társadalom alsó 52%-a keres együtt annyit, mint a társadalom felső 10%. A helyzet még ennél is szürreálisabb, ha tovább bontjuk a felső tizedet. A legjobb keresettel rendelkező 5% teljes munkajövedelme az alsó 40%-nak felel meg. (Egyébként a versenyszférában rosszabb az arány. Ott az alsó 58% keresete felel meg a felső 10%-nak.)
+   </p>
+   <p>
+    Ezek ugyan bruttó jövedelmek, de az is látszik, hogy
+   </p>
+   <p rend="head">
+    az egykulcsos adórendszer csak konzerválja a különbséget. Nem nehéz belátni, hogy ha a dolgozói társadalom alsó 40%-a is 15%-os SZJA-t fizet, és az elitmunkabéresek is (felső 5%) ugyanennyit, akkor adózás után is éppen ugyanakkora lesz a két bértömeg, mint előtte.
+   </p>
+   <p>
+    Nyilván nem az elitmunkabéresek tehetnek arról, hogy ilyenek a társadalmi egyenlőtlenségek is dolgozói rétegen belül. Ők védik a helyzetüket, és egyértelműen első körben ellenfelei minden változásnak, amely a pozícióikat érintheti. Azt is mondhatjuk, hogy politikai-gazdasági szempontból az ő érdekérvényesítési képességük többszöröse az alsó 40% érdekérvényesítési képességének. Annak ellenére, hogy szavazatszámukat tekintve nyolcadannyian vannak.
+   </p>
+   <p rend="head">
+    Mi van a valóságokon túl?
+   </p>
+   <p>
+    Korábbiakban bemutattam, hogy miért érezzük magunkat a statisztikai adatok között párhuzamos valóságban. Az is láthatóvá vált, hogy ez milyen torzulást okoz a társadalomban. Érdemes megnézni, hogy mi következik ebből.
+   </p>
+   <p>
+    Azt írtam a korábbiakban, hogy első körben az elitmunkabéresek nem érdekeltek a jövedelemelosztási status quo megtörésében. Ezért nézzük meg, hogy mivel lehet kimozdítani őket ebből az alapállásból!
+   </p>
+   <p>
+    A kérdésnek van egy morális oldala. A születés pillanatában mindenki egyenlő, de sajnos a lehetőségei azonnal differenciáltak. A családi környezetből adódó hátrányok, a földrajzi elhelyezkedés miatt konzerválódó oktatási lemaradások, az ebből fakadó munkaerőpiaci egyenlőtlenségek (sőt még a munka világában való
+    félelmeink is
+    ) sokkal nagyobb hatással vannak társadalmi szintek közötti mobilitásunkra, mint képességeink, szorgalmunk. Azaz azt, hogy hol és mennyiért dolgozunk, nagyban behatárolja születési környezetünk.
+   </p>
+   <p>
+    Azért senki nem büntethető, amiről nem tehet. Nem tehetünk arról, hogy az oktatásunk, az egészségügyünk, a közlekedési rendszerünk és alapvetően a félperifériális kapitalista gazdasági modellünk korlátozza lehetőségeinket. Ha ma valaki például egy veszprémi kis faluba születik, akkor statisztikai értelemben sokkal kisebb az esélye egyetemre menni, majd vezető állást, ezáltal magasabb jövedelmet kapni, mint akár a Kádár-rendszerben. Ez számára egy olyan hátrány, amelyet nem ő választott, nem tehet róla.
+   </p>
+   <p>
+    Nyilván ez nehezen szüntethető meg, éppen ezért adekvát megoldás, hogy legalább tompítsuk ezt a hátrányt. Erre szolgál az igazságos újraelosztás rendszere. Az a rendszer, amely az elitmunkabéresektől arányaiban is nagyobb felelősségvállalást kér, mint akár a társadalom többségétől.
+   </p>
+   <p>
+    Ez a morális oldala a kérdésnek. De van egy gazdasági megfontolási része is. Tudjuk, hogy munkaerőhiány van, és azt is látjuk, hogy ez nem múlik el csak úgy magától. A gazdasági szerkezetünk olyan, hogy magas hozzáadott értékű munkafolyamatok alacsony arányban vannak jelen a GDP-ben. Erre mondják azt, hogy ilyen termelékenység mellett, ilyen bérek járnak a dolgozóknak.
+   </p>
+   <p>
+    Csak közben látjuk, hogy
+   </p>
+   <p rend="head">
+    van egy elitmunkabéres réteg, akiknek a jövedelmi szintje a többséghez képest túl magas. Ha ők „visszaosztanak” a társadalomnak, akkor legalább az adórendszer segítségével növelhetőek a nettó bérek a társadalom jelentős részénél. Ez mérsékelheti a munkaerő elvándorlását, és segítheti az elitmunkabéresek gazdasági helyzetének megőrzését.
+   </p>
+   <p>
+    Persze az adórendszer önmagában csak részmegoldást jelent. Ettől kisebb lenne a különbség, de nem olyan mértékben, hogy ezzel elégedettek lehetnénk. Az Eurostat adatai szerint 2006-ban – a gazdasági válság előtt, a többkulcsos adórendszer közepette – 77%-a volt a mediánbér az átlagbérnek.
+   </p>
+   <p rend="head">
+    Nincs más megoldás, mint a gazdasági modellváltás
+   </p>
+   <p>
+    Egy olyan
+    északi modell
+    , amelyben egészségügyre, oktatásra, szakképzésre többet és hatékonyabban költünk. Ahol erős szakszervezeti és munkaadói szövetségek közötti megállapodások, kollektív szerződések kényszerítik ki a magasabb hozzáadott értékű termelés megjelenését. És amelyben a társadalmi transzparencia és az állampolgári felelősségvállalás olyan, hogy nem kérdés: aki jobb helyzetben van, annak többet kell vállalnia.
+   </p>
+   <p>
+    Tudom, hogy a politikai szlogen már foglalt, de tényleg nincs jobb hívószó, mint hogy „Fizessenek a gazdagok”; a politikai korrektség kedvéért hozzáteszem: többet.
+   </p>
+   <p>
+    Ennek a szövegnek
+    az eredeti változata az Új Egyenlőség oldalán jelent meg
+    .
+   </p>
+   <p>
+    Az Új Egyenlőség rendszeresen közöl olyan társadalom-, politika-, gazdaságelméleti írásokat, amelyek hasznos szempontokat, kereteket nyújtanak a közéleti gondolkodáshoz, vitákhoz. A lap öndefiníciója szerint „a gazdasági demokrácia alapértékeit – egyenlőség, szabadság, igazságosság és szolidaritás – képviseli”. A Mérce – az Új Egyenlőség szerkesztőivel egyeztetve, olykor szerkesztve – rendszeresen közli újra a magazin szövegeit.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gothár Péter hallgatóit pszichológus hallgatja meg a Színház- és Filmművészeti Egyetemen
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f264737e-c44a-57b9-bec4-f9d551a7b12a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Gothár Péter hallgatóit pszichológus hallgatja meg a Színház- és Filmművészeti Egyetemen
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-11-27T09:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/11/27/gothar-peter-hallgatoit-pszichologus-hallgatja-meg-a-szinhaz-es-filmmuveszeti-egyetem/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/11/27/gothar-peter-hallgatoit-pszichologus-hallgatja-meg-a-szinhaz-es-filmmuveszeti-egyetem/
+     </sch:url>
+     <sch:name>
+      Gothár Péter hallgatóit pszichológus hallgatja meg a Színház- és Filmművészeti Egyetemen
+     </sch:name>
+     <sch:datePublished>
+      2019-11-27T09:00:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      nők elleni erőszak
+     </sch:keywords>
+     <sch:keywords>
+      szexuális zaklatás
+     </sch:keywords>
+     <sch:keywords>
+      zaklatás
+     </sch:keywords>
+     <sch:keywords>
+      katona józsef színház
+     </sch:keywords>
+     <sch:keywords>
+      gothár péter
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f264737e-c44a-57b9-bec4-f9d551a7b12a">
+     <sch:identifier>
+      urn:uuid:ea55bdaf-b476-4da9-9f9f-b39fbc50d2bf
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:58.681031
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:52:09.637290
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f264737e-c44a-57b9-bec4-f9d551a7b12a" when="2021-12-14T15:30:58.681031">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Gothár Péter hallgatóit pszichológus hallgatja meg a Színház- és Filmművészeti Egyetemen
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A Színház- és Filmművészeti Egyetem (SZFE) Etikai Tanácsának ajánlását tiszteletben tartva szünetelteti oktatói tevékenységét az egyetemen Gothár Péter – írja az
+    Index
+    .
+   </p>
+   <p>
+    Upor László, az SZFE rektori feladatokat ellátó rektorhelyettese tudatta mindezt levélben Fekete Péter kultúráért felelős államtitkárral, ahogy azt is: az egyetem pszichológusa a következő egy hétben egyesével hallgatja majd meg azokat a hallgatókat, akiket Gothár tanít vagy nemrégiben tanított, a beszélgetések eredményéről pedig anonim írásos összefoglalót készít.
+   </p>
+   <p>
+    Az egyetem felkért a vizsgálatra egy független pszichoterapeutát is, emellett a korábbi zaklatási ügyek óta saját pszichológust is alkalmaz, akit azonban szexuális zaklatás miatt (amiről a szakembernek kötelessége lenne értesíteni a vezetőséget is) mindeddig egyszer sem kerestek fel – bár más ügyekben már kérték a segítségét.
+   </p>
+   <p>
+    Upor levelében kitért arra is, hogy mielőtt Gothár saját maga felfedte volna kilétét, az SZFE csak sajtómegkeresésekből következtetett arra, hogy saját oktatójuk lehet érintett a Katona József Színházban november közepén napvilágra került zaklatási ügyben, ám erről hiába kérdezték a Katonát, nem kaptak választ.
+   </p>
+   <p rend="head">
+    Gothár Pétert az SZFE Etikai Bizottsága december 4-én fogja hallgatja meg az ügyben.
+   </p>
+   <p>
+    A rendező egyébként saját maga kereste fel az egyetemet, hogy etikai vizsgálatot kérjen maga ellen.
+   </p>
+   <p>
+    Ahogy azt
+    mi is megírtuk
+    , november 19-én a Katona József Színház közleményben tudatta, hogy vezetőségük tudomására jutott: egy szerződéses munkatársuk több esetben is erkölcsi határokat átlépő módon viselkedett a színház dolgozóival. A szerződéses munkatársat nem nevezték meg, ám azt közölték, hogy aznaptól be sem léphet az intézménybe. Másnap Gothár Péter – szintén a Katonán keresztül – saját maga tudatta, hogy róla van szó. Mint fogalmazott:
+   </p>
+   <p>
+    „Egy évvel ezelőtt erkölcsileg elfogadhatatlan módon közeledtem színházunkban egy munkatársnőmhöz. Pár nappal később bocsánatot kértem és kaptam tőle.”
+   </p>
+   <p>
+    Gothár közleményét egyébként a Katona úgy tette közzé, hogy semmilyen formában nem kommentálta azt.
+   </p>
+   <p>
+    Pedig lett volna mit, az ügy kezelése ugyanis több problémát is felvet. Hogy csak a legegyszerűbbet említsük: míg a színhát első közleményében több áldozatról is szól, Gothár kategorikusan egy esetet említ. Fontos kérdés továbbá, hogy a Katona, tudva, hogy rendezőjük ilyen ügyekben érintett, miért nem érezte szükségét annak, hogy például az egyetemet, ahol oktatóként Gothár rengeteg hallgatóval került kapcsolatba, tájékoztassa a helyzetről. De érdekes kérdés az is, hogy a színház, amely az érintettek védelmét hozta fel indokként, hogyan gondolhatta, hogy eltitkolja Gothár kilétét – ráadásul kiderült, hogy a társulat tagjaival szigorú titoktartási nyilatkozatot írattak alá.
+   </p>
+   <p rend="head">
+    Mivel pedig azt már a kezdet kezdetén jelezték, hogy egyetlen közleménnyel elintézték a nyilvánosság tájékoztatását, nem tudni azt sem, azon túl, hogy megváltak Gothártól – aki ha mást nem is, egy konkrét esetet azért maga is elismert -, indult-e bármilyen eljárás az ügyben, feljelentést tettek-e.
+   </p>
+   <p>
+    Mindezek ellenére Karácsony Gergely a HírTv kérdésére azt válaszolta:
+    példamutatóan járt el
+    a Katona József Színház Gothár Péter zaklatási ügyében, és kellően gyorsan is cselekedtek. A főpolgármester a múlt héten minden minden intézménynek és fővárosi cégnek
+    utasítást adott
+    , hogy az ilyen esetekre alkossák meg saját belső eljárásrendjüket, „ahogy ezt anno a Katona is megtette, és ezeket az ügyeket tisztességesen, átláthatóan rendezni kell”. Ezt már Gy. Németh Erzsébet kultúráért felelős főpolgármester-helyettes mondta, aki szintén úgy vélte, a Katona jól járt el ebben az esetben, amelyben ő úgy tudja, nem született rendőrségi feljelentés.
+   </p>
+   <p>
+    És természetesen önmagán is túlmutat az ügy: a kormány például jelenleg épp arra használja fel, hogy minden visszavágásában az ellenzékre mutogasson. A leglátványosabb
+    talán az volt
+    , amikor a múlt héten Vadai Ágnes (DK) kérdezte a kormányt és a Fideszt arról, támogatják-e a párt javaslatát, amely nyilvános listát készítene a pedofilokról.
+   </p>
+   <p>
+    Völner Pál államtitkár válaszában viszont egyből szexuális bűncselekmények támogatásával vádolta az ellenzéket, összemosva a pedofíliát a szexuális erőszakkal, és azzal vádolva az ellenzéki pártokat, hogy „fedezik” Gothárt és „balliberális élet emblematikus alakjait”.
+   </p>
+   <p>
+    Hovatovább – sose felejtsük el – korábban, Marton László, Kerényi Miklós Gábor, vagy éppen Kenderesi Tamás ügyében a kormány
+    nem szólalt meg
+    , és bár napvilágra kerülésük idején minden ügy nagy publicitást kapott, Marton végül újra rendezhetett halála előtt, Kerényi is visszatért a színházi világba, Kenderesi pedig éppen azzal mentegeti magát, hogy csak egy fogadás miatt csapott Dél-Koreában egy nő fenekére (a Magyar Úszó Szövetség fegyelmi bizottságától írásbeli megrovást kapott, emellett a válogatottságért őt megillető juttatások féléves megvonását).
+   </p>
+   <p>
+    Vagyis koránt sem lenne mindegy a jövő szempontjából, hogy az érintettek hogyan kezelik a jelenlegi ügyet: hogy valóban sikerül-e olyan eljárásrendet kialakítani, ami az áldozatokat védi, és nem az elkövetőket takargatja, hogy a felelős döntéshozók mernek-e radikálisabban fellépni annak érdekében, hogy az intézmények saját hírnevük védelmére ne próbálják meg elsunnyogni a hasonló ügyeket, hogy végre ne csak akkor kerüljenek terítékre a Parlamentben az ilyen esetek, ha a kormány épp eszközként használja őket az ellenzék ekézésére.
+   </p>
+   <p>
+    via
+    Index
+   </p>
+  </body>
+ </text>
+</TEI>

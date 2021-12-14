@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Már a társalapítója szerint is fel kéne darabolni a Facebookot
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e1aee9c2-5431-5387-945a-6ad12f0c184c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Már a társalapítója szerint is fel kéne darabolni a Facebookot
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-05-11T12:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/05/11/mar-a-tarsalapitoja-szerint-is-fel-kene-darabolni-a-facebookot/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/05/11/mar-a-tarsalapitoja-szerint-is-fel-kene-darabolni-a-facebookot/
+     </sch:url>
+     <sch:name>
+      Már a társalapítója szerint is fel kéne darabolni a Facebookot
+     </sch:name>
+     <sch:datePublished>
+      2019-05-11T12:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      facebook
+     </sch:keywords>
+     <sch:keywords>
+      közösségi média
+     </sch:keywords>
+     <sch:keywords>
+      techcégek
+     </sch:keywords>
+     <sch:keywords>
+      mark zuckerberg
+     </sch:keywords>
+     <sch:keywords>
+      monopólium
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e1aee9c2-5431-5387-945a-6ad12f0c184c">
+     <sch:identifier>
+      urn:uuid:bced7b8a-1c42-4c3c-8ee6-327896bb0b20
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:42.354068
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:34:52.214711
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e1aee9c2-5431-5387-945a-6ad12f0c184c" when="2021-12-14T15:30:42.354068">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Már a társalapítója szerint is fel kéne darabolni a Facebookot
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    „Mark [Zuckerberg] jó, kedves ember. De dühös vagyok, amiért a növekedés iránti vágya a biztonság és udvariasság feláldozásához vezetett kattintásokért cserébe. Csalódott vagyok magamban és a korai Facebook-csapatban, amiért nem gondolkodtunk többen azon, a Hírfolyamunk algoritmusa hogyan változtathatja meg a kultúránkat, befolyásolhatja a választásokat és erősítheti meg a nacionalista vezetőket. És aggódom, hogy Mark egy olyan csapattal vette körbe magát, amely megerősíti az elképzeléseit ahelyett, hogy vitatkozna velük.”
+   </p>
+   <p>
+    Ezeket a sorokat a Chris Hughes, a Facebook társalapítója, Mark Zuckerberg kollégiumi szobatársa írta csütörtöki publicisztikájában, mely a
+    New York Times-ban jelent meg
+    . Hughes amellett érvel, hogy az amerikai kormányzatnak fel kéne darabolnia a közösségi médiaóriást, és erősebben kellene szabályoznia a nagy technológiai vállalkozásokat, a Facebook mellett például a Google-t vagy az Amazont is.
+   </p>
+   <p>
+    Az idén 15 éves cégből már egy évtizede kiszállt társalapító szerint Mark Zuckerberg Facebook-vezér kezében olyan hatalom összpontosul, amely sem a gazdaságban, sem a politikában nem adatik meg egyetlen más embernek sem. A vállalat részvényeinek 60 százalékát birtokló Zuckerberg egyedül meghatározhatja, mit lássanak az emberek a hírfolyamukban, milyen adatvédelmi beállításokat használhatnak, de akár azt is, hogy milyen magánüzeneteket juttathatnak célba. Ő fekteti le annak szabályait, mi számít erőszakos beszédnek vagy csak simán sértő tartalomnak, és dönthet úgy, hogy kivégez egy versenytársat felvásárlással, kiszorítással vagy épp lemásolással.
+   </p>
+   <p rend="head">
+    Hughes több érvet is felsorakoztat azért, hogy bizonyítsa: ez a fajta monopólium káros.
+   </p>
+   <p>
+    Az egyik legfontosabb – amely egyébként a szabad piac és a kapitalizmus elkötelezett hívei számára is megfontolandó – az, hogy a Facebook-típusú monopóliumok súlyosan hátráltatják a versenyt és az innovációt. Hughes szerint látványos, ahogyan a nagy monopóliumok által dominált területeken, mint a közösségi média (Facebook), e-kereskedelem (Amazon) vagy épp az internetes keresés (Google), lassan egy évtizede semmilyen jelentős innováció nem történik, nem jelennek meg új szereplők. Eközben más területek, mint például a városi közlekedés (Lyt, Uber, Lime, Bird) folyamatosan pörög az innováció, hiszen itt nincs egyetlen domináns szereplő.
+   </p>
+   <p>
+    Ez nem véletlen, hiszen a közösségi médiás bevételek 80 százalékát elkönyvelő Facebook mindent megtesz, hogy ellehetetlenítse az alulról építkező versenytársakat. Olykor alacsony áron felvásárolja őket, ahogy az az Instagram és a WhatsApp esetében történt. Máskor a domináns pozícióját használja arra, hogy lenyomja a versenytársakat, vagy egyszerűen csak lemásolja azokat – ez történt például a Snapchat esetében.
+   </p>
+   <p>
+    Ilyen körülmények mellett senki nem akar beszállni új, jobb ötletekkel, befektetők nem akarnak tőkét fordítani rájuk, hiszen úgyis kudarcra vannak ítélve.
+   </p>
+   <p>
+    Emellett Hughes úgy érvel, a monopólium megléte a fogyasztók/felhasználók számára is hátrányos. Bár az utóbbi években egyre több botrány robban ki a Facebook körül, legyen szó a választási manipulálásra szakosodott cégeknek odaadott felhasználói adatokról vagy épp az erőszakra buzdító üzenetek burjánzásáról, a felhasználók előtt mégsem nyílnak alternatívák. Hiába ígérik sokan egy-egy botrány után, hogy letörlik magukat a közösségi hálóról, a felmérések szerint kevesen tesznek eleget ígéretüknek, nincs ugyanis választék. A verseny elősegítené a szolgáltatások minőségének javulását: ha például egy másik cég átláthatóbb és szigorúbb adatvédelmi elveket követne, a fogyasztók oda vándorolhatnának, és így a Facebooknak is javulni kellene. Ez a helyzet azonban nem áll fenn.
+   </p>
+   <p>
+    A harmadik probléma, hogy Zuckerberg kezében majdnem korlátlan hatalom áll a szólásszabadság meghatározására. Hughes szerint egyetlen ember kezében sem szabadna ilyen hatalmat összpontosítani, hogy ő dönthesse el, milyen tartalmak számítanak elfogadható közlésnek, és melyek tiltandók. A Facebooknak emellett arra is lehetősége van, hogy a privát üzeneteket is blokkolja, tehát még egy Messengeren keresztüli beszélgetésről is dönthet a cég.
+   </p>
+   <p>
+    Hughes ezért azt javasolja, hogy az amerikai kormányzatnak fel kéne darabolni a Facebookot, kezdve azzal, hogy visszacsináltatja az Instagram 2012-es és a WhatsApp 2014-es megvásárlását. Emellett egy olyan szabályozó szerv felállítását is szorgalmazza, amely egyrészt a felhasználók adatainak védelmét látná el, illetve irányelveket fogalmazna meg a szólásszabadság bonyolult dilemmáira.
+   </p>
+   <p rend="head">
+    A társalapító emlékeztet: csak manapság tűnik lehetetlennek egy ilyen állami fellépés, holott az USA-ban és a világ más részein is hosszú hagyománya van a tröszt- és monopóliumellenes fellépésnek, és a túlzott piaci részesedésre szert tevő vállalatok kormányzati feldarabolására.
+   </p>
+   <p>
+    Szerinte az 1970-es évek óta egy szűk közgazdászcsoport és az általuk létrehozott intézetek, think-tankek hintették el az elképzelést, miszerint a piaci tevékenység szükségszerűen hatékony és a szabadságot szolgálja, az állam pedig bürokratikus és nem hatékony. Hughes szerint ezzel a tévképzettel le kell számolni.
+   </p>
+   <p>
+    Arra is figyelmeztet: ne higgyük azt, hogy a Facebook ingyenes. Bár pénzben nem fizetünk a platform használatáért, személyes adatainkkal és figyelmünkkel bőven kompenzáljuk azt, monopolhelyzetének köszönhetően Zuckerbergék tehát azt az „árat” is folyamatosan emelni tudják, amelyért megváltjuk a platform használatának jogát.
+   </p>
+   <p>
+    Nem Hughes az egyedüli, aki hasonló intézkedéseket szorgalmaz a nagy techcégekkel szemben. Az amerikai Demokrata Párt elnökjelöltségéért induló Elizabeth Warren márciusban tette közzé a Facebook társalapítójáéhoz nagyon hasonló javaslatait,
+    ezekről bővebben itt írtunk
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

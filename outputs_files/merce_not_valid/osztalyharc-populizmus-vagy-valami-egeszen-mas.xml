@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Osztályharc, populizmus vagy valami egészen más?
+    </title>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6c42640f-d163-5cca-b8cc-11e3281bd844
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Osztályharc, populizmus vagy valami egészen más?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-04-24T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/04/24/osztalyharc-populizmus-vagy-valami-egeszen-mas/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/04/24/osztalyharc-populizmus-vagy-valami-egeszen-mas/
+     </sch:url>
+     <sch:name>
+      Osztályharc, populizmus vagy valami egészen más?
+     </sch:name>
+     <sch:datePublished>
+      2021-04-24T20:30:00
+     </sch:datePublished>
+     <sch:alternateName>
+      A PTI Társadalomelméleti Műhelyének Podcastja
+     </sch:alternateName>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      könyv
+     </sch:keywords>
+     <sch:keywords>
+      politikatörténeti intézet
+     </sch:keywords>
+     <sch:keywords>
+      napvilág kiadó
+     </sch:keywords>
+     <sch:keywords>
+      Antal Attila
+     </sch:keywords>
+     <sch:keywords>
+      társadalomelméleti műhely
+     </sch:keywords>
+     <sch:keywords>
+      Kiss Viktor
+     </sch:keywords>
+     <sch:keywords>
+      Csigó Péter
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6c42640f-d163-5cca-b8cc-11e3281bd844">
+     <sch:identifier>
+      urn:uuid:a034525f-064d-4bd9-a846-2ad82c33aa26
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:07.355541
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:42:56.006536
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6c42640f-d163-5cca-b8cc-11e3281bd844" when="2021-12-14T15:31:07.355541">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Osztályharc, populizmus vagy valami egészen más?
+   </head>
+   <head type="subtitle">
+    A PTI Társadalomelméleti Műhelyének Podcastja
+   </head>
+   <p>
+    <hi>
+     A kritikai baloldal jelenét, jövőjét és gondolkodásmódját meghatározó témák sokasága hever előttünk az asztalon. Ennek ellenére gyakran azt tapasztaljuk, hogy ezek a témák és vitapontok vagy elsikkadnak a hétköznapokban, vagy a cselekvési potenciál fenntartása és a mozgalmi egység nevében szándékosan szőnyeg alá söprik őket. „Szeressük egymást gyerekek!” Mindenkire szükség van!” „A közös pontokra koncentráljunk!” Hol a rendszerkritika, és az ezzel szükségszerűen együtt járó baloldal-kritika helye? A Politikatörténeti Intézet és a Társadalomelméleti Műhely podcastjában ezekről a kérdésekről volt szó Kiss Viktor új könyve kapcsán.
+    </hi>
+   </p>
+   <p>
+    „Sikerült-e a baloldal gondolkodásmódjának és a rendszerkritikus politikának átlépnie a helyi keretekből a globális szintre?” – teszi fel a kérdést Kiss Viktor beszélgetőtársainak, Antal Attila politológusnak és Csigó Péter szociológusnak. Szerinte a mindennapok közéleti vitáiban nagyon könnyen szűkülünk bele a körülöttünk zajló ügyekbe, rekedünk meg a nemzetállami politikai keretek között. A lakhatási kérdések, szociális ügyek, közéleti botrányok, az Orbán-rendszer visszásságai és hasonlók töltik ki a baloldali közbeszédet. A probléma az, hogy valójában a baloldal továbbra sem tudja, hogyan kell „globálisan gondolkodni”, hogyan kell helyi tevékenységét a nemzetközi dimenzióban megfogalmazni. A kívül és belül közötti küzdelmek középpontba állítása erre a problémára kínálhat megoldást.
+   </p>
+   <p>
+    A
+    <hi>
+     Kívül/Belül
+    </hi>
+    című könyv megírása során JBR Walker és Slavoj Žižek gondolatai mindenképpen inspirációt jelentettek – folytatja. Walker amellett foglalt állást, hogy a kívül és a belül közötti harc azért lesz az új „globális konfliktus”, mert a nemzetállami rendszer a bipoláris világrend megszűnése után, az új körülmények között radikálisan átalakul. A nemzetállam működésének alapja pedig éppen az, hogy a kívül és a belül között merev határt von – tulajdonképpen az államok az elmúlt évszázadokban ebben voltak a leghatékonyabbak: szuverenitásukat érvényesíteni a belül lévők – állampolgáraik – felett, és kirekeszteni a nem-állampolgárokat. A másik fontos forrás Žižek, aki vissza-visszatérően érvel amellett, hogy a lokális és a globális szint közötti kapcsolat az lesz, hogy mindkét fronton a kirekesztettek és a befogadottak közötti harcok zajlanak majd – tehát „kicsiben” és „nagyban” egyaránt ugyanaz lesz a fő politikai probléma.
+   </p>
+   <p>
+    Csigó Péter szerint a
+    <hi>
+     Kívül/Belül
+    </hi>
+    című könyv legnagyobb érdeme nem egyszerűen az, hogy éppen ezt a típusú konfliktust tekinti elsődlegesnek. Fő tézise, hogy a kívül és belül közötti antagonizmus természete a 21. század elejére gyökeresen megváltozott. Nem egy régi konfliktus visszatérésének lehetünk tehát tanúi, hanem valami egészen újnak, ami csak első ránézésre hasonlít a korábbiakra. „A 2010-es években – a neoliberális hegemónia után – a politikai antagonizmusok visszatértek, a baloldal újra ezekhez kíván kapcsolódni. A jóléti állam időszakában, majd azt követően egy olyan politikai klíma alakult ki, amely lehetetlenné tette, hogy a valódi kérdésekről beszéljünk: ez először az osztálykompromisszumra épülő politikai rendszer, majd a politikai versenyt a piac mintájára elképzelő és a politikust termékként kezelő neoliberális korszak hatása volt.”
+   </p>
+   <p>
+    De hogyan tér vissza az antagonizmus? Csigó úgy gondolja, hogy alapvetően két válasz született erre a kérdésre: az egyik szerint az osztályok tértek vissza, a másik pedig a populizmus keretrendszerében gondolkodott. „A legtöbb baloldali szerző úgy gondolja, hogy valami régi típusú ellentmondás kerül újra előtérbe, vagy erősödik fel. Kiss Viktor azonban amellett érvel, hogy valamennyi korábbi antagonizmus helyett jelenik meg az általa leírt új típusú politikai konfliktus.
+   </p>
+   <p rend="head">
+    A baloldalnak ezért alapos vérfrissítésre van szüksége, mert bár igaz, hogy az antagonizmusok visszatértek, de valami egészen más formában, amely sem a populizmus, sem az osztályharc hagyományos fogalmával nem érthető meg.”
+   </p>
+   <p>
+    Az antagonizmusok új logikája és formája tehát a kérdés: mi az, ami új a globalizáció és a posztmodern kapitalizmus időszakában?
+   </p>
+   <p>
+    Antal Attila ehhez hozzáteszi: hogy ma a baloldal különféle irányzatai közötti fő törésvonalat egyértelműen az képezi, hogy a felsoroltak közül melyik ellentmondást tekintik a legfontosabbnak: az osztályellentéteket, az új autoriter jobboldal elleni harcot, vagy a populista megközelítésből adódó szembeállításokat, esetleg a Kiss Viktor által ajánlott kulturális töréseket, a Kívül és a Belül közötti szakadásokat. Ebből azonban nem következhet, hogy bizonyos baloldali irányzatokat elavultnak, károsnak minősítsünk és velük szemben fogalmazzuk meg az új típusú baloldaliság mibenlétét. A baloldali megújulás ilyen típusú követelésének van egy komoly veszélye. „Túl könnyű egy kalap alá venni a baloldal szereplőit a kritika során, mindenki mást önmagunkon kívül. Amennyiben azonban a jelenlegi baloldaliak sokaságát a „politika beteg emberének” minősítjük, akkor ki marad, akivel egy másik típusú politikát építeni lehet? Ebben az esetben ki marad a „baloldali élcsapaton”, vagy a „pincében bujkáló forradalmárokon” kívül?”
+   </p>
+   <p>
+    Csigó szerint a könyv által felvetett társadalomelméleti kérdések sokkal fontosabbak, mint a politikai irány, amit javasol. Például az, hogy lehetséges-e egyáltalán a jelenleg létező politikai rendszerben és társadalmi viszonyok között a pártpolitika szintjén egy olyan szembeállítást megjeleníteni, amelyben a kapitalizmuskritikusok állnak szemben a kapitalizmust támogatókkal. Véleménye szerint nem, ebbe buktak bele a populisták is – az eredmény esetükben is az lett, hogy míg beszédmódjuk antikapitalista volt, a gyakorlatban egyszerű rendszerkonform közpolitikai javaslatokat fogalmaztak meg – ahogy a könyv is bemutatja ezt. Ehhez hasonló, alapvető társadalomelméleti kérdés, hogy a kívül és a belül közötti szembenállás mennyiben tekinthető újdonságnak, mennyiben gyökerezik a 21. századi kapitalizmusban és mi a valódi természete? Vagy hogy a politikára alapvetően úgy tekintünk, mint ami alkalmas arra, hogy megoldásokat nyújtson a felvetődő kérdésekre (ahogyan Csigó gondolja, reformista szociáldemokrataként), vagy ellenkezőleg: azt szeretnénk megérteni, hogy a politika miért impotens, és hogyan magyarázható a politika logikája az általunk ma ismert liberális demokráciák tehetetlenségéből (ami mellett a könyv érvel).
+   </p>
+   <p>
+    Nagy hiba, ha ezeket háttérbe szorítva, túlzottan a politikai megoldásra koncentrálunk. „A társadalomelméleti diagnózisból sosem vezet egyenes út a politikához, ezért utóbbi inkább válik kontraproduktívvá: a „mi a teendő”? kérdésére adott válasz inkább önkényes, és sokak számára elidegenítő. Mint például a könyv azon tézise, amely reménytelennek tekinti a perifériára szorultak, a kirekesztettek „pátyolgatására” építő, egyenlőségalapú politikát. A hatás csak az lehet, hogy az ebben magukra ismerők nem fogják komolyan venni magát az elméletet sem. Pedig nem erről kellene beszélni, hanem azokról az elméleti kérdésekről, hogy
+    <hi>
+     mit jelent a Kívül és a Belül
+    </hi>
+    ?,
+    <hi>
+     mit értünk antagonizmus alatt
+    </hi>
+    ?,
+    <hi>
+     miért képviselhetetlenek ma a társadalmi ellentétek
+    </hi>
+    ? Ezeket a kérdéseket Csigó szerint Kiss Viktor könyve jó minőségben, hitelesen és töményen veti fel.
+   </p>
+   <p>
+    Kiss egyetért azzal, hogy nem fogadható el az Antal Attila által említett ultrabaloldali stratégia, amely végső soron mindenkit kizár az „igazi forradalmárok”, a „valódi baloldaliak”, a forradalomra alkalmas csoportok közül – ez ugyanis a baloldali terrorizmus útját nyithatja csak meg. Azonban nem tartható a másik irány sem, amennyiben úgy gondoljuk, hogy a gyökeres változások a világban elkerülhetetlenek. Ha a klímaváltozás, a fogyasztói társadalom, a technikai fejlődés, vagy a kirekesztettek és befogadottak közötti antagonizmusokat nézve úgy tűnik, valóban a 24. órában vagyunk, akkor a kérdés tétje rögvest megváltozik: ebben az esetben ugyanis „nem érünk rá” arra, hogy választási kampányokra, aktivista aprómunkára pazaroljuk az időt, de arra sem, hogy teljes tévúton járó baloldali szereplők uralják a terepet. Ha tényleg nem akarjuk, hogy így menjenek tovább a dolgok, akkor fel kell vállalni, hogy forradalomra van szükség. Ebben az esetben fontos kiélezni a küzdelmeket, különösen ha abból indulunk ki, hogy egy „másfajta baloldal” sokkal szélesebb társadalmi csoportot meg tud szólítani.
+   </p>
+   <p>
+    Kiss Viktor szerint elfogadható egy olyan szerzői magatartás is, amely kizárólag elméleti kapaszkodókat kíván nyújtani, melyekből mindenki levonhatja a következtetéseket.
+   </p>
+   <p rend="head">
+    Kiss azonban a jelenlegi helyzetben inkább azokhoz kíván szólni, akik alapvetően ebben az irányban keresgélnek, csak esetleg még ők sem pontosan értik, hogy mi az, amiben részt vesznek, részt vehetnének.
+   </p>
+   <p>
+    A fontos könyvek mindig inkább önmagunk megértését szolgálják, és ez így van a radikális-forradalmi baloldalon is. Elsőre ez talán a potenciális olvasóbázis beszűkítéseként hathat. Valójában azonban éppen ennek ellenkezője az igaz. Az alapvető kérdés ugyanis a baloldal számára az, hogy hol kell keresni a megfelelő tömegeket? A társadalom perifériára szorult tagjainak irányában, vagy éppen a középosztályok, a centrum irányában? Utóbbival komoly problémák adódtak a múltban, ugyanakkor tévedés, ha ezek miatt a másik irányt kezdjük fetisizálni. A könyv célja – emeli ki Kiss Viktor – hogy egy harmadik megoldást kínáljon ezzel a két iránnyal szemben, az autonomizmus középpontba állításával.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kiss Viktor: Kívül / Belül. Egy új politikai logika.
+    </hi>
+    Napvilág Kiadó 2021.
+   </p>
+  </body>
+ </text>
+</TEI>

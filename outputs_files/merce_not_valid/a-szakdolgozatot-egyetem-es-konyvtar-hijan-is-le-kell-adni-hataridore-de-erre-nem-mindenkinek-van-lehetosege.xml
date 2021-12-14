@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hiába hosszabbítják meg a szakdolgozatok leadási határidejét, ha a diákok nem férnek hozzá a könyvtárakhoz
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ffd982c0-20df-54de-b3e7-b62ff19bf065
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hiába hosszabbítják meg a szakdolgozatok leadási határidejét, ha a diákok nem férnek hozzá a könyvtárakhoz
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-30T21:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/30/a-szakdolgozatot-egyetem-es-konyvtar-hijan-is-le-kell-adni-hataridore-de-erre-nem-mindenkinek-van-lehetosege/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/30/a-szakdolgozatot-egyetem-es-konyvtar-hijan-is-le-kell-adni-hataridore-de-erre-nem-mindenkinek-van-lehetosege/
+     </sch:url>
+     <sch:name>
+      Hiába hosszabbítják meg a szakdolgozatok leadási határidejét, ha a diákok nem férnek hozzá a könyvtárakhoz
+     </sch:name>
+     <sch:datePublished>
+      2020-03-30T21:00:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      felsőoktatás
+     </sch:keywords>
+     <sch:keywords>
+      egyetem
+     </sch:keywords>
+     <sch:keywords>
+      diákok
+     </sch:keywords>
+     <sch:keywords>
+      digitális oktatás
+     </sch:keywords>
+     <sch:keywords>
+      hallgatói szakszervezet
+     </sch:keywords>
+     <sch:keywords>
+      segítség
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ffd982c0-20df-54de-b3e7-b62ff19bf065">
+     <sch:identifier>
+      urn:uuid:064c6c06-bcd3-4e54-bf61-32c6e575471d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:01.761725
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:04:25.376193
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ffd982c0-20df-54de-b3e7-b62ff19bf065" when="2021-12-14T15:31:01.761725">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hiába hosszabbítják meg a szakdolgozatok leadási határidejét, ha a diákok nem férnek hozzá a könyvtárakhoz
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Pontosan két hete lépett életbe az oktatási intézmények látogatási tilalma a koronavírus-járvány miatt, így a kisiskolásoktól az egyetemistákig mindenki online oktatásra váltott egyik napról a másikra.
+   </p>
+   <p>
+    A „digitális átállás” mindenkinek rengeteg nehézséget okoz: a tanárok mindössze egy hétvége alatt,
+    Facebook-csoportokban sajátították el
+    az online oktatás mikéntjét, a diákoknak meg kell tanulniuk sokkal önállóbban tanulni (ha egyáltalán biztosított számukra otthon a technikai háttér), a szülőknek pedig meg kellett oldaniuk, hogy valaki vigyázzon a gyerekeikre (feltéve, hogy nem veszítették el a munkájukat, vagy nem végezhetnek otthoni munkát).
+   </p>
+   <p>
+    Az egyetemi kollégiumok szintén bezártak, így az ott lakó diákoknak alig néhány napjuk volt kiköltözni, ami – érthető módon – nem volt minden esetben zökkenőmentes. A Hallgatói Szakszervezet (HASZ) már akkor
+    szolidaritási akciót szervezett
+    azok számára, akik nem tudták hirtelen hova rakni a holmijukat, vagy épp egy ágyra volt szükségük néhány napra.
+   </p>
+   <p>
+    Ahogy a közoktatásban, úgy a felsőoktatásban is sokaknak nehézséget okozhat az új helyzet: a szakdolgozat leadási határidőket ugyan kitolták több egyetemen is (általában 2 héttel), ezeket azonban kiépített online oktatási rendszer, könyvtár és az oktatókkal való személyes érintkezés nélkül nem biztos, hogy olyan könnyű teljesíteni – hívja fel a figyelmet a Hallgatói Szakszervezet.
+   </p>
+   <p>
+    A Szegedi Tudományegyetemen, a Budapesti Corvinus Egyetemen, a Pécsi Tudományegyetemen és a Pázmány Péter Katolikus Egyetemen már döntöttek a leadási határidő meghosszabbításáról. Az Eötvös Loránd Tudományegyetem április 1-éig közli, hogy született-e ilyen döntés.
+   </p>
+   <p>
+    Mint azt írják,
+   </p>
+   <p>
+    „ebben a helyzetben elég problematikus elvárni a hallgatóktól, hogy ugyanúgy teljesítsenek, mint az intézménylátogatási tilalom előtt.”
+   </p>
+   <p rend="head">
+    A HASZ szerint a legnagyobb probléma az, hogy a határidők néhány hetes meghosszabbítását nem kötötték a könyvtárak elérhetőségéhez, így nem oldja meg azoknak a gondját, akik elektronikus eszközök hiánya, vagy a digitális formátumban nem elérhető szakszövegek miatt nem tudják majd megfelelően befejezni a szakdolgozatukat.
+   </p>
+   <p>
+    A szervezet szeretné elérni, hogy amíg a krízishelyzet miatt a könyvtárak zárva tartanak, illetve az oktatókkal való személyes érintkezés nem válik újra lehetségessé; addig azoktól a hallgatóktól ne követeljék meg a szakdolgozatok, disszertációk véglegesítését, akiknek ez komoly hátrányt jelent.
+   </p>
+   <p>
+    Erre nyújthat lehetőséget intézményi szinten a dékáni méltányossági kérelem, aminek megírásához készítettek is
+    egy mintát
+    . Bár e
+    gyetemenként változik, hogy pontosan milyen formában kell ezt a kérelmet beadni, és milyen egyéb feltételei vannak, ezért nagyon fontos, hogy mindenki tájékozódjon a saját egyetemén, a kitöltési útmutató hasznos lehet.
+   </p>
+  </body>
+ </text>
+</TEI>

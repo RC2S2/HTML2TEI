@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kit érdekelnek a választások? Minket!
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a62d2466-a7e8-59a0-8600-58d69c4bda22
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kit érdekelnek a választások? Minket!
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-21T21:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/21/kit-erdekelnek-a-valasztasok-minket/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/21/kit-erdekelnek-a-valasztasok-minket/
+     </sch:url>
+     <sch:name>
+      Kit érdekelnek a választások? Minket!
+     </sch:name>
+     <sch:datePublished>
+      2018-03-21T21:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      választás 2018
+     </sch:keywords>
+     <sch:keywords>
+      Civil 18
+     </sch:keywords>
+     <sch:keywords>
+      A Közélet Iskolája
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a62d2466-a7e8-59a0-8600-58d69c4bda22">
+     <sch:identifier>
+      urn:uuid:704bde68-f167-47c9-a547-08f75d3de33e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.397754
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:47:43.303771
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a62d2466-a7e8-59a0-8600-58d69c4bda22" when="2021-12-14T15:30:45.397754">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kit érdekelnek a választások? Minket!
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    2018 januárjában a Közélet Iskolája
+    háromnapos műhelyt tartott
+    tucatnyi civil szerveződés képviselőjének részvételével arról, hogy mi is lehet a civil szervezetek és az aktív állampolgárok szerepe és felelőssége a 2018. áprilisi országgyűlési választás kapcsán. A háromnapos közös tanulás során sok fontos kérdés merült fel és számos izgalmas és inspiráló példát ismertünk meg arról, hogyan vettek részt aktívan civil szervezetek és állampolgárok választási kampányokban, ami esetenként mélyreható változásokat eredményezett. Végül a résztvevő szervezetek képviselői saját akcióterveket is készítettek a választásokra a korábbi elképzeléseik és a műhelyen átbeszéltek alapján. Alább röviden összefoglaljuk a számunkra legfontosabb tanulságokat, remélve, hogy ez minden civil szervezet számára tanulságos lesz.
+   </p>
+   <p>
+    A Közélet Iskolája képzése civil szervezeteknek a választásokról; kép: Közélet Iskolája
+   </p>
+   <p>
+    A Közélet Iskolája álláspontját az áprilisi választással kapcsolatos vonatkozó civil szerepvállalásról a Mércén tettük közzé egy vitaindító cikkben
+    „Civilek” vagyunk – miért érdekelnének minket a választások?”
+    címmel. Ebben a cikkben egyértelműen állást foglaltunk:
+   </p>
+   <p>
+    „A 2018-as választásoknak ennél még sokkal nagyobb a tétje. Most nemcsak arról van szó, hogy melyik párt nyeri a választást, hanem arról, hogy mennyire betonozódik be a 2010 óta következetesen épített társadalmi és politikai kirekesztés és gazdasági kisemmizés, aminek a következtében ma sokkal több ember él Magyarországon szegénységben és elnyomásban, mint a rendszerváltás óta valaha. Ezt a rendszert a Fidesz nevű párt építette ki, de maga a rendszer nem pártpolitikai kérdés, hanem a társadalmi igazságosság és a magyar társadalom hosszú távú jövőjének a kérdése. A 2018-as választásokon valójában nem pártokra szavazunk, hanem vagy megerősítjük a Nemzeti Együttműködés Rendszerét (NER) vagy elutasítjuk azt.”
+   </p>
+   <p>
+    A műhely résztvevőinek természetesen nem feltétlenül volt ugyanez az álláspontja, de a feldolgozott témákat és a szervezők általános megközelítését befolyásolta, hogy a Közélet Iskolája mit is gondol a jelenlegi magyar társadalmi és politikai rendszerről.
+   </p>
+   <p>
+    A képzés elején a magyar választási rendszer felépítését és működését beszéltük át jogi és politikai szempontból. Az olyan alapvetéseken túl, mint hogy mindenkinek két szavazata van (egy országos vagy nemzetiségi listára és egy egyéni jelöltre leadott szavazat), részletesen beszéltünk arról is, hogy a különböző lakcímek és lakóhelyek szerint ki hol és hogyan tud szavazni, és mit kell tennie a külföldön vagy a bejelentett lakcímüktől távol élő embereknek ahhoz, hogy élni tudjanak a szavazati jogukkal. Arról, hogy ki hogyan tud élni a választójogával a gyakorlatban,
+    itt érhető el naprakész információ.
+   </p>
+   <p>
+    Ezután a magyar választási rendszer aránytalan és igazságtalan működéséről beszéltünk. Erről érdemes megnézni a Slejm jól érthető összefoglalóját, amelyből fontos kiemelni az egyenlőtlenül – a Fidesz érdekeinek megfelelően – átrajzolt szavazókerületeket és az egyedülálló ún. győzteskompenzáció intézményét.
+   </p>
+   <p>
+    Kevésbé jogi jellegű, de annál hatásosabb eszköz a választások befolyásolására a választók manipulálása (pl. a Fidesz média túlsúlya, az egyoldalú „győzelmi jelentések” sulykolása, a közmunkások megfélemlítése, a „migránsokkal” riogatás), valamint a jogállam, az ún. „fékek és ellensúlyok” leépítése és általában a rendszerkritika fokozatos ellehetetlenítése is, amely mind a NER sajátjává vált az elmúlt 8 évben.
+   </p>
+   <p>
+    Megbeszéltük, hogy mekkora esély van a Fidesz hatalmának csökkentésére, vagy akár egy ellenzéki győzelemre. Noha a legtöbb elemző egyelőre egyetért abban, hogy az áprilisi országgyűlési választást a Fidesz fogja megnyerni, ez még semmiképpen sem lefutott játszma, ráadásul, ha valóban győz a Fidesz, nem mindegy, mekkora fölénnyel teszi ezt.
+   </p>
+   <p>
+    Arról, hogy mekkora esélye van az ellenzéki pártoknak, illetve hogyan lehet jelentősen csökkenteni a Fidesz túlsúlyát,
+    Róna Dániel blogján lehet részletes információkat olvasni
+    , illetve a Mérce is fontos szempontokat jelenít meg
+    választási cikkeiben
+    . Szinte mindenki egyetért abban, hogy a választás elsősorban az egyéni választókerületekben fog eldőlni. Ahhoz, hogy a Fidesz elveszítse a választást, kb. 40 egyéni választókerületben kellene ellenzéki jelöltnek nyerni. Ahhoz pedig, hogy ne tudjon kétharmados többséget szerezni a következő országgyűlésben, 15-16 ellenzéki győzelemre van szükség az egyéni választókerületekben. Tekintve, hogy 2014-ben 10 kivételével minden e egyéni választókerületben a Fidesz jelöltje nyert, ez hatalmas feladat – de megvalósítható!
+   </p>
+   <p>
+    Összességében a műhely során a következő megközelítés kristályosodott ki arra, hogyan használjuk fel a két szavazatunkat a leghasznosabb módon az áprilisi választáson:
+   </p>
+   <list>
+    <item>
+     Ha valaki azt szeretné elérni, hogy a Fidesznek a lehető legkisebb hatalma legyen, akkor
+     <hi rend="bold">
+      országos listán
+     </hi>
+     arra az ellenzéki pártra érdemes leadnia a szavazatát, amelyik üzeneteit és értékrendjét tekintve a legközelebb áll hozzá ÉS esélye van arra, hogy országos szinten megszerzi az összes szavazat 5%-át, vagyis be fog jutni a parlamentbe. Ezzel hozzájárul a kedvenc pártja parlamentbe jutásához és a számára fontos értékrend és politika képviseletéhez, miközben a Fidesz hatalmát is érdemben csökkenti.
+    </item>
+    <item>
+     Ami az
+     <hi rend="bold">
+      egyéni jelölteket
+     </hi>
+     illeti, a Fidesz hatalmának csökkentéséhez a leghatékonyabb út, ha az egyes választókerületekben mindenki arra az ellenzéki jelöltre szavaz, akinek a legtöbb esélye van a győzelemre vagy legalább arra, hogy megszerezze a második helyet (a Közélet Iskolája nem számol a Jobbik támogatásával annak rasszista megnyilvánulásai miatt). Mivel az első és a második helyezett közötti különbség csökkentésével a Fidesznek járó győzteskompenzációs szavazatok száma is csökken, ezzel hozzájárulunk ahhoz, hogy a Fidesz a lehető legkevesebb parlamenti mandátumot kapja. Akkor is érdemes szavazni számunkra szimpatikus egyéni képviselőjelöltre, ha szinte biztos, hogy nem fogja megnyerni az adott körzetet (vagy akár második sem lesz), hiszen a töredékszavazatokat be fogják számolni a pártok országos listájába is, így ezzel is erősítjük az ellenzéki pártok jelenlétét az országgyűlésben.
+    </item>
+   </list>
+   <p>
+    A műhely során megismerkedtünk azoknak a magyarországi civil kezdeményezéseknek egy részével is, amik az állampolgárokat szeretnék aktívan bevonni a választásokba.
+   </p>
+   <p>
+    Ilyen a
+    Közös Ország Mozgalom
+    , amelynek célja eredetileg az igazságtalan választási rendszer reformja volt, de mivel ez a kezdeményezés meghiúsult, most az egyéni választókerületekre koncentrálva szeretnék megerősíteni az ellenzéki jelöltek teljesítményét. Ennek érdekében közvélemény-kutatást folytatnak egyes, kulcsfontosságúnak ítélt egyéni választókerületekben, hogy megtalálják a legesélyesebb ellenzéki jelöltet; helyi választási fórumokat tartanak, hogy a választópolgárok megismerhessék a jelölteket; majd a választás előtti hetekben mozgósítják a választópolgárokat, hogy április 8-án minél többen menjenek el szavazni.
+   </p>
+   <p>
+    A Közös Ország Mozgalom tevékenysége mögött meghúzódó állampolgári stratégia, az ún. taktikai szavazás népszerűsítését tűzre ki célul a
+    Viszlát, kétharmad! blog
+    , amin nagyon hasznos írásokat találunk ebben a témában. Sok más kezdeményezés mellett kiemelnénk még a
+    Demokrata Civil Közösségek csoportot
+    , amely szintén az egyéni választókerületekben mozgósítja az embereket, függetlenül a jelöltek pártállásától és az aktivisták elköteleződésétől.
+   </p>
+   <p>
+    A magyar kezdeményezések mellett nemzetközi példákat is megvizsgáltunk olyan választásokról, ahol a civil szervezeteknek és aktív állampolgároknak nagy szerep jutott a végső eredmény elérésében. Ezek közül az egyik legfontosabb példa Szlovákiából származik, ahol az OK ’98 elnevezésű kampánynak hatalmas szerepe volt a választópolgárok mozgósításában és a Mečiar-kormány megbuktatásában. Erről
+    magyarul itt
+    , sokkal részletesebben
+    angolul pedig itt lehet olvasni
+    . Szó volt még többek között az önkormányzatimozgalmak sikeréről is a spanyol önkormányzati választásokon 2015-ben,
+    melyről itt lehet részletesen olvasni
+    , és az olyan aprónak tűnő, de a helyiek számára annál jelentősebb eredményről is, amely az Olaszliszkán
+    a szociális tűzifa igénylése kapcsán indított kampány volt
+    , valamint a VIII. kerületben szervezett
+    Mártát a Magdolnának! kampányról
+    , ami a nulláról ért el 20% támogatottságot egy korábban kevéssé ismert civil jelöltnek.
+   </p>
+   <p>
+    Mindezekből a példákból egyrészt inspirációt és reményt nyertünk azzal kapcsolatban, hogy a civil szervezeteknek és aktív állampolgároknak milyen kulcsfontosságú szerepe lehet egy-egy elnyomó rezsim vagy intézkedés megváltoztatásában – már ha ezt felvállalják. Másrészt fontos tanulsága volt a beszélgetéseknek, hogy a választási győzelemhez nem elegendőek az aktív civilek, hanem szükség van érett, együttműködésre hajlandó és határozott ellenzékre is.
+   </p>
+   <p>
+    Úgy tűnik, hogy Magyarországon a rendszerváltás óta szinte először aktivizálódnak korábban apolitikus civil szervezetek és állampolgárok a 2018. áprilisi választás kapcsán, ami azt jelzi, hogy állampolgárként elkezdtünk felnőni a feladathoz, hogy visszaszerezzük magunknak a demokráciát. Arról, hogy ez milyen sokféleképpen tesszük,
+    a Közélet Iskolája és a Mérce Civil18 sorozatában is el lehet olvasni
+    . Ami az ellenzéki pártokat illeti, ők egyelőre úgy tűnik, hogy nem állnak készen arra, hogy egyszerre tudják szem előtt tartani a saját és a közösség érdekeit.
+   </p>
+   <p>
+    Mit is tehetünk civil szervezetként a választások kapcsán? Erre a kérdésre annyi válasz van, ahány civil szervezet, ezért itt csak néhány tipikus megközelítést mutatunk be, amelyeket a műhelyen is átbeszéltünk a résztvevőkkel. Az érdekvédelmi szervezetek például használhatják a választásokat arra, hogy
+    felhívják a figyelmet az általuk képviselt ügyekre
+    , kihasználva a pártok és a közvélemény megnövekedett érzékenységét. A választások kapcsán a civil szervezetek közvetlen nyomást is gyakorolhatnak a jelöltekre és pártokra,
+    akár választási fórumok tartásával
+    , ahol a
+    jelölteknek és/vagy a pártoknak színt kell vallaniuk egy-egy témával kapcsolatban
+    , amit aztán megválasztásuk esetén be is tudunk rajtuk „hajtani”.
+    Értékelhetjük a már megválasztott és újrainduló jelöltek és pártok teljesítményét
+    is a számunkra fontos szempontok alapján, amiről aztán tájékoztathatjuk a választópolgárokat, hogy tudatosabb döntést tudjanak hozni azzal kapcsolatban, kire szavaznak.
+   </p>
+   <p>
+    Minden lehetséges válaszra több példát nyújtanak azok a szervezetek, akik a jelenleg is folyó
+    Civil 18 című sorozatban
+    leírták, ők hogyan viszonyulnak a választásokhoz.
+   </p>
+   <p>
+    2018 februárjában a
+    Közélet Iskolájával
+    közös cikksorozatunkban a Magyarországon érdekvédelmi munkát végző civil szervezetek írtak arról, hogy hogyan viszonyulnak az április 8-i választásokhoz. Mi a tétje az általuk képviselt ügyek szempontjából a '18-as országgyűlési választásnak, és milyen kampány(oka)t végeznek a választás kapcsán?
+   </p>
+   <p>
+    Ahogy vitaindítóként szolgáló
+    cikkünkben
+    írtuk, „hiszünk abban, hogy a demokrácia gyakorlata valójában a választások között bontakozik ki, de abban is, hogy az érdekvédelmi munkával a választások idején sem szabad felhagyni”. A 2018-as választásoknak azért lehetett még a szokásosnál is nagyobb a tétje, mert nemcsak arról volt szó, hogy melyik párt nyeri a választást, hanem arról, hogy mennyire betonozódik be a 2010 óta következetesen épített társadalmi és politikai kirekesztés és gazdasági kisemmizés.
+   </p>
+   <p>
+    Nem lehet eléggé hangsúlyozni, hogy a választásokon való részvétel általában azért fontos, mert alapvető állampolgári jogunk, és amikor lehetséges, élnünk kell vele, hogy ne a „fejünk felett” hozzanak döntéseket a sorsunkról. Azonban ebben az évben különösen nagy jelentősége van annak, hogy hányan mennek el szavazni:
+   </p>
+   <p rend="head">
+    minél többen adják le a voksukat, annál kisebb az esélye, hogy egy párt túlnyomó többséget szerez a Parlamentben (mint amilyen most a Fidesznek van) és nagyobb az esélye annak, hogy az országgyűlés összetétele tükrözi a magyar társadalom sokféle értékrendjét és elvárásait.
+   </p>
+   <p>
+    Ezért nemcsak egyes ügyek kapcsán, de a demokrácia védelme érdekében is kiemelt célja lehet a civil szervezeteknek
+    a választók tájékoztatása a választási rendszer működéséről
+    és a választók közvetlen vagy közvetett mozgósítása, hogy a lehető legtöbben éljenek ezzel az alapvető jogukkal és bele tudjanak szólni az ország és a választókerületük jövőjének alakulásába. Mindezzel a szervezetek nemcsak a választások demokratikus jellegének erősítéséhez járulnak hozzá, hanem a saját szervezeti bázisuk és ismertségük építéséhez is, ami fontos lesz ahhoz, hogy a választások után megerősödve tudják folytatni az érdekvédelmi munkát.
+   </p>
+   <p>
+    Végül, fontos szerepe lehet a civil kezdeményezéseknek és a tudatos állampolgároknak a választások tisztességes lebonyolításában is. Erre tesz kísérletet például a
+    Számoljuk együtt!
+    kezdeményezés, amely olyan állampolgárok jelentkezését várja, akik részt vesznek a szavazatszámláló bizottságok munkájában. A független állampolgári jelenlét a választás napján fontos szerepet játszhat a választási csalások megelőzésében és annak biztosításában, hogy mindenki tudjon élni a szavazati jogával, ezért a Közélet Iskolája mindenkit arra biztat, hogy ilyen formában is legyen aktív!
+   </p>
+   <p>
+    Ha valakit a fentieknél részletesebben érdekel az, hogy állampolgárként, szervezetként vagy újságíróként milyen cselekvési lehetőségei vannak a 2018-as országgyűlési választás kapcsán, érdemes ellátogatni a
+    TASZ „Választasz” honlapjára
+    , amely a választások közötti és különösen a választások körüli időszakban történő civil részvétel lehetőségeiről ad közérthető információt. A honlapot végigböngészve nagyon sokféle eszközt és lehetőséget ismerhetünk meg a közéletben való részvételre és a civil aktivizmusra, amiket még most sem késő elkezdeni használni. A Civil Kollégium Alapítvány is indított
+    külön honlapot a választásokhoz kapcsolódóan
+    , ami elsősorban közösségeknek, civil szervezeteknek nyújt segítséget és vannak rajta hasznos eszközök, ötletek, érvek, valamint megtalálhatjuk a választáson induló pártok programjainak elemzését is a legégetőbb szociális és politikai kérdésekben.
+   </p>
+   <p>
+    Az itt bemutatott taktikák és eszközök hasznosítására, kipróbálására konkrét lehetőségünk is van, hiszen a Civil Kollégium Alapítvány által évente megszervezett
+    Állampolgári Részvétel Hetének
+    ebben az évben a választás a kiemelt témája. A kezdeményezésbe bármely helyi szervezet, informális csoport vagy állampolgári kezdeményezés becsatlakozhat, mindenkit várnak szeretettel 2018 márciusában!
+   </p>
+  </body>
+ </text>
+</TEI>

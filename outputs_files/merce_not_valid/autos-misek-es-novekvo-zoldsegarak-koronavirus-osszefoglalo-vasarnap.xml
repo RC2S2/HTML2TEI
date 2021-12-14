@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Autós misék és növekvő zöldségárak – koronavírus összefoglaló vasárnap
+    </title>
+    <author>
+     <persName>
+      Varga Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     95e1703f-e982-550b-8295-64bbcaedad4c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Autós misék és növekvő zöldségárak – koronavírus összefoglaló vasárnap
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varga Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-04-26T21:44:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/04/26/autos-misek-es-novekvo-zoldsegarak-koronavirus-osszefoglalo-vasarnap/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/04/26/autos-misek-es-novekvo-zoldsegarak-koronavirus-osszefoglalo-vasarnap/
+     </sch:url>
+     <sch:name>
+      Autós misék és növekvő zöldségárak – koronavírus összefoglaló vasárnap
+     </sch:name>
+     <sch:datePublished>
+      2020-04-26T21:44:00
+     </sch:datePublished>
+     <sch:author>
+      Varga Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      koronavírus összefoglaló
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="95e1703f-e982-550b-8295-64bbcaedad4c">
+     <sch:identifier>
+      urn:uuid:749b0da8-9862-4b89-afd0-dfea0fe93625
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:26.960418
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:07:45.931050
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="95e1703f-e982-550b-8295-64bbcaedad4c" when="2021-12-14T15:30:26.960418">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Autós misék és növekvő zöldségárak – koronavírus összefoglaló vasárnap
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Bár Vuhanban éppen ma hagyta el a legutolsó koronavírus-fertőzött a kórházat, világszerte továbbra is tombol a koronavírus-járvány.
+    Április 26., vasárnap estére globálisan 2 947 616, Magyarországon pedig 57 fős emelkedéssel 2 500 fertőzöttet diagnosztizáltak, hazánkban eddig 272 áldozata van a vírusnak – az alábbiakban olvasható a Mérce napi
+    koronavírus-hírösszefoglalója
+    .
+   </p>
+   <p>
+    A fertőzöttek száma folyamatosan frissülő élő térképen
+    itt
+    , Magyarország Kormányának koronavírussal foglalkozó weboldala pedig
+    itt
+    követhető. További cikkeink a COVID-19 járvánnyal kapcsolatosan
+    ezen a linken
+    elérhetők.
+   </p>
+   <p rend="head">
+    Magyarország
+   </p>
+   <p>
+    Minden eddiginél több, 1905 esetben kellett intézkedniük a rendőröknek a kijárási korlátozás szabályainak megsértése miatt a hétvégén – mondta el Lakatos Tibor az
+    <hi rend="bold">
+     operatív törzs
+    </hi>
+    vasárnapi online sajtótájékoztatóján. Vasárnap reggel ismét Kínából érkezett egy védőfelszereléseket szállító repülő – ismertette az ezredes.
+    Müller Cecília hangsúlyozta:
+    az eredményes védekezésnek köszönhetően sikerül laposan tartani a járványgörbét, de
+    emelkedik a kórházban ápolt koronavírus-fertőzöttek száma, 927 embert kezelnek kórházban, közülük 56-an vannak lélegeztetőgépen. Az igazolt fertőzöttek 57 százaléka nő, 43 százalékuk férfi – mondta.
+   </p>
+   <p>
+    A járványügyi helyzethez kapcsolódóan újabb
+    <hi rend="bold">
+     ideiglenes kerékpársávot alakítanak ki a fővárosban
+    </hi>
+    , a Nagykörút Üllői út és Váci út közötti szakaszán hétfőn kezdődnek a munkálatok – közölte a Budapesti Közlekedési Központ (BKK) vasárnap az MTI-vel.
+   </p>
+   <p>
+    <hi rend="bold">
+     Pert indít a DK
+    </hi>
+    azért, hogy a kormány elárulja: hány emberen végeztek eddig koronavírustesztet Magyarországon – közölte Sebián-Petrovszki László, a DK pártigazgató országgyűlési képviselője vasárnapi online sajtótájékoztatóján.
+   </p>
+   <p>
+    Sebián-Petrovszki szerint fennáll a gyanúja, hogy a tesztelt emberek száma a kormányzati koronavírus-weboldalon megjelent mintavételi szám töredéke.
+   </p>
+   <p>
+    „Amennyiben így van, akkor az botrány, aminek következményei kell, hogy legyenek, ha viszont nincs így, akkor nincs ok a titkolózásra”
+   </p>
+   <p>
+    – hangoztatta.
+   </p>
+   <p rend="head">
+    A politikus elmondása szerint amennyiben igaz az, hogy egy embert 3-4-szer is tesztelnek, akkor a hivatalosan közölt mintegy 60 ezer mintavétel csupán 15-20 ezer ember megvizsgálását takarja.
+   </p>
+   <p>
+    Ebben az esetben „érdemben nincs tesztelés”, csak „kormányzati alibizés” van, és a kabinet sem tudja, hogy valójában hányan fertőzöttek az országban. Pedig ha újra akarják indítani a gazdaságot, ez egyáltalán nem mindegy – jelentette ki a DK pártigazgatója.
+   </p>
+   <p>
+    Mivel a közérdekűadat-igénylésük sikertelen volt, a DK pert indít az ügyben, el akarják érni, hogy a koronavírus-járvány elleni védekezésért felelős operatív törzs közölje, hány embert teszteltek eddig.
+   </p>
+   <p>
+    Online sajtótájékoztatót tartott Ander Balázs, a Jobbik alelnöke. Ander kéri, hogy tárgyalja a parlament azt a jobbikos javaslatot, amely szerint
+    <hi rend="bold">
+     megajánlott jegy helyettesíthetné az idén az érettségit
+    </hi>
+    .
+   </p>
+   <p>
+    Egykori tanárként azt mondta: őrültség, hogy a koronavírus-járvány „tetőzésének csúcspontján tartják meg” az érettségi vizsgákat, hozzátéve, „nem szeretnénk veszélyeztetni 83 ezer diák, a szüleik, nagyszüleik, a tanárok és az iskolai technikai dolgozók egészségét”.
+   </p>
+   <p>
+    „A magyar emberek egészsége mindennél fontosabb”
+   </p>
+   <p>
+    – jelentette ki az ellenzéki politikus, majd arról is beszélt, hogy a megajánlott jegyek rendszere nemzetközi példa, több ország kormánya – így a brit, a francia, a holland, az osztrák és a szlovák – döntött a járványhelyzet miatt ezen megoldás mellett. A diákok ezen országokban az adott tantárgyból elért átlaguk alapján kapjanak érettségi jegyet, és akinek ez nem felel meg, nekifuthat az érettségi vizsgának, a legszigorúbb biztonság rendszabályok betartása mellett – mondta Ander Balázs.
+   </p>
+   <p>
+    <hi rend="bold">
+     Autós miséket
+    </hi>
+    tart Mihályi Miklós plébános: szentelt vízzel üdvözli a misére érkező, autójukban ülő híveket az előszállási Kisboldogasszony-templom előtt – írta az MTI. Az egészségügyi előírások betartása céljából az autók öt perccel a szentmise előtt gördülhetnek a templom elé, szemben a templomajtó elé költöztetett oltárral. Az autók ablakait csak egy oldalon lehet lehúzni, az áldozást pedig lélekben végzik. Az átváltoztatásnál és úrfelmutatásnál a megszokott csengők helyett az autókürtök szólnak. A szentmise végén a plébános minden autót külön-külön megáld, ez egyben az elbocsátás is.
+   </p>
+   <p rend="head">
+    Külföld
+   </p>
+   <p>
+    <hi rend="bold">
+     Olaszországban
+    </hi>
+    a veszélyhelyzetet nem oldják fel, illetve a kijárási korlátozások sem szűnnek meg, de a gazdaság újraindítása elkerülhetetlenné vált Giuseppe Conte miniszterelnök szerint. A miniszterelnök májustól fokozatosan enyhítene az óvintézkedéseken négy fázisban, a pontos terv hétfőn vagy kedden jelenik meg.
+   </p>
+   <p>
+    Az első lépés a gépgyártás újraindítása lesz, majd az ezt követő három egymás utáni héten újabb intézkedések várhatók, köztük május közepétől a kereskedelem és vendéglátás újraindulása. A járvány miatt elrendelt veszélyhelyzet július 28-ig tart.
+   </p>
+   <p>
+    „Nem húzhatjuk tovább a járványzártól különösen sújtott gazdasági ágazatok működésének szüneteltetését, ez már eddig is túl nagy tehernek bizonyult társadalmi-pénzügyi szempontból”
+   </p>
+   <p>
+    – hangsúlyozta a miniszterelnök. Conte arról is beszélt, hogy nem engedhetik meg maguknak az „improvizálást és az össze-visszaságot”, el kell kerülniük egy második fertőzési hullámot, ugyanakkor
+   </p>
+   <p>
+    „nehéz minden részletkérdésben határozni. Ha a miniszterelnök nem veszi figyelembe a szakértők véleményét, akkor arrogánsnak tartják, aki magától intéz mindent. Ha viszont a szakértőkre hivatkozik, gyengének és bizonytalannak nevezik”.
+   </p>
+   <p>
+    <hi rend="bold">
+     Németországban
+    </hi>
+    szétzilálta a friss élelmiszerek piacát a koronavírus-járvány, egyes termékek ára meredeken emelkedik, másoké zuhan – mutatta ki egy vasárnap ismertetett felmérés, amely szerint a zöldség csaknem 30 százalékkal drágult áprilisban, a vadhúsért viszont az egy évvel korábbi ár harmadát fizetik a vadászoknak.
+    A bonni AMI agrárgazdasági piackutató társaság (Agrarmarkt Informationsgesellschaft) kimutatása alapján a friss élelmiszerek valamennyi típusát együttvéve áprilisban 10 százalékkal emelkedtek az árak az egy évvel korábbihoz képest.
+   </p>
+   <p rend="head">
+    A zöldségeknél kiugró, 27 százalékos emelkedést mértek, az elemzők szerint az áremelkedés valószínű oka, hogy a járvány lassítására bevezetett utazási korlátozások miatt nincs elég idénymunkás Franciaországban és Spanyolországban –
+    erről a függésről, az idénymunkásokon függő nyugati jólétről itt írtunk bővebben
+    .
+   </p>
+   <p>
+    Az országban továbbá bevezethetik az otthoni munkavégzés jogát, a szövetségi munkaügyi és szociális minisztériumban már dolgoznak a törvényjavaslaton – mondta a tárca vezetője egy vasárnapi lapinterjúban.
+   </p>
+   <p>
+    Egy nap alatt több mint száz egészségügyi dolgozó fertőződött meg koronavírussal
+    <hi rend="bold">
+     Ukrajnában
+    </hi>
+    : vasárnapra 492 új koronavírusos fertőzöttet azonosítottak, köztük 101 egészségügyi dolgozót – közölte Makszim Sztepanov egészségügyi miniszter vasárnapi online sajtótájékoztatóján. A tárca adatai szerint Ukrajnában a regisztrált fertőzöttek száma elérte a 8617-et. A betegségben elhunytak száma az elmúlt napban 8 újabb esettel 209-re nőtt, a gyógyultaké 840-re.
+   </p>
+   <p>
+    A koronavírus-járvány egy újabb, őszi hullámának kockázata miatt előrébb hozhatják a parlamenti választások időpontját
+    <hi rend="bold">
+     Horvátországban
+    </hi>
+    – írták horvát lapok vasárnap.
+   </p>
+  </body>
+ </text>
+</TEI>

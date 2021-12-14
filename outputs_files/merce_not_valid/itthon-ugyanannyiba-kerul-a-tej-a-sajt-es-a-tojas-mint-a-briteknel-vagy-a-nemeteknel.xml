@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Itthon ugyanannyiba kerül a tej, a sajt és a tojás, mint a briteknél vagy a németeknél
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     46cb53fd-9a7c-5a08-9fb2-f60c5c387836
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Itthon ugyanannyiba kerül a tej, a sajt és a tojás, mint a briteknél vagy a németeknél
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-06-22T17:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/06/22/itthon-ugyanannyiba-kerul-a-tej-a-sajt-es-a-tojas-mint-a-briteknel-vagy-a-nemeteknel/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/06/22/itthon-ugyanannyiba-kerul-a-tej-a-sajt-es-a-tojas-mint-a-briteknel-vagy-a-nemeteknel/
+     </sch:url>
+     <sch:name>
+      Itthon ugyanannyiba kerül a tej, a sajt és a tojás, mint a briteknél vagy a németeknél
+     </sch:name>
+     <sch:datePublished>
+      2019-06-22T17:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      bérek
+     </sch:keywords>
+     <sch:keywords>
+      élelmiszer
+     </sch:keywords>
+     <sch:keywords>
+      Eurostat
+     </sch:keywords>
+     <sch:keywords>
+      fogyasztás
+     </sch:keywords>
+     <sch:keywords>
+      árak
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="46cb53fd-9a7c-5a08-9fb2-f60c5c387836">
+     <sch:identifier>
+      urn:uuid:2f4d13ce-3212-4161-84d7-3cafaf3f0092
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:01.119258
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:36:51.366810
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="46cb53fd-9a7c-5a08-9fb2-f60c5c387836" when="2021-12-14T15:35:01.119258">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Itthon ugyanannyiba kerül a tej, a sajt és a tojás, mint a briteknél vagy a németeknél
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A napokban tette közzé az
+    élelmiszerek árát összehasonlító adatait
+    az Eurostat, amelyből kiderül: jelentős különbségek vannak az egyes uniós országok élelmiszerárai között, ugyanakkor bizonyos alapvető termékek sok helyen a egyformák, annak ellenére, hogy az átlagkereset mértéke nagy eltéréseket mutat.
+   </p>
+   <p>
+    Az Eurostat szerint 2018-ban a legdrágább tagállamban egy hasonló összetételű fogyasztói kosár kétszer annyiba került, mint a legolcsóbb országban. A spektrum két végén Dánia és Románia található: míg előbbiben az élelmiszerárak az uniós átlag 130 százalékát teszik ki, utóbbiban csupán az átlag 66 százalékát.
+   </p>
+   <p>
+    A legdrágább országok listáján Dániát Luxemburg és Ausztria (125%), Írország és Finnország (120%), illetve Svédország (117%) követi. Románia után a legolcsóbb élelmiszerek Lengyelországban (69%), Bulgáriában (76%), Litvániában (82%) és Csehországban (84%) kaphatók.
+   </p>
+   <p rend="head">
+    Magyarországon csak a hatodik legolcsóbb ország, itt ugyanaz a fogyasztói kosár az EU-átlag 85 százalékába kerül.
+   </p>
+   <p>
+    Az nem meglepő, hogy nálunk 16 százalékkal olcsóbbak az élelmiszerek, hiszen a keresetek is az uniós átlag alatt maradnak.
+   </p>
+   <p>
+    Ha kicsit közelebbről is megnézzük az adatokat, akkor azonban találunk néhány nagyon rémisztő felfedezést. A tej, sajt és tojás itthon csak 7 százalékkal olcsóbb az EU-s átlagnál, és szinte azonos szinten van néhány nálunk jóval gazdagabb ország áraival.
+   </p>
+   <p>
+    Míg tehát nálunk az EU-s átlag 93 százalékába kerül ez a három alapélelmiszer, az Egyesült Királyságban csupán az átlag 92 százalékába, vagyis ott olcsóbbak ezek a termékek. A német áraktól is csak pár százalékkal maradnak el a Magyarországon kapható tej, sajt és tojás árai.
+   </p>
+   <p rend="head">
+    Csakhogy ehhez képest a magyar átlagkereset nagyjából háromszor kisebb mint a brit vagy a német átlagbér, tehát egy átlagos magyar dolgozó háromszor kevesebb tejet vagy tojást tudna venni a keresetéből, mint brit kollégája.
+   </p>
+   <p>
+    A Pénzcentrum már az év elején végzet számításokat néhány élelmiszer kapcsán, és arra jutottak, hogy egy átlagos nettó fizetésből 771 db egyliteres tejet lehet venni, miközben egy osztrákból 1493-at, egy britből pedig 2297-et. Egy osztrák átlagkeresetből Ausztriában négyszer annyi lisztet lehet vásárolni, mint egy magyarból itthon.
+   </p>
+   <p>
+    Ezek a számok kiválóan mutatják, hogy a gazdasági integráció hatására a legalapvetőbb termékek árai fokozatosan kiegyenlítődnek, miközben a dolgozók keresete nem követi ugyanezt a tendenciát, hanem inkább stagnál a különbségek mértéke.
+   </p>
+   <p>
+    Ennek a legfőbb oka, hogy miközben a magyar dolgozók termelékenysége növekszik, a mindenkori kormányok gazdaságpolitikájának központi eleme a bérek alacsonyan tartása, hiszen így próbálnak külföldi befektetéseket ide csábítani.
+   </p>
+   <p>
+    Galgóczi Béla, az Európai Szakszervezeti Kutatóintézet kutatója épp a napokban
+    beszélt arról
+    , hogy bár a reálkeresetek itthon is nőttek az utóbbi időben, az egész régió „beleragadt” a kényszerű alacsonybér-szakosodás modelljébe, vagyis abba, hogy főként olcsó munkaerejét árusítja ki a multiknak. Ennek a modellnek azonban nincs jövője a szakértő szerint: a fizetések alacsonyan tartása a termelékenységhez képest egyszerűen gátolja a jövőbeni fejlődést, és a régiót a nemzetközi munkamegosztásban alárendelt és függő szerepben tartja.
+   </p>
+   <p>
+    (Eurostat / Mérce /
+    Pénzcentrum
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

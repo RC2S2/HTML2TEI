@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Valóban csak az Országos Kórházi Főigazgatóság engedélyével adhatják ki bérbe ingatlanjaikat az egészségügyi dolgozók?
+    </title>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     910ab898-d265-5546-8045-5f43d37651c4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Valóban csak az Országos Kórházi Főigazgatóság engedélyével adhatják ki bérbe ingatlanjaikat az egészségügyi dolgozók?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-10-13T20:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/10/13/valoban-csak-az-orszagos-korhazi-foigazgatosag-engedelyevel-adhatjak-ki-berbe-ingatlanjaikat-az-egeszsegugyi-dolgozok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/10/13/valoban-csak-az-orszagos-korhazi-foigazgatosag-engedelyevel-adhatjak-ki-berbe-ingatlanjaikat-az-egeszsegugyi-dolgozok/
+     </sch:url>
+     <sch:name>
+      Valóban csak az Országos Kórházi Főigazgatóság engedélyével adhatják ki bérbe ingatlanjaikat az egészségügyi dolgozók?
+     </sch:name>
+     <sch:datePublished>
+      2021-10-13T20:00:00
+     </sch:datePublished>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      egészségügyi dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      FESZ
+     </sch:keywords>
+     <sch:keywords>
+      ingatlan
+     </sch:keywords>
+     <sch:keywords>
+      Országos Kórházi Főigazgatóság
+     </sch:keywords>
+     <sch:keywords>
+      Dr. Soós Adrianna
+     </sch:keywords>
+     <sch:keywords>
+      Dr. Kunetcz Zsombor
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="910ab898-d265-5546-8045-5f43d37651c4">
+     <sch:identifier>
+      urn:uuid:76a84cf7-fe40-4a08-85f9-6fc3ae1841d7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:02.696936
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:56:42.675162
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="910ab898-d265-5546-8045-5f43d37651c4" when="2021-12-14T15:31:02.696936">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Valóban csak az Országos Kórházi Főigazgatóság engedélyével adhatják ki bérbe ingatlanjaikat az egészségügyi dolgozók?
+   </head>
+   <p>
+    „Csodálkozunk, hogy nincs elég egészségügyi dolgozó?” felütéssel osztotta meg Dr. Kunetz Zsombor a Debreceni Egyetem Klinikai Központjának egy körlevelét, melyben kifejtik, hogy az egészségügyi szolgálati jogviszonnyal rendelkező dolgozók csak úgy adhatják ki bérbe saját tulajdonukban lévő albérletüket, ha azt előbb az Országos Kórházi Főigazgatóság engedélyezi.
+   </p>
+   <p>
+    A szóban forgó levél a 2020. évi C t4 „összeférhetetlenségi” törvénycikkelyre hivatkozik, melynek lényege, hogy az egészségügyben dolgozók csak akkor vállalhatnak egészségügyi foglalkozásuk mellett más „keresőfoglalkozást valamint díjazás ellenében folytatott tevékenységet”, ha azt a kormány által kijelölt szerv előzetesen engedélyezi. A Debreceni Egyetem Klinikai Központja a saját ingatlan bérbeadását is ilyen tevékenységnek minősítette, ezért az ő értelmezésükben szükség van hozzá a Országos Kórházi Főigazgatóság engedélyére.
+   </p>
+   <p>
+    2020. évi C t4. § [Összeférhetetlenség]
+   </p>
+   <p>
+    (1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
+   </p>
+   <p>
+    Arról, hogy helyesen ítélte-e meg a jogszabályt az intézet, Dr. Soós Adriannát, a Független Egészségügyi Szakszervezet (FESZ) elnökét kérdeztük meg.
+   </p>
+   <p>
+    A szakszervezet elnöke a legnagyobb problémának azt tartja, hogy a jogszabály nem részletezi, hogy a törvény értelmezésében mi tekinthető kereső foglakoztatásnak, díjazás ellenében végzett tevékenységnek. A jogalkotás céljából azonban megítélése szerint az következik, hogy az egyéb olyan munkavégzést korlátozza, amely veszélyezteti a munkavállaló főállású munkáját.
+   </p>
+   <p>
+    Tehát a jogszabály célja az, hogy korlátozza az egészségügyben dolgozókat abban, hogy túlvállalják magukat egyéb munkahelyekkel, hogy ne fáradtan végezzék főállásukat, így elkerülve az emberi mulasztás okozta hibákat a kórházakban – nem pedig egy ingatlan bérbeadásának korlátozása.
+   </p>
+   <p>
+    Soós szerint nem tekinthető kereső foglakoztatásnak vagy munkavégzésnek egy már megszerzett vagyontárgy hasznosítása, és semmilyen módon nem korlátozza a munkavállaló egészségügyi tevékenységét. Ezért az FESZ elnöke szerint a klinika túllépett a jogszabály értelmezésében, a bérbeadás során nem történik munkavégzés, engedélyeztetésnek semmi értelme nincsen.
+   </p>
+   <p rend="head">
+    A FESZ elnöke azt is elmondta, hogy a szakszervezet nagyon károsnak tartja azokat a munkáltatói intézkedéseket, amelyek a dolgozókat értelmetlen korlátozásoknak teszik ki, és amelyek a személyes életterükbe való értelmetlen beavatkozásokat jelentenek. A dolgozók állandó frusztrálása ugyanis a szakszervezeti vezető szerint nem segíti a gyógyítást.
+   </p>
+  </body>
+ </text>
+</TEI>

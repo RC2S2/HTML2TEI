@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Képzés a közösségszervezésről Zólyomban
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     af4caea0-bdde-5bb8-97c0-4cae7cd5989c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Képzés a közösségszervezésről Zólyomban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2013-05-20T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2013/05/20/kepzes_a_kozossegszervezesrol_zolyomban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2013/05/20/kepzes_a_kozossegszervezesrol_zolyomban/
+     </sch:url>
+     <sch:name>
+      Képzés a közösségszervezésről Zólyomban
+     </sch:name>
+     <sch:datePublished>
+      2013-05-20T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      nemzetközi
+     </sch:keywords>
+     <sch:keywords>
+      képzés
+     </sch:keywords>
+     <sch:keywords>
+      Szlovákia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="af4caea0-bdde-5bb8-97c0-4cae7cd5989c">
+     <sch:identifier>
+      urn:uuid:710ab41a-51a6-4b10-b12f-2fd1719d8e71
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:25.628118
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:08:54.522340
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="af4caea0-bdde-5bb8-97c0-4cae7cd5989c" when="2021-12-14T15:30:25.628118">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Képzés a közösségszervezésről Zólyomban
+   </head>
+   <p>
+    Ez a cikk több mint 8 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     2013. május 10-11-én Zólyomban (Szlovákia) jártunk, ahol A Város Mindenkié két tagja részt vett egy közösségszervezési képzésen. A tréninget a szlovák Center for Community Organizing szervezte.
+    </hi>
+   </p>
+   <p>
+    Összesen tízen mentünk Magyarországról a képzésre, több szervezettől. Pénteken kb. 11 fele értünk oda. Persze már vártak minket, nagyon jól fogadtak. Alig értünk oda egy kis késéssel, már el is kezdte a bevezetést házigazdánk, Chuck Hirt, egy Ohio államból származó közösségszervező, aki az utóbbi 16 évben Szlovákiában is közösségszervezéssel foglalkozott. Itt a közösségszervezés folyamatáról tanultunk: először megismerjük, mit látnak az egyes emberek problémának, utána elvégezzük a kutatást, hogy megismerjük ezeknek a problémáknak gyökereit, majd közösen lépünk a megoldás érdekében, elkezdjük az érdekvédelmet, miközben a velünk dolgozó emberekkel közösen építjük a közösségi szervezetet. Ez kb. 13 óráig tartott, amikor ebédszünet volt, és persze nekünk magyaroknak regisztrálás. Minden jó volt, kissé segített az én szlovák nyelvtudásom is.
+   </p>
+   <p>
+    Délután folytattuk a beszélgetést a szervezet felépítésével kapcsolatban, amit Chuck adott elő, és egy Sanja Nikolov nevű hölgy a helybeli közösségszervezők közül. 16 óra körül kávészünet után az adománygyűjtési technikákkal folytattuk egész estig. 19 órakor vacsora, ami után a helybeliek elvittek minket városnézésre. Kellemesen elfáradtunk és vissza mentünk a szállóra.
+   </p>
+   <p>
+    Reggel, miután megreggeliztünk, kezdtük újból a tréninget. A téma: közösségszervezés, hatékony együttműködés európai testvérvárosokkal. Elmondták, hogy milyen eredményeik voltak és milyen tevékenységekkel foglalkoztak, és meséltek egy közösségi központ létrehozásának nehézségeiről és sikereiről is.
+   </p>
+   <p>
+    Az kiderült, hogy persze ott is vannak gondok a kormányzattal és sok más gond is!
+   </p>
+   <p>
+    Szeretnénk, ha a jövőben is lenne ilyen képzési lehetőség, és ha minél több tagunk is el tudna menni. Szerintem nagyon jó lenne sok mindenki számára!
+   </p>
+   <p>
+    Nagyon szépen köszönöm Sebály Bettinek a fordítást és a szervezést.
+   </p>
+   <p>
+    További információ a közösségszervezésről:
+   </p>
+   <p>
+    http://kozossegszervezes.wordpress.com
+   </p>
+   <p>
+    http://www.civilkollegium.hu
+   </p>
+   <p>
+    http://szervezzesszervezodj.blogspot.com
+   </p>
+   <p>
+    2013. május 15.                                                                                 Pap János
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

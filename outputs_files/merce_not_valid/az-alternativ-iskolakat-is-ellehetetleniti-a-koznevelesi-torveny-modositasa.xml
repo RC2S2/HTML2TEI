@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az alternatív iskolákat is ellehetetleníti a köznevelési törvény módosítása
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3bcf2b1b-1ee6-577c-b392-76bb154be73d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az alternatív iskolákat is ellehetetleníti a köznevelési törvény módosítása
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-06-29T14:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/06/29/az-alternativ-iskolakat-is-ellehetetleniti-a-koznevelesi-torveny-modositasa/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/06/29/az-alternativ-iskolakat-is-ellehetetleniti-a-koznevelesi-torveny-modositasa/
+     </sch:url>
+     <sch:name>
+      Az alternatív iskolákat is ellehetetleníti a köznevelési törvény módosítása
+     </sch:name>
+     <sch:datePublished>
+      2019-06-29T14:00:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      oktatás
+     </sch:keywords>
+     <sch:keywords>
+      közoktatás
+     </sch:keywords>
+     <sch:keywords>
+      fidesz-kdnp
+     </sch:keywords>
+     <sch:keywords>
+      törvénymódosítás
+     </sch:keywords>
+     <sch:keywords>
+      alternatív iskola
+     </sch:keywords>
+     <sch:keywords>
+      waldorf
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3bcf2b1b-1ee6-577c-b392-76bb154be73d">
+     <sch:identifier>
+      urn:uuid:e39a1cd4-ccce-4600-9bb7-a38c46dbfeb6
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.357047
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:36:10.658393
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3bcf2b1b-1ee6-577c-b392-76bb154be73d" when="2021-12-14T15:35:04.357047">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az alternatív iskolákat is ellehetetleníti a köznevelési törvény módosítása
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Napokon belül dönt az Országgyűlés a köznevelési törvény módosításáról, és úgy tűnik, hogy még az
+    eredetinél is több probléma
+    lesz vele – legalábbis ez derül ki abból az
+    összegzésből
+    , amelyben már a később beterjesztett, és a bizottságok által elfogadott javaslatok is benne vannak.
+   </p>
+   <p>
+    A Szülői Hang külön figyelmeztet arra, hogy az új rendelkezések az alternatív intézmények – mint például a Waldorf iskolák – számára a gyakorlatban betarthatatlanok, és ezáltal a törvénytervezet alkalmassá válik ezen intézmények ellehetetlenítésére, kiüresítésére vagy bezárására.
+   </p>
+   <p>
+    „Az alternatív oktatási intézmények több évtizedes tapasztalattal, felbecsülhetetlen pedagógiai tudással gazdagították országunkat, melyek a törvénytervezettel veszélybe kerültek” – áll közleményükben.
+   </p>
+   <p>
+    Az Nemzeti köznevelési törvény 9. §-a ugyanis a módosító javaslat értelmében a következő (9a) bekezdéssel egészülne ki:
+   </p>
+   <p>
+    „(9a) A (9) bekezdés alkalmazása során az alternatív kerettanterv csak akkor hagyható jóvá, ha megfelel a következő szempontoknak: 
+a) a Nat-ban meghatározott tananyag tartalmakat tanévenként két félévre bontva kell megjeleníteni a kerettantervekben, összhangban a tanulók félévenkénti értékelésével, 
+b) a Nat-ban foglalt műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében az alternatív kerettanterv tantárgyi struktúrája legfeljebb harminc százalékban térhet el az oktatásért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.”
+   </p>
+   <p>
+    Csakhogy a fenti rendelkezések a Waldorf-, és más alternatív iskolák számára betarthatatlanok, ugyanis ezekben az oktatási intézményekben a képzés teljesen más ütemezésben, más tartalommal és más módszerekkel zajlik, mint az állami intézményekben.
+   </p>
+   <p>
+    A törvények által előírt tananyagot ezekben az oktatási intézményekben is ugyanúgy elsajátítják a tanulók, mint máshol, csakhogy az évenkénti bontás jelentősen eltér, így a Nat által előírt tananyag-tartalom sem kérhető számon félévenkénti bontásban.
+   </p>
+   <p rend="head">
+    Éppen az alternatív módszertan és tematika teszi ezeket az intézményeket vonzóvá a szülők és gyermekeik számára – írja a Szülői Hang.
+   </p>
+   <p>
+    Közleményükben az áll: a törvénymódosítást ezért csak úgy értelmezhetik, mint a Waldorf-, és más alternatív intézmények ellehetetlenítésére tett kísérletet. Arra is felhívják a figyelmet, hogy a módosítás benyújtójának is tisztában kellett lennie azzal, hogy ezek az alternatív intézmények nem tudják betartani a szóban forgó törvényt anélkül, hogy feladnák létezésük alapját, alternatív pedagógiai módszereiket.
+   </p>
+   <p>
+    „A XXI. században égető szükség van oktatási módszereink megújítására, melyben az alternatív intézmények élen járnak, tapasztalataikat az állami közoktatás is kamatoztathatná. Megdöbbenéssel látjuk, hogy a kormányzat ehelyett az alternatív intézmények ellehetetlenítésén, kiüresítésén munkálkodik” – fogalmaznak.
+   </p>
+   <p>
+    Nem ez a törvénytervezet egyetlen problematikus pontja:
+   </p>
+   <list>
+    <item>
+     megszűnne a magántanulói státusz, ami rendkívül nehéz helyzetbe hozná a sajátos nevelési igényű, illetve a beilleszkedési, tanulási és magatartási nehézségekkel küzdő gyerekeket,
+    </item>
+    <item>
+     bürokráciacsökkentés címen megszűnne a tantestület és az egyéb iskolai dolgozók, diákönkormányzatok és szülők  véleményezési joga az iskolaigazgató választással kapcsolatban,
+    </item>
+    <item>
+     a hároméves kortól kötelező óvodába járás alól csak négyéves korig kaphatnának felmentést azok a gyerekek, akiknek a szüleik ezt kérelmezik,
+    </item>
+    <item>
+     az egyébként csak szóbeli értékelést alkalmazó iskolákban is kötelező lenne a félévi és év végi teljesítményt osztályzattal is minősíteni,
+    </item>
+    <item>
+     a pedagógusjelöltek nyelvvizsga nélkül is megkezdhetnék a munkájukat.
+    </item>
+   </list>
+   <p>
+    Múlt héten több mint 30 civil szervezet és az összes ellenzéki párt kifejezte
+    tiltakozását a köznevelési törvény módosítása ellen
+    , a TASZ pedig egyenesen az Alkotmánybírósághoz fordul az ügyben, álláspontjuk szerint ugyanis a törvénymódosítás sérti a szülők és a gyerekek alapvető emberi jogait (erről
+    itt írtunk bővebben
+    ).
+   </p>
+   <p>
+    Ehhez képest a Nemzeti Pedagógus Kar
+    szerint
+    nincs ok aggodalomra, miközben egyébként ők maguk is több ponton aggodalmukat fejezik ki a törvénytervezettel kapcsolatban.
+   </p>
+   <p rend="head">
+    A Szülői Hang Közösség felszólította a kormányzatot a módosítás azonnali visszavonására.
+   </p>
+   <p>
+    Hogy mi a baj a köznevelési törvény módosításával, arról Nagy Erzsébet
+    írt bővebben a Mércén
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Öt mondat a NER-közeli sajtó által agyonhivatkozott szélsőjobboldali uszítótól
+    </title>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     344ce38b-7ba0-5d09-898d-effb6f7aac4d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Öt mondat a NER-közeli sajtó által agyonhivatkozott szélsőjobboldali uszítótól
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-05-29T14:28:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/05/29/ot-mondat-a-ner-kozeli-sajto-altal-agyonhivatkozott-szelsojobboldali-uszitotol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/05/29/ot-mondat-a-ner-kozeli-sajto-altal-agyonhivatkozott-szelsojobboldali-uszitotol/
+     </sch:url>
+     <sch:name>
+      Öt mondat a NER-közeli sajtó által agyonhivatkozott szélsőjobboldali uszítótól
+     </sch:name>
+     <sch:datePublished>
+      2021-05-29T14:28:00
+     </sch:datePublished>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Franciaország
+     </sch:keywords>
+     <sch:keywords>
+      rasszizmus
+     </sch:keywords>
+     <sch:keywords>
+      szélsőjobboldal
+     </sch:keywords>
+     <sch:keywords>
+      fasizmus
+     </sch:keywords>
+     <sch:keywords>
+      Éric Zemmour
+     </sch:keywords>
+     <sch:keywords>
+      fajelmélet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="344ce38b-7ba0-5d09-898d-effb6f7aac4d">
+     <sch:identifier>
+      urn:uuid:4eb4a2f4-db45-4ec8-8870-7ff99fdcee34
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:27.524545
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:44:56.034693
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="344ce38b-7ba0-5d09-898d-effb6f7aac4d" when="2021-12-14T15:30:27.524545">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Öt mondat a NER-közeli sajtó által agyonhivatkozott szélsőjobboldali uszítótól
+   </head>
+   <p>
+    Marine Le Pent, a Nemzeti Tömörülés (
+    <hi rend="italic">
+     Rassemblement national
+    </hi>
+    , RN) elnökét, Bruno Retailleau-t, a Republikánus Párt elnökét, és Éric Zemmourt, francia publicistát idézi a 460 orgánumot magába olvasztó Közép-Európai Sajtó és Média Alapítvány (KESMA) tulajdonában álló több híroldal is a „franciaországi állapotok” kapcsán.
+   </p>
+   <p>
+    Az
+    <hi>
+     Éric Zemmour: Franciaország haldoklik
+    </hi>
+    című írás olyannyira érdekesnek tűnik, hogy
+    szinte
+    az összes
+    megyei
+    online
+    híroldal
+    érdemesnek
+    tartotta
+    a leközlését
+    . Az összeállítás a
+    <hi>
+     V4NA
+    </hi>
+    hírügynökségtől származik, amely szintúgy a KESMA érdekeltségének körébe tartozik.
+   </p>
+   <p>
+    <hi>
+     A Válasz Online
+    </hi>
+    2019-es állapotot bemutató anyaga szerint
+    a V4NA Ltd. főtulajdonosa a médiaholding KESMA-körbe tartozó New Wave Media Group Kft. (57 százalék), további tulajdonosok még a miniszterelnöki kommunikációs tanácsadó Habony Árpád érdekeltségébe tartozó Danube Business Consulting Ltd. (40 százalék) és Szalay-Bobrovniczky Kristóf londoni magyar nagykövet (3 százalék).
+   </p>
+   <p>
+    A hírösszeállításból – többek közt – megtudjuk, hogy a szélsőjobboldal Nemzeti Tömörülés elnöke – amennyiben jövőre elnökké választják – „megvonná a menekültstátuszt a Franciaországban elítélt bűnözőktől”, a szélsebesen a szélsőjobb irányába tartó Republikánus Párt elnöke szerint „az országban megnövekedett erőszak a kormány túlzott engedékenységének eredménye”, de azt is, hogy „a világhírű francia esszéista”, Éric Zemmour úgy véli, hogy „Franciaország haldoklik, olyan mértékű migrációs hullám sújtja, amelynek következtében a teljes népesség kicserélődik”.
+   </p>
+   <p>
+    Zemmour nem először szerepel a KESMA-birodalomhoz tartozó sajtóban. Az
+    <hi>
+     Origo
+    </hi>
+    előszeretettel idézi
+    , amikor olyan kijelentéseket tesz, amelyek egybecsengnek a magyarországi kormány nézetével. Így például amikor arról beszél, hogy a „szocializmus nem tűnt el, csak veszélyes liberalizmussá alakult”, a bevándorlás és a dzsihád ugyanaz,
+    de akkor is
+    , amikor „az egyik legsikeresebb európai esszéíró” Magyarországot és Lengyelországot említi meg „követendő példaként”. Ugyancsak
+    gyakori szereplő a „filozófus-esszéíró” a
+    <hi>
+     Magyar Nemzet
+    </hi>
+    ben
+    , és
+    a
+    <hi>
+     Mandiner
+    </hi>
+    portálon
+    is. Utóbbiban ha nem Zemmour beszél a „népességcseréről” vagy „szellemi felcserélődésről”,
+    akkor egyenesen a fogalom megalkotója, Renaud Camus
+    .
+   </p>
+   <p>
+    Éric Zemmour
+   </p>
+   <p rend="head">
+    De kicsoda a töretlen népszerűségnek örvendő Zemmour?
+   </p>
+   <p>
+    Annak érdekében, hogy Olvasóink eligazodjanak a
+    <hi rend="italic">
+     Le Figaro Magazine
+    </hi>
+    publicistájának, rádiós-és tévés csatornák kedvelt szélsőjobboldali közszereplőjének gondolataiban – akinek
+    elismert világos törekvése
+    a republikánus jobboldal és a szélsőjobb közötti szakadék eltörlése a szélsőjobb zászlaja alatt –, kiválasztottunk tőle 5 idézetet.
+   </p>
+   <list>
+    <item>
+     „A feketék és a fehérek két különböző fajhoz tartoznak, és ez a különbség a bőrszín alapján is érzékelhető, anélkül, hogy hierarchikusan rangsorolnák őket” –
+     mondta el az
+     <hi>
+      Arte
+     </hi>
+     televízió műsorában 2008. november 13-án
+     . Majd kijelentette: „A faj szakralizálását a náci időszakban és azt megelőzően a faj figyelmen kívül hagyása és tagadása követte. Számomra mindkettő egyformán nevetséges hozzállás.”
+    </item>
+    <item>
+     „A férfi természete szerint szexuális ragadozó, aki erőszakot alkalmaz.” (Éric Zemmour:
+     <hi>
+      Le Premier sexe
+     </hi>
+     , 32-33.)
+    </item>
+    <item>
+     A „munkaadóknak jogában áll elutasítaniuk az arab és a fekete munkásokat”. A
+     <hi>
+      France Ô
+     </hi>
+     című műsorban tett kijelentése miatt
+     a bíróság pénzbírságra kötelezte Zemmourt.
+    </item>
+    <item>
+     „A legtöbb emberkereskedő fekete és arab… ez tény”. A kijelentése miatt, mivel nem sikerült bizonyítania, a bíróság megfeddte Zemmourt. Ugyan faji rágalmazásért nem ítélték el,
+     ám a bíróság kimondta, Zemmour nézete „sokkoló”
+     .
+    </item>
+    <item>
+     A „meleg ideológia” az egyik fő eszköz arra, hogy a „férfit arra biztassák, hogy olyan nővé váljon, mint a többiek”, hogy „átvegye a nők viselkedését”. A
+     <hi>
+      Petit Frère
+     </hi>
+     című könyvében egy szereplő azon töpreng
+     , hogy a társadalomban milyen helyet kellene adni a homoszexuális egyéneknek. Erre jut: „Minden hagyományos társadalomban, amely a szégyenre és a titoktartásra, az élet tiszteletére és a halálfélelemre épül, a »melegeket« megbélyegezték és elszigetelték volna, mint a régi idők leprásait”.
+    </item>
+   </list>
+   <p>
+    (
+    The New York Times
+    ,
+    Átlátszó
+    ,
+    Humanité
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

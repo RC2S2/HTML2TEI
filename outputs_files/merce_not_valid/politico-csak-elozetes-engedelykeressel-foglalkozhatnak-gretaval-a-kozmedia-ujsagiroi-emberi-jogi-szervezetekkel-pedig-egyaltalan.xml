@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Újabb levelezések szivárogtak ki a közmédián belüli cenzúráról
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4f4869a8-2d34-56cb-9643-b00581ed5d67
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Újabb levelezések szivárogtak ki a közmédián belüli cenzúráról
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-02T11:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/02/politico-csak-elozetes-engedelykeressel-foglalkozhatnak-gretaval-a-kozmedia-ujsagiroi-emberi-jogi-szervezetekkel-pedig-egyaltalan/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/02/politico-csak-elozetes-engedelykeressel-foglalkozhatnak-gretaval-a-kozmedia-ujsagiroi-emberi-jogi-szervezetekkel-pedig-egyaltalan/
+     </sch:url>
+     <sch:name>
+      Újabb levelezések szivárogtak ki a közmédián belüli cenzúráról
+     </sch:name>
+     <sch:datePublished>
+      2020-03-02T11:35:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      propaganda
+     </sch:keywords>
+     <sch:keywords>
+      közmédia
+     </sch:keywords>
+     <sch:keywords>
+      mtva
+     </sch:keywords>
+     <sch:keywords>
+      cenzúra
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4f4869a8-2d34-56cb-9643-b00581ed5d67">
+     <sch:identifier>
+      urn:uuid:98a83020-2f19-46d6-88a5-2d6903ce95e7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.631647
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:07:14.588935
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4f4869a8-2d34-56cb-9643-b00581ed5d67" when="2021-12-14T15:35:04.631647">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Újabb levelezések szivárogtak ki a közmédián belüli cenzúráról
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Névtelen forrástól kapott egy adagot a magyar közmédián belüli levelezésekből a brüsszeli székhelyű
+    Politico
+    . A levelekből kiderül, a közmédia újságírói nem dolgozhatnak fel bizonyos témákat, mások esetében pedig előzetes hozzájárulást kell kérniük. Arra is van példa, hogy publikálás előtt ismeretlen „felsőbb” szerkesztőkhöz kell elküldeniük jóváhagyásra anyagaikat.
+   </p>
+   <p>
+    Csak előzetes jóváhagyás után foglalkozhatnak az újságírók például olyan témákkal, mint az uniós politika vagy Greta Thunberg. Az emberi jogi szervezetekről szóló hírek pedig egyenesen tiltva vannak.
+   </p>
+   <p>
+    A levelekből az is kiderül, az alkalmazottak „érzékeny témákat” tömörítő listákat is kapnak, ha ilyennel foglalkoznak, akkor az anyagokat előzetes jóváhagyásra kell felterjeszteniük. A lapnak névtelenül nyilatkozó egyik közmédiás dolgozó szerint, ők nem tudják, végső soron ki hagyja jóvá ezeket az anyagokat.
+   </p>
+   <p>
+    Az érzékeny témák listáján található a migráció, az európai terror, Brüsszel és az egyházi ügyek, illetve az uniós tagállamokban lezajló különféle választások is – legalábbis ez derül ki az egyik rangidős szerkesztő által tavaly októberben küldött levélből.
+   </p>
+   <p>
+    A Greta Thunbergre vonatkozó levél egy másik szerkesztőtől származik, tavaly augusztusban született, épp a klímaaktivista Nagy-Britanniából az USA-ba tartó hajóútjának a kezdetén. Az email előírja, hogy minden Gretát érintő ügyben még azelőtt beleegyezést kell kérni a főszerkesztőtől, hogy egyáltalán foglalkozni kezdenének vele. A Politico megjegyzi, a közmédia nem is számolt be a svéd aktivista útjáról.
+   </p>
+   <p>
+    A kiszivárgott belső levelezésből megerősítést nyer a
+    Népszava korábbi információja
+    is, amely szerint az Amnesty International és a Human Rights Watch közleményeiről, akcióiról teljesen tilos beszámolni a közmédiában.
+   </p>
+   <p>
+    A brüsszeli portál emlékeztet, 2018 óta Magyarország ellen 7-es cikkely szerinti eljárás folyik az unió alapszerződéseiben foglalt értékek megsértése miatt – az egyik ilyen dimenzió a sajtószabadságot sértő magyar kormányzati lépéseket kritizálja.
+   </p>
+   <p>
+    Nem ez az első kiszivárogtatás az MTVA háza tájáról: az elmúlt évben volt és jelenlegi alkalmazottak névvel és név nélkül több alkalommal vallottak a közmédián belüli cenzúráról, az
+    ellenzék lejáratására vonatkozó utasításokról
+    . A hírhamisítás sem idegen a közmédiától, sőt akár előléptetéssel is járhat: Papp Dániel, az MTVA 2018-ban kinevezett vezérigazgatója korábban két hírhamisítási ügybe is
+    belekeveredett
+    .
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 14:45 –
+    </hi>
+    Az MTVA az Azonnalinak reagált a Politico cikkére:
+   </p>
+   <p>
+    „Az összeesküvés-elméleteken alapuló hazugságok helyett az alábbiakra hívjuk fel a figyelmet. A napi szerkesztőnek a hatályos belső kommunikációs szabályzat alapján témától függetlenül kell látnia minden anyagot és koordinálnia a Duna Médiaszolgáltató és az MTI között a napi tematikát” – írta az MTVA
+   </p>
+   <p>
+    Azt is hozzátette: hogy milyen téma, milyen formában, mekkora terjedelemben és a közmédia melyik felületén jelenik meg, az szerkesztői döntés kérdése, „ugyanúgy, mint minden más szerkesztőségben a világon”.
+   </p>
+  </body>
+ </text>
+</TEI>

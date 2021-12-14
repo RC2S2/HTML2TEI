@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A gödi modell nem az adók méltányosabb elosztásáról szól, hanem alárendel mindent a nagyvállalati érdekeknek
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4032abcc-ebbe-5bc0-8ea3-9915cc69ce63
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A gödi modell nem az adók méltányosabb elosztásáról szól, hanem alárendel mindent a nagyvállalati érdekeknek
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-15T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/15/a-godi-modell-nem-az-adok-meltanyosabb-elosztasarol-szol-hanem-alarendel-mindent-a-nagyvallalati-erdekeknek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/15/a-godi-modell-nem-az-adok-meltanyosabb-elosztasarol-szol-hanem-alarendel-mindent-a-nagyvallalati-erdekeknek/
+     </sch:url>
+     <sch:name>
+      A gödi modell nem az adók méltányosabb elosztásáról szól, hanem alárendel mindent a nagyvállalati érdekeknek
+     </sch:name>
+     <sch:datePublished>
+      2020-05-15T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      multik
+     </sch:keywords>
+     <sch:keywords>
+      Göd
+     </sch:keywords>
+     <sch:keywords>
+      samsung
+     </sch:keywords>
+     <sch:keywords>
+      különleges gazdasági övezet
+     </sch:keywords>
+     <sch:keywords>
+      gödi modell
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4032abcc-ebbe-5bc0-8ea3-9915cc69ce63">
+     <sch:identifier>
+      urn:uuid:a0a5a50e-ece3-4cde-b17a-1e28f5b29e24
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.225620
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:12:21.629706
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4032abcc-ebbe-5bc0-8ea3-9915cc69ce63" when="2021-12-14T15:30:50.225620">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A gödi modell nem az adók méltányosabb elosztásáról szól, hanem alárendel mindent a nagyvállalati érdekeknek
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Április 17-én, pénteken jelent meg a
+    Magyar Közlönyben
+    a kormány azon rendelete, mellyel lehetővé tette a különleges gazdasági övezetek létrehozását, majd azon nyomban
+    ki is jelölte
+    az elsőt a tavaly ősz óta ellenzéki vezetésű Gödön, ahol a Samsung elektronikai gyára, a város fontos bevételi forrása is található.
+   </p>
+   <p rend="head">
+    De a kormány nemcsak Gödön
+    adja oda az első éjszaka jogát
+    , és nem csak a Samsungnak.
+   </p>
+   <p>
+    Azóta sok víz lefolyt a Dunán, és Semjén Zsolt miniszterelnök-helyettes május 12-én, kedden benyújtott
+    törvényjavaslata
+    alapján immár biztosra vehetjük, a gödi gyár csupán egy pilot-projekt, a kormány az ország valamennyi olyan pontján különleges gazdasági övezeteket fog létrehozni, ahol ez a tőke és a kormánypárt érdekeit szolgálja. Magyarországon az eredeti, áprilisi rendelet szerint a különleges gazdasági övezet létrehozásának feltétele, hogy a területen
+   </p>
+   <list>
+    <item>
+     a kormány által nemzetgazdasági szempontból kiemelt jelentőségű beruházássá nyilvánított,
+    </item>
+    <item>
+     legalább 100 milliárd forint teljes költségigényű,
+    </item>
+    <item>
+     a megye területének jelentős részére kiható gazdasági jelentőségű,
+    </item>
+    <item>
+     és munkahelyek tömeges elvesztésének elkerülését, új beruházás vagy bővítés megvalósítását szolgáló beruházások valósulnak meg.
+    </item>
+   </list>
+   <p>
+    Ehhez képest a Semjén-féle törvényjavaslat sokkal megengedőbb: a teljes költségigény immár csak ötmilliárd forint kell, hogy legyen. Magyarországon eddig ugyan nem voltak kijelölve ilyen területek, azonban a világ számos országában léteznek olyan helyek, ahol a telephelyekkel jelenlévő cégek még az adott országok általános szabályozásainál kedvezőbb körülmények között folytathatják a termelést, enyhébb adózási, vagy akár munka- és környezetvédelmi szabályok érvényesítésével.
+   </p>
+   <p>
+    És nem utolsó sorban,
+   </p>
+   <p rend="head">
+    a döntéshozók akár teljes mértékben figyelmen kívül hagyhatják az adott környék lakosságának vagy a tágabb közösségnek az érdekeit, véleményét, preferenciáit a beruházással kapcsolatban, miközben az adószedés jogát a megyei önkormányzatok kapják meg.
+   </p>
+   <p>
+    A törvényjavaslat szerint ugyanis a különleges gazdasági övezetekben úgy járhat a kormány vagy a megyei önkormányzat a vállalatok kedvében, ahogy nem szégyell (vagyis amennyi kedvezményt az adott vállalat követel). A 4. paragrafus 1. bekezdése szerint
+   </p>
+   <p>
+    „A különleges gazdasági övezet fekvése szerinti települési önkormányzat
+   </p>
+   <p>
+    A. sajátos településrendezési és beépítési szabályokat, valamint egyedi építési követelményeket, valamint építési vagy változtatási tilalmat,
+    B. sajátos telekalakítási követelményeket,
+    C. egyedi településképi követelményeket,
+    D. egyedi örökségvédelmi szabályokat,
+    E. a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
+    F. közterületek használati rendjére vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjére, a közterületek fenntartására, fejlesztésére és üzemeltetésére vonatkozó szabályokat,
+    G. a közterületek elnevezésének, valamint az elnevezésük megváltoztatására irányuló kezdeményezés és a házszám-megállapítására vonatkozó szabályokat,
+    H. az öngondoskodásra és a közösségi feladatok ellátásához való hozzájárulásra, továbbá a közösségi együttélésre vonatkozó alapvető szabályokat, valamint ezek elmulasztására jogkövetkezményeket
+   </p>
+   <p>
+    megállapító rendelete a különleges gazdasági övezet területén csak akkor alkalmazható, ha a Kormány vagy a megyei önkormányzat e törvény felhatalmazása alapján megalkotott rendelete a különleges gazdasági övezet területére nem állapít meg eltérő szabályokat.”
+   </p>
+   <p>
+    Vagyis, félreértések elkerülése végett szögezzük le világosan:
+   </p>
+   <p rend="head">
+    a kormány kijelölhet olyan területeket egyes önkormányzatok területén, ahol cégek nagyértékű beruházásokat hajthatnak végre, miközben mentesülnek a helyi szabályok alól, adókat pedig a megyei önkormányzatnak fizetnek.
+   </p>
+   <p>
+    Egy települési önkormányzatnak okvetlenül a választók kedvében kell járnia, akár társadalmilag hasznosnak tekintünk egy adott intézkedést – például önkormányzati bérlakások létrehozása a rászorulók számára -, akár problémásnak – például a hajléktalanok módszeres vegzálása köztisztasági okokra hivatkozva -, és felelősen kell irányítania az adott települést, különben legkésőbb az önkormányzati választásokon a lakók bosszút állnak, és lecserélik a vezetést.
+   </p>
+   <p>
+    A rendszer persze ezer sebből vérzik, és az országon belüli területi egyenlőtlenségek miatt sokszor ordító igazságtalanságoknak lehetünk tanúi – például egy budai önkormányzat az összességében több, ilyen-olyan jogcímeken befolyó adók miatt jóval több pénzből tud a lakosai kedvében járni, mint egy zsákfalu, kevesebb adóbevétellel és alacsonyabb egy főre jutó költségvetéssel – ezen pedig a különleges gazdasági övezet akár segíthetne is.
+   </p>
+   <p>
+    Az egyik kormánypárti érv ugyanis épp az, hogy igazságtalan lenne, ha a gyár működése utáni adóbevételek csupán Göd, vagy más települések önkormányzatait gazdagítanák, miközben a környező települések csak a negatív hatásokból részesülnek – ami, nem nehéz belátni, így is van, tekintve, hogy az üzem működéséből fakadó környezetszennyezést, a dolgozók létszámának megfelelő mennyiségű lakás építésének elmaradása után felszökő lakásárakat és a megnövekedett forgalmat, ésatöbbit a környező települések is megszenvedik.
+   </p>
+   <p>
+    A különleges gazdasági övezet azonban a megyei önkormányzathoz tartozik. Ebben benne foglaltatik a gyár területe, ami művelés alól kivont külterületként kerül a megyei önkormányzat nyilvántartásába, és az eddig az adott önkormányzathoz tartozó, forgalomképtelen törzsvagyon részét képező közterület, közpark, közút is a megyéhez kerül – vagyis a megyei közútkezelő fog kátyúzni a kamionok után, legalábbis a kijelölt övezetben, mily nagylelkű.
+   </p>
+   <p>
+    A fentiek jegyében a megye szedi be az iparűzési adót, ami eddig az önkormányzat kasszájában csengett – és amivel Gödön például az előző városvezetés a beruházás
+    szükségességét indokolta
+    – az összegből pedig a jelenleg legismertebb példa esetén úgy Göd, mint a környező települések is gazdagodnak majd, szól a kormány indoklása.
+   </p>
+   <p>
+    Tehát lehetnének társadalmi szempontból hasznos velejárói az ilyen különleges gazdasági övezetek kijelölésének, nevesül hogy egy adott ipari termelőtől befolyó adóforintok felett ne csupán az üzemnek otthont adó település rendelkezhessen, de tágabb környezete javát is szolgálják.
+   </p>
+   <p rend="head">
+    Ez az érvelés azonban egész egyszerűen nevetséges Magyarország kormánya részéről.
+   </p>
+   <p>
+    Ha ugyanis a kormány komolyan gondolná, akkor számtalan lehetősége lett volna tenni a helyi iparűzési adó jelenlegi formájának átalakításáért, és akkor talán nem az lenne az eredmény, hogy egy-egy új beruházásért a különböző infrastrukturális és területi adottságokkal rendelkező települések őrült versenyt folytatnak, miközben a beruházó cégek kedvükre válogathatnak a jobbnál jobb ajánlatok közül, a települések vezetését akár
+    szabálytalanság-gyanús
+    lépésekre ösztönözve. (Ez egyébként némiképp leképezi azt, ahogy az egyes országok versengenek a nagy cégek beruházásaiért.)
+   </p>
+   <p>
+    És azt is könnyebb lenne elkerülni, hogy a lakosok helyett jobbára a cégek érdekeit szem előtt tartó döntések szülessenek egy-egy beruházás előtt azért, mert a települések önkormányzatai súlyos forráshiánnyal küzdenek, így adott esetben akár nagyon rossz feltételek mellett is támogassanak valamilyen fejlesztést, míg más, jobb adottságokkal rendelkező települések fürödjenek a befolyó adókban.
+   </p>
+   <p>
+    Ezekre kiváló megoldás lenne, ha azt mondaná a kormány, hogy mostantól az iparűzési adó úgy ahogy van a központi költségvetésbe folyik be (erre egyébként volt is
+    javaslat
+    , ami rég látott
+    egységbe kovácsolta
+    az ellenzéki és kormánypárti településvezetőket), ellenben szükségleteiknek megfelelően biztosítja a települések működtetéséhez szükséges forrásokat. Magyarán sehol ne épüljön csokiszökőkút a főtéren, míg máshol nem járnak iskolába a gyerekek, mert a helyit bezárták, a járási központ iskolabuszának a kereke meg kiszakadt a kátyús úton (már ha van iskolabusz).
+   </p>
+   <p>
+    De a kormány nem hozott ilyen döntéseket, és míg vannak városok, ahol az iparűzési adóból befolyó összegekből (és persze egy csomó más forrásból, például gépjárműadóból – hoppá) vígan tudja finanszírozni az önkormányzat a település fenntartását, máshol az alapvető szolgáltatások biztosítása is komoly nehézségekbe ütközik – és ez a helyzet már a Fidesz 2010-es kormányra kerülésekor is fennállt.
+   </p>
+   <p>
+    Persze ne legyen illúziónk, ha az országban működő valamennyi vállalat a központi költségvetésbe fizetné az iparűzési adót, akkor sem valószínű, hogy a kormány a fenti rendszer szerint kiosztaná az arra leginkább rászoruló települések között.
+   </p>
+   <p>
+    A különleges gazdasági övezetek koncepcióját mégsem az elmúlt tíz évben valósította meg a kormány, hanem most, a járvánnyal járó gazdasági válsághelyzetre hivatkozva, a pilot-projekt pedig valamiért épp egy olyan település lett, ahol ellenzéki polgármester vette át az irányítást, ellenzéki többségű képviselő-testülettel, nem például Győr vagy Debrecen. Hogy a jövőben hol fognak még ilyen övezeteket kijelölni, azt nem tudhatjuk, ugyanakkor a kormány ellenzéki vezetésű településekkel ápolt viszonya alapján gyanítható, hogy inkább ezek területein, ugyanis
+   </p>
+   <p rend="head">
+    a szabályozás remek lehetőséget biztosít a kormánynak, hogy megszorongassa az ellenzéki önkormányzatokat, miközben békén hagyja a kormánypártiakat.
+   </p>
+   <p>
+    Ahogy amellett sem mehetünk el szó nélkül, hogy noha a kiemelt beruházási övezetben végrehajtott befektetés elméletben szolgálná a környéken élők érdekeit („munkahelyek tömeges elvesztésének elkerülése”), ez a gödi esetben minimum kétséges, ugyanakkor a dél-koreai multinak annál inkább kedvében jár a kormány.
+   </p>
+   <p>
+    Szöul, 2019. december 12. A Külgazdasági és Külügyminisztérium (KKM) által közreadott képen Szijjártó Péter külgazdasági és külügyminiszter (j) a Samsung SDI képviselõivel tárgyal Szöulban 2019. december 12-én. Balról középen Dzsun Jung Hjun elnök-vezérigazgató. MTI/KKM/Borsos Mátyás
+   </p>
+   <p>
+    Göd esetében a lakók ugyanis
+    nem örülnek
+    annak, hogy a Samsung bővíti a gyárat, ez ugyanis további zaj- és egyéb környezetszennyezéssel fog járni a lakott területek közvetlen közelében, ráadásul miközben az üzem közelében lévő ingatlanok piaci értéke csökken, ahogy azt említettem, a lakhatási költségek nőttek, miután a lakásállomány fejlesztése már alacsonyabb prioritást élvez a gyár bővítésénél. Ezzel szemben a kormány máris bejelentette, hogy a gyárhoz kapcsolódó infrastrukturális fejlesztésekre
+    42 milliárd forintot
+    költenek.
+   </p>
+   <p rend="head">
+    Ez példaképp szolgálhat, mire számíthatunk a további különleges gazdasági övezetek esetében: a nagy cégek kritikátlan támogatására a helyi lakosokkal szemben, miközben az üzemekben dolgozó munkások sem feltétlenül járnak jól;
+   </p>
+   <p>
+    míg a gyár otthonának megteremtésében aktívan közreműködik az állam, a munkások elhelyezését a piaci folyamatokra bízza, illetve a munkáltatók munkaerőpiaci változásoktól függő jóindulatára, hogy lesz-e például munkásszálló.
+   </p>
+   <p>
+    Tehát a különleges gazdasági övezet egy olyan intézményt takar, melynek segítségével a kormány gyakorlatilag elveszi a lehetőséget a településektől, hogy döntéseket hozzanak a területükön folytatható gazdasági tevékenységekről, megfosztja a lakókat akár a minimális beleszólástól, az önkormányzatokat pedig a bevételektől. És még ha lehetne is úgy élni az utóbbival, hogy a társadalom minél szélesebb érdekeit szolgálja, sokkal inkább valószínű, hogy a kormány a fideszes megyei közgyűléseken keresztül a cégeket előnyben, míg az ellenzéki vezetésű önkormányzatokat hátrányban részesítő döntéseket fog hozni.
+   </p>
+   <p>
+    És noha a járvány miatti válság ürügyén vezették be, az intézkedés a legkevésbé sem ideiglenes hatályú, miután mint látjuk, egy hónap sem telt el, mire törvénybe foglalnák.
+   </p>
+   <p rend="head">
+    Ezen eszköz használatával pedig a kormány egyszerre tehet keresztbe az ellenzéki önkormányzatoknak, szolgálhatja ki a multinacionális vállalatokat és tetszeleghet a munkahelyek megmentőjének, teremtőjének képében.
+   </p>
+   <p>
+    Annak ismeretében, hogy a kormány milyen elkötelezett a nagy cégek kiszolgálása iránt, inkább az hathat különösnek, hogy eddig miért nem hozott létre ilyen övezeteket. Noha lehet használni a különleges gazdasági övezeteket fegyverként az ellenzéki önkormányzatok ellen is, alapvető céljuk, hogy még a jelenlegieknél is szélesebb körben tudjon a kormány kedvezményeket biztosítani a külföldi (és adott esetben persze magyar) tőke számára, illetve a cégek ne érezzék bizonytalannak helyzetüket egy adott területen (hisz a bizonytalanság csökkenti a befektetési hajlandóságot).
+   </p>
+   <p>
+    Ahogy Szijjártó miniszter mondta a
+    Blikknek
+    , ilyen helyzetben „nyilvánvalóan egy sokkal megfontoltabb, sokkal szélesebb személyi kört bevonó tárgyalássorozatra van szükség, mint egy nem túl nagy településre bízni ezt”. Mert hisz az a nem túl nagy település még a végén úgy dönt, nem úgy szolgálja ki a multit, ahogy az megkívánja.
+   </p>
+   <p>
+    Szerencsére a kormánytól ilyen „galádságot” még nemigen láthattunk.
+   </p>
+  </body>
+ </text>
+</TEI>

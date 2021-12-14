@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lengyel Függetlenség Napja: 100. évforduló a nemzeti feledés jegyében
+    </title>
+    <author>
+     <persName>
+      Barta Léka Tamás
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fa772bf7-aad5-5e50-bf7f-0707d3b2814a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Lengyel Függetlenség Napja: 100. évforduló a nemzeti feledés jegyében
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Barta Léka Tamás
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-11T14:40:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/11/lengyel-fuggetlenseg-napja-100-evfordulo-a-nemzeti-feledes-jegyeben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/11/lengyel-fuggetlenseg-napja-100-evfordulo-a-nemzeti-feledes-jegyeben/
+     </sch:url>
+     <sch:name>
+      Lengyel Függetlenség Napja: 100. évforduló a nemzeti feledés jegyében
+     </sch:name>
+     <sch:datePublished>
+      2018-11-11T14:40:00
+     </sch:datePublished>
+     <sch:author>
+      Barta Léka Tamás
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      történelem
+     </sch:keywords>
+     <sch:keywords>
+      lengyelország
+     </sch:keywords>
+     <sch:keywords>
+      PiS
+     </sch:keywords>
+     <sch:keywords>
+      lengyel
+     </sch:keywords>
+     <sch:keywords>
+      közép-európa
+     </sch:keywords>
+     <sch:keywords>
+      lengyel függetlenség napja
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fa772bf7-aad5-5e50-bf7f-0707d3b2814a">
+     <sch:identifier>
+      urn:uuid:19d7aaf2-9c03-4d07-b2fb-f08466cbbe11
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:25.444077
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:13:27.508510
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fa772bf7-aad5-5e50-bf7f-0707d3b2814a" when="2021-12-14T15:30:25.444077">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Lengyel Függetlenség Napja: 100. évforduló a nemzeti feledés jegyében
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    November 11-e Lengyelország legnagyobb nemzeti ünnepe, a Függetlenség Napja, a lengyelek ma országuk újjászületésének 100. évfordulóját ünneplik. A függetlenséget szocialisták és nacionalisták széles összefogása harcolta ki, a nap akár alkalmas lenne a közös ünneplésre is. November 11-e – a Magyarországról is ismerős nemzeti feledés jegyében – mégis a Varsóban felvonuló szélsőjobbtól hangos.
+   </p>
+   <p rend="head">
+    A 19. század nemzeti és a szocialista ellenállása
+   </p>
+   <p>
+    Közép-Kelet-Európa egyedi berendezkedésű állama, a Lengyel-Litván Nemesi Köztársaság majd egy évszázados hanyatlás után 1795-ben tűnt el végleg a térképről. Területét három nagyhatalom: Oroszország, a Habsburg Birodalom (a későbbi Osztrák-Magyar Monarchia) és a Porosz Királyság (a későbbi Német Császárság) osztotta fel egymás között.
+   </p>
+   <p>
+    A modern nemzetek születésének korában a lengyeleknek nem volt saját államuk, de a lengyel nemzettudat nagyon is élt és hatott: a XIX. század története a lengyelek számára a szabadságharcok, a hol reményteljes, hol reménytelen küzdelmek kora. Az Európa rendjével elégedetlen lengyel hazafiak ott voltak mindenhol, ahol alkalom adódott a felosztó birodalmak elleni harcra (így többek között 1848-1949-ben Magyarországon is), és önfeláldozóan küzdöttek, zászlójukra általában azt a szállóigévé vált jelszót írva:
+    <hi>
+     „A ti szabadságotokért s a mienkért!” („Za waszą a naszą wolność!”)
+    </hi>
+   </p>
+   <p>
+    A folytonos küzdelem és szervezkedés közepette persze a lengyel nemzeti mozgalmakon belül is különféle irányzatok alakultak ki, különféle elképzelésekkel egy majdani újjászületett ország formájáról és tartalmáról. A kérdés többnyire az volt: mennyire állítható vissza a régi Köztársaság. Lehet-e belőle újra Lengyel-Litván Közös Állam? Pusztán a régi rend, az elitista Nemesi Köztársaság helyreállítása a cél, vagy ennél több: társadalmi reformok és demokratikus államberendezkedés? Mi a helyes politika a lengyelekkel együttélő népekkel (ukránokkal, beloruszokkal, litvánokkal, zsidókkal) szemben? Elismerhetők-e ezek a lengyelekkel egyenrangú nemzeteknek?
+   </p>
+   <p rend="head">
+    A XIX. század végén a lengyel nemzeti mozgalomban már egyre inkább azok az irányzatok kerültek túlsúlyba, amelyek azt hirdették, hogy egy új Lengyelországot csakis demokratikus alapon, széles néprétegekre, parasztokra és ipari munkásokra alapozva lehet létrehozni.
+   </p>
+   <p>
+    A PPS delegációja a II. internacionáléra, 1896-ban; Józef Piłsudski az ülők közül jobbról a második; kép: Wikimedia Commons
+   </p>
+   <p>
+    Az 1890-es években az Orosz Birodalomhoz tartozó lengyel területeken, az úgynevezett Kongresszusi Lengyel Királyságban (amelyet a legerősebben sújtott az idegen elnyomás) létrejött a Lengyel Szocialista Párt (Polska Partia Socjalistyczna, PPS), amely programjában, ideológiájában összekötötte a nemzeti és társadalmi szempontokat: egyszerre hirdették a kapitalista kizsákmányolás alóli felszabadulás és egy önálló, független Lengyelország létrehozásának szükségességét. A hazafias szempontok gyakori hangoztatása miatt többször szembekerültek az egyre merevebbé, dogmatikusabbá váló II. Internacionálé vezetőségével is. Ezeket a konfliktusokat ők mindig vállalták is. Ennek következtében soha nem váltak olyan doktrínerré, mint akár a német vagy a magyar szociáldemokrata párt.
+   </p>
+   <p>
+    A Kongresszusi Királyság másik fő irányzata az úgynevezett nemzeti demokraták tábora volt. (A „Narodowa Demokracja” azaz „Nemzeti Demokrácia” kifejezés kezdőbetűiről (ND) őket endekeknek is nevezték.) Ők sokkal inkább voltak nacionalisták, mint demokraták. A lengyelek kulturális elsőbbségét, és ebből következően a lengyel hegemónia szükségességét hirdették a lengyel területeken. Fontosnak tartották a katolikus egyház befolyásának fenntartását, ellentétben a szocialistákkal, akik az állam és az egyház elválasztását tartották célnak. (Megjegyzendő azonban, hogy a lengyel szocialisták legtöbbje sosem vált merev ateistává.)
+   </p>
+   <p>
+    Tény: a mindenfajta (nemzeti és társadalmi) elnyomással szembeszálló lengyel szocialisták sokkal következetesebb harcosai voltak a függetlenségi gondolatnak, mint az endekek, akik hajlamosak voltak a cári rendszerrel való kisebb-nagyobb kompromisszumokra, mivel a cárban támogatót reméltek az ukránokkal és főleg a zsidókkal szemben. (Az endekeknek ezt a visszatetszően kétszínű hozzáállását egy cikkében
+    még Ady Endre is szóvátette
+    , párhuzamot vonva a magyar dzsentrik viselkedésével.)
+   </p>
+   <p>
+    Artur Szyk: Łódź 1905 című festményének részlete, PPS-es forradalmárok 1905-ben
+   </p>
+   <p>
+    Az 1905-ös oroszországi forradalomból a lengyel szocialisták is keményen kivették a részüket. A PPS rengeteg sztrájkot és tüntetést szervezett a Kongresszusi Királyság területén a munkások érdekeinek védelmében, de a lengyel nemzeti követelések (például a lengyel nyelvű oktatás) érdekében is. Bár a forradalomnak volt köszönhető, hogy Oroszország abszolút monarchiából alkotmányos monarchia lett, a cári rendszer a részleges engedmények után nem szüntette be, sőt inkább fokozta a lengyel szocialisták üldözését.
+   </p>
+   <p>
+    A PPS sok tagja került ezután is börtönbe, szibériai száműzetésbe, vagy egyenesen akasztófára. Ezek miatt, illetve a forradalom alatti kegyetlen tömegoszlatások hatására, a párt sok tagja arra a meggyőződésre jutott, hogy az egyetlen lehetőség ebben a helyzetben a fegyveres ellenállás.
+   </p>
+   <p>
+    A PPS bizonyos körei terrorista egységeket alapítottak, amelyek merényleteket kezdtek a legkegyetlenebb és leggyűlöltebb cári tisztviselők ellen, továbbá postavonatokat raboltak ki, hogy a börtönbe jutott társaik családjait támogassák. (A PPS politikájának ilyen radikalizálódása tehát nagyon hasonló volt ahhoz az úthoz, amelyet a Kurd Munkáspárt járt be a XX. század második felében, mint ahogyan a két szervezet ideológiája, a nemzeti és társadalmi felszabadulás összekötése is eléggé hasonló képet mutat.)
+   </p>
+   <p>
+    Józef Piłsudski; kép forrása: Wikimedia Commons
+   </p>
+   <p>
+    Az ilyen fegyveres csoportok szervezésében emelkedett ki a szocialista aktivisták közül Józef Piłsudski, a litvániai lengyel nemesi család sarja, aki korábban már (ártatlanul) Szibériát is megjárta. Piłsudski célja már nem csak a cári hatóságoknak való visszavágás volt, hanem az is, hogy a PPS harci egységeiből idővel majd egy új lengyel felkelő hadsereg tisztikarát szervezi meg.
+   </p>
+   <p>
+    Elképzelései elsőre talán kissé elszálltnak tűnhettek, de fellépését nagyban segítette, hogy a tevékenységét egyre inkább támogatta az Osztrák-Magyar Monarchia katonai hírszerzése is, amely egy jól használható eszközt látott Piłsudskiban és harcostársaiban.
+   </p>
+   <p rend="head">
+    Világháború és köztársaság
+   </p>
+   <p>
+    1914-ben kitört az I. világháború. Mivel ebben a Lengyel-Litván Köztársaságot egykor felosztó minden nagyhatalom részt vett, a háború két dolgot jelenthetett a lengyelek számára. Egyrészt azt a szomorú tapasztalatot, hogy a német, az osztrák-magyar és az orosz hadsereg katonáiként egymás ellen kell majd harcolniuk. Másrészt lehetett ez egy lehetőség is arra, hogy támogatásuk fejében a különböző területeken élő lengyelek talán kicsikarhatnak maguknak némi engedményeket a felosztó birodalmaktól.
+   </p>
+   <p rend="head">
+    Az a tény tehát, hogy lengyelek az ellenség hadseregében is vannak, a lengyel nemzeti mozgalmak számára is ütőkártyát jelentett, amennyiben a nagyhatalmak igyekeztek rálicitálni egymás ígéreteire a lengyeleknek adandó engedményekről.
+   </p>
+   <p>
+    Piłsudski a fronton; forrás: Wikimedia Commons
+   </p>
+   <p>
+    Józef Piłsudski ebben a helyzetben az Osztrák-Magyar Monarchia mellett szervezett egy Lengyel Légiót, amelynek tényleg nagyrészt egykori szocialista harcostársai lettek a tisztjei. Az endekek vezetője, Roman Dmowski azonban továbbra is a cártól, majd később a franciáktól várta a lengyel törekvések támogatását. Az általa az orosz hadseregbe szervezett lengyel egységek azonban közel sem kaptak akkora önállóságot, mint a Piłsudski-légió az osztrák-magyar hadseregtől.
+   </p>
+   <p>
+    A háború végül is a lengyelek (elsősorban Piłsudski csoportja) számára a lehető legkedvezőbben alakult. 1915-ben a német és osztrák-magyar csapatok kiszorították az oroszokat a Kongresszusi Királyság területéről. Később azonban a német haderő is összeomlott a nyugati fronton. A minden emberi, anyagi és erkölcsi tartalékot felemésztő háborúból mindhárom hatalom: az Osztrák-Magyar Monarchia, a Német Császárság és az elvileg a győztesek oldalán álló Oroszország is hosszú távon vesztesként került ki. Mint dinasztikus-monarchista birodalmak, tulajdonképpen meg is szűntek létezni. A különböző oldalakon harcoló lengyel fegyveres csoportok viszont hatékonyan építették ki az együttműködést egymással. Piłsudski és Dmowski, a két régi ellenfél félre tudta tenni személyes és politikai ellentéteit az ügy érdekében.
+   </p>
+   <p>
+    Ignacy_Daszyński; forrás: Wikimedia Commons
+   </p>
+   <p>
+    1918. november 5-én Lublinban megalakult az új Lengyel Köztársaság első kormánya, élén az Osztrák-Magyar Monarchia lengyel szociáldemokratáinak vezetőjével, Ignacy Daszyńskival. (A kormányban képviseltették magukat a Kongresszusi Királyság szocialistái és a különböző parasztpártok is.) November 11-én a lengyel légiósok és a lelkes diákok Piłsudski irányításával lefegyverezték a Varsó területén maradt német helyőrséget (amelyet aztán később – nem lévén már felettese, akinek engedelmeskedhetett volna – engedtek szabadon távozni).
+   </p>
+   <p>
+    A történeti emlékezet ez utóbbi dátumot, az idegen csapatok fővárosból való távozását tartja a Második Lengyel Köztársaság szimbolikus kezdetének. Ez lett a nemzeti függetlenség ünnepe is.
+   </p>
+   <p rend="head">
+    Kilúgozták mint a magyarok ’56-ot
+   </p>
+   <p>
+    A különböző pártok és társadalmi csoportok közötti ellentétek nem szűntek meg a nagy cél, az önálló állam elérésével, a későbbiek során többször felmerült, hogy a függetlenséget kivívó csoportok között egy polgárháború törjön ki (úgy, mint Finnországban). Ezzel együtt, az új lengyel állam megszületése hatalmas eredmény volt.
+   </p>
+   <p rend="head">
+    A Lengyel-Litván Nemesi Köztársaság örökre elveszett, helyette száz évvel ezelőtt megszületett egy modern állam sokszínű etnikai, vallási, világnézeti térképpel. Egy parlamentáris demokratizmuson alapuló köztársaság, amelyben a XX. század első felének egyik legerősebb munkásmozgalma és legintenzívebb parasztmozgalma formálódott ki.
+   </p>
+   <p>
+    Maga Piłsudski, a függetlenség hőse ekkorra már kilépett a PPS-ból: immár az egész nemzet vezére akart lenni. Évekkel később (1926-ban, mikor egy véres puccsot hajtott végre, majd az ezt követő években) már diktátori hatalomra törve még messzebb került az egyenlőség és a társadalmi igazságosság eszméitől, amelyeket fiatal korában hirdetett. De anélkül a társadalmi elkötelezettség nélkül, amit még az 1890-es években a PPS-ban sajátított el, valószínűleg sohasem válhatott volna belőle az a népszerű vezér, a független állam megteremtője és megmentője, aki 1918-ban és 1920-ban lett.
+   </p>
+   <p>
+    Az 1918 novemberében megalakuló első és második lengyel kormány (mindkettő koalíciós kormány volt, élén szociáldemokrata miniszterelnökkel) tevékenységének nagyban köszönhető, hogy az új állam az önállóság mellett nagy gondot fordított arra is, hogy az állampolgárok otthon érezzék magukat az új hazában:
+   </p>
+   <p rend="head">
+    a Lengyel Köztársaságban egy különösen progresszív választási törvény és erős szociális védőháló alakult, nagy támogatást kaptak a szakszervezetek és a szövetkezeti mozgalom.
+   </p>
+   <p>
+    Ennek később, a gazdasági világválság idején különösen nagy szerepe lett.
+   </p>
+   <p>
+    Mindezek fényében különösen szomorú, hogy az, ami a Függetlenség Napján Varsóból a nemzetközi hírekbe eljut, az már évek óta csak a „Függetlenségi Menet” nevezetű nacionalista rendezvény.
+   </p>
+   <p>
+    Az ünnepet egyfelől a NER-t másolandó mintának tekintő kormánypárt, a PiS (Prawo i Sprawiedliwość azaz Jog és Igazságosság nevű párt) próbálja kisajátítani, másfelől a különféle szélsőségesen nacionalista, soviniszta szervezetek. Köztük például az 1990-es években újjáalakult ONR (Obóz Narodowy Radykalny – Nemzeti Radikális Tábor), amely egy 1930-as években létezett, Mussolini feketeingeseinek és a román Vasgárdának a mintájára szerveződő, magát nyíltan fasisztának valló szervezet felújítása.
+   </p>
+   <p>
+    Az ünnep kisajátítása hasonlóan a magyarországi március 15-höz, vagy október 23-hoz, az ünnep kiüresítésén keresztül valósul meg:
+   </p>
+   <p rend="head">
+    a kormányzat, illetve a szélsőjobb elhallgatni igyekszik a Függetlenség Napjának társadalmi tartalmát, a PPS és a galíciai szociáldemokraták szerepét és progresszív-patrióta ideológiájukat. Helyette az ünnep szabadságharcos, katonai tartalmát, az új Lengyel Köztársaság szomszédaival folytatott háborúit hangsúlyozzák.
+   </p>
+   <p>
+    Ugyanúgy, ahogyan nálunk sem beszélnek március 15-e kapcsán a jobbágyfelszabadításról vagy október 23-a kapcsán a munkástanácsokról. (Az egész világ elleni háborúnak, a világtól való elzárkózásnak a jegyében szerveződő „Függetlenségi Menet”, ha úgy vesszük, a Fidesz „békemenetének” lengyel változata.)
+   </p>
+   <p>
+    Pedig valószínű, hogy 1848-ban a jobbágyfelszabadítás nélkül a magyar parasztok sem mentek volna ekkora tömegben harcba a független Magyarországért, mint ahogyan egy modern magyar nemzettudat sem formálódhatott volna ki, ha a nemzet nagy tömegét az elit továbbra is alávetettségben tartja. És 1956-ban sem csak az utcai harcosoknak volt köszönhető, hogy az egész országban győzött a forradalom, hanem azoknak a munkásoknak és diákoknak is, akik országszerte spontán megszervezték magukat, és nagy többségben fegyver nélkül mentek tömegesen az utcára az október 23-át követő napokban. Az ő fellépésüknek köszönhető, hogy a Rákosi-rendszer képviselői mindenütt lemondásra kényszerültek, általában harc nélkül, és minden településen megalakulhattak a helyi hatalom új, helyi munkások által választott szervei.
+   </p>
+   <p>
+    Varsó, 2017. november 11.; kép: MTI
+   </p>
+   <p>
+    Ahogyan október 23-a a magyar munkások ünnepe, úgy november 11-e mindenképpen a lengyel haladó munkásmozgalom ünnepe is. A Második Lengyel Köztársaság ugyanis biztosan nem született volna meg csak a fegyveres harc, csak a nagyhatalmak világháborús összeomlásának eredményeképpen. Kellett ehhez széles tömegek támogatása is.
+   </p>
+   <p rend="head">
+    A PPS-ban, illetve a galíciai Lengyel Szociáldemokrata Pártban működő politikusok, szakszervezeti vezetők és egyszerű munkások valamint a sokféle parasztpártban működő népi aktivisták, tanítók és népművelők rengeteget tettek azért, hogy a lengyel anyanyelvű tömegek a haza eszméjét is magukénak érezzék, és felismerjék, hogy a saját helyi érdekeikért való kiállás egyáltalán nem ellentétes a nemzettudattal, hanem éppen ellenkezőleg: az ilyen helyi autonóm érdekvédelmi szervezetekre lehet felépíteni egy demokratikusabb nemzettudatot.
+   </p>
+   <p>
+    A Kongresszusi Királyság szocialistái sem csak a lövöldözésben és a bombák hajításában jeleskedtek. Még a legsötétebb időkben is gondot fordítottak arra, hogy megszervezzék a munkások és parasztok alternatív oktatását, művelődését, általában titkos tanfolyamok formájában. Ennek hatására valóban kialakult egy alulról szerveződő, demokratikus nemzettudat, amely alkalmas volt arra, hogy a régi típusú, elitista nemesi nemzettudat helyére lépjen, és nem volt ellentétes a munkás- és parasztmozgalom nemzetközi beágyazottságának tudatával sem.
+   </p>
+   <p>
+    Az új ország megalapítása tehát jól elő volt készítve a lengyel emberek fejében és szívében. Jellemző, hogy 1918 novemberében, a Lengyel Köztársaság létrejöttekor, lengyel szakszervezeti aktivisták nem csak a fehér-piros lengyel, hanem a vörös munkásmozgalmi zászlót is kitűzték a varsói királyi várra. Két évvel később ugyanezek a munkások és munkásvezetők ugyanezek alatt a zászlók alatt lelkesen vonultak harcba, hogy hazájuk nehezen kivívott függetlenségét megvédelmezzék a területére behatoló bolsevik vörös orosz csapatok ellen. És abban a harcban is győztek. Nemzeti öntudatuk elég erős volt ahhoz, hogy ne vakítsák el őket a bolsevikok hangzatos, szintén munkásmozgalmi jelszavai. Nélkülük Piłsudski katonai zsenije sem lett volna elég erős az idegen támadás megállításához.
+   </p>
+   <p rend="head">
+    A PiS azon igyekszik, hogy Piłsudski kultuszára hegyezze ki az ünnepet. Azonban Piłsudskiban sem a lelkes, társadalmi haladás iránt elkötelezett forradalmárt ünneplik, hanem a bolsevikok ellen harcoló hadvezért.
+   </p>
+   <p>
+    Illetve újabban úgy tűnik, a PiS fővezére, Jarosław Kaczyński mintának tekinti a maga számára Piłsudski 1926 után létrehozott autokrata rendszerét, a Horthy-rendszerhez hasonló álparlamentarizmusát is. (Erről egy későbbi cikkben még szó lesz.)
+   </p>
+   <p>
+    A Függetlenség Napját azonban országszerte és világszerte ünneplik azok a lengyelek is, akiknek fontos a demokrácia, a demokratikus nemzettudat és az azt életben tartó önszervező közösségek, amikre a PPS és a lengyel parasztmozgalmak is épültek. Ezek a lengyel barátaink, akik nagyban merítenek a PPS, a Falusi Ifjúság Szövetsége, az 1968-as varsói diákmozgalom, a Munkásvédelmi Bizottság és a Solidarność történelmi örökségéből. Idén ők is megrendezik a maguk felvonulását az egymás melletti kiállás jegyében, a XIX. századi emigráns lengyel légiósok régi jelszavával:
+    <hi>
+     „A ti szabadságotokért s a mienkért!” („Za waszą a naszą wolność!”).
+    </hi>
+    A lengyel társadalomban, az ellenzéki mozgalmakban, közösségekben vannak még tartalékok. Ezeknek példája az elmúlt száz év többi demokratikus ellenzéki szervezetének példájával együtt sok tanulsággal szolgálhat nekünk, magyaroknak is.
+   </p>
+  </body>
+ </text>
+</TEI>

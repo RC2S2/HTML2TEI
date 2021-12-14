@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A kormánylap már legszívesebben eltiltaná a feministákat a közhatalomtól, akiket „irtózatnak” nevez
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     341c4b5b-1e58-5a1d-a8d8-0d78f13faf21
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A kormánylap már legszívesebben eltiltaná a feministákat a közhatalomtól, akiket „irtózatnak” nevez
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-03T14:34:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/03/a-kormanylap-mar-eltiltana-a-feministakat-a-kozhatalomtol-akiket-irtozatnak-nevez/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/03/a-kormanylap-mar-eltiltana-a-feministakat-a-kozhatalomtol-akiket-irtozatnak-nevez/
+     </sch:url>
+     <sch:name>
+      A kormánylap már legszívesebben eltiltaná a feministákat a közhatalomtól, akiket „irtózatnak” nevez
+     </sch:name>
+     <sch:datePublished>
+      2020-05-03T14:34:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      kormánymédia
+     </sch:keywords>
+     <sch:keywords>
+      baloldali feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      nők a politikában
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="341c4b5b-1e58-5a1d-a8d8-0d78f13faf21">
+     <sch:identifier>
+      urn:uuid:e6c7a459-92fe-42ae-9876-3b368c127ad9
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:30.166140
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:13:30.209218
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="341c4b5b-1e58-5a1d-a8d8-0d78f13faf21" when="2021-12-14T15:30:30.166140">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A kormánylap már legszívesebben eltiltaná a feministákat a közhatalomtól, akiket „irtózatnak” nevez
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    „A politika sok nőben megöli a nőt” – kezdődik a
+    <hi>
+     Magyar Nemzet
+    </hi>
+    legújabb, ellenzéki szereplőket, azon belül is leginkább nőket gyalázó,
+    <hi>
+     Az irtózat hasznáról
+    </hi>
+    című cikke. A kormánypárti médiabirodalom vezető napilapjának újságírója, Ágoston Balázs úgy véli, hogy
+   </p>
+   <p rend="head">
+    a feminizmus, különösen, ha közpolitikai szerepvállalással társul, megsemmisíti a nőben a nőiséget.
+   </p>
+   <p>
+    A cikk több női politikusra utalást tesz, akiknek többnyire a külsejét támadja: Angela Merkellel kezdi („a rosszul szabott, Honecker szagú NDK-s konfekciókosztümben feszülő megkeseredett kudarc”), majd Bangóné Borbély Ildikóra tér rá („a gyurcsányista kampány arcaként a gyalázat nagykönyvébe feljegyzett vörös kofát, aki hol népfrontos földön fetrengést vezényel a köztelevízióban randalírozva, hol patkányoknak nevezi a nála különbeket”), aztán Szabó Tímeára („egykor csinos, benső űzöttsége által mára lombrosói iskolapéldává torzult párbeszédképtelen fiatalasszony, a lelki rútság, a feneketlen magyarellenes gonoszság megtestesítője”), végül Szél Bernadettre („a legújabban viselt lágerfrizurájával Brecht markotányosnőjére, Kurázsi mamára emlékeztető akcionista”).
+   </p>
+   <p>
+    Az író történelmi példákat is hoz „a feminista ideológia mögött szűkölő keserves gyűlölet” képviselőire:
+    Clara Zetkint
+    (aki a 19. században a nők választójogért vívott harcának egyik legfontosabb szereplője és a nemzetközi nőnap megalapítója volt),
+    Rosa Luxemburgot
+    (aki egész életében a teljes emberiség elnyomás, kizsákmányolás és háborús erőszak alóli felszabadulásáért küzdött),
+    Dolores Ibárrurit
+    (aki a fasizmus ellen küzdött a spanyol polgárháborúban),
+    Hámán Katót
+    (aki a Magyarországi Vörös Segély egyik vezetője volt, majd a Tanácsköztársaságban betöltött szerepe miatt börtönben halt meg) és
+    Duczynska Ilonát
+    (aki a Galilei Kör tagjaként egy olyan Magyarországért küzdött, amely nemcsak az elitnek, de a hétköznapi munkásoknak és földművelőknek is biztosította volna az oktatáson keresztül az emberhez méltó életet)
+   </p>
+   <p rend="head">
+    egyszerűen „kívül-belül zaklatott csúfságoknak” nevezi.
+   </p>
+   <p>
+    Ezek a nők, akikre egykor „borzongással vegyes szánalommal” tekintettek az emberek, Ágoston szerint még a férfiakat is „tébolydai veszetté rettenetesítik” (itt Tordai Bencét és Jakab Pétert említi példaként), és a „beléjük kódolt gyengédséget önnön izzó gyűlöletükben” elégetik.
+   </p>
+   <p rend="head">
+    „Ezért elmúlt, szabadabb korokban a bölcsek gondosan elzárták a közhatalom grádicsait a zilált, bolygó lelkek elől” – foglalja össze röviden a cikk fő állítását.
+   </p>
+   <p>
+    A cikkben megfogalmazott gondolatok és a támadás módja egyáltalán nem újszerű: a közszerepet vállaló nőket mindig is elsősorban a külsejükön, a szexualitásukon („mindenféle kielégítetlenségből fakadó sötét életbosszú” – írja Ágoston), a nőiségükön keresztül gyalázták.
+   </p>
+   <p>
+    Egy tavalyi felmérés például
+    azt találta
+    , hogy Európában aránytalan mértékben éri bántalmazás a női politikusokat, ami általában a nemüket, a származásukat és a külsejüket célozza.  Katharina Schulze német politikus szerint például a neki küldött üzenetek 20%-a bántalmazó jellegű, amikben gyakran nemi erőszakkal fenyegetik, vagy arra szólítják fel, ha annyira szereti a „migránsokat”,  akkor éljen velük szexuális életet.
+   </p>
+   <p>
+    A női dühtől való rettegésnek is nagy hagyománya van. Laurie Penny angol feminista újságíró, szerző és aktivista egy teljes könyvet szentelt a kérdésnek (
+    <hi>
+     Bitch Doctrine: Essays for Dissenting Adults
+    </hi>
+    ), a témával rövidebben foglalkozó cikke
+    itt olvasható magyarul
+    .
+   </p>
+   <p>
+    A nők „mind megtanulták már, hogy a dühük kimutatása felér egy kigúnyolásra, megszégyenítésre való felhívással, vagy okot ad arra, hogy elkerüljék őket. Ezért eltüntetik a mérgüket, megpróbálják csendben elfojtani, mert beléjük sulykolták, hogy a jó lányok nem hisztiznek. A jó lányok nem feleselnek és nem állnak ki magukért. Ez ugyanis úrilányhoz nem méltó viselkedés. Illetlen. És, ami a legrosszabb, a maszkulinitásra nézve is veszélyt jelent”
+   </p>
+   <p>
+    – írja Penny, aki szerint az lenne a meglepő, ha a nők nem lennének dühösek (hiszen „még mindig harcolnunk kell azért, hogy egész, egyenlő emberi lényekként kezeljenek”).
+   </p>
+   <p>
+    Szerencsére még nem tartunk ott, hogy a nőket kizárhassák a közhatalomból Magyarországon csak azért, mert hangot mernek adni a dühüknek és kiállnak saját és mások jogaiért, azonban a
+    <hi>
+     Magyar Nemzet
+    </hi>
+    cikke alig lóg ki különböző kormányzati szereplők, az elmúlt napokban pedig leginkább Kövér László megjegyzései közül. Márpedig ez a tendencia biztosan nem tölthet el bennünket különösebb nyugalommal a kormány nőkkel kapcsolatos hozzáállása tekintetében.
+   </p>
+   <p>
+    A házelnöknek a hét elején a Bayer show-ban kifejezett gondolatai akár szolgálhattak ihletésül is Ágoston cikkéhez, ugyanis Kövér is pont a düh és a nőiség összefonódását kifogásolta Szabó Tímea kapcsán:
+   </p>
+   <p>
+    „Én szánalommal tekintek ezekre a képviselőkre, különösen azokra, akiknek a személyi száma 2-vel kezdődik, amikor olyan helyzetbe keverik magukat, amilyenbe Szabó Tímeának is sikerült legutóbb. Nincs annál elszomorítóbb, mint amikor egy gyűlölettől eltorzult női arcot lát az ember férfi létére.”
+   </p>
+   <p>
+    És persze Kövér véleménye nem egyedülálló a kormánypárti politikusok körében, akik már
+    számos alkalommal egyértelművé tették
+    , mit is gondolnak a nőkről és a társadalomban betöltött szerepükről. A szólás- és sajtószabadság jegyében ezek a véleménynyilvánítások természetesen megengedettek, mind a politikusok, mind a média számára.
+   </p>
+   <p>
+    Azzal azonban előbb-utóbb valószínűleg számot kell vetnie a kormánynak, hogy az Ágoston Balázséhoz hasonló cikkek megjelenése az általa irányított sajtóban, valamint politikusainak hasonszőrű megnyilvánulásai milyen mértékben szítják a társadalomban a gyűlöletet, és hogy ennek milyen valós következményei lehetnek a jövőben. A nemek közötti egyenlőtlenség már így is rendkívül mély ebben az országban, ha a vezető politikusaink ezt szimplán nyugtázzák, sőt, tovább mélyítik, annak senki sem fogja hasznát látni.
+   </p>
+  </body>
+ </text>
+</TEI>

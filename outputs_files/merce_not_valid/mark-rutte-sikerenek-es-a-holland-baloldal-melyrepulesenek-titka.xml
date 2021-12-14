@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mark Rutte sikerének és a holland baloldal mélyrepülésének titka
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9a39ba39-3b88-51cc-bd43-1d1193d1c75d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mark Rutte sikerének és a holland baloldal mélyrepülésének titka
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-18T12:58:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/18/mark-rutte-sikerenek-es-a-holland-baloldal-melyrepulesenek-titka/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/18/mark-rutte-sikerenek-es-a-holland-baloldal-melyrepulesenek-titka/
+     </sch:url>
+     <sch:name>
+      Mark Rutte sikerének és a holland baloldal mélyrepülésének titka
+     </sch:name>
+     <sch:datePublished>
+      2021-03-18T12:58:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      hollandia
+     </sch:keywords>
+     <sch:keywords>
+      mark rutte
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9a39ba39-3b88-51cc-bd43-1d1193d1c75d">
+     <sch:identifier>
+      urn:uuid:f9b7d70c-de54-44b9-b803-52e23d534f7b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:08.106712
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:41:08.196544
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9a39ba39-3b88-51cc-bd43-1d1193d1c75d" when="2021-12-14T15:31:08.106712">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mark Rutte sikerének és a holland baloldal mélyrepülésének titka
+   </head>
+   <p>
+    A liberális pártok erejének növekedését, illetve a baloldal huzamosabb ideje tartó lejtmenetének folytatását hozták a szerda este lezáruló holland parlamenti választások.
+   </p>
+   <p>
+    A voksok 86 százalékának feldolgozása után Mark Rutte 2010 óta hatalmon lévő miniszterelnök pártja, a Szabad Demokrata Néppárt (VVD) 22,9 százalékon áll, 1,6 százalékponttal növelve négy évvel ezelőtti eredményét. Még nagyobb növekedést könyvelhetett el a D66 nevű progresszív-liberális formáció, amely 14,1 százalékos eredményével a második helyre futott be, és ezzel az eddigi kormánykoalíció második legerősebb erejévé vált.
+   </p>
+   <p>
+    Netherlands, Election result as of 309/356 municipalities counted:
+   </p>
+   <p>
+    VVD-RE: 22.9% (+1.6) 
+D66-RE: 14.1% (+2.0) 
+PVV-ID: 11.3% (-1.8) 
+CDA-EPP: 10.3% (-2.1) 
+SP→LEFT: 6.1% (-3.0) 
+PvdA-S&amp;D: 5.6% (-0.1) 
+…
+   </p>
+   <p>
+    +/- vs. 2017
+   </p>
+   <p>
+    ➤
+    https://t.co/dz1X5eQdmV
+    #TK2021
+    #uitslagenavond
+    pic.twitter.com/LB3KsUaE1v
+   </p>
+   <p>
+    — Europe Elects (@EuropeElects)
+    March 18, 2021
+   </p>
+   <p>
+    A választások másik fontos eredménye, hogy
+    átrendeződés történt
+    a holland szélsőjobbon belül. Geert Wilders Szabadságpártja (PVV) gyengébben teljesített mint 4 éve, 3 mandátumot veszítve a 150 tagú parlamentben. Ugyanakkor kettőről nyolcra emelkedett Thierry Baudet Fórum a Demokráciáért (FvD) névre hallgató pártjának a mandátuma, és egy másik szélsőjobbos alakulat, a JA21 is négy mandátumot szerzett.
+   </p>
+   <p rend="head">
+    Baudet azzal négyszerezte meg parlamenti erejét, hogy leghangosabban szólalt fel a járványvédelmi korlátozások ellen.
+   </p>
+   <p>
+    A szélsőjobb összesen 29 mandátumot szerzett, ami az egyik legjobb eredménye, ugyanakkor ezt nagyobb széttöredezettség mellett érte el.
+   </p>
+   <p>
+    Tovább folytatódott a holland baloldal zsugorodása is. A hagyományos balközép párt, a PvdA (Munkáspárt) a négy évvel ezelőttivel gyakorlatilag megegyező eredményt produkált. Ám a PvdA 2017-ben mandátumainak nagy részét (38-ból 29-et) már elveszítette, így a mostani stagnálás nem sok jót jelent a holland politika valamikori fontos szereplőjének.
+   </p>
+   <p>
+    Felére csökkent ugyanakkor a zöldek szavazataránya, és a Szocialista Párt (SP) is 9-ről 6 százalékra dolgozta le magát.
+   </p>
+   <p>
+    Hogy mi is áll a baloldal siralmas teljesítménye mögött, arra a legátfogóbb elemzést a nemzetközi sajtóban Merijn Oudenampsen, holland szociológus-politológus készítette a New Left Review
+    blogján
+    .
+   </p>
+   <p>
+    A szakértő szerint ez a teljesítmény a következő három tényező által magyarázható:
+   </p>
+   <list>
+    <item>
+     a holland szociáldemokrácia válsága;
+    </item>
+    <item>
+     a politika kulturális dimenziókra fókuszálása; és
+    </item>
+    <item>
+     az állami szerepvállalás visszatérése.
+    </item>
+   </list>
+   <p>
+    Az első dimenzióval kapcsolatban Oudenampsen úgy látja, hogy az elmúlt évtizedekben a PvdA a megszorítások pártjává vált, ugyan megőrizte munkáspárti kampányretorikáját, de kormányon mindig az alsóbb rétegeket sújtó költségvetési egyensúlypolitika és megszorítások mellett foglalt állást.
+   </p>
+   <p rend="head">
+    Szimbolikus ebben a tekintetben, hogy a görög válság idején az Athénra további megszorításokat képviselő Eurocsoportot az a Jeroen Dijsselbloem vezette, aki a PvdA színeiben volt pénzügyminiszter.
+   </p>
+   <p>
+    Az is beszédes, hogy a Rutte kormány év eleji lemondását hozó botrányba, amelyről a Mércén is
+    beszámoltunk
+    , szintén a PvdA vezetője bukott bele igazán. Januárban derült ki, hogy a holland adóhivatal hamisan vádolt meg több ezer családot azzal, hogy jogtalanul vették fel a családi pótlékhoz hasonló juttatást. A hivatal 2013 és 2019 között több tízezer euró elmaradást követelt olyan kettős állampolgárságú családokon, akik valójában nem is tartoztak semmivel, számos család tönkre is ment az ügyben. Ennek az időszaknak a nagy része alatt (2012-2017) a PvdA elnöke, Lodewijk Asscher volt a területért felelős szociális ügyi miniszter.
+   </p>
+   <p>
+    Asschernek ezért januárban le kellett mondania a párt listájának vezetéséről, így a választások belső válság közepén találták a pártot.
+   </p>
+   <p>
+    Hogy a többi baloldali formáció miért nem tudott profitálni a Munkáspárt gyengüléséből, azt a második dimenzió, a politika kulturális dimenzióinak dominanciája magyarázza.
+   </p>
+   <p rend="head">
+    Oudenampsen szerint ugyanis a ’90-es évek elején Francis Fukuyama amerikai filozófus még Hollandiát tartotta a történelem végét hozó liberális konszenzus éllovasának, az évtized végére kiújultak a konfliktusok az iszlám- és bevándorlásellenes szélsőjobb felfutásával.
+   </p>
+   <p>
+    A Pim Fortuyn, majd később Geert Wilders nevével fémjelezett mozgalom a politikát korábban meghatározó gazdasági-társadalmi törésvonalak helyett a kulturális törésvonalakat állította a holland politikai középpontjába, az iszlám elutasításával és egy erős holland nemzettudat szükségességének propagálásával.
+   </p>
+   <p>
+    Ez az identitásalapú diskurzus átalakította a pártpolitikát is, jobbra húzva a teljes palettát. A baloldali pártok sok különböző stratégiát próbáltak ki ebben a mátrixban, az SP még a kelet-európai uniós bevándorlók korlátozását is felvetette. Ám ebben a versenyben eleve vereségre voltak ítélve a jobboldallal szemben.
+   </p>
+   <p rend="head">
+    Mark Rutte sikerét is az magyarázza, hogy nem ritkán EU-kritikus és bevándorlásellenes szólamokat tudott megpengetni, és ezáltal a szélsőjobb mainstreamebb, civilizáltabb alternatívájaként tudott fellépni.
+   </p>
+   <p>
+    Időközben azonban világszerte kifulladt a megszorítópolitika népszerűsége is, a koronavírus-járvány idején már világszerte új paradigma dominált, amely a gazdaság pörgetését állami szerepvállalással és a lakosság közvetlen anyagi támogatásával képzeli el. Ahogy arról szintén
+    beszámoltunk
+    , az amerikai kormányzat élen jár ennek az új modellnek a bevezetésében.
+   </p>
+   <p rend="head">
+    Ez a harmadik dimenzió sem kedvez ugyanakkor a balközép pártoknak, hiszen a teljes holland pártpaletta elmozdult ebbe az irányba, így a valamikor a baloldal sajátjának tekinthető gazdaság- és társadalompolitikai javaslatok megjelentek a centrista és jobbközép pártok válságkezelési repertoárjában is.
+   </p>
+   <p>
+    E három tényező összhatása által egyébként nemcsak a holland, de a teljes európai balközép stagnálását/gyengülését is megérthetjük, persze az adott országokra jellemző politikatörténeti és társadalomszerkezeti sajátosságok figyelembe vételével együtt.
+   </p>
+  </body>
+ </text>
+</TEI>

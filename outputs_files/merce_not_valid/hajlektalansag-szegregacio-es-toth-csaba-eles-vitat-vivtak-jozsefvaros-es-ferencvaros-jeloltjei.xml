@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hajléktalanság, szegregáció és Tóth Csaba: éles vitát vívtak Józsefváros és Ferencváros jelöltjei
+    </title>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ceec795f-07cd-5d19-b18a-6a7f7df1e63a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hajléktalanság, szegregáció és Tóth Csaba: éles vitát vívtak Józsefváros és Ferencváros jelöltjei
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-09-16T19:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/09/16/hajlektalansag-szegregacio-es-toth-csaba-eles-vitat-vivtak-jozsefvaros-es-ferencvaros-jeloltjei/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/09/16/hajlektalansag-szegregacio-es-toth-csaba-eles-vitat-vivtak-jozsefvaros-es-ferencvaros-jeloltjei/
+     </sch:url>
+     <sch:name>
+      Hajléktalanság, szegregáció és Tóth Csaba: éles vitát vívtak Józsefváros és Ferencváros jelöltjei
+     </sch:name>
+     <sch:datePublished>
+      2021-09-16T19:00:00
+     </sch:datePublished>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      mszp
+     </sch:keywords>
+     <sch:keywords>
+      momentum
+     </sch:keywords>
+     <sch:keywords>
+      lmp
+     </sch:keywords>
+     <sch:keywords>
+      jobbik
+     </sch:keywords>
+     <sch:keywords>
+      dk
+     </sch:keywords>
+     <sch:keywords>
+      párbeszéd
+     </sch:keywords>
+     <sch:keywords>
+      józsefváros
+     </sch:keywords>
+     <sch:keywords>
+      előválasztás 2022
+     </sch:keywords>
+     <sch:keywords>
+      ferencváros
+     </sch:keywords>
+     <sch:keywords>
+      Partizán
+     </sch:keywords>
+     <sch:keywords>
+      választás 2022
+     </sch:keywords>
+     <sch:keywords>
+      viii. kerület
+     </sch:keywords>
+     <sch:keywords>
+      szikra mozgalom
+     </sch:keywords>
+     <sch:keywords>
+      c8
+     </sch:keywords>
+     <sch:keywords>
+      Partizán előválasztási vita
+     </sch:keywords>
+     <sch:keywords>
+      IX. kerület
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ceec795f-07cd-5d19-b18a-6a7f7df1e63a">
+     <sch:identifier>
+      urn:uuid:2b9da60b-fd9e-4f34-8beb-6851eb454f35
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:32.257775
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:54:30.155504
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ceec795f-07cd-5d19-b18a-6a7f7df1e63a" when="2021-12-14T15:30:32.257775">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hajléktalanság, szegregáció és Tóth Csaba: éles vitát vívtak Józsefváros és Ferencváros jelöltjei
+   </head>
+   <p>
+    Szerda este, a Partizán előválasztási vitasorozatának legújabb eseményén a józsefvárosi és ferencvárosi választókerületek képviselőjelöltjei csaptak össze. A vita során a résztvevők kitértek a kerületet érintő fontos problémákra, többek között a lakhatási válság, a közbiztonság, illetve a köztisztaság kérdésére, de előkerült a homofób törvény és az untig ismert elszámoltatás témaköre is. Bár a küzdelem nem volt mentes személyeskedésektől és „odamondogatásoktól” sem, a jelöltek között a legnagyobb feszültséget Tóth Csaba személye váltotta ki.
+   </p>
+   <p>
+    Józsefváros és Ferencváros választókerületében mindenképp szoros küzdelemre lehet számítani. A 2018-as országgyűlési választások alkalmával Kocsis Máté szerzett mandátumot úgy, hogy az ellenzéknek összességében jóval több szavazatot sikerült összegyűjtenie, mint a fideszes jelöltnek, ám a voksok jócskán szétaprózódtak a pártok között. 2019-ben azonban az önkormányzati választásokon a 6. OEVK-t alkotó, mindkét fővárosi kerület ellenzéki vezetés alá került: a VIII. kerületben Pikó Andrást, a IX. kerületben pedig Baranyi Krisztinát választották meg polgármesternek.
+   </p>
+   <p>
+    A választókerület a jelöltek szempontjából is kitűnik a többi körzet közül, hiszen a négy indulóból kettő a választókerületben aktív, civil / baloldali mozgalmi mezőből érkezett. A nemrég a Jobbikhoz átigazolt Demeter Márta és a DK-s Manhalter Dániel mellett feltűnik a Momentum támogatását élvező Csordás Anett is, aki a C8 Civilek Józsefvárosért Egyesület képviselőjelöltje. Csordás évek óta
+    folyamatosan küzd
+    az otthonápolók és a fogyatékossággal élők jogaiért. 2014-ben társaival kivívták, hogy egy fogyatékosoknak szóló különleges műtéti beavatkozás hazánkban is elérhető legyen TB-támogatással, 2018-ban pedig elérték, hogy több mint 18 ezer otthonápoló juttatása a minimálbérhez közelítsen. Jámbor András a Szikra Mozgalom jelöltjeként indul a kerületben, valamint az LMP, az MSZP és a Párbeszéd is őt támogatja. Jámbor
+    politikai aktivizmusával
+    már 10 éve jelen van valamilyen formában a magyar közéletben. Számos tüntetést szervezett már, többek között a Diákvárosért való szolidaritási demonstrációt is. Ezenkívül a Mérce alapítója és volt főszerkesztője, jelenleg pedig a Fővárosi Önkormányzat költségvetésért felelős általános főpolgármester-helyettes, Kiss Ambrus mellett dolgozik.
+   </p>
+   <p>
+    Mindkét jelölt jelentős beágyazottsággal rendelkezik a kerületben, ellentétben DK-s és jobbikos ellenfeleikkel. Demeter Márta második ciklusát tölti a parlamentben, mindkétszer listáról került be az Országgyűlésbe, ahol először az MSZP frakciójában, majd függetlenként, később pedig az LMP frakcióban foglalt helyet. Legutóbb azzal hívta fel magára a sajtó figyelmét, hogy bejelentette, amennyiben mandátumot szerez kerületében, a Jobbik frakciójába fog ülni a parlamentben. Manhalter Dániel nemrég lépett be a pártpolitikába a DK színeiben, azonban régóta együttműködik a párttal, 2016 óta dolgozik a Demokratikus Koalíció kommunikációs tanácsadójaként.
+   </p>
+   <p>
+    A Republikon július végén megjelent
+    felmérése
+    szerint Jámbor András 21 százalékkal a legnépszerűbb jelölt, őt követi Demeter Márta 17 százalékkal, majd Manhalter Dániel 15, illetve Csordás Anett 12 százalékos támogatottsággal. A Závecz
+    áprilisi felmérésében
+    ellenben még máshogy néztek ki a népszerűségi adatok: a DK-s Manhalter Dániel (32 százalék) vezetett Demeter Márta előtt (30 százalék), és Jámbor András (11 százalék) csak a negyedik helyen állt Csordás Anett (18 százalék) mögött.
+   </p>
+   <p rend="head">
+    Rendészeti vagy szociális kérdés-e a hajléktalanság?
+   </p>
+   <p>
+    A kormány jelenleg a hajléktalanság problémáját a fedél nélküli emberek kriminalizációjával igyekszik „kezelni”, amely nem jelent megoldást a rászorulók lakhatási és szociális nehézségeire. A választókerület egyik kritikus problémája a mélyszegénységben élők helyzete és a hajléktalanság, így a jelölteknek érdemi javaslatokkal kell előállniuk, ha meg akarják szerezni a választópolgárok bizalmát. A vita ezen pontján már érződtek a jelöltek közti világnézeti különbségek. Habár a lakhatási válság kezelésében a lakástámogatások mind a négy résztvevőnél fontos szerepet játszottak, a mozgalmi hátterű jelöltek szociálisan érzékenyebben közelítették meg a hajléktalanság témakörét DK-s és jobbikos ellenfeleiknél, akik már a probléma rendészeti felfogását is belevonták javaslataikba.
+   </p>
+   <p>
+    Elsőként Jámbor András szólalt fel a témában, szerinte a hajléktalanság nemcsak szociális, hanem társadalompolitikai kérdés is. Elmondta, a lakhatási válságot bérlakások építésével, illetve a meglévő, de rossz állapotban lévő lakások felújításával kell kezelni, melyeknek érdemi beruházás helyett a Fidesz „csak lefestette a vakolatát”. Jámbor kiemelte továbbá az adómentes minimálbér bevezetését a szociális válság kezelésére.
+   </p>
+   <p>
+    Csordás Anett szerint a lakhatás alapjog. Úgy véli a hajléktalanság megoldása a közösségi lakások és garzonok létrehozásával lehetséges, illetve egyetértett ellenfele javaslatával a leromlott bérlakások felújításáról. A C8 jelöltje támogatja a nemzeti bérlakás program és a szociális lakásügynökségek létrehozását, valamint kitért egy, a kormánynál igazságosabb családtámogatási rendszer bevezetésére is, ugyanis szerinte sok fiatal azért kényszerül házasságba, hogy kedvezőbb támogatásokhoz jusson. Csordás azt is hozzátette, hogy a lakhatási válság kezeléséhez a kormánynak vissza kell adnia azt a 650 millió forintot, amit Józsefváros önkormányzatától elvont.
+   </p>
+   <p>
+    Demeter Márta, Jámbor András, Manhalter Dániel és Csordás Anett a BP 6. választókerület jelöltjeinek vitáján. (kép: Partizán)
+   </p>
+   <p>
+    Demeter Márta kiemelte, hogy a kerületi bérlakások borzalmas állapotban vannak, egyötödük üresen áll, de azokat is fel kell újítani, melyekben már laknak. A képviselő azt is elmondta, hogy a lakásépítés nem megy egyik napról a másikra, így „tűzoltásként” szolgáló megoldásokra is szükség van. Ennek érdekében javasolta, hogy minden család igényelhessen 3 millió forintos lakástámogatást, valamint egyetértett civil ellenfelével abban, hogy a jelenlegi családtámogatási rendszert újra kell gondolni. Demeter a kis- és középvállalkozások támogatására is nagy hangsúlyt fektetne.
+   </p>
+   <p>
+    Manhalter Dániel igen sajátos módon ragadta meg a rendészeti és szociális kérdés tengelyét. A DK jelöltje létrehozna egy kerületőrséget is a jelenleg működő rendőrség, polgárőrség és közterület-felügyelet mellett, amely szerinte javítana a közbiztonságon és munkahelyeket teremtene a hajléktalanoknak is.
+   </p>
+   <p>
+    A szóváltás már ezen a ponton elkezdődött, ugyanis Csordás Anett számon kérte Manhaltert a
+    kampányvideójával
+    kapcsolatban, melyhez a képviselőjelölt hajléktalan emberekről készített videófelvételeket. Csordás felháborítónak tartja, hogy a DK jelöltje „kiszolgáltatott embereket mutogat”, amivel szerinte emberi méltóságukban sérti őket. Manhalter állítása szerint ő egyeztetett a felvételekről a benne szereplőkkel.
+   </p>
+   <p>
+    Jámbor kiemelte, hogy a hajléktalanok munkanélküliségének felemlegetése a kriminalizációhoz köthető narratíva, ugyanis 60 százalékuk jelenleg is dolgozik. Azt is kifogásolta, hogy Manhalter a hajléktalansággal összefüggésben az együttélési problémákat hozta fel, szerinte ezek középosztálybeli embereket is érintenek („Nem csak hajléktalan emberek vizelnek az utcán”). Elmondta viszont, hogy rendőrségi és más állami intézmények dolgozóit segíteni kell a bérek megemelésével, hogy el tudják látni azt a funkciót, amit elvárunk tőlük. Kiemelte továbbá a Diákváros projektjét, amely szerinte a lakhatási válság kezelése szempontjából kulcsfontosságú beruházás a választókerületben.
+   </p>
+   <p rend="head">
+    Kisebbségek és a kirekesztés
+   </p>
+   <p>
+    A társadalmi kirekesztés és a rasszizmus elleni küzdelem szintén fontos téma volt a vita során. Arra a kérdésre azonban, hogy a jelöltek hogyan számolnák fel a kerületben jelenlévő megkülönböztetést a cigánysággal szemben, már nem érkeztek konkrét válaszok.
+   </p>
+   <p>
+    Csordás elmondta, ő elítél minden gyűlöletkampányt és szerinte büntetni kéne, ha valaki kereskedelmi vagy politikai célból használja a migráció kirekesztő narratíváját, majd hozzátette, a jelöltek közül egyedüliként csatlakozott az
+    1 Magyarország Kezdeményezéshez
+    . Jámbor kijelentette, a kerület annyit tehet, hogy szembe megy a kormány akaratával és nem ül fel az előítéleteknek. Kiemelte még a deszegregálás módszerét, vagyis az intézményesült hátrányos megkülönböztetés eltörlését, hogy „a cigányoknak és nem cigányoknak ugyanúgy legyen jó iskolájuk”.
+   </p>
+   <p>
+    Gulyás Márton a melegházasságról is megkérdezte a jelöltek véleményét. Csordás Anett szerint az LMBTQ-közösség megkülönböztetése már a Gyurcsány-kormányban elkezdődött, ugyanis az akkori hatalom állította össze a bejegyzett élettársi kapcsolatra vonatkozó szabályokat. Ezek jelentősen kevesebb jogot biztosítanak az azonos nemű pároknak, mint a heteró házastársaknak. Úgy véli, ez a törvény mondta ki először, hogy a meleg és a heteró párok nem egyenlőek. Jámbor kijelentette, hogy a „pedofiltörvényből ki kell venni a homofób passzust”. Demeter szerint változtatásra van szükség, a homofób törvény szabályozását helyre kell állítani, a képviselő azonban megjegyezte, a gyermekek érdeke kell legyen az első.
+   </p>
+   <p rend="head">
+    „Tiszta udvar rendes ház” – az egészséges környezethez való jog
+   </p>
+   <p>
+    Mindkét kerületben komoly problémát jelentenek az illegális szemétlerakók, illetve a köztisztaság fenntartása. A Ferencvárosban fellelhető Illatos úti vegyi telephelyről 2016 elején 12 ezer hordónyi súlyosan mérgező vegyianyag-maradékot szállítottak el, a kármentesítés azonban máig súlyos hiányosságokba ütközik.
+   </p>
+   <p>
+    Jámbor szerint 15 milliárd uniós forrásra lenne szükség, amelyből rekultiválni lehetne a vegyi telephely területét. Csordás szerint ezeket a forrásokat az Európai Unió azért nem bocsátja Magyarország rendelkezésére, mert félnek, hogy „Orbán ellopja őket”. Javasolta, hogy a jelöltek közösen szervezzenek még a választások előtt egy akciót, amelyben kiállnak az ügy mellett.
+   </p>
+   <p>
+    Demeter kiemelte, hogy a köztisztasággal is vannak problémák a kerületben, szerinte több rendőr kell az utcára, az illetményüket pedig 60 ezer forintra kell emelni, illetve a közvilágítást is javítani kell, valamint több kamerát kell szerelni a kerületbe.
+   </p>
+   <p>
+    Manhalter szerint Kocsis Máté fideszes képviselő nem képviseli a választókerület problémáit, ezért Arató Gergely DK-s képviselőhöz fordult, hogy vigye az Országgyűlés elé a hulladéklerakó ügyét. Emellett javasolta, hogy a kerületbe épített stadionokat a lakosok ingyen használhassák.
+   </p>
+   <p rend="head">
+    Kormányváltás vagy rendszerváltás?
+   </p>
+   <p>
+    Azokat, akik valamennyire figyelemmel kísérték az elmúlt hetek vitasorozatait, talán nem érte meglepetésként a menetrend szerinti elszámoltatás-licit, melyet elsőként Demeter Márta kezdett meg. A képviselő szerint a rendszerváltás alapja, hogy az állami működést újra kell építeni. Úgy véli, az lesz a hitelesség kulcsa, hogy ki az a politikus, aki végig tudja majd vinni az elszámoltatást. Csordás a vita ezen pontján kérdőre vonta Demeter hitelességét, tekintve hogy a képviselő politikai pályafutása során már a harmadik párthoz csatlakozik. A civilek jelöltje ezután leszögezte, képviselőként azért tenne, hogy a kormány helyett az önkormányzatoknak legyen több hatásköre. Jámbor kiemelte, hogy szükség van elszámoltatásra, azonban nemcsak az elmúlt 10, hanem az elmúlt 30 évért is. A Szikra jelöltje kiemelte a munkások helyzetét és azokat a hátrányos helyzetben lévő társadalmi osztályokat, akik a rendszerváltás után felálló új politikai erők cserben hagytak. Jámbor képviselőként a dolgozók jogaiért küzdene, eltörölné a rabszolgatörvényt, új munkatörvénykönyvet írna, illetve bevezetné az adómentes minimálbért.
+   </p>
+   <p>
+    Ezen a ponton parázs vita alakult ki a Szikra és a C8 jelöltje között. Csordás Anett nehezményezte, hogy ellenfelét olyan párt támogatja, mely Tóth Csabát indítja Zugló választókerületében, majd kijelentette, „nem szabad elvtelen pártpolitikai alkukat kötni”. Csordás hozzátette, szerinte az őt támogató Momentum még nem mocskolódott be az elmúlt évek politikai csatározásai során. Jámbor élesen elhatárolódott a vádaktól, leszögezte, sem ő, sem pedig a Szikra Mozgalom nem támogatja Tóth Csabát az előválasztáson, majd hozzátette, pártlogóktól független elszámoltatásra van szükség. Csordás ellenfele azon kérdésére, hogy előválasztási győzelme esetén elfogadná-e az MSZP támogatását, csak annyit válaszolt, összellenzéki jelölt akar lenni. Tehát Csordás győzelme esetén neve mellett is ott lesz az MSZP logója.
+   </p>
+   <p rend="head">
+    Civil Battle Royale és érzelmekkel túlfűtött anekdoták
+   </p>
+   <p>
+    Minden kétséget kizáróan a vita legizgalmasabb momentumait a C8 és a Szikra Mozgalom jelöltjei szolgáltatták, míg a DK-s és jobbikos kihívóik csak kevés esetben szolgáltak konkrét és átfogó szakpolitikai megoldásokkal. Manhalter színes történeteivel igyekezte meglágyítani a nézőket a János kórház gyermekosztályáról, míg Demeter kiemelte, hogy ő az utca emberével is beszélt már a kerületben. Csordásnak minden jelölthöz akadt kritikus, olykor személyeskedő megjegyzése, ám a válaszreakciók Jámbor kivételével majdnem minden esetben elmaradtak. Ennek ellenére elmondható, hogy a résztvevők végre egymással is vitatkoztak, nem csak Gulyás Márton moderátori kérdéseit válaszolták meg. A lakhatási válságot érintő megoldásokban hasonló álláspontok születtek, ám a pártpolitikai különbségek is előkerültek a hitelesség, a közbiztonság és az elszámoltatás terén. A szerda esti vita különösen jól demonstrálta az előválasztás valódi tétjét, ugyanis az Orbán-rendszer leváltásán túl az ellenzéki szavazóknak Józsefváros és Ferencváros jövőjéről is dönteniük kell, amit csak konkrét szakpolitikai javaslatok és a jelöltek világnézetének megismerése alapján tudnak meghozni.
+   </p>
+   <p>
+    A teljes vita itt érhető el:
+   </p>
+  </body>
+ </text>
+</TEI>

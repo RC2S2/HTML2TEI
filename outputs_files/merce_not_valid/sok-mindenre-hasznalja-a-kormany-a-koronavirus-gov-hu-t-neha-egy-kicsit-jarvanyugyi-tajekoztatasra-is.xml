@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sok mindenre használja a kormány a koronavirus.gov.hu-t, néha egy kicsit járványügyi tájékoztatásra is
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2468a9a4-e70c-5de2-ba1b-b3eedc73ec15
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Sok mindenre használja a kormány a koronavirus.gov.hu-t, néha egy kicsit járványügyi tájékoztatásra is
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-07-29T09:29:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/07/29/sok-mindenre-hasznalja-a-kormany-a-koronavirus-gov-hu-t-neha-egy-kicsit-jarvanyugyi-tajekoztatasra-is/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/07/29/sok-mindenre-hasznalja-a-kormany-a-koronavirus-gov-hu-t-neha-egy-kicsit-jarvanyugyi-tajekoztatasra-is/
+     </sch:url>
+     <sch:name>
+      Sok mindenre használja a kormány a koronavirus.gov.hu-t, néha egy kicsit járványügyi tájékoztatásra is
+     </sch:name>
+     <sch:datePublished>
+      2020-07-29T09:29:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      propaganda
+     </sch:keywords>
+     <sch:keywords>
+      kormányzati kommunikáció
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2468a9a4-e70c-5de2-ba1b-b3eedc73ec15">
+     <sch:identifier>
+      urn:uuid:99d00141-54a1-4359-9066-3ffde3832644
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:36.696281
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:16:57.211536
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2468a9a4-e70c-5de2-ba1b-b3eedc73ec15" when="2021-12-14T15:30:36.696281">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Sok mindenre használja a kormány a koronavirus.gov.hu-t, néha egy kicsit járványügyi tájékoztatásra is
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egy olyan helyzetben, mint a koronavírus miatt elrendelt rendkívüli jogrend, majd később a ma is tartó járványügyi készültség, a kormányzat – érthető módon – legkésőbb hetente felül kell, hogy vizsgálja saját döntéseit, ráadásul a rendkívüli jogrend alatt kizárólagos döntéshozóként funkcionált (persze jogos kérdés, hogy „békeidőben” kinek van bármilyen beleszólása a hazai közügyek intézésébe a kormányon kívül, de ez a téma szétfeszíti e cikk kereteit), emiatt természetes módon „lopja el a show-t” más politikai szereplők elől.
+   </p>
+   <p>
+    Az is tény, hogy az emberek mindennapjait döntően befolyásolják ezek a gyorsan szavatosságukat vesztő, hamar felülírható (vagy felülírandó) kormánydöntések, így érthető módon ki vannak szolgáltatva a kormány információmonopóliumának, miközben rengeteg – jogos – kérdés fogalmazódik meg bennük napi szinten. (Mekkora a pillanatnyi átfertőződés; hol kell maszkot hordaniuk; hová (ne) utazzanak, milyen körülmények között végezhetik a munkájukat?)
+   </p>
+   <p>
+    Ilyenkor értelemszerűen nagyobb figyelmet kapnak az állami és az állam által hozzáférhető médiafelületek: a kormany.hu,
+    az állami televízió
+    és rádió, a KESMA-n belüli és kívül összes, kormányzati hirdetésekkel „ellátott” médium, az országszerte kihelyezett hirdetőoszlopok és óriásplakátok –  na meg az állampolgárok jelen idejű tájékoztatása céljából létrehozott kormányzati aloldal, a
+    <hi rend="bold">
+     koronavirus.gov.hu.
+    </hi>
+   </p>
+   <p>
+    Utóbbit elviekben
+    azért
+    hozták létre márciusban, hogy tájékoztatást nyújtson arról,
+   </p>
+   <p>
+    „hogy mi a teendő megbetegedés esetén, emellett értesülhetünk az aktuális hatósági intézkedésekről, nyomon követhetjük a járvány terjedését, hasznos információkat érhetünk el a vírus által okozott megbetegedésről, illetve a legközelebbi egészségügyi intézmények elérhetőségeiről.”
+   </p>
+   <p>
+    Ehhez kapcsolódóan létrejött egy dedikált
+    Facebook oldal
+    is, amely célja, „hogy az állampolgárok hiteles információkhoz férhessenek hozzá.”
+   </p>
+   <p>
+    Időközben a rendkívüli jogrend és a vírustematika kizárólagos domináns szerepe a magyar és nemzetközi média napirendjén véget ért, de a járványügyi készültség – és természetesen vele a koronavirus.gov.hu – maradt.
+   </p>
+   <p rend="head">
+    A vírussal közvetlenül kapcsolatban álló hírek, a napi fertőzési és halálozási számok alakulása mellett azonban idővel zavarbaejtő bejegyzések jelentek meg az oldalon, amelyek értelmezhetők ugyan a koronavírus kontextusában, de a weblap eredeti funkciójához nem sok közük van, a propagandához viszont annál több.
+   </p>
+   <p>
+    Íme 10 példa a teljesség igénye nélkül csak az utóbbi egy hónapból:
+   </p>
+   <list>
+    <item>
+     <hi>
+      Köznevelési államtitkár: várják az emberek véleményét a tanulók és a tanárok ingyenes internethasználatáról
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Elfogadta a 2021-es költségvetését az Országgyűlés
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Szijjártó: Somogy megyében 39 vállalat 16,5 milliárd forintos fejlesztést hajt végre
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Benkő: bebizonyosodott, hogy a katonák nem csak a fegyverekhez értenek
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Orbán Viktor: a magyarok pénzéről a magyaroknak kell dönteniük
+     </hi>
+     (mivel ezt nem elég egyszer megtudnunk, fent van pepitában is
+     <hi>
+      :
+      Szijjártó: a magyarok uniós forrásairól a magyaroknak kell dönteniük
+      )
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Orbán: ha nem sikerül megállapodásra jutni a vitás kérdésekről, az Hollandia miatt lesz
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Dömötör: már több mint egymillióan töltötték ki a kérdőívet
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Szijjártó: a magyar gazdaság sikerét a magyar emberek munkája jelenti
+     </hi>
+    </item>
+    <item>
+     <hi>
+      György László: meghaladhatja a várakozásokat a gazdaság idei teljesítménye
+     </hi>
+    </item>
+    <item>
+     <hi>
+      Szijjártó: a lehető legjobb megállapodás született meg az európai helyreállítási alapról
+     </hi>
+    </item>
+   </list>
+   <p>
+    Külön bekezdést érdemel a migrációval és a munkaügyi témákkal összefüggő hírek megosztása a koronavírus-honlapon: a vírus természete miatt persze nem mindegy egy ilyen időszakban, hogy ki és honnan lép be Magyarország területére, a kormány ugyanakkor természetesen nem szégyelli ezt a témát azonnal
+    a migránshadak elleni védekezés narratívájába göngyölni.
+    A munkavállalókat és a munkaadókat pedig természetszerűleg érdekelheti, hogy hogyan változnak napról napra, hétről hétre a kormány válságintézkedései, de ebben az esetben csupán a
+    sikerpropagandába
+    futhatnak bele az oldalon, az olyan hírekbe azonban már, mint hogy
+    fél év alatt elfogyott az álláskeresési járadékokra szánt költségvetési keret
+    , aligha.
+   </p>
+   <p>
+    Ugyanitt arról is érdemes megemlékezni, hogy az egyik legakutabb járványügyi kérdés a nyári időszakban az országok kormány által bevezetett átfertőzöttség szerinti osztályzásának valós idejű nyomon követése lenne, amiről azonban aktuális térképet nem találunk a honlapon, csak mindig az Operatív Törzs által legutóbb kiadott lista szerinti, automatikusan nem frissülő listát találjuk meg a hírek között böngészve.
+   </p>
+   <p>
+    Világos, hogy a vírusnak számos gazdasági és társadalmi vonatkozása van, de vajon az az állampolgár, aki – mint azt a tájékoztató oldal eredeti missziója is fogalmaz –   hasznos információkat szeretne elérni a vírus által okozott megbetegedésről vagy a legközelebbi egészségügyi intézmények elérhetőségeiről, kíváncsi-e arra, kivel szkanderozunk további EU-s milliárdokért vagy hogy hányan töltötték már ki eddig a nemzeti konzultációt?
+   </p>
+   <p rend="head">
+    A kérdés persze költői, egyetlen értelme pedig abban áll, hogy rámutasson: a kormány visszaél azzal, hogy a járvány miatt az állampolgárok rendszeres szükségletévé vált a kormányzati felületek nyomon követése és állandó figyelemmel tartása, és szemérmetlenül az emberek képébe nyomja a propagandát ezeken a platformokon.
+   </p>
+   <p>
+    Így fulladtak például az Operatív Törzs tavaszi sajtótájékoztatói
+    is kabaréízű államtitkári standupokba
+    , amelyeken a a napi fertőzésszám-emelkedés és Müller Cecília háztartási tanácsai előtt kismillió kormánytisztviselő napi váltásban egyesével megdicsérte a saját területén elvégzett kormányzati munkát. Miközben az intézményi fertőzésekről nem tudtunk meg egy árva szót (számot) sem.
+   </p>
+   <p>
+    Mindezek közé ékelve pedig Kiss Róbert rendőralezredes menetrendszerűen figyelmeztette a nézőket, hallgatókat, olvasókat: aki hiteles tájékoztatást szeretne, az kövesse a koronavirus.gov.hu oldalt.
+   </p>
+   <p>
+    Hiszen ha a hatóság javasolja, akkor biztosan ez a legjobb döntés.
+   </p>
+  </body>
+ </text>
+</TEI>

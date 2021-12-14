@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Elindult a parlament tavaszi ülésszaka, Hadházy Ákost ki is tiltotta Kövér – percről percre a Mércén
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0f47270b-cafd-5b73-bd1b-437778c1cce2
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Elindult a parlament tavaszi ülésszaka, Hadházy Ákost ki is tiltotta Kövér – percről percre a Mércén
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-17T13:13:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/17/kezdodik-a-parlament-tavaszi-ulesszaka-percrol-percre-a-mercen/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/17/kezdodik-a-parlament-tavaszi-ulesszaka-percrol-percre-a-mercen/
+     </sch:url>
+     <sch:name>
+      Elindult a parlament tavaszi ülésszaka, Hadházy Ákost ki is tiltotta Kövér – percről percre a Mércén
+     </sch:name>
+     <sch:datePublished>
+      2020-02-17T13:13:00
+     </sch:datePublished>
+     <sch:dateModified>
+      2020-02-17T16:32:00
+     </sch:dateModified>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      nők elleni erőszak
+     </sch:keywords>
+     <sch:keywords>
+      parlament
+     </sch:keywords>
+     <sch:keywords>
+      országgyűlés
+     </sch:keywords>
+     <sch:keywords>
+      családon belüli erőszak
+     </sch:keywords>
+     <sch:keywords>
+      percről percre
+     </sch:keywords>
+     <sch:keywords>
+      kártérítések
+     </sch:keywords>
+     <sch:keywords>
+      tavaszi ülésszak
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0f47270b-cafd-5b73-bd1b-437778c1cce2">
+     <sch:identifier>
+      urn:uuid:13d0ca54-86aa-47ff-9906-9b7f55a1c9e1
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:34.764339
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:02:33.861056
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0f47270b-cafd-5b73-bd1b-437778c1cce2" when="2021-12-14T15:30:34.764339">
+    TEI file created
+   </change>
+   <change source="https://merce.hu/2020/02/17/kezdodik-a-parlament-tavaszi-ulesszaka-percrol-percre-a-mercen/" when="2020-02-17T16:32:00">
+    article modified
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Elindult a parlament tavaszi ülésszaka, Hadházy Ákost ki is tiltotta Kövér – percről percre a Mércén
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Ma, február tizenhetedikén kezdődik az országgyűlés tavaszi ülésszaka, ilyenkor hagyományosan a kormány tagjai is felszólalnak az országgyűlésben, hogy ott is kiadják az elkövetkezendő időszakra vonatkozó irányt.
+   </p>
+   <p rend="head">
+    A mostani ülésszak idején, mely egészen a nyári szünetig tart majd, több témáról is szó esik várhatóan a kormány és a Fidesz-KDNP eddigi idei kommunikációja alapján.
+   </p>
+   <p>
+    Ott vannak a kártérítési ügyek – az év eleje szinte másról sem szólt, mint hogy a kormánypártok prominensei és a kormány tagjai az iskolai szegregáció miatt kártérítésre jogosult romák, valamint a börtönviszonyok miatti kártérítésre jogosult börtönlakók, valamint a „börtönbiznisz” ellen uszítsanak. Vélhetően a mai alkalmat sem fogják kihagyni.
+   </p>
+   <p>
+    Fontos továbbá, hogy Varga Judit igazságügyi miniszter az egyre sokasodó, nem egyszer tragédiába torkolló családon belüli erőszak-ügyek miatt kénytelen volt nyilvánosság elé állni, és bejelenteni, hogy 2020 az áldozatsegítés éve lesz. Noha az egyelőre nem látszik, hogy a kormány milyen valós intézkedéseket szándékozik tenni a családon belüli erőszak visszaszorítására, vagy az áldozatok segítésére, az új ülésszak során megtudhatunk egy-két dolgot a kérdésről.
+   </p>
+   <p>
+    Azt se feledjük, hogy idén úgy tűnik, a kormánypártok végrehajtják várva várt zöld fordulatukat. Bár leginkább egyelőre szavakban tűnnek zöldnek, hisz az nem látszik, hogy hajlandóak lennének-e korlátozni a gazdaság fontos lábát jelentő multikat, és a kishantosi gazdaságot felszámoló mezőgazdaság-politika sem úgy néz ki, mely meg fogja menteni a bolygót és elősegítené a fenntarthatóbb mezőgazdaságot, azt már tudjuk, hogy 2022-től kizárólag villanybuszokat vehetnek a települések helyi tömegközlekedés céljából. Kíváncsian várjuk, hogyan lesz ebből klímavédelem, talán erről is esik majd egy-két szó.
+   </p>
+   <p>
+    Lesznek napirend előtti felszólalások, azonnali kérdések interpellációk, úgyhogy mozgalmas napnak nézünk elébe. Mi mindenesetre percről  percre követjük az eseményeket, tartsatok velünk!
+   </p>
+   <p>
+    Az országgyűlés élő közvetítését pedig az alább tudjátok nézni:
+   </p>
+   <p>
+    Mérce
+    2020. február 17., 16:32
+    Zárjuk a percről percre tudósításunkat, ha máskor is olvasnátok ilyent, támogassátok a Mércét
+   </p>
+   <p>
+    A parlament ma még egy Katarral kötendő nemzetközi megállapodásról és a polgári légi közlekedést érintő szabálymódosításokról folytat vitát.
+   </p>
+   <p>
+    Mi most zárjuk a percről percre tudósításunkat, köszönjük a figyelmet!
+   </p>
+   <p>
+    A Mérce tartalmai mindenki számára ingyenesen hozzáférhetők, de nem ingyen készülnek. Így ha szeretnétek, hogy máskor is beszámolhassunk a legfontosabb politikai eseményekről, támogassatok bennünket!
+   </p>
+   <p>
+    Jussanak el mindenhova a Mérce hírei!
+    Támogatás egyszerűen, bankkártyával, PayPal-on keresztül:
+    Támogatom a Mércét 
+havi
+    1000
+    forinttal!
+    Támogatom a Mércét 
+havi
+    3000
+    forinttal!
+    Támogatom a Mércét 
+havi
+    5000
+    forinttal!
+    Tetszőleges összeggel támogatom!
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2020. február 17., 16:16
+    Az ellenzék az Alkotmánybíróság elé viszi a szájzártörvényt
+   </p>
+   <p>
+    Ellenzéki képviselők közösen tartottak sajtótájékoztatót a szájzártörvényről, miután az interpellációk alatt kivonultak a parlamenti patkóból.
+   </p>
+   <p>
+    <hi rend="bold">
+     Szabó Tímea
+    </hi>
+    a Párbeszédből elmondta, a szájzártörvény célja, hogy megfélemlítsék az ellenzéki képviselőket, arról van szó, hogy Kövér László, Orbán Viktor és a Fidesz nem tudják elviselni, hogy az egyesült ellenzék az emberek valódi problémáira keresik a válaszokat.
+   </p>
+   <p>
+    Nem bírják elviselni, hogy nem hagyják szó nélkül a hazudozást, mellébeszélést és bujkálást, azonban elmondta, nem fog meghátrálni az ellenzék. Nem fogják befejezni a Kövér által illetlennek ítélt szavak használatát, és nem fogják befejezni a köztévé ellenőrzését sem, ahogy továbbra is az embereket fogják képviselni.
+   </p>
+   <p rend="head">
+    Nem hagyják szó nélkül a szájzártörvényt sem, mely véleményük szerint Alaptörvénybe ütközik, ezért közösen beadják keresetüket, hogy az Alkotmánybíróság semmisítse meg.
+   </p>
+   <p>
+    Kövér László képviselőket sújtó büntetései rendkívül aggályosak, ugyanis a szabályozás értelmében oly mértékben korlátozhatják a képviselőket, hogy az akadályozhatja őket munkájuk elvégzésében. Szintén aggályos, hogy lehetőség nyílik a szavazati jog elvételére, valamint hogy a szavazati jogot átruházhatják a képviselők.
+   </p>
+   <p>
+    Például hozta fel Szabó, hogy amennyiben az egész Párbeszédet kitiltják, akkor nem lenne kire átruházni a szavazati jogát. Ez azonban jogellenes, és bizonyos benne, hogy az alkotmánybíróság el fogja kaszálni a módosított törvényt.
+   </p>
+   <p>
+    Véleménye szerint Kövér fegyelmező eszközként fogja használni a szájzártörvényt, és az ellenzéki képviselők ellen szándékozik alkalmazni azt.
+   </p>
+   <p>
+    Kifejtette, a Fidesz fél, Kövér pedig fenn akarja tartani a látszatot, hogy demokrácia van, de az egyesült ellenzék még jobban fogja képviselni az emberek érdekeit, és mennek tovább azon az úton, melyet október 13-án a választók kijelöltek nekik, 2022-ben pedig leváltják a kormányt.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kunhalmi Ágnes
+    </hi>
+    , az MSZP képviselője kifejtette, pártja sem támogatja ezt a törvényt, a Fidesz semmibe veszi a választók akaratát, mert 2018-ban a választók 52 százaléka ellenük szavazott, most mégis az ő hangjukat, az ellenzék munkáját kívánják teljesen ellehetetleníteni. Mint mondta,
+   </p>
+   <p>
+    „az ellenzék eltűrt személy, de csak akkor, ha nem csinál semmit.”
+   </p>
+   <p>
+    Emlékeztetett, a kettős mérce korábban is megvolt – a rabszolgatörvény elleni közös tiltakozást, mely az ellenzéket összehozta, szintén megelőzték törvénytelenségek, mint a módosítók lesöprése, szómegvonás az ellenzéki képviselőktől a vita során, stb.
+   </p>
+   <p>
+    Azt is hozzátette, mikor az MTVA-ban voltak, birtokvédelmi eljárást indítottak ellenük, mikor be akarták olvastatni az öt pontjukat, ez is az előzménye volt annak, hogy ilyen szigorú korlátok közé szorítják a képviselők munkáját. Mindazonáltal a bíróság kimondta, hogy a tévében nem követtek el jogsértést, sőt, azok követték el, akik korlátozták és kidobták őket az épületből.
+   </p>
+   <p>
+    Végezetül kifejtette, mindent meg fog az ellenzék tenni azért, hogy ne félemlíthetsék meg őket, majd kiadta a jelszót:
+   </p>
+   <p>
+    „összefogás van, összefogás lesz, és 2022-ben a Fidesz fog ellenzékbe kerülni.”
+   </p>
+   <p>
+    A jobbikos
+    <hi rend="bold">
+     Lukács László György
+    </hi>
+    elmondta, Orbán Viktor, és az ő „házmesterként viselkedő cimborája” téved, ha úgy gondolja, hogy el lehet hallgattatni a Jobbikot és az ellenzéket. A parlamenti patkó nem a Várkert bazár, itt az ellenzéki képviselőkön keresztül a nép tudja hallatni a hangját, és nem lehet felcsúti buszokkal lezárni a terepet – utalt vissza a miniszterelnöki évértékelőre, mikor épp hogy ez történt. Mind a törvény vitájánál, mind a szavazásnál elmentek a végsőkig, és most is elmennek a szájzártörvény elleni tiltakozás során, mikor az Alkotmánybíróság elé viszik.
+   </p>
+   <p rend="head">
+    Úgy gondolják, az Alkotmánybíróság ki fogja mondani, hogy a törvény semmis.
+   </p>
+   <p>
+    Az ellenzék minden lehetőséget meg fog ragadni, hogy az emberek hangját elhallgattató jogszabályt ne alkalmazzák, ugyanis az embereket nem elhallgattatni, hanem meghallgatni kell, emellett Jakab Péterhez hasonlóan ő is azt üzente, hogy a Fidesznek meg kell változnia.
+   </p>
+   <p>
+    A DK részéről Arató Gergely lépett fel, aki felelevenítette, gyakran hivatkoznak a ház vezetésében arra, hogy az országgyűlés tekintélyét kell megvédeni a renitens képviselőktől. Ezzel szemben véleménye szerint a kormány sérti meg az országgyűlés tekintélyét, melynek minisztere nem hajlandó válaszolni kérdésekre, amelyik rettenetes rövid határidővel ad be határozati javaslatokat, és amelyik el akarja hallgattatni az ellenzéket.
+   </p>
+   <p>
+    Ahhoz hogy ismét meglegyen a tekintélye az országgyűlésnek, nem korlátozhatják a képviselők szólásszabadságát, és hogy a kormányt ellenőrizhesse, valamint hogy az ellenzéki és a kormánypáti képviselők azonos jogokkal rendelkezzenek.
+   </p>
+   <p rend="head">
+    Véleménye szerint Dunaújvárosban megmutatták a választók, hogy elegük van abból, hogy a Fidesz elhallgattatja az ellenzéket.
+   </p>
+   <p>
+    <hi rend="bold">
+     Csárdi Antal
+    </hi>
+    az LMP színeiben szólalt fel, mondván van egy üzenetük, az LMP-nek és az ellenzéknek az ellenzéki szavazók számára: legyenek magabiztosak, és biztosak abban, hogy az ellenzék ennek a törvénynek a dacára sokkal hatékonyabban fogja képviselni az érdekeiket, mert kreatívak, egységben vannak, és a pártok mögötti szellemi tőkét is egyesítik.
+   </p>
+   <p>
+    Korrupció helyett sikeres európai országgá szeretnék tenni Magyarországot.
+   </p>
+   <p>
+    Elmondta, egy ilyen alkotmánysértő törvény nem tudja megállítani az ellenzéket. Nem tudja meggátolni a kormány ellenőrzését, és azt, hogy elmondják a kormányról a véleményüket, valamint hogy mi zajlik az országban.
+   </p>
+   <p>
+    Végül
+    <hi rend="bold">
+     Bősz Anett,
+    </hi>
+    a Liberális párt képviselője jutott szóhoz, így kifejthette, véleménye szerint a szájzártörvény arról szól, hogy ez ellenzék az elmúlt évben valamit jól csinált, és ennek köszönhető az is, hogy több millió ember él ellenzéki vezetés alatt az október 13-i választások óta.
+   </p>
+   <p rend="head">
+    Kreatívak lesznek, és minél jobban próbálja őket a kormány elnyomni, annál jobban összekovácsolódnak.
+   </p>
+   <p>
+    Végül felhívta arra is a figyelmet, ha olyan társadalmi csoportok, melyek képesek érvényesíteni az érdekeiket és szolidárisak tudnak lenni másokkal, mint az MTA vagy az egyetemek jogsérelmet szenvednek el, akkor akinek nincs ilyen érdekérvényesítő képessége – vagyis az ország lakosainak jelentős része – az milyen helyzetben lehet.
+   </p>
+   <p>
+    A sajtótájékoztatót az ATV felvételén, itt tudjátok visszanézni:
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 15:56
+    Véget értek az interpellációk, jön az azonnali kérdések órája
+   </p>
+   <p>
+    Az ellenzék megtartotta közös sajtótájékoztatóját – ennek összefoglalójával pár percen belül jelentkezünk itt a percről percre tudósításban -, úgyhogy az azonnali kérdések órájára már elkezdtek visszatérni az ülésterembe.
+   </p>
+   <p>
+    De Orbán Viktor ma nincs a parlamentben, így az azonnali kérdések sem ígérkeznek túl izgalmasnak. Jakab Péter, a Jobbik elnöke jelezte is, ő nem elégszik meg Gulyás Gergely válaszával, így inkább megvárja azt az ülést, amelyen már Orbánnak is válaszolnia kell az azonnali kérdésre – ez a pillanat a házszabály szerint négyhetente jön el.
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 15:34
+    Önmagukat interpellálják a fideszesek, az ellenzéki képviselők nincsenek az ülésteremben
+   </p>
+   <p>
+    A napirend előtti felszólalások után a parlament néhány határozatot hozott, majd rátért a képviselői interpellációkra. Az eredeti napirend szerint két tucatnyi ellenzéki képviselő is interpellálta volna valamelyik kormánytagot, ám a napirend előtti beszédek után a képviselők kivonultak az ülésteremből (várhatóan közös sajtótájékoztatót is tartanak erről nemsokára, amiről itt be is számolunk.)
+   </p>
+   <p>
+    A házszabály értelmében Latorcai János levezető elnök ezért bejelentette: az interpellációs kérelmeket visszavontnak kell tekintenie, a tervezett kérdéseket már nem tehetik fel a képviselők.
+   </p>
+   <p>
+    A kormánypárt tehát gyakorlatilag önmagát interpellálja…
+   </p>
+   <p>
+    Tordai Bence (Párbeszéd) az egyik karzaton hagyta telefonját, hogy tovább közvetítse élőben az ülést, de Latorcai az üléstermi őrséggel ezt eltávolíttatta.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2020. február 17., 15:30
+    A koronavírus a legfontosabb kérdés, ezért volt ma Orbán helyett Kásler a parlamentben
+   </p>
+   <p>
+    „A kormány most a koronavírus elleni küzdelemről szóló tájékoztatást ítélte a legfontosabbnak és a legsürgősebbnek, arról pedig Kásler Miklós miniszter tud hiteles és alapos tájékoztatást adni”
+   </p>
+   <p>
+    – nyilatkozta Havasi Bertalan, Orbán Viktor sajtófőnöke a
+    HVG
+    -nek, miután a lap megkérdezte, miért nem vesz részt a kormányfő a tavaszi országgyűlési ülésszak első napján.
+   </p>
+   <p>
+    Kásler ezt valóban meg is tette, elmondta, hogy felállt az operatív törzs, melynek feladata az új típusú vírusos megbetegedés és a járvány elleni védekezés, ezt pedig a Pintér Sándor alá tartozó belügyminisztérium felügyeli, tehát noha az egészségügy Káslerhez tartozik, a járvány elleni védekezés nem.
+   </p>
+   <p>
+    Kásler volt az első felszólaló, miután elmondta a vírus elleni védekezés jelenlegi állását (jól állnak), valamennyi frakció kommentálta, az ellenzék leginkább az egészségügy siralmas helyzetére, míg a kormánypártok az egészségügy kiváló állapotára reflektáltak.
+   </p>
+   <p>
+    Mindazonáltal az eddigi szokásokhoz képest meglepő fordulat, hogy Orbán nem volt jelen a mai ülésen.
+   </p>
+   <p>
+    Ha az ülésterembe nem is, templomba ellátogatott Orbán, legalábbis ez derül ki Varga Mihály pénzügyminiszter Facebook-bejegyzéséből:
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 15:20
+    Sürgősségi eljárásban tárgyalja a parlament a börtönkártérítések kifizetésének felfüggesztését
+   </p>
+   <p>
+    A jogszerűtlen szegregáció okozta hátrányok miatt a gyöngyöspatai roma gyerekeknek megítélt kártérítések támadása mellett 2020 első hetei a börtönviszonyok fideszes tematizálásáról szóltak.
+   </p>
+   <p>
+    A kormány szeretné elérni a bíróságok által embertelen fogvatartási körülmények miatt megítélt kártérítések kifizetésének felfüggesztését, és jelezte, törvényi úton venné elejét ennek a kártérítési gyakorlatnak, amelyet a civil szervezetek és Soros György nyakába ír.
+   </p>
+   <p>
+    A tavaszi ülésszak első napján a kormánypárti többség döntött arról, hogy sürgősségi eljárásban tárgyalja
+    a kormány előterjesztését
+    , így a vita már csütörtökön, február 20-án megindulhat.
+   </p>
+   <p rend="head">
+    Időközben a témában sajtótájékoztatót tartott Varga Judit igazságügyi miniszter is. A kormány haladéktalanul kezdeményezi a börtönviszonyok miatt az elítéltek javára megítélt kártalanítások kifizetésének leállítását – jelentette be az igazságügyi miniszter.
+   </p>
+   <p>
+    Varga Judit közölte: a nap folyamán az „igazságtalan gyakorlatnak” véget vető törvényjavaslatot nyújtanak be a parlamentnek, sürgősséggel. Hozzátette: a sürgősségi eljárás miatt a kormányoldal kéri az ellenzék támogatását az Országgyűlésben.
+   </p>
+   <p>
+    A javaslat szerint addig függesztenék fel a kifizetéseket, amíg újra nem szabályozzák a börtönviszonyok miatti kártalanítást. Ehhez a társadalom támogatása szükséges, ezért az új szabályozás a nemzeti konzultáció után, annak megfelelően születik majd meg – mondta a miniszter.
+   </p>
+   <p>
+    Varga Judit tájékoztatása szerint a börtönviszonyok miatti kártalanítási perekben eddig 12 ezer 680 határozat született, és 9 milliárd forintnyi adófizetői pénzről rendelkeztek.
+   </p>
+   <p>
+    Az új szabályozás célja, hogy ezt az igazságtalan helyzetet megszüntesse, és a sértettek, áldozatok és hozzátartozók jogait helyezze előtérbe – hangoztatta. 
+A kormány szándéka továbbá, hogy minél előbb javuljanak a büntetés-végrehajtásban a körülmények és szűnjön meg a zsúfoltság – közölte az igazságügyi miniszter, hozzáfűzve: a kártalanítások pedig a jövőben ügyvédi letéti számlára nem fizethetők ki, csak a büntetés-végrehajtás vagy a jogosult számlájára.
+   </p>
+   <p>
+    (Mérce / MTI)
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 14:51
+    Kásler: a kormány a súlyának megfelelően kezeli a koronavírus-helyzetet
+   </p>
+   <p>
+    A kormány a súlyának megfelelően kezeli a koronavírus-helyzetet, időben felkészült a kihívásokra; Magyarországon jelenleg nincs fertőzött – mondta Kásler Mikós, az emberi erőforrások minisztere az Országgyűlés hétfői ülésén napirend előtti felszólalásában.
+   </p>
+   <p>
+    A tárcavezető kifejtette: a minisztérium az Egészségügyi Világszervezet (WHO) első jelzésére azonnal megkezdte a felkészülést, január 31-én operatív törzset állítottak fel és akciótervet határoztak meg. Az intézkedések között említette, hogy szakmai eljárásrendet dolgoztak ki az egészségügyi intézményeknek, meghatározták a megelőzés rendszabályait, kialakították a vírus közvetlen kimutatásának módszerét, felmérték az intézmények védőeszköz-igényét, további beszerezéseket indítottak el, a kijelölt határátkelőhelyeken a rendvédelmi szervek folyamatosan szűrik az országba belépő fertőzésgyanús utasokat, a budapesti repülőtéren vírusölő szerrel takarítanak, kézfertőtlenítőket helyeztek ki, továbbá a Kínából érkezőket hőkapuval ellenőrzik.
+   </p>
+   <p>
+    Megjegyezte: a Külgazdasági és Külügyminisztérium folyamatos kapcsolatot tart a járvány által érintett területeken tartózkodó magyarokkal, valamint koordinálta hét magyar hazaszállítását, akiket azóta hazaengedtek.
+   </p>
+   <p>
+    Kásler Mikós kitért rá: a lakosság tájékoztatására kiemelt figyelmet fordítanak, a média segítségével naprakész információkat biztosítanak mindenkinek. Az Emmi tájékoztatta az európai uniós egészségügyi biztost az intézkedésekről, és részt vettek az uniós egészségügyi miniszterek legutóbbi rendkívüli ülésén – közölte.
+   </p>
+   <p>
+    (MTI)
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2020. február 17., 14:29
+    Jakab Péter: ha a Fidesz így folytatja, 2022-ben 106 Ludas Matyi páholja el őket
+   </p>
+   <p>
+    Jakab Péter, a Jobbik elnöke elsőként a dunaújvárosi választásról beszélt. Elmondta, a Fidesz azt hiszi, a kormányzati Döbrögik azt tesznek amit akarnak, de a dunaújvárosi Ludas Matyik megmutatták, hogy nem tehet a kormánypárt bármit, amit akar, ahogy azt is, hogy három a magyar igazság.
+   </p>
+   <list>
+    <item>
+     Ne nézd hülyének a magyart mert pórul jársz: mégis ezt teszik, ahogy mondta, a Fidesz telepakolja az országot propagandával, hogy bemutassa, milyen hatalmas sikereket értek el, és mennyivel jobb minden, azonban
+     <hi>
+      „a boltban a kasszánál minden kiderül”
+     </hi>
+     , mikor a nyugdíjasok és a dolgozók szembesülnek azzal, hogy az infláció kiüti elvileg növekvő bevételeiket.
+    </item>
+    <item>
+     A pénz nem azé aki ellopja, hanem azé aki megdolgozik érte: ehhez képest a Fidesz azt hiszi, hogy büntetlenül vehetnek el milliókat a nép zsebéből. Privatizálhatják a Balatont, ahogy valamennyi rentábilis üzletet, ahogy például a Mátrai Erőmű is Mészárosé akkor, mikor nyereséges, de ismét a népé, mikor veszteséges.
+    </item>
+    <item>
+     Kard által vész, ki kardot ragad: lassan az egész nép ellen kardot rántanak, ellenségnek tekintenek mindenkit, aki nem ért velük egyet, mindenkit, aki hajlandó gondolkodni ebben az országban, ellenben akik hajbókolnak, azokat megjutalmazzák.
+    </item>
+   </list>
+   <p>
+    Kifejtette, noha Orbán az évértékelőjén magának jelest adott, a nép is értékelte őket, és elégtelent kaptak.
+   </p>
+   <p rend="head">
+    Felszólította a Fideszt, hogy változtasson politikáján, ahogy a jobbik is változtatott (hangos zúgolódás az ülésteremben).
+   </p>
+   <p>
+    Mint mondta, valóban tolvajok ellen jöttek létre 2003-ban, azonban a Fidesszel minden megváltozott, mert nem csak a pénzüket veszik el, hanem a jogukat, a szabadságukat és az életüket is. Így együtt kell működniük olyanokkal, akiktől nagyon messze állnak, de meg kell adni az esélyt a változásra. Hozzátette, elszámoltatás lesz, de a változás képességét nem szabad senkitől elvitatni.
+   </p>
+   <p>
+    A Fidesznek végezetül azt javasolta, állítson magán és változzon meg, mert most ugyan egy Ludas Matyi nézett szembe a Döbrögikkel, azonban ha a kormánypárt így folytatja, 2022-ben 106 Ludas Matyi fogja elpáholni őket (utalva itt az országgyűlési EVK-k számára).
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 14:18
+    Tóth Bertalan: „A fideszes elit jelöltjét elvertük, mint jég a határt”
+   </p>
+   <p>
+    Az MSZP elnöke is a szájzártörvényre való utalással kezdte első idei parlamenti felszólalását. Szerinte ez a jogkorlátozó szabályozás ugyanúgy félelemből ered, mint a civilek, az önkormányzatok, a szabad sajtó és a kultúra elleni fideszes szabályozások.
+   </p>
+   <p>
+    De „egy szabadságszerető ország nem lehet túsza egy önkényúrnak és szűk elitjének” – tette hozzá.
+   </p>
+   <p>
+    Tóth Bertalan szerint ezt az akaratukat fejezték ki a magyarok tavaly októberben és tegnap Dunaújvárosban is.
+   </p>
+   <p>
+    „A fideszes elit jelöltjét elvertük, mint jég a határt” – mondta.
+   </p>
+   <p>
+    Tóth szerint szájzártörvénytől függetlenül néhány dolog mellett nem mehetünk el, például amellett, hogy soha nem volt még ilyen gyenge a forint.
+   </p>
+   <p>
+    „A gyengülő forint gyengülő kormányzást és növekvő inflációt mutat” – jelentette ki.
+   </p>
+   <p>
+    Az MSZP-s politikus szerint ez jó lehet a multiknak, de a magyar embereknek, akiknek fizetése, nyugdíja így elértéktelenedik, nem jó.
+   </p>
+   <p>
+    Tóth kitért Orbán Viktor évértékelőjére is: szerinte a miniszterelnök csak a korrupt fideszes elit és oligarchái nevében beszélt, nem a becsületes emberek nevében. Nem becsületes ugyanis az, aki leépíti a jogállamot, a sajtószabadságot, a kultúra intézményeit – fejtette ki.
+   </p>
+   <p>
+    Azt is hozzátette, a fideszes elit bűnös, ezért nincs joga a bírósági döntéseket felülbírálni.
+   </p>
+   <p>
+    Felszólalását egy új, valódi köztársaság, esélyteremtő ország felépítésének ellenzéki ígéretével zárta.
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2020. február 17., 14:10
+    Gyurcsány: elküldték önöket a politika poklába
+   </p>
+   <p>
+    Gyurcsány Ferenc, a Demokratikus Koalíció elnöke Hadházy akciója után emelkedett szólásra, és javarészt a miniszterelnök vasárnapi évértékelőjére fűzte fel mondanivalóját, kezdve a klímaváltozás és a kormány viszonyával. Mint mondta,
+   </p>
+   <p>
+    „a kormányfő tegnapi beszédének az a legrejtélyesebb része, hogy hogy a csudába lett a klímahisztériát emlegető kormányból és kormányfőből a klímavédelem élharcosa.”
+   </p>
+   <p>
+    A DK elnöke ironikus stílusban folytatta, kifejtve, a kormány egyik doktori fokozattal rendelkező tagjának megszólalása után arra jött rá a válaszra, miszerint amennyiben a kormány ezen tagja szerint Greta Thunberg, a 16 éves klímaaktivista, csak azért hívta fel a figyelmet a klímaváltozásra, mert Gyurcsánnyal akar fotózkodni.
+   </p>
+   <p>
+    Ezzel kapcsolatban kifejtette, Orbánnak könnyebben is sikerült volna közös fotót kérni a volt miniszterelnöktől, nem kellett volna ilyen eszközökhöz folyamodnia.
+   </p>
+   <p>
+    Kitért arra, is hogy Orbán szerint az elmúlt száz év legsikeresebb tíz évén vagyunk túl, ez pedig lehet érvényes olvasat, az a kérdés, mit nevezünk a sikernek. Ezután felsorolta,
+   </p>
+   <list>
+    <item>
+     az adó- és járulékpolitika révén Magyarországon leginkább nem csökkennek, hanem nőnek a háztartások közötti anyagi különbségek, hozzátéve amennyiben ez siker,
+     <hi>
+      „le a kalappal, sikeres volt!”
+     </hi>
+    </item>
+    <item>
+     egyre hosszabbak a várólisták,
+    </item>
+    <item>
+     nincs elég orvos és nővér,
+    </item>
+    <item>
+     Magyarországon haláloznak el a legtöbben megelőzhető betegségben,
+    </item>
+    <item>
+     nemzetközi felmérések szerint a magyar gyerekek tudása az elmúlt tíz évben romlott,
+    </item>
+    <item>
+     minden ötödik iskolában hiányzik valamilyen tanár.
+    </item>
+   </list>
+   <p>
+    „Ha ez a siker, iparkodjanak!”
+   </p>
+   <p>
+    – mondta erre Gyurcsány. Emellett azt is kifejtette, mióta kormányoznak, azóta a jelenleg dolgozók és a nyugdíjasok közötti különbség folyamatosan növekednek a Fidesz nyugdíjpolitikája miatt.
+   </p>
+   <p>
+    Elmondta azt is, úgy látja, a kormányfő ezekről nem mer beszélni, ebből pedig az tűnik ki, hogy az a lényeg, hogy miről nem beszél. Kifejtette, véleménye szerint a Fidesz részéről ezeket a dolgokat elrontották (habár, mint mondta, ő más szavakat szokott használni).
+   </p>
+   <p>
+    Összegezve mondanivalóját, kijelentette, az elmúlt tíz évben a kormány nem a közjót szolgálta, hanem hogy kevesen gazdagodjanak. Gyurcsány véleménye szerint nem áll szóba a magyar kormányfővel magára valamit is adó kormányfő az EU-ban – ezzel egyébként kiírva a magára valamit is adó kormányfők közül pl. Angela Merkel német kancellárt, valamint sok más ország vezetőjét is.
+   </p>
+   <p>
+    Miután a tintás kézzel kapcsolatban enyves kezes viccet sütött el a miniszterelnök irodai balesetére utalva, a dunaújvárosi ellenzéki győzelemre utalva elmondta:
+   </p>
+   <p>
+    „elküldték önöket a pokolba, a politika poklába”
+   </p>
+   <p>
+    – reményét fejezve ki, hogy előbb-utóbb ez az egész országban megtörténik.
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 13:53
+    Hadházy „Stop propaganda” feliratot rakott Kövér László feje fölé
+   </p>
+   <p>
+    Érvényben van a szájzár törvény, a független képviselő újra akciózik:
+   </p>
+   <p>
+    Kövér László úgy reagált, örül, hogy ezúttal nem „saját névjegykártyáját” függesztette ki. Majd kitiltotta az ülésnapról Hadházyt.
+   </p>
+   <p>
+    Hadházy az akció előtt a Facebookra rakott ki fotót és rövid leírást mai terveiről:
+   </p>
+   <p>
+    Mint fogalmazott:
+   </p>
+   <p>
+    „A magát Istennek képzelő Fidesz az októberi akcióm után ismét durván szigorította a játékszabályokat, az országgyűlési képviselők durva jogfosztását eredményező törvénymódosításokat fogadott el. Kövér László azt akarja, hogy az ellenzéki képviselők a kormány legpiszkosabb hazugságait és hergeléseit, alázásait is csendben, hátratett kézzel, jólfésült szónoklatokkal viseljük el a parlamenti padsorokban. Én ezt nem tudom elfogadni és hiszem, hogy az eddiginél még kevesebb értelme van bent maradni. „
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 13:47
+    Szabó Tímea: „Szégyen és kudarc a maguk kormányzása”
+   </p>
+   <p>
+    Napirend előtti felszólalásában a Párbeszéd társelnöke és frakcióvezetője arról beszélt, tegnap az évértékelések napja volt, Orbán Viktor a Várkert Bazárban, az emberek Dunaújvárosban értékelték a kormányt.  Utóbbi helyen Orbán megbukott, az egyesült ellenzék győzedelmeskedett – mondta Szabó, aki gratulált a teljes ellenzék által támogatott jobbikos Kálló Gergelynek a győzelméért.
+   </p>
+   <p>
+    Aaz ellenzék elsöprő győzelme Szabó Tímea szerint nem a semmiből jött: a migránsozó, sorosozó, gyűlöletkeltő kormánypárti retorika mögött
+   </p>
+   <p>
+    „üresség szégyen és kudarc bújik meg.”
+   </p>
+   <p>
+    A politikus úgy vélte, Orbánnak beszélnie kellett volna arról, januárban miért drágult 20 százalékkal a hús ára, miért 340 forint egy euró. Miért nem beszélt arról, hogy egymillió ember nem tudja fizetni a rezsijét, és tavalyhoz képest is többen vesztették életükben fagyhalál.
+   </p>
+   <p>
+    „Szégyen és kudarc a maguk kormányzása” – ismételte meg alapállítását Szabó.
+   </p>
+   <p>
+    Tétlenül nézik, hogy a férfiak gyilkolják feleségeiket és gyerekeiket, mert maguk tagadják a családon belüli erőszak – mondta Szabó, aki szerint az utóbbi idők véres tragédiái után is csak „Varga Judit hajlobogtatását” kapták.
+   </p>
+   <p>
+    A Párbeszéd politikusa az Orbán által tegnap bejelentett klímavédelmi intézkedések hiteltelenségét is ostorozta: ha be akarják tiltani az egyszer használatos műanyagot, akkor miért nem szavaztak egyedüliként a fideszesek a tiltás ellen Brüsszelben? – kérdezte.
+   </p>
+   <p>
+    Miután a valóságról nem akarnak beszélni, ezért új ellenséget gyártanak, folytatta Szabó. Elmondta, a Párbeszéd meghívására a parlamentben ülnek a gyöngyöspatai romák képviselői.
+   </p>
+   <p>
+    „Mondják a szemükbe, hogy az ő gyerekeik lesznek az új ellenség!” – szólította fel Szabó a gyöngyöspatai romák szegregációja miatt jogerősen megítélt kártérítéseket elvitató fideszeseket.
+   </p>
+   <p>
+    Zárásképp rámutatott: veszélyes és aljas játék, amit a kormány a magyar emberekkel művel, nem meglepő tehát, hogy utóbbiaknak elegük van ebből, és szavaztak nagy arányban az ellenzékre Dunaújvárosban is.
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 13:26
+    Orbán nem szólal fel
+   </p>
+   <p>
+    Hagyományosan az őszi és tavaszi ülésszak nyitóülése a miniszterelnök beszédével kezdődik, így történt ez legutóbb, tavaly októberben is, az önkormányzati választások utáni első ülésen.
+   </p>
+   <p>
+    Ma azonban nem így történik.
+   </p>
+   <p>
+    Beszélni fognak viszont az ellenzéki frakcióvezetők, Tóth Bertalan, Jakab Péter, Gyurcsány Ferenc és Szabó Tímea is.
+   </p>
+   <p>
+    Pap Szilárd István
+    2020. február 17., 13:14
+    24 óra alatt ötször adta le Orbán évrétékelőjét az M1
+   </p>
+   <p>
+    Ahogy arról a Mérce
+    percről percre tudósításban
+    számolt be, vasárnap megtartotta 22. évértékelő beszédét Orbán Viktor. A miniszterelnök  beszéde annyira bejöhetett a közmédia 1-es csatornájának, hogy azóta már ötször leadták az egyórás beszédet.
+   </p>
+   <p>
+    Akit csak a lényeg érdekel, annak inkább ajánljuk a
+    saját tegnapi tudósításunkat
+    !
+   </p>
+   <p>
+    (via
+    444
+    )
+   </p>
+   <p>
+    Kiss Soma Ábrahám
+    2020. február 17., 13:01
+    A gyöngyöspatai roma önkormányzat vezetője is a parlamentben van
+   </p>
+   <p>
+    Csemer Géza, Gyöngyöspata Város Roma Nemzetiségi Önkormányzata elnöke Berki Sándor, a Párbeszéd Nógrád megyei alelnöke és Tordai Bence, a Párbeszéd országgyűlési képviselője tartott ma rövid sajtótájékoztatót az Országház előtt. A politikusok elmondták, tüntetést lesz vasárnap a Nyugati Pályaudvarnál a szegregáció és a rasszista uszítás ellen.
+   </p>
+   <p rend="head">
+    A gyöngyöspatai roma önkormányzat vezetője elmondta, a Párbeszéd meghívására beülnek az országgyűlésbe,
+   </p>
+   <p>
+    ahol meghallgathatják, hogy Orbán mit mond arról, mit tettek a romák helyzetének javításáért, valamint szembesíthetik a miniszterelnököt szavaival és tetteivel. Úgy fogalmazott,
+   </p>
+   <p>
+    „mélyen el van szomorodva, hogy most egy olyan országban élünk, ahol a magyar állam szerint akkor sem lehet egy cigány embernek igazsága, ha azt a bíróság törvényesen kimondta”
+   </p>
+   <p>
+    Tordai elmondta, a Párbeszéd szembe fog menni azzal a gyűlöletpropagandával és kampánnyal, melyet a Fidesz a romák ellen folytat, és azzal, hogy Csömör és társai részt vesznek az ülésen, még nagyobb súlyt adhatnak a vasárnapi tüntetésnek, mely a gyerekek és a jogegyenlőség mellett áll ki. Hozzátette, most a magyar cigányság ellen mennek az orbáni-habonyi propagandagépezet fegyverei.
+   </p>
+   <p>
+    Felszólított, álljunk ki ne csak önmagunkért, hanem egymásért is valamint arra buzdított, hogy jöjjenek el minél többen vasárnap 13 órára a nyugatihoz, hogy 14 órára a Kossuth térre vonuljanak.
+   </p>
+   <p>
+    A sajtótájékoztatóról készült felvételünket itt tudjátok visszanézni.
+   </p>
+   <p>
+    Korábbi hírek betöltése
+   </p>
+  </body>
+ </text>
+</TEI>

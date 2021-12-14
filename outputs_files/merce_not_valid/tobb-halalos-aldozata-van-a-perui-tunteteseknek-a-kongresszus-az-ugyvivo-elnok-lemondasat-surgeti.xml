@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Több halálos áldozata van a perui tüntetéseknek, a kongresszus az ügyvivő elnök lemondását sürgeti
+    </title>
+    <author>
+     <persName>
+      Kovács Blanka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1e7f0e36-6adf-5630-9810-d4feb48eab59
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Több halálos áldozata van a perui tüntetéseknek, a kongresszus az ügyvivő elnök lemondását sürgeti
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kovács Blanka
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-11-15T18:16:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/11/15/tobb-halalos-aldozata-van-a-perui-tunteteseknek-a-kongresszus-az-ugyvivo-elnok-lemondasat-surgeti/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/11/15/tobb-halalos-aldozata-van-a-perui-tunteteseknek-a-kongresszus-az-ugyvivo-elnok-lemondasat-surgeti/
+     </sch:url>
+     <sch:name>
+      Több halálos áldozata van a perui tüntetéseknek, a kongresszus az ügyvivő elnök lemondását sürgeti
+     </sch:name>
+     <sch:datePublished>
+      2020-11-15T18:16:00
+     </sch:datePublished>
+     <sch:author>
+      Kovács Blanka
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      peru
+     </sch:keywords>
+     <sch:keywords>
+      martín vizcarra
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1e7f0e36-6adf-5630-9810-d4feb48eab59">
+     <sch:identifier>
+      urn:uuid:08a8f062-4a1e-49ed-924c-0ad20ec1fd25
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:22.785971
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:29:55.239953
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1e7f0e36-6adf-5630-9810-d4feb48eab59" when="2021-12-14T15:30:22.785971">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Több halálos áldozata van a perui tüntetéseknek, a kongresszus az ügyvivő elnök lemondását sürgeti
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (21:42):
+    </hi>
+   </p>
+   <p>
+    Vasárnap a halálos áldozatokat is követelő tüntetések után
+    le is mondott
+    hivatalából a perui ügyvezető elnök. Manuel Merino hétfő óta volt hivatalában, tehát egy hetet se tudott eltölteni elnökként. Nyilatkozatában lemondását „visszavonhatatlannak” nevezte, és a „béke és egység” megőrzésére szólított fel.
+   </p>
+   <p>
+    <hi rend="bold">
+     Korábban írtuk:
+    </hi>
+   </p>
+   <p>
+    Közel egy hete zajlanak tüntetések Peruban, miután a parlament alkotmányos vádeljárás keretében, megvesztegetés gyanúja miatt
+    elmozdította
+    Martín Vizcarra elnököt, az államfői feladatokat pedig 2021 júliusáig Manuel Merino parlamenti házelnök vette át. Az emberek szerint azonban puccs történt, és Merino távozását követelik, a közösségi médiában többen diktátornak nevezték őt.
+   </p>
+   <p>
+    A
+    Guardian
+    beszámolója szerint a fővárosban, Limában több tízezres tömeg tüntet, de más településeken is sokan vonultak utcára. Az országban a brit hírportál szerint több mint egy évtizede nem volt ekkora megmozdulás.
+   </p>
+   <p>
+    People are being greatly injured in the protests against the dictatorship of current president Merino RIGHT NOW on Perú. Police brutality has been enforced. Please share so we can get international awareness of the situation.
+    #MerinoDictador
+    #MerinoNoEresMiPresidente
+    pic.twitter.com/KCD1Fu9FUl
+   </p>
+   <p>
+    — Chip 🇵🇪 (@NachoChipps)
+    November 15, 2020
+   </p>
+   <p>
+    A tüntetések egészen 1-2 nappal ezelőttig békésen zajlottak, azonban szombaton átfordult a helyzet, a helyszínen lévő tudósítók és demonstrálók már tankokról, több száz rohamrendőrről és könnygázban úszó utcákról számoltak be. A
+    24.hu
+    azt írja, egy csoport kövekkel és tűzijátékokkal támadt a rendőrökre, akik erre könnygázzal és gumilövedékekkel válaszoltak.
+   </p>
+   <p>
+    A rendőrség szombaton legalább 30 embert vett őrizetbe, és szintén 30 körül van azoknak a száma, akiket kórházban ápolnak a tüntetéseken szerzett sérüléseik miatt – jelentette az ország egészségügyi minisztériuma.
+   </p>
+   <p rend="head">
+    Sajtóértesülések szerint egy 24 és egy 25 éves férfi életét vesztette a tüntetésen, mindkettőjüket rendőrök lőhették le – bár egyelőre csak egyikük esetében erősítette meg a kórház, hogy rendőrségi fegyver lövedéke találta el.
+   </p>
+   <p>
+    A
+    Deutsche Welle
+    hírportál eközben már három halottról ír, de azt nem közölték, pontosan milyen forrásokra hivatkozva.
+   </p>
+   <p>
+    When there were protests in USA the world supported them now I am asking the world to support Peru in our crisis
+    pic.twitter.com/x8VvVSE25q
+   </p>
+   <p>
+    — ari•×͜×🇵🇪 𐂂ⁿᵒ ᵗˡᵉⁿᵉ ᵖʳᵉˢˡᵈᵉⁿᵗᵉ (@ari_vol_6)
+    November 13, 2020
+   </p>
+   <p>
+    Peru emberi jogi ombudsmanja, Walter Gutiérrez úgy fogalmazott, irracionális mértékben vetettek be erőket a tüntetőkkel szemben, ezért követeli, hogy az elnöki posztot jelenleg betöltő Merino álljon ki a tömeg elé és magyarázza meg, mi is történt valójában.
+   </p>
+   <p rend="head">
+    A kongresszus jelenlegi házelnöke, Luis Valdéz ottani idő szerint vasárnap reggelre (helyi idő szerint vasárnap délutánra) többpárti találkozót szervezett, hogy megvitassák Merino esetleges lemondását, Valdéz szerint ugyanis azonnal mennie kellene az ügyvivő államfőnek.
+   </p>
+   <p>
+    Peruban 2021 áprilisában lesz elnökválasztás, a legesélyesebb jelölt George Forsyth egykori labdarúgó és polgármester. Forsyth szintén támogatja, hogy Merino azonnal mondjon le, a kongresszus pedig válasszon új elnököt a 19 jogalkotó közül, akik az ellen szavaztak, hogy Vizcarrát alkotmányos vádeljárás alá vessék.
+   </p>
+   <p>
+    Martín Vizcarra részvétét fejezte ki a tüntetők halála miatt és civil hősöknek nevezte őket, akik gyakorolták azon jogukat, hogy a demokrácia védelmében és egy jobb ország reményében utcára mentek.
+   </p>
+   <p>
+    „Az ország nem fogja engedni, hogy ezeknek a bátor, fiatal embereknek a halála büntetlenül maradjon” – mondta.
+   </p>
+  </body>
+ </text>
+</TEI>

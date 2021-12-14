@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A katalánok jogai nem áldozhatók fel a rend oltárán
+    </title>
+    <author>
+     <persName>
+      Kapelner Zsolt
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2affdb5a-d7f7-542a-8800-060508bf5f95
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A katalánok jogai nem áldozhatók fel a rend oltárán
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kapelner Zsolt
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-10-02T18:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/10/02/a_katalanok_jogai_nem_aldozhatok_fel_a_rend_oltaran/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/10/02/a_katalanok_jogai_nem_aldozhatok_fel_a_rend_oltaran/
+     </sch:url>
+     <sch:name>
+      A katalánok jogai nem áldozhatók fel a rend oltárán
+     </sch:name>
+     <sch:datePublished>
+      2017-10-02T18:35:00
+     </sch:datePublished>
+     <sch:author>
+      Kapelner Zsolt
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      népszavazás
+     </sch:keywords>
+     <sch:keywords>
+      katalónia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2affdb5a-d7f7-542a-8800-060508bf5f95">
+     <sch:identifier>
+      urn:uuid:54d09b5f-4bb5-4a75-8a1e-b792483ff027
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:08.610338
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:34:42.011390
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2affdb5a-d7f7-542a-8800-060508bf5f95" when="2021-12-14T15:31:08.610338">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A katalánok jogai nem áldozhatók fel a rend oltárán
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Katalóniában vasárnap a spanyol rendőrség rárontott a függetlenségről szavazó állampolgárokra – az eseményeknek több száz sérültje van. A kérdés immár nem az, jogosak-e a katalán igények a függetlenségre – ennél már csak lényegtelenebb, hogy a népszavazás jogszerű-e. A „mindkét oldal hibás” ismerős retorikája, az antinacionalista fanyalgás nem több üres mellébeszélésnél, az állami túlhatalom védhetetlen apológiájánál. A katalán események fényében fel kell tennünk a kérdést: mit vagyunk hajlandóak feláldozni a status quo oltárán?
+   </p>
+   <p>
+    A katalán népszavazás hátteréről, történeti és politikai gyökereiről többen írtak már (lásd az
+    itt megjelent
+    kiváló cikket), mindezt nem szükséges átvennünk. A fontos kérdés most nem az, hogy vajon a katalán nemzetiség képes vagy méltó-e a nemzeti függetlenségre, sem hogy egy nacionalista kisebbségen kívül akar-e egyáltalán bárki függetlenséget. Ami lényeges, hogy a függetlenségi törekvésekre a spanyol állam katalán tisztviselők letartóztatásával, a katalán kormány bankszámláinak einstandolásával, több ezer rendőr bevetésével, végül pedig az állampolgárok elleni nyílt erőszakkal válaszolt.
+   </p>
+   <p>
+    A népszavazás természetesen illegális, ezt az alkotmánybíróság kimondta: a gumilövedékek a joguralom védelmében repülnek a fegyvertelen szavazók felé. Az apologéták szemlesütve állnak, ismételgetve a mantrát: a spanyol alkotmány azért még érvényben van, a törvény az törvény. Még ha valamelyest szimpatizálunk is a függetlenségi törekvésekkel, ennek akkor sem ez a módja. A rendőri eljárás, még ha túlzott is, valamelyest indokolt, hiszen nem hagyhatjuk, hogy az emberek kényükre-kedvükre megszegjék a törvényt.
+   </p>
+   <p>
+    Ebben a gondolatmenetben nem csak az riasztó, hogy a rablógyilkosság szintjére zülleszti katalán emberek tömegeinek elkeseredett lépéseit arra, hogy saját sorsuk felett rendelkezzenek, hogy beleszóljanak abba, miféle politikai intézmények közt akarnak élni, mikor úgy érzik, a fennálló intézmények nem szolgálják többé az érdekeiket – vagyis a demokratikus önrendelkezést.
+   </p>
+   <p rend="head">
+    Mintha az illegalitás ténye gátat vetne az erkölcsi mérlegelésnek, mintha azért, mert jogi fellebbezésnek helye nincs, figyelmen kívül hagyhatnánk a tényt, hogy a népszavazás milyen körülmények között ítéltetett törvénytelennek.
+   </p>
+   <p>
+    A legfélelmetesebb a joguralomra való reflektálatlan hivatkozásban, hogy elmulasztja feltenni a kérdést: miféle jog miféle uralmáról beszélünk. Úgy tesz, mintha a joguralom afféle önmagáért létező természeti törvény volna, amelynek következményeit épp úgy viselnünk kell, mint az esőt és a szelet. Mintha mi lennénk a törvényért és nem a törvény értünk. Csakhogy a törvény és a jog emberi alkotások, melyeket közös életünk igazságos megszervezéséért alkotunk meg, és amelyek, ha ehelyett az igazságtalanság eszközeivé válnak, semmiféle tiszteletet nem érdemelnek tőlünk.
+   </p>
+   <p>
+    Nem kevésbé aggasztók azok a hangok sem, amelyek demagóg nacionalista szólamok által fölkorbácsolt irracionális indulatok vak összecsapását látják az eseményekben, ami felett a „józan megfontoltság” nevében buzgón sajnálkoznak, de amelyben mindkét felet – mint irracionális nacionalistát – egyformán bűnösnek látják. Nekik természetesen igazuk van abban, hogy a katalán nacionalizmus semmivel sem jobb, mint a spanyol nacionalizmus. Alkalmasint abban is igazuk van, hogy a jelen helyzetben a katalán és spanyol nacionalista indulatok szításában egyaránt érdekelt spanyol és katalán politikusok egyformán bűnösek.
+   </p>
+   <p>
+    Ugyanakkor ne feledjük, hogy a „józan megfontoltság” képviselői azokat a hétköznapi katalán embereket nevezik az irracionális demagógia megtévesztett áldozatainak, akik úgy vélik, jelen körülmények között – mikor önkormányzati jogaikat a spanyol kormány alkotmánysértő módon semmibe veszi, kormánytisztviselőket tartóztat le, és az állami rendőrséget mozgósítja ellenük – jogaik nincsenek biztonságban. Azt nevezik nacionalista provokációnak, hogy ezek az emberek – nem utcai zavargásokat rendeznek, nem polgárháborút kezdeményeznek, hanem – elmennek, hogy részt vegyenek egy népszavazáson, hogy nézeteiket demokratikus keretek között juttassák érvényre.
+   </p>
+   <p rend="head">
+    Itt és most több millió európai polgártársunk demokratikus önrendelkezési jogáról van szó, ami akkor is szent és sérthetetlen, ha a véleményükkel, vagy az őket hajtó indokokkal nem értünk egyet. A kérdés nem az: joguk van-e a katalánoknak a függetlenséghez, hanem, hogy joguk van-e a ebben a kérdésben demokratikus úton kinyilvánítani az akaratukat. A válasz pedig: igen. Ennek a népszavazásnak akkor is rendben le kellett volna zajlania a spanyol állam beavatkozása nélkül, ha a katalánok többsége nemmel szavaz, vagy ha a népszavazás érvénytelen lett volna.
+   </p>
+   <p>
+    Igen, meglehet, hogy a katalán függetlenségi törekvésekből manipulatív és nyerészkedő nacionalista politikusok is profitálnak. Meglehet, hogy jobb sorsra érdemes emberek látják kárát. Ez azonban semmit nem mond el arról, hogy azoknak a katalán embereknek, akiknek itt és most a spanyol állam lábbal tiporja a jogait, jogukban áll-e békés úton, egy szavazat leadásával kinyilvánítani, hogy miféle országban akarnak érni. Akik most tettüket nacionalista provokációként utasítják el, megtévesztett csőcseléknek látják őket, a legalapvetőbb demokratikus értékek ellen szólalnak fel.
+   </p>
+   <p>
+    Akik a „mindkét oldal hibás”, az „egyik nacionalizmus sem jobb a másiknál”, a „joguralom!” jelszavaival dobálóznak, azt tagadják meg ezektől az emberektől, hogy demokratikus úton kinyilváníthassák az akaratukat – legyen az függetlenség vagy a függetlenség elutasítása. Úgy vélik, elfogadhatatlan megengedni nekik, hogy legalább a hangjukat hallassák – hiszen kérdéses, hogy a népszavazás ennél távolabb mutató következményekkel járna –, hogy megjelenjenek a politika színpadán, mint olyan emberek, akiknek joguk van beleszólni a sorsuk alakulásába. De mégis miért tesznek így?
+   </p>
+   <p>
+    Nem másért, mint a mindenkori „rend” védelmében. E hangadók közül sokan végső soron nem a jog, a józan mérlegelés vagy az internacionalizmus pártfogói, hanem a status quo vallásos hívei, a fennálló rend áldozópapjai. Úgy látják, a katalán helyzet nem elsősorban a demokratikus önrendelkezésről szól, hanem az európai államok egységének megbontásáról, és ezáltal az európai államrendszer felbomlásáról. Ha valamely tagállam egysége meggyengül, ez a rend szenved csorbát, ez a veszteség pedig felmérhetetlen.
+   </p>
+   <p rend="head">
+    De mégis mi ez a rend, amelynek védelmében még a demokratikus önrendelkezés jogát is hajlandóak megtagadni európai polgártársaiktól?
+   </p>
+   <p>
+    Az ő szemükben az egységes és erős európai nemzetállamok baráti szövetségének rendje, amely a keleti elnyomás, a demagógia, az elmaradottság képviselői ellen védi a felvilágosodás értékeit. Ez azonban – ők is tudják – csupán látszat, törékeny felszín, mely alatt végletekig kiélezett társadalmi feszültségek lapulnak. Ezek felszínre jutása azonban ellenségeink – mindenekelőtt Oroszország – malmára hajtja a vizet, ez a fenyegetés pedig jóval nagyobb, semhogy a rend megbomlását kockáztathatnánk.
+   </p>
+   <p>
+    Nem véletlen, hogy ebben a kritikus helyzetben az Európai Bizottságnak
+    első dolga
+    , hogy mindenkit biztosítson a népszavazás illegalitásáról, illetve arról, hogy a független Katalónia nem lenne tagja az Európai Uniónak. Mindennél beszédesebb, hogy a Bizottság szerint a jelen helyzetben egységre és stabilitásra van szükség – ezek volnának az új európai értékek a szabadság és egyenlőség helyett?
+   </p>
+   <p>
+    Persze az EB, Guy Verhofstadt és más tisztviselők felhívása az erőszak beszüntetésére dicséretes, de aligha lehetnek kétségeink afelől, hogy e pacifizmus mindenekelőtt a rend visszaállítása iránti vágyból táplálkozik – ha a spanyol kormány beszünteti a nyílt erőszakot, de továbbra is megakadályozza, hogy a katalánok demokratikus önrendelkezést gyakoroljanak, az EU-nak ezzel a maga részéről semmi problémája.
+   </p>
+   <p rend="head">
+    Nekünk azonban ki kell mondanunk: a rend, az egység és a stabilitás nem épülhet elnyomásra és kizsákmányolásra, nem állhat európai polgárok demokratikus vagy akár szociális jogainak nyílt megsértésére.
+   </p>
+   <p>
+    Ki kell mondanunk, hogy nem félünk e rend felbomlásától, ha ez szükséges ahhoz, hogy igazságosabb társadalmakban és egy igazságosabb Európában éljünk, mert csak egy új, igazságos rend méltó arra, hogy kiálljunk mellette és megvédjük az ellenségeivel szemben.
+   </p>
+   <p>
+    Mi következik tehát most Katalónia számára? A népszavazáson a katalánok körülbelül 40 százaléka jelent meg – több mint 2 millió ember –, kiemelkedő többségük a függetlenség mellett szavazott. Ez alighanem nem szolgáltat kellően erős indokot arra, hogy Katalónia egyoldalúan kinyilvánítsa a függetlenségét. Arra azonban rámutat, hogy Spanyolország több millió polgára úgy véli, a jelenlegi államban jogai nincsenek biztonságban, érdekei nem érvényesülnek; e meggyőződésük pedig olyan erős, hogy akár a rendőri megtorlást is vállalták a kinyilvánításáért.
+   </p>
+   <p>
+    Ez mindenképpen arra kell, hogy kényszerítse a spanyol államot, hogy kezdeményezzen tárgyalásokat Katalóniával arról, miként enyhíthetnék azokat a társadalmi feszültségeket, amelyek e helyzet kialakulásához vezettek. Ennek azonban előfeltétele, hogy a jelenlegi súlyos jogsértéseket elkövető kormány távozzon – az európai közösség egyik legnagyobb erkölcsi bukása lesz, ha tagjai közt megtűr egy olyan állami vezetőt, aki rohamrendőröket küld fegyvertelen, védtelen állampolgárai ellen.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

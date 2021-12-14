@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Hogy áttörjünk egy gátat, először egyetlen helyen kell lyukat ütnünk, nem pedig megrohamoznunk az egész építményt”
+    </title>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     493e5a87-7bc8-526b-bf72-cd68c82ab250
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Hogy áttörjünk egy gátat, először egyetlen helyen kell lyukat ütnünk, nem pedig megrohamoznunk az egész építményt”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-10-03T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/10/03/hogy-attorjunk-egy-gatat-eloszor-egyetlen-helyen-kell-lyukat-utnunk-nem-pedig-megrohamoznunk-az-egesz-epitmenyt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/10/03/hogy-attorjunk-egy-gatat-eloszor-egyetlen-helyen-kell-lyukat-utnunk-nem-pedig-megrohamoznunk-az-egesz-epitmenyt/
+     </sch:url>
+     <sch:name>
+      „Hogy áttörjünk egy gátat, először egyetlen helyen kell lyukat ütnünk, nem pedig megrohamoznunk az egész építményt”
+     </sch:name>
+     <sch:datePublished>
+      2021-10-03T07:30:00
+     </sch:datePublished>
+     <sch:alternateName>
+      Utánajártunk a belga radikális baloldal sikerének
+     </sch:alternateName>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      antikapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      Belgium
+     </sch:keywords>
+     <sch:keywords>
+      Belga Munkáspárt
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="493e5a87-7bc8-526b-bf72-cd68c82ab250">
+     <sch:identifier>
+      urn:uuid:f9581a37-1024-4adb-89c0-7032639447ef
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:55.251258
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:57:22.637755
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="493e5a87-7bc8-526b-bf72-cd68c82ab250" when="2021-12-14T15:30:55.251258">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Hogy áttörjünk egy gátat, először egyetlen helyen kell lyukat ütnünk, nem pedig megrohamoznunk az egész építményt”
+   </head>
+   <head type="subtitle">
+    Utánajártunk a belga radikális baloldal sikerének
+   </head>
+   <p>
+    Jellemző, hogy a rendszerkritikus baloldalnak az egész világon komoly nehézséget okoz az üzenetük célba juttatása. Ennek egyik oka, hogy a politikai közbeszéd a társadalmat érintő legsúlyosabb globális problémák helyett gyakran mesterségesen kreált vagy kisebb súlyú törésvonalak mentén szerveződik. Ezek pedig a fennálló gazdasági-társadalmi rend alapjait érintetlenül hagyják.
+   </p>
+   <p>
+    Azonban nincsen kőbe vésve, hogy a rendszerkritikus baloldal ne lenne képes tematizálni a közbeszédet és reagálásra kényszeríteni a hagyományos pártokat. A Belga Munkáspárt (
+    <hi>
+     Parti du Travail de Belgique
+    </hi>
+    /
+    <hi>
+     Partij van de Arbeid van België
+    </hi>
+    – PTB/PVDA) sikere megmutatja, hogy még a hálátlan körülmények között is lehetséges olyan kapitalizmuskritikus politikát képviselni, amellyel választók valódi tömege szólítható meg.
+   </p>
+   <p rend="head">
+    Kormányok országa
+   </p>
+   <p>
+    A nagysága és a relatíve rövid történelme ellenére Belgiumban regionális, nyelvi, kulturális és gazdasági különbségek egész sora teszi nehézzé a hatékony kormányzást. A nyugat-európai országban a lakosság flamand/holland, francia és német anyanyelvűekből tevődik össze, és mivel a különböző nyelveket beszélő egymástól elszeparáltan, különálló, gyakran más történelmi fejlődésen végmenent régiókban élnek, így az
+    államstruktúrának
+    figyelembe kell vennie ezeket az eltéréseket.
+   </p>
+   <p>
+    Ennek következtében Belgiumban a szövetségi kormányon kívül a három régiónak (Flandria, Vallónia, Brüsszel) is van saját kormánya és törvényhozása akárcsak a három nyelvi közösségeknek (flamand, francia és német). A különböző kormányoknak eltérő feladatköreik vannak és gyakran előfordul, hogy egy általánosabb terület egyes részfeladatairól eltérő kormányzatok döntenek.
+   </p>
+   <p rend="head">
+    A koronavírus-járvány kezdete óta sok kritika érte a belga válaszreakciót, melynek lassúsága nem független attól, hogy
+    9 miniszter felelős az egészségügyért
+    .
+   </p>
+   <p>
+    A komplikált államberendezkedéshez bonyolult választási rendszer társul. A 150 fős Képviselőházban 89 holland ajkú és 61 frankofón képviselő ül (ez a két csoport lakosságbeli arányát tükrözi, hiszen Belgiumban az emberek közel 60 százalékának a holland az anyanyelve). Ez a felosztás már eleve kizárja, hogy tisztán frankofón többségű kormány alakuljon de csak flandriai pártok sem vezethetik az országot, mivel bevett szokás, hogy a kormánynak mindkét nyelvi közösségben rendelkeznie kell a képviselői helyek többségével.
+   </p>
+   <p>
+    A helyzetet tovább bonyolítja, hogy a hetvenes évek végén a korábbi nagy pártokat
+    felosztották nyelvi alapon
+    , és ezek a formációk csak a saját régiójukban indulnak a választásokon.
+   </p>
+   <p>
+    A belga festő Eugène Laermans Un soir de grève című festménye az 1893-as általános sztrájkot ábrázolja. (Forrás:
+    Wikipédia
+    )
+   </p>
+   <p rend="head">
+    Politikai alkuk
+   </p>
+   <p>
+    Ráadásul hiába számítanak egymás szövetségeseinek országos szinten, ezek a pártok különálló entitásként működnek, vagyis gyakran előfordul, hogy
+    nem egyezik az álláspontjuk
+    meghatározó kérdésekben.
+   </p>
+   <p>
+    Ez a rendszer jelentősen megnehezíti a kormányalakítást szövetségi szinten. A
+    legutóbbi választásra
+    2019. május 26-án került sor (az európai parlamenti választásokkal egy időben), ám kormányt csak
+    2020 októberének elején
+    sikerült alakítani.
+   </p>
+   <p>
+    Ráadásul a hosszú kormányalakítási tárgyalások végén gyakran a politikai alkuk, semmint a széleskörű állampolgári felhatalmazás döntenek arról, hogy ki legyen az ország miniszterelnöke. Ez történt a mostani  kormányfő, az Orbán Viktor egyik legkeményebb nemzetközi kritikusának, Guy Verhofstadtnak a pártájban, az Open VLD-ben politizáló Alexander De Croo esetében is.
+   </p>
+   <p>
+    A flamand liberális politikus annak ellenére került a jobbközép-liberális-szocialista-zöld kormánykoalíció (amelyre a belga sajtóban gyakran Négy évszak/ Vivaldi-kormányként hivatkoznak) élére, hogy pártjára országosan
+    alig 570 ezer szavazatot kapott
+    , ami Flandriában is csak a negyedik helyre volt elegendő. Azonban – ahogy azt a frankofón szocialisták elnöke, Paul Magnette is elmondta – a koalíciós tárgyalásokon elsődleges szempontot élvezett, hogy a kormányfő személye
+    flamand legyen
+    (mivel a két korábbi miniszterelnök frankofón volt), így számottevő támogatottság nélkül is miniszterelnök lehetett De Croo-ból.
+   </p>
+   <p rend="head">
+    Egy ilyen politikai környezetben kevés szó esik az országot érintő legfontosabb társadalmi problémákról, amelyek ráadásul szinte kizárólag a vallon-flamand nyelvi-kulturális szembenállás vonatkozásában jelennek meg.
+   </p>
+   <p rend="head">
+    Nem is ugyanaz az ország
+   </p>
+   <p>
+    Az egyik ilyen probléma az  égbekiáltó régiós egyenlőtlenség. A sokáig visszamaradott, ám a hetvenes-nyolcvanas években nagy sebességre kapcsoló tercializálódás (a szolgáltatói szektor gazdasági súlyának növekedése) következtében jelentős gazdasági fejlődésen végbemenő Flandriát és az egykor Európa egyik legfontosabb nehézipari régiójának számító, a hatvanas évek óta azonban hanyatlásnak indult Vallóniát annyira eltérő gazdásági, szociális folyamatok jellemzik, hogy az embernek könnyen lehet az az érzése, hogy a két régió nem is ugyanabban az országban fekszik.
+   </p>
+   <p>
+    Ez kristálytisztán látszik a két régió lakóinak
+    életszínvonalbeli különbségén
+    . A vallóniai GDP/fő ( 30.123 euró)
+    29 százalékkal alacsonyabb
+    a flandriai szintnél (42.195 euró). Ez
+    európa összehasonlításban
+    azt jelenti, hogy míg az ország északi részén a vásárlóerő-paritáson mért, egy főre jutó nemzeti bruttó össztermék a svéd és német szinten áll, addig délen az életszínvonal Csehországgal vagy a Nyugat-Dunántúllal hasonlítható össze.
+   </p>
+   <p>
+    Míg Flandriában a lakosság 10 százaléka tekinthető
+    szegénynek
+    , addig ez az arány a húsz százalékot is meghaladja Vallóniában. Ráadásul a hátrányos helyzetűek az ország déli részén nagy számban tömörülnek olyan városi régiókban, amelyek másfél évszázadig számítottak a bányászat és a nehézipar legfontosabb európai központjainak. Charleroi-ban, Mons-ban vagy éppen Liège-ben a munkanélküliség
+    meghaladja a húsz százalé
+    kot és minden ötödik ember ki van téve a szegénység veszélyének. Emellett fontos hozzátenni, hogy a városi szegények között
+    jelentősen felülreprezentáltak
+    azok az észak-afrikai (elsősorban marokkói) és török bevándorlók és leszármazottaik, akik évtizedekkel ezelőtt ipari munkásként érkeztek Belgiumba.
+   </p>
+   <p>
+    Hajléktalan férfi Brüsszelben. (Forrás:
+    Flickr
+    )
+   </p>
+   <p rend="head">
+    Nem veheted el az egyenlőtlenségünket!
+   </p>
+   <p>
+    A helyzet még drámaibb Brüsszelben, amely egyszerre Európa egyik leggazdagabb és
+    legegyenlőtlenebb városa
+    . A belga főváros bár számos EU-s intézmény és multinacionális cég központja, a lakosság harmada a szegénységi küszöb alatt él, és a munkanélküliség
+    meghaladja a 15 százalék
+    ot. Köszönhetően a város relatíve kis méretének, egymás szomszédságában fér meg az EU-s intézményeknek otthon adó patinens városrész, a Quartier européen és az
+    ország legszegényebb térsége
+    , Brüsszel Saint-Josse-ten-Noode névre hallgató kerülete.
+   </p>
+   <p>
+    Mivel a belga politika elsősorban saját magával van elfoglalva, ezért ezek a társadalmi problémák kiváló táptalajt biztosítanak a szélsőjobbnak, ami ugyan csupán Flandriában van jelen, ám ott hatalmas támogatást tudhat a magáénák. A 2019-es választásokon a két flamand szélsőjobboldali formáció, az NV-A és a Vlaams Belang együttes támogatottsága meghaladta a 44 százalékot, ezzel egyébként országos szinten is ők váltak a két legerősebb párttá.
+   </p>
+   <p>
+    A két párt a bevándorlásellenes, euroszkeptikus nézeteit sikeresen vegyíti szeparatista elképzelésekkel, azzal érvelve, hogy a flamand régió jobban járna, ha kiszakadna Belgiumból és önálló országgá válna, hiszen akkor az adófizetőknek nem kéne jelentős transzfereket biztosítaniuk a sokkal szegényebb Brüsszel és Vallónia számára, valamint legalább részben megszabadulnának a bevándorláshoz köthető negatív társadalmi jelenségektől, amelyek ebben a két régióban koncentrálódnak.
+   </p>
+   <p>
+    Az NV-A és a Vlaams Belang azonban nem nyújtanak valódi megoldásokat azoknak az állampolgárokat, akiket a nyelvi ellentétek és a regionális identitásnál prózaibb problémák aggasztanak, mint például a megélhetés, az egyre megfizethetetlenebbé váló lakhatás vagy a közszolgáltatások romló színvonala. Úgy tűnik azonban, hogy a Belga Munkáspárt (PTB/PVDA) egyre sikeresebben tölti be ezt az űrt.
+   </p>
+   <p rend="head">
+    Szocializmus a dogmákon túl
+   </p>
+   <p>
+    A Belga Munkáspárt
+    már az 1970-es évek óta létezik, ám egészen a 2010-es évekig nem rendelkezett számottevő támogatással. Ez elsősorban annak tudható be, hogy a sokáig marxista-leninista ideológiájú formáció a szovjet irányvonal egyik
+    legdogmatikusabb nyugat-európai védelmezőjének
+    számított, a sztálinista, maoista és a Pol Pot-féle vörös khmer rezsimekről is támogatóan nyilatkozott.
+   </p>
+   <p>
+    A PTB azonban a kétezres évek elejére belátta, hogy az anachronisztikus ideológia és a szektaszerű működésmód a legfőbb gátja annak, hogy a párt valódi politikai hatalomra tegyen szert. Ezért a párt 2008-ban tartott
+    8. Kongresszusán
+    döntés született a korábbi dogmatikus ideológiával való szakításról és egy olyan politikai irányvonal képviseletéről, amelyben a dolgozók mindennapi anyagi nehézségei és a társadalmi egyenlőségek kérdései prioritást élveznek az ideológiai-elméleti vitákhoz képest. Ennek ellenére a PTB továbbra is szocialistaként határozza meg magát, mivel a párt szerint a növekvő egyenlőtlenségek és az abból fakadó társadalmi konfliktusok, a klímaváltozás és a jóléti állam kiüresedése nemcsak szükségessé, de lehetségessé is teszik a szocialista gazdasági-társadalmi berendezkedés megvalósulását.
+   </p>
+   <p>
+    Ezt az új irányvonalat néhány éven belül siker koronázta. A párt a
+    2014-es választásokon
+    2 mandátumot szerezve történelme során először jutott be a szövetségi törvényhozásba, valamint képviselőhelyeket szereztek a brüsszeli és vallon parlamentben is. Ahogy arról annak idején
+    mi is beszámoltunk
+    , a 2018-as önkormányzati és tartományi választások nagy nyertese a zöldpártok mellett a PTB/PVDA volt, amely számos városi és tartományi testületbe delegálhatott képviselőket –a szocialisták legfőbb fellegvárában, a vallon nehézipar hanyatlásának városméretű szimbólumában, Charleroi-ban még a
+    második helyet is megcsípték
+    .
+   </p>
+   <p rend="head">
+    Az igazi áttörést azonban a
+    2019-es választás
+    hozta meg.
+   </p>
+   <p>
+    A Belga Munkáspárt országosan több mint 584 ezer szavazatot kapott  (megelőzve ezzel a jelenlegi kormányfőt adó Open VLD-t), komoly sikereket értek el a régiós parlamenti választásokon, most először európai parlamenti képviselőhelyet is szereztek. A párt a legjobb eredményét Vallóniában szerezte, itt a szavazók 13.8 százaléka választotta a radikális baloldali pártot.
+   </p>
+   <p>
+    Az elmúlt két évben a párt tovább tudta növelni a népszerűségét. A PTB
+    támogatottsága
+    már közel 19 százalék Vallóniában, miközben a térség hagyományos helytartója, a
+    kiterjedt klienshálózattal rendelkező
+    ,
+    korrupciós botrányok
+    egész sorában érintett Parti Socialiste folyamatosan esik vissza.
+   </p>
+   <p>
+    Vallónia mellett Brüsszelben és Flandriában is képes volt  erősödni a párt, szemben a 2019-es választás másik nagy nyertesével, a zöldekkel, akiknek az ország mindhárom régiójában csökkent a támogatottsága a legutóbbi választások óta.
+   </p>
+   <p>
+    Raoul Hedebouw, a Belga Munkáspárt országos szóvivője a Belga Általános Munkaügyi Szövetség nevű szocialista szakszervezet tagjainak gyűrűjében. (Forrás: PVDA)
+   </p>
+   <p rend="head">
+    A siker három pillére
+   </p>
+   <p>
+    A párt elmúlt években tapasztalt felemelkedésével kapcsolatban megkerestük a PTB/PVDA országos szóvivőjét, Raoul Hedebouw-t is. A kérdéseinkre Hedebouw munkatársai válaszoltak, akik szerint a PTB/PVDA sikere alapvetően három pilléren nyugszik.
+   </p>
+   <p>
+    Elsősorban ott van a már említett 2008-as irányváltás, ami lehetővé tette a nyitást a szavazók nagyobb rétege felé. A párt a politikai perifériából való kitörésre a fokozatos, néhány városra fókuszáló építkezés taktikáját választotta, mivel – ahogy ők fogalmaznak – ahhoz, hogy „áttörjünk egy gátat, először egyetlen helyen kell lyukat ütnünk, nem pedig megrohamoznunk az egész építményt”. Ez a gyakorlatban azt jelentette, hogy a Munkáspárt jelentős erőforrásokat összpontosított olyan városokra mint például a flandriai Antwerpen, ahol sokáig megkérdőjelezhetetlen volt a város polgármestere, Bart de Wevernek által vezetett szeparatista, jobboldali párt, az Új Flamand Szövetségnek (
+    <hi rend="italic">
+     Nieuw-Vlaamse Alliantie
+    </hi>
+    -N-VA) dominanciája. Ez a recept bevált:a baloldali párt már a 2012-es önkormányzati választásokon is jó eredményt ért el Flandria legnagyobb városában, támogatottságukat pedig azóta is tovább tudták növelni.
+   </p>
+   <p>
+    A párt sikerének második pillérét a kiterjedt aktivistahálózat jelenti, amely jelen van számos településen valamint az üzemi tanácsokban és szakszervezetekben. Ezen kívül a párt különösen nagy figyelmet fordít arra, hogy a leghátrányosabb helyzetű városrészekben is megjelenjen.
+   </p>
+   <p>
+    A Belga Munkáspárt aktív közösségi médiás jelenléttel is igyekszik a választók minél szélesebb rétegét megszólítani. A párt rendszeresen osztja meg a képviselői nyilvános szerepléseit, parlamenti felszólalásait és legfőbb üzeneteiket
+    Facebookon
+    és
+    Instagramon
+    , valamint ezeken a csatornákon gyakran többi belga párt elképzeléseivel is szembeállítják a saját vízióikat.
+   </p>
+   <p rend="head">
+    Ami leginkább megkülönbözteti a Belga Munkáspártot a többi párttól az az, hogy a PTB az egyetlen politikai formáció, amely az ország minden régiójában jelen van.
+   </p>
+   <p>
+    A PTB/PVDA közös listát állít Flandriában és Vallóniában is, frankofón és holland ajkú képviselőik pedig egy frakcióban ülnek a szövetségi parlamentben. Ez a tény jól illeszkedik a párt erős központi kormányzatot, a régióknak kiadott döntéshozatali jogot újra szövetségi szintre emelő államszervezeti
+    elképzeléseibe
+    , amely szerintük alkalmasabb a Belgium előtt álló kihívásokkal való szembenézésre, mint a jelenlegi, bonyolult és túlbürokratizált szövetségi rendszer.
+   </p>
+   <p>
+    A PTB/PVDA az egyre előretörő nacionalizmussal a munkásmozgalom internacionalizmusát állítja szembe. Ahogy a párt szóvivőjének irodája kérdéseinkre írt válaszában emlékeztet rá, a belga munkásmozgalomban a vallon bányászok, a genti szakszervezeti tagok és a brüsszeli gyári munkások közösen harcoltak a jobb munkakörülményekért és az igazságosabb fizetésekért, nem törődvén a nyelvi-kulturális különbségekkel. A párt szerint ez a társadalmi igazságosságért folytatott küzdelem az, amely az  képes egyesíteni a flamand és vallon közösséget, miközben a szélsőjobb nacionalizmusa csak még inkább megosztja az országot. Az NV-A és a Vlaams Belang által preferált flamand függetlenséget  elsősorban az esetleges elszakadás dolgozókra mért negatív következményei miatt ellenzi a párt, hiszen szerintük egy kisebb Belgiumban vagy egy független Flandriában a mainál is nehezebbé válna a munkavállalók érdekeiért folytatott küzdelem.
+   </p>
+   <p>
+    Annak ellenére, hogy a PTB hisz egy közös belga nemzeti öntudatban, sok tekintetben egyedülálló módon nem tekint kritika nélkül a nyugat-európai ország történelmére. A párt ugyanúgy elhatárolódik a II. Lipót nevével fémjelzett, emberek millióinak halálát követelő belga
+    gyarmatbirodalomtól
+    , mint a a „
+    <hi>
+     Belgique à papa
+    </hi>
+    ” időszakától, amikor a frankofón elit elnyomta az ország hollandul beszélő lakosságát, egyeduralkodóvá téve a francia nyelvet a közigazgatásban, az oktatásban és erőszakosan terjesztette a francia nyelvet Belgiumban (amelynek eredményeképpen az évszázadokig holland többségű Brüsszelt néhány évtized leforgása alatt egy szinte teljes egészében frankofón várossá
+    formálták át
+    ).
+   </p>
+   <p rend="head">
+    A napi problémák kihívásai
+   </p>
+   <p>
+    A Belga Munkáspárt politikai kommunikációjában a kapitalista gazdasági rendszer strukturális kritikája jóval erősebben jelenik meg a baloldal többi pártjánál. Azonban a kapitalizmuskritikus erők esetében mindenhol jelenlévő kihívás a napi politikai működés összeegyeztetése azzal a rendszerkritikus baloldali attitűddel, amely tiszta formában szinte csak az akadémia értekezések, filozófiai munkák világában tud megjelenni.
+   </p>
+   <p>
+    A parlamentáris demokrácia intézményi keretrendszerét elfogadó, elsődleges céljukként a választók megszólítását és hatalmi pozíciók megszerzését kijelölő formációnak ugyanis a politikai közösséget érintő napi problémákról is rendszeresen állást kell foglalnia, és nem elég folyamatosan felhívni a figyelmet arra, hogy a közösséget érintő problémák döntő többsége más módokon és eltérő intenzitással jelenne meg akkor, ha meghaladásra kerülne a kapitalista gazdaság-és társadalomszervezési logika.
+   </p>
+   <p>
+    Ennek a gordiuszi csomónak az átvágása a nyugati világ számos rendszerkritikus pártjának okoz problémát, elég csak a kormányrakerülése után megtorpanó, nagyívű változásokat véghezvinni képtelen spanyol Podemosra, vagy az EU-s pénzügyi körök nyomására a megszorítás-ellenes politikájával szakító görög Szirizára gondolni.
+   </p>
+   <p>
+    E tekintetben a Belga Munkáspárt sem hozott valódi újítást a más országokban működő radikális baloldali pártokhoz képest, a párt elsősorban nagyon konkrét ügyek mentén tematizálja a kapitalista rendszerből fakadó társadalmi igazságtalanságokat. A párt úgy véli, hogy a kapitalizmus strukturális kritikáját olyan, a dolgozók mindennapjait érintő ügyeken keresztül kell megfogalmazni, amelyek rámutatnak a tőkés rendszer alapját képező osztálykonfliktusokra.
+   </p>
+   <p>
+    Az egyik ilyen téma a nyugdíjak ügye: a PTB a 2019-ben több mint
+    százezer támogató aláírást
+    gyűjtött a garantált 1500 eurós minimálnyugdíj bevezetése mellett. A párt kampánya kifejezetten sikeresnek bizonyult, köszönhetően annak, hogy Belgiumban magas azon nyugdíjasok száma, akik anyagi nehézségekkel küszködnek.  A nyugdíjemelési kampányával a PTB reagálásra késztette a nagy pártokat is, a 2020 októberében felálló Vivaldi-kormány programjának része is lett a minimálnyugdíj 1500 euróra
+    emelése
+    – igaz, a kormány tervezete a nyugdíjasok egy szűkebb rétegét érinti, mint a Munkáspárt elképzelése.
+   </p>
+   <p>
+    A párt másik sikeres akciója a március 29-i
+    általános sztrájk
+    támogatása volt. A szakszervezetek felhívására egy napra leállt a gazdaság szinte teljes egésze, mivel a dolgozók így akarták kifejezni tiltakozásukat a fizetésemelések alacsony szintjével kapcsolatban. Belgiumban ugyanis 1996 óta
+    törvényileg szabályozott
+    a fizetések emelkedésének a szintje, annak érdekében, hogy a kisméretű, exportorientált belga gazdaság a növekvő bérek miatt ne szenvedjen hátrányt versenyképességében a legfőbb kereskedelmi partnereihez képest. Az emelés mértékéről a kormány az érdekvédelmi szervezetekkel való konzultáció után hoz döntést, azonban óriási felháborodást keltett, hogy miközben Belgiumban is dolgozók egész tömegének válik egyre nehezebbé a megélhetés, a 2021 és 2022-es évekre meghatározott maximális emelés c
+    supán 0.4 százalék
+    .
+   </p>
+   <p>
+    Raoul Hedebouw, a párt országosan egyik legismertebb tagja egy szocialista képviselővel közösen
+    törvénymódosítást nyújtott be
+    a fizetésemelési korlátozás fakultatívvá tételéről. Emellett a párt kommunikációjában jó érzékkel tapintott rá arra az ellentmondásra, hogy míg a dolgozói bérek csupán korlátozottan növekednek, addig
+    semmiféle hasonló előírás
+    nem vonatkozik a részvényeseknek kifizethető osztalékok mértékére. Emellett sikeresen tudták szembeállítani az emelés alacsony mértékről döntő, alsóhangon havi hatezer eurót kereső politikusokat azokkal a dolgozói rétegekkel, akiknek a fizetésemelésének a havi összege nem több két csésze kávé áránál.
+   </p>
+   <p rend="head">
+    A Munkáspárt emellett a mérsékeltebb baloldali formációknál erősebben tematizálja azt a tényt, hogy a koronavírus-járvány során az oltásokat előállító gyógyszeripari vállalatok, mint a BioNTech vagy a Moderna óriási profitot tesz zsebre a vakcinákból, miközben a legszegényebb országokban tovább tombol a járvány.
+   </p>
+   <p>
+    Ahogy a PTB rámutat, ez leginkább annak köszönhető, hogy az oltások kifejlesztésére hatalmas mértékű állami támogatásokban részesülő gyógyszeripari óriások olyan áron értékesítik a vakcinákat amelyet csak a legvagyonosabb országok engedhetnek meg maguknak. A párt ezért amellett kampányol, hogy a COVID elleni oltások szabadalmi jogai váljanak
+    közvagyonná globális szinten
+    .
+   </p>
+   <p>
+    Raoul Hedebouw a PTB országos szóvivője kezében a párt szeparatizmus-ellenes „We are one” (Egyek vagyunk) kampányának molinójával. (Forrás: Facebook, Raoul Hedebouw)
+   </p>
+   <p rend="head">
+    A tőke dominanciájával szemben a baloldal csak az utca erejére számíthat
+   </p>
+   <p>
+    A fentiekből is látszik, hogy a Parti du travail de Belgique alapvetően nem politikafilozófiai és gazdaságelméleti tézisek, hanem konkrét ügyek felkarolása mentén kívánja megjeleníteni a saját szocialista világnézetét. Miközben a túlzott teóriamentességnek is megvannak a maga buktatói (például hatalmi pozícióba kerülve nehezebbé válhat a párt vágyott céljainak megvalósítása egy átfogó elméleti keretrendszer nélkül), kétségtelen hogy a PTB felívelése sok tekintetben például szolgálhat a magyar és tágabb értelemben az európai rendszerkritikus baloldal számára.
+   </p>
+   <p>
+    A belga párt ugyanis nem fél konfrontatívabb hangnemet megütni a baloldal többi szereplőjének neoliberális elképzeléseivel valamint az olyan, a baloldal nagy részén kritikátlanul támogatandó intézményekkel szemben, mint például az Európai Unió. Emellett a PTB felismerte, hogy a médiapolitizálás ugyan fontos, de nem válthatja ki a mozgalomépítést és az aktív utcai jelenlétet-ez pedig már önmagában olyasvalami, amire számos baloldali egyelőre nem volt képes belátni.
+   </p>
+   <p>
+    A PTB ugyan több akar lenni az olasz
+    Öt Csillag Mozgalomhoz
+    hasonló, hirtelen nagy népszerűségre szert tevő, elképzeléseit megvalósítani azonban képtelen protestpártoknál, ám mereven elutasítja a Belgiumban gyakori érdekkoalícókat. Kérdésünkre a párt megerősítette, hogy a jobboldali pártokkal nem lenne hajlandó közösen kormányozni és a baloldal többi pártjával való együttműködésre is azzal a neoliberális gazdaságpolitikával való szakítást szabja meg, ami a zöldek és a szocialisták kormányon rendszeresen gyakorolnak.
+   </p>
+   <p>
+    A PTB úgy ítéli meg, hogy az az a radikális társadalmi változáshoz, ami nélkül a kapitalista berendezkedés napról napra fenntarthatatlanabbá válik – elsősorban nem a parlamentáris demokrácia intézményein, hanem az alulról jövő kezdeményezésekben, mozgalmi tevékenységeken és aktív társadalmi mobilizáción át vezet az út. A Belga Munkáspárt szerint
+   </p>
+   <p rend="head">
+    nem kell ahhoz forradalmárnak lenni, hogy belássuk, a tőke dominanciájával szemben a baloldal csak az utca erejére számíthat.
+   </p>
+  </body>
+ </text>
+</TEI>

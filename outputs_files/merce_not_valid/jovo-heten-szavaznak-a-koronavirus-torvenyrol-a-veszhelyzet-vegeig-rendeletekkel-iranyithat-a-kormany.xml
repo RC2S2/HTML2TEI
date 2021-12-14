@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jövő héten szavaznak a koronavírus-törvényről, a vészhelyzet végéig rendeletekkel irányíthat a kormány
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     29c6e85a-6e43-5554-9246-685f67076cb7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Jövő héten szavaznak a koronavírus-törvényről, a vészhelyzet végéig rendeletekkel irányíthat a kormány
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-21T09:17:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/21/jovo-heten-szavaznak-a-koronavirus-torvenyrol-a-veszhelyzet-vegeig-rendeletekkel-iranyithat-a-kormany/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/21/jovo-heten-szavaznak-a-koronavirus-torvenyrol-a-veszhelyzet-vegeig-rendeletekkel-iranyithat-a-kormany/
+     </sch:url>
+     <sch:name>
+      Jövő héten szavaznak a koronavírus-törvényről, a vészhelyzet végéig rendeletekkel irányíthat a kormány
+     </sch:name>
+     <sch:datePublished>
+      2020-03-21T09:17:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      parlament
+     </sch:keywords>
+     <sch:keywords>
+      vészhelyzet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="29c6e85a-6e43-5554-9246-685f67076cb7">
+     <sch:identifier>
+      urn:uuid:5ccbe151-8c35-4756-89f6-4ac06f4aadbc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:02.996003
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:05:26.501687
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="29c6e85a-6e43-5554-9246-685f67076cb7" when="2021-12-14T15:31:02.996003">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Jövő héten szavaznak a koronavírus-törvényről, a vészhelyzet végéig rendeletekkel irányíthat a kormány
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Hétfőn szavaznak arról a
+    törvényről
+    amellyel a parlament különleges jogkörökkel ruházza fel a kormányt, és amelyek értelmében hogy
+    a március 11-étől kihirdetett vészhelyzet
+    – amely az Alaptörvény miatt csak 15 napig lenne hatályban – alatti kormányrendeletek hatálya meghosszabbodik.
+   </p>
+   <p>
+    A felhatalmazás megadására és kereteinek meghatározására vonatkozó törvény – amelyet Varga Judit igazságügyi miniszter nyújtott be – főbb rendelkezései az alábbiak:
+   </p>
+   <list>
+    <item>
+     A kormány vészhelyzetben rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
+    </item>
+    <item>
+     A rendkívüli jogrendet a veszélyhelyzet megszűnéséig hosszabbítják meg.
+    </item>
+   </list>
+   <p rend="head">
+    Ennek a pontnak egyébként az a pikantériája, hogy a törvény hatályvesztéséről a veszélyhelyzet megszűnésével a Országgyűlés dönthet majd, de azt, hogy mikor van vége a vészhelyzetnek, a kormány fogja megmondani.
+   </p>
+   <list>
+    <item>
+     A veszélyhelyzet megszűnését követő napig időközi választás nem tűzhető ki, a már kitűzött választások elmaradnak. Valamint országos és helyi népszavazás sem kezdeményezhető ez idő alatt.
+    </item>
+   </list>
+   <p rend="head">
+    A törvény egyúttal a Büntető Törvénykönyvet is kiegészíti „Járványügyi védekezés akadályozása” címszó alatt hozandó szankciókkal:
+   </p>
+   <list>
+    <item>
+     így tehát aki betegség behurcolásának vagy terjedésének megakadályozása végett elrendelt járványügyi intézkedés végrehajtását akadályozza, három évig terjedő szabadságvesztéssel büntetendő. Ha csoportosan követik el öt év, ha halált okoz a cselekmény, 8 is járhat érte.
+    </item>
+    <item>
+     Aki „nagy nyilvánosság előtt a közveszéllyel összefüggésben valótlanságot terjeszt, amely alkalmas az emberek nagyobb csoportjában zavar vagy nyugtalanság keltésére”, vagy „a védekezés eredményességét akadályozza”, az három, illetve öt évig terjedő szabadságvesztéssel büntetendő a törvényjavaslat szerint.
+    </item>
+   </list>
+   <p>
+    A parlament legközelebb hétfőn ül össze, de erről a törvényjavaslatról az országgyűlés csak akkor dönthet, ha eltér a házszabálytól, amihez a parlamenti képviselők négyötödének (159 szavazat) támogatása kell, ezért a tervezetet benyújtó Varga Judit igazságügyi miniszter arra kéri minden parlamenti párt frakcióját, hogy szavazza meg:
+    Ha a kormány megkapja a felhatalmazást, ülésezni azért még fog a parlament a vészhelyzet alatt – amíg a járványügyi helyzet miatt úgy nem dönt, hogy ül össze: a kormány a veszélyhelyzet elhárítása érdekében megtett intézkedésekről ugyanis rendszeresen, az Országgyűlés ülésén ad majd tájékoztatást.
+   </p>
+   <p>
+    A törvényjavaslatról még folynak a hétpárti egyeztetések.
+    A Népszava információi szerint
+    az ellenzék kérésére került bele az előterjesztés szövegébe, hogy
+   </p>
+   <p>
+    „a veszélyhelyzetben a kormányra érvényes rendkívüli felhatalmazást a járványveszély megelőzésére, kezelésére és felszámolására vonatkozóan, a szükséges és arányos mértékben lehet gyakorolni.”
+   </p>
+   <p>
+    Hadházy Ákos független képviselő a a javaslatra reagálva az oldalán azt írta: „
+    <hi rend="italic">
+     Nem vagyok hajlandó teljhatalmat adni egy olyan miniszterelnöknek, aki egy hete még azzal riogatott, hogy nem ad fizetést a tanároknak, ha bezárják az iskolákat.
+    </hi>
+    ”
+    A szintén független Szél Bernadett pedig arról adott ki közleményt, hogy szerinte a kormány lehetőséget kapott a legszükségesebb rendeletek meghozatalára az elmúlt napokban, de a veszélyhelyzeti rendkívüli jogrend meghosszabbítást azonban semmi sem indokolja, ezért ezt a tervezetet ebben a formában nem támogatja.
+   </p>
+   <p>
+    (
+    via 444
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

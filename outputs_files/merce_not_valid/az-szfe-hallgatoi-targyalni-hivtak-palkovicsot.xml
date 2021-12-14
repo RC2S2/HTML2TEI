@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az SZFE hallgatói tárgyalni hívták Palkovicsot
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1c4c272a-9262-5699-9023-7cd45ce3f7ef
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az SZFE hallgatói tárgyalni hívták Palkovicsot
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-11-02T11:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/11/02/az-szfe-hallgatoi-targyalni-hivtak-palkovicsot/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/11/02/az-szfe-hallgatoi-targyalni-hivtak-palkovicsot/
+     </sch:url>
+     <sch:name>
+      Az SZFE hallgatói tárgyalni hívták Palkovicsot
+     </sch:name>
+     <sch:datePublished>
+      2020-11-02T11:51:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      felsőoktatás
+     </sch:keywords>
+     <sch:keywords>
+      szfe
+     </sch:keywords>
+     <sch:keywords>
+      palkovics lászló
+     </sch:keywords>
+     <sch:keywords>
+      itm
+     </sch:keywords>
+     <sch:keywords>
+      kuratórium
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1c4c272a-9262-5699-9023-7cd45ce3f7ef">
+     <sch:identifier>
+      urn:uuid:c277d605-9b0c-4c65-b4d9-63a400fc6a12
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:38.031581
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:31:32.380925
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1c4c272a-9262-5699-9023-7cd45ce3f7ef" when="2021-12-14T15:30:38.031581">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az SZFE hallgatói tárgyalni hívták Palkovicsot
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    November 11-ére tárgyalni hívták az SZFE hallgatói Palkovics László innovációs és technológiai minisztert – jelentették be hétfő délelőtti sajtótájékoztatójukon.
+   </p>
+   <p>
+    A tanulmányi félév a Színház és Filmművészeti Egyetemen (SZFE) szeptember 14-én kezdetét vette, az oktatás pedig azóta is hiánytalanul zajlik, az egyetemi polgárok által illegtimnek tartott kuratóriumnak pedig nincs indoka, sem lehetősége felfüggeszteni a tanítást – utaltak a hallgatók a sajtótájékoztatón arra,
+    hogy Rátóti Zoltán pénteken a kuratórium elnöke nevében levélben közölte
+    , hogy felfüggesztik az oktatást az intézményben többek közt arra hivatkozva, hogy „nem nyomon követhető a valós oktatási tevékenység”, és hogy a hallgatók „isznak és dohányoznak” az egyetemi épületekben.
+   </p>
+   <p>
+    Az oktatói közösség közölte: válaszlevélben kérte Szarka Gábort és Rátóti Zoltán arra kérte, hogy hivatkozzák le azokat a jogszabályokat, amelyek alapján úgy érzik, joguk van az oktatókat munkájukban, a hallgatókat pedig a hallgtói szerződésük teljesítésében meggátolni, de nem kaptak érdemi reakciót.
+   </p>
+   <p>
+    Az oktatás felfüggesztése a hallgatók álláspontja szerint jogilag is értelmetlen: a felsőoktatási tevékenység közfeladat, annak fenntartása pedig össztársadalmi érdek; a nemzeti felsőoktatási törvény pedig az intézmény működését a fenntartartó kötelezettségévé teszi. Az egyetem tevékenységének jogszabály nélküli felfüggesztése így szerintük nem értékelhető másként, mint a működtetési kötelezettség semmibevételeként.
+   </p>
+   <p>
+    Az egyetemi polgárok közölték: kérték az Oktatási Hivatal (OH) Rátóti által hivatkozott végzésének nyilvánossá tételét, melyben az OH a fenntartót – vagyis az alapítványt – állítólag a vis maior helyzet megszüntetésére szólítja fel.
+   </p>
+   <p rend="head">
+    A jogfosztott egyetemi közösség hétfőn azzal felelt: ők szintén üdvözlik a vis maior megszüntetésének gondolatát, ám erre csak az alapítvány alapítói jogainak törvényes gyakorlója, az ITM képes, így az érdemi tárgyalások is csak az ágazatért felelős kormányzati szervvel kezdődhetnek el.
+   </p>
+   <p>
+    Ezért úgy döntöttek, magát Palkovics László minisztert és az általa felállított küldöttséget hívják tárgyalni november 11-ére, vagyis jövő szerdára az SZFE Vas utcai épületébe, az Ódry színpadra.
+   </p>
+   <p>
+    Az egyetemi polgárok felhívták a kuratórium figyelmét, hogy az egyetem mindeddig törvényesen látta el közfeladatiat annak ellenére is, hogy nincs az intézményben jogszerűen kinevezett akadémiai vezető, kiemelve, hogy az időközben a kuratórium által kinevezett két rektorhelyettes minden intézkedését ugyancsak jogszerűtlennek tekintik, ide sorolva az internet lekapcsolását, a termek lezárását, az értelmetlenül hosszú őszi szünet kiírását, a hallgatók és oktatók kitiltatását, és most az oktatás  felfüggesztését.
+   </p>
+   <p>
+    Hamisnak nevezték a kuratórium állítását, miszerint az egyetemen folyó tevékenység nem nyomon követhető és nem ellenőrizhető.
+   </p>
+   <p>
+    „Az egyetem ezen a rendszeren keresztül működtethető addig is, amíg lesz törvényesen kinvezett új akadémiai vezető. Nem igaz Szarka Gábor fenyegetése, hogy az év végén lejár az egyetem akkreditációja, mert az a pandémia miatt csak 2021-ben lesz esedékes” – hangzott el a hétfői eseményen.
+   </p>
+   <p>
+    Az egyetemi polgárok kaptak egy „barátságos meghívást” az általuk illegtimnek tartott kuratóriumtól egy egyeztetésre, amiről a kuratórium már tegnap esti tanácskozásán megállapította, hogy az egyetemi polgárok nem fognak elmenni rá, pedig utóbbiaknak még nem is volt alkalkmuk erről nyilvánosan kommunikálni. A hallgatói és oktatói közösség ugyanakkor a hétfői sajtótájékoztatón hivatalosan is visszautasíotta a meghívást.
+   </p>
+   <p>
+    Hangsúlyozták, az Oktatási Hivatal által állítólag vis maiornak tekintett helyzet nem gátolja az oktatókat az oktatásban.
+   </p>
+   <p>
+    Felhívták a kuratórium, a kormány, az Országgyűlés és a közvélemény figyelmét, hogy a jelenlegi helyzet megelőzhető lett volna,h a nem alkottak volna az Alaptrövénnyel ellentétes törvényeket, és a modellváltást levezeénylő minisztérium és kuratórium egyenrangú félnek tekintette volna az SZFE közösségét, és tiszteletben tartotta volna az egyetemi autonómiát.
+   </p>
+   <p>
+    A hallgatók arról is beszámoltak, hogy a higiéniás, a tűz- és balesetvédelmi szabályok érvényesítésében az illetékes szakemberekkel felelősen együttműködtek, a fertőtlenítőtakarítás mindhárom 
+épületben megtörtént, így
+   </p>
+   <p rend="head">
+    nincs valódi indok a fenntartó részéről az oktatás felfüggesztésére.
+   </p>
+   <p>
+    Az oktatás a szerintük tanév kezdete óta megfelelő ütemben zajlik – ennek ellenőrzésére minden hivatalos információ rendelkezésre áll.
+   </p>
+   <p>
+    Az Oktatási Hivatal ellenőrzési eljárásához szükséges összes adatot, amely igazolja, hogy a Rátóti levelében állítottakkal szemben rendben és biztonságban zajlik ebben a félévben az oktatás, határidőre összeállították, ám az újonnan kinevezett kancellár hetek óta gátolja annak továbbítását.
+   </p>
+   <p>
+    Ezért ezt a dokumentációt ma nyilvánosságra hozzák, és a sajtó jelenlétében át is adták hétfő délelőtt a az Oktatási Hivatal Maros utcai épületében az illetékeseknek, az átadásánál a Mérce is jelen volt:
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés, 11:59:
+    </hi>
+    Mint kiderült nem a Maros utcai OH, hanem a Szalay utcai Emmi-épületben találhatók az illetékesek, így az átadás ott fog megtörténni, illetve ott nyújtanak be az SZFE polgárai betekintési kérelmet abba a végzésbe, amely szerint az OH állítólag elrendelte az oktatás felfüggesztését.
+   </p>
+  </body>
+ </text>
+</TEI>

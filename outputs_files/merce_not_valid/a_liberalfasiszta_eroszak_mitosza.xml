@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A liberálfasiszta erőszak mítosza
+    </title>
+    <author>
+     <persName>
+      Kapelner Zsolt
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     db922179-35ea-5fc7-869d-3df974cd572c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A liberálfasiszta erőszak mítosza
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kapelner Zsolt
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-08-18T19:25:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/08/18/a_liberalfasiszta_eroszak_mitosza/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/08/18/a_liberalfasiszta_eroszak_mitosza/
+     </sch:url>
+     <sch:name>
+      A liberálfasiszta erőszak mítosza
+     </sch:name>
+     <sch:datePublished>
+      2017-08-18T19:25:00
+     </sch:datePublished>
+     <sch:author>
+      Kapelner Zsolt
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      Trump
+     </sch:keywords>
+     <sch:keywords>
+      erőszak
+     </sch:keywords>
+     <sch:keywords>
+      szélsőjobb
+     </sch:keywords>
+     <sch:keywords>
+      terrorizmus
+     </sch:keywords>
+     <sch:keywords>
+      charlottesville
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="db922179-35ea-5fc7-869d-3df974cd572c">
+     <sch:identifier>
+      urn:uuid:a818d0e0-1011-43ad-a75f-5082da143634
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:35.679546
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:31:54.279003
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="db922179-35ea-5fc7-869d-3df974cd572c" when="2021-12-14T15:30:35.679546">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A liberálfasiszta erőszak mítosza
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Az amerikai fajvédők és neonácik charlottesville-i
+    demonstrációja
+    és Heather Heyer halála nyomán a nemzetközi jobboldal Donald Trumptól Németh Szilárdig harsogta a világos és egyértelmű üzenetet: mindkét fél hibás. Az erőszakos – és mint láttuk: gyilkos – szélsőjobboldal (alt right), a faji felsőbbrendűség hívei nem kevésbé, mint az ellenük tüntető, ámde szintúgy erőszakos, provokatív, bujtogató baloldal, mely saját világnézetét akarja erőszakosan a „békés többségre” kényszeríteni. E tekintetben olyanok, akár azok, akik ellen tüntetnek: liberálfasiszták.
+   </p>
+   <p>
+    A demokrácia szétrombolásán fáradozó, rasszista, a világot a nukleáris háború szélére sodró amerikai elnök és a kisgyermekes családokat konténerekben, szögesdrótok közt fogva tartó magyar kormány a józan és megfontolt közép, a békés többség szószólójának szerepében tetszeleg. Bájos.
+   </p>
+   <p>
+    A szélsőjobboldal és a faji felsőbbrendűség hívei persze világszerte cinkos mosollyal engedik el a fülük mellett ezeket az nyilatkozatokat. Tudják, a „mindkét fél hibás” üzenete nem elsősorban nekik és főként nem róluk szól. Számukra mindez nem mond többet, mint amit egyébként is tudnak: nem számíthatnak a hatalom hivatalos elfogadására.
+   </p>
+   <p>
+    A fajgyűlölő Klu Klux Klán egykori birodalmi nagyvarázslója, David Duke
+    Twitteren köszönte meg
+    Donald Trumpnak „a bátorságot, hogy elmondja az igazságot Charlottesville-ről és elítélje a baloldali terroristákat”. Richard Spencer, az amerikai alt right egyik oszlopos tagja pedig azt nyilatkozta, „nagyon büszke” Trumpra kijelentései miatt.
+    <hi>
+     (a szerk.)
+    </hi>
+   </p>
+   <p>
+    Erre azonban nem is tartanak igényt; a Földközi-tengeren vagy a magyar határon migránsokra vadászó szélsőségesektől az amerikai fajvédőkig mind megelégszenek a faji-civilizációs háború névtelen hősének szerepével. A hatalom titkos szövetségeseiként teszik a kötelességüket, amit az immár globálissá váló gyűlöletpropaganda rájuk ró, elismerést csak az utókor fehér és keresztény Európájától, Amerikájától fognak majd kapni.
+   </p>
+   <p rend="head">
+    A „mindkét fél hibás” jelszava elsősorban a baloldalnak szól. Azoknak, akik a gyűlölet ellen, az egyenlőségért, az igazságosságért, az emberi méltóságért állnak ki, véreznek és halnak meg. Nekik üzeni, hogy ha nem tűrik tovább az elpusztításukra felesküdött gyűlöletcsoportok járványos terjedését — amely fölött a regnáló hatalom szemet huny, sőt amit bátorít –, amennyiben saját maguk és szeretteik védelmében felemelik a szavukat, amennyiben készek tettleg is védelmezni egymást és magukat a rájuk zúduló gyűlölettől, úgy nem számíthatnak a hatalom segítségére vagy jóindulatára.
+   </p>
+   <p>
+    Bár a gondolatot, amely egyenlőséget tesz a békés tüntetők és az autóval közéjük hajtó nácik közt, a nemzetközi sajtó és politika is sietve visszataszítónak ítélte – még Theresa May és Jeremy Corbyn is közös nevezőre találtak
+    ebben a kérdésben
+    –, mégis a „mindkét fél hibás” retorikája sajátos módon bizonyos szintű megértésre talált konzervatív és liberális körökben egyaránt. Való igaz, a békés tüntetők és az erőszak elkövetői nem tehetők egyaránt felelőssé. De mi a helyzet azokkal, akik ugyanúgy részt vesznek az erőszakban? Mi a helyzet az antifasisztákkal, a Black Lives Matter aktivistáival, akik maguk is összecsaptak a szélsőjobboldaliakkal? Rájuk talán nem igaz, hogy bizonyos mértékig hibásak?
+   </p>
+   <p>
+    A konzervatív
+    <hi>
+     Federalist
+    </hi>
+    szerzője, D. C. McAllister azt
+    kérdezi
+    , ha a jobboldalnak el kell ítélnie a fajvédőket és az „alt-rightot”, az alternatív jobboldalt, úgy nem járna ki ugyanez a kritika az „erőszakos radikális baloldalnak” is? A
+    <hi>
+     The New York Times
+    </hi>
+    publicistája
+    szerint
+    a tettlegességre vetemedő baloldal és a faji felsőbbrendűséget hirdető „alt-right” ugyanannak az éremnek a két oldala. Itthon Seres László vette
+    védelmébe
+    a gondolatot, hogy bár a neonácik elítélendők, „sara bizony a másik oldalnak is van”.
+   </p>
+   <p>
+    Ezek a véleményformálók azt az igen népes polgári-konzervatív és liberális-centrista tábort erősítik, amely névleg elítéli ugyan a „mindkét fél hibás” demagógiáját, de hidegrázást kap a „
+    baloldali militánsoktól
+    ”. Akik azt hiszik, ha létezik erőszakos és antidemokratikus alternatív jobboldal, akkor kétségtelenül van egy vele párhuzamosan létező, vele összemérhető alternatív baloldal is („alt-left”).
+   </p>
+   <p>
+    Ez persze teljes sületlenség. A baloldalhoz köthető valóban militáns, terrorista csoportok – mint a Vörös Hadsereg Frakció – rég eltűntek már, míg a szélsőjobboldal csak az USA-ban több mint 60 emberrel
+    végzett
+    2001 óta. A ma létező legszélsőségesebb baloldali csoportok száma, szervezettsége és erőszakossága
+    meg sem közelíti
+    a szélsőjobboldalét. Az antifasiszta erőszak és a fekete blokk leginkább ablaküvegek és autók ellen irányul, célja nem emberéletek kioltására, hanem ellenkezőleg, embertársaink védelme egy olyan ideológiával szemben, amely éppen az emberéletek semmibe vételére épül.
+   </p>
+   <p>
+    Mégis, a centristák, a „megfontolt közép” a „minden erőszak egyformán elítélendő” hamis és álszent dogmája mögé bújva az elszabaduló baloldali erőszak rémképével
+    riogatnak
+    . Az ő számukra az állam erőszak monopóliumának megőrzése, a „rend” – bármi is az – fenntartása előbbre való, mint az állampolgárok biztonságának, jogainak, életének a védelme. Azoknak az elnyomottaknak és kiszolgáltatottaknak pedig, akiket a hatalom magára hagyott, akikkel szemben olyan erők gyülekeznek, amelyek nyíltan az elpusztításukra törnek, csendben és tétlen kell tűrniük sorsukat.
+   </p>
+   <p>
+    Ahogy az ellentüntetők egyike, a filozófus és politikai aktivista Cornel West
+    nyilatkozta
+    : „széttapostak volna minket, mint a csótányokat, ha nem lettek volna az anarchisták és az antifasiszták”. Ez azonban olyan áldozat, amit a neonácik által fenyegetett kisebbségeknek tűrniük kell – még a végén kitörne az anarchia.
+   </p>
+   <p>
+    Persze meglehet, hogy a „mindkét fél hibás” elvének ezen apologétáit semmiféle rosszindulat nem vezeti. Talán őszintén nem képesek meglátni a különbséget az emberi életek értékét tagadó fasiszták és az ellenük felkelő antifasiszták közt. Talán valóban nem értik, miért vonulhat utcára valaki, hogy szembeszegüljön ezekkel a gyűlöletcsoportokkal.
+   </p>
+   <p>
+    Seres teljes értetlenséggel állapítja meg, hogy a Black Lives Matter „egész komolyan azt hiszi, hogy az Egyesült Államokban ’rendszerszintű’ az afroamerikaiakkal szembeni fajgyűlölet”. Valóban, hogyan gondolhatja valaki ezt egy olyan országban, ahol a fiatal fekete férfiak
+    9-szer
+    akkora eséllyel halnak meg rendőrök keze által, mint mások,
+    5-ször
+    nagyobb arányban börtönzik be őket, ahol az ország választott vezetője fajgyűlölőkkel cimborál és így tovább?
+   </p>
+   <p>
+    Akik mindezt nem értik, egy olyan álomvilágban élnek, amelyben elképzelhetetlen, hogy a társadalmat mélyreható ellentétek feszítsék, olyan egyenlőtlenségek, amelyek sokak számára életveszélyessé és elviselhetetlenné teszi az életet. Ebben az álomvilágban lehetetlen, hogy a társadalom bizonyos rétegei úgy érezzék, a hatalom és polgártársai magára hagyták, hogy egymaga áll szemben egy olyan társadalmi struktúrával, amely emberi méltósága szétzúzására, anyagi és szellemi eltiprására és kizsákmányolására, vagy akár az elpusztítására tör.
+   </p>
+   <p rend="head">
+    Számukra a társadalomban már nem létezhetnek számottevő ellentétek, mély, rendszerszintű igazságtalanságok – ahonnan ők állnak, úgy tűnik, a társadalom tagjai egyenlő esélyekkel, egyenrangúként vesznek részt az együttélésben. Így akik a fennálló rend radikális megváltoztatását követelik, ostobák vagy bolondok, akik pedig úgy érzik, tettleg kell megvédeniük magukat és azokat az elnyomottakat, akikkel szolidaritást vállalnak a gyűlölettel és az ellenséges hatalommal szemben, épp úgy tévképzetek áldozatai, mint a fehér felsőbbrendűség mítoszának hívei: liberálfasiszták.
+   </p>
+   <p>
+    Meglehet, mindezt őszintén gondolják. Tévedésük azonban nem csupán intellektuális hiba, nemcsak a társadalmi valóság súlyos félreértése. Naivitásukban a hatalom bűntársai lesznek, amely meg akarja fosztani az elnyomottakat, a szenvedőket, az ellenállókat minden lehetőségtől, hogy kiálljanak magukért és a hatalmat elszámoltathatóvá tegyék, a társadalmat pedig igazságossá. Ők mégis jobban félnek attól, hogy habókos világmegváltók pártjára állnak, mint attól, hogy az elnyomás győzedelmeskedik; az ellenállókat türelemre és megfontoltságra intik, nem hatja meg őket „
+    a
+    <hi>
+     most
+    </hi>
+    rettenetes sürgőssége
+    ”. A józan mértékletesség nevében elárulják az emberséget.
+   </p>
+   <p>
+    A hatalom soha nem a náciktól félt igazán, a hatalmat valójában nem a faj és a vér ideológiája veszélyezteti, hisz ez nem akar mást, mint még több
+    <hi>
+     rendet
+    </hi>
+    , még több
+    <hi>
+     hierarchiát
+    </hi>
+    , még nagyobb hatalmat még kevesebbeknek, még több elnyomást, még kevesebb elszámoltathatóságot. Egy ilyen rendben a hatalom birtokosai – tudják – megtalálhatják a számításukat; ha jól helyezkednek, ha a gyűlöletet és az autoritás iránti igényt, a tekintélyi utáni dühödt vágyat a maguk oldalára állítják. Világszerte számtalan példán és a saját magunkén is látjuk, hogy erre készek és képesek.
+   </p>
+   <p>
+    A hatalom számára az igazi veszélyt mindig is azok jelentették, akik szerint „egy másik világ lehetséges” – ahogy a charlottesville-i tüntetők skandálták, miközben
+    elüldözték
+    a pódiumról a szélsőjobboldali demonstráció szervezőjét.
+   </p>
+   <p rend="head">
+    A hatalom soha nem attól félt, hogy az elnyomottak elnyomását egy még a mostaninál is visszataszítóbb ideológia (a nyílt fasizmus) segítségével kell majd igazolnia.
+   </p>
+   <p>
+    A hatalom inkább attól fél, hogy egy másik világ lehetséges; és attól, hogy azok, akik számára ez a másik világ nem puszta vágyálom, hanem létszükséglet rájönnek, hogy képesek megteremteni azt itt és most. Hogy képesek ellenállni a gyűlöletnek, ellenállni a hazugságoknak, képesek a magukénak nyilvánítani egy teret, egy várost, egy országot és azt felszabadítani a gyűlölet, igazságtalanság és kizsákmányolás alól. Mert ha mindez így történik, akkor mindazok, akiknek a hatalma ettől a gyűlölettől és kizsákmányolástól függ – Donald Trumptól Németh Szilárdig – mindent elveszíthetnek.
+   </p>
+   <p>
+    Nem csak azért kell figyelemmel kísérnünk a Charlottesville-ben és másutt zajló hasonló eseményeket, mert a fajgyűlölet és a szélsőjobboldal globális térnyerését szemmel kell tartanunk; nem csak azért, mert a faji felsőbbrendűség eszméjének áldozataival szolidaritást kell vállalnunk. De azért is, mert az a gyűlölet, amely az Egyesült Államokban pusztít és az a hatalom, amely ezt engedi és bátorítja, nem különbözik attól, amely ma Magyarországon ugyanezt teszi.
+   </p>
+   <p>
+    És épp így az a közvélemény, amely elfordul azoktól, akik számára ez a világ többé nem egy élhető hely, akik számára a radikális változás itt és most létszükséglet, ez a közvélemény itthon ugyanúgy cinkosa a zsarnoki hatalomnak, mint az USA-ban. Ahogy ott, itt is kötelessége a társadalomnak az elesettek és elnyomottak pártjára állni ebben a küzdelemben; mert ha körülöttük nem az antifasiszták és az anarchisták állnak sorfalat, hanem az egész társadalom, akkor nem lesz erőszak, sem gyűlölet, és nem marad fenn az igazságtalanság és az elnyomás sem. Ehhez azonban az kell, hogy mind elhiggyük: egy másik világ lehetséges.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

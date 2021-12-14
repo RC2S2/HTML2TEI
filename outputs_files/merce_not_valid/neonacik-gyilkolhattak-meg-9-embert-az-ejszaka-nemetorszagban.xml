@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szélsőjobbos terror Németországban: 10 embert gyilkoltak meg az éjszaka egy hesseni kisvárosban
+    </title>
+    <author>
+     <persName>
+      Papp Gáspár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8ad643e7-b537-549a-84ea-ef01ff6ce21f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szélsőjobbos terror Németországban: 10 embert gyilkoltak meg az éjszaka egy hesseni kisvárosban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Papp Gáspár
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-20T09:05:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/20/neonacik-gyilkolhattak-meg-9-embert-az-ejszaka-nemetorszagban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/20/neonacik-gyilkolhattak-meg-9-embert-az-ejszaka-nemetorszagban/
+     </sch:url>
+     <sch:name>
+      Szélsőjobbos terror Németországban: 10 embert gyilkoltak meg az éjszaka egy hesseni kisvárosban
+     </sch:name>
+     <sch:datePublished>
+      2020-02-20T09:05:00
+     </sch:datePublished>
+     <sch:author>
+      Papp Gáspár
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      szélsőjobboldal
+     </sch:keywords>
+     <sch:keywords>
+      terrorizmus
+     </sch:keywords>
+     <sch:keywords>
+      gyilkosság
+     </sch:keywords>
+     <sch:keywords>
+      neonáci
+     </sch:keywords>
+     <sch:keywords>
+      terror
+     </sch:keywords>
+     <sch:keywords>
+      jobboldali terrorizmus
+     </sch:keywords>
+     <sch:keywords>
+      hanau
+     </sch:keywords>
+     <sch:keywords>
+      Hessen
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8ad643e7-b537-549a-84ea-ef01ff6ce21f">
+     <sch:identifier>
+      urn:uuid:a687767c-42c3-4726-b988-d5dd4a96ba1c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:07.599596
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:02:21.663481
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8ad643e7-b537-549a-84ea-ef01ff6ce21f" when="2021-12-14T15:26:07.599596">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szélsőjobbos terror Németországban: 10 embert gyilkoltak meg az éjszaka egy hesseni kisvárosban
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A németországi Hanau városában kilenc embert lőttek le az éjszaka, a rendőrség még csütörtök hajnalban felkereste a feltételezett elkövető lakását, ahol az ő és édesanyja holttestét is megtalálták. A feltételezett tettes egy 43 éves német állampolgár, aki az interneten összeesküvés-elméleteket terjesztett, egy videóüzenetet és egy beismerő vallomást is hátrahagyott. A hatóságok szélsőjobboldali terrorcselekményként kezelik a támadást.
+   </p>
+   <p>
+    Helyszínelés, neonáci tömeggyilkosság Hanauban (kép. Twitter)
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      Frissítés 15:00
+     </hi>
+    </hi>
+    Az állami vezetők mellett a jobbközép (CDU, CSU, FDP) és liberális, baloldali (Grüne, SPD, Linke) pártok vezetői és a kormánytagok is megszólaltak, és a szélsőjobboldali terror / rasszizmus / gyűlölet elleni fellépés szükségességét hangsúlyozták.
+   </p>
+   <p>
+    A szélsőjobboldali AfD politikusai jellemzően más nyelvet használnak: Jörg Meuthen, EP-képviselő, az AfD szövetségi szóvivője kerülte a politikai kategóriákat, szerinte „egy őrült megtévedt cselekedetéről van szó”. Beatrix von Storch pszichotikus ámokfutásról beszélt, ahogy Björn Höcke türinigia elnök is apolitikus jelenségként adott számot a terrorcselekményről. (
+    SZ
+    )
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      Frissítés 12:50
+     </hi>
+    </hi>
+    A német nyilvánosság nem minden fajsúlyos szereplője vonta le a tanulságokat a 2000-es évek neonáci gyilkosságaiból. A 7 éven át tartó neonáci gyilkosságsorozatot a jobboldali- és bulvársajtó szemérmesen csak „kebab-gyilkosságokként” emlegette. Ez a mintázat ismétlődik most is, az egyik legnagyobb hetilap, a
+    <hi>
+     Focus
+    </hi>
+    a hanaui gyilkosságot már el is keresztelte „vizipipa-gyilkosságnak”, az áldozatok kulturális hátterét kiemelve, a rasszista motívumot elhallgatva.
+   </p>
+   <p>
+    So sieht eine Berichterstattung aus, die NICHTS aus dem
+    #NSU
+    -Komplex gelernt hat. Der Focus wählt zum Anschlag in
+    #Hanau
+    die rassistische Überschrift „Shisha-Morde”.
+    #RechterTerror
+    pic.twitter.com/8yXQ64LNyT
+   </p>
+   <p>
+    — NSU Watch (@nsuwatch)
+    February 20, 2020
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Frissítés 12:30
+     </hi>
+    </hi>
+    Angela Merkel kancellár hallei látogatását szakította meg, hogy a hanaui tömeggyilkosság kapcsán
+    megszólaljon
+    . A kormányfő az áldozatok családja és a hozzátartozók iránti szolidaritásról beszélt, a túlélőknek fizikai és lelki felépülést kívánt.
+   </p>
+   <p>
+    Annegret Kramp Karrenbauer szavait megismételve méregnek nevezte a rasszizmust és a gyűlöletet.
+   </p>
+   <p>
+    „Ez a méreg létezik a társadalmunkban, és túl sok bűn tapad hozzá.”
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      Frissítés 11:41
+     </hi>
+    </hi>
+    Frank-Walter Steinmeier szövetségi elnök is
+    kifejezte részvétét az áldozatoknak és hozzátartozóknak
+    . „A sérülteknek gyors gyógyulást kívánok. Minden ember mellett állok, akiket rasszista gyűlölet fenyeget” – hangsúlyozta az államfő. Steinmeier elmondta, meg van győződve arról, hogy a német emberek többsége elítéli a rasszizmus, a gyűlölet és az erőszak minden formáját.
+   </p>
+   <p>
+    Annegret Kramp-Karrenbauer
+    , a CDU leköszönő elnöke, védelmi miniszter a szélsőjobboldali szándékból elkövetett erőszakkal szembeni összefogásra szólít fel a Twitteren.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Frissítés 10:35
+     </hi>
+    </hi>
+    Szélsőjobboldali politikusok is reagáltak a támadásra,
+    Jörg Meuthen EP-képviselő, az AfD szövetségi szóvivője szerint
+    „akár baloldali, akár jobboldali támadás történt, egy őrült megtévedt cselekedetéről van szó”, és azt nem szabad politikailag felhasználni.
+   </p>
+   <p>
+    Hans Georg Maaßen (CDU), a szövetségi alkotmányvédelmi hivatal
+    volt vezetője szerint
+    pedig mint mindig, most is „jobboldali elkövetőkről” és „baloldali áldozatokról” van szó, ez pedig „szocialista logika”.
+   </p>
+   <p>
+    A hanaui eset kapcsán ugyanakkor a támadó szélsőjobboldali motivációja döntő jelentőségűnek tűnik, ahogy az elmúlt évek számos szélsőjobboldali akciója kapcsán is.
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      Frissítés 10:05
+     </hi>
+    </hi>
+   </p>
+   <p rend="head">
+    Peter Beuth, Hessen tartomány belügyminisztere (CDU) a hesseni tartományi gyűlésben
+    megerősítette
+    , hogy a hatóságok idegenellenes motivációval számolnak. A szövetségi főügyészség terrorista akcióként kezeli a támadást.
+   </p>
+   <p>
+    A hatóságok közlése szerint az elkövetőt sem a szövetségi alkotmányvédelmi hivatal, sem a hesseni rendőrség nem figyelte.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Frissítés 9:54
+     </hi>
+    </hi>
+    A müncheni
+    <hi>
+     Süddeutsche Zeitung
+    </hi>
+    percről percréjében arról ír, hogy a támadó hat nappal ezelőtt egy „minden amerikainak készített személyes üzenetet” töltött fel a Youtube-ra, amely arra utal, hogy az elkövető hajlamos volt összeesküvés-elméletekkel magyarázni a világot. A videóban titkos katonai intézményekről van szó, ahol az „ördögnek áldozva” gyerekeket gyilkolnak. A feltételezett elkövető arra kéri az amerikaiakat, hogy „ébredjenek fel”.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Frissítés 9:38
+     </hi>
+    </hi>
+    A szövetségi kormány szóvivője, Steffen Seibert
+    a Twitteren fejezte ki
+    részvétét az áldozatok és a hozzátartozók felé, Angela Merkel kancellár megszakította halle-i útját, és Hanauba tart. Heiko Maas külügyminiszter (SPD) és Claus Kaminsky polgármester szintén a platformon nyilvánítottak részvétet. A kormány tagjai a támadás motivációira egyelőre nem utaltak.
+   </p>
+   <p>
+    Saskia Esken, a kormányzó SPD társelnöke azonban jobboldali terrornak nevezte az eseményt.
+   </p>
+   <p>
+    Was für eine entsetzliche Tat in
+    #Hanau
+    ! Viel zu lange haben wir uns davor gescheut, es mit klaren Worten zu benennen:
+   </p>
+   <p>
+    Rechter Terror in Deutschland.
+   </p>
+   <p>
+    Wir sind geschockt und wir trauern. All unsere Gedanken sind bei den Opfern, Angehörigen und Freunden.
+   </p>
+   <p>
+    — Saskia Esken (@EskenSaskia)
+    February 20, 2020
+   </p>
+   <p>
+    Hessen tartomány körülbelül 100 ezer lakosú Hanau városában, Frankfurttól 25 km-re szerda éjszaka 9 ember halt meg két támadásban. Az első lövések este 10 óra körül dördültek a belvárosban, egy elsősorban kurdok által látogatott Shisha (vizipipa) bárban, nem sokkal később 2 kilométerrel arrébb, egy lakóövezetben található kávézó-kisboltnál történt újabb támadás.
+   </p>
+   <p>
+    A Süddeutsche Zeitung rajza az eseményekről. 1. Shisha bár a belvárosban, az első gyilkosságok helyszíne, 2. A második gyilkosságsorozat helyszíne, 3. Az elkövető lakása, ahol az elkövető és az édesanyja holttestét megtalálták. (Grafika: SZ)
+   </p>
+   <p>
+    Ezt követően a feltételezett tettes, Tobias R. holttestét is megtalálták lakásában, itt egy további holttestet is találtak, a hírek szerint az elkövető édesanyjáét. A hesseni rendőrség szerint egyelőre semmi nem utal további elkövetőkre. A nyomozást a szövetségi hatóságok vették át.
+   </p>
+   <p>
+    A hesseni rendőrség a dpa hírügynökségen keresztül arról adott hírt, hogy az elkövető lakásán egy beismerő levelet és egy videóüzenetet is találtak. A
+    <hi>
+     Bild
+    </hi>
+    bulvárlap után az
+    <hi>
+     NDR,
+    </hi>
+    a
+    <hi>
+     WDR
+    </hi>
+    tartományi hírszolgáltatások és a
+    <hi>
+     Süddeutsche Zeitung
+    </hi>
+    szerint neonáci támadásról lehet szó: Tobias R. beismerő levelében arról beszél, hogy bizonyos népcsoportokat meg kell semmisíteni, tehát neonáci támadásról lehet szó. A hatóságok ezt nem erősítették meg.
+   </p>
+   <p>
+    2019-ben két neonáci motivációjú gyilkosság rázta meg Németországot, Walter Lübcke, menekültbarátságáról ismert CDU-s szövetségi képviselőt saját lakásában
+    végezték ki júniusban
+    , Halléban egy zsinagógát és egy szomszédos kebabost
+    ért antiszemita és muszlimellenes támadás októberben
+    . Németországban 1989 óta egyes számítások szerint 169, mások szerint 198 embert gyilkoltak meg neonácik.
+   </p>
+   <p>
+    (
+    SZ
+    ,
+    FAZ
+    ,
+    Tagesschau
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szűrő- és bérlakásprogram, zöld Budapest: Karácsony bemutatta programját
+    </title>
+    <author>
+     <persName>
+      Szadai Levente
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c394c2c2-be58-5306-ba3e-03f7a89efddf
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szűrő- és bérlakásprogram, zöld Budapest: Karácsony bemutatta programját
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szadai Levente
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-04-13T14:13:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/04/13/szuro-es-berlakasprogram-zold-budapest-karacsony-bemutatta-programjat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/04/13/szuro-es-berlakasprogram-zold-budapest-karacsony-bemutatta-programjat/
+     </sch:url>
+     <sch:name>
+      Szűrő- és bérlakásprogram, zöld Budapest: Karácsony bemutatta programját
+     </sch:name>
+     <sch:datePublished>
+      2019-04-13T14:13:00
+     </sch:datePublished>
+     <sch:author>
+      Szadai Levente
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      önkormányzati választások 2019
+     </sch:keywords>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      kampány
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzati választás
+     </sch:keywords>
+     <sch:keywords>
+      főpolgármester-jelölt
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c394c2c2-be58-5306-ba3e-03f7a89efddf">
+     <sch:identifier>
+      urn:uuid:2a997d44-b800-4e67-b1d3-c8ee57a06e9c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.573457
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:31:00.901203
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c394c2c2-be58-5306-ba3e-03f7a89efddf" when="2021-12-14T15:31:00.573457">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szűrő- és bérlakásprogram, zöld Budapest: Karácsony bemutatta programját
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Karácsony Gergely egy budapesti szórakozóhelyen vázolta fel elképzeléseit arról a Budapestről, amit ő irányítana a megválasztása esetén. Beszédét azzal kezdte, hogy olyan várost szeretne, amelyben ki van táblázva, hogy fűre lépni szabad – ez ugyanis azt jelentené, hogy Budapest zöld, és Budapest szabad.
+   </p>
+   <p>
+    Karácsony szerint Tarlós nem védte meg a Budapestiek pénzét, a budapesti iskolákat, a kórházakat, a ligetet, a CEU-t, a közösségi közlekedés pozitív fejleményeit, nem védte meg az embereket a légszennyezetségtől. Amit pedig kaptak a budapestiek: többek között szemetet, és patkányokat.
+   </p>
+   <p rend="head">
+    Bejelentette, hogy kezdeményezi a 23 ellenzéki polgármesterjelölttel, hogy alkossák meg Budapest alkotmányát, hogy közös értékeket alapozzanak meg. „Mutassuk meg, hogy Budapest kiáll az értékei mellett” – mondta.
+   </p>
+   <p>
+    Azt is elmondta, hogy kitart az előválasztás mellett, amelyen szeretné, ha Puzsér Róbert is részt venne. Ennek az előválasztásnak szerinte nyíltnak, méltányosnak és tisztességesnek kell lennie, és a legfontosabb, hogy végül egy jelölt maradjon Tarlóssal szemben.
+   </p>
+   <p>
+    Főbb elképzeléseit Budapestről pontokba szedve vázolta fel. Beszélt az egészséges Budapestről: szűrőprogramot kell indítani, el kell érni, hogy 10-15 éven belül senki se haljon meg például rákos megbetegedésben, ami időben diagnosztizálva gyógyítható, erre pedig forrásokat is biztosítana. A zöld Budapestről programpontjáról elmondta, hogy a fák a legfontosabb szövetségeseink, ezért meg kell állítani a fák kivágását. Meg kell védeni a Városligetet, új közparkokat kell létrehozni. Évi nagyjából 15 ezer fa ültetését ígérte, és a közösségi közlekedés reformját.
+   </p>
+   <p>
+    Elmondta azt is, hogy bérlakásprogramot indítana, iskolán kívüli oktatási programokat biztosítana, és azt szeretné, ha Budapest továbbra is a tudás fővárosa lenne: össze kell kötni az itt lévő egyetemeket, kutatóhálózatokat, vállalatokat.
+   </p>
+   <p>
+    Karácsony szerint sok kulturális intézmény szűnt meg az utóbbi időben, ezzel szemben az ő álláspontja az, hogy „virágozzék minden virág”, a sokszínűségben hisz. Beszélt továbbá a turizmus átalakításáról, mert szerinte sokkal több van a városban, mint amennyit ma látnak belőle a turisták. Kiterjesztené a fővárosra a zuglói szociális modellt, és bevezetné az elektronikus jegyrendszert.
+   </p>
+   <p rend="head">
+    Ezek a programpontok abból az ezer milliárd forintból valósulhatnának meg, ami az összértéke azoknak a korábban, vagy a jövőben Budapestre tervezett, Fidesz által elképzelt beruházásoknak, amik nem képviselik a fővárosiak érdekeit.
+   </p>
+   <p>
+    Bejelentette a Mindenki Budapestje (
+    mibu.hu
+    ) portál indulását, ahol mindenki elmondhatja, hogy mire költené az ezer milliárd forintot. Ezt a helyszínen, a portálon és kitelepült pultoknál is meg lehet majd tenni.
+   </p>
+   <p>
+    Az eseményen Karácsony előtt többen is felszólaltak, Horváth Csaba elmondta, ha a pártok összefogtak volna Budapesten, akkor nem lett volna fideszes kétharmad. Szerinte aki különutast játszik a következő időszakban, az egyszerűen Orbán zsoldosa. Kukorelly Endre a politika és a kultúra kapcsolatáról beszélt, és Karácsonyról elmondta, hogy 9 éve ismeri, és korrekt embernek ismerte meg.
+   </p>
+   <p>
+    Misetics Bálint a lakáspolitikáról beszélt, amelynek helyes elvi alapja szerinte a lakhatáshoz való jog. Beszédében többször kiemelte, hogy nem csupán a Fidesz, de például az MSZP is többször keresztbe tett a méltányos lakáspolitikának. Elmondta, hogy a lakásgazdálkodás ugyanolyan biznisz tud lenni, mint a parkolási pénzekkel való visszaélés. Példátlannak nevezte, hogy nem érdekli a politikusokat az, hogy egy év alatt duplájára nőttek a lakbérek a fővárosban. Ámon Ada, az Energiaklub elnöke pedig a klímaváltozás fontosságáról beszélt, és hangsúlyozta, hogy egy 21. századi város klímatudatos és egészséges.
+   </p>
+   <p>
+    Az esemény előtt egyébként a Sétáló Budapest, az LMP és a Jobbik aktivistái is
+    megjelentek
+    , a demonstrálók „Parkolási maffia” feliratú, MSZP- és Fidesz logókkal ellátott transzparensekkel tüntettek a a főpolgármester-választási kampányt felforgató parkolási biznisz ellen.
+   </p>
+  </body>
+ </text>
+</TEI>

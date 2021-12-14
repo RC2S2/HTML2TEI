@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az Államkincstár szerint már ma átutalják a nyugdíjakat, de a postai kifizetések csak hétfőn indulnak (Frissítve)
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     18d42209-df0b-52ba-b9f0-0e34220895c0
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az Államkincstár szerint már ma átutalják a nyugdíjakat, de a postai kifizetések csak hétfőn indulnak (Frissítve)
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-11T10:29:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/01/11/csak-hetfon-erkezhet-meg-az-ehavi-nyugdij/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/01/11/csak-hetfon-erkezhet-meg-az-ehavi-nyugdij/
+     </sch:url>
+     <sch:name>
+      Az Államkincstár szerint már ma átutalják a nyugdíjakat, de a postai kifizetések csak hétfőn indulnak (Frissítve)
+     </sch:name>
+     <sch:datePublished>
+      2019-01-11T10:29:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      nyugdíj
+     </sch:keywords>
+     <sch:keywords>
+      bank
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="18d42209-df0b-52ba-b9f0-0e34220895c0">
+     <sch:identifier>
+      urn:uuid:b3394c88-efcb-45b9-b04c-76e1ca5f3845
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:37.083368
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:21:30.125694
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="18d42209-df0b-52ba-b9f0-0e34220895c0" when="2021-12-14T15:30:37.083368">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az Államkincstár szerint már ma átutalják a nyugdíjakat, de a postai kifizetések csak hétfőn indulnak (Frissítve)
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Több olvasónk, illetve az
+    Index
+    és a
+    444
+    olvasói is jelezték, hogy nem érkezett meg a szokásos időpontban a januári nyugdíj. Eleddig az volt a gyakorlat, hogy minden hónap 12-e reggel már számláikon találhatják pénzüket a nyugdíjasok, ha pedig 12-e hétvégére esik, akkor az azt megelőző péntekig szokták folyósítani az összeget.
+   </p>
+   <p>
+    Tehát ebben a hónapban ma reggel, január 11-én kellett volna ennek bekövetkeznie, ám mégsem történt így. Az Index úgy tudja, az ápolási díjak és rokkantsági járadékok sem érkeztek meg.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 12:25 – Magyar Államkincstár: napközben átutalják a nyugdíjakat
+    </hi>
+   </p>
+   <p>
+    A bankszámlákra érkező nyugdíjakat a nap folyamán megkapják az érintettek – közölte a Magyar Államkincstár pénteken az MTI-vel. Nincs fennakadás a kifizetésben, a jóváírás a bankoknál technikai okok miatt napközben történik meg – tették hozzá.
+   </p>
+   <p>
+    A postai kifizetések 2019. január 14-én indulnak.
+   </p>
+   <p>
+    Kórozs Lajos MSZP-s politikus egy
+    Facebook-videóban
+    azt mondta, tudomása szerint az illetékes szervek új informatikai rendszerre álltak át, ezért csúsznak a kifizetések.
+   </p>
+   <p>
+    Az
+    Azénpénzem.hu
+    arról ír, hogy két nagy banktól, a CIB-től és az OTP-től is tájékoztatást kaptak: csak 14-én fogják kiküldeni a nyugdíjakat, tőlük független okok miatt.
+   </p>
+   <p>
+    „Az OTP Bank tájékoztatja ügyfeleit, hogy a 2019. január 11-én esedékes nyugdíjak átutalása várhatóan csak 2019. január 14-én hétfőn történik majd meg. A nyugdíjak utalása a bank rendszerétől független ok miatt csúszik” – írta az OTP.
+   </p>
+   <p>
+    A CIB Bank azt is elárulta, hogy a mára várt nyugdíjak nem érkeztek meg a Magyar Államkincstártól.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 12:30 – „Úgy látom, telefonálni még van pénze”
+    </hi>
+   </p>
+   <p>
+    Felháborító hozzáállásról számolt be egy olvasó a
+    24.hu-nak
+    . Az államkincstár veszprémi fiókjánál telefonon érdeklődött a nyugdíja folyósításáról, és hangsúlyozta, na szüksége van a pénzre, hogy beszerezhesse gyógyszereit. Az ügyintéző ezt válaszolta neki: „Úgy látom, telefonálni még van pénze.”
+   </p>
+  </body>
+ </text>
+</TEI>

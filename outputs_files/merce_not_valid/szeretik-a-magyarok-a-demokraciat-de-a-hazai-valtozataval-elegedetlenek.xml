@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szeretik a magyarok a demokráciát, de a hazai változatával elégedetlenek
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7ac997b6-47ac-56d1-865b-29eac6dbc24d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szeretik a magyarok a demokráciát, de a hazai változatával elégedetlenek
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-09-20T10:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/09/20/szeretik-a-magyarok-a-demokraciat-de-a-hazai-valtozataval-elegedetlenek/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/09/20/szeretik-a-magyarok-a-demokraciat-de-a-hazai-valtozataval-elegedetlenek/
+     </sch:url>
+     <sch:name>
+      Szeretik a magyarok a demokráciát, de a hazai változatával elégedetlenek
+     </sch:name>
+     <sch:datePublished>
+      2018-09-20T10:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      demokrácia
+     </sch:keywords>
+     <sch:keywords>
+      kutatás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7ac997b6-47ac-56d1-865b-29eac6dbc24d">
+     <sch:identifier>
+      urn:uuid:5cba6772-7cf4-476c-b93b-eebe1e40112a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:35.180433
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:05:53.840973
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7ac997b6-47ac-56d1-865b-29eac6dbc24d" when="2021-12-14T15:30:35.180433">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szeretik a magyarok a demokráciát, de a hazai változatával elégedetlenek
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Demokrácia – egy olyan hívószó, amely Magyarországon és a kelet-közép-európai régióban évtizedek óta a politikai közbeszéd egyik központi kérdése. Milyen minőségű a demokráciánk, mennyire gyökereztek meg a demokratikus értékek? Konszolidálódik a demokratikus berendezkedés vagy épp ellenkezőleg, hibridizálódik különböző autoritárius gyakorlatok hatására? Ez mind olyan kérdések, amelyek 30 éve rendre előbukkannak, a posztszocialista átmenet kezdeteitől az EU-s csatlakozási folyamaton át egészen a múlt héten elfogadott Sargentini-jelentésig.
+   </p>
+   <p>
+    A demokráciánk önvizsgálata, a magasabb autoritásként elfogadott nemzetközi szereplők szemein keresztüli önmagunkra nézés, a demokrácia állapotán történő lamentáció tehát szerves része a magyar politikának már jó ideje.
+   </p>
+   <p>
+    A Policy Solutions intézet és a Friedrich Ebert Alapítvány
+    legújabb kutatása
+    is ezt a kérdést járja körbe alulnézetből, az állampolgárok gondolatainak, attitűdjeinek szondázásával. Az augusztus 10-18. közötti időszakban végzett, 1000 fő megkérdezésével készült reprezentatív közvélemény-kutatás legfontosabb tanulsága, hogy
+   </p>
+   <p rend="head">
+    a demokrácia jelentéséről, minőségének megítéléséről szinte semmilyen konszenzus nincs a magyar társadalomban.
+   </p>
+   <p>
+    De kezdjük egy jó hírrel: a demokrácia mint politikai rendszer többségi támogatásnak örvendhet a magyar társadalmon belül. A felmérés szerint ugyanis a megkérdezettek 56 százaléka gondolja úgy, a demokrácia jobb minden más politikai rendszernél. A másik oldalon csupán 11 százalék jelenti ki kategorikusan, hogy a diktatúra lehet jobb a demokráciánál, 27 százalék pedig nem lát különbséget a különböző politikai rendszerek között.
+   </p>
+   <p>
+    (Forrás: Policy Solutions)
+   </p>
+   <p>
+    A pártpreferencia szerinti leosztás azt mutatja, hogy minden párt szavazótáborában többségben vannak a demokrácia támogatói, egyedül a bizonytalanok körében csökken 49 százalékra azok aránya, akik kívánatosabbnak tartják a demokráciát alternatíváinál.
+   </p>
+   <p>
+    A végzettség szerinti bontásból is egyértelmű tendencia rajzolódik ki: minél magasabb a megkérdezett végzettsége, annál nagyobb a demokráciába vetett bizalma is: a legfeljebb 8 általánost végzettek csupán 44 százaléka tartja azt a legjobb politikai rendszernek, a felsőfokú végzettséggel rendelkezők körében ez az arány 74 százalék. Persze ez nem jelenti azt, hogy a legalacsonyabb végzettségűek nagyobb arányban kedvelnék a diktatúrát, hiszen körükben gondolják legkevesebben (9%), hogy a diktatúra jobb lehet a demokráciánál. Ezt a csoportot inkább a teljes kiábrándultság jellemzi, 43 százalékuk nem lát különbséget a két rendszer között, amit valószínűleg az magyaráz, hogy esetükben minden rendszerben a legkisebb a politikai beleszólás lehetősége.
+   </p>
+   <p rend="head">
+    Persze mindez még édeskeveset jelent, hisz a demokráciának is rengeteg különböző értelmezése van, így az is érdekes kérdés, hogy az egyes válaszadók vajon milyen jelentéseket kapcsolnak a demokrácia fogalmához.
+   </p>
+   <p>
+    A kérdőív lehetőséget adott arra, hogy minden válaszadó három fogalommal vagy kifejezéssel írja le, mit is jelent számára a demokrácia. A legtöbb említést a szabadsághoz és szabadságjogokhoz köthető értékek (szólásszabadság, sajtószabadság, szabad választások, vallásszabadság stb.) kapják, ilyen típusú válaszok adják az összes említés 24 százalékát. 14 százaléknyi említést az egyenlőség, esélyegyenlőség kategóriájába sorolható fogalmak kaptak, a népuralom elvét pedig 9 százaléknyi említést kapott.
+   </p>
+   <p>
+    Ennél sokkal alacsonyabb az olyan kifejezések előfordulása, amelyek a jólét és a szociális biztonság kérdésköreit társítják a demokrácia fogalmával.
+   </p>
+   <p>
+    „[E]lsősorban az emberi jogok első generációjához tartozó politikai szabadságjogokat értik a magyarok a demokrácia alatt, és sokan kapcsolják az egyenlőség és az egyenjogúság fogalmaihoz – a jóléttel és a biztonsággal kapcsolatos asszociációk csak ezek után következnek” – összegzi az eredményeket a Policy Solutions tanulmánya.
+   </p>
+   <p rend="head">
+    Szinte mindent pártszemüvegen át értelmezünk
+   </p>
+   <p>
+    Ha az ideálok szempontjából viszonylag jól állunk is, a létező magyar demokrácia már sokkal rosszabbul vizsgázik az állampolgárok szemében. A megkérdezettek pontosan 50 százaléka elégedetlen a magyar demokrácia működésével, de viszonylag nagy azok aránya is (44%), akik viszont elégedettek.
+   </p>
+   <p>
+    (Forrás: Policy Solutions)
+   </p>
+   <p>
+    A kérdezők által felsorolt különböző ügyekben is hasonló képet látunk: a válaszadóknak 1-től 10-ig tartó skálán kellett értékelniük különböző jogok és értékek teljesülését, a különböző ügyekben 4,4 és 6,9 közötti osztályzásokat kapott a magyar demokrácia. A vallásszabadság érvényesülése (6,9), a nemzeti függetlenség védelme (6,2) és népszavazások (6) kaptak hatosnál nagyobb értékelést.
+   </p>
+   <p rend="head">
+    Leggyengébben a korrupció megfékezése (4,4), a társadalmi egyenlőtlenségek csökkentése (4,5), illetve az ellenzék véleményének figyelembe vétele (4,8) teljesített.
+   </p>
+   <p>
+    Ezeken a pontokon igen látványosan kijön a kormánypártok támogatói és az ellenzéki vagy pártnélküli polgárok közötti éles különbség. Miközben a Fidesz-KDNP szavazóinak 83 százaléka elégedett a magyar demokrácia működésével, minden más kategóriában bő többségben vannak az elégedetlenek. Leginkább elégedetlennek az MSZP és a DK szavazói bizonyultak, a szocialista szavazók 85, a DK-soknak pedig 82 százaléka szerint rosszul működik a demokrácia nálunk. De a bizonytalanok 58 százaléka is velük ért egyet.
+   </p>
+   <p>
+    A demokrácia különböző dimenzióinak osztályozásában is hasonló tendenciákat látunk: Fidesz-szavazók átlagosan kétszer magasabb pontszámot adtak a különböző ügyekre, mint az ellenzéki pártok támogatói. A bizonytalan szavazók is átlagosan 0,8-1 ponttal adtak rosszabb értékelést az átlagnál.
+   </p>
+   <p>
+    A fentieknél sokkal gyakorlatibb eldöntendő kérdések is hasonló képet mutatnak:
+   </p>
+   <list>
+    <item>
+     53 százalék nem ért egyet azzal, hogy Magyarországon sajtószabadság lenne, mert a média szabadon bírálhatja a kormányt;
+    </item>
+    <item>
+     55 százalék szerint nem mindenki férhet hozzá megbízható információkhoz;
+    </item>
+    <item>
+     60 százalék véli úgy, hogy a kormány csak azokkal törődik, akik rá szavaztak;
+    </item>
+    <item>
+     59 százalék úgy látja, a politikusokra nem ugyanazok a törvények vonatkoznak, mint az átlagemberekre;
+    </item>
+    <item>
+     55 százalék szerint a politikában nincs következménye a tetteknek;
+    </item>
+    <item>
+     56 százalék szerint a kormány nem mindig mondja el az embereknek, hogy mit miért tesz.
+    </item>
+   </list>
+   <p>
+    (Forrás: Policy Solutions)
+   </p>
+   <p>
+    Nem csupán arról van szó, hogy ezekben a konkrét gyakorlati kérdésekben a többség szerint a magyar demokrácia nem tesz eleget a kívánalmaknak, de a pártpreferenciák szerinti szakadék szintén tetten érhető a legtöbb kérdés esetében.
+   </p>
+   <p>
+    Van azonban néhány kérdés, amelyben pártszimpátiától függetlenül is viszonylagos konszenzus van. Azt viszont nehéz lenne mondani, hogy ezek túl bizalomgerjesztő egyetértések lennének, amire konszenzusos szabályokra épülő politikai rendszert lehetne építeni.
+   </p>
+   <p>
+    Elsöprő többség (65%) gondolja például: nem létezik olyan, hogy független sajtó. Ezt a pártokon átívelő egyetértést sok tényező magyarázhatja, a sajtóval szembeni általános bizalmatlanságtól egészen a Fidesz igazságot relativizáló káoszmunkájáig.
+   </p>
+   <p>
+    A válaszadók 51 százaléka támogatná a választójog korlátozását és értene egyet a legalább 8 általánost nem végzők szavazati jogának megvonását. A kormánypártiak (60%), a Jobbik-szavazók (56%) és a Momentum-szavazók (54%) közt vannak többségben az iskolázottsági cenzust támogatók, az LMP, a DK és az MSZP támogatói azonban többségükben elutasítják ezt a gondolatot.
+   </p>
+   <p>
+    Szintén pártokon átívelő konszenzus jellemzi a választói korhatár csökkentésének elutasítottságát: az összes megkérdezett 73 százaléka mond nemet erre az ötletre, és az elutasítók minden párt táborában többségben vannak, még az LMP-ében is, pedig a zöldpárt tett már javaslatot a korhatár 16 évre csökkentésére.
+   </p>
+   <p rend="head">
+    A magyarok fele szerint az Orbán-kormány nem váltható le választásokon
+   </p>
+   <p>
+    A kutatás arra is rákérdezett, vajon melyik rendszerváltás utáni kormány idején volt a legjobb állapotban a magyar demokrácia. A válaszadók 31 százaléka valamelyik Fidesz-kormányt, 27 százaléka pedig valamelyik baloldali-liberális kormányt nevezte meg. 17 százalék azok aránya, akik szerint egyik kormány idején sem volt jó a demokrácia állapota.
+   </p>
+   <p>
+    (Forrás: Policy Solutions)
+   </p>
+   <p>
+    Az egyértelmű pártpolitikai dimenzión túl itt az életkor szerinti lebontás mutat egyértelmű tendenciát. Minél fiatalabb valaki, annál nagyobb eséllyel nem tud válaszolni a kérdésre, vagy választja az „egyik kormány alatt sem” opciót. A 18-29-es korosztályban 53 százalék azok aránya, akik nem tudnak vagy nem akarnak nevesíteni egyetlen kormányt sem. Ez összefüggésben lehet azzal is, hogy sokan közülük még túl fiatalok voltak a posztszocializmus éveiben. De a meglévő pártokkal szembeni bizalmatlanság is magyarázó tényező lehet.
+   </p>
+   <p rend="head">
+    A demokrácia jövőjét tekintve is inkább borúlátóbbak a magyarok. 49 százalék szerint ugyanis az Orbán-kormányt nem lehet választások útján leváltani – ennek ellenkezőjét 36 százaléknyian gondolják.
+   </p>
+   <p>
+    Meglepő módon még a Fidesz táborában is hajszálnyian többen vannak (42%) azok, akik szerint választások útján nem leváltható a rendszer – 41 százalék szerint viszont igen. Ugyancsak meglepő, hogy az egyetlen választói kategória, amelyben többen hisznek a demokratikus kormányváltás esélyében, a Demokratikus Koalíció szavazótábora: közülük 47 százaléknyian hisznek ebben a lehetőségben, szemben azzal a 38 százalékkal, akik nem.
+   </p>
+   <p rend="head">
+    Konszenzusok nélkül
+   </p>
+   <p>
+    A kutatásban felvázolt tendencia – vagyis a demokrácia, a demokratikus értékekhez való ragaszkodás együtt jár a létező demokráciával szembeni elégedetlenséggel – hosszú ideje kiolvasható más kutatásokból is. Ennek lehetséges magyarázatáról korábban
+    itt írtunk
+    .
+   </p>
+   <p>
+    Filippov Gábor politológus nemrégiben megjelent
+    diagnózis-esszéje
+    szerint az Orbán-rendszer és a hasonszőrű „versengő autoriter rezsimek” stabilitásának egyik fontos záloga, hogy a polgárok többségében ne alakuljon ki válságtudat, vagyis annak az érzése, hogy a politikai berendezkedés már kívül került a demokratikus kereteken. A fent bemutatott kutatásból jól látszik, hogy a válságtudat Magyarországon erősen függ a pártszimpátiától, és inkább csak az ellenzék választóira jellemző. Bár a magyar demokrácia minőségét a többség nem tartja túl jónak, de ez inkább évtizedek óta megszokott jellemző, mintsem kimondottan a kortárs viszonyainkkal kapcsolatos krízisérzet.
+   </p>
+   <p>
+    A társadalomban nincs konszenzus a legalapvetőbb demokratikus játékszabályok megítélését illetően sem, ami egyrészt megmagyarázza az Orbán-rendszer társadalmi polarizáción alapuló politikájának sikerét is, másrészt pedig igen szomorú jövőképet is fest. Ilyen alapvető konszenzus nélkül ugyanis a demokratikus versengés lehetetlen, a politikai küzdelem pedig ilyenkor nem a vélemények konstruktív ütköztetését, mintsem az ellentábor politikai döntésekből való teljes kizárását jelenti.
+   </p>
+   <p rend="head">
+    Ezen túlmenően fontos azt is megjegyezni, hogy a demokrácia jelentése nem korlátozható csupán azokra a dimenziókra, amelyeket a Policy Solutions kutatása felölel.
+   </p>
+   <p>
+    A munkahelyi demokrácia, a szakszervezetiség, az önkormányzatiság, a sztrájk, illetve az állampolgári önszerveződés más formái mind szerves részeit képezik egy robusztus demokráciának, amely nem csupán jogi, de szociális értelemben is egyenlőként tekint minden polgárára. Ezek a dimenziók tekintetében talán még gyengébben áll a magyar demokrácia, figyelembe vételük mégis fontos, hiszen sokkal alacsonyabb belépési küszöböt jelentenek az állampolgári politikai részvétel számára, mint a nagypolitikai intézmények.
+   </p>
+  </body>
+ </text>
+</TEI>

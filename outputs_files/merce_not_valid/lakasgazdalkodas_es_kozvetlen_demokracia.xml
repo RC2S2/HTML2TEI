@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Lakásgazdálkodás és (közvetlen) demokrácia
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d0e3cf14-e5e1-5f53-b3e4-8e605fad006b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Lakásgazdálkodás és (közvetlen) demokrácia
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-20T23:08:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2020/10/20/lakasgazdalkodas_es_kozvetlen_demokracia/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2020/10/20/lakasgazdalkodas_es_kozvetlen_demokracia/
+     </sch:url>
+     <sch:name>
+      Lakásgazdálkodás és (közvetlen) demokrácia
+     </sch:name>
+     <sch:datePublished>
+      2020-10-20T23:08:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      Pécs
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d0e3cf14-e5e1-5f53-b3e4-8e605fad006b">
+     <sch:identifier>
+      urn:uuid:470af821-98e1-41be-ad5d-eb549a143424
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:56.828615
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:21:05.343561
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d0e3cf14-e5e1-5f53-b3e4-8e605fad006b" when="2021-12-14T15:30:56.828615">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Lakásgazdálkodás és (közvetlen) demokrácia
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+    <hi rend="bold">
+     Szeptember 8-án arról értesültünk, hogy hosszas halasztgatás után nem született döntés egy olyan
+     Lakhatási Kerekasztal létrehozásáról, amely az érintett csoportok és szakmai szereplők széles körének
+     bevonásával, nyílt és transzparens módon dolgozott volna a pécsi lakásgazdálkodás problémáinak
+     kezelésén és a lakhatási válságot enyhítő cselekvési terven. A polgármester kérése az volt, hogy a
+     lakhatási és lakásgazdálkodási koncepció alapjait elsőként a frakciók fektessék le, amely majd a
+     civilekből álló kerekasztal elé kerülhet.
+     Szeptember 21-én több civil szervezet közösen írt
+     nyílt levelet
+     a polgármesternek. Eredménytelenül.
+    </hi>
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Augusztus 5-én minden pécsi önkormányzati képviselőnek levelet írtunk, amelyben így foglaltuk
+    össze a Lakhatási Kerekasztal szerepét és célját:
+    „Javaslatunk alapja, hogy mind a döntéshozó, mind a végrehajtó, mind a szakmai szereplők a
+    döntés előkészítés elsődleges, megkerülhetetlen platformjaként tekintsenek a Kerekasztalra, amelyen
+    megfogalmazódhatnak az új Önkormányzat lakásgazdálkodási és lakáspolitikai elképzelései,
+    kialakulhatnak és egységbe rendeződhetnek a célkitűzések, javaslatok íródhatnak a konkrét, gyakorlati
+    cselekvések ütemére és a feladatba bevonható szereplők körére.”
+    Előterjesztésünk nem volt ismeretlen a városvezetés előtt: már tavaly novemberben javaslatot tettünk
+    a Lakhatási Kerekasztalhoz hasonló munkacsoport felállítására. A koronavírus járvány és a hatására
+    kibontakozó újabb gazdasági válság aktualitást is adott a tervezett együttműködésnek, ám a szociális-
+    szakmai szervezetek bevonására végül csak júliusban született meg az önkormányzat szándéka.
+    Azóta javaslatainkat többször is újra elküldtük a kabinetnek és a képviselőknek, kiegészítve a
+    bevonandók körével és egy napirenddel. A nyilvánosságban és hivatalos egyeztetéseken is
+    folyamatosan hangoztattuk az általunk régóta érzékelt problémákat és megoldási javaslatokat.
+    A Lakhatási Kerekasztalról szóló döntés azonban hosszú idő után csak szeptemberben született meg,
+    miközben a közgyűlésen és a sajtóban is elismerték, hogy a lakhatási válság valóban az egyik
+    legégetőbb problémája Pécsnek. Még inkább megdöbbentő, hogy a döntés alapján a Lakhatási
+    Kerekasztalnak éppen az a célja nem valósul meg, hogy a civilszervezetek a döntéshozókkal és a
+    lakásgazdálkodás szakembereivel közösen dolgozzanak a problémákon.
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Egy kerekasztal lényege, hogy abban egymással teljesen egyenrangú felek ülnek: ezért kerek.
+    Amennyiben a frakciók lefektetik a lakásgazdálkodás alapjait, a civilek pedig kidolgozhatják a
+    részleteket vagy a fennmaradó kérdéseket, amit a frakciók vagy megszavaznak, vagy nem, az nem
+    közös munka. Mi nem veszünk részt olyan egyeztetésben, ahol csak véleményezhetünk, vagy ahol
+    nincs valódi politikai akarat a javaslatok elfogadására.
+    Az elmúlt időszak politikai párbeszéde elsősorban egy átfogó lakáskoncepció megalkotása köré
+    rendeződött. Egy ilyen kezdeményezés elindítása és koordinálása ambíciózus, ám nagy körültekintést
+    igénylő és hosszan elhúzódó folyamatot vetít előre a következő időszakra. Valóban nem elvárható,
+    hogy a várost vezető koalíció pártjai belső megvitatás nélkül alakítsák ki saját irányelveiket az
+    elkövetkező közös munkában történő érdekképviseletre. Érthető, ha a közös munka során elvi egyet
+    nem értések merülnek fel, illetve közelíteni kell az álláspontokat.
+    Nem érthető azonban, hogy egy sürgető szakpolitikai nyomásra előbb keresnek pártpolitikai választ,
+    miközben a gyakorlatban nap mint nap döntések születnek, melyek akár akadályozhatják is egy
+    átgondoltabb cselekvési terv megvalósítását.
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Az AVM által előterjesztett program első pontja a kintlevőségek felülvizsgálatát és kezelését tűzte ki
+    céljául. Ahogy az önkormányzat is ehhez a területhez nyúlt először. A már megvalósuló gyakorlat
+    azonban mutatja, hogy az egyéni elbírálás vállalhatatlan terhet és kihívást jelent a kevés alkalmazottal,
+    iránymutató elképzelések nélkül működő hivatalnak. Ezért a fennálló tartozások számszerűsítése és
+    vizsgálata, az ezekhez tartozó bérleti viszonyok tisztázása mellett a Lakhatási Kerekasztal legelső
+    feladata az lenne, hogy lefektesse az alapokat a problémakezeléshez, kidolgozzon egy útmutató
+    kritériumrendszert a Lakásgazdálkodási Csoport mindennapi munkájához, amely szervezeti egység
+    naponta kerül kapcsolatba a nehéz helyzetbe került önkormányzati bérlőkkel, a város lakosaival.
+    A program napirendje olyan rendszer kidolgozásával folytatódik, amely nem csak a szankcionáló-
+    jutalmazó rendszer zsákutcájából keres kiutat, hanem azonnali, gyakorlati lehetőségeket keres az
+    adósságcsapdába került, a téli időszakra készülő, a karanténidőszakban meggyengült, a megérkező
+    második hullámra már reagálni nem tudó önkormányzati bérlők egyensúlyba hozására, a pécsi
+    lakosok célzott és hatékony megsegítésére.
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Ma egyszerre beszélhetünk lakott, ám lakhatatlan állapotú önkormányzati bérlakásokról; szerződés
+    nélkül piaci lakbért fizető rászoruló családokról; többségében tartozással rendelkező önkormányzati
+    bérlőről; a karantén időszakban fekete munkájukat elvesztő rokkantnyugdíjasokról;
+    lakásszegénységben élőkről, akik nem részesülnek az állami és önkormányzati támogatásokból; a
+    külvárosba szorult, onnan kitörni nem tudó dolgozói szegénységről; egy versenyhelyzetre épülő, mára
+    alig megfizethető magánbérlakás-piacról; közös szobákba szoruló egyetemistákról, a fűtésszezon
+    kényelmetlen közeledéséről és nem utolsó sorban a vírus második hullámáról, amely gyorsabban és
+    agresszívabban terjed és amelynek első hullámakor már keserű tapasztalatokat kaptunk az
+    önkormányzat cselekvőképességéről és együttműködési szándékáról.
+    Tudjuk azt is, hogy a koalíciót tömörítő pártok merőben más álláspontot képviselnek a lakás- és
+    szociálpolitika terén. A polgármesteri választási programnak azonban sok olyan pontja volt, amely azt
+    ígérte, hogy Pécsen elindulhat egy olyan szociálpolitika, amely ellensúlyozni tudja a kormányzat
+    magántulajdonon, családalapításon és állandó jövedelmen alapuló „szociálpolitikáját”.
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Egy civilekből és szociális szereplőkből álló szakértői fórum létrehozása azért is célszerű, mert a
+    felelős döntéshozók a koncepcióalkotás során támaszkodhatnak az ő segítségükre, akár saját
+    dilemmáikat tehetik fel nekik kérdésként. Ennek mellőzése nem sok jót mond el a városvezetés
+    szociális szférához fűződő viszonyáról.
+    A képviseleti demokrácia és így a pécsi önkormányzat is hagyományosan úgy működik, hogy az
+    állampolgárok csak 4-5 évente dönthetnek arról, hogy a felhozatalból kik képviseljék őket, miközben
+    a jó lobbierővel rendelkező csoportok folyamatos hatással vannak a kormányzati vagy önkormányzati
+    politikára. A civil szervezetek azon dolgoznak, hogy azoknak a hangja is hallatszódjon, akiket senki
+    sem képvisel, akik nem elég hangosak ahhoz, hogy leüljenek velük tárgyalni. Aki nem tárgyal
+    lakásügyben a civilekkel, az valójában nem akar a szegényekkel, a rászorulókkal, a bérlőkkel, a pécsi
+    lakosokkal tárgyalni, miközben teljesen evidensnek veszi, hogy az önkormányzat tárgyal az
+    iparkamarával, az üzleti szféra képviselőivel, lakáspiaci szereplőkkel, nagyobb vállalatokkal. Úgy
+    látszik, a városvezetés csak az ő hangjukat akarja meghallani, és csak az ő szakmai javaslataikra
+    kíváncsi.
+    A Lakhatási Kerekasztal felállítása egy elmozdulás lehetett volna a társadalmasítás irányába. Amíg a
+    döntések a háttérben, a frakció- és kabinetüléseken zajlanak, addig mindig a rövidtávú pártérdekek
+    fognak érvényesülni, azaz hogy a következő választáson is meglegyen a megfelelő szavazatszám. Az
+    így született döntések és koncepciók nem túl időtállók, ezt láthattuk az előző ciklusokban is. A
+    döntések nem átlátható egyeztetési folyamatok során születnek meg, amelyeket a társadalom nem tud
+    ellenőrizni.
+    A Lakhatási Kerekasztal felállítása egy lehetőség lett volna arra, hogy egy időtállóbb, a pécsi
+    közösség szélesebb rétegei által elfogadott és legitimnek tartott lakásgazdálkodási koncepció jöjjön
+    létre, amely egy nyílt és transzparens folyamat eredményeként készül el. Egy ilyen folyamat nagyobb
+    lehetőséget ad a társadalmi ellenőrzésre és a folyamatba való bevonódásra. Vagyis demokratikusabb.
+    Úgy tűnik, erre nincs fogadókészsége a jelenlegi városvezetésnek.
+    <hi rend="bold">
+     Miért nem született döntés egy valódi Lakhatási Kerekasztal felállításáról?
+    </hi>
+    Meg kellene haladni azt a rendszert, ahol a választóktól elkülönült politikai pártok hoznak döntéseket
+    az állampolgárok valódi bevonása nélkül, a fejük felett. Mint ahogy választási programjuk is ígérte, a
+    társadalom szélesebb rétegeit bevonva, egy kiterjedtebb helyi demokráciát működtetve lehet
+    nyitottabbá tenni az önkormányzat működését, a döntéseket az érintett közösségekkel, szakmai
+    szervezetekkel, a nagyobb nyilvánossággal egyeztetve előkészíteni, megvitatni, dönteni róla. Ez
+    erősítené a politikai részvételbe vetett hitet, a demokratikus intézményekbe vetett bizalmat, a helyi
+    jogszabályok legitimitását, társadalmi elfogadottságát. Röviden: értelmet nyerne a „demokratikus
+    ellenzék” kifejezésben a demokratikus jelző.
+    Másrészt az is feladata a koalíciónak, hogy megmutasson egy a kormányzó pártétól – vagy az előző
+    városvezetéstől – markánsan eltérő politikai irányultságot. Vagyis megmutassák az ellenzéki pártok,
+    hogy miért szavazzanak inkább rájuk, mint a kormánypártra. A polgármester választási programja
+    ilyen markánsan más elemeket tartalmazott, néhol jobban kifejtve, néhol kevésbé. A lakhatással
+    foglalkozó rész egyáltalán nem tartalmazott földtől elrugaszkodott elképzeléseket, az ott olvashatók
+    sokban a Habitat for Humanity korábbi kutatásain vagy a budapesti AVM egy évtized tapasztalataiból
+    leszűrt és sokat hangoztatott szakpolitikai javaslatain alapultak.
+    A lakhatás rendbetétele közös feladatunk, közösen kell benne munkát is vállalnunk.
+    <hi rend="bold">
+     A Lakhatási Kerekasztal ezt jelentené.
+    </hi>
+    A Város Mindenkié Pécs
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

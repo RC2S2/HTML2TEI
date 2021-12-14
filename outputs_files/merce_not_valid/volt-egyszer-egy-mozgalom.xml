@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Volt egyszer egy mozgalom
+    </title>
+    <author>
+     <persName>
+      Nefelejcs Gergő
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Jason Stanley
+     </persName>
+    </author>
+    <author>
+     <persName>
+      CrimethInc.
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mouvement Communiste
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     396f7239-f0fe-5ec2-b858-475fa18918a2
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Volt egyszer egy mozgalom
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mouvement Communiste
+      </persName>
+     </author>
+     <author>
+      <persName>
+       CrimethInc.
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jason Stanley
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nefelejcs Gergő
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-08-08T11:54:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://tett.merce.hu/2018/08/08/volt-egyszer-egy-mozgalom/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://tett.merce.hu/2018/08/08/volt-egyszer-egy-mozgalom/
+     </sch:url>
+     <sch:name>
+      Volt egyszer egy mozgalom
+     </sch:name>
+     <sch:datePublished>
+      2018-08-08T11:54:00
+     </sch:datePublished>
+     <sch:author>
+      Nefelejcs Gergő
+     </sch:author>
+     <sch:author>
+      Jason Stanley
+     </sch:author>
+     <sch:author>
+      CrimethInc.
+     </sch:author>
+     <sch:author>
+      Mouvement Communiste
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="396f7239-f0fe-5ec2-b858-475fa18918a2">
+     <sch:identifier>
+      urn:uuid:de5b2281-693a-46a5-a08f-dd660720cab6
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:02.070795
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:03:29.929372
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="396f7239-f0fe-5ec2-b858-475fa18918a2" when="2021-12-14T15:31:02.070795">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Volt egyszer egy mozgalom
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    2007 elején járunk. Készültünk az érettségire, lekötöttek minket a ballagási év napi gondjai. Gyurcsány volt még hatalmon, az utánunk jövő évfolyam fiú tagjai jórészt egységesen váltottak skinhead-divatra. A gazdasági válság még a kanyarban sem volt, Budapesten turista alig járt, amelyik igen, az a váci utcai lehúzóban forgolódott, éjszaka enni csak pár helyen lehetett gyrost, befértünk még a Szimpla Kertbe és nyitva volt a Tűzraktár/Tér.
+   </p>
+   <p>
+    Egy osztálytársam a szünetben nyomott a kezembe egy szórólapot. Egy időpont és egy gyülekezési helyszín állt csak rajta, miszerint
+    közterületi zászlósháború
+    lesz, és egy szervezet neve:
+   </p>
+   <p>
+    NEGYEDIK KÖZTÁRSASÁG.
+   </p>
+   <p>
+    Két dolgot nem sejtettem még akkor, amikor először megadtam magam ennek a felhívásának.
+   </p>
+   <p>
+    – Hogy kevesebb, mint egy éven belül részt veszek egy olyan akcióban, ami az Aréna plázát a nyitóünnepén bezárásra kényszeríti, tiltakozásul a köztereink privatizálása ellen; 
+– Meg hogy tíz évvel később, amikor a magyar baloldal a saját világáról beszél, akkor a korai 4K! mindig kiradírozódik a kollektív emlékezetből.
+   </p>
+   <p>
+    Én üdvösnek tartom, hogy betekintést engedünk a
+    nyugati újbalos mozgalmakba
+    , vagy hogy nyilvánosan vitázunk arról, hogy van-e esélye a
+    baloldali populizmusnak Magyarországon
+    . De ha meg szeretnénk érdeni a mai újbaloldal helyzetét és lehetőségeit, akkor fel kell dolgoznunk a 4K történetét is – különösen a korai szakaszát.
+   </p>
+   <p rend="head">
+    Miénk itt a tér!
+   </p>
+   <p>
+    A korai 4K növekedési motorja voltaképpen egy pofonegyszerű koktél volt – egy általános, sokak által megélt frusztrációra apellált, miszerint a köztereink nem igazán közterek, kiszorulunk belőlük mert a hatalmasok úgy akarják (mint tükrözte azt a mottó, hogy
+    nincs jobb és bal, csak fent és lent!
+    ), így vegyük azokat vissza flashmobokkal és akciókkal, tizenöt percre vagy pár órára felszabadulni- és felszabadítani a közös játékban.
+   </p>
+   <p>
+    Nem ez volt az innováció: magyar részről Krassó Györgyöt idéztük, de globálisan is ekkor futott föl az „Urban playground” mozgalom, amely utcai játékokat szervezett. Mi pedig akkor, eleinte páran, később pedig több ezren, akik részt vettünk vagy szerveztük ezeket az akciókat, némi joggal érezhettük úgy, mintha a Harcosok Klubjában lennénk: a mozgalom elindítója ugyanis az a Cacaphony Society volt, amelynek a leghíresebb tagja Chuch Palahniuk író (bár az
+    Improv Everywhere
+    volt a fő inspiráció).
+   </p>
+   <p>
+    Az innováció abban rejlett, hogy a chavezista ihletettségű, új szociáldemokrata-patrióta baloldal kívánalma találkozott ezzel a játékos, direkt akciós,
+    anarchista/’68-as habitussal
+    : hisz fiatal baloldali pártot akart a mozgalom építeni, de ehhez meg kellett nyernie az ifjúságot és azt a bázist, amely ezt a nagy munkát (egy rendszerváltást!) el tud majd végezni.
+   </p>
+   <p>
+    2007-ben ez nem volt egy naív elképzelés. Sőt: mivel a deklarált cél az volt, hogy a cselekvőképes középosztálybeli fiatalokból toborozzunk, az a tény, hogy pár év alatt húsz futkározó hülyegyerekből lett egy több ezres közösség, akik képesek voltak megakasztani plázák működését, bulizni a metróban, felforgatni egy-egy kerületet, s amikor támogató bulit rendeztünk a mozgalomnak, akkor az utcasarokig állt a sor: ezek mind azt mutatták, hogy az elképzelés nagyon is működött.
+   </p>
+   <p>
+    Arról nem is beszélve, hogy bármennyi oldal elméletnél többet értek ezek az események, amikor arról beszéltünk, hogy egy másik világ is lehetséges – és ezen nem kisebbít semmit, hogy azóta a modern metropolisz életrendjébe kontrollált módon becsatornázódtak már a flashmobok, mint a reklámok vagy az ellenzéki tüntetések várható eszközei.
+   </p>
+   <p>
+    Különösen azért, mert egy ponton lemértük a szimpatizánsok pártpreferenciáit, és a harmaduk(!) Jobbikosnak vallotta magát, ami egy deklaráltan baloldali mozgalomtól nem kis eredmény.
+   </p>
+   <p>
+    (Azt már mellékesen jegyzem meg, hogy sok 4K akció helyszíne
+    azóta még élhetetlenebbé
+    és nem pedig szabadabbá lett téve, az egyik legutóbbi párnacsatát pedig vagy egy milliós bírsággal honorálta az FKF.)
+   </p>
+   <p>
+    A 4K-ban viszont az elejétől kezdve kódolva voltak olyan ellentmondások és hiányosságok, amik a történelmi helyzet alakulásával meghatározták azt is, hogy ezek az energiák merre és hogyan robbanhattak szét.
+   </p>
+   <p>
+    Ennek a bonyolult viszonynak jó példája volt az a hajnalig tartó vita, ami a
+    Bajnai-kormány kinevezése után
+    tört ki a szervezők között: az egyik fél azt propagálta, hogy állítsuk át az egész 4K!-t a megszorítások (és a kormány) elleni szembenállásba. Ekkor robbant a devizahitel-válság, a Vállalkozók Érdekvédelmi Szövetsége (VÉSZ) már
+    elkezdett bontogatni
+    (!), a Fidesz már brutálisan jött föl – röviden szólva: helyzet volt.
+   </p>
+   <p>
+    A döntés végül az lett, hogy figyelembe véve a tágabb helyzetet és az erőforrásainkat, helyette megcélozzuk a következő önkormányzati választást
+    pár budai kerületben, civilekként
+    . Fakadt ez abból, ahogy és akik döntéseket hozhattak a 4K-ból, de abból is, hogy a szervezeti, „előbb-utóbb” párt leszünk logika határain nem léphettünk túl. A feszültségek itt már kezdtek érlelődni: hiába volt meg a 4K-ban (és inkább körülötte) egy nagyon komoly szellemi érdeklődés és tudás a rendszerkritika tágabb terén, az ilyen típusú „utánpótlás-nevelés” már nem volt
+    <hi>
+     igazán
+    </hi>
+    szervezeti tevékenység.
+   </p>
+   <p>
+    Ennek az állapotnak az orvosolására születtek meg később azok az intézmények, amelyek egy „durabilisebb” újbaloldal hátországát adják ma is  – viszont a 4K megmaradt abban a logikában, hogy saját magának toborozzon aktivistákat, s lassan külön vált az „urban playground” ág a standard pártépítési és kampánymunkától.
+   </p>
+   <p>
+    Így esett, hogy míg a 2010-es BKV-sztrájk idején „rejtőzködve” meg tudtuk szervezni a
+    BKV-pótlót, ami egy népi „Uber” volt az Uber előtt
+    , a pártosodás útjára a 4K! a fülkeforradalom beteljesülése után lépett. Előbb civilként nem indulhatott az önkormányzati választáson, majd az első összefogás csődjébe torkolló
+    Milla idején sikerült párttá alakulnia
+    .
+   </p>
+   <p>
+    De ami 2010 előtt lehetséges volt az LMP-nek, az ebben a hangulatban, a rendszerváltás után már nem volt lehetséges a 4K-nak – nem csak a rendszer átalakulása, de a korhangulat miatt sem. Emellett a „chavezista-populista” ihletettség már nem tükröződött a
+    pártprogram
+    megalkotásában, nem kis részben azért, mert az addigi szervezeti képességek hirtelen lettek átállítva egy olyan tevékenységre, amire alkalmatlanok voltak.
+   </p>
+   <p>
+    Itt nem csak arról van szó, hogy akik utcai buliztak, azok nem szeretnek kopogtató-cédulát gyűjteni: hisz
+    Völgyesi Krisztián
+    személyében Pesterzsébeten végül sikerült önkormányzati képviselőt juttatni a testületbe (az LMP-vel közösen).
+   </p>
+   <p>
+    Nehéz ezt már utólag megállapítani, de része lehetett az is, hogy a 4K! aktivista/játékos toborzó kizárólagossága egy természetes növekedési gátat szabott már az előtt, hogy a komoly pártosodás megindult volna.
+   </p>
+   <p>
+    De az is biztos, hogy a mobilizált középosztály egy része tovább pörgött a tágan értelmezett „mozgalmi színtérbe” ilyen-olyan módon:
+   </p>
+   <p>
+    a másik része viszont annyira mobilis volt, hogy egyszerűen emigrált, vagy felőrölte az egyetem-munka gépezete. A politikai cselekvés utcájának bezárulásával és az „aktivista gettó” kialakulásával ez biztosan benne van a pakliban.
+   </p>
+   <p>
+    A belső hibák és a külső, tágabb viszonyok fonák viszonyára mindenesetre egy jó példa a „
+    Fű nem drog!
+    „-kampány, ami azóta ráégett a köztudatban a 4K emlékezetére. Ez az aktus ugyan borzasztóan disszonáns volt a 4K addigi szerepvállalásával, és
+    balról is úgy lett értelmezve
+    , hogy a belvárosiak felé tett gesztus csupán – de az akut aktivista-hiány idején pont ez törte át a falat egy utolsó rohamhoz, mert a könnyűdrog-fogyasztás büntetése Magyarországon az osztályelnyomás eszköze: a „belvárosiakat” tipikusan nem érinti, de másokat nagyon is, így közülük sokan beálltak akár aláírást gyűjteni is a pártnak.
+   </p>
+   <p>
+    A másik oldalon pedig ott a „Drogmentes Magyarország” nevű kormányprogram, ami a dizájnerdrogok népességtizedelését tétlenül nézi, másutt pedig a három csapás rendészeti eszközeivel válaszol.
+   </p>
+   <p>
+    Végezetül három dolgot szeretnék még elmondani.
+   </p>
+   <p>
+    A 4K ezekkel a szavakkal oszlatta föl magát 2016-ban, ami a legutóbbi választás után kezd egyre dominánsabb véleménnyé válni:
+   </p>
+   <p>
+    Nincs értelme tovább statisztálni ahhoz az áldemokráciához, amit Orbán Viktor kialakított Magyarországon. Hasonlóan Oroszországhoz és Törökországhoz, hazánkban olyan autoriter rendszer működik, amely a demokratikus intézményeket díszletként a helyükön hagyta, miközben felszámolta a valódi demokratikus versenyt és a különböző hatalmi ágak függetlenségét.
+   </p>
+   <p>
+    Ebben a rendszerben egy olyan ellenzéki párt, amely elfogadja az egyoldalú játékszabályokat, csak a rendszert támogatja.
+   </p>
+   <p>
+    Nem látjuk, hogy a NER-ben pártként valóban lehetne küzdeni a köztársasági célokért, és nem csak a rendszert legitimálni.
+   </p>
+   <p>
+    Egy valódi demokráciában egy parlamenten kívüli párt célja az lenne, hogy bejusson az országgyűlésbe. Azonban ha számot vetünk a helyzettel, azt látjuk, hogy a NER országgyűlésébe nem is szeretnénk bekerülni, nincs semmilyen különösebb értelme ott lenni, a fontos társadalmi célokért nem lehet a parlamentben hatékonyan küzdeni. Így viszont nincs értelme indulni a választáson.
+   </p>
+   <p>
+    A 4K-nak
+    volt egy kormányprogramja
+    , ami az első összefogás-dili idejében a kutyát nem érdekelte, viszont azóta, bár más keretezésben és narratívában, de jobbára minden demokratikus ellenzéki párt programjává alakult (s még a
+    Momentum
+    közvélemény-kutatások által faragott programjában is visszaköszön). Arról nem is beszélve, hogy azóta is több szervezet küzd efelé az alternatívák felé.
+   </p>
+   <p>
+    Hasonlóan: az esemény-alapú trollpolitika tovább él a Kétfarkú Kutyapárt akcióin keresztül.
+   </p>
+   <p>
+    Amit azonban kiemelnék az az, hogy a 4K! egy „felháborodás-apátia-válság” háromszögében tudott a megszokotthoz képest, a médiát megkerülve kiépíteni egy mozgalmat, ami vágyaiban és akcióiban egyaránt volt utópisztikus, vidám, kicsit komolytalan és ugyanakkor véresen komoly.
+   </p>
+   <p>
+    Ha pedig a baloldal történelme végső soron kudarcok története, akkor érdemes felevenítenünk ezt az epizódot, mint a legígéretesebb (és sokaknak legfájóbb) kudarcot: nem csak a csendes tanulságok levonásában, hanem azzal a hévvel, ami ehhez az egészhez tagadhatatlanul hozzá tartozott.
+   </p>
+   <p>
+    Mert most harmadszor nyertek nagyot a sárgák – így a kérdés az, hogy hol vagytok pirosak?!
+   </p>
+  </body>
+ </text>
+</TEI>

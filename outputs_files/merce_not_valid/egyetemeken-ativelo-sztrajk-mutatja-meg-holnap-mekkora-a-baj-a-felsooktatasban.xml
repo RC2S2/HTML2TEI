@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Egyetemeken átívelő sztrájk mutatja meg holnap, mekkora a baj a felsőoktatásban
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     db32c2c5-8257-5de8-86e7-4e03a27ddca5
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Egyetemeken átívelő sztrájk mutatja meg holnap, mekkora a baj a felsőoktatásban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-13T17:42:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/13/egyetemeken-ativelo-sztrajk-mutatja-meg-holnap-mekkora-a-baj-a-felsooktatasban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/13/egyetemeken-ativelo-sztrajk-mutatja-meg-holnap-mekkora-a-baj-a-felsooktatasban/
+     </sch:url>
+     <sch:name>
+      Egyetemeken átívelő sztrájk mutatja meg holnap, mekkora a baj a felsőoktatásban
+     </sch:name>
+     <sch:datePublished>
+      2018-11-13T17:42:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      sztrájk
+     </sch:keywords>
+     <sch:keywords>
+      MTA
+     </sch:keywords>
+     <sch:keywords>
+      felsőoktatás
+     </sch:keywords>
+     <sch:keywords>
+      egyetem
+     </sch:keywords>
+     <sch:keywords>
+      Corvinus
+     </sch:keywords>
+     <sch:keywords>
+      elte
+     </sch:keywords>
+     <sch:keywords>
+      társadalmi nem
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="db32c2c5-8257-5de8-86e7-4e03a27ddca5">
+     <sch:identifier>
+      urn:uuid:e8367b0f-b1df-441b-aa87-913b99543a1c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.052581
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:13:12.360053
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="db32c2c5-8257-5de8-86e7-4e03a27ddca5" when="2021-12-14T15:30:50.052581">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Egyetemeken átívelő sztrájk mutatja meg holnap, mekkora a baj a felsőoktatásban
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Figyelemfelhívó szolidaritási és információs sztrájknapot hirdettek az ELTE Társadalomtudományi Karának (TáTK) oktatói és hallgatói, amihez sorra csatlakoztak más felsőoktatási intézmények is.
+   </p>
+   <p>
+    Vagyis végre jön a sztrájk.
+   </p>
+   <p>
+    A felsőoktatás szétzilálása kifejezetten tudatos, többlépcsős intézkedése a kormánynak (ráadásul az oktatás több szintjét is érinti, a szakképzés átrendezésével párhuzamosan).
+   </p>
+   <p>
+    És ahogy eddig több alkalommal is láttuk: újra eljött egy olyan pillanat (legutóbb hasonlót a lex CEU elfogadása idején láttunk), amikor a felsőoktatási intézmények hallgatói és oktatói felemelik a szavukat az oktatás szabadságáért.
+   </p>
+   <p>
+    Az ELTE TáTK közleménye szerint a sztrájknap nem más, mint tiltakozás „a felsőoktatás autonómiáját és az akadémiai tanszabadságot érintő sorozatos beavatkozások, gazdasági átalakítások, valamint a társadalmi nemek tanulmánya mesterszak beszüntetése ellen”.
+   </p>
+   <p>
+    És minthogy a kormány lényegében betiltotta a társadalmi nemek tudományát, a Társadalomtudományi Karon gyakorlatilag egész nap
+    olyan programokkal
+    várják az érdeklődőket, amelyek alaposan, több szempontból is körüljárják a témát (a programokat itt lehet megnézni).
+   </p>
+   <p>
+    Délután különféle vitakörök, kiscsoportos szemináriumok lesznek, az Oktatói Hálózat kerekasztal-beszélgetést szervez, illetve lesz Hallgatói fórum az ELTE TÁTK HÖK szervezésében, este pedig egy igazi klasszikust, Tarr Béla
+    <hi>
+     Panelkapcsolat
+    </hi>
+    című filmjét lehet majd megnézni (a gendervonal itt sem marad el, a film utáni beszélgetés a
+    <hi>
+     Régen minden jobb volt? Nemek közti viszonyok az államszocializmusban
+    </hi>
+    címet viseli).
+   </p>
+   <p>
+    <hi rend="bold">
+     Az ELTE TáTK felhívásához eddig a következő intézmények, oktatók és hallgatók csatlakoztak:
+    </hi>
+   </p>
+   <list>
+    <item>
+     az ELTE BTK Média és Kommunikáció tanszék oktatói
+    </item>
+    <item>
+     az ELTE BTK Filmtudomány tanszék oktatói
+    </item>
+    <item>
+     az ELTE BTK Esztétika Tanszék oktatói
+    </item>
+    <item>
+     a CEU
+     Students4CEU csoportja
+    </item>
+    <item>
+     az ELTE TÓK
+     Társadalomtudományi Tanszék
+    </item>
+    <item>
+     az ELTE BTK Magyar Irodalom- és Kultúratudományi Intézet 22 oktatója
+    </item>
+    <item>
+     az MTA KRTK RKI Közép- és Észak-magyarországi
+     Tudományos Osztálya
+    </item>
+    <item>
+     az MTA KRTK RKI Alföldi Tudományos Osztály Békéscsabai Csoportja
+    </item>
+    <item>
+     az ELTE BTK Német Nyelvű Irodalmak Tanszékének munkatársai
+    </item>
+    <item>
+     az Budapesti Német nyelvű Andrássy Gyula Egyetem Nemzetközi Tanulmányok Tanszékének tudományos munkatársai
+    </item>
+    <item>
+     az ELTE BTK Angol-Amerikai Intézet tagjai.
+    </item>
+   </list>
+   <p>
+    Szerveződik továbbá szolidaritási megmozdulás a
+    Corvinuson
+    , és sok oktató személyesen is kifejezte már egyetértését, támogatását a kezdeményezéssel. Kálmán László nyelvész például Facebookon
+    jelezte
+    :
+   </p>
+   <p>
+    „Az elveimmel ellenkezik, hogy egyetemi előadásokon, órákon politikáról beszéljek (ha az nem tartozik a tárgyhoz). Szintén ellenkezik az elveimmel, hogy olyanról beszéljek órán, amihez nem értek. Ennek ellenére, mivel aznapra nekem is esik egy nagyelőadásom („Bevezetés a nyelvtudományba”), én is rendkívüli órát tartok, „Nyelv és társadalmi nem” témában (és az elején a tanszabadság fogalmáról is szólok pár szót). Szóval „politizálni” is fogok, meg olyanról fogok beszélni (a társadalmi nem és a nyelv összefüggéseiről), amihez nem értek, de csak szigorú kivételként, tisztán szolidaritásból.”
+   </p>
+   <p>
+    Fontos megemlíteni, hogy egy ilyen léptékű, egyetemeken és más intézményeken átívelő kezdeményezés valóban jelentős hatással lehet a felsőoktatás helyzetére.
+   </p>
+   <p>
+    Különösen akkor, amikor azt látjuk, hogy 2010 óta a kormány csírájában igyekszik elfojtani a hasonló kezdeményezéseket.
+   </p>
+   <p>
+    Nem egy alkalommal tapasztalhattuk már meg, hogy az intézményekben megfélemlítéssel igyekezett az oktatási kormányzat ellehetetleníteni a tiltakozások bármilyen formáját (különösen látványos volt ez 2016-ban, amikor a Tanítanék Mozgalom polgári engedetlenségi akciója, illetve a szakszervezetek sztrájkfelhívásai után listákat kértek be a tankerületek a tiltakozó
+    pedagógusokról
+    , sőt, a
+    <hi>
+     Nem megyünk suliba
+    </hi>
+    -nap után a diákoknak is volt mi miatt szoronganiuk…).
+   </p>
+   <p rend="head">
+    Szóval az, hogy holnap összehangoltan kezd tiltakozásba megannyi érintett és szolidáris intézmény, egyszerre mozdulnak hallgatók és oktatók, nagy dolog.
+   </p>
+   <p>
+    Főleg, mivel mostanra eljutottunk odáig is, hogy a sztrájk, mint tiltakozási forma, lényegében a szakszervezetek kivéreztetésével párhuzamosan egyre kevesebbeket mozgat meg.
+   </p>
+   <p>
+    Azt persze előre nem lehet megjósolni, hogy egyetlen ilyen napnak milyen hatása lehet. Hogy a felsőoktatás szétverését sikerül-e meggátolni, hogy a társadalmi nemekről tanulhat-e a közeljövőben bárki, hogy a CEU végleg elhagyja-e az országot – ez vélhetően nem ezen az egy napon fog eldőlni.
+   </p>
+   <p>
+    Viszont óriási lépés ez az együttműködés, a közös nyomásgyakorlás képességének elsajátítása irányába. Innen már csak azt kell kitalálni, hogy ezt az irányt hogy lehet megtartani, képes lesz-e a tiltakozás lendületben maradni, jól megfogalmazható célokat kijelölni, és következetesen végigtolni azokat.
+   </p>
+   <p>
+    Holnap a Mérce élőben közvetíti a sztrájknap legfontosabb eseményeit, érdemes lesz figyelni videóinkat és cikkeinket is.
+   </p>
+   <p>
+    Címlapképünk 2017. április 9-én készült az CEU-s tüntetésen. Fotó: Csoszó Gabriella/
+    FreeDoc
+   </p>
+  </body>
+ </text>
+</TEI>

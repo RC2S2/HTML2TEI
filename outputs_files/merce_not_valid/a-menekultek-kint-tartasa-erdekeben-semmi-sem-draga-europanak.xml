@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A menekültek kint tartása érdekében semmi sem drága Európának
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     407386b4-3d80-5f4b-9fec-10b25ed33549
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A menekültek kint tartása érdekében semmi sem drága Európának
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-14T19:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/14/a-menekultek-kint-tartasa-erdekeben-semmi-sem-draga-europanak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/14/a-menekultek-kint-tartasa-erdekeben-semmi-sem-draga-europanak/
+     </sch:url>
+     <sch:name>
+      A menekültek kint tartása érdekében semmi sem drága Európának
+     </sch:name>
+     <sch:datePublished>
+      2019-07-14T19:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      EU
+     </sch:keywords>
+     <sch:keywords>
+      Orbán
+     </sch:keywords>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      migráció
+     </sch:keywords>
+     <sch:keywords>
+      Európa
+     </sch:keywords>
+     <sch:keywords>
+      matteo salvini
+     </sch:keywords>
+     <sch:keywords>
+      közel-kelet
+     </sch:keywords>
+     <sch:keywords>
+      afrika
+     </sch:keywords>
+     <sch:keywords>
+      líbia
+     </sch:keywords>
+     <sch:keywords>
+      Szudán
+     </sch:keywords>
+     <sch:keywords>
+      európa erőd
+     </sch:keywords>
+     <sch:keywords>
+      újgyarmatosítás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="407386b4-3d80-5f4b-9fec-10b25ed33549">
+     <sch:identifier>
+      urn:uuid:117b42c7-2ae3-44df-9f2b-4ec4b0cabddd
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:03.884215
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:40:55.117289
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="407386b4-3d80-5f4b-9fec-10b25ed33549" when="2021-12-14T15:31:03.884215">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A menekültek kint tartása érdekében semmi sem drága Európának
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Amikor Matteo Salvini szélsőjobboldali olasz belügyminiszter „háborús bűnösnek” nevezi a Földközi-tengerből menekülteket kimentő Sea-Watch kapitányát, illetve a korábbi balközép kormány politikáját folytatva hadat üzen az embermentő civil szervezeteknek – az embercsempészet támogatásával vádolva meg őket –, akkor válik igazán szembetűnővé a (szélső)jobboldali retorika dominanciája a menekültügy és a migráció valóságának értelmezésében. Az életükért szó szerint küzdő bajbajutottak segítése válik háborús bűnné ebben a keretben, a tényleges háborús bűnösök pénzelése, az általuk elkövetett emberiesség elleni bűnök aktív támogatása pedig megnemesül.
+   </p>
+   <p>
+    A valóság feje tetejére fordítása, illetve a szörnyűségek sora azonban nem áll itt meg: miközben a humanitárius szervezetek kerülnek össztűz alá az „embercsempészet támogatása” miatt,
+   </p>
+   <p rend="head">
+    meggyőző empirikus bizonyítékok állnak rendelkezésünkre, amelyek alátámasztják, valójában az EU által felkarolt salvinista-orbánista menekültpolitika az, amely az embercsempészetet gerjeszti és ösztönzi.
+   </p>
+   <p>
+    Bár a Mércén sokszor írtunk már erről, az uniós menekültpolitika és a Salvini-Orbán-vonal hasonlósága mind a mai napig kevéssé hihető hipotézis sokak számára, nem kis részben az utóbbiak által folytatott retorikai hadviselés miatt, mely „bevándorláspártisággal” vádolja Brüsszelt és az uniós intézményeket.
+   </p>
+   <p>
+    Sarm-es-Sejk, 2019. február 24. az Európai Unió és az Arab Liga elsõ alkalommal megrendezett csúcstalálkozóján a migráció megállítása, a menekülők minden áron Európán kívül tartása volt a fő téma; MTI/Miniszterelnöki Sajtóiroda/Szecsõdi Balázs
+   </p>
+   <p>
+    Brüsszel épp nemrégiben
+    hirdette meg
+    a menekültválság végét, mondván a kontinensre érkező menedékkérők száma már visszatért a 2015-ös rekord előtti szintekre. A számok szintjén ez az állítás stimmel, míg négy éve több mint egymillió ember érkezett Európába, 2018-ban a Földközi-tengeren keresztül már csak 134 ezer érkezőt regisztráltak a hivatalos szervek. A mód, ahogyan ezt a csökkenést sikerült elérni, azonban rámutat nemcsak arra, hogy a menekültválság korántsem ért véget, de bizonyítja az EU-s menekültpolitika brutális szélsőjobboldali konformizmusát is.
+   </p>
+   <p rend="head">
+    Nem lehet elég véres a kezed
+   </p>
+   <p>
+    A tavaly decemberben indult
+    szudáni tiltakozássorozat
+    hatására idén áprilisban megbukott Omar al-Basír szudáni diktátor, aki 2009 óta a Nemzetközi Büntetőtörvényszék (ICC) körözése alatt áll a Dárfúrban elkövetett népirtásban vállalt szerepe miatt. Al-Basír ezzel kétes hírű rekordot döntött, hiszen ő lett az első hivatalban lévő államfő, aki ellen vádat emelt az ICC. Bár egyetlen olyan állam sem fogta el és adta ki, ahol a szudáni diktátor megfordult – az ENSZ égisze alatt ez ugye kötelezettsége lenne minden államnak –, de azért al-Basír nem is nagyon utazgatott Afrikán kívülre, a népirtás miatti hivatalos vádemelés azért mégiscsak kevéssé frekventálható alakká teszi az emberfiát, akivel nem sokan akarnak nyilvánosság előtt mutatkozni.
+   </p>
+   <p>
+    Al-Basír szerencséjére befutott az emberi jogok bajnoka, az Európai Unió és kiszabadította őt ebből a részleges karanténból is. 2014-et írtunk, a „nagy menekültválság” még el sem kezdődött, az EU és afrikai országok azonban Rómában már lefektették annak az ún. Kartúmi Folyamatnak az alapjait, mely azóta jelentősen kibővült és az uniós migrációs politika sarokkövévé vált. A megállapodásnak nemcsak a szudáni diktátor a részese, de szomszédja, a véreskezű eritreai diktátor, Iszajasz Afeverki is, akinek 1993 óta tartó uralma alatt minden tizedik eritreai elhagyta szülőföldjét.
+   </p>
+   <p>
+    A Kartúmi Folyamat, amely az Afrika szarvából (Szomália, Etiópia, Eritrea), a kontinens egyik legválságosabb helyzetben lévő régiójából induló migráció megállítását tűzte célul, 2015 után a teljes európai menekültpolitika sarokkövévé változott, amelyre támaszkodva Brüsszel több „harmadik országgal” is megállapodott, a menekültek visszatartásáról.
+   </p>
+   <p>
+    Ezeknek a Törökországgal, Líbiával, Szudánnal vagy épp Nigerrel kötött megállapodásoknak hatására – mint láthattuk – valóban jelentősen csökkent az EU határaira nehezedő nyomás, csakhogy ez sem a menekültek helyzetének javulását, sem a menekültválság megoldását nem hozta magával,
+   </p>
+   <p rend="head">
+    a jól ismert recept szerint viszont a globális hierarchia csúcsán lévő Európa kiszervezte a piszkos munkát határain kívülre – nyilván, valamicske anyagi ellenszolgáltatásért cserébe.
+   </p>
+   <p>
+    Ha ránézünk, hogy ezeknek a megállapodásoknak, ennek a kiszervezésnek milyen következményei lettek a menekültek életére, illetve az észak-afrikai politikai erőviszonyokra, akkor az újgyarmati viszonyokat menedzselő és azokból profitáló, agresszív Európát látunk, amely a legdurvább emberi jogsértések fölött is szemet huny, sőt finanszírozza azokat, ezzel együtt pedig korrupt politikai és embercsempész-hálózatokat táplál.
+   </p>
+   <p rend="head">
+    Az erőszak és halál ördögi köre
+   </p>
+   <p>
+    Ugorjunk vissza egy pillanatra Szudánba. A több hónapos demonstrációk után április 11-én a hadsereg megdöntötte al-Basírt, ám ahelyett, hogy az utcai ellenzékkel közösen egy demokratikus átmenet levezénylésén kezdett volna dolgozni, inkább a tüntetők ellen fordult, a demonstrálókkal szemben fegyveres és nemi erőszakot alkalmazva a főváros, Kartúm utcáin. A demokratikus mozgalom jelen pillanatban is tartó vérbe fojtásában egy paramilitáris csoport, a Gyors Támogató Erők (Rapid Support Force, RSF) jár az élen, melynek vezetője, Mohamed Hamdan Dadzsalo tábornok, az al-Basír megbuktatása után felálló katonai adminisztráció
+    <hi rend="italic">
+     de facto
+    </hi>
+    feje.
+   </p>
+   <p>
+    Az RSF egy újrabrandelt, átnevezett változata annak a Dzsandzsavíd milíciának, amelyhez 200-400 ezer dárfúri civil lemészárlása kapcsolódik.
+   </p>
+   <p>
+    Szudánban az RSF a legvéresebb eszközökhöz nyúlt a tüntető civilek leverése érdekébenFotó: Twitter / @A7medSh7roor / @mohamed_hijazi7
+   </p>
+   <p>
+    Amikor nem a demokráciát követelő tüntetők legyilkolásával, megverésével és megerőszakolásával foglalkozik, az RSF az Afrika szarvából érkező menekültek vegzálásával van elfoglalva.
+   </p>
+   <p rend="head">
+    A menekültek ellen elkövetett tömeges zsarolásokról, verésekről, nemi erőszakról és nem ritkán gyilkosságokról szóló hírek megszámlálhatatlanok.
+   </p>
+   <p>
+    Emellett a szudáni biztonsági erők feladata elfogni és internálótáborokba gyűjteni a szomszédos országokból menekülőket, akiket egy idő után általában visszadeportálnak oda, ahol osztályrészük mindezek után a szinte biztos halál. Már ez önmagában a menekültek jogállását szabályozó nemzetközi jog
+    megsértése
+    , de a felelősségre vonástól senkinek nem kell tartani, hiszen a fegyveres erők maguk mögött tudhatják az EU támogatását.
+   </p>
+   <p>
+    Mohamed Hamdan nem is szemérmeskedik ezügyben (sem): tavaly áprilisban
+    kijelentette
+    , katonái az EU helyett végzik a munkát, és be is jelentkezett egy kis pénzre, amellyel szerinte az Uniónak kellene kárpótolnia a „munka” során erőforrásokat veszítő milíciáját. Brüsszel akkor és azóta is tagadja, hogy uniós pénzek kerülnének a visszaéléseket elkövető milíciákhoz.
+   </p>
+   <p>
+    Mindennek ellenére a Kartúmi Folyamat keretében felállított uniós sürgősségi alap (EU Emergency Trust Fund for Africa, EUTF) csak 2015-16-ban kb. 200 millió eurót öntött Szudánba a migráció megfékezése céljából.
+   </p>
+   <p>
+    A sürgősségi alap keretén belül az EU összesen 1,8 milliárd eurót ígért oda a különböző afrikai országoknak, ehhez pedig még hozzájönnek az egyes tagállamok által saját költségvetésükből átirányított források. Ennek az összegnek közel kétharmada elvileg a „fejlesztés és együttműködés” céljából kerül elköltésre, olyan 400 millió jut a már úton lévő migráció kezelésére.
+   </p>
+   <p rend="head">
+    Az
+    Oxfam kutatása szerint
+    ez utóbbi összegnek csupán 3 százalékát fordítják a migrációs útvonalak biztonságosabbá tételére, a fennmaradó 97 százalék pedig a menekülők visszatartására, elfogására és visszafordítására megy.
+   </p>
+   <p>
+    Ha ehhez még hozzávesszük, hogy a biztonság- és béketeremtésre elkülönített 250 millió euró több mint felét is ezen országok fegyveres erőinek a kistafírozására költik, akkor már egész takaros összeg jön össze, amelynek kizárólagos rendeltetése a menekülők amúgy sem könnyű és biztonságos útjának megnehezítése.
+   </p>
+   <p>
+    A sürgősségi alap másik nagy haszonélvezője Líbia, ahol jelen pillanatban is polgárháborús viszonyok uralkodnak. Líbia nemcsak uniós forrásokat kap, de Olaszország saját jogán is jelentős összegeket, technikai infrastruktúrát és humán erőforrást tol a nemzetközi közösség által hivatalosan elismert líbiai egységkormányba (Government of National Accord), és legfőképp a partiőrségbe.
+   </p>
+   <p>
+    A főként a Kadhafi ellen lázadó milíciák tagságából szerveződött partiőrség feladata a Földközi-tengeren átkelni akaró, improvizált bárkák elfogása és visszafordítása. Az így elkapott menekülők különböző internálóközpontokba kerülnek.
+   </p>
+   <p>
+    Az líbiai egységkormány kb. egy-kéttucatnyi ilyen tábort tart fenn hivatalosan, de a nemzetközi szervek sem tudnak pontos számokat mondani. Feltehetően a maga a líbiai kormány sem, amely valójában különböző regionális hadurak támogatásától függ, így ezeknek a „hivatalos” táboroknak a nagyrészét is a területileg illetékes hadurak és milíciák működtetik. Emellett pedig a számtalan nem-hivatalos tábort működtetnek kormányhű és kormányellenes milíciák egyaránt.
+   </p>
+   <p>
+    A táborokban az éhezés, a tuberkulózis, az egészségügyi ellátások hiánya, a verések és a nemi erőszak mindennapos, és ez még csak a „kevésbé durva” része az egésznek. Az év elején a Human Rights Watch emberi jogi szervezet
+    hosszú jelentést tett közzé
+    a líbiai menekülttáborokban uralkodó viszonyokról, amelyből kiderül: nem ritka, hogy a táborok lakóit a talpak ütlegelésétől az elektrosokkig terjedő kínzásoknak vetik alá, vagy épp rabszolgaként adják-veszik őket, hogy gazdag és befolyásos embereknek dolgozzanak teljesen ingyen.
+   </p>
+   <p>
+    Mivel az országban továbbra is jelentős fegyveres összecsapások zajlanak, a menekültek ezeknek is gyakran a kereszttüzébe kerülnek. Miután idén áprilisban az egységkormány ellen lázadó Halifa Haftár tábornagy, a Líbiai Nemzeti Hadsereg feje támadásba lendült a főváros, Tripoli ellen, több környékbeli menekülttábor őrsége elmenekült, Haftár erői pedig
+    tüzet nyitottak
+    a táborok lakóira. Július elején pedig egy légicsapás végzett 53 menekülttel, akik egy katonai raktártól kevesebb mint 90 méterre felállított internálótáborban kaptak helyet.
+   </p>
+   <p>
+    Emellett arról is
+    érkeznek hírek
+    , hogy a harcoló felek katonai kisegítőmunkákra, például fegyverek rakodására, szállítására kényszerítik a menekülttáborok lakóit.
+   </p>
+   <p rend="head">
+    Kontraproduktív stratégia
+   </p>
+   <p>
+    A becslések szerint egyébként Líbiában több mint félmillió menekült tartózkodik, a többségük nem a hivatalosként számon tartott táborokban. Utóbbiakról egyébként még az Európai Unió is elismeri, hogy nem alkalmasak semmilyen humanitárius alapkövetelmény kielégítésére, Dimitrisz Avramopulosz migrációs biztos már
+    2017 novemberében beismerte
+    , tudomásuk van azokról a „degradáló körülményekről”, amely között a Líbiába rekesztett menekülteknek élniük kell, és ígéretet tett a körülmények javítására, ám jelentős előrelépés azóta sem történt, ahogy a fent említett, július 2-i légitámadás esete is mutatja.
+   </p>
+   <p>
+    Sőt, miközben Avramopulosz és a legtöbb tagállami vezető is legalább elismeri, hogy emberiesség elleni bűnöket követnek el a líbiai hatóságok és milíciák, Matteo Salvini olasz belügyminiszter most már azon dolgozik, hogy Líbiát is biztonságos harmadik országnak nyilvánítsa az EU.
+   </p>
+   <p>
+    A legtöbb uniós vezető feltehetően amúgy a kiszervezési politika „hatékonysága” miatt huny szemet az elképesztő embertelenségek fölött, amelyeket az eurókkal kistafírozott diktátorok, hadurak és milíciák követnek el.
+   </p>
+   <p rend="head">
+    Ez az ára annak, hogy Európa megőrizhesse kezei tisztaságát és fenntarthassa a mítoszt, miszerint Európa az emberi jogok otthona, az emberi civilizáció legmagasabb foka.
+   </p>
+   <p>
+    Ennek a mítosznak igen sokat ártana, ha a jelenleg alkalmazottnál nagyságrendekkel több és nyíltabb erőszakot kellene alkalmaznia határain a menekültekkel szemben. A kiszervezési módszerrel egyrészt nagy mellénnyel szólhat be a tranzitzónában embereket éheztető magyar kormánynak, vagy épp az embermentőket bebörtönöztető Salvininek, miközben a legdurvább dolgok uniós hátszéllel olyan helyeken zajlanak, amelyek kívül esnek Európán és az európai közvélemény látóterén.
+   </p>
+   <p>
+    Csakhogy a kiszervezési stratégia még az európai döntéshozók saját belső szempontjaik szerint is kontraproduktív. Hiába nevezi Salvini az embermentő civileket embercsempészeknek, a helyzet az, hogy az embercsempészek épp azok, akiket Brüsszel és a tagállamok pénzelnek.
+   </p>
+   <p>
+    Szudáni oknyomozó újságírók 2018
+    legelején leplezték
+    le azokat a „gyümölcsöző” kapcsolatokat, amelyek embercsempészek és emberkereskedők, illetve a rendfenntartó erők között állnak fenn, annak ellenére, hogy utóbbiak uniós pénzeket kapnak, hogy előbbieket lekapcsolják.
+    Egy másik tényfeltáró anyag
+    egyenesen a szudáni rezsim felsőbb szintjéig térképezte fel az embercsempészekkel ápolt szívélyes viszonyt.
+   </p>
+   <p>
+    Az ENSZ által rendelt, majd a sajtónak kiszivárogtatott
+    szakértői jelentés szerint
+    Líbiában is hasonló a helyzet: az embercsempészek és biztonsági erők közötti kapcsolat a legmagasabb szintekig ér fel, olyan esetekről is hallani, amikor a hivatalos rendfenntartók által elfogott menekülteket egyenesen a „baráti” embercsempészeknek adtak át.
+   </p>
+   <p>
+    De ha ezek a kapcsolatok nem állnának fenn, az EU által alkalmazott menekültpolitika – vagyis, hogy határain kívül épít ki egy teljes aknamezőt a menekültek ellen – még akkor is az embercsempészet burjánzását facilitálná.
+   </p>
+   <p>
+    A menekültek előtt álló többezer kilométeres út amúgy sem egy sétagalopp, senki sem jószántából indul el rajta, hanem azért, mert a biztos halálnál a valószínű vagy esélyes halál is jobb egy fokkal. Bármilyen kicsi az esélye az Európába jutásnak, ez még akkor is vonzóbb alternatíva, mint otthon maradni. Ilyen körülmények között tehát a célba éréshez az ember azt a segítséget veszi igénybe, ami rendelkezésére áll. És ha egyedül az embercsempészek állnak rendelkezésre, akkor az ő „szolgáltatásait” fogja igénybe venni.
+   </p>
+   <p rend="head">
+    Minél kevesebb a biztonságos alternatíva, annál jobban felértékelődik az embercsempészek szerepe. Azzal, hogy EU pénzből további akadályok létesülnek a meglévők mellé, csak még jobban megerősödnek az embercsempészek pozíciói.
+   </p>
+   <p>
+    Nem véletlen, hogy az embercsempészet dollármilliós biznisszé nőtte ki magát Észak-Afrikában, és ez a tendencia az Európa Erőd falainak vastagodásával csak tovább erősödött az elmúlt években.
+   </p>
+   <p>
+    Az uniós menekültpolitika hatására tehát létrejön az erőszak és jogsértés ördögi köre, amely egyébként az európai szélsőjobb politikai súlyát is konzerválja. A kontinensre érkező menekültek felfújják a szélsőjobb vitorláit, erre válaszul az Unió különböző korrupt tömeggyilkosoknak szervezi ki a menekültek feltartóztatását, akik miután felveszik a pénzt, változatos bűntetteket követnek el, ezzel pedig közvetetten (és mint láttuk: közvetlenül is), az embercsempészek tevékenységét támogatják, aminek hatására az európai szélsőjobb még keményebb fellépést követel, és a kör kezdődik elölről.
+   </p>
+   <p rend="head">
+    Európa-Európa!
+   </p>
+   <p>
+    A történelemben igen ritkán volt tényszerűen igaz, hogy Európa az emberi jogok és a szabadság világítótornya lett volna, épp csak a világban elfoglalt hierarchikus pozíciójának köszönhetően megengedhette magának azt a luxust, hogy a szörnyűségek elkövetésének jelentős részét kiszervezze, földrajzi értelemben externalizálja. Ami most történik Afrikában, az ennek az évszázados tendenciának egy újabb epizódja.
+   </p>
+   <p>
+    Kelet-Európában ebben a felállásban kettős – már-már skizofrén – szerep jut: a döntések nagy része ugyan nem itt születik,
+   </p>
+   <p rend="head">
+    az európai periféria vezetői kiválóan eljátsszák a „belső alantas én” szerepét, akivel harcolva az európai centrum megerősítheti saját erényességének látszatát.
+   </p>
+   <p>
+    Ezzel párhuzamosan a periféria felzárkózási diskurzusai szintén megerősítik az európai centrum „magasabb rendűségének” mítoszát („Európa-Európa!”, ugye…).
+   </p>
+   <p>
+    Hogy Európa a valóságban mészárosok és véreskezű diktátorok futtatója, az igazán senkit nem érdekel. Az Európa Erőd fenntartásáért semmi sem drága, még ha az ár, amit fizetünk, az a legalapvetőbb emberiesség feladása is. Persze nemcsak arról van szó, hogy itt uniós pénzen embereket gyilkolnak, vernek, erőszakolnak, kényszerítenek kényszermunkára és éhezésre, hanem arról is, hogy a kiszervezett határvédelemmel az Unió egy egész
+    újgyarmati infrastruktúrát épített ki
+    .
+   </p>
+   <p>
+    Az EU-s pénzekkel ugyanis nem csupán a menekültek sorsát lehet még jobban megnehezíteni, de egyúttal versengő politikai elitek egyes frakcióit lehet helyzetbe hozni, ahogy például Líbiában történik, és ha kell akár demokratikus népi mozgalmak kárára, ahogy pár éve Nigerben, és jelenleg Szudánban is történik.
+   </p>
+   <p>
+    És, hát, a kép nem lenne teljes, ha nagyvállalatok nem profitálnának mindebből: az európai határok militarizációja multicégek egész sorának hoz plusz bevételi forrást, az új megfigyelési technológiák és határvédelmi járművek kifejlesztéséből rendes összegeket hasítanak
+    olyan gazdasági szereplők
+    , mint a francia Airbus és Thales vagy épp az olasz Intermarine és Leonardo.
+   </p>
+   <p>
+    Tanulság? Ezek az információk a sajtónak és jogvédő szervezeteknek, think-tankeknek hála széles körben elérhetők, de érdemi változást mégsem eredményeztek. Kétséges, hogy a jelenlegi politikai és gazdasági viszonyok között rövidtávon bármiféle jelentős változás állna be. A kiüresedő, technokratizálódó európai demokráciákban ma már nekünk, másként gondolkodóknak annyi jut csupán, hogy politikai vezetőinket elkönyvelhetjük annak, amik: képmutató senkiknek, morális hulláknak.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kizárnák a Fideszt a Néppártból a felhatalmazási törvény miatt
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ef06ac83-a4b8-59c6-b44b-4327dd904c5a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kizárnák a Fideszt a Néppártból a felhatalmazási törvény miatt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-04-01T12:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/04/01/kizarnak-a-fideszt-a-neppartbol-a-felhatalmazasi-torveny-miatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/04/01/kizarnak-a-fideszt-a-neppartbol-a-felhatalmazasi-torveny-miatt/
+     </sch:url>
+     <sch:name>
+      Kizárnák a Fideszt a Néppártból a felhatalmazási törvény miatt
+     </sch:name>
+     <sch:datePublished>
+      2020-04-01T12:35:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      Európai Unió
+     </sch:keywords>
+     <sch:keywords>
+      európai néppárt
+     </sch:keywords>
+     <sch:keywords>
+      kizárás
+     </sch:keywords>
+     <sch:keywords>
+      felfüggesztés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ef06ac83-a4b8-59c6-b44b-4327dd904c5a">
+     <sch:identifier>
+      urn:uuid:01d30add-268a-42b4-aeb3-436cd80ac913
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.445203
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:10:36.897992
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ef06ac83-a4b8-59c6-b44b-4327dd904c5a" when="2021-12-14T15:30:59.445203">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kizárnák a Fideszt a Néppártból a felhatalmazási törvény miatt
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    „Túl sokáig tűrtük Budapest demokratikus hanyatlását” – írta a Twitteren Pernille Weiss dán konzervatív EP-képviselő .
+   </p>
+   <p>
+    **Today, myself and the Conservative People’s Party (DK)
+    @KonservativeDK
+    demand
+    #Fidesz
+    and Viktor Orbán to be excluded from the
+    @EPPGroup
+    in the
+    @Europarl_EN
+    **
+   </p>
+   <p>
+    For too long, we have witnessed the democratic demise that has taken place in Budapest!
+    #eudk
+    #RuleOfLaw
+    pic.twitter.com/L0Idl8PoNX
+   </p>
+   <p>
+    — Pernille Weiss (@WeissPernille)
+    March 31, 2020
+   </p>
+   <p>
+    A dán politikus közölte: pártja a mai napon levelet is írt Donald Tusknak, az EPP elnökének és Manfred Webernek, aki a pártcsalád EP-frakcióvezetőjének,
+   </p>
+   <p rend="head">
+    amelyben kezdeményezik a Fidesz (és Orbán Viktor, teszi hozzá) azonnali kizárását az Európai Néppártból.
+   </p>
+   <p>
+    A
+    Népszava információi szerint
+    több más tagpárt is hasonló lépést fontolgat, miután a magyar parlament elfogadta a széles körben vitatott
+    felhatalmazási törvényt
+    .
+   </p>
+   <p>
+    A Néppárt szabályai szerint öt országból legalább hét tagpártnak kell indítványoznia a kizárást ahhoz, hogy a döntéshozó fórum napirendre tűzze a javaslatot.
+   </p>
+   <p>
+    „Gyorsan és határozottan akartunk cselekedni” – magyarázta Pernille Weiss, aki szerint korábban sok pártelnök bízott a kedvező változásban, és ezért döntöttek a magyar párt felfüggesztésében, ám az utóbbi napok eseményeit látva a Fidesznek végképp nincs helye a Néppártban. Weiss ezért arra biztatta képviselőtársait is, hogy csatlakozzanak a dán Konzervatív Néppárt felhívásához.
+   </p>
+   <p>
+    A Fideszt néppárti tagságát tavaly
+    március 20-án függesztették fel
+    az Európai Néppárt küldöttgyűlésének döntése alapján (vagy önfelfüggesztés történt,
+    a kormánypárti értelmezés szerint
+    ugyebár), méghozzá határozatlan időre.
+   </p>
+   <p>
+    Donald Tusk egyébként szintén élesen bírálta Orbán Viktort Donald Trumppal és Jaroslaw Kaczyńskival együtt – írja az
+    Euronews
+    . Egy videóban a Néppárt elnöke úgy fogalmaz:
+   </p>
+   <p>
+    „Képes-e az unió túlélni? Húsz év óta először vannak komoly kételyeim, hogy ez megtörténik-e. Néhány politikus és néhány társadalom úgy viselkedik, mint egy vírus, nem pedig úgy, mint az oltás. Az EU felépítése nagyon nehéz volt. A megtartása pedig folyamatos erőfeszítést és jó szándékot igényel. A lerombolása pedig egy másodperc tört része alatt bekövetkezhet. Ha a brexit, Kaczyński, Orbán, vagy Trump logikája győz, lehet, hogy az EU nem éli túl.”
+   </p>
+   <p>
+    via
+    Népszava
+    /
+    Euronews
+   </p>
+  </body>
+ </text>
+</TEI>

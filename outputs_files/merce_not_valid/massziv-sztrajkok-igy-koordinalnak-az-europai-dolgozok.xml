@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Masszív sztrájkok: így koordinálnak az európai dolgozók
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     81740061-fa4c-5b12-8bdd-e12469e253a7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Masszív sztrájkok: így koordinálnak az európai dolgozók
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-29T21:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/29/massziv-sztrajkok-igy-koordinalnak-az-europai-dolgozok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/29/massziv-sztrajkok-igy-koordinalnak-az-europai-dolgozok/
+     </sch:url>
+     <sch:name>
+      Masszív sztrájkok: így koordinálnak az európai dolgozók
+     </sch:name>
+     <sch:datePublished>
+      2018-07-29T21:45:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      sztrájk
+     </sch:keywords>
+     <sch:keywords>
+      munkavállalói jogok
+     </sch:keywords>
+     <sch:keywords>
+      amazon
+     </sch:keywords>
+     <sch:keywords>
+      Ryanair
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="81740061-fa4c-5b12-8bdd-e12469e253a7">
+     <sch:identifier>
+      urn:uuid:4546a92a-939d-49f7-942f-4be0c53cf452
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:58.285942
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:58:59.953479
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="81740061-fa4c-5b12-8bdd-e12469e253a7" when="2021-12-14T15:30:58.285942">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Masszív sztrájkok: így koordinálnak az európai dolgozók
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Rég volt olyan izgalmas időszakunk, legalábbis a munkavállalók érdekvédelmének tekintetében, mint mostanában.
+   </p>
+   <p>
+    Korábban írtunk már a
+    Ryanair
+    és az
+    Amazon
+    dolgozóinak sztrájkjairól is (
+    mindkét
+    cég híresen rossz munkaadó), most viszont úgy tűnik, hogy még mindig nincs vége a dolgozók nyomásgyakorlásának.
+   </p>
+   <p>
+    A Ryanair dolgozói július közepén már tartottak egy egynapos sztrájkot, a héten pedig 48 órára szüntették be a munkát, belga, portugál és spanyol légiutas-kísérők részvételével. És itt még nincs vége: a
+    jobb munkakörülményeket
+    (például méltányos béreket, megfelelő pihenőidőt és kollektív szerződést) követelő, munkavállalókat tömörítő Cabin Crew United bejelentette, hogy augusztus 3-án immár 300 pilóta és légiutas-kísérő részvételével
+    folytatják a sztrájkot
+    , miután a cég belengette, hogy 100 pilótáját bocsájtja el a télen.
+   </p>
+   <p>
+    Az ír központú fapados légitársaságon egyre nagyobb a dolgozói nyomás, sorra törlik a járatokat, az pedig különösen fontos, hogy több ország munkavállalói közösen fogtak össze, hogy érdekeik érvényesítéséért küzdjenek.
+   </p>
+   <p>
+    Ugyanez igaz az Amazon-sztrájkokra is: a Prime Day idején többezer német, spanyol és lengyel Amazon-dolgozó vett részt a
+    munkabeszüntetésben
+    , Spanyolországban ráadásul nem is csupán 1, de 3 napos sztrájkkal tiltakoztak a munkavállalók Jeff Bezos cégének kizsákmányoló gyakorlata ellen. A Nagy-Britanniában lévő telephelyek dolgozói pedig a hétvégén szintén megmozdultak (újra), és lényegében megünnepelték, hogy határokon átívelve egyesültek az Amazon munkavállalói, közösen küzdve a saját érdekeikért.
+   </p>
+   <p>
+    Az immár évek óta tartó küzdelem újabb állomásán az érdekvédők is globális megoldásokat keresnek, hiszen – ahogy azt a brit GMB szakszervezet szóvivője, Rick Mix nyilatkozta az
+    El Paísnak
+    – az Amazon is globálisan nyomja el és zsákmányolja ki dolgozóit, „nekünk is ugyanígy kell küzdenünk”.
+   </p>
+   <p>
+    A szakszervezet felmérése szerint egyébként a brit Amazon-dolgozók 87 százalékának van valamilyen hát- vagy nyakproblémája a rossz munkakörülmények miatt.
+   </p>
+   <p>
+    Az országhatárokon átívelő, szakszervezetek által immár nemzetközi szinten koordinált sztrájkok egészen új utat mutathatnak a munkavállalóknak, hiszen az irdatlan ütemben terjeszkedő (és ugyanígy gazdagodó) cégek vezetőinek is szembesülniük kell azzal, hogy a munkavállalók kizsákmányolása és a munkakörülmények elhanyagolása nem folytatható a végtelenségig.
+   </p>
+   <p>
+    Ettől függetlenül azért jó, ha tisztában vagyunk azzal is: az Amazon alapítója, Jeff Bezos vagyona immár elérte a 150 milliárd dollárt (és ezzel ő a modern történelem leggazdagabb embere), a fapados Ryanair pedig csak tavaly 1.45 milliárd eurós profitot termelt.
+   </p>
+   <p>
+    Címlapkép: pxhere.com
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sajnos nincs abban semmi ünnepelnivaló, ha járvány idején csökken a környezetszennyezés
+    </title>
+    <author>
+     <persName>
+      Kovács Blanka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b65d5e04-4915-5c87-b00f-60484a5b855f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Sajnos nincs abban semmi ünnepelnivaló, ha járvány idején csökken a környezetszennyezés
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kovács Blanka
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-14T08:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/14/sajnos-nincs-abban-semmi-unnepelnivalo-ha-jarvany-idejen-csokken-a-kornyezetszennyezes/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/14/sajnos-nincs-abban-semmi-unnepelnivalo-ha-jarvany-idejen-csokken-a-kornyezetszennyezes/
+     </sch:url>
+     <sch:name>
+      Sajnos nincs abban semmi ünnepelnivaló, ha járvány idején csökken a környezetszennyezés
+     </sch:name>
+     <sch:datePublished>
+      2020-03-14T08:45:00
+     </sch:datePublished>
+     <sch:author>
+      Kovács Blanka
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      megújuló energia
+     </sch:keywords>
+     <sch:keywords>
+      zöld energia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b65d5e04-4915-5c87-b00f-60484a5b855f">
+     <sch:identifier>
+      urn:uuid:01ae8ff0-79e4-45dd-8178-0464ce6c0813
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.116045
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:06:00.107605
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b65d5e04-4915-5c87-b00f-60484a5b855f" when="2021-12-14T15:30:52.116045">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Sajnos nincs abban semmi ünnepelnivaló, ha járvány idején csökken a környezetszennyezés
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Pár napja jelent meg a
+    <hi>
+     Guardianen
+    </hi>
+    egy
+    cikk
+    arról, hogy a klímaválságot ugyanolyan kiemelten kellene kezelni, mint a koronavírust. A megszólalók azzal érveltek, hogy egyrészt a jelenlegi vészhelyzet jól bemutatja, hogy a politikusok és a nagyvállalati döntéshozók tudnak drasztikus lépéseket tenni, ha akarnak, másrészt pedig kiderült az is, hogy  a karanténok hatására csökkent a világon a károsanyag-kibocsátás, mivel gyárak zárnak be, események maradnak el, emberek maradnak otthon és repülőjáratok törlődnek.
+   </p>
+   <p>
+    Egyes elemzők úgy vélik, a koronavírus okozta leállással időt nyerhetünk a klímakatasztrófával szemben, és remélik, hogy a vészhelyzetben megtapasztalt változások hosszú távon is befolyásolják a termelési, utazási és fogyasztási szokásainkat. Mások viszont azt mondják, az egész kontraproduktív is lehet, ugyanis amikor a koronavírus lecsengése után próbálják a termelést gyorsan felhozni, a vállalatok még kevésbé figyelnek majd a környezeti hatásokra, mint egyébként.
+   </p>
+   <p rend="head">
+    És van még egy szempont, ami inkább arra utal, hogy ne várjunk csodát, mégpedig az, hogy a járvány okozta gazdasági visszaesés a tiszta energiába való befektetéseket is megvághatja.
+   </p>
+   <p>
+    A
+    <hi>
+     Guardian
+    </hi>
+    egy másik
+    cikkéből
+    kiderül, hogy a Nemzetközi Energia Ügynökség arra számít, hogy a COVID-19 vírus következtében a világ olajszükséglete egy évre előre megsemmisül, tehát drasztikus csökkenést várnak a környezetszennyező fosszilis üzemanyag kibocsátást illetően.
+   </p>
+   <p>
+    Csakhogy miután az olajárak rendkívüli módon visszaestek az elmúlt napokban, a legnagyobb energiacégek dollármilliókat veszítettek rövid idő alatt, az ebből következő gazdasági lassulás pedig várhatóan a zöld beruházásokra szánt költségeket is meg fogja vágni, és nem jut majd elég pénz a környezetvédő megoldásokra.
+   </p>
+   <p rend="head">
+    Hosszú távon tehát egyáltalán nem jár jobban a Föld az átmenetileg kisebb mértékű károsanyag-kibocsátással, ugyanis ez éppen olyan terület, amiről a vállalatok azt gondolhatják, ha muszáj, lehet rajta spórolni.
+   </p>
+   <p>
+    Éppen ezért Fatih Birol, a Nemzetközi Energia Ügynökség ügyvezető igazgatója arra figyelmeztetett, a kormányoknak muszáj lesz környezettudatos beruházásokat támogatniuk annak érdekében, hogy segítség a gazdasági növekedést.
+   </p>
+   <p>
+    „Semmi ünnepelnivaló nincs a gazdasági válság miatt várható károsanyag-kibocsátás csökkenésében, ugyanis a megfelelő politikák és a strukturális intézkedések híján ez a visszaesés nem lesz fenntartható” – fogalmazott Birol.
+   </p>
+   <p>
+    Hozzátette, nem szabadna pont a megújuló energiára való átálláson spórolni, a kormányoknak a gazdasági ösztönző csomagokat arra kellene felhasználniuk, hogy országaik zöld energiát előállító technológiákba fektessenek.
+   </p>
+   <p>
+    „Egy fontos lehetőség nyílt meg előttünk. A világ vezető gazdaságai ösztönző csomagok bevezetésére készülnek. Egy jól megtervezett csomag gazdasági előnyöket tud ajánlani, és elősegíti az energiatőke forgalmát, amely rendkívül előnyös a tiszta energiára való átállásban” – nyilatkozta a Nemzetközi Energia Ügynökség vezetője.
+   </p>
+  </body>
+ </text>
+</TEI>

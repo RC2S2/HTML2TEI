@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gyurcsány Ferenc jobbos előbújása
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a6900193-85a9-5eb0-9bea-6c239c749cde
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Gyurcsány Ferenc jobbos előbújása
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-11-03T17:17:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2015/11/03/gyurcsany_ferenc_jobbos_coming-outja/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2015/11/03/gyurcsany_ferenc_jobbos_coming-outja/
+     </sch:url>
+     <sch:name>
+      Gyurcsány Ferenc jobbos előbújása
+     </sch:name>
+     <sch:datePublished>
+      2015-11-03T17:17:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      jobboldal
+     </sch:keywords>
+     <sch:keywords>
+      adó
+     </sch:keywords>
+     <sch:keywords>
+      gyurcsány
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a6900193-85a9-5eb0-9bea-6c239c749cde">
+     <sch:identifier>
+      urn:uuid:eb79e50a-6007-4250-afeb-af070b6359a5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:04.980494
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:19:34.165466
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a6900193-85a9-5eb0-9bea-6c239c749cde" when="2021-12-14T15:26:04.980494">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Gyurcsány Ferenc jobbos előbújása
+   </head>
+   <p>
+    Ez a cikk több mint 6 éves.
+   </p>
+   <p>
+    Tamás Gáspár Miklós hétfő reggel a Dinamó hasábjain tökéletesen
+    fejtette ki
+    , hogy Gyurcsány Ferenc politikája miért értelmetlen, jobboldali megalapozottságú, valamint dolgozó- és szegényellenes. Aztán megjelent a Népszabadságban egy
+    interjú
+    Gyurcsány Ferenccel, ami lényegében igazolja TGM írását. Az összes egyenlőtlen szegény- és dolgozóellenes kijelentésen most nem mennék végig, csak párat emelnék ki.
+   </p>
+   <p>
+    Gyurcsány az interjúban így védi a vizitdíjat:
+   </p>
+   <p>
+    Ha valakinek az egészsége megőrzése, helyreállítása nem ér meg havi háromszáz forintot, ott az egyéni felelősség hiányát látom.
+   </p>
+   <p>
+    Szerencsénkre pont a minap jött ki a KSH
+    elemzése
+    arról, mire költenek az egyes jövedelmi csoportokba tartózó emberek a rendelkezésükre álló pénzekből. Ebből kiderül, a legrosszabbul élő háztartásokban egy ember egészségügyi költségeire havi 500 forint jut, de még a társadalom közepét kitevő kategóriában sem jut 2000 forintnál több egy személy egészségére, beleszámítva a gyereket és az időseket is. A társadalom 60 százaléka havonta 2000 forintot költ egészségügyre.
+   </p>
+   <p>
+    Valóban a felelősségvállalás hiánya, ha ők nem akarnak még 300 forintot költeni? És nem inkább az lenne a közös érdekünk, hogy ne vizitdíjra költsenek, vagy emiatt spóroljanak az egészségügyi ellátásukon, vagy egyáltalán spóroljanak bármin is, hanem a mindenki számára elérhető, megelőzésre hangsúlyt fektető ellátásnak köszönhetően egészségesek legyenek, és ha esetleg bajba kerülnek, akkor gyógyítsák meg őket?
+   </p>
+   <p>
+    Gyurcsány másik kijelentése szerint át kell gondolni azt is, hogy az ellenzék a progresszív adózással kampányoljon-e? Szerinte a 2014-es választási kampány egyik tanulsága, hogy az emberek többségének ez nem tetszik. Most lépjünk is túl azon, hogy ez mennyire tanulsága ennek a kampánynak, és mennyire gondolja ezt az emberek többsége. De nem az lenne egy párt, főleg egy magát baloldalinak tartó párt feladata, hogy elmagyarázza, miért van szükség progresszív adóra ahelyett, hogy azt mondja, az emberek többsége szerintünk ezt nem akarja, akkor ugorjuk is?
+   </p>
+   <p>
+    Például el kéne mondania, hogy azért van szükség erre, mert az egykulcsos adó bevezetése és az adójóváírás megszüntetése után a körülbelül bruttó 200 ezer forint alatti jövedelmek mind veszítettek nettó, azaz a kézhez kapott értékükből, ezzel pedig a társadalom 80 százaléka rosszul járt. És hogy az alacsony jövedelmek magas adóterhei miatt, vagyis az alacsony nettó fizetések miatt indult be a tömeges kivándorlás, aminek következtében jelenleg olyan munkaerőhiány van, amely visszaveti a gazdaság növekedését, nem beszélve arról, hogy ápolók, szociális munkások kuporognak nevetséges éhbért jelentő nettó fizetésekből. Az alacsony keresetűek pedig általában elfogyasztják a megtermelt jövedelmüket, annak csökkenése pedig értelemszerűen fogyasztáskieséssel járt. Ez pedig olyan károkat okozott a magyar gazdaságnak, amit a mai napig nem hevert ki, a többkulcsos, progresszív adóztatás visszaállítása pedig nagyot lökne a magyar gazdaságon.
+   </p>
+   <p>
+    És még hosszan lehetne sorolni a nevetséges gyurcsányi érveket, a baloldalinak hazudott dolgozó- és szegényellenes jobboldali lózungokat, amelyek az interjúban elhangzanak. De hogy a napnál is világosabb legyen, miről is beszélünk, amikor Gyurcsányt nevetségesnek tartjuk, álljon itt két idézet az interjú két különböző részéből, mert ez tökéletesen mutatja be, mi Gyurcsány Ferenc politikája:
+   </p>
+   <p>
+    Gyurcsány a vizitdíjról:
+   </p>
+   <p>
+    Nagyon kevés pénzről beszélünk, inkább egy olyan szimbólumról, amely jó irányba alakítja át a betegek és az orvosok mentalitását.
+   </p>
+   <p>
+    Gyurcsány a leggazdagabbak megadóztatásáról, miután a kérdező elmondja, hogy nagyon kevés pénzről szólna ez az adó (ez egyébként tévedés, vagyis adóformától függ)
+   </p>
+   <p>
+    De az extra adó kivetése nem alakít át semmilyen magatartást. Pusztán egy szimbólumért nem vállalnék vereséget.
+   </p>
+   <p>
+    Tehát pusztán egy szimbólumért nem vállal politikai vereséget Gyurcsány, ha az a gazdagokra kivetett nagyobb adóteher, de a szerinte szimbolikus vizitdíjért, amely a dolgozók és alsó osztályok magatartását tette volna „felelősségteljesebbé”, és amely, mint fent írtuk, sok magyar családnak nem szimbolikus összeg, kész volt a választási vereségre.
+   </p>
+   <p>
+    Ugye milyen okos, átgondolt politika ez?
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

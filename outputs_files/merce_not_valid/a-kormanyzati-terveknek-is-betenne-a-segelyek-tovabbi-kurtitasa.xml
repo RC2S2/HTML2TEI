@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A kormányzati terveknek is betenne a segélyek további kurtítása
+    </title>
+    <author>
+     <persName>
+      Molnár György
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     dd2b9d1e-2a02-530d-8581-3b623585f12d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A kormányzati terveknek is betenne a segélyek további kurtítása
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Molnár György
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-10-11T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/10/11/a-kormanyzati-terveknek-is-betenne-a-segelyek-tovabbi-kurtitasa/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/10/11/a-kormanyzati-terveknek-is-betenne-a-segelyek-tovabbi-kurtitasa/
+     </sch:url>
+     <sch:name>
+      A kormányzati terveknek is betenne a segélyek további kurtítása
+     </sch:name>
+     <sch:datePublished>
+      2018-10-11T20:30:00
+     </sch:datePublished>
+     <sch:author>
+      Molnár György
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      ner
+     </sch:keywords>
+     <sch:keywords>
+      közmunka
+     </sch:keywords>
+     <sch:keywords>
+      szociálpolitika
+     </sch:keywords>
+     <sch:keywords>
+      belügyminisztérium
+     </sch:keywords>
+     <sch:keywords>
+      segély
+     </sch:keywords>
+     <sch:keywords>
+      pénzügyminisztérium
+     </sch:keywords>
+     <sch:keywords>
+      munkaerőpiac
+     </sch:keywords>
+     <sch:keywords>
+      közfoglalkoztatás
+     </sch:keywords>
+     <sch:keywords>
+      társadalompolitika
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="dd2b9d1e-2a02-530d-8581-3b623585f12d">
+     <sch:identifier>
+      urn:uuid:544c2d74-9212-4976-a817-c6a304010e11
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:23.594153
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:10:11.157722
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="dd2b9d1e-2a02-530d-8581-3b623585f12d" when="2021-12-14T15:30:23.594153">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A kormányzati terveknek is betenne a segélyek további kurtítása
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Néhány hete – valószínűleg véletlenül – a megvitatásra szánt jogszabálytervezetek közé rövid időre kikerültek a kormányoldalra egy közfoglalkoztatással kapcsolatos belügyminisztériumi előterjesztés mellékletei. Az ebben szereplő javaslatok egyike drasztikusan csökkentené azok körét, akik (pongyola megnevezést használva) munkanélküli segélyt kaphatnak. Az azóta a kormányoldalról eltávolított tervezetről először a
+    <hi>
+     Népszava
+    </hi>
+    adott hírt
+    , néhány vonatkozását pár napja a
+    <hi>
+     Mérce
+    </hi>
+    is
+    összefoglalta
+    . „Szociális kegyelemdöfés – Segélymegvonásra készül a kormány” írja a
+    <hi>
+     Népszava
+    </hi>
+    , „A kormány a szegények vérét szívja”, fokoz a
+    <hi>
+     Mérce
+    </hi>
+    . Az indulat sok szempontból jogos, de a címek pontatlanok. A szóban forgó dokumentum minden oldalán ott a felirat: „Az előterjesztést a Kormány nem tárgyalta meg, ezért, az nem tekinthető a Kormány álláspontjának” (
+    <hi>
+     vesszőhiba az eredetiben
+    </hi>
+    ).
+   </p>
+   <p>
+    Nem mindegy? Úgyis elfogadják végül, mondhatnánk. És valóban, erre utal Rétvári Bence államtitkár nyegle hangú
+    válasza
+    , amit Bangóné Borbély Ildikó MSZP-s képviselő kérdésére adott. A helyzet azonban korántsem ilyen egyszerű. A kormányzat azt a – jelentős mértékben saját maga által előállított – problémát próbálja megoldani, hogy egyszerre áll fenn a munkaerőhiány és a részben a közfoglalkoztatásban elrejtett tartós munkanélküliség.
+   </p>
+   <p rend="head">
+    Kutatói interjúim során egyértelműen érzékelhető volt, hogy a lehetséges megoldásokról mást gondolnak a Pénzügyminisztérium (korábban Nemzetgazdasági Minisztérium) szakemberei, mint a közfoglalkoztatásért felelős Belügyminisztérium (micsoda abszurditás!) munkatársai. Egyáltalán nem biztos, hogy lefutott ügyről van szó.
+   </p>
+   <p>
+    Normális körülmények között amúgy is az volna a dolgok rendes menete, hogy egy probléma megoldására születik valamilyen javaslat, azt nyilvános vitára bocsátják, majd az érvek és ellenérvek ütköztetésével megvizsgálják, hogy a javaslat megvalósítása valóban közelebb visz-e a probléma enyhítéséhez és a(z esetleges) pozitív hatást nem rontják-e le a káros mellékhatások. Viselkedjünk hát úgy, mintha normálisak lennének a körülmények és vizsgáljuk meg közelebbről a javaslatot, az érveket és ellenérveket. Előrebocsátom, vizsgálódásom végeredménye az lesz, hogy a kormányzati célok szempontjából is kifejezetten kártékony javaslatról van szó. Mégis, azt remélem, hogy az elemzés nem érdektelen: levonható belőle néhány tanulság, segíthet alternatív megoldásokat találni és alkalmat adhat olyanok meggyőzésére is, akik nem eleve ugyanazt gondolják, mint mi.
+   </p>
+   <p rend="head">
+    A Gyurcsány-Bajnai-Orbán tengely
+   </p>
+   <p>
+    Érdemes először a mostani módosítási javaslat hátterét, előzményeit bemutatni. A szociális ellátásokról szóló
+    törvény
+    értelmében  „akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs.”  Ez a meghatározás konkrétan azt jelenti, hogy
+   </p>
+   <p rend="head">
+    egy egyedülálló személynek a törvényt megszavazók szerint biztosított a megélhetése, ha havi jövedelme eléri a 25 650 forintot, egy két felnőttből és két gyerekből álló családnak pedig akkor, ha eléri a 89 775 forintot.
+   </p>
+   <p>
+    Nem hiszem, hogy van olyan ember, aki valóban azt gondolja, hogy ennyiből „biztosított a megélhetés”. Ez az összeg lényegében a
+    létminimumhoz elegendő élelmiszernormatíva
+    értékével egyezik meg, ami 2017-ben egy felnőtt esetében  (100 forintra kerekítve) 24 900, egy gyerekre 19 400 forint volt. És akkor nem jut sem lakhatásra, se gyógyszerre és semmi másra. Vagy éheznek, olyan szinten táplálkoznak, ami nemhogy a munkaképesség fenntartásához, hanem a tétlenségbeli fizikai állapot újratermeléséhez se elegendő.
+   </p>
+   <p>
+    Felháborító szabályozás, ami ellen minden tiltakozás jogos. Egy apró bökkenő van csak: ezt a bekezdést 2008 végén, a Gyurcsány-kormány idején
+    iktatták
+    a törvénybe. (Az ezt megelőző, minden szempontból emberibb szabályozás részleteibe most nem merülnék el.) Az azóta bekövetkezett infláció (bár kb. 30 %-os) nem jelent érdemi különbséget, egy felnőtt havi élelmiszernormatívája már akkor is
+    19400 forint
+    volt. Meglepő módon az eltelt 10 év során az ezzel szembeni tiltakozás elég vérszegény maradt (nem a szociális kérdésekkel foglalkozó szakemberekről beszélek most, őket nem érheti szó): élénk nyilvános vita zajlott arról, hogy meg lehet-e élni 47 ezer forintból, a korábbi nettó közfoglalkoztatási bérből, de nem tették fel azt a kérdést, hogy meg lehet-e élni 25 650 forintból.
+   </p>
+   <p>
+    Nem akarom minden ága-bogát végigjárni, nézzük meg közelebbről a legjellemzőbb esetet. Ha valaki munkanélkülivé válik, akkor legfeljebb három hónapig jár számára a biztosítási alapú álláskeresési járadék, amelynek összege a korábbi jövedelemtől függ. (Korábban kilenc hónap volt a maximális folyósítási idő, ezt az Orbán-kormány csökkentette 2011-ben háromra.) Aki ennek elteltével se jut munkához, még közmunkához se, vagy soha nem is volt legális munkája, annak
+    <hi>
+     járhat
+    </hi>
+    a 2011-ig 28 500, azóta 22 800 forint összegű úgynevezett foglalkoztatást helyettesítő támogatás (röviden fht). Járhat és nem jár, mert ha a fentiek értelmében enélkül is „biztosított a család megélhetése”, akkor még ezt a csekély összeget se kapják meg.
+   </p>
+   <p>
+    Egy 2009 végén, a Bajnai-kormány idején hozott
+    salátatörvény
+    további szigorítással élt: egy családban csak egy személy jogosult erre a támogatásra. Ha tehát például férj és feleség egyaránt munkanélküliek és a helyi településvezetés nem biztosít számukra közmunkát, akkor csak egyiküknek jár a 22 800 forint. Ez a Bajnai-kormány részéről olyan, költségvetési okokkal indokolt megszorítás volt, amit valahogy a későbbi Orbán-kormányok se bíráltak, inkább készségesen átvették. Higgyük el egy pillanatra, hogy a törvényben meghatározott összeg tényleg az alsó határa annak, amennyiből meg lehet élni. Ezzel a további megszorítással
+   </p>
+   <p rend="head">
+    a törvényhozó a saját tudása szerint is arról rendelkezett, hogy ha nincs közmunka, akkor a munkanélküliségtől sújtott családok még a legminimálisabb megélhetéshez szükséges összeget se kapják meg.
+   </p>
+   <p>
+    A költségvetési szempont igazságtartalmát illetően még annyit jegyeznék meg, hogy 2016-ban
+    kiszámoltuk
+    , mennyibe kerülne ennek a szabálynak az eltörlése: mindössze 4 milliárd forintról beszélünk, ami egy országos költségvetésben a kerekítési hiba szintjét se éri el.
+   </p>
+   <p>
+    Mintha a politikusi amnézia, annak a ténynek az elhessegetése, hogy lényegét tekintve egy 2008 óta érvényben lévő szabályozásról van szó, a témával foglalkozó cikkek egy részét is megfertőzte volna. A
+    <hi>
+     Népszava
+    </hi>
+    már hivatkozott írása a foglalkoztatást helyettesítő támogatást a szociális segély NER-ben használatos nevének hívja és ezt a poént a
+    <hi>
+     Mérce
+    </hi>
+    is átvette. Ha lefordítjuk az fht-t érthető emberi nyelvre, akkor szociális helyett pontosabb volna munkanélküli segélynek hívni, de nem ez a lényeg. A valódi tartalom leplezését szolgáló bürokrata zsargont ugyanis már a NER előtt is haszálták, akkor ugyanezt a segélyt a talán még idétlenebb
+    <hi>
+     rendelkezésre állási támogatásnak
+    </hi>
+    (rát) hívták. Szóval nem csak tartalmilag, hanem szóhasználatában se a NER találmányáról van szó, még ha a 28 500 forint csökkentésével és az inflációkövetés elmulasztásával valóban tovább rontották a feltételeket.
+   </p>
+   <p rend="head">
+    Kafkai útvesztő
+   </p>
+   <p>
+    Van ugyanakkor a törvényben egy, a közfoglalkoztatásban részesülők családja számára fontos könnyítés. Ha valaki közfoglalkoztatott és a családtagja foglalkoztatást helyettesítő támogatásért folyamodik, akkor a jogosultság vizsgálata során a megélhetés „biztosítottsága” szempontjából nem a teljes közmunkás bért kell figyelembe venni, hanem csak az fht (korábban rát) összegét. Vagyis, ha valaki közmunkás, akkor munka nélkül lévő családtagja akár meg is kaphatja a 22 800 forintot és így két felnőtt (például egy anya még vele élő nagykorú gyerekével, hogy a válás se lehessen megoldás) már havi 77 ezer forintból dőzsölhet. Vagy mégsem.
+   </p>
+   <p>
+    Most egy kissé nehezen követhető bonyodalom következik, de kérem, küzdjön meg vele az olvasó, a nyomorgóknak is muszáj ezt tenniük. A törvény trükkösen nem úgy fogalmaz, hogy egy családban egyszerre csak egy ember
+    <hi>
+     kaphat
+    </hi>
+    foglalkoztatást helyettesítő támogatást, hanem úgy, hogy csak egy fő
+    <hi>
+     jogosult
+    </hi>
+    rá. (Ez a trükk se NER találmány.) Első pillantásra lényegtelennek tűnik a különbség, pedig egyáltalán nem az. Előző példánkat véve tegyük fel, hogy a szóban forgó kéttagú családban az anya korábban már folyamodott foglalkoztatást helyettesítő támogatásért és megállapították a jogosultságát. Aztán végre közmunkához jutott (most nettó 54 ezer forint), így értelemszerűen nem kapja tovább az fht-t, de – most jön a csavar – továbbra is jogosult rá. A folyósítás szünetel ugyan a közfoglalkoztatás alatt, de a jogosultság nem szűnik meg. Ha azt hitték, hogy a felnőtt gyerek most megkaphatja az fht-t és így a közmunkás bér mellett egy kis többlethez jutnak, akkor súlyosan tévedtek. Akkor viszont, ha az édesanya korábban nem szerzett volna jogosultságot az fht-re, gyermekének már járna ez a támogatás.
+   </p>
+   <p rend="head">
+    Kevés ennél méltánytalanabb megoldás képzelhető el.
+   </p>
+   <p>
+    Korábban egyébként, amikor az önkormányzatok ítélték oda az fht-t, sok helyen nem így, hanem józan ésszel értelmezték a törvényt, de mióta a kormányhivatalok döntenek, egységesítették a jogértelmezést.
+   </p>
+   <p rend="head">
+    A mostani javaslat
+   </p>
+   <p>
+    Az útvesztőből kikeveredve el is érkeztünk a mostani jogszabálymódosítási elképzeléshez.
+   </p>
+   <p rend="head">
+    A BM előterjesztői azt javasolják ugyanis, hogy minden esetben szűnjön meg az előzőekben tárgyalt közmunkás kedvezmény, vagyis a családi jövedelem számításakor nem csak 22 800 forintot, hanem a teljes közmunkás bért figyelembe kell venni. Ez az előző példa kéttagú családja esetében azt jelenti, hogy – hacsak nem hívják be a család másik tagját is közmunkára – ezentúl 54 ezer forintból kellene megélniük.
+   </p>
+   <p>
+    A javaslatot azzal indokolják, hogy a jelenlegi megoldás az „elsődleges munkaerőpiacon történő elhelyezkedés ellen hat”. Szerintük „előfordulhat, hogy a volt közfoglalkoztatott családja – bár az elsődleges munkaerőpiacon elérhető jövedelem magasabb, mint a közfoglalkoztatási bér – az aktív korúak ellátásának [vagyis az fht-nak] elvesztése miatt rosszabb anyagi helyzetbe kerül a közfoglalkoztatásból az elsődleges munkaerőpiacra történő kilépéssel, mintha közfoglalkoztatásban maradt volna.”
+   </p>
+   <p>
+    Nézzük meg először ennek az állításnak az igazságtartalmát. Ha nincs gyerekek után járó adókedvezmény, akkor a nettó 8 órás minimálbér és a nettó közfoglalkoztatási bér közötti különbség 37 513 Ft, ami meghaladja az fht összegét. Ha van gyerekek után járó adókedvezmény, akkor a különbség még nagyobb. Lehet persze azzal érvelni, hogy túl kicsi a különbség, de nem ez volt az indoklás. Ráadásul az előterjesztő „ügyesen” elhallgatja, hogy 2015 óta létezik az úgynevezett elhelyezkedési juttatás, ami lehetővé teszi, hogy ha valaki a közfoglalkoztatás időtartama alatt el tud helyezkedni a nyílt munkapiacon, akkor addig, amíg a közfoglalkoztatása tartott volna, tovább kapja a foglalkoztatást helyettesítő támogatásnak megfelelő összeget. Az más kérdés, hogy ez a megoldás szabályozási okokból nem működik túl jól (a részleteket most mellőzöm), de
+   </p>
+   <p rend="head">
+    mindig egyszerűbb a szegényeket tovább sanyargatni, mint jó szabályozást kitalálni.
+   </p>
+   <p>
+    Az tehát, amit az előterjesztő állít, 8 órás munka esetén nem igaz.
+   </p>
+   <p>
+    De tovább is van az indoklás: „Az aktív korúak ellátásának szabályai így nemcsak arra ösztönzik a közfoglalkoztatottakat, hogy ne lépjenek ki az elsődleges munkaerőpiacra, de önmagukban is méltánytalanok azokra nézve, akik még közfoglalkoztatási bért sem kapnak.” Tény, hogy ez a rendszer elképesztően méltánytalan, úgyhogy „javítsuk” azzal, hogy azokkal szemben is váljon méltánytalanná, akikkel eddig legalább egy kicsit méltányos volt.
+   </p>
+   <p rend="head">
+    Ösztönöz-e?
+   </p>
+   <p>
+    2008 óta kisebb, 2011 óta szélsőségessé fokozott mértékben ez az ösztönzési logika határozza meg a munkanélküliek szociális támogatásának és a közfoglalkoztatás rendszerének a kialakítását. Úgy gondolták, hogy anyagi kényszerítéssel „rábírhatják” a munka nélkül lévőket, hogy állást vállaljanak az elsődleges munkapiacon. Ez a megközelítés egyszer már súlyos tévedésnek bizonyult, hiszen
+   </p>
+   <p rend="head">
+    az alacsony iskolai végzettségűek munkanélküliségének nem az ösztönzés hiánya volt az alapvető oka.
+   </p>
+   <p>
+    Most néhányan nem tanultak a kudarcból és úgy vélik, hogy a munkaerő iránti bővülő kereslet idején jobban alkalmazható ez a fajta „ösztönzés”.
+   </p>
+   <p>
+    Nem vitatható, hogy vannak olyanok, akiknél működhet. Ha nő az elsődleges munkapiacon való elhelyezkedés haszna a közmunkához képest, akkor könnyebben vállalhatók a piaci munka többletterhei: a közmunkánál nehezebb munka, az utazási költségek, az otthoni tartózkodáshoz képest az étkezés többlet-költségei, a gyerekek óvodába, iskolába eljuttatásának nehézségei. A különbséget lehet úgy is növelni, ha rontjuk a megélhetés lehetőségeit és úgy is, ha csökkentjük az elhelyezkedés költségeit. Az első persze sokkal egyszerűbb, semmilyen gondolkodást nem igényel, elég hozzá az előítéleteket működtetni. Az utóbbi már némileg bonyolultabb.
+   </p>
+   <p>
+    Egyre nagyobb mértékben tapasztalható például, hogy Szabolcs-Szatmár-Bereg vagy Békés megyében a közmunkások valóban kilépnek az elsődleges munkapiacra, csak nem itthon, hanem Romániába járnak át dolgozni. Az ottani cégek egy része ugyanis felismerte, hogy a munkásszállítás és a munka közbeni étkezés megoldása már elég ahhoz, hogy a magyar minimálbérért elmenjenek dolgozni a korábbi közmunkások. Az ország szélein kevésbé, máshol nálunk is létezik és terjed(ne) ez a gyakorlat, csakhogy a kormányzat legújabb elképzelései szerint nemhogy ösztönözné, inkább adóteherrel sújtaná ezt a gyakorlatot.
+   </p>
+   <p>
+    A jelenlegi munkaerőhiány körülményei között is közel
+    262 ezer a regisztrált munkanélküli
+    , közülük a jelenlegi szabályok mellett is
+    120 ezren
+    vannak minden szociális ellátás nélkül, az ő számukat szeretné a BM előterjesztése tovább növelni. A nagy többségük nem az ösztönző jövedelemhiány miatt nem dolgozik. Csak néhányat sorolok fel a lehetséges okok közül:
+   </p>
+   <list>
+    <item>
+     Olyan helyen él, ahol nincs a közelben munkalehetőség, különösen nincs alacsony iskolai végzettségűek számára.
+    </item>
+    <item>
+     Volna ingázási távolságra munka, de nincs megoldva a tömegközlekedés. A járatok nem igazodnak a munkakezdéshez, főleg nem a többműszakos munkához.
+    </item>
+    <item>
+     Hosszú távon pszichésen nem bírják a monoton szalagmunkát.
+    </item>
+    <item>
+     Csak olyan nehéz munkák vannak, amelyeknek elvégzését fizikai állapotuk nem teszi lehetővé. Különösen gyakoriak a korábbi kemény munka miatti gerinc- vagy egyéb mozgásszervi bántalmak. Az elmúlt évek nyomora, például az, hogy
+     nem volt pénzük megvenni a szükséges gyógyszereket
+     , tovább
+     rontott egészségi állapotukon
+     . A szociális támogatások alacsony szintjének hatásáról a munkaerő újratermelésének lehetőségére további részletek olvashatók például
+     itt
+     .
+    </item>
+    <item>
+     Mentális állapotuk, felkészültségük nem teszi lehetővé a munkatalálást és a munkavégzést. Rehabilitációra, komplex foglalkozásra volna szükség ahhoz, hogy dolgozni tudjanak. Leromlott mentális állapotuk részben a hosszan tartó nyomor következménye.
+    </item>
+    <item>
+     A munkaerő közvetítés problémái. A szóban forgó BM javaslatot az előterjesztés tervezetében megelőzi a közfoglalkoztatás 2018. évi helyzetét elemző, nagyon korrekt anyag, amelyből egyébként a támogatás-csökkentő javaslat egyáltalán nem következik. Az elemzés összefoglalójából idézek: „a közfoglalkoztatottak/álláskeresők elsődleges munkaerő-piaci elhelyezkedési esélyei – közvetítés hiányában – nem javultak, ellenben nagy számban maradtak jövedelmet biztosító közfoglalkoztatás nélkül az álláskeresők, valamint a futó közfoglalkoztatási programok is egyre komolyabb létszámfeltöltési gondokkal küzdenek” [kiemelés az eredetiben].
+    </item>
+   </list>
+   <p>
+    A családi jövedelemnek a segély megvonása révén való további csökkentése tehát a közmunkások egy részére esetleg hathat, a többség esetében azonban semmilyen ösztönző hatása nincs, mert más okból nem tud elhelyezkedni. A javaslat nem tesz különbséget, azok között, akikre hathat, és azok között, akikre eleve nem. Úgyhogy
+    <hi>
+     biztos, ami biztos
+    </hi>
+    azok helyzetét is súlyosan rontja, akikre semmi hatása nem lehet. Ezzel pedig tovább rontja fizikai és mentális állapotukat és ezzel elhelyezkedési esélyeiket. Nemcsak embertelen, hanem
+   </p>
+   <p rend="head">
+    már rövid távon is többet árt a közmunkások munkába állásának, mint amennyit használ.
+   </p>
+   <p rend="head">
+    Néhány politikai tanulság
+   </p>
+   <p>
+    Időbeli visszatekintésünk arra világít rá, hogy a mostani baloldali politikusi tiltakozások hitelességét jelentősen fokozná a múltra vonatkozó önkritika és hihető, az érintettek számára értelmezhető, helyzetük rövid távú javulását ígérő ellenajánlatok megfogalmazása.
+    <hi rend="bold">
+     (
+    </hi>
+    Ennyiben nem teljesen alaptalan az államtitkári válasz pikírtsége.)
+   </p>
+   <p>
+    A demokratikus pártok 2018-as választási programjából ezeknek az elemeknek egy része, vagy akár mindegyike hiányzott.
+   </p>
+   <p rend="head">
+    Akiknek felelősségük volt a 2008-as és 2009-es törvények elfogadásában, először azzal kellett volna számot vetniük és ennek fényében megfogalmazni a munkanélküli támogatások új rendszerét.
+   </p>
+   <p>
+    Nem valamiféle elvont értelmiségi igazságérzet jegyében, hanem azért, mert az érintettek nem fognak hinni nekik.
+   </p>
+   <p>
+    A kisebb pártok között voltak olyanok, amelyek programjukban reflektáltak az itt felvetett problémákra. Nekik vagy erejük vagy merszük nem volt ahhoz, hogy elképzeléseikkel érdemben kampányoljanak. Ebből a szempontból nem jelent valódi választ a feltétel nélküli alapjövedelem melletti kampányolás sem. Az érintettek számára nem értelmezhető, rövid távú bevezetése a legkisebb mértékben se hihető. Nem érdemes csodálkozni, ha a szegények többsége ilyen körülmények között a regnáló hatalomra
+    voksolt
+    .
+   </p>
+   <p>
+    Most pedig az eddigieknél pontosabb, kevésbé a politikai minősítésekre, inkább a szakmai összefüggésekre koncentráló tiltakozás hozzájárulhat ahhoz, hogy ez a káros javaslat – talán a kormányzat egyes részeinek egyetértésével – ne valósuljon meg.
+   </p>
+   <p>
+    (Kiemelt kép: MTI)
+   </p>
+  </body>
+ </text>
+</TEI>

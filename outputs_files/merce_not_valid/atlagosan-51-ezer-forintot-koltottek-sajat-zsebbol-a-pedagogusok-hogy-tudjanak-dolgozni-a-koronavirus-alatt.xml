@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Átlagosan 51 ezer forintot költöttek saját zsebből a pedagógusok, hogy tudjanak dolgozni a koronavírus alatt
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     13fb23c0-39ed-53d5-b7eb-e88473ee8fd0
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Átlagosan 51 ezer forintot költöttek saját zsebből a pedagógusok, hogy tudjanak dolgozni a koronavírus alatt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-06-23T10:55:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/06/23/atlagosan-51-ezer-forintot-koltottek-sajat-zsebbol-a-pedagogusok-hogy-tudjanak-dolgozni-a-koronavirus-alatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/06/23/atlagosan-51-ezer-forintot-koltottek-sajat-zsebbol-a-pedagogusok-hogy-tudjanak-dolgozni-a-koronavirus-alatt/
+     </sch:url>
+     <sch:name>
+      Átlagosan 51 ezer forintot költöttek saját zsebből a pedagógusok, hogy tudjanak dolgozni a koronavírus alatt
+     </sch:name>
+     <sch:datePublished>
+      2020-06-23T10:55:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      oktatás
+     </sch:keywords>
+     <sch:keywords>
+      munka járvány idején
+     </sch:keywords>
+     <sch:keywords>
+      szakszervezet
+     </sch:keywords>
+     <sch:keywords>
+      pdsz
+     </sch:keywords>
+     <sch:keywords>
+      digitális oktatás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="13fb23c0-39ed-53d5-b7eb-e88473ee8fd0">
+     <sch:identifier>
+      urn:uuid:de930b23-c512-4b20-b59f-a65a23b596aa
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:39.294379
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:14:32.660696
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="13fb23c0-39ed-53d5-b7eb-e88473ee8fd0" when="2021-12-14T15:30:39.294379">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Átlagosan 51 ezer forintot költöttek saját zsebből a pedagógusok, hogy tudjanak dolgozni a koronavírus alatt
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Bár a kormány sikertörténetként kommunikál a digitális oktatásra való átállásról, ha beszélhetünk is sikerről, az semmiképp nem a kormány érdeme, az elmúlt három hónapban megvalósult oktatás pedig nem igazán nevezhető digitálisnak. Hogy kiderüljön, hogyan élték meg a néhány óra alatt lezajló teljes átszervezést az érintettek, a Pedagógusok Demokratikus Szakszervezete (PDSZ)
+    országos felmérést készített
+    . A kielemzett adatok első részét most közölték.
+   </p>
+   <p>
+    Mint az emlékezetes, Maruzsa Zoltán köznevelési államtitkár szerint a pedagógusoknak
+    több szabadidejük maradt az új munkarendben
+    , a válaszadók túlnyomó többségének (78,1%-ának) visszajelzése szerint azonban a digitális munkarend bevezetésével többet kellett dolgoznia, mint egyébként.
+   </p>
+   <p>
+    Az otthon végzett munka magasabb önköltséggel is járt: egyrészt a válaszadók 27,5%-a jelezte, hogy egyértelműen nőttek a rezsiköltségei a távmunka alatt, míg további 29,7%-ot részben érintett a probléma. Másrészt a válaszadók közel fele (42,9%) számolt be arról, hogy kénytelen volt saját pénzéből beruházni annak érdekében, hogy el tudja végezni a feladatait. Erre ugyanis semmilyen központi megoldás nem érkezett – sőt még felvetés szintjén sem merült fel a probléma az oktatásirányításnál.
+   </p>
+   <p>
+    A legtöbben (68,2%) kiegészítőket, azaz webkamerát, fej- és fülhallgatókat és egyéb perifériákat vásároltak, sokan kényszerültek internet- (37,1%) vagy telefonelőfizetést (14,7%) vásárolni, vagy a meglévőt bővíteni.
+   </p>
+   <p>
+    A pedagógusok igen jelentős része, 22,8%-a volt kénytelen számítógépet vásárolni, de az is árulkodó, hogy a válaszadók több mint 10 százaléka saját zsebből fizetett elő olyan tréningekre, tanfolyamokra, amelyek a digitális munkarend megvalósításához szükséges tárgyi tudás megszerzését segítették elő – írja a PDSZ.
+   </p>
+   <p rend="head">
+    A válaszadók átlagosan 51 524 forintot költöttek saját zsebből a digitális munkarend megvalósítására. Ezen belül a legtöbbet költő tíz százalék átlagosan 150 484 forintot költött a munkavégzésével kapcsolatos igények kielégítésére.
+   </p>
+   <p>
+    Sokan (46,2%) stresszesnek élték meg az elmúlt időszakot, ami alatt 38,7 százalék úgy érezte, inkább jellemző volt esetében az egészségromlás, míg 11,9% egyértelműen a digitális munkarendnek tulajdonította azt.
+   </p>
+   <p>
+    A válaszadók több mint a fele (54%) jelezte, hogy nem volt központilag bevezetett távoktatási keretrendszer az intézményükben, ezért sok helyen teljesen esetleges volt, hogy ki, milyen rendszereket használ az oktatás lebonyolítására. Ahogy arról a Mércén is írtunk, a pedagógusok leginkább magukra és egymásra számíthattak a digitális munkarend megvalósításába.
+   </p>
+   <p>
+    „Ami a leginkább bizonyítja az oktatásirányítás teljes kudarcát az az, hogy a kollégák még a szolgáltatóktól is több segítséget kaptak (pl. ingyenesen bővített adatkeretek formájában), mint a oktatásirányítás erre hivatott szerveitől”
+   </p>
+   <p>
+    – írja a szakszervezet, hozzátéve: a válaszadók 79,6%-a szerint semmilyen segítség nem érkezett az állami intézményektől.
+   </p>
+   <p>
+    A legtöbb segítséget a közösségi oldalakról, csoportokról vették igénybe (72,4%), majd a különböző magáncégek, kiadók, tartalomszolgáltatók oktatásban felhasználható tartalmait jelölték a legtöbben (43,5%), ahogy sokan (23,6%) vették igénybe a civilek, művészek, alapítványok, szakmai szervezetek által biztosított tartalmi segítséget is. Az oktatásirányítási felületeken csak kevesen (8,7%) találtak a digitális munkarendben felhasználható tartalmi segítséget.
+   </p>
+   <p>
+    „A digitális munkarend legfontosabb tanulsága a válaszadók szerint a központi fejetlenség és a lokális lelemény volt. Sem az oktatás kereteinek kidolgozásában, sem tartalmi segítségben nem tudott tényezővé válni az az oktatásirányítás, aminek alapvető szerepe kellett volna legyen ebben a folyamatban. Nem alakultak ki egységes ajánlások, nem keletkeztek felhasználható digitális tananyagok – annak ellenére sem, hogy erre milliárdokat áldoztak az elmúlt években”
+   </p>
+   <p>
+    – írja a szakszervezet, mely szerint az eredmény fényében kijelenthető, hogy a digitális munkarendben inkább a „karanténoktatás” volt jellemző, amiből az oktatásirányítás nem tudta kivenni a részét.
+   </p>
+  </body>
+ </text>
+</TEI>

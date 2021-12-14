@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A reformista illúziók vége – válasz Schiffer Andrásnak
+    </title>
+    <author>
+     <persName>
+      Szabó Dániel
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     aaedd95c-a539-523f-932e-785aa7e9ae70
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A reformista illúziók vége – válasz Schiffer Andrásnak
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szabó Dániel
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-21T18:36:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/21/a-reformista-illuziok-vege-valasz-schiffer-andrasnak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/21/a-reformista-illuziok-vege-valasz-schiffer-andrasnak/
+     </sch:url>
+     <sch:name>
+      A reformista illúziók vége – válasz Schiffer Andrásnak
+     </sch:name>
+     <sch:datePublished>
+      2019-07-21T18:36:00
+     </sch:datePublished>
+     <sch:author>
+      Szabó Dániel
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      mi a teendő?
+     </sch:keywords>
+     <sch:keywords>
+      szociáldemokrácia
+     </sch:keywords>
+     <sch:keywords>
+      antikapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      ökológia
+     </sch:keywords>
+     <sch:keywords>
+      fogyasztói társadalom
+     </sch:keywords>
+     <sch:keywords>
+      Schiffer András
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="aaedd95c-a539-523f-932e-785aa7e9ae70">
+     <sch:identifier>
+      urn:uuid:e04d835b-b4f3-4ab5-8d8c-cecf403c3f46
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.707262
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:40:17.671885
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="aaedd95c-a539-523f-932e-785aa7e9ae70" when="2021-12-14T15:30:59.707262">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A reformista illúziók vége – válasz Schiffer Andrásnak
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Schiffer András mindig éles szemű megfigyelő, jó tollú kritikus és pontos diagnoszta volt, akár a jogállamot leépítő Orbán-kurzust, akár a neoliberális politikákat vette célba. Rendszerkritikája tíz évvel ezelőtt – másokéval együtt – képes volt irányt mutatni a hazai zöld mozgalmak jelentős(ebb) részének, és azt képes volt parlamenti erővé formálni. A sokszor valóban pontos diagnózis és kritika mellé azonban sem az LMP, sem pedig személyesen Schiffer nem tudott odarakni egy világos jövőképpel bíró programot, amely a neoliberalizmus és a populista jobboldal igazi alternatíváját is jelenthette volna egyszerre. Így a társadalom többsége számára sosem vált világossá, hogy az LMP és Schiffer András mit is akar valójában.
+   </p>
+   <p>
+    Schiffer legutóbbi írásában
+    azonban már a diagnózis is pontatlan és hiányos. Szükségszerű, hogy az, hiszen Schiffer nem vet számot az utóbbi tíz év újabb fejleményeivel és azok tanulságaival. Három fontos ponton téved Schiffer.
+   </p>
+   <p rend="head">
+    1. Nemzeti burzsoázia nem létezik, mert már nincsenek nemzeti kapitalizmusok
+   </p>
+   <p>
+    Schiffer persze jól látja azt, amit mindenki lát: az EP-választás után a hazai pártpolitika a neoliberális erők és a populista jobboldal párharcává egyszerűsödött. Téved azonban akkor, amikor azt állítja, hogy ez a politikai ellentét a globális nagytőke és a nemzeti burzsoáziák érdekellentétét tükrözi. Nemzeti nagytőke ugyanis – a fogalom korábbi értelmében véve – nem létezik már. Természetesen létezik, ha pl. a magyar nemzeti nagytőkéseket a Magyarországon működő nagyvállalatok magyar állampolgárságú tulajdonosaként azonosítjuk. Nemigen létezik azonban nemzeti nagytőkés (és nemzeti nagytőke) mint olyan cég tulajdonosa, amely túlnyomórészt hazai alapanyagokból, nyersanyagokból, itthon gyártott alkatrészekből, hazai munkaerőt (ki)használva állít össze késztermékeket, melyeket döntően a hazai piacon értékesít, és ezért érdekellentétbe kerül külföldi tulajdonú cégekkel, melyek be akarnak törni a hazai piacra.
+   </p>
+   <p>
+    A nagyobb magyar cégek túlnyomó része exportra is termel, vagy ha nem, akkor szeretne. A kisebb cégek pedig nagyobbak akarnak lenni. Fő törekvésük az, mint minden kapitalista cégé, hogy minél nagyobb szeletet hasítsanak ki maguknak a globális piacból, akár egymás, akár pl. egy dán cég rovására. Emellett nagyon jelentős mértékben használnak importált nyersanyagokat, alkatrészeket, sőt most már importált munkaerőt is.
+   </p>
+   <p>
+    Maguk is részei tehát a globális kapitalista rendszernek, és egyáltalán nem áll érdekükben a védővámos, protekcionista, nemzeti kapitalizmushoz való visszatérés. Trump vámháborúinak sem ez a célja, hanem sokkal inkább az, hogy Kínát rákényszerítse piacainak teljes megnyitására, az irányított államkapitalizmus feladására és az amerikai szabadpiaci modell átvételére. Magyarán: csak még teljesebbé akarja tenni a globális kapitalista rendszert, persze úgy, hogy közben a lehető legelőnyösebb helyzetbe hozza az amerikai nagytőkét.
+   </p>
+   <p rend="head">
+    Orbán – bár politikai marketing kampányaiban rájátszik a globalizációval szembeni ellenérzésekre – nem akar visszatérni a nemzeti kapitalizmushoz, nem ígéri, és nem is ígérte, hogy visszavezeti az országot a „régi jó világba”.
+   </p>
+   <p>
+    Ezt lényegében Schiffer is elismeri, amikor önmagával is ellentmondásba keveredve, azt írja, hogy a magyar gazdaság szekerét a német autóiparhoz kötötte. Orbán azt mondja, hogy ha egyszer nem lehet megakadályozni, hogy az itt megtermelt profit jó részét kivigyék az országból, akkor a megoldás az, hogy mi is tőkét exportálunk, és aztán a nyereséget hazahozzuk.
+   </p>
+   <p>
+    Magyarán: másoljuk le a multik stratégiáját, és ha már gyarmatnak kell lennünk, kompenzáljuk ezt azzal, hogy magunk is gyarmatosítók leszünk (pl.: Ghánában). Orbán azt ígéri, hogy sikeressé teszi az országot a globális kapitalizmus korában, A neoliberálisok szerint a globális kapitalizmus jó, míg Orbán szerint nem jó, de nem tudjuk (értsd.: nem akarjuk) megváltoztatni, ezért legyünk sikeresek benne.
+   </p>
+   <p rend="head">
+    A neoliberalizmus és a populista jobboldal közti ellentét elsősorban ideológiai természetű. Másként magyarázzák korunk válságtüneteinek okait, de a gazdaságpolitikában nincs köztük lényegi ellentét, ahogy a „nemzeti nagytőke” és a „globális nagytőke” közt sincs.
+   </p>
+   <p>
+    Mészáros Lőrinc, Leisztinger Tamás vagy Csányi Sándor hazai nagybirtokos érdekei például szinte végzetesen fonódnak össze a biotech multik, köztük az amerikai-német Monsanto- Bayer konszern érdekeivel, hiszen ezek jelentősen megkönnyítik számukra azt, hogy szinte élő munkaerő alkalmazása nélkül, a természet kizsákmányolása, a termőtalaj  kizsigerelése révén, egészségünk kockáztatása árán extraprofitot termelhessenek maguknak. Ennek megfelelően a német és a magyar kormány együtt akadályozta meg, hogy az EU-ban betiltsák a Monsanto legismertebb termékét, a vegyi méregként számos áldozatot szedő glifozátot.
+   </p>
+   <p>
+    Orbán, Merkel, a magyar neoliberális ellenzék és minden tőkés érdekcsoport ugyanannak a rendszernek a részei. Konkurencia harcok természetesen vannak közöttük, ezeket sokszor meg is ideologizálják, és gondoskodnak arról, hogy ideológiai vitáik határozzák meg a közbeszédet – közös érdekük ugyanis, hogy erről legyen szó, és ne váljon nyilvánvalóvá, hogy elsősorban ugyanannak a rendszernek a kiteljesítése és fejlesztése érdekében dolgoznak – igaz, nem pontosan ugyanúgy.
+   </p>
+   <p rend="head">
+    2. A félperiférián nincs, mert nem lehet szocdem alternatíva
+   </p>
+   <p>
+    Schiffer ezúttal is hosszan ekézi a neoliberális politikát. Teszi ezt jórészt joggal, ugyanakkor most is adós marad azzal, hogy pontosítsa, mit is jelent a rendszerkritikus politika azon túl, hogy nem szereti a neoliberalizmust. A kritika irányát nézve ugyanakkor elég nyilvánvalónak látszik, hogy „az alapokhoz való visszatérés” lényegében a reformista szocdem és a korábbi, még nem liberális, reformista zöld politikához való visszatérést jelenti.
+   </p>
+   <p>
+    Úgy tűnik, feltámaszthatónak lát egy reformista, szociáldemokrata politikát, amely a zöld törekvések természetes szövetségese lehet. Az még érthető, hogy sajnálatosnak látja a Sziriza és a Podemos 2015-ös kudarcát. Ha ugyanis akkor, a félperifériáról kiindulva sikerült volna kikényszeríteni az EU radikális szociáldemokrata reformját, akkor az utat nyithatott volna a rendszer lényegi korrekciója felé.
+   </p>
+   <p>
+    De nem ez történt, és Schiffer nem vet számot az európai, félperifériás, radikális szocdem kísérletek bukásának mélyebb okaival.
+   </p>
+   <p>
+    A szociáldemokrácia a nemzetállami keretek közt, a döntően még nemzeti kapitalista rendszerek korában, és a nemzeti nagytőkével szemben lehetett sikeres. Kormányra kerülve képes volt arra, hogy a nemzeti nagytőkét megadóztassa, tisztességesebb bérezésre kényszerítse, és jóléti rendszereket építsen fel.
+   </p>
+   <p>
+    Azonban ma már nincsenek nemzeti kapitalizmusok, és a globális cégbirodalmak és céghálózatok korában az üzemi szakszervezetekre épülő szocdem mozgalom egyre gyengébb. Kedvező körülmények közt még eredményes lehet a bérharcban, de a rendszer lényegi korrekciójára, a nagyobb mértékű újraelosztás kikényszerítésére (erre épülhetnének újra a jóléti rendszerek) már képtelen. Globálisan pedig a szociáldemokrácia nem tud megszerveződni – nagyon különböző érdekei vannak ugyanis azoknak, akiket össze kéne fogniuk ahhoz, hogy hatékonyon tudjon fellépni a globális nagytőkével szemben. Egy nyugat-európai marketing-menedzsert, egy kelet-európai szakmunkást és egy kongói gyerekrabszolgát ugyanis egyszerűen lehetetlen egyetlen szakszervezeti szövetségben vagy szocdem mozgalomban egyesíteni.
+   </p>
+   <p>
+    Ha pedig a rendszerkritikus, radikális szociáldemokrácia mindezek ellenére politikailag sikeressé válik, és hatalomra jut, akkor az történik, mint ami 2015-ben Görögországban történt. A globális kapitalista rendszer tőkekivonással büntetett, és néhány hónapon belül térdre kényszerítette az országot. Nem pusztán a brüsszeli elit döntéseinek következménye volt ez. Teljesen szokványos automatizmusok érvényesültek a nemzetközi pénz- és tőkepiacokon.
+   </p>
+   <p>
+    Fontos kérdés, hogy ekkor, a tőkekivonás ellenére megtehette-e volna a renitens görög kormány, hogy csődöt jelent, nyíltan vagy burkoltan kilép az euróövezetből és akár a globális kapitalista rendszerből is? Igen, megtehette volna, de csak akkor, ha lett volna B-terve, és a társadalomtól ehhez is felhatalmazást kért és kapott volna. De Cipraszéknak nem volt B-tervük, és azzal az ígérettel nyertek választást, hogy megtartják az eurót.
+   </p>
+   <p>
+    Egy ponton mégis komolyan felmerült a valódi szakítás lehetősége, és Putyin állítása szerint a görögök megkérték az oroszokat, hogy nyomtassanak drachmát. Putyin azonban nem hogy nem segített ez ügyben, hanem még
+    jelentette is
+    francia kollégájának a történteket, és tájékoztatta arról, hogy miben sántikálnak Ciprászék. Ez nem meglepő. Putyinnak, aki állítólag a Nyugat legmegátalkodottabb ellensége, egyáltalán nem áll érdekében az, hogy az Uniót felbomlassza és komoly gazdasági felfordulást okozzon, hiszen ezzel egyben Oroszország legfontosabb exportcikkeinek (olaj és gáz) felvevőpiacát veszélyeztetné.
+   </p>
+   <p>
+    Ezen túl azonban más, mélyebb oka is volt annak, hogy Cipraszék öt és fél hónap „ellenállás” után kapituláltak. Igaz ugyan, hogy a görögök kétszer is a trojka megszorításos-privatizációs programja ellen szavaztak, de azt Schiffer elfelejti, hogy az eurózónából való kilépés sosem élvezett komolyabb támogatottságot, és a Sziriza-szavazók többsége is ellenezte. Ez ugyanis rövid távon még tovább mélyítette volna a válságot.
+   </p>
+   <p>
+    Nemcsak a középosztály bankbetétei vesztek volna el végképp, de a jórészt importált energia és az élelmiszer ára is az egekbe szökött volna. A görög társadalmat pedig senki sem próbálta meg felkészíteni arra, hogy alapszükségleteit tekintve nagyrészt önellátóvá kellene válnia, ha a trojka diktátumaitól tényleg meg akar szabadulni.
+   </p>
+   <p>
+    És nem készítette fel arra sem, hogy a korábbi jólét visszaállítása nem lehetséges már többé, igazságosabb társadalmat csak teljesen más termelési struktúra felépítésével és a fogyasztói társadalommal való végleges szakítás után lehet létrehozni. A 2012-ben még valóban antikapitalista Sziriza 2015-ben már úgy nyert választást, hogy inkább már csak a korábbi jóléti állam visszaállítását ígérte. Ez azonban a félperiférián – Dél- és Kelet-Európában már nem lehetséges, a globális kapitalista rendszernek ez ugyanis nem érdeke, és ezt a tényt nem lehet felülírni nosztalgiára építő, jóléti ígéretekre alapozott választási kampányokkal.
+   </p>
+   <p rend="head">
+    3. A konzumerizmus szükségszerű velejárója a fejlett kapitalizmusnak
+   </p>
+   <p>
+    Nem lehetséges, és egyre világosabb, hogy ökológiai szempontból nem is kívánatos. Az Európa nyugati felén kifejlődött jóléti rendszerek ugyanis a fogyasztói társadalmak kiteljesedésével párosultak, és nőttek össze végzetesen. A munkás, az alkalmazott valóban ki van zsákmányolva most is, tehát igazságos az a követelése, hogy többet kapjon a tulajdonos profitjának a rovására . Azonban többletjövedelmének nagy részét a nagy többség, bármely európai országban is él, egy abszolút fenntarthatatlan jólét (autók, repülőutak, importcikkek, presztízsértékű műszaki termékek vásárlása stb.) finanszírozásába fektetné. A többletjövedelem tehát végül így is a tőke profitját szaporítaná, közben pedig egyre fokozottabb mértékben járulna hozzá az ökológiai válság kiteljesedéséhez. (Arról, hogy a fogyasztói jólét miért nem lehet fenntartható semmiképp sem, korábban
+    itt írtunk
+    és
+    itt.
+    )
+   </p>
+   <p>
+    Schiffer harmadik fontos tévedése, hogy ezt a konzumerizmust a neoliberalizmus számlájára írja. Pedig a konzumerizmus kezdetei már a náci Németországban vagy a kádári Magyarországon is megvoltak, Nyugat-Európában pedig a konzumerizmus kiteljesedése épp a jóléti rendszerek megszületésével esett egybe, amikor nem a liberális, hanem a keynesiánus, szocdem gazdaságpolitika volt a domináns. A populista jobboldalnak sincs baja a konzumerizmussal, csak a multikulturalizmussal.
+   </p>
+   <p rend="head">
+    A szórakoztatóiparba fektetett tőkének viszont teljesen mindegy, hogy meleg párokról vagy épp a Szulejmán szultánról szóló szappanoperák hízlalják-e a profitját. A fogyasztói társadalom tehát nem a neoliberalizmus kreatúrája, hanem magával a fejlett kapitalizmussal jár együtt – teljesen szükségszerűen. A konzumerizmustól megszabadulni pedig csak akkor lehet, ha magával a kapitalizmussal is végleg szakítunk. Amíg ugyanis kapitalizmusban élünk, bármilyen anti-konzumerizmusból könnyedén árucikket varázsolnak.
+   </p>
+   <p>
+    A szociáldemokrata politika viszont nem ellensége a kapitalizmusnak, hisz a gazdasági növekedésre épít, és így sajnos a fogyasztói jólétet erősíti. Ezért nem lehet a valódi megoldás része.
+   </p>
+   <p rend="head">
+    4 A rendszerkritika nem elég, alternatívák kellenek
+   </p>
+   <p>
+    Schiffer projektjének a baloldali, szocdem pillére mellett feltehetően most is megvan a jobboldali, kisgazda – zöld kisgazda pillére is, csak itt nem ezt taglalta (mert egy szocdem irányú lapba írt). A kisgazda pillérrel azonban hasonló problémák vannak, mint a szocdemmel.
+   </p>
+   <p>
+    Kisgazda politika is csak a nemzeti kapitalizmusok korában lehetett sikeres. A globális kapitalizmus globális piacán a mezőgazdasági kistermelő helyzete már ugyanolyan reménytelen, mint egy üzemi szakszervezeté. És ahogyan egy, a gyári munkások által „befoglalt” gyár is versenyképtelen általában, úgy a korábbi kistermelők nagyobb része is az.
+   </p>
+   <p>
+    Kivételek persze vannak, ezek azonban valóban erősítik csak a szabályt. Természetesen vannak szövetkezetként működő gyárak és sikeres kistermelők is, de ők azért sikeresek, mert át tudták venni „a nagyok” stratégiáit, ami azt jelenti, hogy ugyanúgy a marketingre építik az üzletstratégiájukat, és ugyanolyan környezetszennyező módon működnek.
+   </p>
+   <p>
+    A legtöbb figyelmet azon kevesek érdemlik inkább, akik nem lettek sikeresek üzletileg, de fennmaradtak, mint pl. a szaloniki VIOME munkás-szövetkezete vagy a franciaországi ZAD önellátó közössége, és persze a személyes és kisközösségi önellátásra törekvő magyar ökotanyák.
+   </p>
+   <p>
+    Ilyen és
+    hasonló példákra
+    kell építeni a jövő politikáját, amely alternatívát adhat a globális kapitalista rendszer környezetpusztításával szemben, nem pedig a már sokszor becsődölt és elavult, 20. századi szocdem és/vagy kisgazda reformizmusra. És karakteres, radikális megoldási javaslatokra is szükség van, még akkor is, ha ezek jelenleg, a konjunktúra idején (még) nyilván nem fogják meggyőzni a társadalom többségét. A válság ugyanis előbb-utóbb újra megérkezik, és erre fel kell készülni.
+   </p>
+   <p>
+    A szöveg
+    eredetileg
+    a Zöld Csillag blogon jelent meg.
+   </p>
+  </body>
+ </text>
+</TEI>

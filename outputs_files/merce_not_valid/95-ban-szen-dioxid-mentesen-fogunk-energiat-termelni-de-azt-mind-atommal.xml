@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     95%-ban szén-dioxid-mentesen fogunk energiát termelni – de azt mind atommal
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d2e19d72-cc69-588e-bec0-a8d242723b77
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      95%-ban szén-dioxid-mentesen fogunk energiát termelni – de azt mind atommal
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-21T19:15:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/21/95-ban-szen-dioxid-mentesen-fogunk-energiat-termelni-de-azt-mind-atommal/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/21/95-ban-szen-dioxid-mentesen-fogunk-energiat-termelni-de-azt-mind-atommal/
+     </sch:url>
+     <sch:name>
+      95%-ban szén-dioxid-mentesen fogunk energiát termelni – de azt mind atommal
+     </sch:name>
+     <sch:datePublished>
+      2018-07-21T19:15:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      palkovics lászló
+     </sch:keywords>
+     <sch:keywords>
+      ensz
+     </sch:keywords>
+     <sch:keywords>
+      atomenergia
+     </sch:keywords>
+     <sch:keywords>
+      szén-dioxid-kibocsátás
+     </sch:keywords>
+     <sch:keywords>
+      paks2
+     </sch:keywords>
+     <sch:keywords>
+      atom
+     </sch:keywords>
+     <sch:keywords>
+      szén-dioxid-mentes
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d2e19d72-cc69-588e-bec0-a8d242723b77">
+     <sch:identifier>
+      urn:uuid:086d954d-a949-4684-9388-c3094b12e70a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:05.537587
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:59:42.454941
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d2e19d72-cc69-588e-bec0-a8d242723b77" when="2021-12-14T15:31:05.537587">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    95%-ban szén-dioxid-mentesen fogunk energiát termelni – de azt mind atommal
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Magyarország 95 százalékban szén-dioxid-mentes energiatermelést céloz meg – jelentette ki a héten Palkovics László innovációs és technológiai miniszter az ENSZ 2015-ben elfogadott fenntartható fejlődésről szóló tanácskozásán. Tervei szerint az atomenergia
+    mellett szerepet kap a jövőben Magyarországon a biogáz, a geotermikus- és a napenergia is.
+   </p>
+   <p>
+    A tárcavezető az előadásában a vízzel, az úgynevezett tiszta energiával, a fenntartható város-, és településfejlesztéssel, valamint a felelősségteljes termeléssel és fogyasztással foglalkozott.
+   </p>
+   <p>
+    A magyar zöldgazdaság kialakítása fontos prioritás – hangsúlyozta a tárcavezető. Emellett fontos feladatként említette a közösségi közlekedés „átállítását” elsősorban elektromos meghajtású járművek alkalmazására, a Modern városok programját, valamint az élelmiszereket előállító kis gazdaságok külön támogatását.
+   </p>
+   <p>
+    Mivel Magyarország 3 éve aláírta a szénégetés kivezetését célzó párizsi egyezményt, mindenképpen időszerű lenne újragondolni az energiastratégiánkat – főleg annak fényében, hogy a második legfontosabb termelőnk a környezetszennyező lignitből áramot előállító Mátrai Erőmű, amit véletlenül pont Mészáros Lőrinc vett meg.
+   </p>
+   <p rend="head">
+    De ha már azt hinnénk, teljesen megszállta a zöld szellemiség a kormányunkat, csalódnunk kell. Valóban hatalmas lépés lenne, ha az ország 95%-ban szén-dioxid-mentes energiatermelésre tudna átállni, ám a csattanó csak most jön: Palkovics 95% atomenergiáról beszél.
+   </p>
+   <p>
+    Az atomenergia ugyan tényleg szén-dioxid-mentes energiatermelést biztosít, Paks2 megépülésével ezer egyéb kockázat szakadna a nyakunkba. Amellett, hogy
+    a reaktorok számának növelésével a nukleáris baleset veszélye is megnövekszik
+    , a nukleáris ipar már több mint 6 évtizede
+    nem tudja megoldani
+    az erősen sugárzó, veszélyes kiégett nukleáris üzemanyag tárolásának kérdését, ami azért is rettentően nehéz, mert 250 000 (azaz negyedmillió!) évig kellene biztosítani ezeknek az anyagoknak a sérthetetlenségét. Paks2 atomtemetőjének legmegfelelőbb helyét
+    jelenleg is kutatják a Nyugat-Mecsekben
+    .
+   </p>
+   <p>
+    Míg mi végérvényesen elköteleztük magunkat az atom mellett Paks2-vel,
+    idén januárban az Európai Parlament javaslatot nyújtott be
+    , mely szerint az EU-nak 2050-ig el kell érnie a
+    nettó nullás karbonkibocsátási szintet, ami nem azt jelenti, hogy az EU-ban nem engednének több szén-dioxidot a levegőbe, viszont a radikálisan korlátozott mennyiségű kibocsátás ellenére is felszabaduló károsanyag-mennyiséget ki kell váltani valamilyen környezetbarát megoldással.
+   </p>
+   <p>
+    2050 előtt azonban szabott még egy határidőt az EU: 2030-ig kötelezővé válik a legalább 35 százalékos megújuló energiaforrás biztosítása, valamint az ugyanilyen mértékű energiahatékonyság javítása is, amiből maximum 10 százalékot engednének. Ha érvénybe lép az EU javaslata, pár százalékkal ugyan, de vissza lehetne szorítani az atomenergiát – bár ez a kockázatokat nem csökkenti.
+   </p>
+   <p>
+    (MTI)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vajon a menekültek vagy a Fidesz miatt kerülnek egyre többen az utcára?
+    </title>
+    <author>
+     <persName>
+      Misetics Bálint
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     18b75cd4-5ea2-5b97-a44c-effefbac5cfb
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Vajon a menekültek vagy a Fidesz miatt kerülnek egyre többen az utcára?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Misetics Bálint
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-09-23T17:25:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/09/23/nem_a_menekultek_miatt_kerulnek_utcara_az_onkormanyzati_lakasok_berloi/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/09/23/nem_a_menekultek_miatt_kerulnek_utcara_az_onkormanyzati_lakasok_berloi/
+     </sch:url>
+     <sch:name>
+      Vajon a menekültek vagy a Fidesz miatt kerülnek egyre többen az utcára?
+     </sch:name>
+     <sch:datePublished>
+      2016-09-23T17:25:00
+     </sch:datePublished>
+     <sch:author>
+      Misetics Bálint
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      kilakoltatás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="18b75cd4-5ea2-5b97-a44c-effefbac5cfb">
+     <sch:identifier>
+      urn:uuid:23da9397-9517-4399-9732-27ddb2e6322f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.766192
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:24:59.903929
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="18b75cd4-5ea2-5b97-a44c-effefbac5cfb" when="2021-12-14T15:30:52.766192">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Vajon a menekültek vagy a Fidesz miatt kerülnek egyre többen az utcára?
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Az állampárt idegengyűlölő propagandája a korábbiaknál is nagyobb erkölcsi mélységbe süllyedt azzal, hogy immár kifejezetten a társadalom legszegényebb rétegeit uszítják gátlástalan hazugságokkal a háború elől menekülő emberek ellen.
+   </p>
+   <p>
+    A Város Mindenkié élőlánca miatt meghiúsult kilakoltatás Kőbányán, 2014-ben; Fotó: Tóth Gergő, Forrás:
+    népszava.hu
+   </p>
+   <p>
+    Ennek első lépéseként az
+    állampárti propaganda
+    és a
+    kollaboráns ál-érdekvédő Lungo Drom
+    azzal ijesztgeti a roma magyarokat, hogy a menekültek miatt fognak majd csökkenni a segélyek, miközben a tartós munkanélküliek számára (természetesen etnikai hovatartozástól függetlenül) hozzáférhető pénzbeli juttatások összege évek óta csökken. A hazánkba érkező menekültektől teljesen függetlenül – szoros összefüggésben viszont a magyarországi társadalompolitikában 2008 óta tartó, és a 2010-es kormányváltás óta még szélsőségesebbé vált szegényellenes fordulattal.
+   </p>
+   <p>
+    A gátlástalanság és szolgalelkűség újabb fölháborító megnyilvánulásaként az állampárt csepeli propagandistái pedig azzal
+    riogattak
+    a napokban, hogy az önkormányzati lakások bérlőit „uniós kvóta alapján” az utcára tehetik, és helyükre „illegális határátlépőket költöztethetnek”. Az igazság ezzel szemben az, hogy az „uniós kvótának” semmi köze az önkormányzati lakások bérlőinek a kilakoltatásához, az önkormányzatok viszont egyre gyakrabban tesznek utcára rászoruló családokat, elsősorban hátralékok miatt.
+   </p>
+   <p>
+    Forrás: KSH
+   </p>
+   <p>
+    A kilakoltatások száma az önkormányzati lakásszektorban (a 2010-es választási év kivételével…) töretlenül emelkedett az elmúlt másfél évtizedben, az utóbbi években pedig (amikor is a Fidesz adta a települési önkormányzatok vezetőinek a legnagyobb részét) korábban soha nem látott magasságba ért el. Tavaly mintegy két és félszer annyi kilakoltatást hajtottak végre az önkormányzati lakásokból, mint a kétezres évek elején. Ha tekintetbe vesszük azt is, hogy ugyanebben az időszakban az önkormányzati lakásállomány a harmadával csökkent, akkor azt látjuk, hogy az önkormányzatok tavaly arányosan
+    <hi rend="italic">
+     három és félszer olyan gyakran éltek a kilakoltatás eszközével
+    </hi>
+    , mint másfél évtizeddel ezelőtt.
+   </p>
+   <p>
+    A kilakoltatások terjedéséhez minden bizonnyal az is hozzájárult (és ez sem a brüsszeli bürokraták vagy a menekültek felelőssége), hogy a Fidesz jelentősen szigorította a lakásvesztés és a kilakoltatás megelőzésére szolgáló szociálpolitikai ellátás, az adósságcsökkentési támogatás feltételeit. Ennek következtében
+    <hi>
+     a támogatáshoz hozzáférő háztartások száma a felére csökkent
+    </hi>
+    . 2011-ben még 20 ezer súlyosan eladósodott háztartás kapott az önrész-befizetésével arányos, az adósságcsökkentési tanácsadásban való részvételhez és a törlesztőrészletek rendszeres fizetéséhez kötött támogatást, 2014-ben már csak 9 ezer, és a támogatás átlagos összege is a korábbi
+    <hi>
+     felére
+    </hi>
+    csökkent.
+   </p>
+   <p>
+    Forrás: KSH
+   </p>
+   <p>
+    A parlamenti többség 2015 március elsejével pedig
+    megszüntette
+    ezt a 2003 óta létező, és 2006 óta a 40 ezer népesebb települési önkormányzatok számára kötelezően előírt ellátást, együtt az országos lakásfenntartási támogatással. Így azóta kizárólag
+    az önkormányzatok kényén-kedvén múlik
+    , hogy a rászoruló háztartások számíthatnak-e bármilyen segítségre, hogy ne adósodjanak el, vagy ha eladósodtak, elkerüljék a kilakoltatást. És ugyan a magyar állam a következő években aránylag sok közpénzt költ majd lakhatási programokra, a leginkább rászorulók ezekből is rendre
+    kimaradnak majd
+    .
+   </p>
+   <p>
+    Az állampárt idegengyűlölő propagandája két okból is nagyon veszélyes: legelőször is persze azért, mert gyűlöletet kelt, de azért is, mert amíg a menekültektől féltjük a jólétünk, a munkahelyünk, és a lakhatásunkat, addig nem ismerjük fel, hogy kik azok, akik mindezt valóban veszélyeztetik. Őket ugyanis nem a menekülttáborokban kell keresnünk, hanem a magyar parlament épületében, és az önkormányzati képviselő-testületi ülésein. Ez utóbbi veszélyt pedig nem lehet csupán úgy kezelni, hogy a menekültügyben elhangzó gátlástalan hazugságokkal vitatkozunk. Ehhez arra van szükség, hogy képesek legyünk felhívni a figyelmet a magyar társadalom jólétét valóban veszélyeztető problémákra, és képesek legyünk nyomást gyakorolni az uralmon lévőkre a politikájuk megváltoztatása érdekében.
+   </p>
+   <p>
+    A lakhatási válsággal és a kormányzat szegényellenes lakáspolitikájával kapcsolatban erre kitűnő alkalom lesz
+    A Város Mindenkié csoport
+    október 8-ára szervezett nagy felvonulása, a
+    6. Menet a lakhatáshoz való jogért.
+    Gyertek el.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 297 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

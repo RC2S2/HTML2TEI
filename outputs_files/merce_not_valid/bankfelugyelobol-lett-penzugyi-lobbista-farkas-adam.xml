@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bankfelügyelőből lett pénzügyi lobbista Farkas Ádám
+    </title>
+    <author>
+     <persName>
+      Lebanov Barbara
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Weiler Vilmos
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Császár Simon Gergely
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     21a0a2be-1b89-5f39-855c-2006d67f5df1
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Bankfelügyelőből lett pénzügyi lobbista Farkas Ádám
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Császár Simon Gergely
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Weiler Vilmos
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lebanov Barbara
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-03T14:19:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://balraat.merce.hu/2019/09/03/bankfelugyelobol-lett-penzugyi-lobbista-farkas-adam/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://balraat.merce.hu/2019/09/03/bankfelugyelobol-lett-penzugyi-lobbista-farkas-adam/
+     </sch:url>
+     <sch:name>
+      Bankfelügyelőből lett pénzügyi lobbista Farkas Ádám
+     </sch:name>
+     <sch:datePublished>
+      2019-09-03T14:19:00
+     </sch:datePublished>
+     <sch:author>
+      Lebanov Barbara
+     </sch:author>
+     <sch:author>
+      Weiler Vilmos
+     </sch:author>
+     <sch:author>
+      Császár Simon Gergely
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      gazdaság
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="21a0a2be-1b89-5f39-855c-2006d67f5df1">
+     <sch:identifier>
+      urn:uuid:8be3a01c-ef2c-4797-892a-cddfadb6f565
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:30.851295
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:47:41.394683
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="21a0a2be-1b89-5f39-855c-2006d67f5df1" when="2021-12-14T15:30:30.851295">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Bankfelügyelőből lett pénzügyi lobbista Farkas Ádám
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Farkas Ádám közgazdász a Magyar Nemzeti Bank ügyvezető igazgatója és az igazgatóság tagja volt Surányi György MNB-elnöksége idején, majd követte főnökét a CIB Bankhoz is.
+   </p>
+   <p>
+    2011 márciusában az Európai Bankfelügyeleti Hatóság (EBA) főigazgatójának választották.  A hatóság feladata, hogy az európai bankcsoportok, nemzetközi hitelintézetek határon átnyúló tevékenységét nyomon kövesse és a kialakuló kockázatokra időben felhívja a figyelmet, elősegítse a nemzeti felügyeletek közötti együttműködést és információcserét és szükség esetén koordinált módon lépjen fel a banki válsághelyzetek kialakulásának megakadályozására.
+   </p>
+   <p>
+    <hi rend="bold">
+     Farkas Ádám tehát EBA főigazgatósági munkája során számtalan üzleti titok, szuperszenzitív pénzügyi adat és információ birtokába került.
+    </hi>
+   </p>
+   <p>
+    A
+    Sky News
+    értesülései szerint Farkas Ádám a londoni központú AFME élére fog kerülni, amelyet a lobbiszervezet már meg is erősített.
+   </p>
+   <p>
+    Farkas Ádám tehát a munkája során megismert üzleti titkok birtokában a bankfelügyeletből igazol át olyan lobbicsoporthoz, amely a bankok és pénzügyi vállalatok érdekeit érvényesíti.
+   </p>
+   <p>
+    Az LMP a teljesen abszurd helyzetre – amelyet a HVG szinte üdvrivalgással üdvözölt –
+    közleményt adott ki
+    :
+   </p>
+   <p>
+    „(…)Farkas olyan területre távozik, ahol az általa megismert szuperszenzitív pénzügyi adatokat és információkat, üzleti titkokat nagyban hasznosíthatja. Az LMP szerint ez elfogadhatatlan és Európai Zöld Párttal egyetértésben azonnali lépéseket követelünk.
+   </p>
+   <p>
+    Az LMP teljes mértékben egyetért Sven Giegolddal, az Európai Zöld Párt politikusával, aki szerint azonnal el kell zárni az érzékeny adatoktól Farkast, sőt, be kell vezetni egy minimum 24 hónapos türelmi időszakot, hogy ilyen típusú munkahelyváltás ne legyen lehetséges. Az LMP határozott álláspontja, hogy ez a munkahelyváltás súlyos gazdasági összeférhetetlenséget eredményez, amit jogalkotói szinten kell kezelni.
+   </p>
+   <p>
+    Általánosságban véve meggyőződésünk, hogy le kell törni a lobbisták brüsszeli és strasbourgi uralmát. Az Európai Unió intézményeinek valóban az európai polgárok hiteles és érdemi képviseletéről kell szólnia, és nem különböző gazdasági érdekcsoportok, illetve lobbierők tevékenységéről.
+   </p>
+   <p>
+    Hanák Gábor, 
+az országos elnökség tagja”
+   </p>
+  </body>
+ </text>
+</TEI>

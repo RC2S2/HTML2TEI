@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kiállunk mellettetek – de ti kijöttök értünk? Egy tüntetés margójára
+    </title>
+    <author>
+     <persName>
+      A Város Mindenkié
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7458bb00-6016-5338-852d-f30b2cd666fa
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kiállunk mellettetek – de ti kijöttök értünk? Egy tüntetés margójára
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       A Város Mindenkié
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-05-29T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2017/05/29/kiallunk_mellettetek_de_ti_kijottok_ertunk_egy_tuntetes_margojara/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2017/05/29/kiallunk_mellettetek_de_ti_kijottok_ertunk_egy_tuntetes_margojara/
+     </sch:url>
+     <sch:name>
+      Kiállunk mellettetek – de ti kijöttök értünk? Egy tüntetés margójára
+     </sch:name>
+     <sch:datePublished>
+      2017-05-29T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      A Város Mindenkié
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      szolidaritás
+     </sch:keywords>
+     <sch:keywords>
+      mentők
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7458bb00-6016-5338-852d-f30b2cd666fa">
+     <sch:identifier>
+      urn:uuid:e00bc9aa-adf4-4610-bff5-9950f5fd640d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:06.541104
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:17:46.483217
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7458bb00-6016-5338-852d-f30b2cd666fa" when="2021-12-14T15:35:06.541104">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kiállunk mellettetek – de ti kijöttök értünk? Egy tüntetés margójára
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié alapvetően szolidáris mindenkivel, akivel szükségeltetik, különös tekintettel az elnyomott és hátrányosan megkülönböztetett emberekre. A mentők
+    </hi>
+    <hi rend="bold">
+     szerdai tüntetése azonban
+    </hi>
+    <hi rend="bold">
+     egy kis kettősséget vált ki belőlem – és ezzel nem vagyok egyedül a csoportunkban.
+    </hi>
+   </p>
+   <p>
+    Egyrészt az egészségügyi pályafutásomat néhány év mentőzéssel kezdtem. Emlékszem azokra az időkre. Egy időben kevesen voltunk, és volt, hogy 48 órát is kellett dolgoznunk. Az amúgy is nehéz, szellemileg, lelkileg és fizikailag megterhelő munkát általában mindenki komolyan vette, és a beosztások körül nem sok vita volt. Akkoriban, aki megmaradt, annak hivatása volt. Mindenkinek egy kicsit a lelke csücske. Ennek okán most teljes mellszélességgel kellene támogatnom a mentők követeléseit.
+   </p>
+   <p>
+    Másrészt jelen helyzetemben – hajléktalan emberként – többször szorultam a Mentőszolgálatra. Visszatérő tapasztalatom volt, hogy nem tekintik embernek, akit nem a saját lakásából visznek el. Ez mélységesen felháborít, és
+    nem egy példát tudnék mondani arra, hogy a hajléktalan embereket otthagyták
+    .
+    Sajnos volt olyan is, aki később (pár óra múlva) meg is halt. Persze csak akkor tudják otthagyni, ha egyáltalán kijönnek valakiért. Erre is számos példa van, amikor azt mondják: a hajléktalan részeg vagy nem az ő dolguk szállást találni éjszakára. Nekem volt olyan esetem, hogy valakit bevittünk (részegen), és csak a szorgos orvosi ellátás mentette meg az életét. Az alkohol sok mindent elfedhet. Telefonon még a mai korszerű OMSZ-es távolbalátással sem tudunk diagnosztizálni. Tehát aki „le se szar”, azzal nem foglalkozom.
+   </p>
+   <p>
+    Ha viszont egyéni – hiába sokszor jogos – érzelmeim alapján döntenék, akkor ugyanarra a szintre süllyednék, mint aki a „mentő” szerepben tetszeleg. Nem felejtem el azt sem, hogy milyen világban élünk, mi az általános (politikai) szemlélet, és azt sem, hogy egyes emberek tetteiből nem lehet messzemenő, általános következtetéseket levonni.
+   </p>
+   <p>
+    Tehát!
+   </p>
+   <p>
+    Támogatom, hogy A Város Mindenkié csoporttal közösen is kiálljunk a mentők mellett, mint olyan dolgozók mellett, akikért a csoportunk elvei szerint ki kell állni. Mindeközben remélem, hogy a Mentőszolgálat komolyan veszi, hogy a sürgősségi ellátáshoz
+    <hi>
+     mindenkinek
+    </hi>
+    egyenlő joga van; biztosítja, hogy a mentők ennek megfelelően működjenek – legjobb tudásuk szerint, előítéletektől mentesen –, és hogy megválnak azoktól az emberektől, akik képtelenek ennek megfelelően ellátni a hivatásukat. Ezzel ugyanis nem csupán szégyent hoznak a Mentőszolgálatra, hanem embereket aláznak meg és az életünket veszélyeztetik.
+   </p>
+   <p>
+    Találkozzunk szerda délután, a
+    tüntetésen
+    !
+   </p>
+   <p>
+    <hi>
+     gt
+    </hi>
+   </p>
+   <p>
+    A fotó forrása
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

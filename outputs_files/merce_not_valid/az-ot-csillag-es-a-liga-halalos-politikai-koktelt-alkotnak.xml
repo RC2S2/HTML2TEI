@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Az Öt Csillag és a Liga halálos politikai koktélt alkotnak”
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8fe078eb-1c7b-5c3b-bb3d-835a7ae89885
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Az Öt Csillag és a Liga halálos politikai koktélt alkotnak”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-06-10T16:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/06/10/az-ot-csillag-es-a-liga-halalos-politikai-koktelt-alkotnak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/06/10/az-ot-csillag-es-a-liga-halalos-politikai-koktelt-alkotnak/
+     </sch:url>
+     <sch:name>
+      „Az Öt Csillag és a Liga halálos politikai koktélt alkotnak”
+     </sch:name>
+     <sch:datePublished>
+      2018-06-10T16:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      EU
+     </sch:keywords>
+     <sch:keywords>
+      Olaszország
+     </sch:keywords>
+     <sch:keywords>
+      szélsőjobb
+     </sch:keywords>
+     <sch:keywords>
+      matteo salvini
+     </sch:keywords>
+     <sch:keywords>
+      populizmus
+     </sch:keywords>
+     <sch:keywords>
+      öt csillag
+     </sch:keywords>
+     <sch:keywords>
+      luigi di maio
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8fe078eb-1c7b-5c3b-bb3d-835a7ae89885">
+     <sch:identifier>
+      urn:uuid:3cbee680-6b67-4e20-ae51-e745084438d5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:22.974473
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:57:51.819723
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8fe078eb-1c7b-5c3b-bb3d-835a7ae89885" when="2021-12-14T15:27:22.974473">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Az Öt Csillag és a Liga halálos politikai koktélt alkotnak”
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Éleződni fognak az ellentétek Brüsszel és Olaszország között – véli Lorenzo Cini olasz politikai elemző, mozgalomkutató. A centrista populizmust képviselő Öt Csillag Mozgalom és a szélsőjobboldali Liga kiütötték a hagyományos pártokat, de politikájuk a harcias unióellenes és bevándorlásellenes retorikán túl valószínűleg nem hoz túl sok pozitív átalakulást az olasz választóknak. Interjú.
+   </p>
+   <p>
+    Giuseppe Conte (j) Olaszország új miniszterelnöke, vele szemben Luigi Di Maio, az Öt Csillag Mozgalom és Matteo Salvini, a Liga vezetője (Fotó: Facebook / Giuseppe Conte)
+   </p>
+   <p>
+    <hi rend="bold">
+     Rengeteg magyarországi olvasó kíváncsiságát tolmácsolom, amikor felteszem a kérdést: mi is az az Öt Csillag Mozgalom (M5S)? Hogyan tudná definiálni ezt az amorf politikai formációt?
+    </hi>
+   </p>
+   <p>
+    Az Öt Csillag Mozgalom valóban különleges szereplő az európai politikai palettán. Ha körbe nézünk, nem igazán találunk hasonló politikai pártot az európai demokráciákban. Talán a cseh kormánypárt, az ANO mutat hasonlóságokat az Öt Csillaggal, de az ANO sokkal kevésbé horizontális és részvételi párt volt, a kezdetektől.
+   </p>
+   <p>
+    Két dimenziót érdemes figyelembe venni, ha le akarjuk írni az M5S mai formáját: a szervezeti felépítést és az ideológiai irányvonalat.
+   </p>
+   <p>
+    A szervezeti felépítés felől nézve a mozgalom mindig is magában hordozta a kezdeti feszültséget. Egyrészről volt egy nem elszámoltatható, központosított vezetés: a két alapító, Beppe Grillo és az ő blogja, illetve Gianroberto Casaleggio és az általa ellenőrzött online platform, melynek révén a párton belüli „internet-demokrácia” megvalósult. Másrészről pedig az alulról építkező mozgalmi találkozók, gyűlések, amelyek a települések szintjén működnek, és egyszerű emberekből állnak, akik rendszeresen összegyűlnek beszélgetni a politikáról, és küzdenek a helyi társadalmi, politikai kezdeményezésekért. Az elmúlt öt évben ez a feszültség „megoldásra került”: a központ átvette az uralmat a helyi sejtek fölött. Bár az internet-demokrácia retorikája még mindig fontos szerepet játszik, mostanra egyértelmű lett, hogy a mozgalom legfontosabb döntéseit egy informális, néhány országos vezetőből álló csoport hozza. A Matteo Salvini Ligájával történt szövetségkötésről és kormányalakításról is Luigi Di Maio,  miniszterelnök-jelölt és néhány közeli munkatársa döntött.
+   </p>
+   <p>
+    De az Öt Csillag legérdekesebb jellemzője nem is ez, hanem az „ideológiája”. Ha röviden kellene összefoglalnom, azt mondanám, az M5S egy paradox természetű tömörülés: az az ideológiája, hogy nincs ideológiája. Van ugyan valamennyi igazság ebben az állításban, hiszen ha megkérdezzük a mozgalom tagjait, hol helyeznék el magukat a jobb-bal tengelyen, azt válaszolnák: se nem jobboldaliak, se nem baloldaliak. Elemzői szempontból azonban ez nem helytálló válasz. Ahelyett, hogy se nem bal-, se nem jobboldali, inkább azt mondanám az M5S egyszerre jobboldali és baloldali. A legtöbb olasz elemző nagyjából egyet szokott érteni ebben.
+   </p>
+   <p>
+    És valóban, ha ránézünk a pártprogramra és a mozgalom vezetőinek nyilvános megszólalásaira, akkor azt látjuk, hogy szociális és gazdasági ügyekben radikális progresszív javaslatokat tesznek (például a feltétel nélküli alapjövedelem bevezetése), miközben a migráció kérdésében nagyon konzervatívnak, akár idegengyűlölőnek is nevezhető az álláspontjuk.
+   </p>
+   <p rend="head">
+    Ezért egyetértek azokkal, akik szerint az Öt Csillag Mozgalom a centrum populista pártja.
+   </p>
+   <p>
+    A választói bázisán is azt látjuk, hogy fele a hagyományos baloldal, fele pedig a jobboldal irányából érkezik.
+   </p>
+   <p>
+    A párt politikai és választási ereje éppen ebben az alakváltoztató, utánzó képességében rejlik: hogy egyszerre baloldali és jobboldali. Ez tette lehetővé, hogy a március 4-i választásokon magukhoz tudtak vonzani rengeteg szavazót a politikai spektrum minden részéről. Ezért gondolom, hogy „populista közép” címke illik legjobban a mozgalomra.
+   </p>
+   <p>
+    <hi rend="bold">
+     A márciusi választások másik nagy nyertes a Liga volt, amely viszont külső szemlélőként is könnyebben megragadható: a Liga egy szélsőjobboldali párt. Mi a tömörülés mögötti történet?
+    </hi>
+   </p>
+   <p>
+    A Liga valóban egyszerűbb esetnek tűnik, pedig valójában nem az. Az Öt Csillaggal ellentétben a Ligának hosszú politikai története van. Születése a nyolcvanas évek közepére vezethető vissza, amikor az észak-olasz Lombardiában és Veneto tartományban megjelentek az első „ligák” („leghe”) azzal a céllal, hogy több fiskális és politikai autonómiát harcoljanak ki a központi olasz kormányzattal és Rómával szemben. Az 1990-es évek elején ezek a kis regionális pártok összefogtak, hogy létrehozzák az Északi Ligát (Lega Nord). Az Umberto Bossi vezetése alatt létrejövő párt Észak-Olaszországban gyökerezett, és el szeretett volna szakadni az ország többi részétől, mert azok „ellopják” a sokkal szorgosabb északiak pénzügyi és gazdasági erőforrásait. Klasszikus szociológiai nyelven ez a konfliktus a centrum (Róma) és a periféria (Észak-Olaszország) törésvonalaként fogható fel. Ez a törésvonal hozzávetőleg húsz évig maradt releváns politikailag, mondjuk, körülbelül 2011-ig, a gazdasági válságot követő időszakig.
+   </p>
+   <p>
+    Viszont már a 2006 és 2011 közötti időszakban érezhető volt az Északi Liga hanyatlása. Épp ekkoriban kezdődött el a párt fokozatos, de határozott irányváltása. Matteo Salvini vezetése alatt a párt egy radikális átalakuláson ment át, lecserélve az Észak-Olaszország kontra Róma törésvonalat az olaszok kontra bevándorlók törésvonalra.
+   </p>
+   <p rend="head">
+    Más szóval, Salvininak sikerült egy regionális pártból országos (szélsőjobboldali) pártot csinálnia, és ezáltal politikai tőkére váltani az olaszok válság után tapasztalt szociális és gazdasági problémáit.
+   </p>
+   <p>
+    Az új irányvonal szempontjából nagyon beszédes a szlogen, amelynek Salvini a márciusi választási sikerét köszönheti: „Az olaszok mindenekelőtt!”
+    <hi rend="italic">
+     („Prima gli Italiani”!).
+    </hi>
+   </p>
+   <p>
+    Ha más nyugat-európai párttal kéne összehasonlítani a Ligát, akkor azonnal Marine Le Pen Nemzeti Frontja jutna eszünkbe. Minkét párt sovén és az Európai Uniót, valamint a bevándorlókat azonosítják a társadalom, jobban mondva, a nemzet politikai ellenségeiként. Igen, Matteo Salvini Ligája most egy „új” szélsőjobboldali párt, amely egyszerre populista is. Miközben az Öt Csillag a populista közepet, a Liga a populista jobboldalt képviseli. E két párt közös kormányzása egy gyilkos politikai koktélt alkot.
+   </p>
+   <p>
+    <hi rend="bold">
+     Gyilkos politikai koktélt?
+    </hi>
+   </p>
+   <p>
+    A migráció kérdésében lesz ez a koktél igazán robbanásveszélyes, az „olaszok mindenekelőtt” szlogen azt is jelentheti, hogy a bevándorlóknak nem igazán lesz keresnivalójuk Olaszországban. Hozzáadhatjuk ehhez az EU-val és az uniós magállamokkal (főként Németországgal és Franciaországgal) való viszonyt is, amely már most is romlik. Remélem, nem fog valamilyen diplomáciai konfliktus kialakulni, de mindezt meglátjuk a következő hónapokban.
+   </p>
+   <p>
+    <hi rend="bold">
+     Hogyan talált egyáltalán egymásra ez a két párt a választások után?
+    </hi>
+   </p>
+   <p>
+    Két összefüggő oka is van annak, miért léptek koalícióra. Figyelembe véve, hogy az M5S és a  Liga voltak a választások nagy győztesei, egy technikai és egy politikai okot is említhetünk.
+   </p>
+   <p>
+    A technikai okot a választási rendszer, a szavazatok parlamenti mandátumra fordításának módja adja. Nem szeretnék belemenni a részletekbe, csak annyit szögeznék le, hogy csupán két alternatív parlamenti többség volt elképzelhető a választások után: az egyik az Öt Csillag és a balközép Demokrata Párt (PD) koalícióján, a másik pedig a Liga és az Öt Csillag koalícióján alapulhatott volna. Nem volt más lehetséges többség, a harmadik opció az előrehozott választás lett volna.
+   </p>
+   <p>
+    És itt áttérhetünk a második okra. Miért az Öt Csillag-Liga szövetség és nem az Öt Csillag-PD szövetség valósult meg? Bár néhány olasz elemző azt állította, sokkal több közös van a PD és az M5S programja között, én úgy hiszem a Liga és az Öt Csillag „establishment-ellenes” ethosza politikai kötőanyagként szolgált a két tömörülés számára. Nagyon nehéz (és politikailag nevetséges) lett volna elképzelni a koalíciót két párt között, amikor az egyik az elmúlt öt évet a megszorító intézkedések gyakorlatba ültetésével töltötte (PD), a másik pedig minden alkalmat megragadott, hogy ennek a régi elitnek a politikai és morális korruptságát támadja, és azzal vádolja, hogy kiárusította Olaszországot az EU-nak és a bankoknak (M5S). Ez az oka annak, hogy sokak szemében a Liga és az Öt Csillag közötti megegyezés volt a 2018-as választások egyetlen természetes és logikus végkifejlete.
+   </p>
+   <p>
+    <hi rend="bold">
+     Ha az Öt Csillagot és a Ligát tekinthetjük a márciusi választások győztesének, akkor a hagyományos pártok kétségtelenül a vesztesek. Ez egy általánosabb európai trend vagy vannak kimondottan olasz okok is mögötte?
+    </hi>
+   </p>
+   <p>
+    Azt hiszem, mindkét állítás igaz. Egyrészt, az elmúlt 5-6 évben, a gazdasági válság nyomán tanúi lehetettünk egy egész kontinensre kiterjedő tendenciának: hanyatlásnak indultak a fősodorbeli pártok, főként azok, amelyeket a választók a Trojkával és a megszorító politikával azonosítottak. Ebben az értelemben az olasz példa nem egyedülálló. A PD az establishment pártjává vált, és hanyatlása részben ezzel magyarázható.
+   </p>
+   <p>
+    Nem tagadhatjuk azonban, hogy Olaszország a maga sajátosságaival kivételt is képez. Németországgal ellentétben Olaszország nem támaszkodhatott a gyáripar termelőerejére; ráadásul nem is végezte el azt a technológiai újítást az iparban, amit Németország már letudott. Ez a tény befolyással volt a gazdasági növekedés mértékére is, amely még mindig elmarad az európai országok átlagától. Nem meglepő tehát, hogy az olasz szavazók az épp a hivatalban lévő pártokat büntették a választáson.
+   </p>
+   <p>
+    Mindenesetre az olasz eset legnagyobb különlegességét továbbra is az Öt Csillag Mozgalom jelenti – egy olyan atipikus párt, amely az elmúlt öt évben az establishment-ellenes üzeneteket közvetítette. Olaszország, mint a múltban oly sokszor (ld. a fasizmus felemelkedését), most is az újfajta politikai jelenségek laboratóriumaként működik.
+   </p>
+   <p>
+    <hi rend="bold">
+     Miben lesz más elődeihez képest az újonnan hivatalba lépett olasz kormány?
+    </hi>
+   </p>
+   <p>
+    A választási kampányban mindkét párt megígérte, ha átveszik a hatalmat, Olaszország nem fogad el több uniós diktátumot, leginkább a pénzügy- és gazdaságpolitika területén.
+   </p>
+   <p rend="head">
+    Ebből a szempontból a közös nevező az, hogy visszavegyék a monetáris önrendelkezés jogát az EU-tól.
+   </p>
+   <p>
+    Pillanatnyilag nem látjuk tisztán, milyen lépéseket tesz majd az új olasz kormány e célkitűzés megvalósításáért. Az „Italexit” egy opció lehet, de jelenleg nem látom ennek a realitását. Az például egyre világosabb, hogy a Liga „nagy” szavazóinak (főként az észak-olasz üzleti köröknek) nem mindegyike támogatna egy ilyen döntést. Amire az új kormány mindenképp kísérletet tesz majd, az az olasz adósság átütemezése.
+   </p>
+   <p>
+    Kérdés viszont, hogy lesz-e a Liga-Öt Csillag kormányzatnak elég mozgástere, hogy meghozza ezeket a döntéseket, és ellentartson egyes uniós döntéseknek. Szkeptikus vagyok ezzel kapcsolatban. Egyrészt a koalíció pártjainak politikai tapasztalatlansága (különösen az M5S esetében) mondatja ezt velem, másrészt pedig az ország strukturális gyengeségei. A hatalmas adósságunkat figyelembe véve elég nehéz komolyan vehető tárgyalási potenciállal rendelkező, erős politikai játékosnak lenni az EU-n belül.
+   </p>
+   <p>
+    <hi rend="bold">
+     A szociálpolitika területén sem láthatunk baloldali fordulatot az Öt Csillag hatására?
+    </hi>
+   </p>
+   <p>
+    Nem, nem hiszem, hogy ilyesminek tanúi lehetnénk az elkövetkező időszakban. Ahogy már korábban is említettem, az Öt Csillag programjában tényleg van pár progresszív javaslat, például az alapjövedelem bevezetése.
+   </p>
+   <p rend="head">
+    De a kormány hivatalba lépése utáni első napokban már azt láthattuk, elkezdték csökkenteni az intézkedés hatályát és radikalizmusát, átalakítva azt egy szimpla munkanélküli segéllyé.
+   </p>
+   <p>
+    Őszintén szólva engem sokkal jobban aggaszt az a fiskális politika, amit a kormány nagyon be akar vezetni. Egyetértés van például a két párt között az egykulcsos adó bevezetéséről. Ez egy olyan adózási intézkedés, amely megszüntetné az eddigi progresszív elvet, a logikát mögötte nem kell magyaráznom. Nagyobb egyenlőtlenségeket fog eredményezni:egy anti-Robin Hood intézkedés, amely a szegényektől lop és a gazdagoknak ad.
+   </p>
+   <p>
+    <hi rend="bold">
+     Mi történik a baloldalon? Lát bármilyen esélyt valamilyen baloldali újjászületésre?
+    </hi>
+   </p>
+   <p>
+    Hát… jöhet a következő kérdés!
+   </p>
+   <p>
+    A viccet félretéve, ez a legnehezebb kérdés, amit feltehet egy (progresszív meggyőződésű) olasz politikai elemzőnek. Őszintén szólva nincsenek hihető vagy bármennyire is értelmes válaszaink erre. Egy ideje próbáljuk megérteni, hogy miért abban az országban találjuk a kontinens egyik leggyengébb baloldalát, amely otthont adott a 20. század második felének legerősebb nyugat-európai kommunista pártjának, a kétezres évek elején pedig Európa legerősebb globalizációellenes mozgalmának.
+   </p>
+   <p>
+    A teljesség igénye nélkül néhány támpontot tudok adni csupán.
+   </p>
+   <p rend="head">
+    Az egyik ilyen tényező a PD-től balra található politikai csoportosulások és pártok kifejezetten erős töredezettsége.
+   </p>
+   <p>
+    Ezek a tömörülések nemcsak picik, de erősen eltérők a nézeteik is, ami lehetetlenné teszi a szövetségkötést. Egy másik tényező az, hogy ezen pártok vezetői semmifajta hosszútávú politikai stratégiával nem rendelkeznek. Az elsődleges céljuk szerezni néhány mandátumot a parlamentben, ahelyett, hogy megpróbálnák újjáépíteni a kapcsolatot azokkal az emberekkel, akik a múltban a baloldali pártokra szavaztak.
+   </p>
+   <p>
+    Mivel a parlamentbe kerülés célkitűzése szisztematikusan elbukott az elmúlt tíz évben, minden választási idényre „új” pártok lépnek be a versenybe. Ez persze nem teremt semmilyen bizalmi viszonyt a pártok és a szavazók között. Más európai baloldali szereplőkhöz mérve (a brit Munkáspárthoz, a görög Szirizához vagy a spanyol Podemoshoz) a széttöredezett olasz baloldal vezetői mindennek tűnnek, csak épp bátor, a baloldal újjászervezésére alkalmas politikusoknak nem.
+   </p>
+   <p>
+    <hi rend="bold">
+     Névjegy
+    </hi>
+   </p>
+   <p>
+    <hi>
+     Lorenzo Cini
+    </hi>
+    a pisai Scuola Normale Superiore humán- és társadalomtudományi intézetének kutatója. Doktori fokozatát a firenzei European University Institute-on szerezte. Doktori kutatását a felsőoktatás neoliberális átalakításával szembe helyezkedő angliai és olaszországi egyetemi mozgalmakról készítette.
+   </p>
+  </body>
+ </text>
+</TEI>

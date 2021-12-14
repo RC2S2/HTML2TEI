@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tagadja az USA kormánya, hogy közük lenne az évtized legbénább puccskísérletéhez
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     adaab5a1-aa4c-561b-b886-8c8e5eb07ef3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Tagadja az USA kormánya, hogy közük lenne az évtized legbénább puccskísérletéhez
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-09T09:47:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/09/tagadja-az-usa-kormanya-hogy-kozuk-lenne-az-evtized-legbenabb-puccsahoz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/09/tagadja-az-usa-kormanya-hogy-kozuk-lenne-az-evtized-legbenabb-puccsahoz/
+     </sch:url>
+     <sch:name>
+      Tagadja az USA kormánya, hogy közük lenne az évtized legbénább puccskísérletéhez
+     </sch:name>
+     <sch:datePublished>
+      2020-05-09T09:47:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      Donald Trump
+     </sch:keywords>
+     <sch:keywords>
+      vírusmentes
+     </sch:keywords>
+     <sch:keywords>
+      venezuela
+     </sch:keywords>
+     <sch:keywords>
+      imperializmus
+     </sch:keywords>
+     <sch:keywords>
+      puccskísérlet
+     </sch:keywords>
+     <sch:keywords>
+      silvercorp
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="adaab5a1-aa4c-561b-b886-8c8e5eb07ef3">
+     <sch:identifier>
+      urn:uuid:10f7550c-3fc8-4a2b-b9e7-91e0d01b0137
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:08.808077
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:12:56.898626
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="adaab5a1-aa4c-561b-b886-8c8e5eb07ef3" when="2021-12-14T15:26:08.808077">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Tagadja az USA kormánya, hogy közük lenne az évtized legbénább puccskísérletéhez
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egy Twitteren ismertetett feljegyzésben tagadta az amerikai elnök nemzetbiztonsági tanácsa (NSC), hogy közük lenne ahhoz az amerikaiak által vezetett, fegyveres partraszállási kísérlethez, amely május 3-án történt a főváros, Caracas partjainál – írta az MTI reggeli tudósításában.
+   </p>
+   <p>
+    A feljegyzésben azt közölték:
+   </p>
+   <p>
+    „az Egyesült Államok kormányzatának semmi köze nincs a közelmúltban Venezuelában neki tulajdonított történtekhez. Minden ezzel ellentétes állítás hiteltelen. Ha ez az Egyesült Államok által eltervezett hadművelet lett volna, ahogyan azt a narkoterrorizmus miatt vád alatt álló Maduro (venezuelai elnök) állítja, akkor az fedett, közvetlen és hatékony akció lett volna”.
+   </p>
+   <p>
+    Donald Trump elnök a héten korábban már tagadta, hogy bármit előzetesen tudott volna az akcióról, amelyet a Silvercorp nevű floridai biztonsági- és zsoldoscég vezére, Jordan Goudreau és több, a venezuelai emigrációhoz tartozó személy szervezett meg Kolumbiából. Az akció keretében 2 amerikai és nagyjából 60 venezuelai fegyveres próbált meg a tengeren keresztül behatolni a több mint 40.000 reguláris katona által biztosított Caracasba.
+   </p>
+   <p>
+    The Administration remains focused on our policy objectives of achieving a peaceful, democratic transition in Venezuela. The United States is closely monitoring any potential threats to the safety &amp; security of the legitimate leader of Venezuela, Juan Guaido. (2 of 2)
+    https://t.co/gyt7JKJHMn
+   </p>
+   <p>
+    — NSC (@WHNSC)
+    May 8, 2020
+   </p>
+   <p>
+    A venezuelai kormány – amelyet az USA és szövetségesei Juan Guaidó ellenzéki vezető elnöki ambícióinak bejelentése után nem ismernek el, sőt, Washington a jelenlegi elnököt, Nicolás Madurot és kormányát immár drogkereskedelemmel vádolta – azonnal beavatkozott, 8 behatolót megöltek a katonáik, a többieket – köztük két amerikai állampolgárt, a partra érve elfogták, majd a helyi halász-szövetkezet területén állították elő.
+   </p>
+   <p>
+    Az akció után Goudreau és egy embere saját, a Twitteren közzétett videóban bejelentették, a kísérlettel megindítják „Venezuela felszabadítását” a bolivárista rezsim ellen, ilyen lázadásnak azonban, pár, országon belüli fegyver-raktár leleplezésén és felszámolásán kívül, mideddig semmi nyoma.
+   </p>
+   <p rend="head">
+    Másnap az állami televízióban Maduro már az elfogott amerikaiak útleveleivel és jogosítványaival bizonyította, hogy Washington beavatkozási akciójáról, és puccskísérletéről van szó. A két elfogott amerikai Airan Berry és Luke Alexander Denman valóban Goudreau biztonsági csapatában szolgáltak, és Berrynek iraki szolgálata miatt még veterán-ellátásra feljogosító igazolványát is bemutatták a venezuelai hatóságok.
+   </p>
+   <p>
+    A zsoldosok vezére utólag azt állította, azért csak ennyien próbáltak behatolni, hogy később az ország számos pontján „nemzeti felkelést” robbantsanak ki a rezsim ellen, és azért a fővárosnál, mert Goudreau szerint „Nagy Sándor példáját” akarták emberei követni azzal, hogy „az ellenség szívében csapnak le”, mint az ókori makedón hadvezér Gaugamélánál.
+   </p>
+   <p>
+    A
+    <hi>
+     BellingCat
+    </hi>
+    portál korábban, az ügy részleteit kutatva több olyan
+    sajtónyilatkozatot is talál
+    t az akció előtt, amelyek arra utalnak, a reménytelen, és valójában érthetetlen beavatkozást valóban Jordan Goudreau és Cliver Alcalá, egykor Hugo Chávezt támogató, de Maduróval szembehelyezkedő képviselő találhatták ki. A sikertelen akció után venezuelai újságírók beszéltek is Goudreau-val, aki akkro arról beszélt, korábban szerződést kötöttek Juan Guaidó embereivel arra, hogy katonailag kiképzik a Kolumbiában erre a célra jelentkező embereiket, a kapcsolat azonban később megszakadt.
+   </p>
+   <p>
+    A
+    <hi>
+     Washington Post
+    </hi>
+    szerdán
+    közölt
+    egy, szerintük venezuelai disszidens körökből származó, aláírt szerződést is a Silvercorp zsoldoshadsereg és egyes venezuelai, Maduro-ellenes tényezők között, a szerződésről azonban feltűnő módon hiányzik az ellenzéki vezér, Guaidó aláírása.
+   </p>
+   <p rend="head">
+    Maga Goudreau szerepe már csak azért is érdekes a történetben, mert – noha Trump tagadja azt is, hogy egyáltalán ismerné a volt iraki katonát – őt azonban több, elnök által az USA-ban tartott kampányeseményen is felvették az elmúlt években, ahol Goudreau biztonsági feladatokat lát el az elnök beszéde alatt.
+   </p>
+   <p>
+    Noha a mindenkori, amerikai elnök védelmét hivatalosan a titkosszolgálat emberei látják el, Goudreau jelenléte az elnök környezetében nem feltétlenül jelenti azt, hogy a férfi ennek állományába tartozna. Trump elnök ugyanis megválasztása óta különös előszeretettel szerződtet le magántulajdonú biztonsági cégeket biztosítási feladatokra, az ő embereik pedig a titkosszolgálat embereinek munkáját egészítik ki. Goudreau cége, a Silvercorp is dokumentálta saját védelmi szerepüket az elnök egyik észak-karolinai kampányeseményén, itt Jordan Goudreaut a Bellingcat egy Trump kampánybeszédről készült videófelvételen is megerősítette.
+   </p>
+   <p rend="head">
+    Pénteken a Fox hírcsatornának adott interjújában viszont Trump hangsúlyozta, a Venezuelában elfogott fegyveres amerikaiak nem a kormány megbízásából cselekedtek, hanem saját szakállukra, és egyikük sem tartozik a titkosszolgálatok állományába.
+   </p>
+   <p>
+    Feltűnő azonban
+    , hogy Goudreaun kívül Airan Berry, az egyik elfogott katona is különös szimpátiával viszonyul Trump elnökhöz és politikájához. Róla ugyanis kiderült, interneten rendszeres követője és aktív alakítója volt a QAnon elnevezésű összeesküvés-elméletnek, amely szerint az elnököt az államigazgatáson belüli „sötét összeesküvés” próbálja meg eltávolítani, amely ellen titkos, a színfalak mögötti harc folyik. (A QAnon-összeesküvésről itt írtunk bővebben.)
+   </p>
+   <p>
+    Az észak-amerikai embargó, és saját rezsimje intézkedései, és az olaj világpiaci árának meredek zuhanása miatt súlyos gazdasági válságba került Venezuelában az USA már tavaly óta egyre proaktívabb politikai eszközökkel támogatná, hogy az őket elítélő, antiimperialista rezsim bukását elérje. Az ellenzéki, és a caracasi nemzetgyűlésben is helyet foglaló Juan Guaidó a 2018-as venezuelai választás után sajtá magát nyilvánította elnökké, őt pedig nemcsak az USA, de az EU és több, más nagyhatalom is elismerte Nicolás Maduróval szemben, akit viszont Oroszország támogat pozíciójában.
+   </p>
+   <p>
+    Guaidó fellépése óta venezuelai hívei többször, elég gyengécske kísérleteket tettek a hatalom átvételére, például tavaly áprilisban, amikor
+    autópályákat is elzártak
+    Guaidó hadsereg-beli hívei. Maduro ugyan nem tartóztatta le kihívóját, de jogilag korlátozta fellépését, és sokszor átfogó megtorlóakciókat indított a hadsereggel, és a belbiztonsági szervekkel a puccskísérletek nyomán.
+   </p>
+   <p>
+    Az USA kormánya illegális drogkereskedelm miatt nemrég vádat is emelt Maduro és több, vezető venezuelai politikus ellen.
+   </p>
+  </body>
+ </text>
+</TEI>

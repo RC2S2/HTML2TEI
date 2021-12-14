@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Miért bánik az Orbán-kormány könyörtelenül a közszférával?
+    </title>
+    <author>
+     <persName>
+      Kis Miklós
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     17c4930f-97a9-5e0c-9e4e-79343d3af7b4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Miért bánik az Orbán-kormány könyörtelenül a közszférával?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kis Miklós
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-06T17:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/09/06/miert-banik-az-orban-kormany-konyortelenul-a-kozszferaval/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/09/06/miert-banik-az-orban-kormany-konyortelenul-a-kozszferaval/
+     </sch:url>
+     <sch:name>
+      Miért bánik az Orbán-kormány könyörtelenül a közszférával?
+     </sch:name>
+     <sch:datePublished>
+      2019-09-06T17:20:00
+     </sch:datePublished>
+     <sch:author>
+      Kis Miklós
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      közszféra
+     </sch:keywords>
+     <sch:keywords>
+      közigazgatás
+     </sch:keywords>
+     <sch:keywords>
+      Tellér Gyula
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="17c4930f-97a9-5e0c-9e4e-79343d3af7b4">
+     <sch:identifier>
+      urn:uuid:67238734-ce3c-472a-a84b-e6fed220e83e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:40.809720
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:47:41.828319
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="17c4930f-97a9-5e0c-9e4e-79343d3af7b4" when="2021-12-14T15:30:40.809720">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Miért bánik az Orbán-kormány könyörtelenül a közszférával?
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Céltalan és abszurd a kormányzat dúlása a közigazgatásban, azonban nem ok nélküli: az Orbán-rendszer bázisát nem a közszférában dolgozók jelentik.
+   </p>
+   <p>
+    Nem könnyű értelmet lelni abban, amit a kormány művel a közigazgatásban. Tavaly a létszámstop bevezetése után nagy leépítések történtek – annak ellenére, hogy a közigazgatás egyes területein már a leépítések előtt is munkaerőhiány volt, és megszokottá vált a kifizetetlen túlmunka. Majd elfogadott a kormánytöbbség egy olyan jogszabályt (nem hivatalos nevén közigazgatási rabszolgatörvényt), amely nagyban rontotta a dolgozók munkakörülményeit, növelte munkaidejüket, munkaterheiket. Így azok közül, akiket még nem rúgtak ki, sokan maguk döntöttek a távozás mellett.
+   </p>
+   <p>
+    A kormányhivatalok működése elkezdett akadozni, a munkaerőhiány immár a nagyközönség számára is nyilvánvalóvá vált. A kormány erre feloldotta a létszámstopot, elkezdtek újra dolgozókat felvenni. Persze nem az elbocsátott, gyakorlott dolgozókat vették vissza – hiszen ez lett volna a leghatékonyabb és egyben legemberségesebb megoldás – hanem teljesen új emberekkel töltötték fel a létszámot. Pontosabban töltötték volna, mert az Index értesülése szerint ezeket az új embereket
+    csak a kormányzat egyedi engedélyével vehetik fel
+    .
+   </p>
+   <p>
+    A kormányinfón Gulyás azt mondta, csak arról van szó, ha egy álláshely fél éven át betöltetlen volt, akkor az központi álláshely lesz, és csak kormányzati hozzájárulással tölthető be – erre számítottak is a közigazgatásban, de csak a közigazgatási rabszolgatörvény hatályba lépése után fél évvel, szeptembertől. Mindeközben a kormányhivatalok
+    nyitvatartási ideje egyre csak rövidül.
+   </p>
+   <p>
+    Mire jó ez az egész? Mi értelme van, hogy a kormány – mondjuk így – kibabrál ennyi emberrel, dolgozóval, ügyféllel egyaránt? Megmagyarázhatatlannak tűnik.
+   </p>
+   <p rend="head">
+    Nem ma váltak kíméletlenné
+   </p>
+   <p>
+    S mégiscsak van magyarázat, csak hátrébb kell lépni hozzá, és szemügyre venni a nagy képet. A hatalom nem most kezdett kibabrálni a közszférában dolgozókkal. Az Orbán-kormány 2010-es hivatalba lépése óta fenntartja a közszféra válság idején, azaz 2008-ban bevezetett bérbefagyasztását. Ez alól egyes csoportokat kivont, és a maga kénye-kedve szerint, nem egységesen és nem is kiszámíthatóan alakítgatja a béreket, csepegtet esetleg valami pótlékot, vagy nem. Ezt a politikát, amelynek egyik alig titkolt célja a közszféra megosztása, a kormány elnevezte életpálya-modelleknek.
+   </p>
+   <p>
+    A közszférában nemcsak a bérek reálértéke csökkent, hanem a munkakörülmények is rohamosan romlottak. Az egészségügy alulfinanszírozottsága mára az emberek többségének ingerküszöbét is átlépte. Magyarország a GDP 2 százalékpontjával kevesebbet fordít az egészségügyre az uniós átlagnál.
+   </p>
+   <p>
+    A PISA felmérések szerint 2009 óta drámaian romlott a gyermekek szövegértési teljesítménye (mára mélyen az OECD átlaga alá kerültünk, míg korábban fölötte voltunk), ami az oktatási terület válságát jelzi. Ez persze nem pusztán az alulfinanszírozottsággal, hanem hibás közpolitikai döntések sorával függ össze.
+   </p>
+   <p>
+    Akad talán, aki szerint a kormány egyszerűen csak spórolni akar a közszférán, hogy a megtakarított pénzt azután látványosan költhesse el nagy adócsökkentésekre, annál is nagyobb stadionokra, és így tovább. Ez természetesen igaz, de az egész politikai jelenségnek csak a felszíne.
+   </p>
+   <p rend="head">
+    Ha kicsit messzebbről tekintünk rá a kormányzásra, akkor látható, hogy a kormányzás célja a közszféra, s nemcsak a közigazgatás, hanem az oktatás, egészségügy súlyának csökkentése is – tekintet nélkül e politika hosszú távon romboló következményeire.
+   </p>
+   <p>
+    Mindemellett célja a magángazdaság (különösképpen az ipar) aránytalanul magas állami támogatásokkal történő fejlesztése – tekintet nélkül az állami támogatások megtérülésére és e politika fenntarthatóságára (ld. megrogyó autóipar közeli és távolabbi kilátásai).
+   </p>
+   <p rend="head">
+    Háttérben a telléri világkép
+   </p>
+   <p>
+    Ha érteni akarjuk ennek a politikának az alapjait, akkor érdemes beletekinteni Tellér Gyula hírneves tanulmányába, amelyet Orbán Viktor már a 2014-es tusnádfürdői beszédéhez felhasznált, a forrás említése nélkül (Született-e „Orbán rendszer” 2010 és 2014 között?
+    <hi>
+     Nagyvilág
+    </hi>
+    , 2014 március).  Orbán idei tusnádfürdői beszédében név szerint is hivatkozott Tellér Gyulára.
+   </p>
+   <p>
+    Tellér szerint a magyar társadalom meghatározó vonása „a foglalkoztatottaknak az összlakosságon belüli igen alacsony számaránya, illetve a jövedelmüket a költségvetési újraelosztáson keresztül kapók igen magas aránya (…) Ez utóbbiak a posztszocialista klientúra tagjai. Ezek a társadalomrészek nemcsak a költségvetést terhelik meg nagymértékben, de az újraelosztástól való függésük miatt az újraelosztás színvonalának változásaira és az ezzel kapcsolatos politikai ígéretekre is nagyon érzékenyek.”
+   </p>
+   <p>
+    A társadalomnak ez a része Tellér Gyula szerint veszélyt jelent azokra, akiket Tellér „polgári-nemzeti rendszerváltóknak” nevez, vagyis a Fidesz-KDNP hatalomgyakorlására.
+   </p>
+   <p>
+    A hivatkozott cikk szerint „a számokat némileg leegyszerűsítve: Magyarország kilenc-millió kilencszázezer lakosából négymillió ember a gazdaságilag aktív népesség s mellettük mintegy négyszázezer az aktív álláskeresők száma. Ha a versenyszférában foglalkoztatott hárommillió embert s velük a vállalkozókat, szövetkezeti tagokat stb. leszámítjuk, mint akik talán kevésbé függenek a központi költségvetéstől, a többiek egzisztenciáját – így vagy úgy – a költségvetési újraelosztás biztosítja.”
+   </p>
+   <p rend="head">
+    Ami ebből számunkra a témánk szempontjából most a lényeg: a közszféra dolgozói lényegileg nem tartoznak az Orbán-rendszer bázisához Tellér szerint, mint a költségvetési elosztástól függő, az ezzel kapcsolatos politikai ígéretekre érzékeny csoport. Ahogy például a nyugdíjasok sem.
+   </p>
+   <p>
+    Nos, ezért bánik a Fidesz-KDNP ennyire keményen e csoportokkal. Az Orbán-kormány 2012-ben vezette be a nyugdíjaknál a tisztán inflációkövető indexálást, azóta a nyugdíjak emelkedésénél a bérnövekedést egyáltalán nem veszik figyelembe. A nyugdíjasok így nem részesülhettek a bérek elmúlt évekbeli növekedéséből (ami reálnövekedés történt, az infláció felültervezéséből fakadt). A nyugdíjasoknak vigaszul be kell érniük a még a Bajnai-kormány idején bevezetett nyugdíjprémiummal, és olykor kegyesen odacsúsztatott Erzsébet-, és legújabban „rezsiutalvánnyal”. A közszféra rezsiutalványa az életpályamodell. Éppen annyira méltányos.
+   </p>
+   <p>
+    Mindez aligha lepi meg azokat, akik még emlékeznek
+    Orbán Viktor 2008-ban kiszivárgott előadására
+    , amely szerint ő azokra igyekezett támaszkodni, „akik dolgoztak, és már volt némi vagyonuk”. Sajnos ebbe a kategóriába sem férnek bele a közszférában dolgozók (leszámítva természetesen az államtitkárokat, akikből
+    egyre több
+    van,
+    egyre nagyobb fizetéssel
+    ).
+   </p>
+   <p>
+    Tellér tanulmányának jelentőségét a rendszer irányítójára, Orbán Viktorra tett hatása adja. A tanulmány világmagyarázata egyszerű: a „polgári-nemzeti rendszerváltók” birkóznak a „posztszocialista klientúrával”, utóbbiak demagóg módon a költségvetési újraelosztástól függőkre igyekeznek támaszkodni. Ha a posztszocialisták hatalomra jutnak, akkor eladósítják az országot, és függővé teszik a külföldi „Befektetőtől”. E világmagyarázat nyilvánvalóan azért is nagy vonzerőt gyakorolhatott a jelenlegi miniszterelnökre, mert világos, egyszerű és megnyugtató magyarázatot kínál arra, miért vesztette el 2002-ben a választásokat.
+   </p>
+   <p>
+    E világmagyarázat elfogadásának mellékhatásaként azonban ma Magyarországon a kormányzati politika a közszférában dolgozókra úgy tekint, mint „a költségvetési újraelosztástól függőkre”. Ennek a szemléletnek a teljes közszféra látja kárát, nem csak a közigazgatás, de az oktatás és az egészségügy is.
+   </p>
+   <p rend="head">
+    Érdekek és irracionalizmus
+   </p>
+   <p>
+    Nem állítom persze, hogy a közszféra mostoha helyzete pusztán az általam fentebb leírtakra lenne visszavezethető. Például Scheiring Gábor elmélete a
+    felhalmozó államról
+    is jól magyarázza az Orbán-kormány könyörtelenségét, hiszen a nemzeti tőke érdekei rövid távon a közszféra radikális leépítését diktálják – és
+    képviselőik ezt szokták is fennen hangoztatni
+    . Annyit azonban állítok, hogy a politikai gazdaságtani összefüggéseken túl a rendszer működését azért befolyásolják azok a szubjektív képzetek is, amelyek a rendszer vezetőjének fejében vannak. Minél inkább egyszemélyivé válik a rendszer, annál inkább.
+   </p>
+   <p>
+    A közigazgatás abszurd történései már túl vannak a politikai gazdaságtani összefüggések diktálta racionalitáson. Amit ma láthatunk, az a gazdaságpolitikai voluntarizmus, a politikai akarat elsődlegessége a valóság, a józan ész rovására. Történelmi minta ez, szép előképeit találhatjuk meg a magyar gazdaságtörténetben: magyar narancs, alföldi gyapot, eocén program, erőltetett iparfejlesztés.
+   </p>
+   <p rend="head">
+    Ma a politikai akarat a közigazgatás leépítését diktálja még azon az áron is, hogy az működésképtelenné válik. Ez még rövid távú érdeke sem senkinek, de az egyszemélyi hatalomgyakorlással egyre több irracionalitás lopózik be a rendszer működésébe.
+   </p>
+   <p>
+    Mindez egyelőre jobbára csak az érintetteket – a dolgozókat és a rendszernek kiszolgáltatott használókat érdekli, mert a gazdasági növekedés az uniós támogatások és élénkítő intézkedések hatására egyelőre szárnyal. A kormányzat azonban a közszféra alulfinanszírozásával és kíméletlen leépítésével lassan fölszámolja a növekedés hosszú távú alapjait.
+   </p>
+  </body>
+ </text>
+</TEI>

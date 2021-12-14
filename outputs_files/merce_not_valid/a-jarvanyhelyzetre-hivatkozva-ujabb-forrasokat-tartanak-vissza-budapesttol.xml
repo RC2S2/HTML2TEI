@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A járványhelyzetre hivatkozva újabb forrásokat tartanak vissza Budapesttől
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6ca37d15-98c7-5275-9d81-0079f3500d1a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A járványhelyzetre hivatkozva újabb forrásokat tartanak vissza Budapesttől
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-09T11:25:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/09/a-jarvanyhelyzetre-hivatkozva-ujabb-forrasokat-tartanak-vissza-budapesttol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/09/a-jarvanyhelyzetre-hivatkozva-ujabb-forrasokat-tartanak-vissza-budapesttol/
+     </sch:url>
+     <sch:name>
+      A járványhelyzetre hivatkozva újabb forrásokat tartanak vissza Budapesttől
+     </sch:name>
+     <sch:datePublished>
+      2020-05-09T11:25:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      bkv. ner
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6ca37d15-98c7-5275-9d81-0079f3500d1a">
+     <sch:identifier>
+      urn:uuid:ad400f8b-8a8c-4f7f-a9a0-8d14ee45fe22
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:56.065442
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:12:56.403154
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6ca37d15-98c7-5275-9d81-0079f3500d1a" when="2021-12-14T15:30:56.065442">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A járványhelyzetre hivatkozva újabb forrásokat tartanak vissza Budapesttől
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Elhalasztaná a kormány a főváros számára a kabinet által, buszok vásárlására fordítható 3.2 milliárdos támogatásának kifizetését a koronavírus-járvány elleni védekezésre hivatkozva. Fürjes Balázs, a Miniszterelnökség Budapest és a fővárosi agglomeráció fejlesztéséért felelős államtitkára a
+    <hi>
+     Népszavá
+    </hi>
+    val
+    azt közölte
+    , arra kérték Karácsony Gergelyéket, hogy a járvány miatt ezt csak jövőre kelljen végül odaadni a fővárosnak.
+   </p>
+   <p rend="head">
+    Hozzátette, a javaslatról szerdán fog egyeztetni Kiss Ambrus általános főpolgármester-helyettessel.
+   </p>
+   <p>
+    Nem ez azonban az első elvonás, amelyet a kormány az 1000 milliárdos, a járvány gazdasági hatásait enyhíteni hivatott intézkedéscsomag részeként a fővárostól, a kerületi és vidéki önkormányzatoktól vonna el. A gazdaságvédelmi akcióterv keretében ugyanis már elvonták az önkormányzatoktól a gépjárműadót, szeptemberig befagyasztották az iparűzési adó kötelező befizetését és Orbán a teljes országban ingyenessé tette a parkolást is április folyamán – ez az önkormányzati bevételek túlnyomó többségét elzárja előlük.
+   </p>
+   <p>
+    Mindezen kívül a Baranyi Krisztina által vezetett IX. kerülettől egy 400 milliós felújítási beruházást
+    vontak már el
+    , míg az ugyancsak ellenzéki VIII. kerületnek pedig 1.12 milliárd forintnyi forrástól
+    kell megválnia
+    az egymásra sorakozó kormányzati döntések miatt. A Momentumos vezetésű Göd városától pedig a Samsung gyár területét, és így a tőlük származó adóbevételeket
+    csoportosították át
+    egy „kiemelt gazdasági területbe.”
+   </p>
+   <p>
+    Orbánék még Tarlós István főpolgármesterségének utolsó időszakában, a Fővárosi Közfejlesztések Tanácsának (FKT) egyik, 2019 júliusi ülésén ítélte oda a 3.2 milliárd forintos összeget Budapestnek, hogy ebből a BKV buszparkjának lecserélését, felújítását segítsék. Formailag pedig a kormány a Miniszterelnökséget utasította, kössön e célból támogatási szerződést a BKV-val.
+   </p>
+   <p rend="head">
+    Karácsony Gergely október 13-i megválasztása, és Tarlós távozása után azonban a kormány tovább már nem sürgette a szerződés megkötését. Erre utal, hogy júliusban még 2020. január 31-i szerződéskötési határidőt irányzott elő az FKT a Miniszterelnökségnek, ez azonban még idén februárig sem történt meg.
+   </p>
+   <p>
+    A
+    <hi>
+     Népszava
+    </hi>
+    emlékeztetett: Karácsony Gergely már levélben is kérte Gulyás Gergely Miniszterelnökséget vezető minisztert, szerezzen érvényt az FKT júliusi döntésének. Már azt is elárulta, körülbelül 37-40 darab új, Mercedes buszt kellene forgalomba állítani a fővárosnak november elsejéig, ugyanis az M3-as metró felújítási munkálatai még a járványhelyzet ellenére is folynak, és ekkor kezdődik a vonal középső, belvárosi szakaszának lezárása, amikor is az új buszok már kelleni fognak metrópótlásra.
+   </p>
+   <p rend="head">
+    Korábban Gulyás a támogatással kapcsolatban úgy fogalmazott, „kötünk egy támogatási szerződést, és az aláírás után megy a pénz”, ez azonban Fürjes mostani nyilatkozatai után egyáltalán nem biztos, hogy még idén megtörténhet.
+   </p>
+   <p>
+    Tüttő Kata, a városüzemeltetésért felelős főpolgármester-helyettes ugyancsak a Népszava kérdéseire csak annyit közölt, nagyon reménykedik benne, hogy a Fürjes által közöltek ellenére szerdán megállapodás születik majd a pénz kifizetéséről, ellenkező esetbe őszre a BKV-nak egyszerűen nem lesz mit forgalomba állítania a metrófelújítás idejére.
+   </p>
+   <p>
+    Ugyan a BKV berkein belül az elmúlt hónapokban már felmerült, az új, Conecto buszok vásárlását kiválthatnák használt, nyugat-európai buszok megvételével, ez azonban gyökeresen ellenkezne fővárosi új, klímavédelmi koncepciójának célkitűzéseivel.
+   </p>
+  </body>
+ </text>
+</TEI>

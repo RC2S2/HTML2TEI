@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Borsodi időközi: az O1G továbbra sem elég, a Fidesz még „trendiséggel” is előz
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     24e0de2a-58c2-5d3f-9425-bd2c95a95630
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Borsodi időközi: az O1G továbbra sem elég, a Fidesz még „trendiséggel” is előz
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-12T13:10:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/12/borsodi-idokozi-az-o1g-tovabbra-sem-eleg-a-fidesz-meg-trendiseggel-is-eloz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/12/borsodi-idokozi-az-o1g-tovabbra-sem-eleg-a-fidesz-meg-trendiseggel-is-eloz/
+     </sch:url>
+     <sch:name>
+      Borsodi időközi: az O1G továbbra sem elég, a Fidesz még „trendiséggel” is előz
+     </sch:name>
+     <sch:datePublished>
+      2020-10-12T13:10:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      idöközi választás
+     </sch:keywords>
+     <sch:keywords>
+      borsod
+     </sch:keywords>
+     <sch:keywords>
+      bíró lászló
+     </sch:keywords>
+     <sch:keywords>
+      koncz zsófia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="24e0de2a-58c2-5d3f-9425-bd2c95a95630">
+     <sch:identifier>
+      urn:uuid:16da471e-1627-4a8d-af51-9f137f372812
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.116354
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:27:21.410340
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="24e0de2a-58c2-5d3f-9425-bd2c95a95630" when="2021-12-14T15:31:00.116354">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Borsodi időközi: az O1G továbbra sem elég, a Fidesz még „trendiséggel” is előz
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A
+    <hi>
+     Mércét
+    </hi>
+    napi szinten olvasó embereknek feltűnhetett az, hogy a portálon nem követtük napról-napra jelleggel az amúgy igencsak kiélezett Borsod 6-os időközi választást, csak a legfontosabb fejleményekről adtunk hírt. Ezzel kapcsolatban nyugodtan megvallhatom, az érdeklődés hiányának részemről egyértelmű oka volt: baloldaliként egyáltalán nem tudott megmozgatni, hogy az Orbán-ellenes jelszavakkal kampányoló fidesz-ellenes jobboldali jelölt, vagy az Orbán Viktort szinte eltitkolni kívánó fideszes jobboldali jelölt győzelmével ér-e véget ez a csata, amelyet mindkét oldal előre felruházott tétekkel.
+   </p>
+   <p>
+    Azonban a választást végül végigkövetve a kampanyhajrá mégiscsak meglepetést tudott okozni. Szerencs, Tiszaújváros és környéke több okból is komoly előrejelzést adott nekünk az ország jövőjére nézve.
+   </p>
+   <p rend="head">
+    Az Orbán-ellenes koalíció önmagában továbbra sem elég
+   </p>
+   <p>
+    Az, hogy ezt a választást több mint 50%-kal hozta Koncz Zsófia, azt is jelenti, hogy az időközi választásokon megszokott, alacsonyabb részvétel mellett sikerült a kötelező papírformát túlteljesíteni, és a nyáron elhunyt édesapja eredményén Koncz
+    javított is.
+   </p>
+   <p rend="head">
+    Ez egyértelmű ellenzéki vereség.
+   </p>
+   <p>
+    Persze igaza van azoknak, akik felvetik, hogy a Fidesz-KDNP mindenféle társadalmi nyomáson és direkt javadalmazáson alapuló eszközt bevetett most is, a laptoptól az anekdotikus zsák burgonyáig, de ez mindig így történt az elmúlt években, 2019 őszén is így történt, azelőtt biztos fideszes, budapesti kerületekben is, amelyek egy részét a Fidesz akkor elbukta.
+   </p>
+   <p>
+    Krumplivásár és fenyegetőző kormánypárti polgármesterek ide vagy oda, a Szerencs – Szikszó – Tiszaújváros választókerület ugyanezzel a Bíró Lászlóval – és egy ráadás MSZP-s jelölttel – is billegő Fidesz-körzetként végezte a nagy Fidesz-győzelmek évadában, 2018-ban. Egészen pontosan 16.469-en szavaztak az akkor még szimplán jobbikos jelöltre (31,49%), 7757-en az MSZP-Párbeszédes Pap Zsoltra (14,9%), 1182-en az LMP-s Tarnai Gáborra (2.3%) és 25.662-en Koncz Ferencre (49,3%).
+   </p>
+   <p>
+    Ezzel szemben most a Fidesz jelöltjének be kellett érnie 17.597 szavazattal, de mivel Bíró 2018-as támogatójából ledobott 600-at (15.875 szavazat – 45%), ez nem volt elég, sőt, az 50,87%-os szavazati arány után az a kérdés, „billegőnek”, avagy biztos fideszesnek kell-e tekintenünk Borsod-Abaúj-Zemplén megye 6-os számú egyéni választókerületét.
+   </p>
+   <p rend="head">
+    A balliberálisok elmentek, de a széljobb is
+   </p>
+   <p>
+    A hagyományos, „balliberális” irányba az összefogás-elmélet működött: Pap 2018-as tiszaújvárosi erős körzeteiben 2020-ban is mindenhol elment a többség, és ezek a szavazók megbízhatóan átszavaztak az összellenzékiként induló jobbikosra. Azonban a Mi Hazánk épp ebben a szoros körzetben, ahol a Fidesznek van vesztenivalója is, el sem indult most, dacára annak, hogy fiatal, feltörekvő pártként érdekében is állna a jelöltállítás, igaz, már 2018-ban sem volt jelöltjük, így hívei nyilván inkább a Fideszt támogatták. A mesekönyvek persze mostanában túlzottan is lefoglalhatják a pártvezetőséget ahhoz, hogy időközi megmérettetésen vegyenek részt, ki tudja…
+   </p>
+   <p>
+    Akárhogyan is van, minden jel arra utal, hogy az „összellenzék”, ahogy magát a Jobbik, DK, MSZP-Párbeszéd, LMP, Momentum sokkerekes tandem hívni kezdte, nem végezte el jól a házifeladatát, arányaiban kevésbé tudta mobilizálni híveit egy olyan kerületben, ahol végülis egészen sok híve akad, miközben a Fidesz a jóval alacsonyabb részvétel mellett 2018-as, rekord számú szavazója 68%-át most is sikeresen szólította urna elé.
+   </p>
+   <p>
+    Bíró László ellenzéki kampánya végig a kétharmad lebontását ígérte helyben, ugyanakkor ahhoz, hogy erre esélye legyen, még a klasszikus összefogásos kockáspapír-logika is csak akkor kínált volna esélyt, ha a 2018-as nem fideszes szavazók (25.408) legalább ugyanekkora arányát most is ki tudják vinni, de a Fideszes 68%-hoz képest ez kisebb arányban (62%) sikerült.
+   </p>
+   <p rend="head">
+    Pedig az ellenzék éppen azt csinálta, amit a térfelén meghatározó „megmondók” Márki-Zay Pétertől Gyurcsány Ferencen át Hadházy Ákosig mantráztak: szépen „összefogott”.
+   </p>
+   <p>
+    A Szanyi-féle szocdem
+    <hi rend="italic">
+     startup
+    </hi>
+    , az ISZOMM, valamint néhány, körön kívüli kispárt kivételével mindenki be is állt a Jobbik 2018-as „erős embere”, Bíró László tarcali vállalkozó mögé.
+   </p>
+   <p>
+    Bíróról hamar kiderült, amit politikát figyelő ember egy régi párttag, tarcali jobbikosról amúgy is sejthet: súlyos, virtigli antiszemita kiszólásai voltak korábban, amelyeket mostanra természetesen nagyon megbánt, és amikért bocsánatot kér. „Tetűcsúszdázós” és „judapestezős” facebookos hőstetteivel tele is volt a gondosan megtervezett kormánymédia éjjel-nappal harsogó propagandája.
+   </p>
+   <p>
+    A felületes szemlélő ezen a ponton megütközhet: a zempléni választókat nyilván nehéz lenne olyan absztrakt koncepciókkal Bíró képviselőjelölt ellen fordítani, mint mindezek az egyébként a fővárosi ellenzék prominenseinek orrát is facsaró múltbéli tettek. A balos, liberális szavazók jelentős része Bíró antiszemita, rasszista kijelentései miatt most is csak orrát befogva tudott Orbán ellen szavazni, ők nem engedhették meg maguknak azt a luxust helyben, hogy ne tegyék. Ők azok, akik nem csupán a „korrupció, lopás, borkaizás” szentháromság miatt nem fideszesek, hanem mélyebb okuk is van az Orbán-ellenességre: teszem azt, antirasszisták vagy baloldaliak.
+   </p>
+   <p>
+    Bíró Lászlót lejárató szóróanyag. (kép: Bíró László facebook-oldala)
+   </p>
+   <p>
+    Velük szemben próbálkozott főként az orbáni pártpropaganda a sötét jobbikos múlt felemlegetésével, helyben mérsékelt sikerrel. Pedig Bíróról valakik még náci, német sasos jelvényes szórólapot is készítettek, közepén az ő képével, ezt terjesztették a kampány alatt. Felemlegették azt az egyelőre minden bizonyítékot nélkülöző történetet is, hogy egy korábbi körben a vállalkozó varrodájában
+    sem fizette volna ki
+    a munkásait – bár az ilyesmit a helyiek nyilván nem a
+    <hi rend="italic">
+     Magyar Nemzet
+    </hi>
+    cikkeiből fogják tudni, ha egyáltalán igaz.
+   </p>
+   <p>
+    Mindez persze még nem okozott volna áthidalhatatlan problémát. A szerény anyagi lehetőségek ellenére az ellenzéki kampánygép amúgy láthatóan épülget, van mozgósító stratégiája is, a 2010-2018 közötti éveket jellemző egyéni pártszervezeti amatőrködésen túlvagyunk.
+   </p>
+   <p>
+    Ismét az történt ugyanakkor, ami már annyiszor a NER ellenzékében.
+   </p>
+   <p rend="head">
+    A kampány egyedül Orbán és az immár valóban csupán mitikus kétharmad köré épült, nem igazán láttunk olyasmit Bíró kampányában, ami következtetni engedne arra, hogy Magyarország egyik legszegényebb vidékén mégis mi az, amit az ellenzék ígérni tud.
+   </p>
+   <p>
+    Bíró a legotthonosabban hazai terepen mozgott, kampányanyagaiban a legfontosabb eszköz jelentős televíziós és médiaháttér híján Facebook-videók lehettek.
+    Bíró oldalán
+    két videó szól a Tokaj-Hegyalján dolgozó gazdáknak kialakítandó bormarketingről, egy a gazdák védelméről a NER-rel szemben, csupán egy a nyugdíjak megemeléséről, és egy további, ami a házak energetikai felújítását vissza nem térítendő támogatással javasolja megoldani a fideszes hitel-megoldás helyett.
+   </p>
+   <p>
+    Az elmúlt 4-5 hét termése ezen túl – nem vicc – ellenzéki nagy nevek: Karácsony, Márki-Zay, Kunhalmi, Szabó Tímea és természetesen Jakab Péter – támogatói üzeneteinek füzére. Valamelyest okosan Bíró kampánya – amelyet a hódmezővásárhelyi időközi 2018-as választásban is segítő Szabó Gábor Jobbik-pártigazgató is szorosan felügyelt – átvette Karácsony „kerületjárásos” ötletét, és Bíró a kampányban mind a 42 települést végigtalpalta, becsületesen.
+   </p>
+   <p>
+    De, miközben a sajtóban publikált, részletes kampányriportokból rendre visszajött, hogy az emberek helyben főleg szociális kérdések miatt aggódnak – egy helyen a felemelt nyugdíjkorhatárt is emlegették, mint ami miatt „dühösek a Fideszre”, mégsem ez volt a fő virtuális kampányüzenet, hanem csak annyi: Orbán takarodj!
+   </p>
+   <p>
+    És igazából ez a baj: hiába ígérik a pártok a teljes együttműködést, a majd valamikor megírandó közös programot, hiába brillíroznak már a vidéki kisvárosokban is – a kerületi központ Tiszaújvárosban Bíró kis híján kétharmadot kapott, de Szerencsen, Szikszón is szépen szerepelt -, a falvakban maradt a monolitikus Fidesz-előny. Ez pedig a nagyobb nyomással önmagában nem magyarázható, jól látszik az, hogy mára nem is az urbánus és vidéki Magyarország feszül értékrendben a választásokon egymásnak.
+   </p>
+   <p rend="head">
+    Egyik oldalon a nagyközségek, falvak és a városi Fidesz-kisebbség, míg a kisvárosok, nagyvárosok és a főváros népe a másikon – nagyjából hozva az országosan is jellemzőnek tartott 45-50 százalékos arányokat Orbánék javára.
+   </p>
+   <p>
+    Egyértelmű tehát: ennek az arányosságnak a megfordításához nem lesz elég O1G-zni, kétharmadozni, és képtelenség úgy nyerni, hogy a színes antiorbánista koalíció emellett még megosztó, sok szavazó számára elfogadhatatlan jelöltet is állít.
+   </p>
+   <p rend="head">
+    Nincs válasz arra, hogy miért nem volt előválasztás?
+   </p>
+   <p>
+    Egy lehetséges eszköz kínálkozott a helyzet megoldására: az előválasztás. A sajtó dolga lesz az, hogy az eddig zavaros magyarázatok helyett kiderítse, megfelelő idő és több jelölt jelentkezése ellenére miért nem éltek ezzel a hatásos, értékalapú vitákat és komoly előmozgósítást is kínáló eszközzel.
+   </p>
+   <p>
+    Szanyi Tibor a választás éjszakáján. (Saját gyűjtés.)
+   </p>
+   <p>
+    Mindenesetre nem éltek, és lehet ezt a Szanyi-párt jelöltje, Tóth Ádám gyengeségére fogni, ugyanakkor ha első körben Bíró épp őt veri kenterbe úgy, hogy már programról vitáztak, a helyzet vélhetően egészen máshogyan állna, és Szanyi Tibornak sem lenne alkalma jelöltje 2.3%-os eredménye után a Facebookon hülyézni a nála reklamáló polgárokat, ami talán már önmagában óriási ajándék lenne mindenkinek.
+   </p>
+   <p>
+    De az ellenzéknek nem csak a saját stratégiájával és világképének kialakításával gyűlik meg a baja. Van itt ugyanis olyan erő, amelyik már felébredt és elindult az új utakon: ez pedig a Fidesz.
+   </p>
+   <p rend="head">
+    Szelfik, erős nők, semmi Orbán
+   </p>
+   <p>
+    A Borsodban most ősszel kampányoló új Fidesz fényévekre van a 2018-ban riogató, migránsozó és sorosozó régitől. Nemcsak a Fidelitasban éppen sikeresnek nem nevezhető, de nemzetközi tapasztalatokkal ringbeszálló „örökösnő”, Koncz Zsófia kampányán látszott, hogy a feladatot átgondolták, milliókból gondosan „lemérték” és kockázatokat is vállalva oldották meg. Egy lényeges elemet kevesen vettek eddig észre:
+   </p>
+   <p rend="head">
+    Koncz mellől szeptember és október folyamán is végig hiányzott Orbán Viktor miniszterelnök, a Fidesz hagyományos csodafegyvere.
+   </p>
+   <p>
+    Pedig aki csak egy kicsit is odafigyelt az elmúlt tíz évben, egyet láthatott: nincs kampány Orbán nélkül.
+   </p>
+   <p>
+    Márpedig most nem volt ott, nem készített külön videót, mintha nem is létezett volna a terepen, és Kövér László, Kósa Lajos, valamint a hagyományos kormánypárti hergelőember, Bayer Zsolt sem fórumozott a népnek. Helyette jöttek mások: a fiatal Kocsis Máté, Novák Katalin, de elsősorban Varga Judit igazságügyi miniszter.
+   </p>
+   <p>
+    Varga az elmúlt években tudatosan építette immár sok tízezres közösségi média-jelenlétét, amelyet most, az időközi kampány teszt-terepén váltott internetes mozgósító erővé. Nem volt véletlen az sem, hogy az utolsó héten ő érkezett megtámogatni az ugyancsak fiatal nőt, Koncz Zsófiát.
+   </p>
+   <p>
+    Mindezt persze a kampánystratégia szempontjából keretezik a kormánypárti körökben sokkhatásként megélt 2019 őszi önkormányzati választások. Emlékezetes, hogy egy éve Orbán számos polgármester-jelöltjét meglátogatta, és videóval támogatta meg, akik azután elbuktak október 13-án: a legismertebb közülük talán Alakszai Zoltán miskolci fideszes polgármester-jelölt volt. Egy Orbán-videó a sok fiatal szavazó között, a változó habitusú, egyre inkább az interneten és nem a fideszes körök által felvásárolt hagyományos médiából tájékozódó országban ekkorra már inkább megosztó hatású volt.
+   </p>
+   <p>
+    De úgy tűnik, a kormány választási propagandagépezete tanul és alkalmazkodik. A fő üzenet, ahogyan azt szombati
+    cikkünk is megjegyezte
+    , fáradt és szinte szánalmas volt: a fejlődés nem állhat meg, a kormányzat „kapui” csak a megfelelő jelölt sikere esetén nyílnak meg, amit nyugodtan lehetett úgy érteni, hogy Bíró győzelme esetén nem lesz itt semmi, kivéreztetik a renitens szavazói többségeket, mint ahogyan azt próbálják most Budapesttel is.
+   </p>
+   <p>
+    De az asztalra lerakott, viseltes korbács mellett most ott volt a friss kalács is: a kampány ígérete szerint az Orbán-kultuszként eladott Fidesz változhat: a mosolygós, első gyermekét váró fiatal pár (a fiatal feleség a középpontban) és a sikeres szerencsi szállodaigazgatónő társaságában fényképezkedő jobboldali „erős nők”. Olyan képek, amelyeket még egy éve sem igazán lehetett volna elképzelni éppen a súlyosan „vakkomondoros múltú” Fidesztől.
+   </p>
+   <p>
+    A helyzetre jellemző, hogy amíg a győztes Koncz Zsófia már az eredmények hivatalossá válása előtt tíz perccel besöpörhette Varga Judit facebookos, közös képes gratulációját, addig Orbán megható, rövid üzenete csak este kilenc előtt egy perccel futott be. Egy hete ez a miniszterelnök legelső bejegyzése az időköziről, a választókerületbe el sem utazott.
+   </p>
+   <p rend="head">
+    Ez azt mutatja, hogy a jelenlegi inkább volt Varga Judit kampánya, mint Orbán Viktoré.
+   </p>
+   <p>
+    Az üzenet pedig a fényes jövőről szólt, nem csak a rút ellenségről és annak számos bűneiről: a negatív kampány személytelen propaganda-cunamija mellett itt volt az, ami tényleg kell a Zemplén legszegényebb kerületének: a mégoly csalfa remény egy jobb életre, amit csak ki kell várni.
+   </p>
+   <p>
+    És hogy az egész nyilvánvaló hazugság, amint az helyben többször világossá vált már
+    ? Mit számít, hiszen a „terméket” új fideszes
+    <hi rend="italic">
+     influenszereink
+    </hi>
+    szépen eladták, az ellenzék teleshopos fritőzreklámja mellett ez egy egészen tisztességes, egyhetes instasztori-kampány volt. Az 5%-os siker pedig üzenet az ellenzéknek is: nem csak ők tudnak fiatalosak, innovatívak, „menők” lenni, a jóval konzervatívabb Fidesz is tud fiatal és női jelölteknek esélyt adni, nemcsak tudja, mit akar mondani a saját üzleti klientúra alá szervezett, helyi választóknak, de ki mer lépni a komfortzónából, és új formákkal kísérletezni.
+   </p>
+   <p>
+    Ezt a munkát tehát 2022 előtt az ellenzék nem spórolhatja meg. Éppen ezek az élesváltások és a miniszterelnök imidzsének immár érzékelhető kopása üzenik: a küzdelem nem reménytelen, de bizony nincsen sok idő, hiszen egy profi, milliárdos gépezet előz éppen a kanyarban.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Frissítve: újabb mesekönyvet ért támadás
+    </title>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0d31d756-4bee-5f19-bb2b-e22e5a420507
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Frissítve: újabb mesekönyvet ért támadás
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-07T14:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/07/a-pest-megyei-kormanyhivatal-mar-a-gyakorlatban-is-alkalmazza-a-homofob-modositot/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/07/a-pest-megyei-kormanyhivatal-mar-a-gyakorlatban-is-alkalmazza-a-homofob-modositot/
+     </sch:url>
+     <sch:name>
+      Frissítve: újabb mesekönyvet ért támadás
+     </sch:name>
+     <sch:datePublished>
+      2021-07-07T14:35:00
+     </sch:datePublished>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      LMBTQ
+     </sch:keywords>
+     <sch:keywords>
+      pride
+     </sch:keywords>
+     <sch:keywords>
+      homofóbia
+     </sch:keywords>
+     <sch:keywords>
+      homofób kampány
+     </sch:keywords>
+     <sch:keywords>
+      Baranyi Krisztina
+     </sch:keywords>
+     <sch:keywords>
+      homofób módosító
+     </sch:keywords>
+     <sch:keywords>
+      szivárványcsaládokért alapítvány
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0d31d756-4bee-5f19-bb2b-e22e5a420507">
+     <sch:identifier>
+      urn:uuid:c154db19-4b7b-449e-885d-1cc18ff3f7c7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:24.198749
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:50:53.331462
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0d31d756-4bee-5f19-bb2b-e22e5a420507" when="2021-12-14T15:27:24.198749">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Frissítve: újabb mesekönyvet ért támadás
+   </head>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Frissítve, 2021.07.08., 13:57:
+     </hi>
+    </hi>
+    A cikk korábbi címében tévesen állítottuk, hogy a Pest Megyei Kormányhivatal a homofób törvénymódosító alapján büntette 250 ezer forintra a könyvforgalmazót. A bírságot valójában a hivatal „fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény” alapján rótta ki. A hibáért elnézést kérünk, a címet javítottuk.
+   </p>
+   <p>
+    250 ezer forintra büntették a
+    <hi>
+     Micsoda család!
+    </hi>
+    című mesekönyv egyik forgalmazóját. Ezt Tarnai Richárd, Pest megyei kormánymegbízott jelentette be a Hír TV-ben. A politikus törvénysértéssel vádolta a forgalmazót, mert szerinte nem jelölte meg egyértelműen, hogy a mesekönyv a „normálistól” eltérő családokat jelenít meg – derül ki a Szivárványcsaládokért Alapítvány
+    Facebook-posztjából.
+   </p>
+   <p rend="head">
+    A Szivárványcsaládokért Alapítvány szerint „a mesekönyv egyszerű, mindennapos történéseket mutat be, a szülők szexualitása nem is téma benne” és az, hogy nem hetero- hanem szivárványcsaládokról szól már a könyv borítójából kiderül, tehát igenis fel van tüntetve.
+   </p>
+   <p>
+    Az alapítvány Tarnai Richárd azon mondatára is reagált, miszerint inkább Ázsiában és Afrikában kéne „érzékenyíteni”: szerintük igenis van tennivaló Magyarországon,
+    <hi>
+     például
+    </hi>
+    nem kéne 250 ezer forintra büntetni egy könyvforgalmazót egy mesekönyvért és az is fontos lenne, hogy „a kormány ne hagyjon magára 100 ezer gyereket, akik az iskolai ismeretterjesztő órák betiltása miatt segítség nélkül maradnak, éppen amikor a legnagyobb szükségük lenne rá”. A bejegyzés végén emlékeztettek arra is, hogy az Ipsos felmérése szerint „a magyarok 62%-a szerint az azonos nemű szülők ugyanolyan jó szülők, mint az eltérő neműek”.
+   </p>
+   <p rend="head">
+    Eközben Baranyi Krisztina, Ferencváros polgármestere arról számolt be Facebook-oldalán, hogy „letörték és szétszaggatták a tegnapi testületi ülésen a házasságkötő teremre kihelyezett pride zászlót” és „persze mindezt bátran, nyíltan vállalva a véleményüket – az éj leple alatt”.
+   </p>
+  </body>
+ </text>
+</TEI>

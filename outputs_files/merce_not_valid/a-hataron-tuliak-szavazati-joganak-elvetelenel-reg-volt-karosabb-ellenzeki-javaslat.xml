@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A határon túliak szavazati jogának elvételénél rég volt károsabb ellenzéki javaslat
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a6b5995b-d5a1-5963-a4eb-396b6ebad4c7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A határon túliak szavazati jogának elvételénél rég volt károsabb ellenzéki javaslat
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-03T07:18:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/03/a-hataron-tuliak-szavazati-joganak-elvetelenel-reg-volt-karosabb-ellenzeki-javaslat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/03/a-hataron-tuliak-szavazati-joganak-elvetelenel-reg-volt-karosabb-ellenzeki-javaslat/
+     </sch:url>
+     <sch:name>
+      A határon túliak szavazati jogának elvételénél rég volt károsabb ellenzéki javaslat
+     </sch:name>
+     <sch:datePublished>
+      2017-11-03T07:18:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      határon túli magyarok
+     </sch:keywords>
+     <sch:keywords>
+      gyurcsány
+     </sch:keywords>
+     <sch:keywords>
+      rossz de legalább értelmetlen
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a6b5995b-d5a1-5963-a4eb-396b6ebad4c7">
+     <sch:identifier>
+      urn:uuid:0aa58caf-5edb-4061-b78d-fe953d1f7a04
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.361409
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:37:38.857236
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a6b5995b-d5a1-5963-a4eb-396b6ebad4c7" when="2021-12-14T15:31:00.361409">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A határon túliak szavazati jogának elvételénél rég volt károsabb ellenzéki javaslat
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Gyurcsány Ferenc a minap
+    bejelentette
+    , a DK aláírásgyűjtésbe kezd, hogy a határon túli szavazóktól vonják meg a szavazati jogukat. Tegyünk is fel akkor pár kérdést:
+   </p>
+   <p>
+    Van esélye annak, hogy az aláírásgyűjtés eredményt ér el és a Fidesz megváltoztatja a választási törvényt? Nem.
+   </p>
+   <p>
+    Jobb lenne ebben az országban élni, ha 2018-ban valami csoda folytán a DK hatalomra kerülne, és elvenné a határon túli szavazók szavazati jogát? Nem, sőt a 2004-es kettős állampolgárság népszavazás következményét ismerjük, látjuk mekkora muníciót adott ez a jobboldalnak.
+   </p>
+   <p>
+    Meggyőzhetőek-e új, eddig nem ellenzéki szavazók arról, hogy szavazzanak azért az ellenzékre, hogy 2018 után elvegyék a határon túli magyarok szavazati jogát? Több mint kétséges, hogy valaki csak ezért az ellenzéki pártokra szavazna.
+   </p>
+   <p rend="head">
+    Segít-e egy ilyen kampány a Fidesznek abban, hogy a saját szavazói táborát behergelje az ellenzék ellen, és motiválja őket a szavazáson való részvételre? Igen.
+   </p>
+   <p>
+    Hát akkor ennek mi értelme van, ha tudjuk azt, a Fidesznek egyetlen feladata van, hogy minél több szavazóját elvigye az urnákhoz 2018-ban, míg az ellenzéknek új szavazókat kéne szereznie a kormányváltáshoz? Ebből a szempontból ennek semmi értelme, sőt káros.
+   </p>
+   <p>
+    Ellenben a DK ezzel a javaslattal erőt tud mutatni a már most ellenzéki szavazók táborában. Ez a javaslat csak és kizárólag arra jó, hogy a DK a többi ellenzéki párttól próbáljon meg szavazókat elszívni. Ez csupán az ellenzéki pártok saját buborékfújásának egy újabb művelete, még károsabb kiadásban.
+   </p>
+   <p>
+    Ezzel viszont semmire se megyünk, ha a mi szempontunk nem az, hogy a DK erős legyen, hanem az, hogy az ellenzék erősödjön. Sőt feltehetőleg, aki nem csupán a DK erősödését szeretné, hanem a teljes ellenzékét, még csalódni is fog.
+   </p>
+   <p>
+    A határon túli magyarok választójoga kapcsán a Mérce
+    <hi>
+     Választások határok nélkül
+    </hi>
+    címmel sorozatot indított, hogy a „nemzetáruló vs. mélymagyar” szembeállításán túl is vitatkozhassunk a kérdésről.
+   </p>
+   <p>
+    Bár nincs határozott véleményem, én is inkább azt mondanám, ne szavazhassanak a határon túli szavazók a magyar választásokon. Bár szerzett jogról van szó, aminek az elvételéről elvileg még kirívó esetben is csak ritkán lehet szó, van itt pár dolog, ami indokolná ezt. Egyrészt a Fidesz hazudott arról, hogy a kettős állampolgárság megadása mellett szavazati jogot is fog adni. A 2010-es kampányban még tagadták ezt. Másrészt egy olyan média és választási környezet, amelyben lényegében az egyik párt és annak vazallusai adják át a szavazati jogot jelentő állampolgárságot, és ők biztosítják a szavazási rendszert, illetve csak nekik van hozzáférésük a választókhoz, nem nevezhető se demokratikusnak, se igazságosnak.
+   </p>
+   <p>
+    Persze én még így is el tudnám fogadni, hogy legyen a határon túli magyaroknak szavazati joguk, de az egy külön parlamenti képviselővel járjon, aki vétójogot emelhet a nemzetpolitikát érintő kérdésekben.
+   </p>
+   <p>
+    De az biztos, a minimum az lenne, hogy a határon túli magyaroknak pont olyan lehetőségük legyen szavazni, mint a külföldön élő magyar munkavállalóknak.
+   </p>
+   <p>
+    Az igazság viszont az, hogy ezek nem kérdések ma.
+   </p>
+   <p>
+    Amikor Gyurcsány Ferenc elment a közös ország mozgalom rendezvényére az új választási rendszerért harcoló  mozgalom nyitányára, pont azt mondta, amivel én most itt érvelni szeretnék.
+   </p>
+   <p rend="head">
+    Nincs realitása egy ilyen küzdelem győzelmének a választásokig.
+   </p>
+   <p>
+    A határon túli szavazat elvételének nincs. Tehát ez nem fog teljesülni. Viszont akkor lényegtelen a morális szempont, hogy helyesnek tarjuk-e vagy sem a kettős állampolgárok szavazati jogát. A taktikai szempont érvényes: előnyös vagy nem előnyös az ellenzék szempontjából Gyurcsányék kezdeményezése.
+   </p>
+   <p>
+    Erre az én válaszom pedig a fentiek alapján annyi, hogy nem előnyös, hanem katasztrofálisan buta.
+   </p>
+  </body>
+ </text>
+</TEI>

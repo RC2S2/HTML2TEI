@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Népesedéspolitikai kérdések – kultúrharc és valóság
+    </title>
+    <author>
+     <persName>
+      Kováts Eszter
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     50aad808-eef2-52d7-a0a5-1f748bafa4f7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Népesedéspolitikai kérdések – kultúrharc és valóság
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kováts Eszter
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-12-04T11:42:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/12/04/nepesedespolitikai_kerdesek_kulturharc_es_valosag/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/12/04/nepesedespolitikai_kerdesek_kulturharc_es_valosag/
+     </sch:url>
+     <sch:name>
+      Népesedéspolitikai kérdések – kultúrharc és valóság
+     </sch:name>
+     <sch:datePublished>
+      2016-12-04T11:42:00
+     </sch:datePublished>
+     <sch:author>
+      Kováts Eszter
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      bölcsőde
+     </sch:keywords>
+     <sch:keywords>
+      népességnövekedés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="50aad808-eef2-52d7-a0a5-1f748bafa4f7">
+     <sch:identifier>
+      urn:uuid:b517e14b-5503-46f1-93a2-544e44c1dc80
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:39.980534
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:27:16.327657
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="50aad808-eef2-52d7-a0a5-1f748bafa4f7" when="2021-12-14T15:30:39.980534">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Népesedéspolitikai kérdések – kultúrharc és valóság
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Magyarországon a népesedéspolitikai kérdésekkel kapcsolatban is fontos szerepet tölt be a nők társadalmi szerepeiről szóló vita. Ezek a főként női princípiumról vagy női autonómiáról szóló viták gyakran kultúrharcra szűkítik a jelenséget, és ezzel számos szempontból figyelmen kívül hagyják az emberek valós élethelyzetét. Ahelyett, hogy egyének gyerekvállalási döntéseire és egy kívánt népességnövekedésre szűkítenénk a fókuszt, és ezt szakpolitikai intézkedéscsomagokkal próbálnánk elősegíteni, érdemesebb volna a jóléti állam lehetőségeiről vitáznunk a globális gazdasági környezet által alakított mozgástérben.
+    </hi>
+   </p>
+   <p>
+    A szőregi bölcsőde,
+    fotó forrása
+   </p>
+   <p>
+    „
+    <hi>
+     Noha a bölcsődei rendszer kiterjesztésének elgondolása jó, csak elvi síkon fog életbe lépni az erről szóló jogszabály, mivel az önkormányzatok nem állnak készen a három év alatti gyermekek napközbeni ellátására
+    </hi>
+    ” – mondta a
+    Magyar Idők
+    megkeresésére Schmidt Jenő, a Települési Önkormányzatok Országos Szövetsége (TÖOSZ) elnöke néhány héttel ezelőtt. A januárban induló új bölcsődei ellátás jogszabályban írja elő, hogy a jövőben minden olyan, tízezer főnél kisebb város önkormányzatának biztosítania kell a bölcsődei ellátást, ahol van legalább 40 három év alatti gyermek, vagy öt olyan szülő, aki igényt tart kisgyermeke napközbeni felügyeletére.
+   </p>
+   <p rend="head">
+    Üdvös törekvések a népességbővítés keretezésében
+   </p>
+   <p>
+    Dicséretes ez a törekvése a kormányzatnak, még ha – nem először – meg is felejtkezik a szép és hangzatos tervhez megfelelő mennyiségű forrás rendelkezésre bocsátásáról.
+   </p>
+   <p>
+    Beneda Attila, az EMMI család- és népesedéspolitikáért felelős államtitkára, az Igazságügyi Minisztérium Nők Jogaiért Felelős Tematikus Munkacsoportjának múlt heti ülésén a bölcsődebővítés tervét, és az intézményes kisgyerekellátás formáinak változatosságára tett törekvést a demográfiai helyzettel indokolta. Hiszen ez az egyik legfontosabb probléma ma Magyarországon, és ezért fontos, hogy a nőknek megadjuk a választás lehetőségét.
+   </p>
+   <p rend="head">
+    Érdemes emlékeztetni arra, hogy a gyerekeknek általában apjuk is van, akiket szintén foglalkoztat gyerekük sorsa, és a nők jóléte és választási lehetőségei jó esetben nem csupán azért lényegesek, mert népesedéspolitikai értelemben ez egy stratégiailag fontos csoport (=szülnek), hanem önmagukban (=állampolgárok).
+   </p>
+   <p>
+    Ezzel együtt is kijelenthetjük, hogy azért ez üdvözlendő terv. Az utóbbi években 11%-ról 16%-ra nőtt a 3 év alattiak bölcsődei férőhelyének az aránya, ez nagyon pozitív változás, tovább kellene menni ezen az úton.
+   </p>
+   <p>
+    Függetlenül attól, hogy ki mit gondol arról, hogy hol a nő helye, és hol a gyerek helye életének első három évében.
+   </p>
+   <p>
+    Ugyanis a valóság az, hogy egy fizetésből ma nem lehet megélni Magyarországon, a kenyérkereső férj – háztűzőrző feleség múltba visszavetített mítosza nem alternatíva a magyarok túlnyomó többsége számára. És szeretjük vagy sem, de a családok 20%-a egyszülős (azok 86%-ában a nő a családfenntartó), ahol fel sem merülhet a kérdés hogy „munka vagy család”. Ez egy hamis szembeállítás.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Női princípium kontra női autonómia
+    </hi>
+   </p>
+   <p>
+    A női szerepekről szóló vitákban a két ellenpólus egy fajta „női princípium” kontra „női autonómia” ellentétként szokott felmerülni. Hamis szembeállítás ez is, mert szemléletbeli, világnézeti kérdésként tárgyal kőkemény materiális kérdéseket, elfedve ezzel az emberek valóságát.
+   </p>
+   <p>
+    Akik amellett érvelnek, hogy a nők legszentebb feladata az anyaság, valamint a családot tekintik a társadalom alapegységének, azok helyesen ismerik fel: nem a GDP-ért élünk, nem a munkaerő-piaci teljesítményünk adja értékünket. Jogosan illetik kritikával, hogy az egyéni sikerre és teljesítményre fókuszáló szemléletmód szem elől téveszti gondoskodásvágyunkat és egymásrautaltságunkat.
+   </p>
+   <p>
+    Téved viszont abban, hogy ezt a szemléletmódot egyéni önzésnek, jellemhibának fogja fel. Érzékeli a rendszerhibát, de a fokozódó talajvesztéssel szemben a biztonság érzetét nyújtó hagyományos értékrendet és az ún. hagyományos családot kínálja. Kiegészítve mondjuk az aktív apaság egyre erősödő törekvésével. Ľubica Kobová helyesen
+    mutat rá
+    , hogy ennek az érvelésnek az a hibája, hogy a családot (azon belül is csak a hagyományos családot) tünteti fel az egyedüli és kizárólagos jónak (és minden esetben jónak).
+   </p>
+   <p>
+    Miközben az önzés kritikáját a hagyományos és egyenlőtlen nemi szerepek szorgalmazásával egészíti ki, tehát például eszményíti az „önfeláldozó nőt”. Megfeledkezik arról is, amit történeti kutatásokból tudunk, hogy a hagyományosnak tekintett nukleáris család (családfenntartó apa-gondoskodó anya-gyerekek) egy modern képződmény. Az ipari forradalommal összefüggésben jelent meg, korábban pedig nem vált el élesen a köz- és a magántér, és nem volt az előbbi a férfi, az utóbbi a nő terrénuma, ahogy a nők sem voltak egyedül hagyva a gondoskodással: nagyobb közösségek együtt nevelték a gyerekeket és gondozták az időseket.
+   </p>
+   <p rend="head">
+    Amit viszont az emancipációt képviselő oldal ismer fel helyesen, az az, hogy a szülővé válás társadalmi költségeit Magyarországon még mindig aránytalan mértékben a nők viselik. Hogy a háztartás és család körüli feladatok ellátása nem fáklyásmenet, nem meghatottságtól könnyes szemmel végzik ezt a nők 7/24-ben.
+   </p>
+   <p>
+    Hogy az ezzel kapcsolatos tabuk feloldására
+    lenne igény
+    , azt bizonyítja a számtalan személyes és online csoport, ahol anyák őszintén osztják meg nem oly szent tapasztalataikat és érzéseiket. Abban is maximálisan igaza van ennek az oldalnak, hogy a férfiak fokozottabb otthoni szerepvállalása nélkül sem a nők munkaerő-piaci helyzete, sem politikai képviselete nem fog javulni. Viszont látni kell, hogy ez nem csupán szemléletbeli és kulturális kérdés.
+   </p>
+   <p rend="head">
+    Akik ugyanis arra helyezik a hangsúlyt, hogy se az állam, se a férfiak ne szóljanak bele a nők döntéseibe, és például a GYES-t csupán kényszernek és társadalmi nyomásnak láttatják, azok nem veszik tekintetbe, hogy a munka a legtöbb nőnek nem önmegvalósítás (mint ahogy a legtöbb férfinak sem).
+   </p>
+   <p>
+    És hogy sok nőnek a három év gyes megváltás a kiszolgáltatott munkaerő-piaci létezéshez képest, egy fajta pihenő. Valamint nem elég amellett kampányolni, hogy a férfiak menjenek el GYES-re/ GYED-re, ha a nemek közti (és a tipikusan férfiak és nők által végzett szakmák közti) bérkülönbség miatt a családok nem engedhetik meg maguknak ezeket a választásokat. Hiába mondjuk, hogy a férfiak végezzenek több házimunkát, hogyha „megbízható munkavállalónak” a folyamatosan rendelkezésre álló, gondoskodási feladattal nem bíró férfi számít.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Értékharc helyett jobb volna a materiális valóságból kiindulni
+    </hi>
+   </p>
+   <p>
+    Egyébként a konzervatív és az emancipációs céllal fellépő nőszervezetek egyként kiállnak az apaság fontosságának elismerése, a férfiak otthoni szerepvállalásának erősítése mögött. Már csak ilyenek miatt sem érdemes annyira erősnek megrajzolni ezt a frontvonalat. De még inkább azért, mert az emberek hétköznapi valóságát nem ezek a világnézeti törésvonalak alakítják. És hogy az egyik vagy másik szemléletet meg tudják-e valósítani (ha akarják), az nagyon nem csak rajtuk múlik.
+   </p>
+   <p>
+    Ezért nem hasznos ezt értékvitaként, kultúrharcként felfogni, ahol a hagyományos, biztonságot nyújtó, családcentrikus oldal néz farkasszemet az önző, individualista szinglihordával (szingli férfi ugye nincs is). Vagy, a másik oldalról nézve, az emancipált, jövőbe tekintő, progresszív tábor a múltba ragadt nőgyűlölőkével, akik a történelem rossz oldalán állnak.
+   </p>
+   <p>
+    Nem állítom, hogy ne lenne mindenkinek szíve-joga az általa helyesnek elképzelt értékrendért kampányolni. De azt állítom, hogy a problémák gyökerei nem feltétlenül, sőt, elsősorban nem az egyéni szemléletekben, hanem a materiális valóságban gyökereznek, és ezért szemléletformálással nem orvosolhatóak, retorikai szinten nem kezelhetőek.
+   </p>
+   <p rend="head">
+    Ha kizárólag szemléletbeli kérdésként beszélünk róla, akkor továbbra is számolhatunk azzal, hogy nem fognak az ügy mellé állni emberek tömegei. De az is baj ezzel a két megközelítéssel, és így a hamis szembeállítással, hogy figyelmen kívül hagyja ezeknek, a csupán a felszínen kulturális és értékrendbeli kérdéseknek a társadalmi-gazdasági beágyazottságát:
+   </p>
+   <p>
+    Milyen gazdasági rendszer az, ahol folyamatos a létbizonytalanság, ahol az emberek 70%-ának nincs félretett pénze, ahol az ún. napi nyolcórás teljes állással nem összeegyeztethető a gyereknevelés. A gazdasági rendszer materiális alapja, a fizetett munka ’produktivitásának’ a feltétele, hogy valamilyen indokkal le legyenek nyomva mások a nem fizetett szektorba – nálunk jellemzően a nők. Miközben az ő fizetetlen munkájukat
+    kiapadhatatlan erőforrásnak
+    tekintik – pedig
+    nem az
+    ).
+   </p>
+   <p>
+    Mindezt nem tudják egyének egy helyes attitűddel megváltoztatni.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Nem az egyéneket kellene felelőssé tenni a jóléti állam megteremtéséért
+    </hi>
+   </p>
+   <p>
+    Egy egész rendszer hiteti el azt, hogy ha több gyerek születik, akkor fenntartható lesz a nyugdíjrendszer –addig sajnos megszorítások következnek, és nincs pénz jobb oktatásra se. Amikor rendszerről beszélek, most nem a legfőbb nemzeti sportunkra, a
+    focira
+    korrupcióra gondolok. A jóléti állam kérdése sokkal összetettebb probléma annál, mint hogy ha elég gyerek születne, akkor lenne pénz a nyugdíjakra. Ezért
+    nem igazságos
+    az a nyomás, hogy az egyéneknek kell megoldania az ország (demográfiai) krízisét.
+   </p>
+   <p>
+    A globális gazdasági rendszer természetébe
+    van
+    kódolva
+    , hogy a transznacionális gazdasági szereplőknek hatalmuk van a politika felett. A nemzetállamoknak a gazdasági beágyazódás határozza meg a mozgásterét. Mindez ránk nézve többek között például annyit jelent, hogy Kelet-Közép-Európa és Magyarország a globális értékláncok mai dinamikáiba úgy áll bele, hogy az olcsó munkaerőre építő összeszerelő egységekért versenyez. Ennek kihatása van például arra, mennyiben nyílik az államoknak lehetőségük saját foglalkoztatáspolitika vagy szociálpolitika kialakítására.
+   </p>
+   <p>
+    A beruházásokért folyik a lefelé tartó verseny – például adópolitikában és a munkajog tekintetében. Leegyszerűsítve: ott születnek beruházások, ahol a cégeknek megéri; ahol kevés az adó, és nem kellemetlenkedik a szakszervezet. Ahol rugalmas a munkaerő-piac, értsd, határozott idejűek a munkaszerződések, könnyen elbocsáthatóak a munkavállalók. A lengyeleknek például már több mint negyede olyan polgárjogi szerződéssel kénytelen dolgozni (persze lehet azt mondani, hogy „önkéntesen, minek ment bele”), amely nem nyújtja azt a védettséget (pl. betegség vagy terhesség idején), mint egy Munka Törvénykönyve alá tartozó szerződés.
+   </p>
+   <p>
+    Ez csak egy elem a sokból, ami strukturálja a gazdaságot, a munkaerő-piacot, és csökkenti a jóléti ellátások kialakításának lehetőségeit. Méltatlankodunk, ha az emberek féltik a biztonságukat („fel kellett volna nőni a versenyhez”), vagy jellemhibának tekintjük ezt („de hát aki gyereket akar, az nehogy materiális okból ne vállaljon, nehézségek mindig vannak, sosincs elég jólét”). Van egy gazdasági rendszer, amely teljes egészében
+    az egyénekre terheli
+    kudarcaik felelősségét – azt is, ha nem találnak munkát, amikor egész régiókban nincs beruházás.
+   </p>
+   <p>
+    Vagyis egyrészről megfigyelhető az, hogy rendszerszintű kérdésekért az egyének vannak felelősségre vonva: „akkor fogjuk tudni megvalósítani a jóléti államot, ha eleget szültök. Ez az előfeltétele, és addig sajnos nem megy”. Másrészt ennek a rendszernek része az a vakság is, amely azt mondatja: ha a megfelelő szakpolitikai csomagot prezentáljuk, akkor elhárulnak az egyéneken (de még államokon is) túlnyúló problémák. Sakkozunk a családpolitikával, miközben ég a világ. Ez persze nem menti fel az egyes államokat az alól, hogy a létező lehetőségekhez képest a legtöbbet megtegyék – és ne a polgáraikra terheljék azt, ami nem az ő léptékükben dől el.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     A népességfogyásról szóló vita a lényeget takarja el
+    </hi>
+   </p>
+   <p>
+    Ahogy ma is 32% a 15-64 év közöttiek inaktivitási rátája (és már a 68% aktívban is benne vannak a közmunkások és a munkanélküliek), más szóval a munkaképes korúak ekkora aránya is eltartott ma is, ugyanúgy semmi garancia arra, hogy a most megszülető gyerekek az országban maradnak, és arra sem, hogy itt maradva járulékfizető hasznos kis állampolgárok lesznek. És nem azért, mert nem akarnak dolgozni, hanem mert egy egyre romló oktatási rendszerben végzett tizeniksz év után egy nagyon bizonytalan munkaerőpiacon kell majd helyt állniuk.
+   </p>
+   <p>
+    Az pedig minden demográfiai előrejelzésből látszik, hogy a trendet nem lehet megfordítani. Ha a termékenységi arányszámot sikerül is kicsit feljebb tornászni (és egyes családpolitikai eszközök kétségkívül tudnak ösztönzőleg hatni), egyre kevesebb embernek a hangyányit jobb mutatója nem tudja a folyamatot megfordítani. Ezért ahelyett, hogy a családokra terhelnénk a jóléti ellátások fenntartásának vagy megteremtésének felelősségét, azt lenne érdemes megnézni, hogy a jóléti állam létfeltételei a nemzetközi környezetben hogyan javíthatóak.
+   </p>
+   <p>
+    Nem azt állítom, hogy az államnak ne lenne felelőssége és lehetősége a szülővé válással járó társadalmi kockázatokból lefaragni. Mára a kormányzat is belátta, hogy nem „attól szülünk”, ha sokszor elmondják nekünk, hogy a gyerekek csodálatosak, és tekintsük őket értéknek (ezt tudjuk magunktól is). Ahogy azt is, hogy egy ilyen döntés számos társadalmi tényezővel összefügg. Nagyon helyes például a bölcsődeépítésre áldozni, és ez akkor is így van, ha ettől neadjisten nem születik több gyerek. Ez egy olyan intézkedés ráadásul, amely a családi adókedvezménnyel, a GYED extrával vagy a CSOK-kal szemben nemcsak a jobb módúakat segíti.
+   </p>
+   <p>
+    (Egyébként érdemes lenne a gyerekvállalás sürgetése mellett/ helyett figyelmet fordítani a „demográfiai válság” másik végére is: arra a tényre, hogy tovább élünk, és tovább szorulunk gondoskodásra. Az idősgondozásnak úgy az intézményrendszere, mind az azt privátban végzőknek a társadalmi megbecsültsége és megsegítése katasztrofális állapotban van. És ha nem teszünk semmit, ez egyre rosszabb lesz.)
+   </p>
+   <p rend="head">
+    Nem állítom azt sem, hogy ne lenne teendő a szemléletformálásban. Apának lenni jó; pelenkázz, tovább élsz; ezek mind-mind fontos üzenetek ott, ahol a nőknek kilóg a bele, és még mindig úgy beszélünk férfiaknak az otthoni munkákhoz való hozzájárulásáról, hogy „besegít”.
+   </p>
+   <p>
+    De akár az egyénektől, akár egy bármilyen családpolitikai csomagtól (és egy babyboomtól) várni a megoldást strukturális kérdésekre, az se nem igazságos, se nem reális. Ha a jó minőségű és mindenki számára elérhető egészségügy, oktatás és gondoskodási infrastruktúra hosszú távon fontos nekünk, akkor érdemesebb a nagyobb kérdéseket is feltennünk. És értékviták helyett az emberek materiális valóságából fakadó problémáira keresni megoldásokat.
+   </p>
+   <p>
+    A bölcsődeépítés, a kisgyerekellátás különféle választható formáinak valódi lehetővé tétele például ilyen út lehet.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kováts Eszter
+    </hi>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 340 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

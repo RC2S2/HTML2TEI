@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Biden és Sanders között dőlhet el a demokrata elnökjelöltség sorsa
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     67f57bd5-07f0-500f-a4d8-8c7c8bc2e9b9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Biden és Sanders között dőlhet el a demokrata elnökjelöltség sorsa
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-12-26T12:47:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/12/26/biden-es-sanders-kozott-dolhet-el-a-demokrata-elnokjeloltseg-sorsa/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/12/26/biden-es-sanders-kozott-dolhet-el-a-demokrata-elnokjeloltseg-sorsa/
+     </sch:url>
+     <sch:name>
+      Biden és Sanders között dőlhet el a demokrata elnökjelöltség sorsa
+     </sch:name>
+     <sch:datePublished>
+      2019-12-26T12:47:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      Joe Biden
+     </sch:keywords>
+     <sch:keywords>
+      bernie sanders
+     </sch:keywords>
+     <sch:keywords>
+      demokrata előválasztás
+     </sch:keywords>
+     <sch:keywords>
+      Elizabeth Warren
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="67f57bd5-07f0-500f-a4d8-8c7c8bc2e9b9">
+     <sch:identifier>
+      urn:uuid:da49127e-2a5d-47a6-9958-0fca89d8df23
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:06.787160
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:55:36.701708
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="67f57bd5-07f0-500f-a4d8-8c7c8bc2e9b9" when="2021-12-14T15:35:06.787160">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Biden és Sanders között dőlhet el a demokrata elnökjelöltség sorsa
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egy hónap és egy hét van már csak hátra a Demokrata Párton belüli előválasztás rajtjáig az Egyesült Államokban. A február 3-i Iowa állambeli jelölőgyűlésekkel
+    <hi>
+     (caucus)
+    </hi>
+    kezdetét vevő folyamat célja, hogy a demokrata szavazók kiválasszák, kit is indítanak Donald Trumppal szemben a 2020 novemberére időzített elnökválasztásokon.
+   </p>
+   <p>
+    Bár a demokrata mezőnyben még mindig 15 aspiráns pályázik erre a pozícióra, valójában négy olyan jelölt van csak, aki bármennyire is komolyan vehető esélyekkel indul. A párt progresszív szárnyán a négy éve már meglepetésszerűen sikeres kampányt folytató Bernie Sanders mellett Elizabeth Warren szenátor indul, a centrista vonalon pedig Joe Biden egykori alelnök, illetve Pete Buttigieg, Indiana állam South Bend városának polgármestere rendelkezik számottevő támogatással.
+   </p>
+   <p rend="head">
+    A washingtoni elit körében jól mozgó
+    Politico most arról ír
+    , hogy a pártelit Biden és Sanders jelöltségét tartja a legesélyesebbnek.
+   </p>
+   <p>
+    Az évtizedes politikai tapasztalaton, és a Fehér Házban Barack Obama mellett elöltött nyolc éven túl Biden legerősebb ütőkártyája az országos felmérésekben tapasztalható töretlen előnye. Bár az elmúlt egy évben a támogatottsága néhány mélypontot is elkönyvelhetett, a RealClearPolitics
+    felmérés-aggregátora
+    szerint a volt alelnökre országosan a demokrata választók 27,8 százaléka szavazna.
+   </p>
+   <p>
+    Sanders újbóli indulását a pártelit hosszú ideig nem vette komolyan, és a progresszív szárnyból inkább Warrent tartotta esélyesnek, ám a Politico szerint most már a demokrata
+    <hi>
+     establishment
+    </hi>
+    is elkezdte komolyan venni Bernie-t.
+   </p>
+   <p>
+    A lapnak nyilatkozó David Brock, Hillary Clinto közeli munkatársa rámutatott, Bernie bizonyította szívósságát, és miközben Warren jelentős ingadozást mutatott, Sanders stabilan tudta tartani és növelni támogatottságát, jelenleg a demokrata választók 19,3 százalékának támogatását tudva maga mögött.
+   </p>
+   <p>
+    Belsős források úgy vélik, a kampány eddigi dinamikái megmutatták, hogy több, nagy reménnyel induló fiatalabb jelölt – pl. Kamala Harris, Cory Booker és Beto O’Rourke – lufija is könnyen kipukkadt, nem kizárt, hogy Warren és Buttigieg is erre a sorsra jut, ahogy kezdetét veszik a tényleges előválasztások.
+   </p>
+   <p>
+    Dan Pfeiffer, Obama egykori tanácsadója szerint Bernie igen jól áll a legelső előválasztásokat tartó államokban. A február 3-án voksoló Iowában Bidennel és Buttigieg-dzsel van hibahatáron belül (utóbbi mögött, előbbit túlszárnyalva), a február 11-én szavazó New Hampshire-ben vezet, és a harmadikként szavazó Nevadában is Biden mellett neki vannak a legjobb esélyei.
+   </p>
+   <p>
+    Egy
+    friss CNN-felmérés szerint
+    pedig az összes jelölt közül országosan az ő nettó kedveltségi indexe (az őt kedvelők aránya mínusz az elutasítók aránya) a legmagasabb.
+   </p>
+   <p>
+    A demokrata pártelit Sanders támogatóink erős lojalitását hangsúlyozva azonban arra figyelmeztet, hogy a jelölt mindeddig kevesebb figyelmet, és emiatt kevesebb támadást is kapott, mint az élmezőny többi szereplője. Ám Biden mellett ő az egyetlen, akin eddig nem nagyon fogtak a problémák, még a kampányban elszenvedett szívrohama sem ártott támogatottságának.
+   </p>
+   <p>
+    Ebben pedig talán az is szerepet játszik, hogy veterán politikusként mindketten álltak már országos figyelem kereszttüzében, és mindketten túléltek már rengeteg támadást is, miközben a többi jelölt viselt dolgairól nem ritkán most hallanak először szűkebb pátriájukon kívül.
+   </p>
+   <p>
+    Februárban négy államban tartanak előválasztást, a fent említett három mellett még Dél-Karolinában a hónap utolsó napján, 29-én. Ezekben a korai versenyekben való jó teljesítmény óriási jelentőségű, hiszen meghatározza a további kampány dinamikáját. A választók egy jelentős része ugyanis ezen eredmények alapján dönti el, melyik esélyesebb jelölt szekerére „ugrik fel”.
+   </p>
+   <p>
+    A februári hónap fontosságát növeli, hogy március 3-án kerül sor az ún. „szuperkeddre”, amikor 14 másik állam és a külföldön élő demokraták is egyszerre voksolnak, ilyenkor már tényleg 2-3 jelöltre szokott szűkülni a mezőny.
+   </p>
+   <p>
+    A teljes előválasztási folyamat július közepén zárul, a jelöltet az államokban megválasztott, többségükben rögzített mandátumú küldöttek fogják megválasztani 13-a és 16-a között.
+   </p>
+  </body>
+ </text>
+</TEI>

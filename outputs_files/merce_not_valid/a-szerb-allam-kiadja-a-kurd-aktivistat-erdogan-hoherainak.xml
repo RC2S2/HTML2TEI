@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     TGM: A szerb állam kiadja a kurd aktivistát Erdoğan hóhérainak
+    </title>
+    <author>
+     <persName>
+      Tamás Gáspár Miklós
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6ce2e2f5-5739-5a2b-9e81-569eb8b66d87
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      TGM: A szerb állam kiadja a kurd aktivistát Erdoğan hóhérainak
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tamás Gáspár Miklós
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-12-28T19:19:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/12/28/a-szerb-allam-kiadja-a-kurd-aktivistat-erdogan-hoherainak/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/12/28/a-szerb-allam-kiadja-a-kurd-aktivistat-erdogan-hoherainak/
+     </sch:url>
+     <sch:name>
+      TGM: A szerb állam kiadja a kurd aktivistát Erdoğan hóhérainak
+     </sch:name>
+     <sch:datePublished>
+      2017-12-28T19:19:00
+     </sch:datePublished>
+     <sch:author>
+      Tamás Gáspár Miklós
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Recep Tayyip Erdoğan
+     </sch:keywords>
+     <sch:keywords>
+      szerbia
+     </sch:keywords>
+     <sch:keywords>
+      kurd
+     </sch:keywords>
+     <sch:keywords>
+      Free Kurdisztán
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6ce2e2f5-5739-5a2b-9e81-569eb8b66d87">
+     <sch:identifier>
+      urn:uuid:5b0b726e-fc2e-40c4-98b5-27149c5e24c8
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.918227
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:38:12.658579
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6ce2e2f5-5739-5a2b-9e81-569eb8b66d87" when="2021-12-14T15:30:52.918227">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    TGM: A szerb állam kiadja a kurd aktivistát Erdoğan hóhérainak
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Az Aleksandar Vučić elnök, Ana Brnabić miniszterelnök és Ivica Dačić (szocialista) külügyminiszter vezette szerbiai kormányzat úgy döntött, hogy Cevdet Ayaz kurd aktivistát, akit a törökországi diktatúra bírósága 15 év fegyházra ítélt, kiadja Törökországnak, annak ellenére, hogy az ENSZ egyik szakosított szervezete arra kérte a szerb kormányt, hogy ne tegye. A szerbiai igazságügyi minisztérium azt állította, hogy túl későn kapta meg az ENSZ kínzás elleni bizottságának a kérelmét, ami sajnos nem igaz, lásd
+    itt
+    . Az Emberi Jogok Belgrádi Központja (BCHR) leszögezi, hogy Cevdet Ayazt már korábban is megkínozták Törökországban a hatóságok, ráadásul menedékkérelmének vizsgálata még nem zárult le, márpedig az illetékes szerv döntése előtt őt nem lenne szabad kiutasítani Szerbiából a törvény szerint. A központ az európai emberi jogi konvenció 3. cikkelyére, a nemzetközi menekültügyi konvenció 33. cikkelyére és a Szerb Köztársaság menekültügyi törvényének 6. cikkelyére hivatkozik – ezeket Cevdet Ayaz kitoloncolása mind súlyosan sérti.
+   </p>
+   <p>
+    A Szerb Köztársaság vezetői ma arra törekszenek, hogy a világ közvéleménye Szerbiát demokratikus európai államnak tartsa. Igaz ugyan, hogy az egész világon megsértik a menekültekre vonatkozó genfi egyezményt (letölthető
+    innen
+    , Magyaroszágon
+    kihirdetve
+    , a
+    szerbiai jogi helyzetről
+    ), de ez a nemzetközi és közjogi helyzeten és Szerbia megítélésén jottányit se változtat. Az, hogy más – többek között nyugati – államok (és maga az Európai Unió) mostanában folyamatosan figyelmen kívül hagyják a menekültek jogait, nem jelent érvényes jogi precedenst arra, hogy politikai menekülteket kiszolgáltassanak a diktatúrák hóhérlegényeinek; hiszen ezek visszaélések, jogsértések.
+   </p>
+   <p>
+    Az, hogy az úgynevezett „európai demokráciák” sem demokratikusak, nem teszi „demokratikussá” vagy elfogadhatóvá Aleksandar Vučić (vagy Orbán Viktor) államát.
+   </p>
+   <p>
+    Nyilvánvaló, hogy Cevdet Ayaznak esze ágában se lett volna Magyarországon keresni menedéket: hiszen a magyar állam (nem az egész magyar nép!) a menekültellenességéről, az idegengyűlöletéről, az iszlamofóbiájáról híres. De az, ami most megtörtént Cevdet Ayazzal Szerbiában, megmutatja, hogy nincsenek garanciák, megmutatja, hogy „az emberi jogok” mítosza Európában csakugyan nem több, mint mítosz. Szerbia vagy Románia valamicskével szabadabb ország, mint Magyarország vagy Lengyelország – de ezek a különbségek sajnos jelentéktelenek.
+   </p>
+   <p>
+    A „demokratikus Európa” időnként szigorúan elítéli Erdoğan elnök diktatúráját, de ez nagyon gyakran a török vendégmunkások, bevándorlók (illetve a rég megtelepedett török kisebbségek) elleni rasszista propaganda céljait szolgálja. Megtiltják például, hogy török politikusok a külföldön élő török állampolgárok között választási kampányt folytassanak – beleértve a török és kurd demokratákat – , és brutálisan lecsapnak a Nyugaton működő török és kurd baloldalra, amelynek a képviselői százával ülnek németországi és más nyugat-európai börtönökben. Evvel a törökországi diktatúrát szolgálják ki, egyben saját török (vagy török származású) kisebbségeiket szorítják sarokba, ami visszataszító.
+   </p>
+   <p>
+    Annak ellenére, hogy Erdoğan elnök rendszere koholt vádak alapján tízezreket tart tömlöcben és fölszámolja a szabadságjogokat, a nyugati nagyhatalmak továbbra is többé-kevésbé baráti kapcsolatban állnak vele. Ahogyan Orbán Viktor magyar miniszterelnöknek – az emberi jogi csoportok nyílt ellenségének – az egyik minisztere mondta korábban, „Törökországban nem demokráciára, hanem stabilitásra van szükség”.
+   </p>
+   <p>
+    Realisztikusan nézzük a világpolitikát, és tudjuk, hogy a kormányoknak tekintettel kell lenniük országuk gazdasági és stratégiai érdekeire. Törökország pedig nagy nyomást gyakorol az európai, elsősorban a balkáni országokra. De Törökország nem az egyetlen. Oroszország és Kína terjeszkedése a régióban nyilván óvatosságra készteti az ottani emberi jogi gyakorlattal szemben a kelet-európai államokat. Az Egyesült Államok, az Európai Unió és a nyugat-európai hatalmak is használnak gazdasági nyomást politikai céljaik elérésére. (Donald Trump elnök nyíltan gazdasági retorziókkal fenyegette meg azokat az ENSZ-tagállamokat, amelyek Amerika ellen szavaztak a „jeruzsálemi ügyben”: jellemző, hogy több kelet-európai ország tartózkodott a szavazástól az ENSZ Közgyűlésben.)
+   </p>
+   <p>
+    De a nyugati gyakorlat se lényegesen jobb. Köztudomású, hogy a nyugat-európai országok olyan menekülteket kényszerítenek „hazatérésre”, akik származási országukban üldözött vallásfelekezetekhez, nemzeti kisebbségekhez vagy politikai irányzatokhoz tartoznak, súlyosan sértve evvel a menedékjog régi elveit és érvényes szabályait. Vietnami diplomaták (!) fényes nappal raboltak el Berlinben egy Vietnamból megszökött személyt, fölrakták egy vietnami magángépre, amely meg sem állt Hanoiig. Az illető börtönben van, pör folyik ellene. A német állam sajtóközleményeken kívül nem tesz semmit. Deniz Yücel, a
+    <hi>
+     Die Welt
+    </hi>
+    (korábban a
+    <hi>
+     Die Tageszeitung
+    </hi>
+    , vagyis a
+    <hi>
+     taz
+    </hi>
+    ) munkatársa homályos politikai vádak alapján börtönben ül Törökországban – a németországi kormány meglehetősen erőtlen tiltakozásai ellenére – , akárcsak még kb. 1500 külföldön kevésébé ismert törökországi újságíró.
+   </p>
+   <p>
+    Az azerbajdzsáni (!) diktátor komoly megvesztegetési pénzt (dollármilliókat) költ arra, hogy európai politikai céljait elérje, ebből hétmillió dollár magyarországi érdekű számlákra érkezett állítólag. Ez a gazdasági befolyásolás legközvetlenebb módja, és nem ritka.
+   </p>
+   <p>
+    Látva ezeket a jelenségeket (és sok más hasonlót) joggal lehetünk pesszimisták. De ez nem kedélyállapot kérdése. Az államoknak vannak kötelességeik, amelyeket minden körülmények között be kell tartaniuk. Politikai száműzötteket, menekülteket nem szabad kiadni – vizsgálatot lehet folytatni ellenük, de őket a jogállami garanciák minimumával se rendelkező országnak kiszolgáltatni: tilos.
+   </p>
+   <p>
+    Azért írom ezt a cikket, mert a szerbiai kormány lépése ellen szerbiai barátaink is tiltakoznak, és erről a tiltakozásról mindenkinek hallania kell; továbbá a politikai szabadságjogok védelme nem ismer – nem ismerhet, ne ismerjen – határokat. Másodszor: mert kis és nagy, egyéni és tömegeket érintő ügyekben egyaránt lényeges a kelet-európai szolidaritás, amely ügyet sem vet a térség antidemokratikus erőinek etnikai uszítására és békebontó magatartására. Harmadszor: mindent el kell követni Erdoğan rendszerének meggyöngítésére, amely a törökországi népeket és kelet-európai szomszédait is fenyegeti. (Gondoljunk csak Erdoğan athéni látogatására, amelynek során nyílt és jogtalan területi követelésekkel merészelt föllépni.)
+   </p>
+   <p>
+    Sok tízezer baloldali elv- és eszmetársunk sínylődik törökországi börtönökben (nem szólva itt most más jogfosztott és kiszolgáltatott embercsoportokról világszerte). Az a legkevesebb, hogy megpróbálunk legalább szót emelni érdekükben: a nemzetközi közvéleménynek nem szabad belefáradnia a tiltakozásba, az áldozatok védelmébe, a politikai foglyok szabadságának szüntelen szorgalmazásába.
+   </p>
+   <p>
+    Bocsássák szabadon a törökországi politikai foglyokat, híreseket és ismeretleneket, baloldaliakat és vallásos konzervatívokat, bármilyen nemzetiségűeket.
+   </p>
+   <p>
+    Ez a cikk nem szellemes és nem eredeti. De az elnyomás sem az.
+   </p>
+   <p>
+    <hi rend="italic">
+     (A szöveg
+     szerbül
+     ma a belgrádi
+    </hi>
+    Mašina
+    <hi rend="italic">
+     baloldali portálon is megjelent.)
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

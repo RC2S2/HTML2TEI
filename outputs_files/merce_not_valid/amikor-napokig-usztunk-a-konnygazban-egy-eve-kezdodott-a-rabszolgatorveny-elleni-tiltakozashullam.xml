@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amikor napokig úsztunk a könnygázban: egy éve kezdődött a rabszolgatörvény elleni tiltakozáshullám
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     340ef437-be64-5435-bf76-06deb19332bf
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Amikor napokig úsztunk a könnygázban: egy éve kezdődött a rabszolgatörvény elleni tiltakozáshullám
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-12-12T19:55:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/12/12/amikor-napokig-usztunk-a-konnygazban-egy-eve-kezdodott-a-rabszolgatorveny-elleni-tiltakozashullam/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/12/12/amikor-napokig-usztunk-a-konnygazban-egy-eve-kezdodott-a-rabszolgatorveny-elleni-tiltakozashullam/
+     </sch:url>
+     <sch:name>
+      Amikor napokig úsztunk a könnygázban: egy éve kezdődött a rabszolgatörvény elleni tiltakozáshullám
+     </sch:name>
+     <sch:datePublished>
+      2019-12-12T19:55:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      sztrájk
+     </sch:keywords>
+     <sch:keywords>
+      szakszervezet
+     </sch:keywords>
+     <sch:keywords>
+      rabszolgatörvény
+     </sch:keywords>
+     <sch:keywords>
+      évforduló
+     </sch:keywords>
+     <sch:keywords>
+      túlóratörvény
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="340ef437-be64-5435-bf76-06deb19332bf">
+     <sch:identifier>
+      urn:uuid:2b71792e-f4ff-4791-a94c-b170d27b9067
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:40.686692
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:56:56.574432
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="340ef437-be64-5435-bf76-06deb19332bf" when="2021-12-14T15:30:40.686692">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Amikor napokig úsztunk a könnygázban: egy éve kezdődött a rabszolgatörvény elleni tiltakozáshullám
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Napra pontosan 1 évvel ezelőtt kezdődött egy eseménysor, amely sokakat töltött el bizakodással. A rabszolgatörvény elleni tiltakozáshullám ugyanis nem várt (és feltehetően nem is remélt) egységet hozott, a szakszervezeti mozgalom újra láthatóvá vált, és hosszú idő után az ellenzék is képes volt tematizálni az eseményeket. Ebben a cikkben felidézzük a legfontosabb eseményeket, a következő napokban pedig több cikkben is foglalkozunk annak utóéletével.
+    </hi>
+   </p>
+   <p>
+    2018. november 20-án, pár perccel este 9 előtt nyújtotta be Kósa Lajos és Szatmáry Kristóf
+    egyéni képviselői indítványként
+    az Országgyűlésnek
+    <hi rend="italic">
+     A munkaidő-szervezéssel és a munkaerő-kölcsönzés minimális kölcsönzési díjával összefüggő egyes törvények módosításáról
+    </hi>
+    című törvényjavaslatát.
+   </p>
+   <p>
+    A módosításnak két olyan pontja volt, ami azonnali tiltakozást váltott ki a szakszervezetekből:
+   </p>
+   <list>
+    <item>
+     a rendkívüli munkaidő emelésének lehetősége a munkavállalóval történő egyéni megállapodás esetén 250 óráról 400 órára,
+    </item>
+    <item>
+     és kollektív szerződés esetén 36 hónapos munkaidőkeret lehetősége.
+    </item>
+   </list>
+   <p>
+    És nem csak a szakszervezetek tiltakoztak erőteljesen, több ellenzéki párt is hangot adott felháborodásának. Kósa Lajos, mint a módosító javaslat egyik benyújtója, az érveket nagyjából azzal söpörte le, hogy a túlóraszám megnövelésének lehetősége a munkavállalóknak is jó, hiszen ha akarnak, többet kereshetnek, de amúgy meg nem lesz kötelező ennyivel túldolgoztatni őket – vagyis nincs itt semmi látnivaló.
+   </p>
+   <p>
+    Csakhogy sem az érdekvédelem, sem az ellenzéki pártok nem így látták. És bár a kormány szokás szerint a december végi törvénydömpingbe ágyazva igyekezett a lehető leghamarabb átnyomni a törvényt az Országgyűlésen, meglehetősen heves ellenállásba ütköztek.
+   </p>
+   <p rend="head">
+    A tényleges tiltakozás
+    december 7-én indult
+    , egy félpályás útlezárással Veszprémben, a Vasas szervezésében.
+   </p>
+   <p>
+    És már akkor jelezték, hogy további útlezárásokat készítenek elő.
+   </p>
+   <p>
+    Ezt követte december 8-án, szombaton a Magyar Szakszervezeti Szövetség által
+    összehívott demonstráció
+    , amelyen a szakszervezetek és civil szervezetek mellett felsorakoztak az ellenzéki pártok is. Végül több mint 10 ezer ember vonult a Kossuth tér sarkáig.
+   </p>
+   <p>
+    A lezárt Kossuth tér sarkáig, ugyanis a demonstrációt megelőző este
+    derült
+    , hogy a tiltakozás idején pont zárva lesz a
+    <hi rend="italic">
+     nemzet főtere
+    </hi>
+    , méghozzá a lengyel parlament alsóházi elnökének, Marek Kuchcińskinek a látogatása miatt.
+   </p>
+   <p>
+    A tüntetés lezárása után Komjáthi Imre, az MSZP alelnöke ugrott fel a színpadra, és felszólította a tüntetőket, hogy menjenek be a térre, foglalják azt vissza. Felhívásának többszázan tettek eleget. Az aznapi eseményekről ebben a videónkban emlékeztünk meg:
+   </p>
+   <p>
+    Vasárnap este a parlament honlapján közzétett napirendből
+    derült ki
+    , hogy éjszakára száműzték a törvény részletes vitáját. Hétfőn, azaz december 10-én az ellenzék 2925 napirendi módosító indítvánnyal
+    próbálta blokkolni a procedúrát
+    , Tóth Bertalan, az MSZP frakcióvezetője ezzel kapcsolatban úgy fogalmazott:
+   </p>
+   <p>
+    „Ezen a héten minden olyan eszközt megragadunk, amivel kísérletet tehetünk arra, hogy megakadályozzuk ezt.”
+   </p>
+   <p>
+    Az ötlet nem volt rossz, csakhogy az Országgyűlés igazságügyi bizottsága
+    úgy határozott
+    : egyszerre, egyetlen szavazással kell dönteni az ellenzék által a rabszolgatörvényhez benyújtott majdnem háromezer módosító indítványokról. Így egy gombnyomás esett csupán – cserébe az ellenzéki képviselők hosszú perceken keresztül
+    sípszóval bénították meg
+    az ülést. Kövér László házelnök sorra osztogatta a büntetéseket, az ellenzék kivonult az ülés további részéről.
+   </p>
+   <p>
+    Délelőtt a szakszervezetek félpályás útlezárást tartottak
+    Pécsen és Győrben
+    , másnap, december 11-én pedig
+    Szolnokon
+    .
+   </p>
+   <p>
+    Ezen a napon
+    pedig különösebb fennakadás nélkül le is ment a vita a rabszolgatörvényről, Kósa Lajos végigülte ugyan, de a laptopjából nem nagyon nézett fel, érdemben nem reagált semmire, párttársai pedig valószínűleg már a karácsonyi ajándékok után szaladgáltak, a Fidesz-frakcióban ugyanis csak elvétve ültek képviselők.
+   </p>
+   <p>
+    Képkivágás a 2018. december 11-i parlamenti közvetítésből.
+   </p>
+   <p>
+    Amennyire nem érdeklődtek a kormánypárti politikusok kedden, akkorára kerekedhetett a szemük másnap, december 12-én. Finoman fogalmazva is
+    sűrű nap volt
+    .
+   </p>
+   <p>
+    Kezdésnek
+    a Jobbik aktivistái „Rabszolgák éve 2018 – Köszönjük, Fidesz” feliratú molinóval torlaszolták el a Pénzügyminisztérium bejáratát és nem engedtek senki bemenni. Aztán az Országgyűlésben egységesen lépett fel az ellenzék a szavazás előtt: az MSZP, a Párbeszéd és a DK képviselői lezárták a parlamenti pulpitus feljáróit. A Jobbik frakció „Rabszolgák éve” feliratú molinót feszített ki, az LMP rabszolgatörvény ellenes cetlikkel szórta tele az üléstermet.
+   </p>
+   <p>
+    Mindennek következtében a kormánypárti képviselők a patkóból nyitották meg az ülést, majd kezdték darálni a szavazást, amivel az ellenzéki képviselők szerint több pontos is megsértették a házszabályt.
+   </p>
+   <p>
+    És mindeközben az ellenzéki képviselők végig sípoltak, majd egy szirénázó hangosbeszélőt és mobil hangosítást is bevittek a terembe, hogy még kaotikusabb legyen a helyzet.
+   </p>
+   <p rend="head">
+    Túl nagy meglepetést ezek után sem okozott, hogy végül a kormánypárti többség megszavazta a rabszolgatörvényt (és nem mellesleg az azóta már el is kaszált, a közigazgatási bíróság létrehozásáról szóló törvényt is). Az ellenzék ezután kivonult a parlamentből.
+   </p>
+   <p>
+    Ezzel párhuzamosan viszont a Kossuth téren egyre csak gyűltek és gyűltek a tüntetők, a Jobbik pedig felvonult a Sándor palotához. Este fél 6 környékén a Parlamenttől a tömeg a Margit-hídhoz vonult, amit le is zártak. A következő állomások a Fidesz-székház, majd a Lánchíd voltak, hogy a tüntetők végül ismét a Kossuth téren kössenek ki. Ezután kezdődött az a dulakodás, amelynek egy adott pontján – először, de bőven nem utoljára – a rendőrök könnygázzal próbálták oszlatni a tömeget. Ekkor került sor a tér szélén álló karácsonyfa körüli szánkók felgyújtására, ami után a rendőrség szisztematikusan kezdte kiszorítani a tömeget a térről, a szánkók mellett égett kuka, pad, és egyéb, mozdítható dolgok is, éjfél után lett vége a demonstrációnak, miután a rendőrség kisebb egységekre tördelve szétkergette a tüntetőket a városban. Még javában tartott a tuszakodás, amikor már meghirdették másnapra is a tüntetést.
+   </p>
+   <p>
+    A csütörtök koreográfiája
+    hasonlított az előző napéhoz: a Kossuth téri gyülekezés után előbb a Margit-hidat, majd a Lánchidat foglalták el a tüntetők, onnan visszatértek a Kossuth térre. A Parlament előtt a rendőrség legalább 7 alkalommal vetett be könnygázt az összegyűlt többezer tüntetővel szemben. Többek között a Momentum alelnökét és a Jobbik Ifjúsági Tagozatának egy tagját is kiemelte a rendőrség a tömegből.
+   </p>
+   <p>
+    És nem csak a Kossuth téren folyt a tiltakozás: az önkormányzatok közül elsőként Pécsen
+    az ellenzéki képviselők kivonultak
+    az ülésteremből, a törvény elfogadása elleni tiltakozásképp.
+   </p>
+   <p>
+    A kormány gyorsan randalírozó csőcseléknek minősítette a tüntetőket. Pintér Sándor belügyminiszter közleményben tudatta, hogy az arcukat eltakaró demonstrálók „összetévesztették a demokráciát a törvénytelenséggel, a szabad véleménynyilvánítás jogát az erőszakkal.” Kövér László házelnök pedig úgy értékelt: „anarchiába hajló, eszetlen rendbontás történt szerdán az Országgyűlésben és a Parlament előtti téren”. Már akkor kilátásba helyezte, hogy szigorítani kell a házszabályt a randalírozó ellenzék megregulázására. Ez egyébként épp ezen a héten vált teljessé.
+   </p>
+   <p>
+    December 14-én
+    a Kossuth téren annyi különbséggel zajlott a tüntetés, hogy már az ellenzéki pártok képviselői mondtak beszédeket, ezután viszont ismét volt nagy vonulás a városban, Pestet és Budát is megjárták a tüntetők, hogy végül a parlament előtt könnygázba burkolózzanak. Ezen a napon már tüntettek Pécsen is, a Momentum szervezte a fáklyás demonstrációt, a Vasas pedig emelte a tétet, és 4 órára zárta le az utat Nyíregyházán.
+   </p>
+   <p>
+    Szombaton pihenőnapot tartottak a demonstrálók. Ekkor
+    jelentette viszont be Botka László
+    , Szeged polgármestere, hogy bojkottálja a rabszolgatörvényt, és ugyanerre szólította fel az önkormányzatokat és a munkáltatókat is.
+   </p>
+   <p>
+    Vasárnap
+    viszont újult erővel vágtak neki a tüntetésnek, olyannyira, hogy aznap már Bristolban, Koppenhágában és Berlinben is volt szolidaritási megmozdulás. Idehaza pedig Budapest mellé Debrecen, Szeged, Miskolc, Békéscsaba, Győr, Sopron, Gyöngyös és Veszprém is felsorakozott. Budapest XV. kerülete is
+    bejelentette
+    , hogy csatlakozik a törvény bojkottjájoz.
+   </p>
+   <p>
+    Aztán koraeste a fővárosi Hősök teréről indult, és a Kossuth téren megtartott demonstráció után viszont nagy menetelés kezdődött, egészen az MTVA székházáig vonult néhány ezer ember, volt lökdösődés, némi könnygáz, az ellenzéki képviselők bementek az épületbe, hogy felolvassák petíciójukat.
+   </p>
+   <p rend="head">
+    Másnap reggel arra ébredtünk, hogy Szél Bernadettet és Hadházy Ákost
+    kidobják az épületből
+    .
+   </p>
+   <p>
+    És bár fontos elmondani, hogy a következő hetekben még sok helyen volt, főleg vidéken tiltakozás (csak karácsonyig
+    27 különböző helyszínen
+    ), útlezárások, és sokszor emelték még fel szavukat a szakszervezetek is a rabszolgatörvény érdekében, a Kunigunda útján tett kitérő alapvetően változtatta meg az események dinamikáját.
+   </p>
+   <p>
+    Mert bár a tüntetéseken még sokszor felmerült a szolidaritás, mint hívószó, a kormány kifejezetten ügyesen terelte a figyelmet a botrányos MTVA-székházbeli eseményekre. És ebben – igaz, teljesen más felhanggal – az ellenzéki képviselők is a segítségükre voltak.
+   </p>
+   <p>
+    Az ellenzék ugyanis innentől egységben mozogva hangoztatta, hogy a propagandagépezet ellen is fel kell lépni, ahonnan már csak egy lépés volt az általános, kormányellenes fellépés szükségességére való áttérés.
+   </p>
+   <p>
+    És bár egy ideig körbejártak néhány állami céget is, hogy felszólítsák őket a rabszolgatörvény bojkottjára, ám a figyelem mind hangsúlyosabban került át a politikusok mozgására, arra, hogy jobbikosok és DK-sok állnak közös színpadon, néha fehér sapkában (mármint a képviselőnők), és a korábbi, kifejezetten a munkavállalók jogaiért küzdő tiltakozáshullámból fokozatosan kormányellenes demonstrációk sorozata lett, egyre fogyó létszámmal, hogy aztán végleg el is haljon.
+   </p>
+   <p>
+    December 20-án Áder János aláírta a túlóratörvényt. Ami január elsején életbe is lépett.
+   </p>
+  </body>
+ </text>
+</TEI>

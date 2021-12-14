@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Börtönökben tárgyal a spanyol baloldal az új, szolidáris költségvetésről
+    </title>
+    <author>
+     <persName>
+      Papp Gáspár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b4963484-e93a-5ada-9e0b-6c9a86bded8f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Börtönökben tárgyal a spanyol baloldal az új, szolidáris költségvetésről
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Papp Gáspár
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-10-20T19:43:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/10/20/bortonokben-targyal-a-spanyol-baloldal-az-uj-szolidaris-koltsegvetesrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/10/20/bortonokben-targyal-a-spanyol-baloldal-az-uj-szolidaris-koltsegvetesrol/
+     </sch:url>
+     <sch:name>
+      Börtönökben tárgyal a spanyol baloldal az új, szolidáris költségvetésről
+     </sch:name>
+     <sch:datePublished>
+      2018-10-20T19:43:00
+     </sch:datePublished>
+     <sch:author>
+      Papp Gáspár
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      katalónia
+     </sch:keywords>
+     <sch:keywords>
+      Podemos
+     </sch:keywords>
+     <sch:keywords>
+      Pedro Sánchez
+     </sch:keywords>
+     <sch:keywords>
+      Pablo Iglesias
+     </sch:keywords>
+     <sch:keywords>
+      PSOE
+     </sch:keywords>
+     <sch:keywords>
+      spanyol
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b4963484-e93a-5ada-9e0b-6c9a86bded8f">
+     <sch:identifier>
+      urn:uuid:497bf2fd-241e-4696-b6fd-ad9d5c2d5e02
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:30.765275
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:09:09.164493
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b4963484-e93a-5ada-9e0b-6c9a86bded8f" when="2021-12-14T15:30:30.765275">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Börtönökben tárgyal a spanyol baloldal az új, szolidáris költségvetésről
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Megállapodott a jövő évi költségvetési tervről a Spanyolországot május óta kisebbségben kormányzó balközép párt (PSOE) a populista újbaloldali Podemosszal. A terv az uralkodó konzervatív társadalompolitikától jelentősen eltérő irányt jelöl ki, de nem lesz könnyű összehozni a kormányon maradást is biztosító többséget: a baloldalnak a katalán szeparatisták együttműködésére is szüksége lesz a törvényhozásban, ők pedig nem adnák ingyen a szavazatukat.
+   </p>
+   <p>
+    Pablo Iglesias írja alá a PSOE-val kötött megállapodást, a háttérben Pedro Sánchez. Forrás: Pablo Iglesias facebook-oldala
+   </p>
+   <p>
+    Pedro Sánchez szociáldemokrata miniszterelnök és Pablo Iglesias, a Podemos főtitkára
+   </p>
+   <p rend="head">
+    22%-os minimálbéremelésről, a nyugdíjak, a munkanélküli segélyek és a lakhatási támogatások jelentős növeléséről, és az apák újszülöttekkel való otthon maradását ösztönző támogatások emeléséről állapodott meg kedden. A 2019-es költségvetésben 1,3 milliárd euróval több pénzt szánnának oktatásra és kultúrára is.
+   </p>
+   <p>
+    A csomag ellenzői szerint a még mindig 15%-os munkanélküliség és a GDP 100%-a körül mozgó államadósság mellett nem szabadna radikálisan emelni a minimálbért. María Jesús Montero pénzügyminiszter szerint azonban a magasabb adók és a gazdasági növekedés miatt a költségvetés elbírja a jóléti intézkedéseket. Sánchez már miniszterelnöki beiktató beszédében a nagyvállalatok adóinak emelését és az adózási rendszer átalakítását ígérte annak érdekében, hogy a vállalatok adóelkerülését megakadályozzák.
+   </p>
+   <p>
+    A kormány pozíciói azonban a parlamentben nem túl erősek. A balközép PSOE júniusban, a katalán szeparatista népszavazás és a kormányzó párt teljes elitjét érintő pártfinanszírozási botrány kiteljesedése nyomán kialakuló válságot kihasználva buktatta meg bizalmatlansági indítvánnyal a Mariano Rajoy vezette jobboldali kormányt. A Néppárt 2011 óta volt hatalmon, de 2015 óta csak ügyvezető illetve kisebbségi kormányokat volt képes gründolni.
+   </p>
+   <p>
+    A katalán szeparatista törekvéseket nyers erővel kezelő, és számtalan korrupciós ügye miatt ellehetetlenülő Néppárt bukását követően,
+    a szociáldemokraták azonban egyfajta törpe kisebbséget alkotnak: a 350 fős törvényhozásban mindössze 84 mandátum az övék, és még egyszeri többségekhez is komoly manőverekre van szükségük. A költségvetés elfogadásának pedig az lenne a tétje, hogy a 7 év után újra kormányra jutó PSOE lehetőséget kapjon arra, hogy érdemben letegyen valamit az asztalra. A költségvetéshez szükséges többség hiányában anélkül kellene előrehozott választásokat kiírni, hogy az új kormány megmutathatná, milyen irányba kívánná kormányozni az országot.
+   </p>
+   <p>
+    Noha a Podemost éppen a részben baloldali kormányok idején pusztító gazdasági válság és annak félrekezelése, valamint a válságra adott népbarát válaszok hiánya hozta életre, a PSOE balszárnyához tartozó Sánchezzel kötött egyezség hosszabb távú szövetségnek is megágyazhat: 2019-ben helyi és regionális választásokra kerül sor, 2020-ban pedig parlamenti választások lesznek, már ha addig sikerül kihúznia a kormánynak. Pablo Iglesias Podemos-alapító az
+    <hi>
+     El País
+    </hi>
+    nak úgy fogalmazott,
+   </p>
+   <p>
+    „ez a megegyezés a spanyol gazdaságpolitikában új fejezetet nyithat, ami remélhetőleg  koalíciós kormányt fog eredményezni.”
+   </p>
+   <p>
+    A négy jelentős blokkra tagolódó politikai mezőben a kormány a Rajoy bukását követően csak
+    még inkább jobbra tolódó Néppárt
+    mellett a magát középre pozicionáló, de – ahogy a katalán válságban is megmutatkozott – valójában erőteljesen nacionalista, központosító hajlamú, neoliberális gazdaságpolitikáját autoriter szemlélettel társító Ciudadanos támogatására sem számíthat. Utóbbiak inkább abban reménykednek, hogy a következő választási kampányra a jobboldal vezető erejeként fordulhatnak rá.
+   </p>
+   <p>
+    A parlamenti matekből az következik, hogy Sánchez a Katalóniában kormányzó két nacionalista pártot is maga mellé kell állítsa, bár az is elég, ha a két frakció összesen 17 tagjának egy része tartózkodik a szavazásnál. Noha Rajoy elmozdításánál a köztársasági gyökerekkel bíró baloldali ERC és a polgári nacionalista PdeCAT is a szociáldemokraták mellé állt, a költségvetés megszavazására nehezebb lesz rávenni őket. Különösen igaz ez a társadalompolitikájában jobboldalinak mondható, korábban a Néppárt természetes katalán szövetségesének számító polgári erőre, amelynek egykori jelöltje, a ma is Belgiumban tartózkodó Carles Puigdemont nem támogatja a dealt.
+   </p>
+   <p rend="head">
+    A két katalán párt a megegyezést követően bejelentette: nem számíthatnak képviselőik szavazatára, amennyiben a kormány pozíciójában nem látnak elmozdulást a spanyolországi katalánok önrendelkezésének ügyében.
+   </p>
+   <p>
+    Pablo Iglesias pénteken „a párbeszédhez szükséges klíma és a feszültségek oldása érdekében” a zendüléssel vádolt katalán politikusoknál tett látogatást a börtönben, hogy a két pártot meggyőzze a költségvetés támogatásáról. Iglesias gesztusát a magukat politikai foglyoknak tekintő politikusok nagyra értékelték, de Oriol Junqueras ERC-elnök
+    azt is világossá tette
+    , a kormány részéről a bebörtönzöttek érdekében tett lépések nélkül szó sem lehet együttműködésről.
+   </p>
+   <p>
+    A Podemos-vezető ki is nyilvánította: noha pártja sosem értett egyet a függetlenség-pártiak stratégiájával, álláspontja szerint a katalán vezetőknek szabadon kellene részt venniük a politikai életben.
+    Azt a reményét is kifejezte
+    , hogy soha többé nem kényszerül rá, hogy politikai vezetőket börtönben kelljen meglátogatnia.
+   </p>
+   <p>
+    Iglesias lépése a kormány tetszését sem nyerte el, Sánchez szerint a költségvetésről való tárgyalás a kormány dolga, amivel Iglesias is egyetért: szerinte innentől kezdve a kormánynál pattog a labda, hogy megteremtse a többséget a Spanyolország számára kívánatos új irány mögé.
+   </p>
+   <p>
+    (
+    El País
+    , El National)
+   </p>
+  </body>
+ </text>
+</TEI>

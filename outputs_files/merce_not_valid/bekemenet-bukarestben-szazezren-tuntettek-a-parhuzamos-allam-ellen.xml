@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Békemenet Bukarestben: százezren tüntettek a „párhuzamos állam” ellen
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e1a66076-acf4-5384-9f10-4a47cbe4b1df
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Békemenet Bukarestben: százezren tüntettek a „párhuzamos állam” ellen
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-06-10T12:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/06/10/bekemenet-bukarestben-szazezren-tuntettek-a-parhuzamos-allam-ellen/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/06/10/bekemenet-bukarestben-szazezren-tuntettek-a-parhuzamos-allam-ellen/
+     </sch:url>
+     <sch:name>
+      Békemenet Bukarestben: százezren tüntettek a „párhuzamos állam” ellen
+     </sch:name>
+     <sch:datePublished>
+      2018-06-10T12:00:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      korrupció
+     </sch:keywords>
+     <sch:keywords>
+      románia
+     </sch:keywords>
+     <sch:keywords>
+      PSD
+     </sch:keywords>
+     <sch:keywords>
+      korrupcióellenes harc
+     </sch:keywords>
+     <sch:keywords>
+      Liviu Dragnea
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e1a66076-acf4-5384-9f10-4a47cbe4b1df">
+     <sch:identifier>
+      urn:uuid:eae07574-aa32-4222-a27e-dbb42e27891a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:33.249999
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:57:56.174354
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e1a66076-acf4-5384-9f10-4a47cbe4b1df" when="2021-12-14T15:30:33.249999">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Békemenet Bukarestben: százezren tüntettek a „párhuzamos állam” ellen
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A becslések szerint 100-130 ezer ember gyűlt össze szombat este a román kormány épülete előtt, a Győzelem téren a kormánypártok hívására. A külsőségeit tekintve a Fidesz által szervezett Békemenetre hasonlító kormánypárti megmozdulás a Szociáldemokrata Párt (PSD) által „párhuzamos államnak” nevezett struktúra ellen jött létre, mely leginkább a korrupcióellenes apparátus politikai szinonimájaként funkcionál a kormánypárti szóhasználatban.
+   </p>
+   <p>
+    A nagyszabású rendezvényen felszólalt a televíziós személyiségből Bukarest PSD-s főpolgármesterévé avanzsált Gabriela Firea, a kisebbik kormánypártot, a Liberálisok és Demokraták Szövetségét (ALDE) és a román Szenátust vezető Călin Popescu-Tăriceanu, illetve a kormányfő, Viorica Dăncilă is.
+   </p>
+   <p>
+    A rendezvény fénypontját kétségkívül a PSD korrupció miatt jogerősen elítélt vezetőjének, Liviu Dragneának a beszéde jelentette. A politikai kommunikációs szempontból okosan felépített beszéd két cél szolgált:
+   </p>
+   <list>
+    <item>
+     önmagát és pártját azonosítani a néppel; illetve
+    </item>
+    <item>
+     a korrupcióellenes apparátus által szorongatott szociáldemokraták megpróbáltatásait közösségivé tenni, mintha az nem is csupán egy pozícióját védő elitcsoport problémája, hanem a teljes román nép szabadságért folytatott harcának a része lenne.
+    </item>
+   </list>
+   <p>
+    A hófehérbe öltözött hatalmas tömeg előtt Dragnea elmondta, a „párhuzamos állam” egy olyan korrupt ügyészekből, bírókból, titkosszolgákból, politikusokból és újságírókból álló rendszer, amely illegitim módon használja az állam intézményeit, szembehelyezkedve a választások által kifejezett népakarattal.
+   </p>
+   <p rend="head">
+    A szociáldemokraták tótumfaktuma emlékeztetett: azért gyűltek össze, hogy megmutassák a párhuzamos államnak, hogy ki is képviseli a többségi, népi akaratot.
+   </p>
+   <p>
+    Arra felhívta a figyelmet, hogy ez az obskúrus struktúra nem csupán őket, kormánypárti politikusokat fenyegeti, de lehallgatott hatmillió állampolgárt, és olyan besúgói hálózatot próbál kiépíteni, amilyennel 1989 előtt a hírhedt Securitatea rendelkezett.
+   </p>
+   <p>
+    „Mindannyian célpontjaivá válhattok ennek a gyűlöletes rendszernek” – tette meg a nagy közösségteremtő gesztust Dragnea a színpadról.
+   </p>
+   <p>
+    Arról is beszélt, pártja a jólét szolgálatában áll és kormányzása sikeres, ezért próbálja meg ellehetetleníteni őket a párhuzamos állam. De közös erővel visszaállítják a demokráciát és véget vetnek a „visszaéléseknek”, a „szovjet típusú vizsgálatoknak”.
+   </p>
+   <p rend="head">
+    A megmozdulás egyértelműen jelzi, hogy a PSD megtalálta azt a politikai keretet, amelyben végre offenzívába lendülhet politikai ellenfelei ellen.
+   </p>
+   <p>
+    A korrupció és korrupcióellenesség legalább két évtizede a román politika legfontosabb retorikai törésvonala, a kommunista utódpárt pedig végig defenzívában játszott ebben a játékban, hiszen liberális ellenfelei őt azonosították a kommunizmusból átmentett korrupt, az ország fejlődését akadályozó struktúrával – még ha a korrupció a teljes politikai elitet is jellemzi, párthovatartozástól függetlenül.
+   </p>
+   <p>
+    Ez a defenzívában játszás eredményezte, hogy a szociáldemokraták töretlenül a legnagyobb politikai erőt képviselik a parlamentben, de kiélezett helyzetekben, például az elnökválasztások során rendre elvéreznek – utoljára 18 éve, 2000-ben nyerték meg a köztársasági elnöki választások második fordulóját.
+   </p>
+   <p>
+    Úgy tűnik, hogy az európai trendeket követve mostanra találták meg azt a
+    <hi>
+     nagy történetet
+    </hi>
+    , amellyel új, populista keretben mesélhetik el saját létezésüket, küzdelmüket a demokráciáért, szabadságért és népért folytatott harcként azonosítva.
+   </p>
+   <p>
+    Az új történet ötletesen vegyíti az igazságokat, féligazságokat és nyílt hazugságokat.
+   </p>
+   <p>
+    Az alapvető kiindulópontban, miszerint a 2000-es években, a jobboldali Traian Băsescu által felépített korrupcióellenes apparátus politikai játszmákat játszik, és gyakran beavatkozik olyan területekre is, amelyek nem az igazságszolgáltatás hatáskörébe tartoznak, van igazság.
+   </p>
+   <p>
+    Ám a szocdemek 2016 óta tartó instabil és gyenge minőségű kormányzása nem a korrupcióellenes apparátus hibája, kizárólag a párté, amely most saját alkalmatlanságát próbálja leplezni ezzel a harccal.
+   </p>
+   <p>
+    És egyúttal kiiktatni a tagadhatatlanul korrupt politikusaira veszélyt jelentő, függetlenedő igazságszolgáltatást.
+   </p>
+   <p>
+    A szombati tüntetés közvetlen előzménye, hogy a román alkotmánybíróság kimondta: a szocdem igazságügyi miniszternek igenis joga van lemondatni a Korrupcióellenes Ügyészség (DNA) vezetőjét, Laura Codruţa Kövesit, és ezt az államfő, a liberálisok által támogatott Klaus Iohannis sem akadályozhatja meg. Kövesit 2006-ban Traian Băsescu nevezte ki a Legfőbb Ügyészség élére, 2013-ban pedig a DNA vezetője lett.
+   </p>
+   <p>
+    Az üzenet mégis azért talál visszhangra a társadalom jelentős szegmenseiben, mert a korrupcióellenes harc címszava alatt Románia az elmúlt évtizedekben rettentő mértékben leépítette a szolgáltató állami funkciókat, az állam „bal kezét” – hiszen ezt is a korrupció melegágyaként, „balkáni, komcsi” örökségként állították be Băsescuék. Ezen szolgáltatófunkciók leépülésének pedig rengeteg ember érzi a hatását.
+   </p>
+   <p>
+    A PSD új mesternarratívája révén újraéleződik a román társadalom kettészakadása, amelyet Parászka Boróka erdélyi újságíró így foglalt össze Facebook-oldalán:
+   </p>
+   <p>
+    „Szocdem” nackó békemenet Bukarestben a libsik ellen, akik korrupciós harc címén kiradíroznának mindent, ami jóléti állam. Románia kétlábbal rúgja ki maga alól a széket.
+   </p>
+   <p>
+    Két lábbal, hiszen bár mindkét oldal törekvéseiben vannak fontos szempontok – a liberálisokéban a tiszta közélet, a demokratikus társadalom, a szocdemekében pedig a jólétibb társadalom és a népakarat erősebb érvényesülése –, valójában mindkét oldal a saját tévedéseihez ragaszkodik, abból próbál politikai közösséget kovácsolni. A polarizációban pedig épp az előremutató dolgokkal kapcsolatos konszenzus válik lehetetlenné.
+   </p>
+   <p>
+    A szombati román „békemenet” jelentősége tehát az, hogy másfél évvel a jövő évi elnökválasztások előtt a PSD egyértelműen jelezte: támadásba lendül. Megtalálta a narratívát, amellyel saját támogatói is felfegyverezhetők és harcba indulhatnak a társadalom másik, liberálisabb fele ellen, amelynek kezében a nyugatosító, korrupcióellenes retorika eddig is jó szolgálatot tett, és az elmúlt években képes volt rendszeresen hatalmas tömegeket utcára vinni országszerte.
+   </p>
+   <p>
+    A frontok tehát meg vannak húzva, és ha valakit emlékeztetnek a hazai frontvonalakra, az nem téved sokat. A különbség viszont az, hogy Romániában még nem dőlt el, hogy ki nyer.
+   </p>
+   <p>
+    <hi rend="bold">
+     Ellenzéki reakciók
+    </hi>
+   </p>
+   <p>
+    A legnagyobb ellenzéki erő, a Nemzeti Liberális Párt (PNL) elnöke, Ludovic Orban szerint a kormánypárti tüntetés az ellenzék, az igazságszolgáltatás és a szabad emberek megfélemlítésére tett antidemokratikus kísérlet volt.
+   </p>
+   <p>
+    A Băsescu legközelebbi bizalmasának tartott egykori jobboldali miniszer, Elena Udrea, aki Costa Ricába szökött 6 éves börtönbüntetése elől, a Facebookon úgy reagált, nem csak PSD-szavazók voltak a tömegben, hanem ellenzéki érzelműek is, akiket felháborítanak az igazságszolgáltatás által elkövetett visszaélések. „Ezt a tüntetés jó ideje meg kellett volna tartani” – írta Udrea, aki csak azt sajnálja, hogy a demonstrációt Dragneáék szervezték: „Lám, így sikerült a Rendszernek újra elpusztítania a román politikai jobboldalt, és naggyá tennie a PSD-t és Dragneát…”
+   </p>
+  </body>
+ </text>
+</TEI>

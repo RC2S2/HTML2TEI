@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kilakoltatási moratórium – Csak azoknak szól, akik tudnak róla?
+    </title>
+    <author>
+     <persName>
+      Ámon Kata
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b1f916b2-03f6-5d1d-80a8-e42c8e72f22b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kilakoltatási moratórium – Csak azoknak szól, akik tudnak róla?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Ámon Kata
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-01-28T10:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/01/28/kilakoltatasi-moratorium-csak-azoknak-szol-akik-tudnak-rola/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/01/28/kilakoltatasi-moratorium-csak-azoknak-szol-akik-tudnak-rola/
+     </sch:url>
+     <sch:name>
+      Kilakoltatási moratórium – Csak azoknak szól, akik tudnak róla?
+     </sch:name>
+     <sch:datePublished>
+      2018-01-28T10:50:00
+     </sch:datePublished>
+     <sch:author>
+      Ámon Kata
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzat
+     </sch:keywords>
+     <sch:keywords>
+      kilakoltatás
+     </sch:keywords>
+     <sch:keywords>
+      AVM
+     </sch:keywords>
+     <sch:keywords>
+      a város mindenkié
+     </sch:keywords>
+     <sch:keywords>
+      szociális bérlakás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b1f916b2-03f6-5d1d-80a8-e42c8e72f22b">
+     <sch:identifier>
+      urn:uuid:f4d37ea3-facd-41af-a3f0-69d3ea3b9a5e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:26.414295
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:41:10.392713
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b1f916b2-03f6-5d1d-80a8-e42c8e72f22b" when="2021-12-14T15:30:26.414295">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kilakoltatási moratórium – Csak azoknak szól, akik tudnak róla?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A kormány kilakoltatási moratóriumot hirdetett a választások végéig. Hivatalosan április végéig, de a moratórium lényege nyilván az, hogy a választásokig elkerüljék a kilakoltatásokra irányuló médiafigyelmet, és azt az illúziót keltsék, hogy megoldották a devizahitelesek és alacsony jövedelműek lakhatási gondjait. A kérdés, hogy mindez valóban azt jelenti-e, hogy nem lesznek kilakoltatások?
+   </p>
+   <p>
+    Úgy tűnik, egyáltalán nem. Tatabányán a moratórium ideje alatt
+    lakoltattak ki
+    egy hiteltartozással rendelkező nőt, akit elmondása szerint hosszasan zaklatott előtte a végrehajtó, ezen a héten pedig a kőbányai önkormányzat
+    próbált meg kilakoltatni egy négygyermekes anyát
+    . A két történet két különböző problémára világít rá.
+   </p>
+   <p>
+    A tatabányai eset azt mutatja meg, hogy olyan helyzetekben is rosszhiszemű, jogcím nélküli lakóként lehet hivatkozni emberekre, ha hosszú évek óta abban a lakásban élnek, és nem lezárt jogi eljárás folyik azért, hogy a lakásban maradhassanak.
+   </p>
+   <p rend="head">
+    A jogcím nélküli lakót olyan fényben tüntetik fel, mintha önkényes lakásfoglaló lenne, ami pedig úgy hangzik, mintha bűnözőként betört volna valaki másnak a lakásába.
+   </p>
+   <p>
+    Pedig a jogcím nélküliség valójában nem azt jelenti, hogy valaki önkényesen marad egy lakásban vagy költözik be, hanem azt, hogy épp érvényes szerződése nincs, de közben például lehet, hogy jogi küzdelmet folytat a lakásért, vagy önkormányzati lakás esetében lakáshasználati díj fejében él az otthonában.
+   </p>
+   <p rend="head">
+    Az önkényesség valójában éppen, hogy egy önkényes kategória, aminek az a célja, hogy kriminalizáljon olyan helyzeteket, amikor a lakó abszolút jóhiszemű módon próbálja lakhatását megoldani.
+   </p>
+   <p>
+    A másik probléma, hogy még a legjogtudatosabb, az ügyintézésben jártas emberek is tudnak olyan helyzetbe kerülni, hogy hirtelen nem tudnak jogi vagy más típusú segítséget mozgósítani, és jogtalanul kilakoltatják őket, hát még azok az emberek, akik esetleg még csak nem is tudják maguktól, hogy kilakoltatási moratórium van érvényben.
+   </p>
+   <p>
+    A probléma oka nem csak az, hogy az állam nem segíti információval, ellátórendszerrel, ingyenes jogi tanácsadással a lakhatási gondokkal küzdőket. Ennél többről szól:
+   </p>
+   <p rend="head">
+    az állam kifejezetten olyan rendszert hoz létre, ami a kilakoltatás előtt állóval szemben maximális szigort alkalmaz,
+   </p>
+   <p>
+    miközben a végrehajtóknak vitatott esetekben is rendőri támogatást nyújt, úgy tesz, mintha a hitelintézet/önkormányzat, a végrehajtó és a kilakoltatás előtt álló egyenlőek lennének, pedig a kilakoltatott rengeteg szempontból kiszolgáltatott. A saját otthonáról van szó, amit ha elveszít, összeomlik az élete, és nincs mögötte annyi anyagi erőforrás és konkrét hatalmi támogatás, amivel meg tudná védeni az érdekeit.
+   </p>
+   <p>
+    A kőbányai esetből, aminél egy többgyermekes anyát abszolút jogellenesen tettek volna ki egy önkormányzati bérlakásból, csak azért nem lett kilakoltatás, mert A Város Mindenkié csoport és az Utcajogász Egyesület kapcsolatban volt a lakóval, és emiatt rögtön jogi tanácsot kapott és segítséget az érdekvédelemben (információt, megerősítést, stb.). De mi van azokkal a lakókkal – a több millió lakásszegénységben élő többségével – akikhez ez a segítség nem jut el?
+   </p>
+   <p rend="head">
+    Nem alulról szerveződő aktivisták feladata kellene, hogy legyen az állampolgárok érdekeinek képviselete, hanem az államé.
+   </p>
+   <p>
+    Így ugyanis nincs gátja a jogsértő kilakoltatásoknak, eljárásoknak, és előfordulhat, hogy a szerencsén múlik, ki maradhat az otthonában, és az is, hogy két teljesen ugyanolyan jogi helyzetben lévő ember közül az egyiket kiteszik a lakásából, a másikat pedig nem.
+   </p>
+   <p rend="head">
+    Moratórium ide vagy oda, próbálkoznak, és a legkiszolgáltatottabbakat sikerül ilyenkor is kilakoltatni.
+   </p>
+   <p>
+    Igen, sajnos az önkormányzatok – bár nekik a hitelintézetekkel szemben kötelességük lenne a lakók védelme – is ebben mérik a sikert, és nem abban, hogy hány rászoruló lakhatását sikerül megoldaniuk. Magyarországon ugyanis semmi sem kötelezi az államot arra, hogy elhelyezést nyújtson a kilakoltatás előtt állóknak. Ha a kilakoltatottak között gyerek is van – és gondoljunk csak bele, milyen értékek mentén működik egy társadalom, amiben egy gyereket gond nélkül ki lehet tenni az otthonából –, és nincs hova menniük, akkor a gyerekek bekerülnek az állami gondozás rendszerébe, annak ellenére, hogy a szegénység miatti kiemelésüket a családból törvény tiltja. Ezzel az állam maga generál további társadalmi és egyéni problémákat, a hajléktalanságtól a kötődési zavarokon át és más, a traumából fakadó gondokig.
+   </p>
+   <p rend="head">
+    Emögött alapvetően a magántulajdon szentsége áll, és az, hogy arra kondicionál minket a gazdasági-társadalmi rendszer, hogy a magántulajdon fontosabb felnőttnél, gyereknél, mindenkinél.
+   </p>
+   <p>
+    Hiába kötnek az emberek egyértelműen kizsákmányoló hiteleket vagy olyan önkormányzati bérlakás-szerződéseket, ha nincs érvényes szerződésük, az egész társadalom önkényesekként, egyfajta bűnözőként tekint rájuk. Akkor is, ha nincs tartozásuk.
+   </p>
+   <p>
+    Február 3-án szombaton A Város Mindenkié „Gyerekek kilakoltatása? Soha többé!” címmel tart kampányindító akciót a Kossuth téren 10:00 órakor. A kampány célja, hogy a kilakoltatási moratórium lejárta után, azaz május 1-jén életbe lépjen két olyan törvénymódosítás, amely biztosítja, hogy gyerekes családok soha többé ne kerülhessenek az utcára.
+   </p>
+   <p>
+    Az akcióra minden érdeklődőt és támogatót várnak! Az eseményről bővebben itt olvashatsz:
+   </p>
+   <p>
+    https://www.facebook.com/events/412284889201881/
+   </p>
+   <p>
+    Sajnos ez igaz azokra a lakásokra is, amelyek köztulajdonban vannak: az önkormányzati bérlakásokkal is úgy gazdálkodnak, mintha azok magántulajdonú lakások lennének. Alig van olyan lakás, amit szociális alapon adnak ki, és ha igen, akkor olyan szerződéseket kötnek, amelyekben a bérlő jogai nagyon erősen korlátozottak és csak rövid távra szólnak. Annak ellenére, hogy az önkormányzatok sokszor éppen arra kapnak az Európai Uniótól támogatást, hogy ezeket felújítsák és szociális célra adják ki.
+   </p>
+   <p>
+    Ehelyett az önkormányzatok a felújítás után hamar szerződéseket bontanak a bérlőkkel, kiteszik őket, majd, ha értékes teleken van az ingatlan, akkor a teleket eladják egy beruházónak, aki lebontja az épületet és újat emel a helyére, hogy aztán magántulajdonú lakások, irodák legyenek benne. Ha a bontás nem jöhet szóba, akkor pedig magasabb státuszú – sokszor önkormányzati kapcsolatokkal rendelkező – bérlőknek adja ki a lakásokat a piacinál jóval alacsonyabb áron.
+   </p>
+   <p>
+    Kialakul tehát egy másodlagos piac az önkormányzati bérlakásokból, ahol elsősorban nem a lakás ára a fizetség, hanem a kapcsolati tőke, amit később viszont a bérlő, ha valóban jók a kapcsolatai, át tud váltani pénzre, hiszen az önkormányzati bérlakásokat bizonyos év után meg tudja venni a bérlő – ha az önkormányzat hozzájárul. Ugyanez a logika működik a hiteltartozással rendelkezőknél, hiszen a hitellel terhelt lakásokat is fel lehet olcsón vásárolni, és ha vannak értékbecslői-végrehajtói körökben kapcsolatai valakinek, akkor olcsón tud a korábbi lakó kárára lakáshoz jutni (így volt ez pl. a tatabányai történetben).
+   </p>
+   <p>
+    A magántulajdon tiszteletéről – főleg az erőszakos államosítás történetével a hátunk mögött – azt gondoljuk, hogy az alapvetően jó nekünk, különben az állam vagy más állampolgárok megfosztanak minket attól, amink van, pl. a lakásunktól, ami a hétköznapi létezésünk alapja.
+   </p>
+   <p rend="head">
+    Valójában azonban ez is csak ideológia, arra szolgál, hogy épp azt fogadjuk el, amikor minket vagy másokat kizsákmányoló vagy sokszor egyenesen jogsértő módon fosztanak meg az otthonunktól.
+   </p>
+   <p>
+    Ennek a rendszernek a logikáját jól mutatja a kilakoltatási moratórium kijátszása és annak elfogadása. A kilakoltatások pont azt mutatják meg a maguk brutalitásában, mennyi kárt okoz a magántulajdon mindenek felett állásának eszméje vagy inkább annak illúziója, de pont az a mögött álló piaci érdekek – még ha azokat nem a piac, hanem az állam elégíti is ki – nem azt szolgálják, hogy ne legyenek kilakoltatások (tehát ne moratórium legyen, hanem tilalom az elhelyezés nélküli kilakoltatásokra pl.), hanem hogy ne látszódjanak.
+   </p>
+  </body>
+ </text>
+</TEI>

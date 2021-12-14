@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hogyan állíthatjuk meg az autoriter nacionalizmust?
+    </title>
+    <author>
+     <persName>
+      Antal Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     48d392f8-54cb-5a5b-ad6b-0a77d1cefae9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hogyan állíthatjuk meg az autoriter nacionalizmust?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Antal Attila
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-03T13:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/03/hogyan-allithatjuk-meg-az-autoriter-nacionalizmust/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/03/hogyan-allithatjuk-meg-az-autoriter-nacionalizmust/
+     </sch:url>
+     <sch:name>
+      Hogyan állíthatjuk meg az autoriter nacionalizmust?
+     </sch:name>
+     <sch:datePublished>
+      2018-11-03T13:45:00
+     </sch:datePublished>
+     <sch:author>
+      Antal Attila
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      Orbán
+     </sch:keywords>
+     <sch:keywords>
+      liberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      illiberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      posztfasizmus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="48d392f8-54cb-5a5b-ad6b-0a77d1cefae9">
+     <sch:identifier>
+      urn:uuid:86768f06-35d7-44d4-8e72-f552760a2d2e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:56.192470
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:14:18.803605
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="48d392f8-54cb-5a5b-ad6b-0a77d1cefae9" when="2021-12-14T15:30:56.192470">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hogyan állíthatjuk meg az autoriter nacionalizmust?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Úgy tűnik, hogy egyes liberális gondolkodók és politikusok ismét a baloldal nyakába akarják varrni a (poszt)fasizmus visszatérését. Ezzel szemben én azt állítom, hogy csakis a neoliberalizmussal szembeni újbaloldali és liberális kritika akadályozhatja meg a nacionalista autoriter jobboldal előretörését.
+   </p>
+   <p rend="head">
+    Európa weimarizálódása
+   </p>
+   <p>
+    Lehetséges, hogy a történelem megengedheti magának, hogy egy évszázadon belül kétszer lépjen ugyanabba a folyóba, hiszen, ha körbenézünk Európában (és persze az Egyesült Államokban), akkor a két világháború közötti weimarizálódáshoz nagyon hasonló jelenségeket tapasztalhatunk mind nemzetállami (és tagállami), mind pedig uniós (és szövetségi) szinten.
+   </p>
+   <p>
+    A weimarizálódásnak legalább öt fontos összetevője van: (1) óriási társadalmi és politikai elégedetlenség a politikai rendszer fennálló formájával, a liberális demokráciával szemben, amely nem képes megakadályozni azt, hogy a piaci válságok ne váljanak brutális társadalmi válságokká; (2) létrejön és megerősödik egy szélsőséges, a válságot nacionalista javaslatokkal kezelni óhajtó politikai erő, amelynek vezére autoriter irányba mozdítja a nemzetállamot; (3) ez a nacionalista és autoriter tömb kiegyezik a kapitalizmus erőivel; (4) az ellenzék töredezettsége és belső feszültségei, uralkodó félelmei miatt nem tud kialakulni olyan politikai ellen-koalíció, amely képes lenne megállítani azt, hogy ne élvezzen többségi támogatást a politika autoriter fordulata; (5) a liberális demokráciák alkotmányos rendszerének nincsenek olyan mechanizmusai, amelyek alkalmasak a többség zsarnokságának megakadályozására.
+   </p>
+   <p>
+    Ezen összetevők mindegyike, noha különböző kombinációkban és töménységben, de jelen van napjainkban. Az első és a harmadik faktor alapvetően a
+    <hi>
+     kapitalizmushoz
+    </hi>
+    , manapság annak globalizált neoliberális formájához kötődik és azt mutatja, hogy a kapitalizmus igazságtalanságai az autoriter fordulat kockázatával járnak. A második és negyedik összetevőt nevezhetjük a weimarizálódás
+    <hi>
+     politikai-stratégiai
+    </hi>
+    elemének. Az ötödik pedig az
+    <hi>
+     alkotmányos demokrácia
+    </hi>
+    önvédelmi képességének hiányára fókuszál.
+   </p>
+   <p rend="head">
+    A weimari-fordulat veszélyei vitathatatlanok és abban is hasonlóság mutatkozik a két világháború közötti korszakkal, hogy többen (szándékosan vagy gondatlanságból) ismét elfelejtik, hogy az itt első helyen kiemelt jelenség, vagyis a (neoliberális) kapitalizmus romboló hatása az elsődleges, és ez tulajdonképpen minden más összetevő előfeltételét is jelenti.
+   </p>
+   <p>
+    Erről a liberálisok hajlamosak elfelejtkezni és a fasizálódásnak csakis a politikai-stratégiai összetevőit emelik ki: ez a torz látásmód felnagyítja a kapitalizmussal kritikus baloldal, és a szőnyeg alá söpri a kapitalizmussal kiegyező erők felelősségét, továbbá elzár minden olyan utat a gondolkodás elől, amely megakadályozhatná azt, hogy a történelem ismételje önmagát. Ezzel meg is adtuk tehát a kortárs weimarizálódás legfőbb okát, vagyis azt, hogy a második világháború után kialakult világrendben a nacionalista autoriter jobboldal azért tudott előretörni, mert a weimarizálódás kapitalista előfeltételei vajmi keveset változtak, sőt a neoliberális kapitalizmus fel is erősítette a piac autoriter jellegét.
+   </p>
+   <p rend="head">
+    Posztfasizmus és szociális fasizmus, avagy kell-e félni Ernst Thälmanntől?
+   </p>
+   <p>
+    A
+    <hi>
+     posztfasizmus
+    </hi>
+    nem más, mint a globális autoriter kapitalizmus kiegyezése a nacionalista autoriter jobboldallal. Tamás Gáspár Miklós 2000-ben mindezt a következőképp
+    jellemezte
+    :
+   </p>
+   <p>
+    „A posztfasizmus könnyen megtalálja a maga szögletét a globális kapitalizmus új világában: nem borítja fel a választási demokrácia és a képviseleti kormányzat uralkodó alakváltozatait. Amit viszont ténylegesen tesz, azt a fasizmus mindenféle fajtájára, a totális rendszerek bukása után kialakuló változatára nézve is lényegesnek vélem, sans Führer, sans egypárti uralom, sans SA vagy SS. Nevezetesen a visszájára fordítja a fölvilágosodásnak a honpolgárságot és az emberi állapotot eggyéolvasztó tendenciáját… A poszttotalitárius fasizmus virul a globális kapitalizmus tágas kitinpáncéljának a védelme alatt.”
+   </p>
+   <p>
+    Az Orbán-rendszer az előbb jelzett nemzetállami és európai szinten zajló weimarizálódás eredményeképpen létrejött egyik első posztfasiszta rendszer, amelyben az állami autokrácia kiegyezett a globális kapitalizmus (elsősorban német nagyvállalati) szereplőivel és egyúttal közvetítő közvetítő közeget is jelent a nyugati kapitalista vállalatok és az ugyancsak autoriter putyini rendszer között.
+   </p>
+   <p>
+    Ebben a helyzetben a liberális gondolkodók egy része úgy véli
+    külföldön
+    és persze egyre erősebben Magyarországon is, hogy a radikális/populista baloldal miatt erősödtek fel ennyire a posztfasiszta tendenciák, de legalábbis a baloldal magatartása biztosan pusztuláshoz fog vezetni. Ebben gondolkodásmódban szerepet játszik a politika természetének az átalakulása, hiszen a centrista liberálisok és a legutóbbi időkig a velük társutas szociáldemokraták egyaránt elítélik a jobb- és baloldali radikalizmust és legkevésbé sem hisznek abban, hogy a radikális/populista baloldal újíthatja meg a baloldalt 21. században. Akik így gondolkodnak, azok szeme előtt az emlegetett weimarizálódás egyik legtragikusabb figurájának, Ernst Thälmann-nek az alakja lebeg. Thälmann volt a Weimari Köztársaságban a kommunista párt vezetője és a szociáldemokraták kérlelhetetlen ellenfele. A kommunisták egyaránt a kapitalizmus képviselőiként tekintettek a nemzeti szocialistákra, valamint a szociáldemokratákra. Utóbbiakat pedig – a Komintern politikája alapján – „szociális fasisztáknak” (
+    <hi>
+     social fascist
+    </hi>
+    ) bélyegezték. A Thälmann vezette kommunisták tehát nem működtek együtt a szociáldemokratákkal Hitler hatalomra jutásának megakadályozásában, és ez mindenki számára végzetesnek bizonyult.
+   </p>
+   <p>
+    A liberálisok most ismét attól félnek, – legalábbis erősen kongatják a vészharangot – hogy bekövetkezik a Thälmann-effektus, hiszen az radikális újbaloldal vezető és népszerű figurái (Corbyntól kezdve Varufakiszon át egészen Sandersig) igyekeznek önmagukat elhatárolni a szociáldemokrácia 80-as, 90-es években bekövetkezett neoliberális fordulatától és meg akarnak szabadulni a Blair- és Clinton-féle terhes örökségtől. A liberálisok látják továbbá azt is, hogy mennyire kritikus az újbaloldal Macron (és a hozzá hasonló, a politikai közepet megcélzó kísérletekkel) szemben is. Mindebből az következik, hogy sok liberális úgy érzi, hogy a radikális baloldal kiadta rájuk a „kilövési engedélyt”, mivel az nagyobb veszélyt lát a „szociális fasizmusban”, mint az autoriter jobboldalban.
+   </p>
+   <p>
+    Ezúttal nem mennék bele abba, hogy Thälmann-nek a szociáldemokratákkal szembeni gyűlölete abból következett, hogy Rosa Luxemburg-ot és Karl Liebknecht-et a szociáldemokrata Friedrich Ebert kormányának a parancsára végezték ki, s ez mind a mai napig ki nem beszélt konfliktus a radikális/marxista és a szociáldemokrata baloldal között. Ettől még persze a Thälmann-féle dogmatizmusnak brutális következményei lettek és nem alakulhatott ki egy olyan politikai környezet, amely megakadályozhatta volna a weimarizálódást. Ugyanakkor mélyen meg vagyok arról győződve, hogy ha meg akarjuk állítani a posztfasizmus előretörését, akkor azzal kell a radikális újbaloldalnak és a liberálisoknak is számot vetni, hogy a weimarizálódás alapvető okai korábban is és most is a kapitalizmus természetében keresendők, a politikai-stratégiai összetevők (így a Thälmann-effektus is) pedig mindennek az eredőjeként írható le, és éppen ezért van/kell legyen lehetőségünk a változtatásra. Ehhez pedig mind a radikális újbaloldalnak, mind pedig a liberálisoknak alapvető dolgokat kell újragondolniuk, ellenkező esetben a Thälmann-effektus nagyon könnyen bekövetkezhet!
+   </p>
+   <p rend="head">
+    Mit tehetünk az Orbán-rendszerben? – Számvetés a neoliberalizmus és az autoriter nacionalista állam házasságával
+   </p>
+   <p>
+    Nem dughatjuk homokba a fejünket, hiszen a két világháború közötti weimari fordulathoz nagyon hasonló tendenciák játszódnak le a kortárs Európában, mindenek előtt pedig Magyarországon. A jelenlegi helyzetben a radikális újbaloldal és a liberálisok egymást okolják az Orbán-rendszer kiépüléséért: a baloldalon nagyon erős a liberalizmusellenesség, a liberálisok pedig az előbb leírt Thälmann-effektustól tartanak. Ahogyan azt Bibó István 1945-ben
+    <hi>
+     A magyar demokrácia válsága
+    </hi>
+    című írásában megfogalmazta: a szemben álló politikai erőket a másik fél politikai koncepciójától való félelem blokkolja. Ehhez jön hozzá az a faktor, hogy az Orbán-rendszer rájátszik ezekre a félelmekre és mind a baloldal, mind pedig a liberálisok látnak olyan elemeket az orbáni politikában, amelyek így vagy úgy, de „szimpatikusok” számukra.
+   </p>
+   <p>
+    A radikális újbaloldal mindenhol a világon azért próbál konzekvens identitást kialakítani, mert a szociáldemokrata baloldal korábban lepaktált a neokonzervatívokkal és neoliberálisokkal, és durván szembe köpte az alapvető baloldali érétkeket. Ezért az Orbán-rendszer anti- és illiberalizmusa első ránézésre szimpatikus lehet, hiszen kulturális háborút hirdetett meg a liberalizmus ellen. Valójában ez csak nacionalista máz,
+   </p>
+   <p rend="head">
+    a baloldal semmit sem fog abból profitálni, ha a liberális kultúra képviselőit ellehetetleníti az Orbán-rendszer, hiszen a liberális kultúra és demokrácia korántsem egyenlő a neoliberalizmussal.
+   </p>
+   <p>
+    Ha a baloldal egy percig is elfogadja azt a thälmanni gondolatot, hogy az Orbán-rendszer haszna legalább az lesz, hogy „kivégzi számunkra” a liberálisokat, akkor nem vesszük számításba a korábban jelzett problémát, vagyis azt, hogy a weimari posztfasiszta rendszer alapjai a kapitalizmus kizsákmányoló természetében keresendők, a nacionalista autoriter Orbán-rendszer pedig brutális paktumot kötött a neoliberális kapitalizmussal.
+   </p>
+   <p>
+    A liberális oldalról sajnos többen várakozással tekintenek az Orbán-rendszer azon neoliberális szörnyűségei felé (mindenki annyit ér, amennyit gazdasági érdemei szerint el tud érni; kórházak privatizációja és az egészségügyi rendszer „racionalizálása”; az állam kivonulása a felsőoktatásból és privatizáció; a munkaviszonyok dolgozóellenes átszabályozása a durva piaci érdekek mentén, egyáltalán a munkaviszony védettségi jellegének fokozatos erodálása és közelítése egy tisztán piaci, polgári jogviszony felé), amelyek a vadkapitalista szabadpiaci viszonyoknak engednek teret. Az autoriter nacionalizmus miatt mindez természetes kognitív disszonanciát eredményez a liberálisokban, de többeket is kecsegtethet az, hogy az Orbán-rendszer neoliberális elemeiben lehet megfontolandó tartalom.
+   </p>
+   <p>
+    Nem gondolom azt, hogy a radikális újbaloldalnak és a liberális erőknek koalíciót kellene építeni. Ugyanakkor abban biztos vagyok, hogy ha nem tudunk konszenzust teremteni abban, hogy (1) a neoliberális kapitalizmus igenis autoriter tendenciákat mutat és ezzel szemben különböző módokon és stratégiákkal, de fel kell lépni; (2) továbbá az autoriter neoliberalizmus hajlamos a kiegyezni az ugyancsak autoriter nacionalista nemzetállami rezsimekkel (ezt neveztem itt posztfasizmusnak); (3) végül mindezek a tendenciák a weimarizálódás felé lökik a nemzetállamokat és az európai politikai rendszert, akkor bizony 100 éven belül kétszer fogjuk jó időre elveszíteni a demokrácia lehetőségét.
+   </p>
+   <p>
+    (Címoldali kép: MTI)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A kormányzat ezen a télen sem védte meg a kihűléstől sem a közterületen, sem a lakásban élőket
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     df78a9ca-8ebc-558a-af1a-bdfcbb7b21e6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A kormányzat ezen a télen sem védte meg a kihűléstől sem a közterületen, sem a lakásban élőket
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2012-03-02T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2012/03/02/a_kormanyzat_ezen_a_telen_sem_vedte_meg_a_kihulestol_sem_a_kozteruleten_sem_a_lakasban_eloket/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2012/03/02/a_kormanyzat_ezen_a_telen_sem_vedte_meg_a_kihulestol_sem_a_kozteruleten_sem_a_lakasban_eloket/
+     </sch:url>
+     <sch:name>
+      A kormányzat ezen a télen sem védte meg a kihűléstől sem a közterületen, sem a lakásban élőket
+     </sch:name>
+     <sch:datePublished>
+      2012-03-02T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      érdekvédelem
+     </sch:keywords>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      fagyhalál
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="df78a9ca-8ebc-558a-af1a-bdfcbb7b21e6">
+     <sch:identifier>
+      urn:uuid:6274a519-529c-4dc0-a199-5f266b393371
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.546226
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:05:41.323859
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="df78a9ca-8ebc-558a-af1a-bdfcbb7b21e6" when="2021-12-14T15:30:59.546226">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A kormányzat ezen a télen sem védte meg a kihűléstől sem a közterületen, sem a lakásban élőket
+   </head>
+   <p>
+    Ez a cikk több mint 9 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A halállal végződő fagyási sérülések lakosságszámhoz viszonyított száma hazánkban
+     kiugróan magas
+     . A CNN
+     híradása
+     szerint 2012 első két hónapjában közel annyian vesztették életüket Magyarországon kihűlés miatt, mint a sokkal népesebb Lengyelországban. A naptári tavasz kezdetén és a kilakoltatási moratórium lejáratának napján A Város Mindenkié csoport állásfoglalást tesz közzé a fagyhalál és a lakásszegénység összefüggéseiről. Az alábbiakban kifejtjük, hogy az utcán élő h emberek zaklatása, az alacsony jövedelműek lakhatási támogatásának csökkentése és a látványos krízisintézkedések helyett a kormányzat feladata az lenne, hogy felelős lakáspolitikával és megfelelő szociális támogatással megelőzze a tömeges lakásszegénységet és az aránytalanul sok fagyhalált Magyarországon.
+    </hi>
+   </p>
+   <p>
+    A téli hideg leginkább a hajléktalan emberek egészségét, életét veszélyezteti. Különösen igaz ez akkor, ha az Európában elfogadott terminológiát elfogadva mind a közterületen, mind pedig a nem megfelelő lakáskörülmények között élő embereket is hajlék nélkülieknek tekintjük. A Hajléktalan-ellátó Szervezetek Európai Szövetsége (FEANTSA)
+    szerint
+    a nem megfelelő lakáskörülmények között élő emberek nem csupán a hajléktalanság „veszélyzónájában” élnek, hanem valójában hajléktalanok, mert a társadalmi kirekesztés miatt nem férnek hozzá az emberhez méltó lakhatáshoz. Egy bő évtizeddel ezelőtt született
+    hazai meghatározás
+    szerint
+    <hi rend="bold">
+     ezeket a csoportokat együttesen otthontalan embereknek is lehet nevezni.
+    </hi>
+   </p>
+   <p>
+    Noha a hajléktalan emberek hatósági zaklatása nem új keletű, 2010 óta a kormánypárti politikusok számos módon vetettek be
+    <hi rend="bold">
+     hatósági erőszakot a közterületen élő emberek ellen
+    </hi>
+    , melyet gyakran a kihűlés elleni küzdelemmel igazoltak. Az egyik első ilyen intézkedés a hajléktalan emberek fővárosi aluljárókból történő kizárása volt még 2010-ben. Ezt követte 2011-ben az „életvitelszerű közterületen tartózkodás” szabálysértéssé nyilvánítása és ennek – ismételt előfordulása esetén – elzárással büntetése, melyet jelenleg a Budapesten és Tatabányán alkalmazhatnak. Egy harmadik módszer a józsefvárosi szabálysértési iroda „melegedővé” történő átalakítása volt, mely a leghidegebb napokban az oda betévedő vagy a hatóságok által bevitt hajléktalan embereknek nyújtott ellátást azzal a kikötéssel, hogy a bent tartózkodók reggelig nem hagyhatták el a helyiséget.
+   </p>
+   <p>
+    Amellett, hogy mindezen eszközök alapvető emberi jogokat sértenek, nem is kellően hatékonyak:
+    <hi rend="bold">
+     az egyre szűkülő kormányzati forrásokat immáron több mint két évtizede egy állandóan megújuló probléma kizárólag tüneti kezelésére használják fel
+    </hi>
+    . Ezzel szemben kiterjedt megelőzéssel sokak életét lehetett volna megmenteni és sokak mérhetetlen szenvedését lehetett volna elkerülni – ráadásul úgy, hogy az sokkal kevesebbe került volna mindannyiunknak, és nem járt volna a fedél nélkül élő emberek további jogfosztásával.
+   </p>
+   <p>
+    Fontos azonban, hogy eloszlassuk azt a népszerű elképzelést, hogy az életet követelő fagyási esetek túlnyomó többsége a közterületen élő embereket érinti. A Nemzeti Család- és Szociálpolitikai Intézet (NCSSZI) nemrég közzétett
+    tanulmányvázlata
+    szerint a halállal végződő esetek 2/3 részben nem megfelelően fűtött lakásban történnek, míg csak minden ötödik fagyhalál történik közterületen – és ez sem feltétlenül ott élő embereket érint. A tanulmány szerint
+    <hi rend="bold">
+     a lakásukban kihűlést elszenvedő emberek
+    </hi>
+    két területen szenvednek hiányt, mely feltételezhetően közvetlen összefüggésbe hozható sérüléseikkel.
+   </p>
+   <p>
+    –
+    <hi rend="bold">
+     Nincs elég jövedelmük a megfelelő fűtés biztosítására
+    </hi>
+    . Ezt a helyzetet energiaszegénységnek hívják, melyen akut esetben a
+    <hi rend="bold">
+     lakásfenntartási támogatással
+    </hi>
+    lehet segíteni. Ennek a
+    <hi rend="bold">
+     támogatásnak az összege 2012. január elsejétől jelentősen csökkent
+    </hi>
+    , mivel az Országgyűlés megszüntette az ún. helyi lakásfenntartási támogatást. Ez tovább súlyosbítja az amúgy is nehéz helyzetben élő emberek lakhatási problémáit, miközben a kihűlés és hajléktalanság elkerülése érdekében ezeknek a támogatásoknak éppen a radikális növelésére lenne szükség.   Fontos változás még, hogy
+    <hi rend="bold">
+     a fővárosban is gyengült a lakhatási védőháló
+    </hi>
+    . A lakásvesztést és közüzemi eladósodást megelőzni kívánó Hálózat Alapítvány a Fővárosi Önkormányzat és a közüzemi társaságok hozzájárulásainak megszűnése következtében idén korlátozni kényszerül támogatási rendszerét, ami számos alacsony jövedelmű háztartás kényes pénzügyi egyensúlyát boríthatja fel. A havi díjkompenzáción túl az alapítvány bő másfél évtizedes alapítása óta mindeddig 30 ezer hátralékos háztartásnak nyújtott összesen 2 milliárd forint támogatást, valamint családok ezreinek nyújtott krízistámogatást lakbértartozásuk kiegyenlítéséhez. Ha a város vezetése nem vizsgálja felül döntését, akkor a támogatás teljes megszűnésével jövőre tízezrek lakhatása lehetetlenülhet el.
+   </p>
+   <p>
+    –
+    <hi rend="bold">
+     Kevés kapcsolatuk maradt a külvilággal
+    </hi>
+    . Az NCSSZI tanulmányában szakértők állítják, hogy a legtöbb, otthonában kihűlés következtében elhunyt személy kistelepülésen élő, 50 év fölötti egyedülálló, gyermektelen férfi. A család nélkül élő emberek támogatása a
+    <hi rend="bold">
+     szociális ellátórendszer
+    </hi>
+    feladata, amely szolgáltatásai megerősítésével (tanyagondnoki, falugondnoki szolgálat, helyszíni látogatások, stb.) képes csak válaszolni a kihívásokra. További állami feladat a kistelepülések sorvadó k
+    <hi rend="bold">
+     özösségi életének szervezése és fejlesztése
+    </hi>
+    is, lehetőleg helyi civil szervezetek és a lakosság széles körű bevonásával. Ezek a tevékenységek segíthetik a szomszédsági viszonyok erősödését és javulását, hosszabb távon csökkentve a fagyási sérülések valószínűségét.
+   </p>
+   <p>
+    Az alacsony jövedelműek lakhatási támogatásának csökkentése, a krízisidőszakban kapkodva meghozott látszatintézkedések és a hajléktalan emberek zaklatása nem oldja meg a tömeges lakásszegénység problémáját. A Város Mindenkié csoport azt javasolja a kormánynak, hogy az aránytalanul sok magyarországi fagyhalál által jelzett társadalmi válságra a lakásfenntartási támogatás radikális növelésével, a rossz energiahatékonyságú lakások felújításával (erről lásd az Energiaklub
+    vonatkozó tanulmányát
+    ), a helyi társadalom szolidaritását erősítő programok támogatásával, valamint az előremutató hazai kezdeményezések (pl. a
+    Szociális Építőtábor
+    és a
+    Habitat for Humanity Magyarország
+    lakhatási programjai) megerősítésével válaszoljon.
+    <hi rend="bold">
+     Ezen intézkedések megtételéhez számos külföldi példa áll rendelkezésre és még EU-s forrásokat is igénybe lehet venni – megvalósításukhoz „csupán” kormányzati akaratra van szükség.
+    </hi>
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

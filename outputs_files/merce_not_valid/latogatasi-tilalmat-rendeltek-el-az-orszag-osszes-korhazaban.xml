@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Látogatási tilalmat rendeltek el az ország összes kórházában
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4343282f-ec46-55c6-aaab-2b4832872a5d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Látogatási tilalmat rendeltek el az ország összes kórházában
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-09-09T19:22:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/09/09/latogatasi-tilalmat-rendeltek-el-az-orszag-osszes-korhazaban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/09/09/latogatasi-tilalmat-rendeltek-el-az-orszag-osszes-korhazaban/
+     </sch:url>
+     <sch:name>
+      Látogatási tilalmat rendeltek el az ország összes kórházában
+     </sch:name>
+     <sch:datePublished>
+      2020-09-09T19:22:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      kórházak
+     </sch:keywords>
+     <sch:keywords>
+      második hullám
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4343282f-ec46-55c6-aaab-2b4832872a5d">
+     <sch:identifier>
+      urn:uuid:e7ddbae0-e6fe-431a-997a-302514282fa3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:37.378435
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:24:33.595298
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4343282f-ec46-55c6-aaab-2b4832872a5d" when="2021-12-14T15:30:37.378435">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Látogatási tilalmat rendeltek el az ország összes kórházában
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Az országos tisztifőorvos teljes körű, az ország összes egészségügyi, fekvőbeteg-ellátást nyújtó intézményére vonatkozóan látogatási tilalmat rendelt el – közölte a Nemzeti Népegészségügyi Központ (NNK) szerdán az MTI-vel.
+   </p>
+   <p>
+    Az NNK közlése értelmében védőfelszerelés biztosítása mellett a látogatási tilalom alatt a súlyos, életveszélyes állapotú vagy végstádiumú betegnél egy hozzátartozó, kiskorú beteg mellett egyik szülője vagy törvényes képviselője, szülő nőnél pedig egy általa megjelölt személy tartózkodhat.
+   </p>
+   <p>
+    A határozat kitér arra, hogy egyedi méltányosság keretében – kockázatbecslést követően – a kórház a kapcsolattatás lehetőségét mérlegelheti, indokolt esetben azt további esetekben is biztosíthatja. A rendelkezések megsértése esetén 30 ezer forinttól ötmillió forintig terjedő egészségügyi birság szabható ki.
+   </p>
+   <p>
+    Szeptember 7-től az ország összes szakosított ellátást nyújtó szociális intézményében is
+    intézmény elhagyási és látogatási tilalmat rendelt el
+    Müller Cecília. A látogatási tilalom alól csak abban az esetben adható felmentés, ha valaki végstádiumú hozzátartozójától szeretne elbúcsúzni.
+   </p>
+   <p>
+    Az intézményeket csak indokolt esetben, például munkavégzés, vagy egészségügyi ellátás miatt, illetve az intézményvezető engedélyével különösen indokolt esetben lehet elhagyni. A fogyatékos személyek, a pszichiátria és szenvedélybetegek ellátását biztosító intézmények szervezett szabadidős céllal hagyhatóak el. Új ellátottat csak a felvétel előtt készült, 2 negatív Covid teszt birtokában lehet felvenni.
+   </p>
+   <p>
+    Ez az előírás nem vonatkozik a hajléktalonok éjjeli menedékhelyére, Covid-19 tüneteket mutató hajléktalan személyt pedig minden esetben egészségügyi intézménybe kell szállítani. Az intézmény elhagyási tilalom nem vonatkozik az éjjeli menedékhelyekre és a hajléktalanok átmeneti szállására.
+   </p>
+   <p>
+    Emellett tegnap arról is határozat született, hogy betegszállítónak jelölik ki valamennyi közfinanszírozott, működési engedéllyel rendelkező egészségügyi szolgáltató tartalék gépjárművét, illetve bevonják őket a PCR-teszthez levett minták szállításába is, ugyanis drasztikusan megemelkedett a tesztek iránti igény.
+   </p>
+   <p>
+    A mai napon 411 újabb magyar állampolgárnál mutattak ki koronavírus-fertőzést, így az aktív fertőzöttek száma 5103 főre emelkedett, ketten pedig elhunytak. Jelenleg 221 koronavírusos beteget ápolnak kórházban, közülük 13-an vannak lélegeztetőgépen.
+   </p>
+   <p>
+    Ahogy az új fertőzések adatai is figyelmeztetnek, a járvány nem ért véget, a második hullám hazánkat is elérte, az aktív fertőzöttek száma ismét emelkedik, ezért nagyon fontos továbbra is a fegyelmezettség, a beutazási korlátozások és az általános higiénés szabályok betartása – írja a kormány tájékoztató oldala.
+   </p>
+   <p>
+    Ahogy arról
+    tegnap beszámoltunk
+    , a Pécsi Tudományegyetem virológiai kutatócsoportja szerint a koronavírus-járvány második hulláma leginkább a fiatalokat érintheti, mozgásmintázatuk ugyanis elősegítheti a vírus terjedését.
+   </p>
+   <p rend="head">
+    Arról viszont szó sincs, hogy valamiféle újabb mutációja terjedne a vírusnak, amely a fiatalabb korosztályra lenne veszélyesebb.
+   </p>
+   <p>
+    A tél beköszöntével ráadásul egyre jobban kell vigyáznunk: a vírus ugyanis kifejezetten jól terjed zárt, rosszul szellőző helyeken, így az emberek mozgásmintázata a hidegebb hónapokban, általános immunállapota és a tény, hogy a jelenleg cirkuláló emberi koronavírusok majdnem mindegyike szezonalitást mutat a virológusok szerint
+    <hi>
+     „jelentősen megkongatja a vészharangot”
+    </hi>
+    .
+   </p>
+   <p>
+    A Magyar Orvosi Kamara néhány napja
+    levélben fordult
+    Kásler Miklós emberi erőforrások miniszteréhez, jelezve: legmélyebb szakmai meggyőződésük szerint
+   </p>
+   <p>
+    „az újabb, katasztrófával fenyegető második hullám indulását jelző legújabb számok ismeretében a Kormány hatékony és azonnali intézkedéseire van szükség.”
+   </p>
+   <p>
+    Ennek két fő területe a kamara szerint:
+   </p>
+   <list>
+    <item>
+     a közösségi megelőzés ismételt megerősítése (maszkviselés propagálása és ellenőrzése, tömegrendezvények, sportesemények felfüggesztése, kiterjesztett lakossági tesztelés, aktív kormányzati jelenlét és példamutatás a kommunikációban, határozott fellépés a vírustagadók és járványszkeptikusok ellen, lokális és nem totális intézkedések a kiemelt kockázatú területeken és intézményekben),
+    </item>
+    <item>
+     az egészségügyi ellátórendszer felkészítése a járvány második hullámának eredményes kezelésére.
+    </item>
+   </list>
+  </body>
+ </text>
+</TEI>

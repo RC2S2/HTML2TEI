@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     2010-es évek: a gazdagok és hatalmasok évtizede
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f6c66363-c7b3-5443-a5e5-06e9294779d6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      2010-es évek: a gazdagok és hatalmasok évtizede
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-12-26T17:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/12/26/2010-es-evek-a-gazdagok-es-hatalmasok-evtizede/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/12/26/2010-es-evek-a-gazdagok-es-hatalmasok-evtizede/
+     </sch:url>
+     <sch:name>
+      2010-es évek: a gazdagok és hatalmasok évtizede
+     </sch:name>
+     <sch:datePublished>
+      2019-12-26T17:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      ner
+     </sch:keywords>
+     <sch:keywords>
+      Orbán
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      klímaválság
+     </sch:keywords>
+     <sch:keywords>
+      gazdasági válság
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f6c66363-c7b3-5443-a5e5-06e9294779d6">
+     <sch:identifier>
+      urn:uuid:3888d586-19d2-4186-92f7-18ad2d4fb535
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:05.554623
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:55:39.683387
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f6c66363-c7b3-5443-a5e5-06e9294779d6" when="2021-12-14T15:26:05.554623">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    2010-es évek: a gazdagok és hatalmasok évtizede
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A 2010-es évek globálisan a 2008-ban kirobbant gazdasági válság hatásainak politikai kiteljesedésével vették kezdetüket, miközben itthon az Orbán Viktor vezette Fidesz megszerezte első kétharmadát.
+   </p>
+   <p>
+    A kiépülő rendszer pár év alatt rácáfolt sok megfigyelő azon elképzelésére, hogy itt valami specifikusan magyar, a néplélekből fakadó politikai formát látnánk, sőt arra is, hogy csupán egy kelet-európai, a posztszocializmus zavaros vizeiből kiemelkedő „maffiaállamról” lenne szó.
+   </p>
+   <p>
+    Az kétségtelen, hogy a Nemzeti Együttműködés Rendszerének nevezett valami sok tekintetben politikai úttörőnek számít, a liberális demokrácia intézményeinek lebontásában pedig Európában is akadtak követői, de hatásfokát tekintve inkább csak a kontinensünkön kívül találkozunk hasonló sikerességű modellekkel.
+   </p>
+   <p>
+    A nyolc módosítást megért gránitszilárdságú alaptörvény, a médiatörvény, a nem-kormányzati szervezetek (NGO-k) ellen indított támadás, az Origo és a Népszabadság bezárása, az illiberális demokrácia meghirdetése, a CEU és az MTA elleni támadás, a társadalom menekültválság általi radikalizálása, a választási törvények átszabása, az MSZP vasárnapi népszavazási kezdeményezésének „kopaszok” általi megakadályozása, az állami hirdetések médiapluralizmust csökkentő felhasználása (és a sor még hosszan folytatható), mind-mind a plurális demokrácia és a jogállam lebontását szolgálták, átalakítását valamivé, ami politológiai szempontból a
+    versengő autoritárius rendszer
+    fogalmával írható le talán a legpontosabban.
+   </p>
+   <p rend="head">
+    Annyi minden történt ebben a tíz évben, annyi minden változott ebben az országban, hogy mikor ilyen listákat akarunk csinálni sem jut eszünkbe minden. És ez már önmagában beszédes.
+   </p>
+   <p>
+    Innen nézve tehát a 2010-es évek a Fidesz (szélső)jobboldali politikai és ideológiai hegemóniájának töretlen kiépüléséről szólt, még akkor is, ha olykor-olykor belső vagy épp külső erők pályamódosításra késztették Orbánt és politikai apparátusát. A már említett vasárnapi boltzár, a netadós tüntetések, a Fidesz Európai Néppártból való kizárása és a 2019-es EP-választások eredményei, vagy épp a G-nap módosították az irányt, olykor radikalizálva vagy épp mérsékelve a kormányzati úthengert, de a lényeges tendenciákon mit sem változtattak.
+   </p>
+   <p>
+    A politikai dimenzió mélyén – azzal összefüggésben, de mégis megkülönböztethető módon – egy másik tendencia pedig pillanatnyi módosulást sem szenvedett. A gazdaság- és társadalompolitikában a Fidesz egy olyan
+    felhalmozó államot
+    épített ki, amelynek alapvetően egyetlen funkciója az lett, hogy
+    szolgálja
+    részben a nemzetközi, részben pedig egy régi-új hazai tőkésosztály profitmaximalizálását.
+   </p>
+   <p>
+    A sztrájktörvény 2010-es módosításától a rabszolgatörvény 2018 végi bevezetéséig terjedő ívben a kormány mindent megtett azért, hogy az állam eszközeivel minél több közösen megtermelt javat osszon felfele, a leggazdagabbak felé. A nagyvállalati társasági adó megfelezésével, a gigantikus állami támogatásokkal, a munkaerő védelmének gyengítésével, a szakképzési rendszer fokozatos átalakításával a NER mindent a folyamatos globális gazdasági lejtmenet körülményei közötti minél erősebb tőkefelhalmozás szolgálatába állított.
+   </p>
+   <p>
+    Ebben segítségére volt a 2008-as összeomlás utáni viszonylagos stabilizálódás is, illetve az, hogy a válságperiódusokban a leggazdagabb országok vállalatai az olcsóbb munkaerő és alacsonyabb adók érdekében a szegényebb régiókba vándorolnak, látszólagos gazdasági fellendülést, növekvő befektetéseket, sőt még béremelkedéseket is okozva.
+   </p>
+   <p>
+    Ez a gazdasági környezet a magyar középosztály egy jelentős részét elégedettséggel töltötte el, részüket tovább pacifikálta a nagylelkű családtámogatási rendszer (az szja-kedvezményektől, a CSOK-on át a családvédelmi akciótervig), lecsúszóbb részeiket és az alsóbb rétegeket pedig a migránspropagandával kötötte magához, hogy aztán a piramis legalján a közmunka „fegyelmezze” a népet.
+   </p>
+   <p rend="head">
+    Na, és ez utóbbi, a gazdasági-társadalmi dimenzió az, amelyben az Orbán-kormány nem is annyira úttörő, mintsem egy globális új jobboldali minta követője, amely Brazíliától a Fülöp-szigetekig átöleli az egész bolygót.
+   </p>
+   <p>
+    Mert globális perspektívában is ezé a jobboldali hegemóniáé voltak a 2010-es évek. A válság utáni közvetlen stabilizációt (amely viszont semmit nem kezdett a válságot okozó pénzpiacok megzabolásával, utóbbiak köszönik szépen, idén is
+    rekordévet toltak)
+    ezeknek a populistának nevezett politikáknak a kora jött el, jellemzően gazdag, de a nép nevében beszélő, korrupt és a Földünk szempontjából már rövid távon is végzetesen felelőtlen politikusoknak a képviseletében.
+   </p>
+   <p>
+    Felelőtlen, mert miközben ezek a politikai erők a globális gazdasági lejtmenetet saját pozícióik felépítésére, és nagyvállalati barátaik megsegítésére használták, addig a 2010-es évek a több nagy globális problémahalmaz látványossá válásának évtizedét is adták.
+   </p>
+   <p>
+    Ebben az évtizedben vált megkerülhetetlenné a klímaváltozás kérdése, melyet ugyan a tudósok a hetvenes évek óta hangsúlyoznak, de figyelmeztetéseik huszonnegyedik órájába most érkeztünk el.
+   </p>
+   <p>
+    A bolygónk megmentésének szükségessége ráadásul ráépült az egyenlőtlenségek hetvenes évek óta tartó folyamatos emelkedésére. Ennek az összjátéknak a hatására nemcsak a megtermelt javak elosztása, de az egészség és egészségtelenség, illetve a klímaváltozás már érezhető káros hatásainak egyenlőtlen és igazságtalan eloszlása is az eredménye. A migrációs válságok is csupán innen, a globális egyenlőtlenségek, plusz a klímaváltozás perspektíváiból érthetők meg.
+   </p>
+   <p>
+    Ugyancsak ebben az évtizedben terjedtek el a nagy technológiai monopóliumok, az olyan platformok, amelyek a világ teljes népességének egy-egy szeletét képesek voltak leuralni. Ezek a platformok és közösségi médiák alapjaiban kezdték
+    átrajzolni a társas kapcsolatainkat
+    , közösségi nyilvánosságainkat, politikai rendszereinket.
+   </p>
+   <p rend="head">
+    A világunk ebben a tíz évben tehát egyenlőtlenebb, kaotikusabb és kilátástalanabb lett, társadalmaink pedig széttöredezettebbek. És miközben közösségi szorongásaink elaltatásában kiválóak a kor hegemónjai, a valódi problémák kezelésére még szándékuk sincs.
+   </p>
+   <p>
+    Ha mindezek elolvasása után valaki eltúlzottan sötétnek mondaná a lefestetett képet, igaza lenne.
+   </p>
+   <p>
+    Történt ugyanis rengeteg reménykeltő dolog is. Az arab tavasztól a megszorításellenes mozgalmakon át az idei év globális tüntetéseiig rengeteg példa mutatta, hogy az emberek igenis vágynak az igazságosságra és szabadságra. A MeToo hatására a történelemben még soha nem beszéltünk olyan nyíltan évezredes nemi hierarchiákról, mint napjainkban. A klímaváltozás elleni küzdelem fiatalok millióit mozgatja meg.
+   </p>
+   <p>
+    A gazdagok és hatalmasok évtizede magában hordozta, magában hordozza a változás csíráit. Amikor pár nap múlva a naptár 2020-ra vált, reménykedjünk, hogy a 20-as évek ezeknek a szárba szökkenését hozzák el. És reménykedjünk, hogy nem túl későn.
+   </p>
+   <p>
+    És ne csak reménykedjünk, tegyünk is érte!
+   </p>
+  </body>
+ </text>
+</TEI>

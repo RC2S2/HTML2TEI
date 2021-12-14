@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     2 millió ember esik el évi 90 ezer forinttól a kafetéria-rendszer átalakításával
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e4363c78-9fbc-5753-9fa1-71690b2ed2d7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      2 millió ember esik el évi 90 ezer forinttól a kafetéria-rendszer átalakításával
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-06T10:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/06/2-millio-ember-esik-el-evi-90-ezer-forinttol-a-kafeteria-rendszer-atalakitasaval/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/06/2-millio-ember-esik-el-evi-90-ezer-forinttol-a-kafeteria-rendszer-atalakitasaval/
+     </sch:url>
+     <sch:name>
+      2 millió ember esik el évi 90 ezer forinttól a kafetéria-rendszer átalakításával
+     </sch:name>
+     <sch:datePublished>
+      2018-07-06T10:45:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      szakszervezetek
+     </sch:keywords>
+     <sch:keywords>
+      bérek
+     </sch:keywords>
+     <sch:keywords>
+      júniusi törvények
+     </sch:keywords>
+     <sch:keywords>
+      munkavállalók
+     </sch:keywords>
+     <sch:keywords>
+      kafetéria
+     </sch:keywords>
+     <sch:keywords>
+      bérpolitika
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e4363c78-9fbc-5753-9fa1-71690b2ed2d7">
+     <sch:identifier>
+      urn:uuid:1c26f3b5-8a20-4e2a-bbe8-ff2a4aa3792e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.727669
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:01:17.965421
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e4363c78-9fbc-5753-9fa1-71690b2ed2d7" when="2021-12-14T15:35:04.727669">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    2 millió ember esik el évi 90 ezer forinttól a kafetéria-rendszer átalakításával
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Nemrég jelentette be a kormány, hogy 2019-re a SZÉP-kártya kivételével
+    szinte teljesen felszámolja a béren kívüli juttatások rendszerét
+    , így megszűnne a jelentős adóteherrel járó iskolakezdési támogatás, a bérlettámogatás, az önkéntes pénztárakba (tehát például az egészség-, az önsegélyező- és a nyugdíjpénztárakba) való belépés támogatása, és eltűnnének az Erzsébet- és ajándékutalványok is, de olyan, adómentesen nyújtható juttatások is megszűnnének, mint például a bölcsődei, óvodai költségekre igényelhető támogatás, a diákhitel törlesztése, a lakáscélú hitel törlesztése vagy éppen a lakbér támogatás.
+   </p>
+   <p rend="head">
+    A bejelentés után a szakszervezetek kifogásolták, hogy az átalakítási javaslat úgy került a parlament elé, hogy arról érdemi párbeszéd nem történt a szakszervezetek, a munkaadói szakszervezetek és a kormány között.
+   </p>
+   <p>
+    A Magyar Szakszervezeti Szövetség az ellenzéki pártokkal is konzultált: az MSZP már jelezte, a Bokros-csomagnál is durvább megszorításnak tartja a kormány tervezett intézkedését, a DK, az LMP és a Párbeszéd is tiltakozását fejezte ki.
+   </p>
+   <p>
+    Mindhiába: szerdán két parlamenti bizottság is leszavazta az általuk benyújtott, a kafetéria-rendszer átalakítására vonatkozó javaslataikat. A szakszervezetek ezért most nyílt levélben fordulnak az ellenzéki képviselőkhöz, hogy ne szavazzák meg a kormány által benyújtott módosítást.
+   </p>
+   <p>
+    A szervezetek szerint több munkavállalóval és munkáltatóval folytatott egyeztetés során arra jutottak, a kormány által benyújtott javaslaton mindenképpen változtatni kell.
+   </p>
+   <p>
+    „A kafetériát sújtó törvény körülbelül 2 millió embert érint és éves szinten 90 ezer nettó jövedelemtől esnek el azon a munkavállalók, akik béren kívüli juttatásban részesülnek. Ez, hogyha úgy számoljuk, akkor egy család éves szinten 180 ezer forinttal fog kevesebbet hazavinni. Ennek következtében nagyon komoly károsult csoport alakul ki, ezért szeretnénk kérni azokat, későbbiekben, akik a kafetéria által károsultnak érzik magukat, azok feltétlenül jelezzék a szakszervezeteknek”
+   </p>
+   <p>
+    – mondta Székely Tamás, a Magyar Vegyipari-, Energiaipari és Rokon szakmákban Dolgozók Szakszervezeti Szövetségének elnöke a
+    Hír TV-nek
+    .
+   </p>
+   <p rend="head">
+    A parlament július 20-án szavaz az átalakításról, de ha a tárgyalások lesznek ereményesek, a szakszervezetek még előtte demonstrációt vagy munkabeszüntetést terveznek.
+   </p>
+   <p>
+    Székely Tamás, a Magyar Szakszervezeti Szövetség alelnöke szerint két úton halad a cafeteria-val kapcsolatos szakszervezeti nyomásgyakorlás. „Az egyik a tárgyalóasztal, a másik pedig az ágazatok közötti együttműködés során vagy egy országos tüntetés, vagy akár egy sztrájk megszervezése.”
+    – derül ki az alelnök
+    Inforádiónak adott nyilatkozatából
+    .
+   </p>
+   <p>
+    Címlapkép: MTI / Mohai Balázs
+   </p>
+  </body>
+ </text>
+</TEI>

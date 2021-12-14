@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az Ubert nem betiltani, hanem betörni kell!
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     04732f3f-b9cd-590b-bf40-0b471669056b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az Ubert nem betiltani, hanem betörni kell!
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-05-04T08:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/05/04/az_ubert_nem_betiltani_hanem_betorni_kell/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/05/04/az_ubert_nem_betiltani_hanem_betorni_kell/
+     </sch:url>
+     <sch:name>
+      Az Ubert nem betiltani, hanem betörni kell!
+     </sch:name>
+     <sch:datePublished>
+      2016-05-04T08:30:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      közlekedés
+     </sch:keywords>
+     <sch:keywords>
+      Uber
+     </sch:keywords>
+     <sch:keywords>
+      taxi
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="04732f3f-b9cd-590b-bf40-0b471669056b">
+     <sch:identifier>
+      urn:uuid:8df3f4fc-ee0e-4e2b-bbf8-c6855cfb415f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:22.374338
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:23:12.154304
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="04732f3f-b9cd-590b-bf40-0b471669056b" when="2021-12-14T15:27:22.374338">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az Ubert nem betiltani, hanem betörni kell!
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Már lassan egy éve zajlik Budapesten a taxi kontra Uber vita, és a kormányzat végre határozott fellépés mellett kötelezte el magát, csakhogy a körvonalazódó tervek semmi optimizmusra nem adnak okot. Miközben a fővárosi közvélemény kritikátlan lelkesedéssel áll a saját sofőrei pimasz kizsákmányolásából és adóelkerülésből üzleti modellt fabrikáló Uber mellett, addig a taxisok az erősebb érdekérvényesítő képességükben bízhatnak. Az Uber ellen belengetett erős hatalmi fellépés helyett azonban egy olyan igazságosabb szabályozási keretet kellene kialakítani, amely mind a taxi-, mind pedig az Uber-sofőröknek, valamint az utasoknak is biztonságos és kiszámítható közlekedést biztosít.
+   </p>
+   <p>
+    A Kettős Mérce nem tartozik azon hurráoptimisták közé, akik szerint, mivel az Uber a „technológiai fejlődést” képviseli, minden körülmények között kritikátlanul el kell fogadnunk nyomulását. Még akkor is, ha a cég agresszív üzleti modellje azon alapszik, hogy nem fizet adót az egyes államokban, és semmilyen felelősséget nem vállal a sofőrjeiért, csak simán leakasztja róluk a 25 százalékos profitot utazásonként, aztán magukra hagyja őket a hatósági vegzálásokkal szemben. Arról már nem is beszélve, hogy nem biztosítja számukra a dolgozóknak kijáró minimális juttatásokat sem.
+   </p>
+   <p>
+    Sőt azt is tagadja, hogy sofőrei munkavállalók lennének, hiszen az egész profitgyártási mechanizmusa arra épül, hogy semmilyen felelősséget ne kelljen értük vállalnia. Az elmúlt hetekben az Egyesült Államokban, ahol már évek óta működik az Uber, ezért a sofőröknek is volt idejük megtapasztalni az üzleti modell hátrányait, a cég hajlandó volt 100 millió dolláros peren kívüli megegyezést kötni az őt beperlő sofőrökkel, csak hogy ne kelljen elismernie azok munkavállalói státuszát. Ha a magyar éves GDP felére becsült értékű cégnek a 100 millió dollár nem nagy ár azért, hogy ne kelljen munkavállalóként bánnia saját sofőreivel, akik közül sokan teljes munkaidőben dolgoznak neki, akkor mekkora veszteséget jelentene neki, ha mégis úgy kellene tekintenie rájuk?
+   </p>
+   <p>
+    Mindazonáltal a betiltást is hülyeségnek tartjuk. Márpedig úgy tűnik, a kormány erre készül. Ez derült ki Fónagy János, a Nemzeti Fejlesztési Minisztérium (NFM) államtitkárának szavaiból, aki a kedden benyújtásra kerülő jogszabályi módosítócsomagot ismertette még múlt héten. A módosítások lehetővé tennék az Uber telefonos alkalmazás egy évre szóló blokkolását, illetve szigorítanák az illegális személyszállítást végrehajtó Uber-sofőrök büntetéseit. Két lebukás után már fél évre is visszavonható a sofőr jogosítványa, az autója pedig akár három évre is kivonható a forgalomból. Amennyiben a hatóságok tényleg betartatják az új szabályokat, úgy lényegében ellehetetlenül a sofőrök munkája, még akkor is, ha magát az alkalmazást nem függeszti fel a kormány.
+   </p>
+   <p>
+    Ez azonban nincs rendjén.
+   </p>
+   <p>
+    Az Uber gyors felemelkedése Budapesten annak köszönhető, hogy képes volt benyomulni egy túlszabályozott személyszállítási piacra, amelynek szimbóluma a sokak által kárhoztatott hatósági díjszabályozás vagyis az egyentarifa. Az egyentarifáért cserébe a taxisoknak nagyjából harminc különböző szabályozásnak kell megfelelniük, a sárga színtől, a kötelező kártyás fizetési lehetőségen át a különböző évenkénti vizsgákig. Szabad lévén ezektől a megkötésektől, az Uber képes volt olcsóbb szolgáltatást nyújtani, és minden jel szerint erre lett is kereslet.
+   </p>
+   <p>
+    Sok embert nem érdekel az a tény, hogy a sokszor abszurd, de legtöbb esetben indokolt szabályozás és az ezzel járó magasabb ár biztonságosabbá tette a taxis személyszállítást, és például azt is garantálta, hogy ne rozoga járgányokban, hanem rendesen karbantartott autókban utazhassanak. Ehelyett az egyedüli szempont az alacsonyabb ár lett, és őszintén szólva ezt is meg tudjuk érteni.
+   </p>
+   <p>
+    A magasabb egyentarifa egyik oka az, hogy így a taxisoknak jut pénz arra – sőt kötelezve is vannak rá -, hogy fedezzék az autó amortizációs költségeit, képesek legyenek rendesen karbantartani azt. Az Uber alacsonyabb áraiból lehet, hogy képesek valahogy megélni a sofőrök, vagy kiegészíteni egy másik állásból kapott jövedelmüket, de ez nem jelenti azt, hogy pár év intenzív autózás után nem rohad rájuk az autójuk, és akkor nem lesz miből fedezniük a javítás vagy csere költségeit. Az olyan országokban, ahol hosszabb ideje működik a szolgáltatás, és több teljes munkaidős sofőr van, ez már szintén jól látszik. Az Ubernek persze semmibe nem kerül lecserélni a leamortizálódott autótulajdonos „vállalkozókat” ,hiszen ők nem is munkavállalók.
+   </p>
+   <p>
+    Létezik egy jogos igény arra, hogy létezzen a taxinál olcsóbb szolgáltatás, és arra is, hogy a különböző társaságok versenyezzenek egymással. Egy ilyen helyzetben egy jó állam feladata nem az, hogy betiltson, hanem, hogy olyan szabályozási környezetet alkosson, amelyben mindenki fair módon tud működni, senkit nem ér igazságtalan versenyhátrány, és a fogyasztók pedig megkaphatják azt, amire épp vágynak.
+   </p>
+   <p>
+    Jelen pillanatban van egy teljesen túlszabályozott taxis piacunk, és egy nulla szinten szabályozott másodlagos személyszállítási piacunk. A cél talán az lehetne, hogy közelebb hozzuk a kettőt egymáshoz, bezárjuk a hatalmas rést, amely miatt a taxisok hátrányba kerülnek az Uberrel szemben, az Uber-sofőrök pedig kiszolgáltatott, bizonytalan helyzetbe kerülnek a hatóságokkal és saját „munkaadójukkal” szemben.
+   </p>
+   <p>
+    Egy olyan kétszintes szabályrendszert kellene létrehozni, amelyben a taxisok megszabadulnának pár abszurd kötöttségtől és költéstől, de még így is magasabb tarifával működhetnének, mint az Uber. A magasabb árért cserébe a fogyasztók gyorsabb, kiszámíthatóbb és biztonságosabb utazást kaphatnának. Az Ubert pedig egy másik sávban kellene szabályozni, rákényszerítve őt bizonyos biztonsági garanciákra, fogyasztóvédelmi előírások betartására, illetve adófizetésre. Alacsonyabb áron működhetne még így is, viszont cserébe nem használhatná például a buszsávokat, taxiállomásokat, és más olyan előnyöket sem élvezhetne, amik biztosítják a taxiban utazók számára, hogy megérje kifizetni a magasabb árat. Az utasok meg majd dönthetnének, melyiket szeretnék.
+   </p>
+   <p>
+    Nyilván így leírva minden egyszerűbben hangzik. Mindennek kivitelezéséhez a viszonylag magasabb érdekérvényesítési potenciállal rendelkező taxisok józan belátása mellett arra is szükség van, hogy az Uber, amely eddig mindenféle párbeszédtől elzárkózott, leüljön tárgyalni a hatóságokkal. Erre per pillanat igen kevés esély látszik, hiszen azon túl, hogy az egész üzleti modell a hatóságok kijátszásán alapszik, azt még a
+    <hi>
+     sharing economy
+    </hi>
+    (megosztás alapú kereskedelem) szakértői is elismerik, az Uber kiemelkedően arrogáns és párbeszédképtelen ezekben az ügyekben. (
+    <hi>
+     <hi rend="bold">
+      Frissítés, 2016. 05. 06:
+     </hi>
+     Az Uber helyreigazítási kéremmel fordult hozzánk, amelyben azt
+    </hi>
+    írják
+    <hi>
+     „az Uber másfél éve folyamatosan kész a tárgyalásokra. Az Uber valamennyi minisztériumot hivatalos levéllel kereste meg, továbbá konkrét javaslatokat tett a teljes megfelelésről adózási és engedélyezési téren is. Ugyanakkor 2015 szeptembere óta –  egy, a Nemzeti Adó-és Vámhivatallal történt találkozón kívül – egyik megkeresésre sem kapott választ a cég. Az Uber továbbra is nyitott akár az azonnali egyeztetésre is a kormányzattal és az érintett felekkel.”)
+    </hi>
+   </p>
+   <p>
+    Ami nem sokat segít ennek a fekete-fehér vitának az árnyalt feloldásához. Erre pedig nagy szükség lenne.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Támogass havi 1000 forinttal:
+   </p>
+   <p>
+    További vállalásaink és támogatási lehetőségek
+   </p>
+   <p>
+    A Kettős Mérce csak akkor tud működni, ha te is támogatod! A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét akkor tudjuk hosszú távon fenntartani, ha legalább 600-an támogattok minket. Jelenleg 228 állandó támogatónk van. Ha szerinted is szükség van egy olyan baloldali és független lapra, mint a Mérce,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

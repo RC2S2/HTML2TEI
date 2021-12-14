@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az Európai Bizottság méltányos minimálbéreket javasol, de hogy mihez képest, azt a tagországokra bízza
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     eef95d1a-19db-58d3-aa55-5ecf7e055d33
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az Európai Bizottság méltányos minimálbéreket javasol, de hogy mihez képest, azt a tagországokra bízza
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-28T19:38:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/28/az-europai-bizottsag-meltanyos-minimalbereket-javasol-de-hogy-mihez-kepest-azt-a-tagorszagokra-bizza/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/28/az-europai-bizottsag-meltanyos-minimalbereket-javasol-de-hogy-mihez-kepest-azt-a-tagorszagokra-bizza/
+     </sch:url>
+     <sch:name>
+      Az Európai Bizottság méltányos minimálbéreket javasol, de hogy mihez képest, azt a tagországokra bízza
+     </sch:name>
+     <sch:datePublished>
+      2020-10-28T19:38:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      európai bizottság
+     </sch:keywords>
+     <sch:keywords>
+      Európai Unió
+     </sch:keywords>
+     <sch:keywords>
+      minimálbér
+     </sch:keywords>
+     <sch:keywords>
+      ursula von der leyen
+     </sch:keywords>
+     <sch:keywords>
+      európai minimálbér
+     </sch:keywords>
+     <sch:keywords>
+      szociális pillér
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="eef95d1a-19db-58d3-aa55-5ecf7e055d33">
+     <sch:identifier>
+      urn:uuid:7e56acae-0b51-4bc2-9d2a-10e11977c82f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:10.866048
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:25:40.130456
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="eef95d1a-19db-58d3-aa55-5ecf7e055d33" when="2021-12-14T15:26:10.866048">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az Európai Bizottság méltányos minimálbéreket javasol, de hogy mihez képest, azt a tagországokra bízza
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Az Európai Bizottság az európai minimálbérekre vonatkozó uniós irányelv-javaslatot terjesztett elő szerdán az Európai Unión belüli munkavállalók tisztességes megélhetésének biztosítására – közölte Ursula von der Leyen, az uniós bizottság elnöke szerdán.
+   </p>
+   <p>
+    Von der Leyen azt mondta az MTI tudósítása szerint, hogy a koronavírus-járványt követő fellendüléshez, valamint a méltányos és erős gazdaság megteremtéséhez elengedhetetlen, hogy az Európai Unióban biztosított legyen a tisztességes megélhetés, és ebben a minimálbérek alapvető szerepet játszanak. A javaslat a tisztességes verseny biztosításával segít megvédeni azokat a munkáltatókat is, akik egyidejűleg tisztességes bért fizetnek a munkavállalóknak – tette hozzá az Európai Bizottság elnöke.
+   </p>
+   <p>
+    A Bizottság
+    javaslata
+    azt tűzné ki kötelezően elérendő célként, hogy az egyes tagállamokban „megfelelő összegű” (az eredet angol nyelvű szöveg szerint „adequate”) minimálbért kapjanak a dolgozók.
+   </p>
+   <p>
+    De mit is jelent pontosan az elsőre elég tág fogalomnak tűnő „megfelelő összegű”, vagy az, hogy „méltányos”?  Az irányelvjavaslat 5. cikkelye foglalkozik ennek meghatározásával, szó szerint így:
+   </p>
+   <p>
+    „A törvényben előírt megfelelő összegű minimálbér biztosítása érdekében a rendelkezés kötelezi a tagországokat, hogy gondoskodjanak az alábbiakról: stabil és világos nemzeti kritériumrendszer használata a minimálbér megállapításához[…], valamint erre szakosodott tanácsadó-testület felállításáról. A nemzeti kritériumok között szerepelnie kell a minimálbérek vásárlóerejének, a bruttó bérek általános szintjének és megoszlásának, valamint a munkaerő-termelékenység alakulásának.[…]
+    <hi rend="bold">
+     A minimálbérek megfelelőségének értékeléséhez a tagállamoknak a nemzetközi gyakorlatban használt referenciaértékeket kell használniuk.
+    </hi>
+    „
+   </p>
+   <p>
+    És itt a lényeg: hogy ezek pontosan milyen referenciaértékek, azt egy apró lábjegyzetben fejti ki a dokumentum: ebből az derül ki, hogy nincs egyetlen konkrét kötelező számítási mód, példákat hoz csupán, amelyek alapján különböző módszerekkel ki lehet számolni a „megfelelő” minimálbért: ilyen az ún. Kaitz-index (amely a medián kereset bizonyos százalékában határozná meg a minimálbért;
+    az Európai Szakszervezeti Konföderáció (ETUC) szerint ez legalább 60%
+    ), de az Európa Tanács alkalmazott korábban olyan számítást is, amellyel a nettó minimálbér és a nettó átlagbér összehasonlításából meghatározható a „tisztességes életszínvonal”.
+   </p>
+   <p>
+    A „méltányos” minimálbér meghatározásának a problémaköréről
+    itt írtunk
+    korábban részletesen.
+   </p>
+   <p rend="head">
+    Vagyis a Bizottság előterjesztése csak annyit javasol, hogy mindenhol ugyanolyan szempontok alapján számolják ki a „megfelelő összegű” a minimálbért, de hogy az mihez képest legyen „megfelelő”, és pontosan mekkora, azt lényegében a tagországok hatáskörébe utalja.
+   </p>
+   <p>
+    Ebből is látszik, hogy az európai minimálbér nem azt jelenti, hogy egy szintre kerülnek az uniós tagállamok dolgozóinak legkisebb bérei, hanem egy közös kritériumrendszer felállításáról van szó, jelenteni, amely azonos feltételeket szabna a tagállamoknak saját minimálbéreik megállapításában.
+   </p>
+   <p>
+    Hozzá kell tenni, az EU valójában nem is ígért soha mást. A tisztességes megélhetéshez való jog, és az Unió szociális vonalának erősítése még
+    a Szociális Jogok Európai Pillére nevű 20 pontos nyilatkoztból ered
+    , amelyet 2017 novemberébenírt alá a Parlament, a Tanács és a Bizottság.  Ennek a bérekre vonatkozó cikkelye kimondja a munkavégzők méltányos, tisztességes megélhetést biztosító munkabérhez való jogát. „Megfelelő összegű minimálbérről kell gondoskodni annak érdekében, hogy a munkavállalók a keresetükből – az adott országban uralkodó gazdasági és szociális viszonyok közepette – ki tudják elégíteni saját szükségleteiket és családjuk szükségleteit, (….) A béreket az adott ország szabályaival és gyakorlatával összhangban, átlátható és kiszámítható módon kell megállapítani, tiszteletben tartva a szociális partnerek autonómiáját.”
+   </p>
+   <p>
+    Ursula von der Leyen bizottsági elnöki programjában szerepelt, hogy egyik első feladatának tekinti a méltányos minimálbér biztosítására vonatkozó javaslat megfogalmazását. A Bizottság munkaprogramja hat prioritása közül az
+    Emberközpontú gazdaság
+    címet viselő kulcsterület egyik kiemelt eleme a méltányos minimálbér elérésének célkitűzése. Ugyanakkor maga a Bizottság is leszögezi: nincs és nem is lehet szó egy egységes európai minimálbér bevezetéséről, a minimálbér meghatározása bármely  módszerének kizárólagos alkalmazásáról egy másik modellel szemben. A kezdeményezés célja „a nemzeti rendszerek megerősítése, az egyes nemzeti tradíciók, a kollektív tárgyalások szabadságának megőrzése, és elősegítése”.
+    Az uniós minimálbérről 2020. januárjában indították el a szociális kérdésekben kötelező konzultációt, a Bizottság mostanra állt elő konkrét javaslattal.
+   </p>
+   <p>
+    A javaslat előírja a minimálbér-védelem hatékonyabb végrehajtását és nyomon követését is. Erről a tagállamoknak majd éves jelentést kell készíteni – amennyiben az uniós kormányok és az Európai Parlament is elfogadja ezt a kezdeményezést.
+   </p>
+   <p>
+    A hazai ellenzék európai parlamenti képviselői üdvötzölték a javaslatot: az MSZP-s Ujhelyi István
+    közleményében
+    azt írta, hogy „az Európai Bizottság által most bejelentett javaslat figyelemben tartja a tagállamok között meglévő gazdasági és fejlettségi különbségeket, de hosszú távon garantálni akarja minden európai munkavállaló számára a tisztességes feltételeket és a méltányos minimálbért. Az a fajta monitoring rendszer, amely folyamatosan vizsgálni fogja a tagállamok minimálbérezési rendszerét és hozzáférhetőségét, mindenképpen támogatandó, de csak az egyik első lépés a teljes megvalósítás felé.”
+   </p>
+   <p>
+    Dobrev Klára, a DK képviselője
+    arról írt
+    : „Elértük, amit még soha senki: uniós kötelezettség lesz az emberek életszínvonalának emelése. Sokat küzdöttünk azért, hogy ne legyenek másodrendű állampolgárok az Unióban, mert minden európai magyarnak jár a tisztességes bér. Orbán kormánya minden létező módon támadta terveinket. A most készülő szabályok alól azonban ők sem kapnak mentességet, azokat kötelező lesz betartani minden uniós tagországnak.”
+   </p>
+   <p>
+    A tervezet több más, a munkavállalók helyzetét javító és a béregyenlőtlenségeket elvileg csökkenteni szándékozó elemet tartalmaz: többek között azt, hogy azoknak a tagállamoknak, ahol a kollektív bérmegállapodások számának aránya az összes foglalkoztatott körén belül nem éri el a munkavállalók 70 százalékát, külön szabályozási keretet és cselekvési tervet kell kidolgoznia a kollektív tárgyalások előmozdítása érdekében. Magyarországon ez a számarány 2016-ban az Eurostat szerint mindössze 23 százalék volt.
+   </p>
+   <p>
+    In EC’s proposal on
+    #minimumwage
+    , MS whose collective bargaining coverage is less than 70% of workers are required to provide a regulatory framework &amp; to establish actions plan to promote collective bargaining. Here some interesting figures from
+    @ETUI_org
+    #SocialEurope
+    pic.twitter.com/5Gh9k5X92g
+   </p>
+   <p>
+    — Pascal Hansens (@p_hansens)
+    October 27, 2020
+   </p>
+  </body>
+ </text>
+</TEI>

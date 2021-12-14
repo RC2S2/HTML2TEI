@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult” – Nyilas elkövetők a családban, 2. rész
+    </title>
+    <author>
+     <persName>
+      Lénárt András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Szlávy Adrienne
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6d9f2330-81e8-553d-a5b1-2c3b49522f15
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult” – Nyilas elkövetők a családban, 2. rész
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szlávy Adrienne
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lénárt András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-28T08:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/28/hogy-emberekkel-neki-dolga-lett-volna-senkiben-meg-nem-fordult-nyilas-elkovetok-a-csaladban-2-resz/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/28/hogy-emberekkel-neki-dolga-lett-volna-senkiben-meg-nem-fordult-nyilas-elkovetok-a-csaladban-2-resz/
+     </sch:url>
+     <sch:name>
+      „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult” – Nyilas elkövetők a családban, 2. rész
+     </sch:name>
+     <sch:datePublished>
+      2021-03-28T08:00:00
+     </sch:datePublished>
+     <sch:author>
+      Lénárt András
+     </sch:author>
+     <sch:author>
+      Szlávy Adrienne
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      történelem
+     </sch:keywords>
+     <sch:keywords>
+      holokauszt
+     </sch:keywords>
+     <sch:keywords>
+      A népirtástól a népbíróságig
+     </sch:keywords>
+     <sch:keywords>
+      2. világháború
+     </sch:keywords>
+     <sch:keywords>
+      nyilas
+     </sch:keywords>
+     <sch:keywords>
+      zuglói nyilasper
+     </sch:keywords>
+     <sch:keywords>
+      nyilasok
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6d9f2330-81e8-553d-a5b1-2c3b49522f15">
+     <sch:identifier>
+      urn:uuid:b138170c-f368-4ce1-9631-dbccb8bfaac7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:05.957715
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:40:24.945577
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6d9f2330-81e8-553d-a5b1-2c3b49522f15" when="2021-12-14T15:26:05.957715">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult” – Nyilas elkövetők a családban, 2. rész
+   </head>
+   <p>
+    <hi>
+     A 1944-45-ös nyilas erőszak legtöbb elkövetője soha nem került bíróság elé. A később kampányszerűen, politikai megfontolásból lefolytatott eljárások – mint az 1967-es zuglói nyilasper – célja pedig nem a trauma társadalmi feldolgozása, hanem a politikai elrettentés és nyilvános megbüntetés volt, mely az elkövetők ártatlan hozzátartozóit is elérte. Lénárt András és Szlávy Adrienne fegyveres nyilas pártszolgálatosok 1967-ben elítélt tagjainak közeli rokonait keresték fel. Mi történt e családokban? Tudtak-e rokonuk sötét múltjáról és mit szólt ahhoz környezetük? A tárgyalás, majd a súlyos büntetés hogyan befolyásolta életüket? Van-e, lehet-e tanulság?
+     Az első részben
+    </hi>
+    <hi>
+     a
+    </hi>
+    <hi>
+     szerzők
+    </hi>
+    <hi>
+     második világháborús tettes-kutatás
+    </hi>
+    <hi>
+     ainak
+    </hi>
+    <hi>
+     előkészületeiről volt szó,
+    </hi>
+    <hi>
+     a
+    </hi>
+    <hi>
+     folytatásban az egyik család
+    </hi>
+    <hi>
+     története következik
+    </hi>
+    <hi>
+     .
+    </hi>
+   </p>
+   <p>
+    Nyilas pártszolgálatosok Budapesten (forrás: Yad Vashem archívum)
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Szembejön a titkolt múlt
+    </hi>
+   </p>
+   <p>
+    2015-ben a Budapest 14. kerületi (zuglói) fegyveres nyilas pártszolgálat 1967-ben elítélt tagjainak leszármazottait kerestük fel. A kapcsolatfelvétel volt a legnehezebb, megtalálni a szavakat, amelyek kifejezik a lényeget, mégsem hatnak riasztóan. A bemutatkozásnál minden egyes alkalommal kiemeltük a történelmi érdeklődést, a politikai okokból történt meghurcoltatást és a kutatás átfogó jellegét.
+   </p>
+   <p>
+    Rendszerint a következő monológgal indítottunk:
+   </p>
+   <p>
+    <hi>
+     „Az elmúlt években a szocialista időszakban lefolytatott politikai perekkel foglalkoztam. Leginkább az érdekel, hogy a hatalom milyen szándékoktól vezérelve és milyen információk alapján vett elő ügyeket? Emellett fontosnak tartom bemutatni, hogy kik kerültek bele és kik maradtak ki az eljárásokból. Van azonban egy terület, amit ritkán vizsgálnak a történészek: hogyan befolyásolta a családok életét az apa vagy a nagyapa hirtelen »eltűnése«? A börtönbüntetés alatt és után hogyan alakult a hozzátartozók élete
+    </hi>
+    ?”
+   </p>
+   <p>
+    Elmondtuk azt is, hogy a nyilvánosságban csak a „hatalom” hangja volt hallható, minket viszont az „áldozatok” véleménye, emlékei, sorsa érdekel.
+   </p>
+   <p>
+    Bármily óvatosan adagoltuk a bevezető mondatokat, a vonal végén minden egyes esetben csönd fogadott, érezni lehetett, ahogy a készülék és az emberi lélek egyszerre fagynak le. Nemcsak az olimpiai befutónál tud szörnyen hosszú lenni néhány másodperc. Ezután azonban kellemes csalódás ért minket, ugyanis senki nem csapta le a kagylót, és nem is közölték, hogy tévedés történt. A feltárcsázott családtagok tudtak felmenőik elleni büntetőperekről, és nem is kívánták azokat letagadni.
+   </p>
+   <p>
+    A hosszas előkészületek után – mint említettük – az első alkalommal az egyik, korunkbeli, könyvtárban dolgozó unokának élőben tettem fel a kérdést, hajlandó volna-e ő vagy más családtag a nagypapáról beszélni. Az unoka arca megmerevedett, és óvatosan válaszolt. Időt kért, majd pár nap múlva megírta, hogy már akkor, élőben eldöntötte, azt a keveset, amire emlékszik, megosztja velünk.
+   </p>
+   <p>
+    A nem túl hosszú, és meglehetősen akadozó beszélgetésből kevés dolgot tudtunk meg az elkövető nagypapáról, mivel az unoka mindössze hét éves volt, amikor meghalt, és kisgyerekként pozitív élmények fűzték hozzá. Az első találkozón azonban felmerült néhány olyan kérdés, amelyek a későbbi interjúk során is rendre szóba kerültek.
+   </p>
+   <list>
+    <item>
+     Mindig el kellett mesélnünk az interjúalanyoknak, milyen adatok alapján találtunk rájuk. A beszámolók információkkal szolgáltak számukra (bár nem árultunk el minden részletet), ugyanakkor a bizalomépítést is elősegítette. A felvezetéssel jártasságunkat mutattuk be a rokonsági viszonyaikban és a történelmi tényekben. Profizmust, egyben természetességet próbáltunk sugallani. Utólag belegondolva, bizony hasonlíthattunk a magabiztos, „mindent tudó” nyomozókra, bár ezt a benyomást igyekeztük kerülni.
+    </item>
+    <item>
+     Átfogó ismereteinkre apellálva több megkeresett kibökte az őket évtizedek óta foglalkoztató kérdést: ha koncepciós eljárás keretében ítélték el az apjukat vagy nagyapjukat, nem látunk-e lehetőséget a felülvizsgálatra? Van-e szerintünk lehetőség a rehabilitációra?
+    </item>
+    <item>
+     Végül megfigyeltük, hogy az általunk megismert leszármazottak családtagjaikat – lelki, idegi, esetleg fizikai állapotukra hivatkozva – távol tartották tőlünk. Ígéretet kellett tennünk, hogy őket nem keressük meg. Csalódottan mondtunk le a tervezett beszélgetésekről, különösen olyankor, amikor az elítélt elkövetőt jobban ismerő személyről volt szó, unoka mellett gyerekről, vagy fiatal gyerek mellett korábban született, a pert idősebb fejjel megélt nagyobb testvérről.
+    </item>
+   </list>
+   <p>
+    Az ilyen kikötéseket annak ellenére elfogadtuk, hogy az esetek egy részében feltehetően aggodalmuk túlzó volt, és az érintettek épp úgy hajlandóak lettek volna velünk leülni, mint a korábban megkeresett rokonaik. Családon belüli viszonyaikat vetítették-e ki ránk, talán a radikális, akár antiszemita nézeteket valló, esetleg megkeseredett testvérek vetettek volna rossz fényt a családra? A családi felelősséghárítás vagy inkább a túlzott felelősségvállalás vezette őket, amikor eltiltottak bennünket rokonaiktól?
+   </p>
+   <p>
+    Amint felbukkantunk a titkokkal terhelt család életében, olyan stresszfaktorokat aktiváltunk, mint a bizonytalanság, az információhiány és a kontrollvesztés. Szerencsénkre mégis a kibeszélésre való késztetés, a kíváncsiság, az érdeklődés felett érzett öröm kerekedett felül a megkeresettekben.
+   </p>
+   <p rend="head">
+    A népirtástól a népbíróságig
+   </p>
+   <p>
+    Endre László, Baky László, Jaross Andor. E nevek viselői 1944 tavaszán és nyarán kulcsszerepet játszottak a magyar holokauszt legvéresebb epizódjában, a vidéki zsidóság gettósításában és elhurcolásában. Három főbűnös neve, amelyekre mára – a magyar állam és politikai osztály érdekének megfelelően – a szemérmes felejtés fátyla hull. Pedig az ország demokratikus újjáépítésének munkájától lelkesült magyarok 1945-ben még tisztában voltak azzal, hogy ki felelt a 437 ezer Auschwitzba és más német táborokba deportált honfitárs hiányáért, és fontosnak tartották a bűnök feltárását és a főbűnösök megbüntetését.
+   </p>
+   <p>
+    Endre, Baky és Jaross népbírósági perének 75. évfordulóján
+    <hi rend="bold">
+     <hi>
+      A népirtástól a népbíróságig
+     </hi>
+    </hi>
+    címen indítunk sorozatot
+    , amivel az igazságszolgáltatás, valamint a magyar és kelet-európai népirtás kulcspillanatait idézzük fel, miközben feltesszük a kérdést: mik a felejtés okai és milyen következményekkel jár a szembenézés hiánya?
+   </p>
+   <p>
+    Sorozatszerkesztők: Laczó Ferenc és Papp Gáspár
+   </p>
+   <p rend="head">
+    Emlékfolyam egy idősotthon kertjében
+   </p>
+   <p>
+    A továbbiakban egy olyan család esetét mutatjuk be, ahol három generáció tagjaival is sikerült beszélnünk: az egykori elítélt feleségével (alighanem ő volt az egyik utolsó életben lévő özvegy), az elítélt lányával és unokájával.
+   </p>
+   <p rend="head">
+    A zuglói nyilasperben elítélt férfi néhány személyes adata
+   </p>
+   <p>
+    1924-ben született egy alföldi városban. Szülei korán elváltak. 1940-ben költöztek édesanyjával Budapestre, ahol szakmát tanult. 1942-ben lépett be a nyilas pártba, 1944-ben a Hungarista Légió tagja lett. Az 1944. október 15-i nyilas hatalomátvétel után kiképzést kapott a hárshegyi Cserkészparkban, ahonnan a 14. kerületi fegyveres pártszolgálatos egységbe került. A háború után alföldi településeken élt, szakmájában dolgozott. Iparengedélyét 1957-ben bevonták tiltott határátlépés miatt. 1949-ban kötött első házassága 1959-ig tartott, amikor felesége betegségben meghalt. Újraházasodott, és 1963-ben újra megkapta az iparengedélyt. 1967-ben a bíróság emberek törvénytelen kivégzésével és megkínzásával elkövetett háborús bűntettekben bűnösnek találta. 1977-ben szabadult.
+   </p>
+   <p>
+    Az idős hölgy telefonját először nem vette fel, sőt, az első adatgyűjtésünket követő néhány hónapban a tudakozóból is eltűnt a száma. Az önkormányzatot a feleség 2000 körül kapott díszpolgári címére hivatkozva kerestük meg, ők segítettek ki minket fia e-mailcímével. A nevet változtatott fiúnak írt levelünkre rendkívül tömör választ kaptunk, mely mindössze egyetlen kérdést tartalmazott: ki adta meg az önkormányzattól az ő elérhetőségét?
+   </p>
+   <p>
+    A helyzetet minél pontosabban megvilágítani igyekvő, bár alighanem hosszas magyarázkodásnak tűnő leveleink után veszni látszott az ügy, mígnem egyszer csak váratlan sms-t kaptunk az anya telefonos elérhetőségével. Kiderült, hogy az özvegy az alföldi nagyközségből egy fővárosi idősotthonba költözött. A fiú ezzel befejezte a közreműködését – ő maga egyáltalán nem vett részt a további kommunikációban. Apja ügyét, vagyis a velünk való foglalatoskodást édesanyjának szignálta, ő maga pedig gyaníthatóan visszatömte a felejtendő történelembe. Mégis hálásak lehettünk neki, hiszen nélküle nem valósulhatott volna meg a találkozás.
+   </p>
+   <p>
+    Vali néni (megváltoztatott név) igen barátságosan fogadott minket. Az idősotthon kertjében kezdtük el a beszélgetést. A szemlátomást leromlott fizikai állapotban lévő ember mentálisan teljesen épnek bizonyult. Készült a találkozóra, de az izgalomtól és ismeretei rendszerezetlensége, valamint saját érzelmi kitettsége miatt kissé összefüggéstelenül, gyors asszociatív váltásokkal kezdett el beszélni.
+   </p>
+   <p>
+    Gyakran előfordul, hogy az interjúpartner meg sem várva a kérdést, egy szuszra elmondja a „fő” témát, amire hivatkozva felkerestük. Az ilyen „összefoglaló” a találkozás okozta feszültség levezetésére szolgál, ugyanakkor felkínál kibontandó témákat és a beszélő attitűdjét is láttatni engedi a tartalmi „esszencia” ilyen gyors összegzése. (Természetesen másféle interjúkezdés is lehetséges, ezekre azonban itt nem térhetünk ki. Annyi bizonyos, hogy az irányított beszélgetéseknek egyik legnehezebb része a legeleje.)
+   </p>
+   <p>
+    Első nekifutásra az összekeveredett fő tartalmi elemek a következők voltak: az „ügy” (a holokauszt) szörnyűsége, a döntéshozó elit (felső hatalmak, „összeesküvő” érdekcsoportok), és a társadalom többi rétegének („egyszerű emberek”) szétválasztása, a kis nemzeteket kihasználó nagyhatalmak képzete, ebből következően a kis nemzetek „kollektív felelősségének” elutasítása, a gazdag amerikai zsidók passzivitása, akik megmagyarázhatatlan módon nem segítették az európai hittársaik megmenekülését.
+   </p>
+   <p>
+    Mindebben gyakorlatilag átmenet nélkül jelentek meg a személyes élmények a háború időszakából, a település zsidó lakóinak elhurcolása, amit Vali gyerekként saját szemével látott, a „visszajöttek visszafogadása”, és az a félelem, amit férje ügyének kipattanásakor élt át jó két évtizeddel később.
+   </p>
+   <p>
+    Az egész gondolatcunami sajátos feloldást nyert: a „hír berobbanása”-kor, azaz miután férjét a rendőrök 1966-ban letartóztatták, Vali attól tartott, hogy a zsidóüldözést túlélt „Friedmann kisasszonyok” (megváltoztatott név) nem fogadják majd a köszönését. Kellemes meglepetés volt számára, hogy a Friedmann nővérek nem viselkedtek elutasítóan, sőt, hosszan el tudtak beszélgetni egymással.
+   </p>
+   <p>
+    Eddig tartott az első nekigyürkőzés. Mi az interjús kutatás természeténél fogva nem reflektáltunk azonnal vagy tételesen minden állításra, inkább óvatos visszakérdezésekkel igyekeztünk rátérni az egyes témakörökre.
+   </p>
+   <p rend="head">
+    Annyi mindenesetre nyilvánvaló volt, hogy nemcsak az idős kor és a stresszhelyzet indította el a beszédfolyamot. Az elbeszélő viaskodott a különböző tudáselemekkel, és képtelen volt koherens képet alkotni a történtekről.
+   </p>
+   <p>
+    A második, immár nyugodtabban és összeszedettebben előadott történet családjáról szólt. Ebben az ő iparos, szabadszájú, az ital hatására különösen odamondogató édesapja, és annak kommunista beállítottságú testvére képviselték a két ellenpontot, a „család” pedig (azaz a nők és a gyerekek) mintha kettejük viszályának elcsendesítésén szorgoskodott volna.
+   </p>
+   <p>
+    Az elbeszélés alapján a szűkebb családnak a háború utáni évtizedekben kijutott a falusi gáncsoskodásból. A helyi hatalmat bíráló kisember lányát, Valit mezőgazdasági középiskolába akarták irányítani, később a sikeres felvételi ellenére sem tanulhatott egyetemen. A család együtt igyekezett legyűrni a nehézségeket, és biztosítani az optimális továbbtanulást Valinak, aki előbb a közeli kisváros gimnáziumába nyert felvételt, majd az egyetemi továbbtanulás kérdése is megoldódott – két év várakozást követően, „1956 után” elkezdhette tanulmányait az ELTE-n, bár később családi okok miatt átváltott a szegedi tanárképző főiskolára.
+   </p>
+   <p>
+    Vali külön ugyan nem hangsúlyozta, mégis szolid rezilienciát lehetett kibontani a szövegből, ahol a munkáscsaládnak az egyének érdekeit figyelmen kívül hagyó, önkényeskedésre hajlamos hatalom képviselőinek – a párttitkár, a hivatali főnök, az iskolaigazgató, a nevelésügyben dolgozó funkcionáriusok – akaratával szemben kellett érvényesülni. Esetünkben az okos, de gyenge fizikumú leány továbbtanulása, vagyis a legfontosabb mobilitási csatorna biztosítása volt a tét.
+   </p>
+   <p rend="head">
+    „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult”
+   </p>
+   <p>
+    Vali élete gyermekkora óta tehát tele lehetett bizonytalansággal és szorongással.
+   </p>
+   <p>
+    Az ötvenes évek végén ketten udvaroltak neki egyszerre, a fiatalabbat szerette volna, fohászkodott, hogy a leánykérésre „ő érjen oda előbb”. Mikor azonban a tekintélyesebbnek tartott, nála idősebb férfi megjelent a portájukon, egy szomszéd fiút szalajtott vőlegénye elé az üzenettel: ne jöjjön többé. Úgy hitte, a kiszámítható, nyugodt, kiegyensúlyozott életet választotta.
+   </p>
+   <p>
+    A jó kiállású, biztos egzisztenciával rendelkező, nála tíz évvel idősebb férjéről Vali nem sejthette, hogy a háborúban milyen szörnyű tettek elkövetésében vett részt. Éppen azt remélte, hogy az ő kitolódott, családjára nagy terhet rovó tanulóidejét férje keresetéből finanszírozni tudják majd.
+    Az egyetemi képzést azonban a korai házasság és a gyerekvállalás épp hogy megakasztotta.
+   </p>
+   <p rend="head">
+    Egészen 1966. március 16-ig így is alapvetően jól alakultak a dolgok, amikor viszont a helyi iskolában tanító Vali hirtelen arról értesült, hogy rendőrök szálltak ki hozzájuk.
+   </p>
+   <p>
+    Hazasietett, azt gondolva hogy férjét feketemunka miatt viszik el, mígnem a nyomozó elárulta, hogy „háborús bűntett”-ről van szó, de semmi többet nem mondott. A családot hosszú hónapokig információ nélkül, nagy bizonytalanságban hagyták.
+   </p>
+   <p>
+    „Szegény apám is biztatott, na biztos, hogy robbantott, biztos, hogy ki volt, mi volt. Hogy
+    <hi>
+     emberekkel neki dolga lett volna
+    </hi>
+    [halkan], senkiben
+    <hi>
+     meg nem fordult
+    </hi>
+    [tagoltan]. Volt egy kutyus az udvarban, nem is a mienk. Az majdnem sírt, a férjem, ez a kutya nagyon rossz volt, de hogy rávágott volna, majd belerúgott volna, mint vidéken, soha. Tehát meg nem fordult ez a fejünkben. Amikor kiderült, az úgy volt, hogy szólt a kirendelt ügyvéd, hogy valakit hívjak magammal Pestre. És akkor asszem a Nyugatiba eljött az unokatestvérem, és akkor mondta el, hogy miről van szó. Hát nekem teljes összeomlás volt. Zsidó ember volt [az ügyvéd], a nevét is tudom, olyan rendes volt, azt mondta, hogy asszonyom, ezt így most meleg szobából, nyugalomból, békéből nem lehet megérteni. […] Elmondott mindent, az unokatestvéremmel hazamentünk, és próbáltam megemészteni. Rengeteg könyvet olvastam,
+    <hi>
+     A
+    </hi>
+    <hi>
+     22-es csapdájá
+    </hi>
+    tól kezdve, hogy mint, hogy lehetett, mint se lehetett. És akkor jött a kérdés, hogy váljak el.”
+   </p>
+   <p>
+    A fiatalasszony nehéz helyzetbe került, a helyi vezetőemberek megüzenték neki, hogy ha elválik, lakással és állással segítik „új élete” megkezdését. Ráadásul több vetélés után épp teherbe esett, ami nem sokkal férje letartóztatása után nyert orvosi bizonyságot.
+   </p>
+   <p>
+    Saját apja, aki soha nem szólt bele lánya házaséletébe, úgy vélte, ebben a helyzetben tisztességtelen volna magára hagynia bebörtönzött férjét. A terhesen férj nélkül maradt Vali hosszas őrlődés után a folytatás mellett döntött, mivel saját családja, akikre egyedül számíthatott biztosan, egyértelműen az addigi keretek fenntartását látta jónak.
+   </p>
+   <p>
+    Hiába tartott azonban ki házastársa mellett, a családi béke örökre odalett. A tíz év múltán kiszabadult férjét 16 és 10 éves gyermekei nemcsak idegenkedve, hanem kifejezetten ellenségesen fogadták. Úgy tűnik, rájuk a nagyszülők és a rokonság véleménye mellett erősen hatottak a tágabb közegben, az iskolában elejtett megjegyzések vagy a községben hallottak.
+   </p>
+   <p rend="head">
+    A férj, az apa eltűnése derült égből villámcsapásként hatott. Az elidegenedett férfit viszontlátni, a kisebbik gyereknek megismerni és tíz év után rögtön befogadni a családi életbe szintén fokozottan megterhelő lehetett.
+   </p>
+   <p>
+    A feleség és a gyerekek külső pszichés támogatás nélkül képtelenek voltak megbirkózni e rendkívüli feladattal.
+   </p>
+   <p>
+    Férje a zuglói nyilaspert követő börtönbüntetése idején Vali a gyermekeit érezte veszélyeztetve. Amikor lelki problémáira panaszkodott a családot ismerő idegorvosnak, az meglehetősen ijesztő lehetőséget vázolt fel: „Asszonyom, el is vehetjük azokat a gyerekeket”.
+   </p>
+   <p>
+    Nagy bánatára nem sikerült megvédenie a felcseperedő lányát tanáraitól és gúnyolódó osztálytársaitól. Felmerült benne, hogy felső tagozatra átviszi egy másik városba, de úgy sejtette, titkuk az új közegben is hamar kiderülne, s minden csak kezdődne elölről. Veszélyeztetett terhesként, majd kisgyereke mellől fizikailag is csak kevéssé tudott jelen lenni nagyobbik gyermeke életében.
+   </p>
+   <p>
+    Vali a gyerekeinek eleinte azt hazudta, hogy apjukat katonának vitték el. A beszélőkre ritkán jutott el, és abban sem volt köszönet. A rövid látogatások nem oldották a feszélyezettséget, ellenben alkalmat adtak a megalázásra, a fegyőrök kellemetlenkedésére.
+   </p>
+   <p>
+    Látogatásukat megelőzően Vali kifejezetten arra kérte az őröket, hogy a gyerekek kedvéért vegyenek fehér köpenyt, mintha nem is börtönben volnának, de ők nem teljesítették a kérését. A gyerekek elmaradoztak a ritkás alkalmakról, nem akartak többé találkozni büntetését töltő apjukkal.
+   </p>
+   <p>
+    Vali visszaemlékezése szerint munkahelyén, az iskolában kicsinyes viták kereszttüzében találta magát. A történelem szakot elvették tőle, „nehogy rossz irányba vigye a gyerekeket”. A falusi értelmiségi szülők gyerekei többször kritizálták és panaszkodtak rá, így nem is bánta, hogy a későbbiekben már csak magyart taníthatott. Szakmailag elvágták, szemléltető eszközeit és módszereit leszólták, a tanulóknak szervezett irodalmi kört, ahová országosan ismert írókat is sikerült elhívnia, nem értékelték. Prémiumot vagy fizetésemelést az extra-munkájáért soha nem kapott, később az előkerült férje is visszatartotta a kötelezőn felüli munkától.
+   </p>
+   <p>
+    A bő évtizedre egyedül maradt feleség igyekezett férje fiatalkori megtévelyedését a zaklatott családi hátterével magyarázni. Férje anyja elvált, a kisgyerekkel keveset törődött, akit ily módon inkább a nagyanyja és nagynénje neveltek. „Anyósom összeállt egy zsidó emberrel, szép nő volt, azóta sem tudok érte imádkozni se, és nem mehetett hozzá a saját fia vasárnap ebédre, nemhogy ott lakhatott volna. Az apja elvett egy zsidó nőt, oda se mehetett a szerencsétlen, nem volt senkije”, hallottuk Valitól.
+   </p>
+   <p>
+    A háborús bűnös férfi felmenőinek adatait külön nem ellenőriztük. A rendőrségi iratokból annyi derül ki, hogy 1944-ben anyja Budapest VI. kerületi lakásán befogadja fia vidéki ismerőseit, akik szintén a nyilasokhoz csapódtak. Kizárni nem lehet teljesen, de ezek alapján legalábbis kevéssé valószínű, hogy a nő férje zsidó lett volna.
+   </p>
+   <p>
+    A zsidó mostohák emlegetésének funkciója inkább a személyes viszolygás kivetítése volt, sőt talán a későbbi gyilkosságok állítólagos halvány motivációjaként kerülhetett a történetbe.
+   </p>
+   <p>
+    A gyerekeit tíz éven keresztül egyedül nevelő anya megbocsátott férjének és kitartott mellette. „Ahogy hazajött, azt mondtam magamban, hogy ez, amit ő tett, ez az Istenre tartozik, amit emberekkel tett, azt tíz év alatt leülte.”
+   </p>
+   <p>
+    A problémák azonban a családon belül nem oldódtak meg, inkább fokozódtak.
+   </p>
+   <p>
+    Vali hasztalan próbálta maguk mögött hagyni a múltat, a gyerekek nem nyugodtak meg, sőt, egyre jobban „elvadultak”. Férje szabadulását követően maga Vali is pszichoszomatikus panaszokkal került idegosztályra, úgy érezte, leszakadnak a vállai.
+   </p>
+   <p>
+    Férje szabadulása után is fenntartotta börtönéletének szokásait, kis udvari műhelyében egész nap egyedül dolgozott, ritkán bukkant csak elő. Mintha vezekelni próbált volna, vagy csak az emberekben csalódva egyszerűen került minden társaságot, és minden bajt. Magának keveset tartott meg, a pénzt a családnak, később önállósodni próbáló gyerekeinek adta. Külföldre került és ott nehezen boldoguló lányát is sokáig támogatta.
+   </p>
+   <p rend="head">
+    A sorozat további részei:
+   </p>
+   <p>
+    „Ehhez a példátlan náci sikerhez alig kellettek a németek”
+    Karsai László: A magyar holokauszt első számú felelősei
+    Kovácsné a népbíróság előtt
+    Egyéni sorsok, népirtás, zsákmányszerzés: a holokauszt korai értelmezései
+    „Elhagyott” zsidó javak: 75 év kárpótlás és jóvátétel
+    Kovácsné a népbíróság előtt: vita nőtörténetről és forráskritikáról
+    Nyilas üldöztetés, államszocialista meghurcolás és polgárjogi mozgalom: egy roma aktivista a 20. században
+    Lelkes kollaboráció és nemzeti ellenállás: állami erőszak Szlovákiában a második világháborúban
+    Erőszak és megbékélés: mit tanulhatunk Románia, illetve a román-magyar viszony történetéből?
+    Miért beszélünk 2021-ben a holokauszt felelőseiről?
+    Felejtés és szembenézés
+    Népirtás és az áldozatiság kisajátítása Horvátországban
+    Magyar fegyveres antifasiszta ellenállás: a Kis Varsó
+    Kik voltak a Kis Varsó felkelői?
+    Kis Varsó a Józsefvárosban: Vakfolt a történetírásban
+    Zsidósors vs. csendőrsors: A csendőrök felelősségre vonása 1945 után
+    Mit nem tudunk még a Népszínház utcai 1944-es felkelésről?
+    Nyilas elkövetők a családban: szégyenpadra ültetve
+    „Hogy emberekkel neki dolga lett volna, senkiben meg nem fordult” – Nyilas elkövetők a családban, 2. rész
+    Féltve őrzött titkok – Nyilas elkövetők a családban, 3. rész
+   </p>
+   <p rend="head">
+    Helyrebillenthetetlen bűnök és eltérő stratégiák a családban
+   </p>
+   <p>
+    Az elítélt lányával és unokájával készült beszélgetésünket – a köztünk akkor kialakult bizalmi kapcsolat ellenére – évekkel később visszavonták, így abból idézni nincs módunkban, történetüket csak Vali elbeszéléséből foglalhatjuk össze. Zsuzsi (megváltoztatott név) egy alföldi város egyik közismert művészének fiához ment hozzá. A kellemes légkörű zsidó család befogadta a lányt, Zsuzsi jó kapcsolatba került apósával. „Szélhámos” fiával azonban hamar szétment a házassága. A krízis helyzetben úgy döntött, nem maradhat, és egy éves kislányával az 1980-as évek közepén „disszidált”.
+   </p>
+   <p>
+    Vali szerint férje, aki bevallottan „továbbra sem kedvelte” a zsidókat, „nagyon tartóztatta magát” és nyíltan nem ellenezte a kapcsolatot, veje bohém baráti körét is „elviselte”. Zsuzsi az emigrációban újfent egy zsidó férfivel házasodott össze, amin volt apósa állítólag úgy élcelődött, hogy micsoda szerencsétek van! Később aztán második házassága is felbomlott.
+   </p>
+   <p>
+    Zsuzsi képtelen volt megbékélni apjával. Anyja szerint idehaza baráti köre is hergelte, „gyűlölettel töltötték fel”, és míg öccse a hallgatást választotta, ő rendszeresen konfrontálódott apjával. Eszes volt, de nem tanult. A kereskedelmi szakközépiskola elvégzése után kirakatrendezőként helyezkedett el. Fiatalon vidám természetűnek tűnt, gyerekként szívesen énekelt és táncolt, életvidámsága és derűje azonban később eltűnt, míg nagyzolási hajlama elő-előtört.
+   </p>
+   <p>
+    Az észak-európai országban, ahol Zsuzsi és lánya végül letelepedett, az édesanya franciát tanított, bevándorlók ügyeit intézte, média szakot is végzett, de nem sikerült igazán jó állást találnia. Egy időre minden kapcsolatot megszakított Magyarországgal és a családjával, később nyaranta jöttek haza látogatóba. A nagyszülők nagy becsben tartották egyetlen unokájukat, aki kilenc évesen egyedül utazott Magyarországra, négy nyelven megértette magát és együtt játszott a környékbeli gyerekekkel. Ő volt a „papi reménysége”.
+   </p>
+   <p>
+    Az unoka mit sem sejtett nagyapja múltjáról. Anyja és nagyanyja nem akarták terhelni ezzel.
+   </p>
+   <p rend="head">
+    Vali meg akarta várni az unokája 18. születésnapját a vallomással, ám egy unokatestvér megelőzte és egy családi összejövetelen elmondta neki, hogy a nagyapja tömeggyilkos.
+   </p>
+   <p>
+    Az unoka megrettent és egy ideig félt a nagypapától, nem tudott a kezére nézni, mert az öléssel azonosította a testrészt. A félelem idővel oldódott, de fiatal felnőtt korától már sokkal ritkábban járt nagyszüleihez.
+   </p>
+   <p>
+    Zsuzsi és öccse viszonya rosszul, mondhatni tragikusan alakult. Nemcsak szüleikből ábrándultak ki, hanem egymástól is eltávolodtak. Bár mindketten menekültek otthonról, de már akkor is külön utakon jártak. 1985-ben Zsuzsi számára véletlenül derült ki, hogy öccse is komolyan fontolgatja a „disszidálást”, végül egy időben, de egymástól mégis függetlenül hagyták el Magyarországot, és telepedtek le ugyanabban az országban.
+   </p>
+   <p>
+    Az anyai jellemzésben a komoly és szorgalmas fiának sikeresen alakult a pályája, de az anya bánatára nem alapított családot. Apja halála után a fiú visszaköltözött Budapestre, hogy egyedül maradt anyjának segíthessen. Ő intézte el néhány évvel később, hogy Vali a fővárosi idősotthonba kerüljön.
+   </p>
+   <p>
+    A két gyerek elhidegülése valószínűleg nem az emigrációban kezdődött, a komoly korkülönbség és a szétzilált család meglazíthatta a testvéri köteléket is. Zsuzsi úgy érezte, anyja sokkal többet törődött kisöccsével, mindig őt pártolta, és felnőtt korukban sem segítette a konfliktusok feloldását. A fiút Vali emlékei szerint nem érte atrocitás, sőt kifejezetten szerették a faluban. (Ebben mi nem vagyunk egészen bizonyosak, de a fiúval a kapcsolatfelvételt követően nem tudtunk többet beszélni.)
+   </p>
+   <p rend="head">
+    Apjukkal és véres tetteivel másképp küzdöttek meg. A lányból még felnőtt korában is időről-időre kibukott a téma. Valamifajta megbánást várt volna apjától, amit azonban soha nem kapott meg.
+   </p>
+   <p>
+    Azt, hogy kétszer is zsidó házastársat választott, nem pusztán apja elleni lázadása újabb jelének, hanem vélhetően bűntudatból táplálkozó tudattalan vagy tudatos jóvátételi, helyrehozási törekvésként (
+    <hi>
+     psychological restoration
+    </hi>
+    ) is felfoghatjuk. Apja miatt kialakult rossz lelkiismeretét ezekkel a döntéseivel is próbálhatta helyrebillenteni, a „bűnét” egyfajta módon „jóvá tenni”.
+   </p>
+   <p>
+    A fiú viszont feltehetően egy ideig elfogadta anyja sajátos megküzdési módját, azaz a múlt eltemetését, kivonását a jelenből, ha ez a családi béke ára. Ugyanakkor ő sem akart vagy bírt a családban megmaradni – egy ponton elege lehetett a képmutatásból és külföldön kezdett új életet.
+   </p>
+   <p>
+    A testvérek eközben olyannyira beszüntették kapcsolatukat, hogy a fiú még édesanyjuk halálakor sem szólt nővérének, aki másoktól értesült Vali elhalálozásáról és temetésének idejéről, amin így nem is tudott résztvenni.
+   </p>
+   <p>
+    <hi>
+     A cikksorozat
+     harmadik, záró részét
+     jövő héten közöljük.
+    </hi>
+   </p>
+   <p>
+    A múltat rekonstruáló és értelmező történész nem lelkesedik a nevek és a források titkosításáért, de a narratív műfajokkal dolgozó társadalomkutató bizony gyakran kénytelen anonimizálni a szenzitív adatokat. Itt is így történt. Holott a Kádár-rendszer a hatvanas évek végén intő példaként néhány bűnöst néven nevezett, míg a többség tetteit nem firtatta, mi a szövegben igyekeztünk minimálisra csökkenteni a nevek és földrajzi helyek használatát. Néhol az olvashatóság és a megértés céljából mégis írtunk neveket, de minden egyes esetben megváltoztattuk azokat.
+   </p>
+  </body>
+ </text>
+</TEI>

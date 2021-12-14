@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Stop Habony! – Avagy miért nem iratkozom fel a „Soros-listára”
+    </title>
+    <author>
+     <persName>
+      Gyimesi Mihály
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     cf244665-c87d-59b3-b423-1431c0f50741
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Stop Habony! – Avagy miért nem iratkozom fel a „Soros-listára”
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Gyimesi Mihály
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-04-19T22:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/04/19/stop-habony-avagy-miert-nem-iratkozom-fel-a-soros-listara/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/04/19/stop-habony-avagy-miert-nem-iratkozom-fel-a-soros-listara/
+     </sch:url>
+     <sch:name>
+      Stop Habony! – Avagy miért nem iratkozom fel a „Soros-listára”
+     </sch:name>
+     <sch:datePublished>
+      2018-04-19T22:00:00
+     </sch:datePublished>
+     <sch:author>
+      Gyimesi Mihály
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      gyűlöletkampány
+     </sch:keywords>
+     <sch:keywords>
+      soros-zsoldos
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="cf244665-c87d-59b3-b423-1431c0f50741">
+     <sch:identifier>
+      urn:uuid:02790047-3928-4c93-a4e4-26e4a1d2441c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:32.814900
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:50:57.482918
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="cf244665-c87d-59b3-b423-1431c0f50741" when="2021-12-14T15:30:32.814900">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Stop Habony! – Avagy miért nem iratkozom fel a „Soros-listára”
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+    Nyilván aljas, színvonaltalan, visszataszító dolog ez a
+    listázgatás
+    . A szolidaritásból
+    listára-jelentkezés
+    viszont hiába szép gesztus, a fideszes párhuzamos-valóságot erősíti, és ennyiben kifejezetten kontraproduktívnak gondolom. Praktikusan nem védünk meg senkit egy ilyen akcióval, szimbolikusan pedig pont úgy viselkedünk, ahogy azt a Fideszes propagandisták szeretnék.
+    Orbán pár hete
+    jelentette be
+    , hogy kétezer Soros-zsoldos dolgozik Magyarországon a kormány ellen. Ezután a Figyelő összeizzadt kábé kétszáz nevet teljesen amatőr módon, többek között
+    húsz éve halott tudósokat felsorolva
+    . Ezek után biztos, hogy az a legjobb reakció, hogy önkéntesen tovább-bővítjük a listát,
+    a Figyelő tapsikolása
+    közepette, hogy végül legyen a kormányzati kommunikáció számára egy önkéntesen kiegészített,
+    továbbfejlesztett verzió
+    , amire hivatkozhat?
+    Sajnos teljesen mindegy, hogy valaki a szolidaritását akarta kifejezni például a listázott szociális munkásokkal, tudósokkal és újságírókkal, vagy csak a helyzet szürrealitását akarta megmutatni, ki akarta röhögni a Figyelős cikket. Mire a kormányzati médiagépezeten átfut az ön-listázás, addigra úgyis valami ilyesmi lesz majd belőle, hogy „Na ugye, mi megmondtuk. Rengetegen vannak a Soros zsoldosok, még büszkék is rá, tessék elolvasni a Figyelőben az új listát „. És sokakhoz csak ez az üzenet fog eljutni az egész akcióból, amilyen a mostani média-helyzet.
+    Ne tegyük már meg azt a szívességet a Fidesznek, hogy a ránk osztott ellenzéki szerepet játsszuk el már megint! Az ellenzékiek egymás felé ezerféle módon kifejezhetnek szolidaritást, a kormányt pedig a tiltakozás csak nagyon kivételes esetekben veszi rá bármi változtatásra. A kivételes esetek pedig jellemzően nem a mi (esetemben a budapesti, balos) szubkulturális közegünk zsigeri, teljesen kiszámítható ellenreakcióiból születnek meg. Ha praktikusan meg lehet védeni embereket vagy szervezeteket, akkor védjük meg őket! Tisztán szimbolikus harcokba viszont csak akkor van értelme belemenni, ha a Fidesz-szavazók és a bizonytalanok felé jó üzenetet tudunk közvetíteni. Nyilván nem tudom, nem is tudhatom, hogy mi lenne a megfelelő ellen-reakció egy ilyen listázós esetben, hiszen alapvetően újra kell gondolni az értelmes politikai cselekvés lehetséges formáit a vereség után (pl.
+    itt
+    és
+    itt
+    ), akármennyire is torz választási rendszerben tudott újra kétharmadot szerezni a Fidesz.
+    Valószínűleg több értelme van a listázott szervezetek értékeiről kommunikálni, az ő reakciókat felerősíteni. Például annak a sajtóközleménynek az érveit megismertetni az ellenzéki buborékon kívül is, ami beszámol arról, hogy
+    „
+    (…) a Romaversitas Alapítvány továbbra is egy kicsi, magyarországi civil szervezet, amely roma középiskolásokat segít abban, hogy a magyar oktatási rendszer által ki nem egyenlített hátrányokat leküzdve egyetemistákká válhassanak, egyetemistaként pedig segíti őket abban, hogy minél sikeresebben fejezzék be egyetemi tanulmányaikat. Illetve abban is igyekszünk őket támogatni, hogy a munkaerő-piacon versenyképes fiatal felnőttekké váljanak. Egy olyan Magyarországért dolgozunk, ahol minden gyerek, származásától és családja anyagi helyzetétől függetlenül ugyanolyan esélyekkel indul az életben, és minőségi oktatásban részesül. Húsz éves fennállásunk alatt hozzájárultunk ahhoz, hogy több mint 300 roma diák szerezzen diplomát, és váljon jól felkészült, sikeres szakemberré. A diákjaink, támogatóink és partnereink visszajelzései alapján is úgy gondoljuk, hogy jó és Magyarország jövőjét előmozdító tevékenységet végzünk. Sőt, a magyar kormány is úgy gondolta néhány éve, hogy érdemes az ország szempontjából hasznos tevékenységünket kiemelni a Nemzeti Társadalmi Felzárkózási Stratégiában. Teljes mértékben átláthatóan működünk, valamennyi közhasznúsági jelentésünk megtalálható a honlapunkon. (…)”
+    Úgy gondolom, hogy sok Fidesz-szavazó számára lehetne szimpatikus például a Romaversitas tevékenysége is, amin keresztül el lehetne jutni oda, hogy szkeptikussá váljanak a gyűlölet-propagandával szemben. Fogalmam sincs, hogy hogyan lehet feléjük hatékonyan kommunikálni ezt az üzenetet az alapítvány valódi tevékenységéről, illetve, hogy milyen más üzenetek működhetnek jól. Abban vagyok csak biztos, hogy több értelme van
+    ilyesmin gondolkozni
+    , mint bármennyire is jóhiszeműen továbbra is saját magunknak üzenni azt nyilvánosan, hogy kiállunk egymásért. Utóbbi ugyanis nem valamiféle pozitív társadalmi hatás kifejtésének, hanem a szektásodásnak az útja.
+    Címlapkép forrása: krisztoforo.tumblr.com
+   </p>
+  </body>
+ </text>
+</TEI>

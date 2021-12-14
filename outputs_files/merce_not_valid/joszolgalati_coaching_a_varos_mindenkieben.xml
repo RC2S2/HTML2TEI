@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jószolgálati coaching A Város Mindenkiében
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2ba873f8-5ae3-5f47-8bf3-d10302c282ad
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Jószolgálati coaching A Város Mindenkiében
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2014-01-09T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2014/01/09/joszolgalati_coaching_a_varos_mindenkieben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2014/01/09/joszolgalati_coaching_a_varos_mindenkieben/
+     </sch:url>
+     <sch:name>
+      Jószolgálati coaching A Város Mindenkiében
+     </sch:name>
+     <sch:datePublished>
+      2014-01-09T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      avm_akadémia
+     </sch:keywords>
+     <sch:keywords>
+      támogatás
+     </sch:keywords>
+     <sch:keywords>
+      adomány
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2ba873f8-5ae3-5f47-8bf3-d10302c282ad">
+     <sch:identifier>
+      urn:uuid:32a56bae-81de-45bb-a7fc-9b1e3c7382b7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:42.472095
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:11:02.552711
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2ba873f8-5ae3-5f47-8bf3-d10302c282ad" when="2021-12-14T15:30:42.472095">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Jószolgálati coaching A Város Mindenkiében
+   </head>
+   <p>
+    Ez a cikk több mint 7 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié több, mint tíz tagja vett részt a Nemzetközi Coaching Szövetség (ICF)
+     magyar tagozatának
+     Jószolgálati programjában. Alább két tagunk beszámolója a nagyon pozitív tapasztalatokról.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Csuhai Ági:
+    </hi>
+    Részemről hasznos volt, mert teljesen másképp működik, mint egy pszichológussal való beszélgetés. Indultunk egy beszélgetésből és a coach kérdéseire válaszoltam. Miközben folyt a beszélgetés, már a szavaimból és abból, ahogyan beszélek látta, hogy min kell változtatni. Hogyan gondolkozzak, hogyan ejtsem a szavakat. Ezzel teljesen más irányt vett az egész dolog: rávilágított az értékeimre! A jó tulajdonságaim és erősségeim leírásával megerősödött az önbizalmam. Tisztába jöhettem az értékeimmel, ezért nyugodtan a tükör előtt is vállon veregethetem magam. Igazán büszke lehetek mindarra, amit az életben elértem és megtettem.
+   </p>
+   <p>
+    A foglalkozás előtt egy skálát készíttetett velem: hol állok a céljaimban. Egy későbbi alkalomkor újra megnéztük, hogy mire jutottam. Apránként elérem céljaimat. Ez azt jelenti, hogy jöhetnek újabbak.
+   </p>
+   <p>
+    Tetszett, amikor felíratta a 4 szót, ami a döntéshozásnál segít. Ha mindegyikre igen a válasz, akkor megtehetjük: 1. Fontos? 2.Indokolt? 3.Lehetséges? 4.Érdemes?
+   </p>
+   <p>
+    Házi feladatom volt a szavakra figyelni (pl. kártékony kifejezések). Fontos téma volt még az asszertivitás – önérdekérvényesítés – énközlés. Például emberi hanggá változtatni a hisztit. Figyelni, hogy mi a valódi lényeg! Az utolsó házi feladat: Mire lehetek büszke?
+   </p>
+   <p>
+    Érdekes szemszögből tanultam meg magamat nézni, és a dolgokat, helyzeteket is. Tanultam a foglalkozásokból. Szimpatikusak voltunk egymásnak, legalábbis én úgy érzem. Eléggé oldott alkalmak voltak. Köszönöm a lehetőséget. Szerintem előbbre vitt!
+   </p>
+   <p>
+    —————————————————————————————————————————————–
+   </p>
+   <p>
+    <hi rend="bold">
+     Lakatosné Jutka
+    </hi>
+    : A Város Mindenkié rendszeres képzési lehetőségei között új alkalom nyílt egy olyan fajta önképzésre, amellyel tagjaink saját magukat erősíthetik, és tanulhatnak sok mindent, többek között önuralmat, lojalitást, elfogadó képességet, és bármi mást, amit saját maguk újra felépítéséhez szükségesnek éreznek.
+    Én a magam részéről örültem ennek a lehetőségnek, mert a hirtelen, vad, robbanó emberek közé tartozom. Amikor valamivel nem értek egyet, valami sérelmes számomra, vagy annak vélem, azonnal bedurran a fejem és hirtelen haragomban kígyót-békát összehordva török ki. Tudtam, éreztem, hogy szükségem van segítségre, mert – mind magán, mind közösségi – életem megnehezítik hirtelen dühkitöréseim még akkor is, ha valahol szeretek lenni, és a szeretet fűz oda.
+    Első találkozásom a coachommal várakozásteljes volt. Biztos voltam benne, hogy muszáj elmondanom, mire kérem a segítséget, de féltem attól, hogy olyan nevelési instrukciókat fogok kapni, amit – már csak koromnál, és akaratos egyéniségemnél fogva – nem leszek hajlandó tudomásul venni, elfogadni.
+    És jött a meglepetés! Egy mosolygós, életvidám, reális szemléletet nyújtó, végtelenül elnéző, kedves hölggyel találkoztam. Érdekes módon egyáltalán nem esett nehezemre elmondani, hogy hebehurgya, hirtelen kitörő, akaratos egyéniség vagyok még akkor is, ha utólag – sérelmem, vagy vélt sérelmem miatti dühöm múltával – meg is bánok mindent. Meséltem indulataimról, arról a gyengeségemről, hogy képtelen vagyok az adott pillanatban számolni magamban, mérlegelni a dolgokat, más szemmel nézni a problémát. Egyszerűen abban a pillanatban képtelen vagyok türtőztetni magam, akár megalkudni, csak fújom-fújom a magamét.
+    Minden pedagógiai tanítás, minden erőszakos ráhatás, minden sértő, vagy pátyolgató nevelési, átalakítási szándék nélkül fordult problémám felé a coach, és igazán felszabadultan, vidáman állapodtunk meg a következő találkozóban.
+    Összesen öt alkalommal találkoztunk. Soha nem láttam fáradtnak (pedig dolgozó nő és édesanya), érdektelennek (pedig akár az is lehetne a hülyeségeim hallatán). Türelmesen, erőt és bizalmat adva a – változtatási lehetőségek megvalósításában – szeretettel, emberi melegséggel fordul felém, ami a vállalt munkánál sokkal, de sokkal több! Mindig nagyon jól érzem magam vele, örömmel találkozom újra és újra. Azt megbeszéltük, hogy más az előírt időszak és más az a helyzet, amikor még szükségét érzem lelki támogatásának.
+    Amit ez alatt a pár találkozás alatt tapasztaltam, hogy már nem durranok olyan hamar – bár még elő-elő fordul – valamit tanultam a mérlegelésből, és elnézőbb, megértőbb lettem. Azt tanultam, hogy józan fejjel kell harcolnom az igazamért, át kell beszélnem és mérlegelnem a helyzetet. Azt tanultam, hogy ahogy nekem van hibám, úgy másnak is van és ezt nem szabad hátrányként kezelni senki esetében. Segíteni kell abban, hogy felismerje és – ha tud – változtasson rajta. Tehát megértőn kell fordulni mások felé!
+    Azt viszont tudom, hogy még nem akarom, hogy a coachom elengedje a kezem: nagyon felszabadult vagyok minden találkozás után, derűsebb a világ, könnyebben viselek el sok mindent magam körül. Nagyon szeretek vele találkozni, dumcsizni, olyan – régen elfeledett – érzéseket kelt életre bennem, amit életmódom miatt már régen elfelejtettem.
+    Kevés a szó, de… KÖSZÖNÖM!
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

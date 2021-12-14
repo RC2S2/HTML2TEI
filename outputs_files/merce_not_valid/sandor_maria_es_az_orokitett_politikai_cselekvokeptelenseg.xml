@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Sándor Mária és az örökített politikai cselekvőképtelenség
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e8831236-14d1-52cf-9c2f-b5d071ee0506
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Sándor Mária és az örökített politikai cselekvőképtelenség
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-04-14T10:04:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/04/14/sandor_maria_es_az_orokitett_politikai_cselekvokeptelenseg/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/04/14/sandor_maria_es_az_orokitett_politikai_cselekvokeptelenseg/
+     </sch:url>
+     <sch:name>
+      Sándor Mária és az örökített politikai cselekvőképtelenség
+     </sch:name>
+     <sch:datePublished>
+      2016-04-14T10:04:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      tiltakozás
+     </sch:keywords>
+     <sch:keywords>
+      civil
+     </sch:keywords>
+     <sch:keywords>
+      mozgalom
+     </sch:keywords>
+     <sch:keywords>
+      tanítanék
+     </sch:keywords>
+     <sch:keywords>
+      sándor_mária
+     </sch:keywords>
+     <sch:keywords>
+      netadó
+     </sch:keywords>
+     <sch:keywords>
+      haha
+     </sch:keywords>
+     <sch:keywords>
+      milla
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e8831236-14d1-52cf-9c2f-b5d071ee0506">
+     <sch:identifier>
+      urn:uuid:dee4c116-4927-4c6e-b36b-acc9cd3de394
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:01.225604
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:22:24.572690
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e8831236-14d1-52cf-9c2f-b5d071ee0506" when="2021-12-14T15:31:01.225604">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Sándor Mária és az örökített politikai cselekvőképtelenség
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    „Tehetetlen vagyok”, „mit csináljak, forradalmat?” – ezeket a kérdéseket tette fel Sándor Mária a Népszabadságnak adott interjújában, ahol elmagyarázta, miért kíván hátrébb lépni, és bejelentette, hogy akkor folytatja az ellenállást, ha április 15-én az egészségügyi dolgozók a tanárok mellé állnak.
+   </p>
+   <p>
+    Sándor Mária fenti kérdései a mieink is, és a teljes magyar társadaloméi. Ezek a kérdések nem másról árulkodnak, mint a politikai cselekvőképtelenségről, az ellenzéki stratégia hiányáról, a politikai tudás hiányáról. Mégis, a magyar sajtó úgy hozta le Sándor Mária sztoriját, illetve az ellenzéki véleményvezérek úgy élik meg, mintha itt a tehetetlenség érzésének, az elfáradásnak nem lenne mélyebb politikai alapja.
+   </p>
+   <p>
+    (Fotó: MTI / Szigetváry Zsolt)
+   </p>
+   <p>
+    A tehetetlenség érzése ugyanis abból fakad, hogy nem látjuk a célt, és nem látjuk az oda vezető utat, nem látjuk, milyen eszközökre van szükség a cél eléréshez. A forradalomcsinálásról szóló elmélkedés pedig a végső elkeseredés megjelenítése a szövegben.
+   </p>
+   <p>
+    Ez a politikai cselekvésképtelenség, amely a stratégia-, eszköz- és célhiánnyal párosul, elég konkrét dolgokban mutatkozik meg. Sándor Mária (de mondhatnánk a tiltakozó tanárokat vagy a netadós tüntetések, sőt akár még a Milla szervezőit is) nem képes hálózatokat létrehozni, tartalommal feltölteni és működtetni azokat. Rendszert létrehozni a politikai céljaik érdekében. Sokszor még a célokat sem tudják kijelölni. Valójában egy mondatban Sándor Mária sem tudja megfogalmazni a saját politikai üzenetét, a tiltakozó tanároknál pedig láthattuk a 4, 12, valamint 25 pontot. (Önmagában nem azzal van a gond, hogy több pontos követeléseket fogalmaznak meg, de ezeknek mind egy, a társadalom egésze által átélhető, jól kommunikálható központi üzenetből kellene kinőniük)
+   </p>
+   <p>
+    Pénteken több fajta tiltakozás is lesz. Sándor Mária kérésében eredetileg az egészségügyi dolgozókat hívta fekete ruhában tiltakozni, az egészségügy állapota, és a tanárokkal való szolidaritás miatt, de mivel számos kórházban megfélemlítik a dolgozókat és tiltják a fekete ruha felvételét, ezért minden állampolgárt arra kér, 8 óra és 10 óra között menjen el egy egészségügyi intézményhez feketében és legyen szolidáris a megfélemlített dolgozókkal. Sándor Mária akciója csatlakozik az oktatásban a PDSZ által szervezett két órás figyelmeztető sztrájkhoz, amelyhez a Tanítanék mozgalom is csatlakozott. Ők is azt kérik az állampolgárok menjenek el egy oktatási intézményhez kockás ingben. Így lesz a pénteki kockás/fekete nap. Részletek itt:
+    https://www.facebook.com/events/1726641580890918/
+   </p>
+   <p>
+    Alapvetően, ahelyett, hogy a társadalomban mozgalmi struktúrákat hoznának létre, ezek az ellenzéki szerveződések, a médiára bízzák társadalmi üzenetük eljuttatását, ami sikertelenségre van ítélve, mivel az üzeneteik, csak felületesen, és nem mindig a mozgalom céljainak megfelelő módon és időben jutnak el az aktivizálható csoportokhoz, a mozgalmak teljesen kiengedik a kezükből az üzeneteik „lefordítása”, átadása fölötti ellenőrzést. Emiatt pedig védtelenné, kiszolgáltatottá válnak. Egy defenzívebb szakaszban, a média támogatásának elvesztése után pedig alig marad csatorna, amelyen keresztül tudják mozgósítani az őket támogató embereket.
+   </p>
+   <p>
+    <hi rend="bold">
+     De hogy lehet saját médiát, elérést kialakítani?
+    </hi>
+   </p>
+   <p>
+    Az internet korában erre már számos eszköz van, amelyek egy részét használják is a mozgalmak, de rosszul. És itt nem csak arról beszélünk, hogy külső kommunikációra Facebook-csoport alakul Facebook-oldal helyett, hanem arról is, hogy mit kezdenek ezekkel az eszközökkel. Ugyanis a kommunikáció és a mozgósítás egy munka, amihez érteni kell. Az elmúlt hat évben elvétve volt olyan tüntetés, ami mozgósítási tervvel rendelkezett volna. Ezek a mozgalmak nem használják Facebook-oldalaikat érvek átadására, ellenvélemények megválaszolására, mozgósításra, hanem legtöbbször csupán nekik tetsző linkeket vagy sajtóközleményeket osztanak meg átmásolva. Nem kérik a követőket arra, hogy aktivistaként a Facebookon, e-mailen, személyes beszélgetésben az ismerőseiknek terjesszék az információkat.
+   </p>
+   <p>
+    De az elmúlt hat évben nulla olyan mozgalom volt, amely eljutott odáig, hogy telefonszámot kérjen a követőktől. Pedig már viszonylag olcsón lehet ingyen sms-eket vagy automata telefonhívásokat használni mozgósításhoz.
+   </p>
+   <p>
+    Hiba az is, hogy ha gyűjtenek is e-mail-címeket, legtöbbször nem használják azokat semmire, vagy csupán ömlesztett linkeket, illetve pár soros semmitmondó szövegeket írnak, valódi mozgósítás helyett. Persze ezek a módszerek erőforrást igényelnek, de akár már nagyon rövid távon is meg tudnak térülni ezek az erőforrások. És ez a pár sor még ízelítőt sem tudott abból adni, mennyi lehetőség van a hagyományos médián kívüli kommunikációban, nem beszélt például a kitelepülésekről, plakátokról, szórólapokról.
+   </p>
+   <p>
+    A támogatóiknak nem adnak közösségi identitását, és nem segítenek nekik iránymutatással napi szinten a felmerülő kérdések, viták kapcsán. Nem adnak muníciót a véleményvezéreknek, mert a többségükhöz el sem jutnak. Amikor mégis ilyen történik véletlenül, mint például a kockás ingnél, az identitásképzés óriási érzelmi energiát ad a mozgalmaknak, de mivel nem használják ki ezeket az energiákat, csupán ideig-óráig mozgatja jó irányba ezeket a tüntetéseket.
+   </p>
+   <p>
+    <hi rend="bold">
+     De mit lehetne tenni a médiára bízott üzeneteljuttatás helyett?
+    </hi>
+   </p>
+   <p>
+    A fejlett politikai rendszerekben, minimum Barack Obama első elnökjelölti kampánya óta, a Greenpeace-től Donald Trumpig, az Amnesty-től az egyszerű, együgyes tiltakozó kampányokig az
+    <hi>
+     engagement
+    </hi>
+    szó körül forog minden, amit magyarul bevonásnak hívhatnának. A kérdés ebben az, hogyan tudjuk leghatékonyabban a állampolgárt úgy meggyőzni és annyira bevonni, hogy lehetőleg minél több szabad erőforrását, pénzét, kapcsolati hálóját, szabad idejét az ügyünknek áldozza. Egy jó kampány akkor hatásos, ha a velünk szimpatizáló állampolgár túljut azon, hogy csupán megnéz rólunk egy hírt a tévében, és eljut addig, hogy belájkolja a Facebook-oldalunkat, megadja az e-mail-címét, innentől kezdve pedig apróbb lépésekben, az elköteleződését vizsgálva, egyre jobban megpróbáljuk bevonni, egyre nagyobb lépéseket kérünk tőle, az ismerőseinek a meghívását, pénzadományt, önkéntesnek való jelentkezést, a körülötte lévő emberek megszervezését, végül pedig a csapatunkhoz való csatlakozást. Persze ez akkor működik jól, ha előre ki van találva az az út, amin keresztül valódi feladatokkal tudjuk felruházni a velünk szimpatizáló állampolgárt, folyamatos visszajelzésekkel látjuk el, és előre kitalált szerepekbe tudjuk helyezni őt. Ha egy ilyen rendszert felépítünk, óriási erőforrásokat lehet spórolni, és ha ehhez jó kommunikáció, megfelelő és érthető célok társulnak, már kész is van a mozgalmunk.
+   </p>
+   <p>
+    Fontos az is, hogy nem ismerik fel a tiltakozó mozgalmak szervezői saját hatalmi helyzetüket, így nem is tudják értékelni azt, és ezt figyelmen kívül hagyva cselekednek, hoznak létre saját maguk működtetésére struktúrákat, amelyek zártak lesznek, mivel az információs és egyéb hatalmi monopóliumot senki nem akarja kiengedni a kezéből.
+   </p>
+   <p>
+    <hi rend="bold">
+     Mi az a hatalmi monopólium és miért baj?
+    </hi>
+   </p>
+   <p>
+    Egy olyan szervezetben, amelyben csak és kizárólag önkéntesek dolgoznak és az információáramlás, illetve a szervezet működése nincs alapvető szabályok által lefektetve, hanem véletlenszerűen, az éppen elvégzendő munkára való ráérés alapján alakul ki, a legtöbb szabadidővel és legtöbb energiával rendelkező, a magukat leginkább kompetensnek érző emberek fogják a munka nagy részét elvégezni, és az ő kezükben fognak az információk összpontosulni. Ez pedig hatványozottan így lesz, ha szoros határidőkkel és feszes tempóban zajlik a munka, hiszen az információ- és időtöbblettel rendelkező emberek fognak ráérni a munkára, így ők jutnak az információk birtokába, de nem lesz idejük az információk átadására, és egyre kisebbre zárják a kört maguk körül. Ennek következményeként viszont nem lesznek képesek új embereket bevonni, és a túlterheltség alatt össze fog omlani az egész mozgalom azon a ponton, ahol a szűk embermennyiségre az általuk elvégezhetőnél több munka jut. Először csak egyes munkák nem kerülnek elvégzésre, majd az el nem végzett munkák miatti, és az esetleges kudarcokból érkező sikertelenség miatt csökken a motiváció, ezáltal pedig az önkéntes munkakedv, és szép lassan már lényeges munkák maradnak elvégezetlenül. Mindeközben azok, akik az információhiány miatt nem tudnak bekapcsolódni a munkába, kiszorítva érzik majd magukat, és minden hibáért az aktívan dolgozókat okolják, miközben a munkát elvégzők azokat fogják hibáztatni, akik nem dolgoznak, az információhiány és a bekapcsolódás lehetősége miatt.
+   </p>
+   <p>
+    Csakhogy ezekért a hibákért nem lehet a felelősséget kizárólag a mozgalmak, személye nyakába varrni, hanem fel kell térképezni azokat a működési dinamikákat, amik ezt a helyzetet minden alkalommal újra előállítják. Ma azok a tapasztalatok, készségek, cselekvési módok, procedurális tudások, amelyek egy működőképes és hosszú távon is fenntartható mozgalom létrehozásához szükségesek, beszerezhetetlen az ellenzéki baloldali és liberális térfélen. Ennek pedig három oka van:
+   </p>
+   <p>
+    1. A legkevésbé fontos és a legkönnyebben áthidalható az, hogy ezek ma a kormánypárt demonizáló kampányai miatt tiltott tudások. Saul Alinsky amerikai író állítólagos veszélyes tanai miatt támadták először az ellenzéki mozgalmakat – akkor, amikor még a tiltakozók nagy része nem is tudta ki ő, és mára újra nem tudja senki. De támadtak mindenkit, aki külföldi segítséget, pénzt vagy képzést vesz igénybe, és hazaárulónak címkézik őket, pedig Kubatov Gábor még idén is az amerikai elnökválasztási kampányra ment tanulmányútra. Sőt azokat is támadják, akik olyan emberekkel dolgoznak együtt, akik már korábban bármilyen politikai cselekvésben részt vettek.
+   </p>
+   <p>
+    2. De fontos pont az is, hogy a politikáról a magyar közbeszésben csupán mint egyszeri, a semmiből előbukkanó történésekről van szó. A diskurzusban nem szerepel az, hogyan lehet bármilyen politikai aktivitást kezdeni, nem beszélünk arról, miben hibáznak az egyes politikai szereplők. Nincs szó arról, hogy a politikai eseményeket meg kell tervezni, fel kell építeni, hogy a politika harcait embertől emberig kell megvívni. Semmilyen kritikai elemzés nem jelenik meg a politika működéséről, nem is része a politikáról alkotott diskurzusnak az, hogy milyen eszközök vannak a politizálásra.
+   </p>
+   <p>
+    3. A legfontosabb pont maga a baloldali-liberális politikai elit kihalása és újratermelődésének hiánya. 2006 után, ahogy egyre közeledett a biztos választási vereség, sorra hagyták ott az MSZP-t, majd a megszűnő SZDSZ-t, a politizáló emberek, ők pedig nem új, civil politikai projektekben, hanem a magánszektorba vagy magánéletükbe visszavonulva folytatták pályafutásukat, ezzel pedig lényegében azokat a technikákat, ismereteket nem örökítették tovább, amelyek a politizáláshoz vagy a politikai cselekvés megértéséhez és véghezviteléhez kell. Egy hasonló folyamat játszódott le az LMP szétválásánál is, ahol lényegében a megfelelő tudás híján két cselekvőképtelen párt jött létre, melyekből a politikai tudás a cselekvőképtelen pártokban csalódott alkalmazottak és párttagok képében elszivárgott.
+   </p>
+   <p>
+    De így történt ez a mozgalmi aktivizmusban is. A nagyobb társadalmi megmozdulások vezéralakjai, a politikai cselekvések végrehajtói nem nevelték ki maguk után a következő generációt, sokszor már magában a politikai cselekvésben is hatalmai pozícióikat tartották meg, és nem tanítottak ki embereket, egyszerűen nem vontak be azokat, akik továbbvihették volna a tudást.
+   </p>
+   <p>
+    A HAHA első generációja például egyszerűen visszavonult, az utánuk jövők pedig elfáradtak és feladták az oktatási harcot, és lényegében szétszéledtek. Az Alkotmány Nem Játék szintén egyszerűen elfáradt, megfelelő struktúrák és a bevonás kereteinek megteremtése hiányában. A Millából a politikailag aktív emberek egy része átment az Együttbe, majd onnan tűnt el a politikából, a másik fele, pedig egyszerűen nem tartott az Együttbe, és kiszállt. A netadós tüntetések több szervezői csoportja közül van, aki még aktív, de nem tudott bevonást, és ezzel valódi támogatottságot, vagyis a mozgalmának folytatását elérni. Ezeknek a mozgalmaknak a vezetői félrehúzódtak, és személyes életükre, sokszor a politikától elég távoli, vagy csak részben politikai projektjeikre koncentrálnak, ami mellett nem érzik azt, hogy lenne idejük és kedvük újra frontpolitikai küzdelmeket vívni.
+   </p>
+   <p>
+    Az én személyes történetem is ilyen, különböző ellenzéki csoportokban szerveztem számtalan rendezvényt, akciót az elmúlt hat évben. De nem ismertem fel, csupán mára, hogy mennyire rosszul csináltam azt, hogy centralizáltan magamnál tartottam bizonyos hatalmi szálakat, nem koncentráltam a tudásátadásra és a bevonásra. Mennyire nem voltam kreatív, ha a megszokott eszközhasználatról volt szó, és mennyire nem figyeltem az aktivisták információval való ellátására, információátadásra, szervezetépítésre, ezzel pedig sokszor inkább blokkoltam azt, hogy valamiféle mozgalomcsíra jöjjön létre, amely hosszú távon kevés hasznot hozott.
+   </p>
+   <p>
+    Az elmúlt hat év különböző mozgalomcsíráinak, tüntetéseinek, akcióinak szervezői nemhogy azt nem érezték kötelességüknek (nagyon nagy tisztelet a kivételnek), hogy megkeressék Sándor Máriát vagy a tiltakozó tanárokat, és átadják nekik azt a tudást, amit felhalmoztak, hanem a nyilvánosságban sem írnak, nem mondják el azokat a politikai tudásmorzsákat, amiket megszereztek. Akár csak annyit, hogyan kell megszervezni egy tüntetést, hogyan rontották el például ők anno azt, vagy hogyan lettek sikeresek, mi ebből a tanulság. Amikor 2015 októberében levelet írtunk 40 embernek, akik részt vettek a netadós tüntetések szervezésben, hogy egy cikksorozat keretében vonjuk le a tanulságot, 3 olyan ember volt, aki valóban elkészített valami értékelést.
+   </p>
+   <p>
+    Pedig ha a nyilvánosságban nem beszéljük át ezeket úgy, hogy eljussanak a potenciális politikai kezdeményezések elindítóihoz, ők is újra és újra azokba a hibákba fognak belesni, amikbe mi, így pedig újratermeljük az ellenzéki akciók sikertelenségét, sőt a társadalomnak sem tesszük lehetővé, hogy a valóságban megértsük a politikai történéseket, így pedig hiábavaló lesz az a munka, amit korábban elvégeztünk. Csupán nosztalgiasörözések részévé válik.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    Támogass havi 1000 forinttal:
+   </p>
+   <p>
+    További vállalásaink és támogatási lehetőségek
+   </p>
+   <p>
+    A Kettős Mérce csak akkor tud működni, ha te is támogatod! A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét akkor tudjuk hosszú távon fenntartani, ha legalább 600-an támogattok minket. Jelenleg 220 állandó támogatónk van. Ha szerinted is szükség van egy olyan baloldali és független lapra, mint a Mérce,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

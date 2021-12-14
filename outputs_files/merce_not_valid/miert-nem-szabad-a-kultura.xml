@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Miért nem szabad a kultúra?
+    </title>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     43249228-7dd3-52a3-8985-219a1a00b502
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Miért nem szabad a kultúra?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-20T19:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/20/miert-nem-szabad-a-kultura/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/20/miert-nem-szabad-a-kultura/
+     </sch:url>
+     <sch:name>
+      Miért nem szabad a kultúra?
+     </sch:name>
+     <sch:datePublished>
+      2020-02-20T19:30:00
+     </sch:datePublished>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      kultúra
+     </sch:keywords>
+     <sch:keywords>
+      mi a teendő?
+     </sch:keywords>
+     <sch:keywords>
+      hegemónia
+     </sch:keywords>
+     <sch:keywords>
+      OHA
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="43249228-7dd3-52a3-8985-219a1a00b502">
+     <sch:identifier>
+      urn:uuid:46758f6f-ae41-4baf-940c-ed4513a8486d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:53.503865
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:02:15.386530
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="43249228-7dd3-52a3-8985-219a1a00b502" when="2021-12-14T15:30:53.503865">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Miért nem szabad a kultúra?
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Tíz éve van a Fidesz hatalmon, és kulturális politikájának liberális kritikusai 2013-as
+    jelentésük
+    után újabb átfogó
+    elemzéssel
+    álltak elő. Az Oktatói Hálózat tagjai által összeállított dokumentum részletes és közérthető összefoglalója azoknak a változásoknak, amelyek az utóbbi tíz évben az intézményrendszer területén történtek. Azonban a kiadványnak az okokkal, mechanizmusokkal és a megoldási javaslatokkal foglalkozó része nem haladja meg a régi liberális kultúraértelmezés kereteit.
+   </p>
+   <p rend="head">
+    A 2010 előtti kultúrpolitika ugyan törekedett minél inkább az állam hatáskörén kívülre terelni a kultúrafinanszírozás terhét, ám mivel ez folyamatosan kudarcba fulladt, a döntéshozók kénytelenek voltak korrigálni, méghozzá az államon keresztül.
+   </p>
+   <p>
+    Például a most olyannyira védett Nemzeti Kulturális Alap (NKA) a világgazdaság centrumországaiban létrehozott, államon kívüli alapítványok mintájára készült (pl. NEA az USA-ban vagy a Arts Council az Egyesült Királyságban). Egy ilyen alapítványnak az lett volna a feladata, hogy befogadja a piaci szereplőktől kapott támogatásokat, és azokat különböző szakmai testületek útján, a kulturális munkások által felállított szempontok szerint újraossza.
+   </p>
+   <p>
+    Az NKA azonban nem váltotta be a szakma által hozzáfűzött reményeket, a pályázati rendszere elsősorban az erőforrások szűkülését
+    palástolta
+    , és a döntései során gyakran politikai szempontok is
+    érvényesültek
+    . Emellett a piaci szereplőket sem sikerült kultúrafinanszírozásra ösztökélni, hiszen a külföldi cégek profitja nem itt realizálódik, a helyi cégek nagy része pedig a sportfinanszírozást használta marketingcélokra, hiszen fogyasztóik elsősorban sporteseményeket
+    néztek
+    .
+   </p>
+   <p>
+    Mindeközben az állami intézményeket elsősorban különböző frakciók használták a saját szövetséges kulturális elitjük újratermelésére. Tehát 2010 előtt politikailag és történeti kialakulásukat tekintve különböző csoportok között osztódtak szét a támogatások, amelyek esztétikailag és ideológiailag a nyugat-európai trendek mintájával legitimálták a tevékenységük, azt nevezve szakértelemnek. Ezzel párhuzamosan a közművelődési intézményrendszert, ami hagyományosan a kultúrához való hozzáférést külvárosi, vidéki terekben lehetővé tette, lassan leépítették.
+   </p>
+   <p>
+    A Fidesz 2010 után saját elképzelései szerint kezdte el a kulturális termelési rendszert átalakítani, viszont az új hegemón létrejöttének történetét nagyon nehéz a régi hegemón szókincsével, elemzési keretével megérteni, számon kérni.
+   </p>
+   <p>
+    A Helyzet Műhely kultúrával foglalkozó tagjainak a
+    <hi>
+     Fordulat
+    </hi>
+    őszi számában jelent meg egy
+    írása
+    , amelyben az Orbán-rendszer kultúrpolitikáját elemezték. Eszerint a rezsim nem önmagában áll, hanem egy nagyobb globális viszonyba, a kapitalista világrendszerbe ágyazódva manőverezik.
+   </p>
+   <p rend="head">
+    A tőkefelhalmozás rendszerével kritikus értelmezésünk szerint a kapitalizmusban a kultúra sosem független, mert piaci folyamatoknak alárendelt, és az uralkodó osztállyal szövetséges értelmiségen belüli viták eszköze.
+   </p>
+   <p>
+    Maga a függetlenség fogalma is a (globális) kapitalizmus logikáját és ezt a pozícióharcot fedi el. Így az OHA által megjelentetett anyag és az ott kiemelt függetlenség-fogalom is elsősorban arra hivatott, hogy a szerzőik saját pozícióit korábbi beágyazottságukkal együtt elfedje.
+   </p>
+   <p>
+    A jelentés kultúráról szóló része erősen kritizálja az állami túlhatalmat, de üdvözli a film és zene területén végbement piacosító változásokat, az intézményrendszer átalakítását pedig szakmaiatlannak, koncepciótlannak és hataloméhesnek tartja. Mivel továbbra is egy ideális piaci alapú intézményrendszer szerint képzeli el a reformokat, így a helyi állam működésének „megjavításán” keresztül látja megvalósíthatónak azokat.
+   </p>
+   <p>
+    Amire nem lát rá, az a kulturális termelés és termelők globális beágyazottsága, valamint a kultúrához való egyenlőtlen hozzáférés egyenlőtlenségeket újratermelő jellege.
+   </p>
+   <p>
+    Természetes, hogy azok, akik a 2010 előtt uralkodó liberális hegemóniához tartoztak, ezen érvek mentén kritizálják a kormányt. Nekünk azonban, akik a kapitalizmust és annak egy kelet-európai gazdasági-politikai formációját egyszerre próbáljuk vizsgálni és kritizálni, érdemes mélyebbre
+    ásnunk
+    annál, hogy hogyan lehetne a 2010 előtti status quot egy lehelettel igazságosabban visszaállítani.
+   </p>
+   <p>
+    Az elmúlt évek magyar gazdasági fellendülése a világgazdaság centrumának a válságából fakad, amelyben a globálisan már nem nyereséges ipari termelést Nyugat-Európából Magyarországra, illetve Kelet-Európába telepítik át. Ez a válságból eredő fellendülés Magyarországon egy új politikai rezsimmel is együtt jár (ennek az elemzését lásd
+    itt
+    ).
+   </p>
+   <p>
+    Ezt a 2010 utáni politikai rezsimet olyan hegemóniaépítő rezsimnek látjuk, amely részben továbbviszi a 2010 előtti gazdaságpolitikát, és kiszolgálja a nyugati tőkét – gondoljunk csak a nem kis részben a német járműipari cégek által tollba mondott rabszolgatörvényre; ugyanakkor épít egy saját nemzeti tőkésosztályt is (elsősorban az olyan, helyhez kötött iparágakban, mint az építőipar, a bankszektor vagy a mezőgazdaság).
+   </p>
+   <p>
+    Ennek a félperifériás kettős tőkefelhalmozási rezsimnek megvan az a kockázata, hogy erősen függ olyan világgazdasági folyamatoktól, amelyeket nem tud befolyásolni, valamint az, hogy a felhalmozás költségeit a munkára terheli. Ennek olyan eredményeit láthatjuk, mint a kivándorlás és a munkaerőhiány, vagy az informális reproduktív megoldások elszaporodása a
+    lakhatástól
+    az
+    ápolásig
+    .
+   </p>
+   <p>
+    Hogy kapcsolódik mindez a kulturális termelés területéhez?
+   </p>
+   <p>
+    A hegemóniaépítés nemcsak a gazdasági, hanem a gazdasági és az ideológiai-kulturális tényezők együttes formálását jelenti, mivel az anyagi dolgokat ugyanúgy nap mint nap hozzuk létre, mint a kultúrát. A hegemóniaépítés pedig nemcsak a kultúra egy sajátos szegletét jelentő professzionális kultúrában, hanem a mindennapi élet területein is létezik.
+   </p>
+   <p rend="head">
+    Ez a hegemóniaépítés nemcsak erőszakra, hanem konszenzusra is épül, és egy új „normálist” és új normákat épít. Ennek jellemző példája az, hogy a rezsim nemcsak gazdasági eszközökkel hozza létre a nemzeti burzsoáziát, hanem folyamatosan kulturális eszközökkel is erősíti ennek a fontosságát és legitimitását.
+   </p>
+   <p>
+    A rezsim építésével járó konfliktusok, harcok és kizsákmányolás elfedését célozza a konszenzust sugalló „Nemzeti Együttműködés Rendszere” kifejezés is.
+   </p>
+   <p>
+    Ez a hegemóniaépítés ugyanakkor nem jelenti azt, hogy egységes rezsim épül. Sokkal inkább egy dinamikusan változó és heterogén rezsimről van szó a kultúra területén is, ahol számos irány él együtt a Liget Projekttől a Nemzeti Szalonig, a
+    <hi>
+     Saul fiá
+    </hi>
+    tól a Nemzeti Színházon át a
+    Brain Barig
+    .
+   </p>
+   <p>
+    A kulturális termelés piacnak közvetlenül kitett területein elsősorban az inkorporáció, azaz bekebelezés az uralkodó stratégia (gondoljunk csak a filmesek és a zenészek által szinte konszenzuálisan elfogadott, alapvetően projektorientált szemléletben működő Nemzeti Filmalapra és Hangfoglaló Programra; vagy a kreatívipar kiszolgálása jegyében újjáépített MOME-ra) – e területek piacosítását, racionalizálását, nem meglepő módon üdvözli a jelentés.
+   </p>
+   <p>
+    Ezzel egyidőben a piacnak közvetetten kitett területeken, ahol elsősorban szimbolikus tétek uralkodnak, inkább az ideológiai elhatárolódás a tipikus. De ezek sohasem tisztán szétváló stratégiák, hanem tér, idő és művészeti ág szerint változnak, gondoljunk csak a Térey-ösztöndíj elfogadásának legitimitása körülötti szimbolikus
+    vitára
+    , amiben rövid idő alatt sokat változott a rezsim és az azzal kritikus értelmiségiek álláspontja is. Írásunkban pont ezért „
+    Dinamikus hatalomnak
+    ” neveztük a NER kulturális rezsimjét.
+   </p>
+   <p>
+    A kultúrharcnak nevezett vita, amely a NER hátországának különböző szereplői között folyik, nem a hegemóniaépítők és a szabadkultúra-pártiak küzdelme. Hanem sokkal inkább arról szól, hogy mi a kulturális hegemóniaépítés megfelelő modellje: egy inkorporáló, a 2010 előtti elit erre nyitott részeit is magába olvasztó stratégia; vagy egy ideológiailag lehatároltabb, markánsabb, az új rezsimet közvetlenebbül támogató módszer.
+   </p>
+   <p>
+    Az inkorporáló stratégiát a rezsimen belülről azért kritizálják, mert elmossa az új kulturális hegemónia határait; az ideológiailag tisztábbal szemben azt szokták felhozni, hogy nem lesz elég hatékony.
+   </p>
+   <p rend="head">
+    Az aktuális rezsimmel szembeni ellenállást nem szimbolikus, hanem anyagi szinten érdemes elemezni. A kritikai megszólalások sohasem semleges térből érkeznek, és épp ezért a materiális adottságok nagyban befolyásolják azt is, hogy kinek lesz lehetősége hangos kritikát gyakorolni.
+   </p>
+   <p>
+    Az állam túlhatalmának kritikája vagy a szakmaiatlanság bélyege az új hegemónia által is használt ellentétpárokba illeszkedik. Ilyenek az autentikusan magyar vs. európai, liberális vs. nemzeti ellentétpárok, melyeket a rezsim és annak liberális kritikusai egyaránt használnak, csak ezt ellenkező előjelekkel teszik a 2010 utáni, illetve a 2010 előtti rezsim legitimálására.
+   </p>
+   <p>
+    A szimbolikus, diskurzív ellenállást („addig nem lépek be ebbe a múzeumba, amíg ő az igazgató” jellegű
+    bojkottot
+    ) csak a mező domináns, befutott szereplői engedhetik meg maguknak, míg a be nem futottaknak csak az inkorporálódás vagy a mezőből való kilépés marad.
+   </p>
+   <p>
+    Ma egy hegemóniabomlást és -épülést látunk közelről, ami egyrészt rámutat a társadalmi gyakorlatok érdekvezérelt jellegére, másrészt lehetőséget adhat a kulturális termelés olyan újragondolására, amelyben az alternatívaépítés nemcsak diskurzusok, hanem valódi intézmények felépítésén keresztül szerveződik.
+   </p>
+   <p>
+    Mivel az Orbán-rezsim nemcsak politikákat és intézményeket termel, hanem a félperifériás kapitalizmus terméke, ezért a bármilyen kultúrával foglalkozó politikának egyszerre kell figyelembe vennie a kultúratermelők piaci kiszolgáltatottságát, az állam ideológiatermelő szerepét és a kulturális alapellátás hiánya által is okozott társadalmi egyenlőtlenségeket.
+   </p>
+   <p>
+    Az állam kultúrával való viszonyában mindig központi helyet fog kapni, hogy ezen keresztül legitimálja és teszi természetessé saját hatalmát. A globális kapitalizmus válságában megsokasodó autoriter rezsimekben élők számára nem az a kérdés, hogy a Pierre Bourdieu fogalma szerinti „örökösök” (azaz a történetileg felhalmozott vagyon és műveltség birtokosai) hogyan tudják maguk között újraosztani jól körülhatárolt szakmai szempontok szerint az egyre szűkülő erőforrásokat.
+   </p>
+   <p>
+    Hanem az, hogyan tudjuk a kultúráról alkotott fogalmainkat radikálisan újragondolni. Hogy a kultúra ne játékszer, hatalmi eszköz, áru vagy a felsőbb, vagy épp alsóbb társadalmi osztályoknak nyújtott szolgáltatás legyen, hanem élő és alakuló, az egyenlőbb társadalom kialakulásának folyamatába szervesen ágyazott folyamatok és tárgyak összessége.
+   </p>
+  </body>
+ </text>
+</TEI>

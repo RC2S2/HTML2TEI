@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Merkel marad, de mindenki a szélsőjobb előretöréséről beszél! Percről percre a németországi választásokról
+    </title>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4ca1803e-c420-511f-8218-b7af271de2f4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Merkel marad, de mindenki a szélsőjobb előretöréséről beszél! Percről percre a németországi választásokról
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-09-24T17:02:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/09/24/a_muti_marad_de_kivel_fog_kormanyozni_percrol_percrol_percre_a_nemetorszagi_valasztasokrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/09/24/a_muti_marad_de_kivel_fog_kormanyozni_percrol_percrol_percre_a_nemetorszagi_valasztasokrol/
+     </sch:url>
+     <sch:name>
+      Merkel marad, de mindenki a szélsőjobb előretöréséről beszél! Percről percre a németországi választásokról
+     </sch:name>
+     <sch:datePublished>
+      2017-09-24T17:02:00
+     </sch:datePublished>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      Merkel
+     </sch:keywords>
+     <sch:keywords>
+      AfD
+     </sch:keywords>
+     <sch:keywords>
+      percről_percre
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4ca1803e-c420-511f-8218-b7af271de2f4">
+     <sch:identifier>
+      urn:uuid:2b7dca76-eca0-487c-a102-15e26e1abbfe
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:24.007707
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:32:26.063703
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4ca1803e-c420-511f-8218-b7af271de2f4" when="2021-12-14T15:27:24.007707">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Merkel marad, de mindenki a szélsőjobb előretöréséről beszél! Percről percre a németországi választásokról
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Németország ma választott. Merkel pártja az előzetes végeredmény szerint a várakozásoknak megfelelően megnyerte a választásokat, a nagykoalíciót azonban a kisebbik koalíciós partner szociáldemokraták felmondták. De a választásokat nem ez teszi történelmi jelentőségűvé, hanem a szélsőjobb áttörése: az AfD a szavazatok 12,6%-át szerezte meg. Berlinben már tüntettek is a szélsőjobboldali párt eredményvárója előtt. A fejleményeket percről percre közvetítjük a Mércén.
+   </p>
+   <p>
+    kép: Kai Pfaffenbach/Reuters
+    03:59 CDU/CSU: 33,0%, SPD: 20,5%, Die Linke: 9,2%, Zöldek: 8,9%, FDP: 10,7%, AfD: 12,6%
+   </p>
+   <p>
+    Ez az előzetes, még nem hivatalos végeredmény, a részvétel 76,2% volt (2013: 71,5%). Ezzel zárjuk közvetítésünk, köszönjük a figyelmet!
+   </p>
+   <p>
+    03:46 Megvannak az eredmények az utolsó választókerületekből is
+    Berlinben igencsak elhúzódott az eredmények feldolgozása, de hamarosan bejelentik a 2017-es német szövetségi választások előzetes végeredményét.
+    02:55 A Zöldek nyertek végül egy egyéni körzetet
+    Kreuzbergben, amelyet a magyar kormány korábban No-go zonának jelölt futott be a zöldek jelöltje. Itt 2002 óta mindig nyert Hans-Christian Ströbele, a zöldek legendás képviselője aki közvetlen stílusáról volt ismert. Idén visszavonult, így a körzet új zöld képviselője az 1966-ban a törökországi Malatya városában született Canan Bayram lesz. A lenti képen Ströbele és Bayram:
+    kép: rbb24.de
+    02:48 Bréma maradt az SPD utolsó fellegvára
+    Most már hivatalos: Bréma az egyetlen tartomány ahol a listás szavazatokat tekintve és mindkét egyéni mandátumot megnyerve az SPD a legerősebb párt.
+    01:34 Szászországot megnyerte az AfD
+   </p>
+   <p>
+    Az AfD 27, a CDU 26,9, a Linke harmadikként 16,1 százalékot szerzett itt. AZ AfD és a CDU közötti különbség 4000 választó volt.
+   </p>
+   <p rend="head">
+    01:01 Merkel nagyot bukott saját választókörzetében
+   </p>
+   <p>
+    Merkel most 44 százalékkal nyert, ez 2013-ban 56,2 százalék volt még. Tehát a kancellár saját körzetében 12 százalékot bukott.
+   </p>
+   <p>
+    00:26 A legfrissebb előrejelzések
+    00:10 Szászország az AfD fellegvára
+    Szászország 16 szavazóköréből 7-ben a CDU jelöltje nyerte meg a egyéni mandátumot, 3-ban pedig az AfD jelöltje. 6 szavazókörből még nincs adat. T
+    artományi szinten a listás szavazatokat tekintetében pedig fej-fej melletti eredményt jósol az infratest dimap a CDU-nak és AfD-nek. Szászország az AFD fellegvára, és még itt is a legjobb eredményeket a legkeletibb körzetekben érte el. Más tartományban nem is számíthat arra az AFD, hogy egyéni körzetben nyerjen.
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+   </p>
+   <p rend="head">
+    23.40 Mudde szerint is az elégedetlenek pártja az AfD
+   </p>
+   <p>
+    Az AfD parlamentbe jutására
+    reagált a Guardianben
+    megjelent publicisztikájával Cas Mudde, a 2000-es évek egyik legtöbbet hivatkozott politikatudósa, a populizmus témájának felkapott kutatója. Írásában felhívja a figyelmet arra, amit ma este már többször is hangsúlyoztunk: a párt szavazóinak többsége, 60 százaléka a többi párttal és Merkel bevándorlási politikájával szembeni elégedetlenségét fejezte ki, amikor az AfD-re húzta az ikszet, miközben a szavazóik 86 százaléka gondolja úgy, hogy a párt nem határolódik el kellőképpen a különböző szélsőjobboldali csoportoktól és retorikáktól. Az AfD tehát a 2017-es szövetségi választás protesztpártja, ez azonban azt is jelzi, hogy a párt és a szavazói közötti kapocs gyenge. Mudde hangsúlyozza azt a dilemmát, amit Magyarországon a Jobbik kapcsán ismerünk: hiába a magas támogatottság, a párton belüli mérsékelt és szélsőséges szárnyak közötti lavírozás az egységes parlamenti fellépést vélhetően megnehezíti majd. Mindezek mellett persze a pártrendszerek fragmentálódásával és jobbra tolódásával a 10-15 százalékos támogatottságú szélsőjobboldalnak egyre több európai parlamentben jut jelentős szerep.
+   </p>
+   <p>
+    23.17 Az SPD a vörös fellegvárakban is bukott
+   </p>
+   <p>
+    Egyelőre úgy tűnik még Hamburgban és Berlinben is lecsúszott a második helyre az SPD, pedig ezek számítottak eddig a balos fellegváraknak.
+   </p>
+   <p>
+    23.06
+    <hi rend="bold">
+     Legújabb becslések a végeredményre
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Nyugat-Németország (Nyugat-Berlinnel)
+    </hi>
+    Papírforma, Linke gyenge, Zöldek és FDP az országos átlag felett, AfD gyengébb mint az országosan.
+    <hi rend="bold">
+     Kelet-Németország (Kelet-Berlinnel)
+     Az
+    </hi>
+    AfD
+    <hi rend="bold">
+     Kelet-Németország második legerősebb pártja, kvázi átvette a Linke szerepét, a többi eredmény hozza a papírformát: Linke az SPD előtt, liberálisok a zöldek előtt.
+    </hi>
+   </p>
+   <p>
+    23.02 Az Alexanderplatzon egyre többen tüntetnek az AfD ellen
+   </p>
+   <p rend="head">
+    22.46 Nem minden zöldpárti szavazó szeretné a pártját kormányon látni
+   </p>
+   <p>
+    Stuttgartban a zöld társelnök Özdemirnek nem sikerült a bravúr: 2,3 százalékkal maradt le a CDU jelöltje mögött.
+    A Zöld pártvezetésnek még sok munkája lesz mindenestre. Tudósítónk beszélt olyan pártagokkal, akik hallani sem akarnak a Jamaika-koalícióról. Szerintük egy kisebbségi CDU/CSU-FDP kormány lenne a jó megoldás. Úgy vélik, a Zöldek csak veszíthetnek a jobboldali pártokkal való együttműködésen.
+   </p>
+   <p rend="head">
+    22.35 Az AfD az egyetlen protestpárt
+   </p>
+   <p>
+    Az AfD az egyetlen párt, amire a szavazói azért szavaztak, mert a többi pártban csalódotak, nem pedig azért, mert lelkesednek a pártjukért. Mondhatni, hogy a jobboldali poulista párt ma az egyetlen protestpárt Németországban. Az alábbi képen a baloldali sávok mutatják a lelkesedésből szavazók arányát, a jobboldaliak a többi pártból való csalódottság miatt szavazókat.
+    Egy másik felmérés szintén érdekes eredményeket mutat. Azzal az állítással, hogy „Úgy érzem, hogy a többiekhez képest hátra vagyok hagyva Németországban” (avagy talán magyarabbul: nincsenek komolyan véve a problémáim), az összes szavazó 16%-a ért egyet, míg az AfD szavazóinak 42%-a. Összehasonlításképpen, a baloldali rendszerkritikus Linke szavazóinak 25%-a gondolja így.
+   </p>
+   <p rend="head">
+    22.
+    <hi rend="bold">
+     20 A hajléktalan állampolgárok kiszorultak a választási folyamatból
+    </hi>
+   </p>
+   <p>
+    A Zeit
+    hosszú riportot közölt a hajléktalan németek szavazási szokásairól, akik a lakcímmel rendelkezőkkel ellentétben nem kerültek be automatikusan a választási jegyzékbe. Mivel számukra a regisztrációs folyamat rendkívül bonyolult, sokan úgy döntenek, inkább nem szavaznak. Az ő szavuk így jóval kevésbé számít a kancellárságért folytatott harcban, ami nagy valószínűséggel nyomot hagy majd a szociális politikán is.
+   </p>
+   <p rend="head">
+    22.12 Csordogálnak az adatok, az AfD talán 13% alatt marad
+   </p>
+   <p>
+    Ahogy az adatok érkeznek be, az infratest dimapnál a Linke már előzi a Zöldeket, az AfD pedig leesett 13% alá, a Forschungsgruppe Wahlen-nél viszont a Zöldek továbbra is egy hajszállal vezetnek, az AfD pedig 13 százalék felett.
+   </p>
+   <p rend="head">
+    21.47 A zöldek pártvezetése már győzködi a tagságot
+   </p>
+   <p>
+    Stuttgartban a zöldek eredményváróján jelen van tudósítónk is, ahol megjelent Winfried Kretschmann tartományi miniszterelnök is, aki zöld színekben vezeti a tartományt. Ő is a zöldek felelősségéről beszélt. Azt mondta, nem lesz könnyű a koalíció, különösen hogy a CSU-val és az FDP-vel kell együttműködni, de azt hangsúlyozta, hogy vállalniuk kell a felelősséget az országért és Európáért.
+   </p>
+   <p rend="head">
+    21.38 A CDU-tól csak elmentek a szavazók
+   </p>
+   <p>
+    Az átszavazásokkal kapcsolatban további érdekességek derülnek ki
+    az Infratest dimap felméréséből
+    . Az eredmények szerint a CDU az egyetlen párt, aki csak vesztett szavazóiból: a támogatóik egy jelentős része az FDP-hez (1,3 millió szavazó) vagy az AfD-hez (1,1 millió szavazó) pártolt át.
+   </p>
+   <p rend="head">
+    21.32 A szocdem szavazók szétszéledtek
+   </p>
+   <p>
+    A 2013-as választásokhoz képest kb. 5.5%-ot gyengülő SPD csak egy vonatkozásban erősödött egy csöppet: Merkel pártjától érkezett kb. 20.000 szavazó. Az összes többi párt viszont vitte a szavazókat. A Balpárthoz és a Zöldelhez 380.000 és 400.000 szavazó ment, a liberálisokhoz 430.000. A fő nyertes természetesen az AfD, a szélsőjobboldali párthoz félmillió olyan szavazó vándorolt, aki 4 éve még az SPD-re szavazott.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     21. 25 Együtt ülnek a listavezetők a TV-ben
+    </hi>
+   </p>
+   <p>
+    Német hagyomány, hogy a listavezetők együtt értékelik a választásokat a közszolgálati TV-ben, már pár órával a választások után.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     21. 14 Stuttgartból tudósító barátunk a Zöldeknél járt.
+    </hi>
+   </p>
+   <p>
+    A Zöldeknél sokkal jobb a hangulat, de az összegyűlt párttagok és szimpatizánsok érzelmei ellentmondásosak. Egyrészt örülnek, hogy országosan jobban szerepeltek a vártnál, és itt Stuttgartban különösen annak, hogy Baden-Württembergben vezetnek az AfD előtt,  az egy órával ezelőtti adatok szerint 13-12-re. (A tartomány hagyományosan hazai pálya a Zöldeknek, jelenleg a miniszterelnököt is ők adják). Másrészt az AfD eredménye és az SPD történelmi veresége őket is rosszul érinti, akikkel beszéltem, mind őszintén aggódnak az ország jövője miatt. A Jamaica koalíció tény, szükségesnek tartják, nincs más választásuk. A koalíciós partnerek közül a bajor CSU-t, és a liberális FDP-t tartják problémásabbnak, a CDU-val mindenki szerint jól ki lehet jönni (a baden-württembergi tartományi kormány is CDU-Grüne koalíció).
+   </p>
+   <p>
+    Skype-on bejelentkezett Cem Özdemir társelnök is, aki stuttgarti. Gratulált a kiváló Stuttgarti eredményekhez, és sokat beszélt a párt felelősségéről. Erről még többet kell majd beszélnie az elkövetkező hetekben, mert, ahogy egy fiatal párttag mondta, a párt baloldalát nehéz lesz meggyőzni a koalícióról.
+   </p>
+   <p>
+    Özdemir stuttgarti választókerületében jelenleg fej-fej mellett áll a CDU jelöltjével, úgyhogy még jelentkezünk, ha tudjuk a végeredményt. Zöld jelölt eddig egyszer nyert a párt története során egyéni választókerületet, úgyhogy Özdemir győzelme komoly eredmény lenne.
+   </p>
+   <p>
+    21. 01
+    <hi rend="bold">
+     A német twitteren a #nazis a top trending hashtag
+    </hi>
+   </p>
+   <p>
+    Az elmúlt órákban 266 ezer tweet született ezzel a hashtaggel, a következő a #Bundestag, majd a szociáldemokraták kancellárjelöltje, #Schulz következik a listán.
+   </p>
+   <p>
+    20. 56 A CDU-tól, és a nem szavazók közül erősödött
+   </p>
+   <p>
+    A Forschungsgruppe Wahlen kutatóintézet egy 50.000 fős exit poll kutatást végzett. Ennek egyik eredményéből kiolvasható, a ma az AfD-t választók 2013-ban kire szavaztak. Ennek alapján az AFD szavazók 21%-a CDU/CSU, 10%-a SPD, 6%-a Linke, 1%-a Grüne, 3%-a FDP, 24%-a AfD, 35%-a a mások/nemválasztók közé tartozott 4 éve.
+   </p>
+   <p>
+    20. 43 – A kelet-német férfiak az Afd-vel vannak
+   </p>
+   <p>
+    Egészen elképesztő grafikont mutat a képen a ZDF-es bemondó: a kelet-német férfiak relatív többsége, 27%-a (az összes kelet-német 22%-a) az AfD-re szavazott.
+   </p>
+   <p>
+    forrás:
+    ZDF twitter
+    20. 34 – A berliniek többsége szeretné, ha a Tegel maradna
+   </p>
+   <p>
+    Mindeközben a tegeli repülőtérrel kapcsolatos népszavazásnak is
+    megjöttek az első eredményei
+    . A választási eredmények alapján nem meglepő (a jobboldal ágált a reptér megtartása mellett), hogy a berliniek többsége, 59 százalék a repülőtér nyitva tartása mellett szavazott, míg csak 39 százalék ellene. Az igen szavazatok jelentős része a nyugat-berlini tartományokból érkezett. Érdekesség, hogy az érintett Treptow-Köpenick kerület is a repülőtér megtartása mellett voksolt.
+   </p>
+   <p>
+    20. 26 – Egyre többen tüntetnek az AfD eredményvárójával szemben
+   </p>
+   <p>
+    Antifasiszta, szélsőjobboldal-ellenes csoportok jelentettek be tüntetéseket a frissen parlamentbe jutó menekültellenes és szélsőjobboldali AfD ellen. A tüntetés a 13-14%-os eredményével várhatóan harmadik erővé váló párt székházával szemben zajlik éppen Berlinben. Míg kezdetben csupán 100-200 tüntető volt az Alexanderplatznál, az este előrehaladtával egyre nő a tüntetők száma. A tüntetések egyelőre békések de óriási a rendőri jelenlét, több tüntetőt is előllítottak már.
+   </p>
+   <p>
+    Es werden deutlich mehr, die gegen die
+    @AfD
+    demonstrieren. Die Polizei ist mit einem massiven Aufgebot vor Ort, berichtet
+    @RalphSzepanski
+    pic.twitter.com/D6IEocU8GD
+   </p>
+   <p>
+    — ZDF heute (@ZDFheute)
+    September 24, 2017
+   </p>
+   <p rend="head">
+    20. 20 – Le Pen gratulált is az Afd-nek
+   </p>
+   <p>
+    Bravo à nos alliés de l’
+    #AfD
+    pour ce score historique ! C’est un nouveau symbole du réveil des peuples européens. MLP
+    #BTW2017
+   </p>
+   <p>
+    — Marine Le Pen (@MLP_officiel)
+    September 24, 2017
+   </p>
+   <p>
+    Vagyis: „Gratulálunk szövetségesünknek, az #AfD-nek ehhez a történelmi eredményhez! Ez az európai népek ébredésének új jele.”
+   </p>
+   <p rend="head">
+    20. 14 –
+    <hi rend="bold">
+     Egy levélszavazat kalandos útja a Közel-keletről
+    </hi>
+   </p>
+   <p>
+    A német újságíró, Mohamed Amjahid indított kihívást #Wahlchallenge néven. Amjahid pénteken még Beirutban volt, Libanonban, ahol egy német kollégájával és barátnőjével találkozott. Natalie, a kolléga, német állampolgár és Beirutból szeretett volna levélben szavazni, de sajnos a szükséges dokumentumok sajnos túl későn érkeztek. Mohamed Amjahid volt az utolsó reménye, hogy időben, azaz vasárnap este 18 óráig visszaérjen Natalie levélszavazata a választókerületébe, a délnémet Efringen-Kirchenbe.
+   </p>
+   <p>
+    Péntek este Amjahid Berlinig hozta a levelet, de ott a posta közölte vele, hogy egy levél vasárnapi kézbesítése 70,80 Euróba kerül – és még akkor sem biztos, hogy a szavazat időben odaér. Az újságíró így szombat reggel elindította a #Wahlchallenge twitterkampányt, gondolva, hogy barátja állampolgári jogát egy virtuális váltófutással olcsóbban is tudja érvényesíteni.
+   </p>
+   <p>
+    A felhívást 171-en meg is osztották, de Amjahid végül offline talált segítségre. A berlini föpályaudvarhoz ment és a Dél-Németországba induló vonatok előtt kért meg utasokat, hogy vigyék el a levelet. Legalább 40 ember mondott nemet, sokan nem is akartak vele beszélni. Végül egy hölgy elválallta, hogy a levelet elviszi Ulmig az ICE 961-es vonattal. A levél Ulmon és Stuttgarton keresztül szombat este fél tízkor eljutott Friedrichshafenba, ahonnan
+    hajón utazott tovább
+    .
+    Vasárnap délutan fél háromkor már Weil am Rheinnál tartott a levél, közel tíz kilóméterre a szavazóirodától. Végül három órakor
+    a választási segédek mosolya fogadta
+    a levelet Efringen-Kirchenben. A megtakarított 70,80 € postaköltséget Amjahid
+    egy antirasszista szervezetnek adományozza
+    .
+   </p>
+   <p>
+    (
+    mamjahid.tumblr.com)
+   </p>
+   <p>
+    19. 58 – Németország ’49 óta a legnagyobb kihívása előtt áll
+    Az Afd várható 13-14%-a érthető módon borzolja a kedélyeket. Pár keleti választókerületben (pl. a szászországi Görlitzben) a párt eredménye várhatóan megközeíti a 40%-ot, a teljes kelet-németországi adatok jelen feldolgozottságát nézve 22,8%-nál tart.
+    A német zsidók központi tanácsának nyilatkozata szerint a német demokrácia 1949 óta a legnagyobb kihívása előtt áll.
+    A berlini Alexanderplatzon, a párt eredményvárójával szemben körülbelül 300-an tüntettek,  Fotó: Christian Mang / REUTERS
+    19. 45 – A stuttgarti szocdemek rendben vannak az ellenzéki léttel
+   </p>
+   <p>
+    Tudósítónk Stuttgartból követi az eredményeket, tervei szerint végigjárja a pártok eredményváróit, legalább a balosokat: az FDP-sek nem árulják el, hol buliznak, az Afd-nél pedig attól tart, nem tudna vegyülni.
+   </p>
+   <p>
+    A szocdemeknél kezdett: „Az SPD Stuttgartban egy kis görög étteremben tartja az eredményvárót. Nincsenek sokan, közben más vendégeket is elkezdtek leültetni a pincérek. Beszéltem párttagokkal és helyi politikussal is. Szerintük az emberek elsősorban a nagykoalícióra mondtak nemet. A CDU többet veszített, mint ők, de a saját szereplésüket tragikusnak látják. Helyes döntésnek tartják, hogy ellenzékbe mennek, nem lehet az AfD az ellenzék vezető ereje. Ellenzékből kell küzdeniük az értékeikért és markáns baloldali programra van szükség.”
+   </p>
+   <p>
+    Tudósítónk azt ígéri, legközelebb a Zöldektől jelentkezik!
+   </p>
+   <p>
+    19. 32 – Az Afd azt ígéri, felelősségre vonják Merkelt
+    Alice Weidel, az exit pollok szerint még a várakozásoknál is jobban teljesítő (13.5%) Afd vezető politikusa az imént beszélt a ZDF-en. Elismételte a párt kampányígéret, miszerint parlamenti vizsgálóbizottságot fognak kezdeményezni Merkel ellen, aki a párt szerint minden alkotmányos alapot nélkülöző döntésével 2015 nyarán beengedte az országba a Magyarország felől érkező menekülteket, és egyébként is alkotmányellenes menekültpolitikát folytatott. Weidel szerint az Afd-vel lesz kontrollj a kormánynak, ők lesznek az igazi ellenzék.
+   </p>
+   <p rend="head">
+    19. 22 – Zöldek a konzervatívokkal, együtt, kormányon?
+   </p>
+   <p>
+    Jelenleg nincs más lehetőség, mint hogy a zöldek a liberálisokkal együtt Merkelt támogassák kormányon. Az először fordulna elő, hogy a zöldek Merkellel kormányoznak, de hogy ez miért nem teljesen lehetetlen vállalkozás, arról Helga Trüpel zöld EP-képviselő fejtette ki véleményét
+    a Kettős Mércének:
+    „támogattuk Merkel emberséges és nyitott politikáját, miután úgy döntött, hogy hogy a 2015 nyarán elfogadhatatlan körülmények közt Magyarországon ragadt menekültek előtt megnyitja a határokat. A fő kérdés számunkra tehát az, hogy továbbra is ez a megközelítés kerekedik-e felül pártjában és hogy a kancellár asszony kordában tudja-e tartani a bajor terstvérpártja, a CSU verbális kalandozásait. Érdeme, hogy modernizálta pártját és valamelyest Németországot is, persze távolról sem olyan mértékben, ahogyan mi, zöldek azt szükségesnek tartjuk. Szintén meggyőző, ahogyan a Trumphoz, Putyinhoz és Erdoganhoz hasonló alfahímekkel szemben ellenáll a nemzetközi porondon. Tehát igen, látom az értelmes kompromisszumokhoz szükséges közös alapot.”
+   </p>
+   <p>
+    19.08 – Keleten a szélsőjobb a második
+   </p>
+   <p>
+    Egy kelet-németországi választás (vagy persze egy nyugati) már egész másként nézett volna ki ma, mint az össznémet. A hagyományosan keleten, avolt NDK területén elhelyezkedő tartományokban erős szélsőbaloldali párt, a Die Linke elég sokat vesztett (
+    cikkünk a pártról itt olvasható
+    ), a bevándorlásellenes AFD pedig óriásit erősödött. Olyannyira, hogy keleten 21,5%-kal ők lettek második legerősebb párt a 26%-os CDU/CSU mögött, a Linke pedig a maga 16,5%-ával csupán harmadik lett. Ráadásul a kelet-német férfiak 27%-a AfD-re szavazott. Keleten az exit pollok szerint nagyot estek a szocdemek is, a maguk 14,5 százalékával.
+   </p>
+   <p>
+    kép: rbb|24 twitter
+    18. 58 – Jöhet a Jamaika-koalíció?
+   </p>
+   <p>
+    Thomas Oppermann, az SPD frakcióvezetője is
+    kijelentette
+    , hogy a párt ellenzékbe megy. Ez azt jelenti, hogy ha az érintettek is úgy gondolják, az úgynevezett zöld-liberális-kereszténydemokrata „jamaika-koalíció” jöhet létre, amiben a kereszténydemokraták az SPD klasszikus koalíciós partnerével, a zöldekkel és a CDU/ CSU régi juniorpartnerével, a parlamentbe frissen visszajutott liberálisokkal kormányoznak.
+   </p>
+   <p>
+    A Grüne és az FDP ideológiailag igen távol áll egymástól,
+    ahogy korábban írtuk
+    , „egymás ellenében építették fel narratívájukat és identitásukat. Míg a piacbarát, liberális FDP már az 1950-es évek óta része a német nagypolitikának, addig a zöld Bündnis 90/Die Grünen 1980-ban alakult párttá – gyökerei pedig a 68-asokhoz, valamint a 70-es és 80-as évek kapitalizmuskritikus és környezetvédő mozgalmaihoz vezetnek vissza…. Három nagy témában képvisel ellentétes álláspontot ez a két párt: a klíma, a minimálbér és Európa tekintetében. Míg a Zöldek több szabályozást várnak a környezet és a jólét védelme érdekében, az EU-t pedig szociális unióként látnák legszívesebben, addig a liberálisok a piac hívei, elég környezetbarátnak tartják még az atomenergiát is, nem áldoznák fel a piac teljesítményét a minimálbér oltárán, és nem volt különösebb bajuk az uniós megszorításokkal az olyan krízis sújtotta országokban mint pl. Görögország.”
+   </p>
+   <p>
+    18. 40 – A nagyok nagyot buknak
+   </p>
+   <p>
+    Ezen a képen jól látszik, hogy 2013-hoz képest mind a kereszténydemokraták, mind a szocdemek bezuhantak, míg a kisebb pártok – elsősorban az Afd és a liberálisok – erősödni tudtak.
+   </p>
+   <p>
+    A szocdemekre (az exit pollok szerint 20% körüli eredmény), és a CSU-ra (38.5%), Merkelék bajor testvérpártjára például a második világháború óta nem szavaztak ilyen kevesen. Arról később lesznek megbízható adatok, hogy ezen szavazatok mekkora része ment az Afd-hez, de az Afd magas bajorországi eredménye például azt sejteti, hogy nagyrészt.
+   </p>
+   <p>
+    kép: Spiegel.de
+   </p>
+   <p rend="head">
+    18. 28 – A nagykaolíció vége?
+   </p>
+   <p>
+    Pár perccel az exit poll után több prominens szociáldemokrata politikus is arra utalt, hogy ellenzéki politizálásra készülnek.
+    Manuela Schwesig, Mecklenburg-Vorpommern szociáldemokrata miniszterelnöke azt nyilatkozta, hogy csak így kerülhető el, hogy a legerősebb ellenzéki párt az Afd legyen.
+    Hasonlóan nyilatkozott
+    az SPD francióvezető-helyettese is, aki „cezúráról” beszélt.
+   </p>
+   <p>
+    Ha a második világháború óta a legrosszabbul szereplő szocdemek nem hajlanak újabb 4 évnyi nagykoalícióra, akkor Merkel kereszténydemokrata pártszövetsége számára egy út nyitott: a zöldekkel és a liberálisokkal kell együtt kormányoznia. (Az Afd-vel és a Linkével való kormányzást előre kizárták.)
+   </p>
+   <p>
+    18. 20 –
+    <hi rend="bold">
+     Milyen koalíciót szeretnének a pártok támogatói?
+    </hi>
+   </p>
+   <p>
+    Az exit pollok elég pontosak szoktak lenni, és a legfontosabb kérdés innentől az, hogy Merkel kivel köt koalíciót. Két lehetőség adott számára: vagy marad a nagykoalíció a szocdemekkel, vagy a zöldekkel és a liberálisokkal alkotnak hárompárti koalíciót. A koalíciós lehetőségeket
+    ebben a cikkben
+    foglaltuk össze.
+   </p>
+   <p>
+    Az sem mindegy persze, a pártok támogatói milyen koalícióval tudnának kibékülni. Ezt a kérdést tette fel az Infratest Dimap nevű közvélemény-kutató cég szeptemberi
+    felmérésében
+    . Az eredményekből az derül ki, hogy a CDU szavazók többsége kizárólag az FDP-vel alakítana kormányt, az SPD szavazók fele jobbhíján a CDU-val maradna nagykoalícióban kormányon (noha ennek a koalíciónak lenne a legnagyobb többsége a Bundestagban, erre a kimenetelre vajmi kevés esély van), a zöld szavazók többsége, 68 százaléka is szívesebben kormányozna a CDU-va mint maradna ellenzéki párt. Sőt, még akkor is inkább a kormányra kerülést preferálják, ha azt a kormányt nem csak a kereszténydemokrata CDU-val, de a liberális FDP-vel együtt kéne megalakítani. Hasonlóan nyilatkoztak az FDP szavazók: akár csak a CDU-val, akár a zöldekkel hármasban, de kormányon szeretnék látni pártjukat. A Linke támogatói szintén a nem reális SPD-Grüne-Linke kormánykoalíció létrejöttét támogatják.
+   </p>
+   <p>
+    18. 08 – Az exit pollok szerint Merkel magabiztosan nyer, a szélsőjobb 13%-on
+   </p>
+   <p>
+    A szavazóurnák zárása után közölt exit poll szerint így szavaztak a németek.
+    Ezek szerint a Bundestagba először bekerülő szélsőjobboldali Alternative für Deutschland 13%-kal a harmadik legerősebb párt Merkel kreszténydemokrata szövetsége és a szociáldemokraták mögött.
+   </p>
+   <p>
+    17. 56 – „Wahl-Lokal”
+   </p>
+   <p>
+    Az exit pollokig már nagyon kevés idő van hátra, addig egy kis szórakoztató tartalom.
+   </p>
+   <p>
+    Ebben a berlini „szavazóhelységben” párthoz illő italt választhat a tisztelt szavazópolgár. A CDU-sok egy fekete kávés Sambucát kortyolhatnak, az szocdemek eperlikőrt. A liberálisokkal sárga Mangó pálinkát itatnak, a zöldekkel pedig Pfeffit, ami egy berlini menta ízű különlegesség. A Linke párt szavazói meggy snapszot kapnak, az AfD-sek náciszínű, barna Chantrét. Aki más pártra szavaz, tiszta Korn-t, vagyis gabonapálinkát ihat a kocsma szabályai szerint.
+   </p>
+   <p>
+    kép:
+    twitter
+    17. 50 Az AfD három árnyalata
+    Az este egyik nagy kérdése, hogy az Afd hány százalékkal kerül be a Bundestagba. Az előzetes jóslatok szerint akár hetven képviselőt is juttathatnak a törvényhozásba. A párt képviselői rendszeresen bebizonyítják, hogy a mérsékelt, szélsőségek felé zárt német politika világához képest elég meredek elveket képviselnek. Újabban például egy kampányrendezvényen az AfD egyik jelöltje Jens Maier
+    úgy fogalmazott
+    : a párt Bundestagba kerülése 1945 óta az egyik legnagyobb sikernek tekinthető.
+    Persze az Afd is sokszínű társaság. A Die Zeit összeszedte, milyen háttérrel is rendelkeznek a jelöltek. A lap három áramlatot különböztett meg: a párt jelöltjei közül milencen korábban szélsőjobboldali pártokkal vagy szervezetekkel álltak kapcsolatban, mint amilyenek például a titkosszolgálatok által is megfigyelt identitáriusok. 25-en a nemzeti konzervatív vonalat erősítik, köztük Alexander Gauland listavezető is, aki nagy valószínűséggel frakcióvezető lesz.
+    Alexander Gauland, kép:
+    Frankfurter Allgemeine
+    Frauke Petry szóvivő pedig 11 másik jelölttel együtt a mérsékelt ágat képviseli, bár már ő is kiverte sokaknál a biztosítékot. A maradék képviselőt még nem sikerült elhelyezniük a mérsékelt-radikáljobbos spektrumon, ezért nem is nagyon tudni, melyik áramlat lesz a domináns. A
+    Zeit anyagát
+    azért érdemes nézegetni.
+    17. 38 – A részvétel hasonló a 2013-ashoz
+   </p>
+   <p>
+    2 óráig a választásra jogosultak 41.1%-a adta le a szavazatát, ami egy picit elmarad a 2013-as hasonló adattól. A balos Berlinben viszont a 4 órás adatok valamivel magasabb részvételt mutatnak a 4 évvel ezelőttihez képest.
+   </p>
+   <p>
+    17. 33 – Népszavazás a berlini Tegel repülőtér jövőjéről
+    Sűrű napnak néznek elébe a berlini lakosok. Amellett, hogy a választásokkal párhuzamosan a berlini maraton futóverseny zajlik (és emiatt az 1779 választókerületből 30 nehezebben, csak a futóútvonalon keresztül megközelíthető), a szavazófülkében nem csak a parlament összetételéről dönthetnek, hanem a tegeli repülőtér bezárásáról szóló (jogilag egyébként semmilyen kényszerítőerővel nem bíró) népszavazásban is véleményt nyilváníthatnak. A népszavazást a liberális FDP kezdeményezte, „Berlinnek szüksége van Tegelre!” felkiáltással, hozzájuk csatlakozott a kereszténydemokrata CDU és a szélsőjobboldali AfD. Érvelésükben a repülőtér által biztosított munkahelyeket, a folyamatosan növekvő repülőforgalmat és a repülőtér profitabilitását hangsúlyozzák. Ezzel szemben Tegel bezárása mellett kampányolnak a szociáldemokraták, a balpárt, valamint a zöldek is, akik a zajszennyezésre, az évek óta irreálisan magas fenntartási költségekre, és egy harmadik reptér feleslegességére hívják fel a figyelmet.
+    A Tegel, kép: Spiegel.de
+   </p>
+   <p rend="head">
+    17. 25 – Orbán számára is van tétje a választásnak
+   </p>
+   <p>
+    És nem biztos, hogy jól fogja magát érezni Merkel következő ciklusa alatt. „Angela Merkel ugyanis korábbi álláspontjával szemben már nem tartja ördögtől valónak, hogy a renitens országokat pénzügyi eszközökkel fegyelmezzék. Berlin elmozdulását egy májusi kormányzati vitaanyag jelzi, amelynek javaslatai bizonyára kiverték a biztosítékot a Fidesznél. Ezek közül a legdrasztikusabb, hogy a kohéziós pénzek kifizetését kösse az EU a jogállamiság tiszteletben tartásának feltételéhez. Ezzel mindössze annyi a gond, hogy hiányoznak a jogállamiság objektív, uniós szinten lefektetett feltételei, vagyis mindenki azt ért alatta, amit akar. A támogatások átcsoportosításával kapcsolatban felvetődött, hogy a fejlettebb déli régiók olyan új kihívásokra is kapjanak forrásokat, mint a menekültek integrációja és a demográfiai változások kezelése. Ez magyar szemszögből nem sok jót vetít előre a 2020 utáni uniós büdzsétárgyalásokra nézve.” – írta a Political Capital elemzője,
+    Zgut Edit a Magyar Nemzetben.
+   </p>
+   <p>
+    17. 18 – Mortal Wahlkampf
+   </p>
+   <p>
+    6 körül egy előreláthatólag  elég pontos exit pollra számíthatunk, de addig még lehet kicsit ábrándozni.
+   </p>
+   <p>
+    A kampány alatt jelent meg a Bundesfighter nevű innovatív játék ahol egy kicsit felturbózhatják a választók a kampányt, és vérre menő harcot vívhatnak a kancellárságért.
+    A játékot itt tudjátok játszani
+    itt meg van egy aranyos videó, amiből megismerhetitek a fontosabb szereplőket.
+   </p>
+   <p>
+    17.10 – Kik választanak?
+   </p>
+   <p>
+    A mai nap során
+    61,5 millió
+    német állampolgárnak van lehetősége leadni a szavazatát, 3 millióan közülük életükben először szavaznak. A külföldön született német szavazópolgárok száma 6,3 millió, a leggyakoribb származási országok Lengyelország, Törökország, Oroszország és Kazahsztán. A rendszerváltás óta nem volt ilyen magas a szavazólapon szereplő pártok száma, 42 különböző politikai szervezetre húzhatják a választók az x-et.
+   </p>
+   <p>
+    Rekordot döntött a levélben szavazók száma is, a legutóbbi adatok szerint minden 3. választó már levélben leadta szavazatát. A rendszerváltás óta folyamatosan növekvő arány 2013-ban még 24,3 százalék volt. A statisztikai hivatal adatai szerint idén a legidősebb a német választóközönség, a választók több mint fele 52 éves vagy annál idősebb.
+   </p>
+   <p>
+    A képen éppen Merkel adja le a szavazatát, kora délután, mögötte balra a férje, Herr Sauer, kép:
+    Spiegel
+    17.00 – Mire számíthatunk: az utolsó közvéleménykutatások
+   </p>
+   <p>
+    Nem térnek el egymástól különösebben a választások előtt néhány nappal nyilvánosságra hozott közvélemény-kutatások
+    eredményei
+    , ráadásul a most mért támogatottságok idén nyár óta nagyjából stabilak. Az egyes cégek becslései alapján a CDU a választók 35-37, az SPD – fennállása óta eddigi legalacsonyabb – 20-22 százalékos támogatottságra számíthat. Hogy ki lesz a harmadik legerősebb párt (a Linke, FDP vagy az AfD), azt vélhetően részben az dönti majd el, milyen koalíciókötési taktikára számítanak a szavazók a CDU részéről.
+   </p>
+   <p>
+    Közvéleménykutatások az előző válsztások óta. Feketével Merkel CDU-ja,  pirossal a szocdemek, sárgával a (neo)liberálisok, kékkel az Afd és zölddel a zöldek
+   </p>
+   <p>
+    A koalíciókötésen túl a legtöbb politikust, véleményvezért és a német médiát alapvetően az a kérdés foglalkoztatja, hány mandátummal kerül be a rendszerváltás óta először az AfD a német Bundestagba. Az utolsó hetekben a szélsőjobboldali párt tudott a leginkább erősödni, az utolsó mérések 11-13%-ra hozták, amivel a párt akár a harmadik legerősebb frakciót is kiállíthatja.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

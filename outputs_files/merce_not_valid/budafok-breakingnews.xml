@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Már a bérleti szerződését is törvénysértő módon mondták fel a hajléktalanná tett 79 éves budafoki férfinak
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     a2b670fc-983f-5a6e-bb6d-17c2c7034d99
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Már a bérleti szerződését is törvénysértő módon mondták fel a hajléktalanná tett 79 éves budafoki férfinak
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-11T11:58:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2019/09/11/budafok-breakingnews/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2019/09/11/budafok-breakingnews/
+     </sch:url>
+     <sch:name>
+      Már a bérleti szerződését is törvénysértő módon mondták fel a hajléktalanná tett 79 éves budafoki férfinak
+     </sch:name>
+     <sch:datePublished>
+      2019-09-11T11:58:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      Kilakoltatás
+     </sch:keywords>
+     <sch:keywords>
+      Budafok-Tétény
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="a2b670fc-983f-5a6e-bb6d-17c2c7034d99">
+     <sch:identifier>
+      urn:uuid:f5d6b40e-5dfc-4184-b6de-8c9585903a15
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:08.452481
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:20:36.309622
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="a2b670fc-983f-5a6e-bb6d-17c2c7034d99" when="2021-12-14T15:26:08.452481">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Már a bérleti szerződését is törvénysértő módon mondták fel a hajléktalanná tett 79 éves budafoki férfinak
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié birtokába került újabb bizonyíték szerint nem csak akkor követett el jogsértést a budafok-tétényi önkormányzat, amikor a törvény által előírt bírósági és végrehajtási eljárás lefolytatása nélkül tett hajléktalanná egy 79 éves idős férfit. Valójában már a bérleti szerződésének a felmondása is törvénysértő volt: a felmondáskor ugyanis nem az idős úr tartozott az önkormányzatnak, hanem az önkormányzat tartozott neki.
+    </hi>
+   </p>
+   <p>
+    A 2019. július 30-án hajléktalanná tett budafoki idős férfi ügyében eddig is súlyos jogsértések és visszaélések kerültek napvilágra. Eddig is tudtuk, hogy az önkormányzat a törvények által előírt bírósági és végrehajtási eljárások megkerülésével fosztotta meg őt az otthonától. Eddig is tudtuk, hogy a Családsegítő Szolgálat ügyben eljáró munkatársa kiemelkedően súlyos szakmai hibákat és etikai vétségeket követett el, amikor közreműködött az idős férfi félrevezetésében és hajléktalanná tételében.
+   </p>
+   <p>
+    Azt gondoltuk azonban, hogy az egész eljárás 35 906 Ft lakbér tartozás miatt indult el. Nem értettük továbbá, hogy miért titkolózik ennyire az önkormányzat:
+   </p>
+   <list>
+    <item>
+     Miért nem volt hajlandó a Vagyongazdálkodási Iroda kiadni az érintett férfi iratait?
+     Miért nem tették lehetővé a
+     <hi rend="italic">
+      teljes iratanyag
+     </hi>
+     megismerését még akkor sem, amikor annak egy részébe – miután emlékeztettük őket az adatok visszatartásával kapcsolatos büntetőjogi felelősség eshetőségére – betekintést engedtek?
+     Miért félt az önkormányzat illetékes bizottságának az elnöke, Csiszár Zsuzsanna annyira az üggyel kapcsolatos kérdésektől, hogy először
+     ellehetetlenítette
+     azok feltételét a bizottság augusztus 28-i ülésén, majd a
+     Mérce újságírójának
+     a kezéből is megpróbálta kicsavarni a telefonját?
+    </item>
+   </list>
+   <p>
+    Az önkormányzat minden bizonnyal azért titkolózott, mert – ahogyan az egy időközben birtokunkba jutott iratból kiderül – a 79 éves férfinak
+    <hi rend="bold">
+     már a lakbásbérleti szerződését is törvénysértő módon mondták fel
+    </hi>
+    .
+   </p>
+   <p>
+    A Város Mindenkié csoporthoz (AVM) eljutott
+    számla
+    szerint 2019. május 10-én az önkormányzat 47 434 Ft különszolgáltatási díjkülönbözetet írt jóvá az idős úrnak a 2017. január elsejétől 2019. május 31-ig tartó időszakra, vagyis addigra ennyivel tartozott neki az önkormányzat. Az önkormányzatnak a 79 éves férfi felé fennáló tartozásnak a felmondó levelet megelőző – és azt megalapozó – fizetési felszólításnak az időpontjára arányosított része meghaladta az idős úr lakbér-hátralékát. Vagyis:
+    <hi rend="bold">
+     a bérleti szerződés felmondásakor nem az idős úr tartozott az önkormányzatnak, hanem az önkormányzat tartozott neki
+    </hi>
+    .
+   </p>
+   <p>
+    Felmerül a kérdés, hogy hány budafok-tétényi bérlővel történhetett és történhet még hasonló visszaélés? Mit mond el a budafok-tétényi önkormányzati bérlakásban élő családok jogbiztonságáról, ha akár csak egyetlen ügyben is sor kerülhet egy efféle visszaélésre?
+   </p>
+   <p>
+    A kérdés, sajnos nem egészen költői: az elmúlt hónapokban több budafok-tétényi bérlő és volt bérlő kereste meg az AVM-et a fentiekkel rokonítható hibákkal és visszaélésekkel kapcsolatban. A velünk kapcsolatba került budafok-tétényiek a következőkről számoltak be: a törvény által előírt bírósági és végrehajtási eljárások megkerülésével, a
+    <hi rend="italic">
+     téli kilakoltatási moratórium idején
+    </hi>
+    fenyegették őket kilakoltatással; a Vagyongazdálkodási Iroda visszatérően a fizetési határidő után kézbesíti a lakbér-számlát; előfordul, hogy a Vagyongazdálkodási Iroda úgy küld fizetési felszólítást egy bérlő részére, hogy ő a lakbérét már korábban és időben befizette; volt, akinek az önkormányzat által elkövetett adminisztrációs hiba miatt létrejött, kis összegű hátralékra hivatkozva mondták fel a bérleti szerződését és fenyegették kilakoltatással, és volt, akit azért, mert nem tett eleget a
+    <hi rend="italic">
+     bérbeadó
+    </hi>
+    kötelezettségének; többen számoltak be továbbá arról, hogy a Vagyongazdálkodási Irodán velük félrevezető, megalázó vagy fenyegető módon beszéltek, a Családsegítő Szolgálattól pedig semmilyen érdemi segítséget nem kaptak.
+   </p>
+   <p>
+    Mindezek alapján, számunkra egyértelmű, hogy súlyos gondok vannak a budafok-tétényi Vagyongazdálkodási Iroda és Családsegítő Szolgálat működésével.
+   </p>
+   <p>
+    A konkrét ügyben pedig még inkább egyértelmű, hogy mire van szükség, mi a helyes, és mit követel a törvényesség.
+    Arra kérjük, sokadjára, tisztelettel, de határozottan az önkormányzatot és külön is Karsay Ferenc polgármestert, hogy azonnal tegye lehetővé, hogy az idős úr visszaköltözzön az otthonába! Állítsák helyre a törvényes állapotot, és az önkormányzat az otthonában biztosítsa az idős úr számára mindazt a segítséget, amire a korára és egészségi állapotára tekintettel akár az egészsége megőrzéséhez, akár az otthona rendben tartásához szüksége van. Erre
+    számtalan együttérző polgárral
+    és az
+    idős úr több szomszédjával együtt
+    közösen kérjük őt.
+   </p>
+   <p>
+    A budafok-tétényi képviselő-testület pedig arra kérjük, hogy gondoskodjanak az ügyben feltárt visszásságok azonnali kivizsgálásáról és azok mielőbbi orvoslásáról.
+   </p>
+   <p>
+    <hi rend="italic">
+     Az önkormányzatnak korábban feltett – és mindezidáig meg nem válaszolt – kérdéseink
+    </hi>
+    <hi rend="italic">
+     itt
+    </hi>
+    <hi rend="italic">
+     olvashatóak. Az önkormányzat és a polgármester utólagos magyarázkodása során felhozott érveket
+    </hi>
+    <hi rend="italic">
+     itt
+    </hi>
+    <hi rend="italic">
+     és
+    </hi>
+    <hi rend="italic">
+     itt
+    </hi>
+    <hi rend="italic">
+     cáfoltuk tételesen.
+    </hi>
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

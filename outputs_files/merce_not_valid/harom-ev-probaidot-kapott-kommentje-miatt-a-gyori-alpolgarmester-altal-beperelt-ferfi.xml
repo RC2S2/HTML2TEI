@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Három év próbaidőt kapott kommentje miatt a győri alpolgármester által beperelt férfi
+    </title>
+    <author>
+     <persName>
+      Varga Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d5184c10-4443-5a62-bbe1-22b5e193b175
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Három év próbaidőt kapott kommentje miatt a győri alpolgármester által beperelt férfi
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varga Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-07-23T10:46:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/07/23/harom-ev-probaidot-kapott-kommentje-miatt-a-gyori-alpolgarmester-altal-beperelt-ferfi/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/07/23/harom-ev-probaidot-kapott-kommentje-miatt-a-gyori-alpolgarmester-altal-beperelt-ferfi/
+     </sch:url>
+     <sch:name>
+      Három év próbaidőt kapott kommentje miatt a győri alpolgármester által beperelt férfi
+     </sch:name>
+     <sch:datePublished>
+      2020-07-23T10:46:00
+     </sch:datePublished>
+     <sch:author>
+      Varga Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      győr
+     </sch:keywords>
+     <sch:keywords>
+      per
+     </sch:keywords>
+     <sch:keywords>
+      komment
+     </sch:keywords>
+     <sch:keywords>
+      kommentelők
+     </sch:keywords>
+     <sch:keywords>
+      rákosfalvy zoltán
+     </sch:keywords>
+     <sch:keywords>
+      radnóti ákos
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d5184c10-4443-5a62-bbe1-22b5e193b175">
+     <sch:identifier>
+      urn:uuid:4386f55b-a056-433c-8fcd-66c0f2b9309f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:05.940969
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:17:31.649395
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d5184c10-4443-5a62-bbe1-22b5e193b175" when="2021-12-14T15:35:05.940969">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Három év próbaidőt kapott kommentje miatt a győri alpolgármester által beperelt férfi
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Egy ismerőse bejegyzésére reagálva „egy fasz” megnevezéssel illette Radnóti Ákost, Győr fideszes alpolgármesterét B.Zoltán, majd ezért három év próbaidőre ítélték első fokon – számolt be a férfi jogi képviseletét elvállaló
+    Társaság a Szabadságjogokért
+    (TASZ).
+   </p>
+   <p>
+    „Én egy ismerősömnek reagáltam, aki megosztott egy
+    írást
+    , hogy „
+    <hi>
+     hagyd, ne foglalkozz vele, ez egy fasz
+    </hi>
+    ”. Ennyi történt, de itt Győrben vannak, akik megnéznek mindent.”
+   </p>
+   <p>
+    – mondta el B.Zoltán, akit az alpolgármester képviseletében dr. Rákosfalvy Zoltán helyi ügyvéd, a tavaly őszi Borkai-botrány egyik főszereplője jelentett fel.
+   </p>
+   <p>
+    Először B.Zoltánt tanúként hallgatták ki a rendőrségen, majd elfogultság miatt az ügy Szombathelyre került, ahol Radnóti magánvádlóként adta elő panaszát. B.Zoltán beszámolója szerint nem is ő volt az egyetlen, akit perelt az alpolgármester:
+   </p>
+   <p rend="head">
+    csak aznap Radnóti három másik hasonló ügyét tárgyalta a bíróság.
+   </p>
+   <p>
+    A békéltető tárgyaláson Radnóti Ákos arról beszélt, hogy a győri lakosok mennyi mindent köszönhetnek neki, B.Zoltán pedig elmondta, hogy nem vette észre, hogy nyilvános volt az a bejegyzés, amihez hozzászólt. B.Zoltán hajlandó lett volna emiatt bocsánatot kérni az alpolgármestertől, azonban Radnóti ezt nem fogadta el, így a tárgyalás sikertelenül zárult – ezután fordult a kommentje miatt beperelt férfi a TASZ-hoz.
+   </p>
+   <p>
+    „Ha a csodálatos stadionjainkban egy focimeccsen a bírónak kiabálnak, hogy mit csinálsz, te fasz, akkor jelentsen fel több száz embert? Álljon már meg a menet, én nem loptam, nem csaltam, nem csináltam semmi rosszat. 
+Én nem csak a magam igazáért küzdök most. Van egy kétéves kislányom és nem szeretném, hogy ilyen világban éljen, hogy ne mondhassa ki a véleményét és ne beszélhessen nyugodtan.”
+   </p>
+   <p>
+    – mondta el a B.Zoltán, aki már különösen figyel arra, hogy nyilvános-e egy poszt, amihez kommentet ír, azonban szerinte ez pont azt korlátozza, hogy másokhoz is eljusson az információ.
+   </p>
+   <p>
+    Az elsőfokú tárgyaláson dr. Hüttl Tivadar, a B.Zoltán védelmét ellátó TASZ ügyvédje arra hívta fel a figyelmet, hogy a közügyek megvitatásának a határát akkor lépi át valaki, ha a véleménynyilvánítása az emberi természet legbelsőbb köreibe hatol és öncélúan támadja a személyiség és identitás lényegét alkotó vonásokat. A B.Zoltán által az ismerőse falán kommentált cikk azonban azt kifogásolta, hogy Radnóti az önkormányzati választások előtt az Idősügyi Tanáccsal ingyenes koncertet szervezett a nyugdíjas választóknak, ezzel befolyásolva őket.
+   </p>
+   <p rend="head">
+    Így B.Zoltán bár valóban trágár kifejezést használt az alpolgármesterre, de mindez közügy, és a közügyekkel kapcsolatos kritikát Radnóti Ákosnak tűrnie kell, különösen a felfokozott kampányidőszakban, amikor az eset is történt – érvelt az ügyvéd.
+   </p>
+   <p>
+    Ezt az érvelést azonban a bíró nem fogadta el, a férfi nem jogerősen három év próbaidőt kapott első fokon. A TASZ bízik abban, hogy másodfokon felmentik B.Zoltánt, a szervezet szerint a hatalom ellenőrzése válik nehezebbé azzal, ha a véleményt nyilvánítóknak sérelemdíjaktól, jogi költségektől vagy akár büntetőeljárástól kell tartaniuk.
+   </p>
+  </body>
+ </text>
+</TEI>

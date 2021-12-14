@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Brexit megoldása Kelet-Európában rejlik
+    </title>
+    <author>
+     <persName>
+      Pogátsa Zoltán
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     503bdf58-c68a-574a-bc15-a27cb8e63ff4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Brexit megoldása Kelet-Európában rejlik
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pogátsa Zoltán
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-07-05T10:41:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/07/05/a_brexit_megoldasa_kelet-europaban_rejlik/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/07/05/a_brexit_megoldasa_kelet-europaban_rejlik/
+     </sch:url>
+     <sch:name>
+      A Brexit megoldása Kelet-Európában rejlik
+     </sch:name>
+     <sch:datePublished>
+      2016-07-05T10:41:00
+     </sch:datePublished>
+     <sch:author>
+      Pogátsa Zoltán
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      EU
+     </sch:keywords>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+     <sch:keywords>
+      brexit
+     </sch:keywords>
+     <sch:keywords>
+      Kelet-Európa
+     </sch:keywords>
+     <sch:keywords>
+      kivándorlás
+     </sch:keywords>
+     <sch:keywords>
+      szociális_jogok
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="503bdf58-c68a-574a-bc15-a27cb8e63ff4">
+     <sch:identifier>
+      urn:uuid:0bf9129d-3dab-42aa-8075-4f767131911c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:02.334854
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:24:17.043092
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="503bdf58-c68a-574a-bc15-a27cb8e63ff4" when="2021-12-14T15:31:02.334854">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Brexit megoldása Kelet-Európában rejlik
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Általánosan elfogadott nézet, hogy akárhány indoka is volt a brit szavazóknak az Európai Unió elhagyására, a bevándorlás miatti harag mindenképp a lista élén állt.
+   </p>
+   <p>
+    Az évek során a közgazdászok számos olyan elmélettel álltak elő, amelyek szerint az EU-ból származó munkaerő-bevándorlás előnyös az Egyesült Királyság gazdaságának egészére nézve. Ezek az értékelések azonban édeskeveset tudnak tenni annak a brit munkanélkülinek a kiengesztelésére, aki lengyel buszsofőröket és litván tűzoltókat lát maga körül. Az sem biztos, hogy a Kelet-Európából származó munkaerő-vándorlás hirtelen megugrása nem járt-e hátrányos következményekkel a munkaerő-piac egyes szegmenseiben, lefele tolva a béreket és nyomás alá helyezve a közszolgáltatásokat.
+   </p>
+   <p>
+    A maradás mellett érvelő David Cameron és a kilépéspártiak egyaránt a bevándorlás megakadályozására és a bevándorlók jóléti szolgáltatásoktól való eltiltására tett ígéretekkel válaszoltak ezekre az aggodalmakra. Ez már önmagában az Európai Unió közösen elért eredményeinek kikezdését jelentette. A Brexit körül túlburjánzó bevándorlóellenes érzelmeket a jövőben nagy valószínűséggel nem csak az európai integráció, de a globalizáció szempontjából is fordulópontként fogjuk értékelni.
+   </p>
+   <p>
+    Megakadályozható lett volna mindez? Létezett alternatíva? Az egész ügy gyakorlatilag nem is olyan rég kezdődött. Gyökerei az Európai Bizottság által sikersztorikként elkönyvelt 2004-es és 2007-es keleti bővítésekhez vezethetők vissza. Az akkori csatlakozási folyamat a közös piacon belüli közösségi jog, az
+    <hi>
+     aquis communautaire
+    </hi>
+    központi elveire koncentrált: a javak, a szolgáltatások, a tőke, és persze a munkaerő szabad áramlására. Ami nyilvánvalóan hiányzott, és ma is hiányzik az EU általános felépítéséből, az a szociális dimenzió.
+   </p>
+   <p>
+    A szociálpolitika, a bérpolitika, az adózás és a hasonlók nagyrészt nemzeti jogkörbe tartoznak az EU-n belül is. Ez lehetővé tette a kelet-európai kormányok számára, hogy a kapitalizmus egy olyan válfaja mellett kötelezzék el magukat, ami az alacsony bérek, korlátozott szakszervezeti jogok és csenevész jóléti intézmények előnyein alapszik.
+   </p>
+   <p>
+    A keleti elitek között ma is általánosan elfogadott nézet, hogy a régió számára nem létezik életképes alternatív modell, annak ellenére, hogy a társadalom ezt látszólag másként gondolja. Kevés kivétellel a születési-elhalálozási mérleg negatív a régióban, ami a gazdasági kilátásokat övező általános pesszimizmus tükröződése. Miközben a kormányok és nemzetközi intézmények a konvergenciáról beszélnek, a fiatalok, főként a képzett, nyelvi készségekkel rendelkezők egyre nagyobb számban menekülnek.
+   </p>
+   <p>
+    Egy negyed század telt el a kapitalizmusra és demokráciára való áttérés óta. Hasonló idő alatt Németország lábra állt a második világháború utáni teljes megsemmisülésből, és egy hosszú gazdasági csodát épített fel, Dél-Korea pedig harmadik világbeli országból első világbelivé vált. A kelet-európaiak belefáradtak a Godot-ra várásba: nem hiszik, hogy az alacsony béreken alapuló modell, ami mostanra korrupcióba és gyenge állami képességekbe süllyedt, valaha is megteremti számukra a szükséges gazdasági biztonságot. A fiatalabb generációk ez utóbbit nyugaton találják meg. Ugyanaz a modell, amely az alacsony bérezésű munkákat nyugatról keletre helyezte át, egyúttal a keletieket a nyugati irányú kivándorlásra, a valódi lehetőségek keresésére ösztönzi.
+   </p>
+   <p>
+    Lehetett volna tenni ez ellen? Egyértelműen igen, ha az EU nem alapvetően egy neoliberális projekt lett volna, ami a szabad kereskedelmen és a termelési tényezők szabad mozgásán alapul. Vagyis ha létezett volna egy „Szociális Európa”. Ahelyett, hogy a nyugat-európai jóléti sztenderdeket erodálta volna a lefelé tartó versenyben, a keleti bővítés egy európai típusú jóléti állam minimális követelményeit is lefektethette volna.
+   </p>
+   <p>
+    A kelet-európaiak ma jelentősen kevesebbet keresnek, mint amennyit a termelékenységük lehetővé tenne. Ennek fő okai: a béralku hiánya, a gyenge önszerveződési lehetőségek és az alacsony szakszervezeti tagság. Az egy főre eső GDP néhány régióbeli országban megelőzhette a dél-európai válsággazdaságokét, de ez nem tükröződik az életszínvonalban. A jövedelem hiánya kereslethiányt jelent a vállalkozásoknak, ami a nyugatinál kevesebb munkalehetőségeket is jelent. A szociálpolitika, az egészségügy és az oktatás vészesen alulfinanszírozott.
+   </p>
+   <p>
+    Amikor a nyugat-európaiak a tömeges bevándorlásra panaszkodnak, ritkán tárgyalják, hogy mi is történik ezekben a távoli országokban, amelyekről igen keveset tudnak. Céljuk, hogy csökkentsék a vonzási tényezőt, vagy megakadályozzák a munkaerő szabad áramlását, de nem a másik irányú mozgást, a tőke áramlását nyugatról keletre.
+   </p>
+   <p>
+    Pedig a valódi válasz nem a vonzási, hanem a keleten található taszítótényezőkben rejlik. Az emberek nem döntenek a kivándorlás mellett egyszerűen csak a más országokban megkereshető magasabb bérek miatt. Legfőképp a hazai gazdasági helyzet kilátástalansága motiválja őket. Kelet-Európa nyilvánvalóan nem fogja rövid időn belül elérni a nyugati béreket és jóléti szolgáltatásokat. De már most eléggé fejlett ahhoz, hogy a jelenleginél magasabb fizetéseket és jobb közszolgáltatásokat engedjen meg magának. A minimálbért, a szakszervezeti jogokat, a munkavállalói kollektív érdekérvényesítést és a közszolgáltatásokat illető közös uniós előírások gazdasági és szociális kilátásokat biztosítanának a keletieknek saját hazájukban, és megteremtenék a valódi felzárkózást lehetővé tévő gazdasági modellt. És egyúttal hatásosan csökkentenék a Nyugat-Európára nehezedő nyomást. A Brexitre tehát keleten találhatjuk meg a fenntartható megoldást.
+   </p>
+   <p>
+    <hi>
+     A szöveg angolul a
+     Social Europe
+     oldalon jelent meg.
+    </hi>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

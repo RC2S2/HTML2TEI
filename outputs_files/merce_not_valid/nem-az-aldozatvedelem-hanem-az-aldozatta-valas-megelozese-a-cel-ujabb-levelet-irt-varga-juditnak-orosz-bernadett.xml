@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Nem az áldozatvédelem, hanem az áldozattá válás megelőzése a cél” – újabb levelet írt Varga Juditnak Orosz Bernadett
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     eaa1b899-3402-5e01-b7b9-b0d120b012df
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Nem az áldozatvédelem, hanem az áldozattá válás megelőzése a cél” – újabb levelet írt Varga Juditnak Orosz Bernadett
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-06-04T21:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/06/04/nem-az-aldozatvedelem-hanem-az-aldozatta-valas-megelozese-a-cel-ujabb-levelet-irt-varga-juditnak-orosz-bernadett/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/06/04/nem-az-aldozatvedelem-hanem-az-aldozatta-valas-megelozese-a-cel-ujabb-levelet-irt-varga-juditnak-orosz-bernadett/
+     </sch:url>
+     <sch:name>
+      „Nem az áldozatvédelem, hanem az áldozattá válás megelőzése a cél” – újabb levelet írt Varga Juditnak Orosz Bernadett
+     </sch:name>
+     <sch:datePublished>
+      2020-06-04T21:35:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      vírusmentes
+     </sch:keywords>
+     <sch:keywords>
+      családon belüli erőszak
+     </sch:keywords>
+     <sch:keywords>
+      Orosz Bernadett
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="eaa1b899-3402-5e01-b7b9-b0d120b012df">
+     <sch:identifier>
+      urn:uuid:5d53b311-6a42-4424-a418-006ac4f4a12f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:04.597408
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:16:17.024346
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="eaa1b899-3402-5e01-b7b9-b0d120b012df" when="2021-12-14T15:26:04.597408">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Nem az áldozatvédelem, hanem az áldozattá válás megelőzése a cél” – újabb levelet írt Varga Juditnak Orosz Bernadett
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Újabb levelet írt Varga Judit igazságügyi miniszternek Orosz Bernadett, az a Bujákon tavaly bántalmazott nő, aki emberi jogvédő munkát végezve maga is harcol a családon belüli erőszak visszaszorításáért. Most egy 5 fő pontból álló javaslatcsomagot küldött a miniszternek, amelyet eljuttatott szerkesztőségünkhöz is, ennek tartalmát mutatjuk be az alábbiakban.
+   </p>
+   <p>
+    Mint arról korábban beszámoltunk
+    , Orosz Bernadettet többször is súlyosan bántalmazta volt barátja. Ennek ellenére amikor a nő először Varga Judit igazságügyi miniszterhez fordult levélben, érdemi segítségnyújtás helyett
+    pszichológiai
+    segítséget ajánlottak fel neki, amit Orosz nem tart megfelelőnek, tekintve hogy nem akadályozza meg volt barátját az ismételt bántalmazásban.
+   </p>
+   <p>
+    Ezután Orosz megpróbált
+    Polt Péterhez
+    fordulni, azonban a legfőbb ügyésztől sem kapott értelmezhető választ, habár a mai levelet is tekinthetjük annak, még ha nem is a sértettel, hanem az ügyben eljáró országgyűlési képviselővel kommunikált, miután az ő levelét nem hagyhatja figyelmen kívül.
+   </p>
+   <p>
+    Orosz Bernadettel készült indén januári intrejúnk
+    itt tekinthető meg.
+   </p>
+   <p rend="head">
+    1. Vonják be az áldozatokat és jogvédőket is a közös munkába
+   </p>
+   <p>
+    A jogvédő arra kéri Varga Juditot, hogy ha tényleg elkészült az a a családok, a gyermekek és a nők védelme érdekében készített szakmai munkaanyag, amelyről a kormány májusban
+    számolt be
+    , akkor küldje neki is, illetve más jogvédőknek is.
+   </p>
+   <p>
+    Ezen a ponton Bernadett arról is ír, hogy a magyar állam még mindig nem védte meg őt sem megfelelő módon a kapcsolaton belüli erőszaktól: jelenleg mindössze távoltartás van érvényben az elkövetővel szemben 2020. július 18-ig.
+   </p>
+   <p>
+    Arra is emlékezteti Varga Juditot, hogy márciusban a miniszter közös munkára hívta a civileket, hogy együtt kezdjék meg a joggyakorlat és az intézményrendszer működésének felülvizsgálatát.
+   </p>
+   <p rend="head">
+    2.  Védjék meg a női emberi jogvédőket
+   </p>
+   <p>
+    Az is aggodalommal tölti el Orosz Bernadettet, hogy amikor májusban a Parlamentben Varga-Damm Andrea kérdést intézett Varga Judithoz a kapcsolaton belüli erőszak áldozatainak a védelméről, miniszter azt válaszolta: „Mi a hisztériakeltés és uszítás helyett a valódi munkában és cselekvésben hiszünk.”
+   </p>
+   <p>
+    Ennek kapcsán Orosz Bernadett azt írja, bár a magyar igazságügyi miniszter méltóságának a védelme szerinte is rendkívül fontos az igazságszolgáltatásba vetett közbizalom fenntartásához, ugyanakkor az is fontos, hogy a miniszter aktív támogatásban részesítse azokat a női emberi jogvédőket is, akik a kapcsolaton belüli erőszak visszaszorításán dolgoznak.
+   </p>
+   <p>
+    „Szeretném a nagy nyilvánosság előtt és jogbiztonságban végezni az 
+emberi jogi jogvédő munkámat. Remélem,  Ön lehetővé teszi igazságügyi miniszterként, hogy azok is őszintén beszéljenek a kapcsolaton belüli erőszakról, akiknek esetleg más a jogi álláspontja és politikai véleménye mint Önnek”
+   </p>
+   <p>
+    – írja levelében Bernadett.
+   </p>
+   <p rend="head">
+    3. Nem az áldozatvédelem, hanem az áldozattá válás megelőzése a cél
+   </p>
+   <p>
+    Orosz Berndett elmondása szerint azért állt ki Brüsszelben és Magyarországon is a nyilvánosság elé, hogy közösen előzzék meg az erőszakot és az áldozathibáztatást.
+   </p>
+   <p>
+    Ezzel kapcsolatban azt javasolja Varga Juditnak, hogy meg kell szüntetni a jogfosztást és diszkriminációt, amibe eddig a magyar társadalom, politika és jogrendszer belekényszerítette a fizikai, szexuális, lelki, és gazdasági erőszak áldozatait. Szerinte a Magyarországon élő embereket meg kell védeni az erőszaktól: elsősorban hatékony bűnmegelőzéssel, megelőző kampányokkal, megfelelő jogszabályokkal és jogalkalmazással.
+   </p>
+   <p>
+    „A cél nem csak az áldozatvédelem, hanem az áldozattá válás csökkentése”
+   </p>
+   <p>
+    – írja.
+   </p>
+   <p rend="head">
+    4.  Intézményi árulás
+   </p>
+   <p>
+    A negyedik javaslatabból indul ki, hogy az intézmények és a jogrendszer nem nyújtanak elég védelmet a családon belüli erőszak áldozatainak.
+   </p>
+   <p>
+    „Az áldozatoknak szinte halálra kell dolgozniuk magukat Magyarországon, hogy meg tudják védeni magukat!”
+   </p>
+   <p>
+    – írja a jogvédő.
+   </p>
+   <p>
+    „Döbbenten figyeli egész Magyarország, hogyan bánnak a hatóságok velem, a 6 
+gyermekes édesanyával, nagymamával, akit majdnem agyonvert a volt barátja a védett katonai objektumban Bujákon. A jelenlegi helyzetben létszükséglet, hogy Miniszter Asszony komolyan vegye az áldozatsegítést, és szóba álljon az áldozatokkal”
+   </p>
+   <p>
+    – teszi hozzá. Majd arra mutat rá: szerinte a magyar jogrendszer egyáltalán nem biztosítja a szükséges jogi garanciákat minden védelemre szorulónak. Példaként 
+a Btk. § 212/a paragrafusát hozza, amely szerinte „egyértelműen” nem védi meg a
+    <hi>
+     volt
+    </hi>
+    partner által elkövetett erőszaktól a nőt, ha nem éltek együtt – ilyen volt Bernadett bántalmazásának esete is.
+   </p>
+   <p rend="head">
+    5. Együttműködést az uniós intézményekkel
+   </p>
+   <p>
+    Végül a jogvédő felidézi, hogy januárban elment az Európai Parlamentbe, hogy felhívja a képviselők és a sajtó figyelmét az áldozatok helyzetére Magyarországon és az Európai Unióban. Szerinte kulcsfontosságú, hogy az Európai Bizottság és az EP célirányos erőfeszítést tegyen – a tagországokkal közösen – az erőszak  megelőzésére.
+   </p>
+   <p>
+    Ha támogatásra van szüksége, mert Önt vagy ismerőseit bántalmazás vagy szexuális erőszak érte,
+    itt talál részletes információkat
+    .
+   </p>
+   <p>
+    <hi rend="bold">
+     Segélyvonal bántalmazott és szexuális erőszakot átélt nőknek:
+    </hi>
+    06-80-505-101 (hétfő, kedd, csütörtök, péntek 18-22; szerda 10-12 óráig; ingyenesen hívható mobilról is).
+   </p>
+   <p>
+    A biztonságos internethasználatról
+    itt olvashat bővebben
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Melegekkel szívózva bizonyítaná a román ortodox egyház, hogy még mindig tényező
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     381b3171-b540-58cd-8123-f7fbc3cbd661
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Melegekkel szívózva bizonyítaná a román ortodox egyház, hogy még mindig tényező
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-01-30T17:16:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/01/30/melegekkel_szivozva_bizonyitana_a_roman_ortodox_egyhaz_hogy_meg_mindig_tenyezo_persze_a_magyarok_is_/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/01/30/melegekkel_szivozva_bizonyitana_a_roman_ortodox_egyhaz_hogy_meg_mindig_tenyezo_persze_a_magyarok_is_/
+     </sch:url>
+     <sch:name>
+      Melegekkel szívózva bizonyítaná a román ortodox egyház, hogy még mindig tényező
+     </sch:name>
+     <sch:datePublished>
+      2016-01-30T17:16:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      románia
+     </sch:keywords>
+     <sch:keywords>
+      LMBTQ
+     </sch:keywords>
+     <sch:keywords>
+      homofóbia
+     </sch:keywords>
+     <sch:keywords>
+      homoszexualitás
+     </sch:keywords>
+     <sch:keywords>
+      egyház
+     </sch:keywords>
+     <sch:keywords>
+      melegházasság
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="381b3171-b540-58cd-8123-f7fbc3cbd661">
+     <sch:identifier>
+      urn:uuid:bebd9fa0-b423-4c89-bde3-3b9a606a4cdb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:08.260260
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:20:16.095059
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="381b3171-b540-58cd-8123-f7fbc3cbd661" when="2021-12-14T15:31:08.260260">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Melegekkel szívózva bizonyítaná a román ortodox egyház, hogy még mindig tényező
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Pörög az aláírás-gyűjtési kampány, amelyet a tavalyi év végén a Román Ortodox Egyház indított, és amely a család fogalmának férfi és nő kapcsolataként való definíciójára irányuló alkotmánymódosításnak vetné meg az ágyat. A kezdeményezést hivatalosan egy ernyőszervezet, a Koalíció a családért jegyzi, ám az újságírók és elemzők egyetértenek abban, ez csak egy paraván, mely mögé a politikába elvileg beavatkozási joggal nem rendelkező egyház bújik. Ahhoz, hogy az alkotmánymódosítási kezdeményezés sikeres legyen, 500 ezer aláírást kell összegyűjteni úgy, hogy legalább 22 megye mindegyikéből minimum 20 ezer szignó szerepeljen a listán. Eddig már a szükséges dupláját, több mint egy millió aláírást sikerült bezsebelni, ám a földrajzi eloszlás követelményét még nem sikerült kipipálni.
+   </p>
+   <p>
+    A tavaly februárban
+    ugyanilyen népszavazást tartó
+    Szlovákiához hasonlóan Romániát sem fenyegeti annak a veszélye, hogy egyhamar a melegek paradicsomává válna, és a jámbor hívőknek kéz a kézben sétálgató melegek káros ódiumát kellene elviselniük az utcán, ne adj’ isten, anyakönyvvezető előtt egymásnak örök hűséget valló párokét. Romániában jelenleg még a bejegyzett élettársi kapcsolat lehetősége sem létezik, sőt a homoszexualitás dekriminializációjára is csak a 2000-es évek elején került sor. Az alkotmány ugyan valóban „házastársak szabad akaratnyilvánításából létrejött házasságon” alapuló valamiként határozza meg a családot, és nem szögezi le a házastársak nemét, de ettől még Románia az egyik leginkább homofób társadalom az unión belül, ahol egyáltalán nem örömünnep melegnek lenni (egy 2013-as jelentés szerint uniós szinten itt történik a harmadik legtöbb homofób indíttatású támadás, és egy másik szerint pedig az emberek 54 százaléka nem ülne egy asztalhoz egy LMBT személlyel).
+   </p>
+   <p>
+    Hogy az ortodox egyház miért is áll bele teljes infrastruktúrájával – templomokban gyűjtik az aláírásokat – épp most ebbe az ügybe, azt nem a hitbéli kérdések vagy a vallásos emberek elnyomása magyarázza, hanem profán hatalmi megfontolások.
+   </p>
+   <p>
+    <hi rend="bold">
+     Csíráiban fojtani el a szekularizációt
+    </hi>
+   </p>
+   <p>
+    Az ország lakosságának 86,5 százaléka vallja magát ortodox vallásúnak a 2011-es népszámlálási adatok szerint, és az egyház ennek megfelelően a román társadalom egyik vezető ereje, melynek sikerült szinte mindenhová befurakodnia. Egy olajozott nagyvállalatként működik, hitelintézettel, médiabirodalommal, luxusautókkal, és olyan csodálatos, milliókra rúgó kereskedelmi tevékenységekkel, mint az autószentelés – és mindezt a hívek hozzájárulásaiból, plusz erős állami finanszírozásból tartják fenn. A politikával való összefonódás felfedezéséhez sem kell Sherlock Holmes-nak lennünk, nem ritka, hogy a választási kampány során egy-egy pópa a helyi erősember mellett szólal fel, a 2014-es elnökválasztások napján pedig Daniel pátriárka könnyen dekódolható szentbeszédében Klaus Iohannis támogatásra buzdította híveit. A mindenkori hatalom támogatása kifizetődő biznisz, hiszen a támogatásért cserébe a politikum adómilliókat folyat az egyház zsebébe – csak hogy a nagyságrendeket értsük: 2014-ben a központi és önkormányzati költségvetések 42 millió eurót (több mint 13 milliárd forintot) utaltak ki az egyháznak kimondottan templomok építésére és karbantartására.
+   </p>
+   <p>
+    Mindezek ellenére, a rendszerváltás utáni évtizedekben a Román Ortodox Egyház az egyik legnagyobb társadalmi bizalomnak örvendő intézmény maradhatott, nyolcvan százalék körüli bizalmi indexszel. Napjainkra azonban ez a szám hatvan százalék alá csökkent, tavaly ősszel pedig hetek alatt sikerült még öt százalékot letornászniuk. A 63 halálos áldozatot követelő októberi diszkótűz kapcsán az egyház képviselői több felháborító nyilatkozatot is tettek, köztük volt a pátriárka „az emberek menjenek templomba, és ne diszkóba” ideges kiszólása, ami nagy port kavart a médiában.
+   </p>
+   <p>
+    A tragédia után egyre többen kezdtek el kritikusan beszélni az egyház szerepéről, sőt a novemberi tüntetéshullám nyomán hatalomba kerülő technokrata kormány még azt is belengette, hogy nem finanszírozza többé a parlamenttel szemben épülő grandiózus Nemzet Megváltása Katedrálist.
+   </p>
+   <p>
+    A főpap beszél, az elnök hallgat (Fotó: Codrin Prisecaru / Mediafax Foto)
+   </p>
+   <p>
+    Ezek a fejlemények, illetve a tény, hogy a másik legnagyobb, Unión belüli ortodox ország, Görögország nemrégiben elfogadta a melegek bejegyzett élettársi kapcsolatát lehetővé tévő törvényt, magyarázza, miért is kezdett az egyház olyan kampányba, mely egy sok tekintetben igen konzervatív és vallásos társadalom egyik legláthatatlanabb és legelnyomottabb kisebbségét kezdi ütlegelni. Vagyis röviden: a melegek hátán próbál újra felmászni az ortodox egyház, bebizonyítani, hogy még igenis van befolyása, mozgósítóereje.
+   </p>
+   <p>
+    Egy lassacskán, de határozottan szekularizálódó társadalomban az egyház egy amúgy is megbélyegzett csoport további bökdösésével próbál elébe állni a szekularizációnak.
+   </p>
+   <p>
+    A történet tehát igazán egyszerű, a szükséges aláírások összegyűlnek a májusi határidőig, ám ahhoz, hogy ebből tényleges alkotmánymódosítás legyen, még hosszú utat kell bejárni. Először az alkotmánybíróság jóváhagyását kell megszerezni (kétséges, hogy sikerül-e), majd parlamenti kétharmad kell hozzá, és utána még érvényes népszavazás is. A siker nem garantált, de az egyház vezetőinek talán nem is ez a céljuk. Megelégszenek azzal, hogy egy gyenge kisebbséget rugdosva újra erőről tehetnek tanúbizonyságot, és egy mesterségesen megalkotott kommunikációs térben ők lehetnek a jófiúk, a hit és az értékek védelmezői. Újravallásosíthatják a nyilvánosságot, mely az utóbbi időben a szekularizáció enyhe jeleit mutatta.
+   </p>
+   <p>
+    <hi rend="bold">
+     A kisebbségi egyházak is beszállnak
+    </hi>
+   </p>
+   <p>
+    A dolog pikantériája, hogy a kezdeményezéstől nem zárkóztak el a magyar kisebbség egyházainak képviselői sem. Az erdélyi Református Egyházkerület támogatja a kampányt, sőt a
+    Transindex információi szerint
+    arra is vannak törekvések, hogy az aláírásgyűjtésbe is beszálljanak. Az erdélyi római katolikus vezetők is támogatják az ügyet, a
+    Krónika napilapban
+    Jakubinyi György, gyulafehérvári érsek, még az Ádám és Béla poént is ízlésesen elsütötte.
+   </p>
+   <p>
+    Az persze senki nem várja el a katolikus vagy református egyházaktól, hogy hirtelen melegházasságokat celebráljanak (amúgy meg minek is? – a melegházasságot mint az elfogadás csúcspontját
+    itt kritizáltuk
+    ), de az nem lenne túlzott elvárás, hogy csöndben maradjanak, és ne kezdjék el tolni az ortodox egyház szekerét, melynek célja, hogy újra bebizonyítsa, hogy ő az úr a házban, igenis van befolyása, még a politikai közösség alapokmányára is (melyhez amúgy semmi köze, lévén, hogy ugyancsak a román alkotmány írja elő a laicitást az állam számára). A kisebbségi egyházak amellé az ortodox egyház mellé álltak be, mely vad nacionalizmusában kedve szerint ugyanúgy bánna a nemzeti kisebbségekkel, mint a szexuális kisebbségekkel. Amellé az ortodox egyház mellé, mely csak kedvtelésből görögkeleti kolostorokat épít mindenhová, még oda is, ahol a lakosság elsöprő többsége magyar. Amellé az ortodox egyház mellé, melynek vezetői hol a szélsőjobboldali legionáriusokat, hol az őrjöngő ceausescui nacionalizmust éltetik.
+   </p>
+   <p>
+    Emberségből és taktikai érzékből is csendben maradhattak volna. De hát egy jó buzizást azért ők sem hagyhatnak ki.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a
+    Facebookon
+    is!
+   </p>
+   <p>
+    A Kettős Mérce csak akkor tud működni, ha te is támogatod! A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét akkor tudjuk hosszú távon fenntartani, ha legalább 600-an támogattok minket. Jelenleg 125 állandó támogatónk van. Ha szerinted is szükség van egy olyan baloldali és független lapra, mint a Mérce,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

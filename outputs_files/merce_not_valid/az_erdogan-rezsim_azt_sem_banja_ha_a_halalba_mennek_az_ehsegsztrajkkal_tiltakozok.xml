@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az Erdogan-rezsim azt sem bánja, ha a halálba mennek az éhségsztrájkkal tiltakozók?
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f654bf65-55cb-5025-b3b3-ce7e87173586
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az Erdogan-rezsim azt sem bánja, ha a halálba mennek az éhségsztrájkkal tiltakozók?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-05-16T18:36:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/05/16/az_erdogan-rezsim_azt_sem_banja_ha_a_halalba_mennek_az_ehsegsztrajkkal_tiltakozok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/05/16/az_erdogan-rezsim_azt_sem_banja_ha_a_halalba_mennek_az_ehsegsztrajkkal_tiltakozok/
+     </sch:url>
+     <sch:name>
+      Az Erdogan-rezsim azt sem bánja, ha a halálba mennek az éhségsztrájkkal tiltakozók?
+     </sch:name>
+     <sch:datePublished>
+      2017-05-16T18:36:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      törökország
+     </sch:keywords>
+     <sch:keywords>
+      éhségsztrájk
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f654bf65-55cb-5025-b3b3-ce7e87173586">
+     <sch:identifier>
+      urn:uuid:df769798-078d-40a8-89fe-ce1a868e8fdb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:07.235514
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:30:12.184508
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f654bf65-55cb-5025-b3b3-ce7e87173586" when="2021-12-14T15:26:07.235514">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az Erdogan-rezsim azt sem bánja, ha a halálba mennek az éhségsztrájkkal tiltakozók?
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Ha az ember igazságtalanságot tapasztal, magával vagy mással szemben, több módon is eljárhat: behunyja a szemét, s igyekszik nem látni, gondolkozni, érezni. Vagy panaszkodik szüntelen, de nem cselekszik. Ezeknek semmi hasznuk, sem az egyénre, sem a közösségre nézve. Azt is teheti, hogy ír és beszél az igazságtalanság ellen, vagy csatlakozik egy tüntetéshez, akár tüntetést is szervez. Ez is az ellenállás egy formája, és soha nem felesleges. Ha a tüntetés nem hoz eredményt, akkor maradnak a radikálisabb megoldások, s ennek egyik erőszakmentes formája az éhségsztrájk.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Nuriye Gülmen, Semih Özakça, Kemal Gün, kép
+     forrása
+    </hi>
+   </p>
+   <p>
+    Van abban valami mélységesen lenyűgöző és tiszteletreméltó, amikor valaki olyan meggyőződéssel s elszántsággal harcol valamiért, hogy képes magától megvonni az ételt heteken át, akár a saját egészsége árán is. Törökországban az éhségsztrájknak történelme van, főleg a 70-80-90-es éves években bebörtönzött baloldali politikai foglyok módszere volt ez, ami gyakran halállal végződött. 2017 tavaszán 217 kurd politikai fogoly lépett éhségsztrájkba, hogy a börtönökben levő embertelen körülmények, a kínzások, hatalmi visszaélések ellen tiltakozzanak, s hogy az igazságügyi minisztert felszólítsák, indítson vizsgálatot, s javítson a  börtönbeli feltételeken.
+   </p>
+   <p>
+    A sztrájk 40 napra volt szervezve, de voltak foglyok, akik több mint 50 napon át nem ettek, s csak Selahettin Demirtaş felhívására szüntették be a sztrájkot, veszélyesen leromlott egészségi állapotban. Demirtaş – a kurd HDP párt társelnöke – 2016 novembere óta szintén börtönben van, 142 év börtönre ítélték. A hatóságok válasza a sztrájkra pusztán annyi volt, hogy Törökország zéró toleranciát mutat a kínzások és hatalmi visszaélések iránt, s a török börtönökben semmi ilyesmi nem tapasztalható. Tenni nem tettek semmit.
+   </p>
+   <p>
+    Lehet erre azt gondolni, hogy ez a sztrájk felesleges volt. De minden akciónak van hatása, még ha nem is rögtön, és olyan formában, ahogyan várjuk. Egy héttel azután, hogy a börtönökben elkezdődött az éhségsztrájk, egy apa, a 70 éves Kemal Gün a délkelet-törökországi Dersimből szintén sztrájkba lépett. Az idős ember azután kezdte a sztrájkot Dersim főterén, hogy a török katonaság három hónapon át válasz nélkül hagyta azt a kérését, hogy adják vissza neki a fia holttestét. A 27 éves Murat Gün a tavaly novemberi, illegális radikális baloldali csoportok ellen folytatott légitámadások alatt vesztette életét, s  a hatóságok  sem az ő maradványait, sem a többi kilenc fiatal halottét nem adták vissza azóta sem a családoknak.
+   </p>
+   <p>
+    „
+    <hi>
+     A végsőkig ki fogok tartani. Nem fogok innen elmenni, míg nem kapok legalább egy csontot, ami a fiamhoz tartozott. Ha kell, addig folytatom a sztrájkot, míg belehalok.
+    </hi>
+    ” Ma, május 15-én, hétfőn van Kemal Gün éhségsztrájkjának 79. napja. Az  állapota életveszélyes, a látása meggyengült, s az orvosok szerint, ha nem szünteti be a sztrájkot, először a látását veszíti el, utána az életét.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    Néhány nappal az után, hogy Kemal Gün elkezdte a sztrájkot, 2017 március 11-én Nuriye Gülmen volt egyetemi oktató és Semih Özakça tanító is éhségsztrájkba lépett. Nuriye Gülmen, aki a konyai Selçuk egyetemen dolgozott tavaly novemberig, egyike a több mint 7000 akadémikusnak és 110 000 közalkalmazottnak, akiket a 2015-ös puccs után életbe léptetett különleges állapot alatt bocsátottak el. Nuriye és Semih is az
+    Akademics for Peace
+    (Barış Için Akademisyenler) csoport tagjai, ami azért jött létre, hogy a kurdok és török állam közti béketárgyalások újrakezdését, s a dél-keleti, többségében kurdok-lakta országrészekben elkezdett ostromállapot felfüggesztését indítványozza. A csoporthoz csatlakozó 2000 egyetemi tanár, kutató nagyrésze időközben elveszítette a munkáját, s mivel az összes elbocsátott alkalmazott fekete listára kerül, újabb munkát találniuk az oktatásügyben lehetetlen. Tehát azok az emberek, akiket nem bebörtönöztek a puccs után, ‘csak’ elbocsátottak, tulajdonképpen gazdasági halálraítéltek. Közülük hárman azóta öngyilkosságot követtek el, a többiek megpróbálnak boldogulni, ahogy lehet.
+   </p>
+   <p>
+    Nüriye Gülmen más utat választott. Miután a fellebezésére nem kapott választ, még csak okot sem az elbocsátásra, tavaly novemberben, a munkája elvesztése utáni napokban elutazott Ankarába, s leült a város főterén, Kizilayban, az emberi jogokat jelképező női szobor mellett, ami az ankarai tüntetők legfontosabb helyszíne. Ott egy kartonlapra felírta: „Elbocsátottak. Az állásomat akarom”, és elkezdte ezt hangosan is skandálni. Tíz percen belül megjelent a rendőrség, akiket a szobor környékén éjjel-nappal figyelő civil rendőrök mozgósítottak.
+   </p>
+   <p>
+    Miután a felszólításra sem hagyta abba a tüntetést, hátracsavart kézzel elvonszolták, bevitték a rendőrségre, majd pár óra múlva elengedték. Következő nap ugyanabban az időben, délután 1.30-kor megjelent a szobor mellett, a kartonlapjával, elkezdte a tüntetést, pár perc múlva már el is hurcolta  a rendőrség,  majd este elengedték. A letartóztatások után néha kék foltok voltak a testén.
+   </p>
+   <p>
+    <hi rend="bold">
+     Egy januári letartózás közben, forrás: Twitter
+    </hi>
+   </p>
+   <p>
+    A következő napokban ugyanez megismétlődött, s így ment ez a tüntetés-letartóztatás-tüntetés kör heteken át, míg az emberek elkezdtek felfigyelni, hogy az emberi jogok szobra mellett ott van egy másik, egy bátor, hajthatatlan, forradalmi női alak is.
+   </p>
+   <p>
+    Pár héttel azután, hogy elkezdte a tüntetést, csatlakozott hozzá egy másik elbocsátott oktatási alkalmazott, Semih Özakca, aki Mardinban volt tanító, míg el nem vették tőle a munkáját. Decembertől kezdve minden egyes nap Nuriye és Semih délután fél kettőkor megjelent a szobornál. Ekkor már nem csak a saját állásukért tüntettek, azt követelték, hogy az összes többi, igazságtalanul elbocsátott közalkalmazott munkáját is adják vissza. Egyre több ember, fiatal-öreg, csatlakozott hozzájuk, politikai meggyőződéssel vagy anélkül. Volt, aki velük együtt ült, énekelt, skandált, táncolta a
+    halayt
+    (egy anatóliai körtáncot), míg a rendőrség meg nem jelent, s feloszlatta a tüntetést, letartóztatta az ellenállókat. A kormány részéről nem volt semmi reakció, az elbocsátások pedig folytatódtak.
+   </p>
+   <p>
+    Ma, május 15-én van a 68. napja, hogy Nüriye és Semih éhségsztrájkba kezdett. B-vitaminon, sós-cukros vízen s gyógyteán kívül nem vesznek más táplálékot magukhoz. A 63. nap után az állapotuk sokat romlott: több mint 15kg-ot fogytak, a vérnyomásuk kritikusan alacsony, s csak segítséggel tudnak lábra állni. A beszéd láthatóan nehezükre esik.
+   </p>
+   <p>
+    Az utóbbi hetekben Törökországban és külföldön is egyre többen fejezik ki a szolidaritásukat, úgy egyének, mint szervezetek: írásban, beszédben, felvonulásokon, szimbolikus, pár napos éhségsztrájkokkal. Az utóbbi pár napban a török mainstream sajtó is felfigyelt rájuk, a szobor környéke tele van fotósokkal s újságírókkal. A CHP, a legnagyobb ellenzéki párt képviselői felkérték a kormányt, hogy tegyen lépéseket az igazságtalan elbocsátások ügyében, mert ha továbbra is ignorálják a sztrájkolókat, az a két fiatal halálával végződhet. A kormány részéről még mindig nincs válasz.
+   </p>
+   <p>
+    A törökországi civilek körében Nüriye és Semih már hónapok óta hősnek számít. Ők azok, akik az utóbbi másfél évben az általánosan eluralkodó nyomott, reménytelennek tűnő állapotban megmutatták, hogy reménytelen állapot tulajdonképpen nem létezik, csak a passzivitás s az igazságtalanság, elnyomás elfogadása az, ami veszélyes. Az ő példájukon, s a többi – éhségsztrájkot vagy az ellenállás már formáját választó – aktivista példáján keresztül nyilvánvaló, hogy minden egyéni akció, ami meggyőződéssel, integritással s kitartással kerül kivitelezésre, s ami az egyéni érdekeken túlmutat, az szolidaritást,a közösség összekovácsolódását, s így erejének megnövekedését eredményezi. Ezek együttesen pedig vagy a tiltakozás céljának elérését fogják okozni, vagy más, további akciókat inspirálni s motiválni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kovács Margit
+    </hi>
+    <hi rend="bold">
+     Frissítés 05.18.: Szerdán Kemal Gün
+     felhagyott a sztrájkkal
+     , miután ígéretet kapott, hogy átadják neki fia földi maradványait.
+    </hi>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

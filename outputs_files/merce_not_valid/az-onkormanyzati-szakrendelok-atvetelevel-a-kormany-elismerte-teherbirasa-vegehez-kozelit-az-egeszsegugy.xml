@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az önkormányzati szakrendelők átvételével a kormány elismerte: teherbírása végéhez közelít az egészségügy
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1bf7ca36-b57a-53a0-8fb9-a116b7c3b3bc
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az önkormányzati szakrendelők átvételével a kormány elismerte: teherbírása végéhez közelít az egészségügy
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-24T08:41:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/24/az-onkormanyzati-szakrendelok-atvetelevel-a-kormany-elismerte-teherbirasa-vegehez-kozelit-az-egeszsegugy/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/24/az-onkormanyzati-szakrendelok-atvetelevel-a-kormany-elismerte-teherbirasa-vegehez-kozelit-az-egeszsegugy/
+     </sch:url>
+     <sch:name>
+      Az önkormányzati szakrendelők átvételével a kormány elismerte: teherbírása végéhez közelít az egészségügy
+     </sch:name>
+     <sch:datePublished>
+      2021-03-24T08:41:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      egészségügy
+     </sch:keywords>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      egészségügyi dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      járványvédekezés
+     </sch:keywords>
+     <sch:keywords>
+      merkely béla
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1bf7ca36-b57a-53a0-8fb9-a116b7c3b3bc">
+     <sch:identifier>
+      urn:uuid:3ad334ab-dd23-49cc-ba7b-79ff949a8fd7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.138696
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:40:40.786078
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1bf7ca36-b57a-53a0-8fb9-a116b7c3b3bc" when="2021-12-14T15:30:45.138696">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az önkormányzati szakrendelők átvételével a kormány elismerte: teherbírása végéhez közelít az egészségügy
+   </head>
+   <p>
+    Bár a kormányzati képviselők vagy a járvány elleni küzdelemben részt vevő szakemberek nem közölnek egyértelmű információkat azzal kapcsolatban, hogy mekkora a magyar egészségügy teherbírása, ám a kedd este megjelent friss rendelet arra enged következtetni, hogy nem rózsás a helyzet.
+   </p>
+   <p rend="head">
+    Ennek értelmében ugyanis a területileg illetékes kórházak szakmai irányítása alá kerülnek az önkormányzati szakrendelők a veszélyhelyzet idejére, mégpedig a hatékonyabb egészségügyi védekezés, a betegellátás és az egészségügyi dolgozók kiegyensúlyozottabb terhelése, és a védőoltási program végrehajtásának biztosítása érdekében.
+   </p>
+   <p>
+    A Koronavírus Sajtóközpont
+    közleménye szerint
+    az intézkedés lehetővé teszi, hogy a legkiélezettebb védekezési helyzetben egységes irányítás alá tartozzon az egészségügyi ellátórendszer, fokozva a vírus elleni védekezés hatékonyságát.
+   </p>
+   <p>
+    Kiemelték: a koronavírus-járvány most zajló harmadik hullámában minden eddiginél több a kórházi beteg és nagyobb terhelés alatt vannak a kórházak. Fontos, hogy az önkormányzati fenntartású szakrendelők és dolgozóik is szükség szerint részt vegyenek a járvány elleni védekezésben, és koordináltan lássák el betegellátási feladataikat, és az oltás tömeges szakaszában majd megfelelően végrehajtsák az oltási feladatokat.
+   </p>
+   <p>
+    A jogszabály ezért a veszélyhelyzet idejére a városi kórházakhoz telepíti a területükön működő önkormányzati fenntartású járóbeteg-szakellátók tekintetében a szakmai irányítási jogkörök gyakorlását, a járóbeteg-szakellátó szolgáltató működésének felügyeletét, és a javaslattételt a járóbeteg-szakellátó egészségügyi szolgáltató egészségügyi dolgozói és szakdolgozói jogszabályban meghatározott berendelésére. A jogszabály rögzíti, hogy a veszélyhelyzet ideje alatt az egészségügyi intézmények folyamatos munkarendben működnek.
+   </p>
+   <p>
+    Emellett a kormányrendelet az irányító megyei intézmények (azaz a megyei kórházak, a vidéki egyetemi klinikai központok, a fővárosi centrumkórházak) hatáskörét kiterjeszti az illetékességi területen valamennyi egészségügyi tevékenység irányítására. Az irányító megyei intézménynél 24 órás vezetői ügyeletnek kell működnie.
+   </p>
+   <p>
+    A veszélyhelyzet ideje alatt az önkormányzati szakrendelők vezetői fokozott felelősséggel kötelesek vezetési, irányítási feladataik ellátására, különösen felelnek az általuk vezetett szakrendelő folyamatos, teljes körű, határidőben történő és valós adatszolgáltatásáért.
+   </p>
+   <p>
+    A szakrendelők vezetői kötelesek a hatékony és összehangolt védekezés érdekében az országos kórház-főigazgató védekezés megszervezésére vonatkozó utasításait végrehajtani, folyamatos kapcsolatot tartani az irányító szerv vezetőjével, az Országos Mentőszolgálattal, valamint a megyei, fővárosi védelmi bizottsággal. Az önkormányzati szakrendelőt működtető egészségügyi szolgáltató felelős az általa végzett védőoltási tevékenység jogszerűségéért, szabályszerűségéért, szakszerűségért – olvasható a Koronavírus Sajtóközpont közleményében.
+   </p>
+   <p>
+    A kedd este megjelent
+    rendelet
+    a közleményben foglaltakon túl más előírásokat is tartalmaz.
+   </p>
+   <p rend="head">
+    A jogszabály lehetőséget ad arra is, hogy a „háziorvosi szakképzettség mellett egyéb szakképzettséggel rendelkező háziorvosokat – a védőoltási tevékenység sérelme nélkül – a megyén belül működő, fekvőbeteg- vagy járóbeteg-szakellátást nyújtó egészségügyi intézményhez” kirendeljék.
+   </p>
+   <p>
+    Egy másik fontos rendelkezés, amely egyébként a járvány kezdete óta hasznos eszköz lehetett volna a védekezés koordinálásában, előírja: a „Elektronikus Egészségügyi Szolgáltatási Tér működtetője a pandémiás helyzet egészségügyi kockázatainak mérsékléséhez szükséges mentési tevékenység megszervezése céljából megismerhetővé teszi az állami mentőszolgálat számára az egyes fekvőbeteg-szakellátást nyújtó egészségügyi intézmények betegellátás céljára felhasznált kapacitásaira, valamint szabad kapacitásaira vonatkozó adatokat.”
+   </p>
+   <p>
+    Vagyis a teszteléseknél már eddig is feltételezhetően használt központi egészségügyi adatbázist most a kórházi kapacitások felmérésének is a szolgálatába állítja.
+   </p>
+   <p>
+    A COVID-19 brit mutációjának februári megjelenése óta Orbán Viktor és Müller Cecília tisztifőorvos is többször hangsúlyozta, hogy a harmadik hullám eddig nem látott nehézségeket fog okozni az országnak. Azt azonban következetesen tagadták, hogy tűrőképessége határán lenne az egészségügyi rendszer.
+   </p>
+   <p>
+    Gulyás Gergely miniszter még a múlt csütörtöki kormányinfón is
+    álhírnek nevezte
+    , hogy kapacitásproblémák lennének a védekezésben.
+   </p>
+   <p rend="head">
+    A most közzétett rendelet azonban minden szónál világosabban jelzi, hogy a kormányzati kommunikáció nem bontja ki a valóság minden szeletét, és ha a kórházi ágyak és lelegeztetőgépek rendelkezésre is állnak, az ellátást végző személyzet tekintetében sokkal rosszabb a helyzet.
+   </p>
+   <p>
+    Ezért lehet szükség arra, hogy a kormányzat gyakorlatilag saját ellenőrzése alá rendeli az önkormányzat szakrendelőket is, lehetővé téve az ott dolgozó szakemberek bevonását a járványvédelembe, átvezénylését a koronavírusos pácienseket ellátó kórházakhoz.
+   </p>
+   <p>
+    Vagyis minden jel szerint nem a kormány, hanem a Magyar Orvosi Kamara mondott igazat akkor, amikor már két hete az egészségügyi személyzet létszámának elégtelenségére
+    hívta fel a figyelmet
+    .
+   </p>
+   <p>
+    A kormányzati védekezésben részt vevő Merkely Béla, a Semmelweis Egyetem rektora decemberben még azt mondta, a magyar egészségügy 1000 lélegeztető gépen lévő beteget bír el, ehhez képest március 23-án 1389-en voltak lélegeztetőgépen.
+   </p>
+   <p>
+    Emellett az is fontos adat, hogy 11 873 igazolt fertőzöttet ápoltak tegnap a kórházakban. Arról azonban mindeddig nem tett közzé információkat a kormány, hogy az ország különböző régióiban mi a helyzet, hol súlyosabb, hol kevésbé súlyos, hol vannak szabad kapacitások és hol van túlterhelve a rendszer. A médiában egyébként sorra jelennek meg az olyan névtelen
+    beszámolók
+    , amelyben kórházi dolgozók mesélnek a náluk uralkodó áldatlan állapotokról, a rájuk nehezedő nyomásról.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (9:45) –
+    </hi>
+    Meghalt 249 beteg, és újabb 7587 magyar állampolgárnál mutatták ki a koronavírus-fertőzést – közölte a koronavirus.gov.hu szerdán, kiemelve: eddig 1 696 110 embert oltottak be Magyarországon, közülük 494 520-an már a második adagot is megkapták.
+   </p>
+   <p>
+    A kormányzati portálon azt írták: 593 710-re nőtt a Magyarországon azonosított fertőzöttek száma. Az elhunytaké 18 952-re emelkedett, a gyógyultak száma 381 807.
+   </p>
+   <p>
+    Az aktív fertőzöttek száma 192 951-re nőtt.
+    <hi rend="bold">
+     Kórházban 11 805 koronavírusos beteget ápolnak, közülük 1423-an vannak lélegeztetőgépen.
+    </hi>
+    (MTI)
+   </p>
+   <p>
+    Az elmúlt hetekben egyébként több ellenzéki vezetésű önkormányzat (pl. Budapest, Szombathely) felajánlotta, hogy az ellenőrzése alá tartozó kapacitások felhasználásával oltópontokat hozna létre, ezzel segítve az oltási folyamatot. Ezt az ajánlatot a kormány többször is hangosan elutasította, a már létrehozott szombathelyi oltópontok működését pedig ellehetetlenítette. A mostani rendelet épp ezeket az önkormányzati kapacitásokat veszi most központi hatáskörbe.
+   </p>
+   <p>
+    Ezzel kapcsolatban Ferencváros polgármestere, Baranyi Krisztina
+    Facebook-oldalán úgy fogalmazott
+    :
+   </p>
+   <p>
+    „Elvették tőlünk a szakrendelőt és állami irányítás alá helyezték a veszélyhelyzet idejére. Ez még logikus is lehetne, ha az oltás állami, központosított megszervezése rendben, átgondoltan történt volna az elmúlt másfél hónapban. De nem úgy történt, nagyon nem. Mi vártuk, hogy segíthessünk az oltási kampányban, de nem adják meg a lehetőséget. Inkább maguk alá gyűrik az önkormányzati szakellátást is, nehogy kiderüljön, hogy jobban csinálnánk.”
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Hogy a karácsonyt fényesebbnek lássam” – Becsapott albérlőből lakhatási aktivista
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     41deb814-6945-57cb-aacc-9e0ac72b62d3
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Hogy a karácsonyt fényesebbnek lássam” – Becsapott albérlőből lakhatási aktivista
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-11-15T10:11:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/11/15/_hogy_a_karacsonyt_fenyesebbnek_lassam_becsapott_alberlobol_lakhatasi_aktivista/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/11/15/_hogy_a_karacsonyt_fenyesebbnek_lassam_becsapott_alberlobol_lakhatasi_aktivista/
+     </sch:url>
+     <sch:name>
+      „Hogy a karácsonyt fényesebbnek lássam” – Becsapott albérlőből lakhatási aktivista
+     </sch:name>
+     <sch:datePublished>
+      2016-11-15T10:11:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      AVM
+     </sch:keywords>
+     <sch:keywords>
+      lakáspolitika
+     </sch:keywords>
+     <sch:keywords>
+      lakásszegénység
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="41deb814-6945-57cb-aacc-9e0ac72b62d3">
+     <sch:identifier>
+      urn:uuid:c8900703-e031-408f-b937-689b67f851b3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:06.751405
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:26:29.269494
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="41deb814-6945-57cb-aacc-9e0ac72b62d3" when="2021-12-14T15:26:06.751405">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Hogy a karácsonyt fényesebbnek lássam” – Becsapott albérlőből lakhatási aktivista
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Alszásziné Erika rokkantnyugdíjas, mégis nagyon elfoglalt. A Város Mindenkié csoport  aktivistája, érdekvédelmi tanácsokat ad a csoporthoz fordulóknak, tüntetést szervez más, lakhatási szegénységben élő társaival. Az asszony fiával, Zoltánnal él egy kicsi, romos önkormányzati bérleményben, amihez igen kalandos úton juthattak csak hozzá, és aminek a felújítási kötelezettsége még a család vállát nyomja.
+   </p>
+   <p>
+    Fotó: a képen középen Erika transzparenst tart az AVM egyik tiltakozásán. / avarosmindenkie.blog.hu
+   </p>
+   <p>
+    De hogyan lesz valakiből, aki maga is rászoruló, aktivista? Erről szól a Város Mindenkié hajléktalan emberek és lakásszegénységben élők érdekvédő csoport munkája már 7 éve. A lakhatási szegénység nagyon sok formában jelenik meg, a hajléktalanság csak a jéghegy csúcsa. Nagyon sokan élnek Erikáékhoz hasonlóan bizonytalan lakhatási helyzetben, albérletben, vagy szívességi lakásban, rossz minőségű, gyakran egészségre káros ingatlanban. Erikáék csoportja pedig azért dolgozik, hogy az állam hanyagságából lakhatási szegénységbe taszított emberek megszerveződjenek, és fellépjenek a megfizethető lakhatásért.
+   </p>
+   <p>
+    Erika férje ’98-ban halt meg, három gyereket és egy 13. kerületi öröklakást hagyva özvegyére. A 70 négyzetméteres lakás azonban túl költségesnek bizonyult ahhoz, hogy Erika egyedül fenntartsa, ezért végül kénytelen volt eladni. Mint később kiderült, áron alul. Ezután a kilencedik kerületben landolt a család, egy bérlakásban, amit azonban pár évvel később el kellett hagyniuk, mert egy kerületi rehabilitációs projekt miatt a házat felújították, a lakástulajdonosokat pedig cserelakásokban helyezték el. Mivel Erikáék csak bérelték a lakást, ezért sürgősen más lakhatás után kellett nézniük.
+   </p>
+   <p rend="head">
+    Egy lakhatási kálvária
+   </p>
+   <p>
+    Egy ismerős ajánlott egy 13. kerületi 24 négyzetméteres lakást Erikának azzal, hogy egy kollégája élettársáé, de ő soha nem lakott benne, ezért nagyon olcsón kivehetnék. Erika saját szavaival „dobott egy hátast” amikor meglátta a lakást, mivel már akkor elképesztő állapotok uralkodtak benne. Nem volt külön fürdőszoba, csak az előszobában egy fürdőkád, a parketta fele hiányzott, a padló másik felére szőnyeg volt leterítve, ami alatt homok volt. És az egész lakás annyira vizes volt, hogy mindenhol penészesek voltak a falak. Ennek ellenére Erika kivette a lakást, mivel az utcára vagy átmeneti szállásra semmiképpen nem akart kerülni, így meg legalább fedél volt a feje felett, és nem kellett idegenekkel  együtt élnie.
+   </p>
+   <p>
+    Ekkor már csak a legkisebb fia lakott vele, aki 100 százalékos rokkant, mivel a fél szemére vak. Egészségi álllapota miatt Zoltán sajnos nem nagyon talál munkát, Erikát pedig 2005-ben szintén rokkantnyugdíjasnak nyilvánították, mivel súlyos ízületi gyulladással diagnosztizálták. A gyulladásra szteroidos gyógyszert írtak fel neki, amitől pedig cukorbeteg lett. Egyszer a betegsége miatt annyira elfeketedett a lába, hogy kis híján amputálni kellett. Szerencsére ez végül nem következett be, de az évek folyamán Erika egészségügyi állapota egyre romlott, így neki sem egyszerű munkát találnia. Erika szerint amióta elköltözött a kilencedik kerületi lakásból, azóta lelkileg és fizikailag is teljesen tönkrement.
+   </p>
+   <p>
+    Arról sincs meggyőződve, hogy betegsége kialakult volna akkor, ha nem derült volna ki, hogy „főbérlőjük” durván átverte őket. Ugyanis a férfiról, akinek hat évig rendesen befizették a lakbért és a rezsit (hat év alatt több mint négymilió forintot adtak át neki), kiderült, hogy a lakás nem a tulajdona, hanem az önkormányzattól bérelte. Az önkormányzatnak pedig ez idő alatt egy fillért se fizetett be abból a pénzből, amit Erikáék adtak neki. A felhalmozódott tartozás miatt háromszor majdnem kilakoltatták őket. Erika több éven keresztül foggal-körömmel küzdött azért, hogy ne veszítse el a lakást, és ez egészen másfél évvel ezelőttig sikerült is.
+   </p>
+   <p rend="head">
+    Közös küzdelem a lakhatási mozgalomban
+   </p>
+   <p>
+    Ekkor úgy tűnt, hogy már nincs mit tenni, és Erika is úgy érezte, hogy az ereje végére ért. Azonban egy ismerőse felvetette neki, hogy nézzen ki pénteken a Blaha Lujza térre, ahol A Város Mindenkié csoport jogsegélyszolgálata, az Utcajogász minden héten ingyenes tanácsadást nyújt lakhatási gondokkal küzdő embereknek. Ezt a tanácsot Erika meg is fogadta, és hamar az AVM-ben találta magát. Az AVM és Erika sikeresen gyakorolt nyomást az önkormányzatra: az Alszászi családot végül nem lakoltatták ki otthonukból, és azt is sikerült elérni, hogy az önkormányzat szerződést kössön velük.
+   </p>
+   <p>
+    Ez a siker elmondhatatlanul sokat jelentett Erikának és Zolinak. „Most hogy megnyugodtam, hogy mégis van lakásom – persze egy 24 négyzetméteren nem lehet olyan hú de nagy érzés – de az hogy végre az én nevem van ott, és azt csinálhatok amit akarok, nem fog beleszólni senki, ez az egészségemen talán segíteni fog annyira, hogy elhúzhassam még egy darabig azt, hogy elföldeljenek,” – mesélte Erika optimistán.
+   </p>
+   <p>
+    Erika és Zoli időközben teljesen belevetették magukat az aktivista munkába. Saját lakhatási kálváriájuk tapasztalatai nagyon hasznosak a csoport számára, ami többek közt azért küzd, hogy érdekvédő munkájuk eredményeképpen minél több, Erikáékhoz hasonló család sorsa rendeződhessen.
+   </p>
+   <p>
+    Erika azért érzi fontosnak, hogy részt vegyen a csoport munkájában, mert „egy olyan közösségbe kerültem, ami igenis megérdemli, hogy eggyel többen legyenek és segítsenek nekik. Nagyon lelkesen csinálom. Néha úgy vállalok már feladatot, hogy kettőig nem látok a fáradtságtól, annyit kell menni, de én jól érzem magam. Idősebb a lányom, mint akik ott vannak, én meg 64 éves vagyok, de jól érzem magam a gyerekek között. Elfogadtak mint vénasszonyt. Még a tanácsomat is kikérik, szóval nem úgy érzem magam, mint az óvodában az óvónéni, hanem tényleg elfogadták, hogy ilyen idős vagyok, és ott vagyok. Elfogadtak mint embert. Úgyhogy nekem ez nagyon sokat számít. És jól érzem magam. Felülmúlja a fáradtságot, hogy szeretek oda járni.”
+   </p>
+   <p>
+    Sajnos azonban itt még nem ér véget a történet, mivel a lakás állapota még messze van attól, hogy valódi otthonnak tudják nevezni. Miután a lakás Erika nevére került, az előző bérlő nevére írt villany- és gázórát leszerelték, a gázt és a villanyt pedig kikapcsolták. A villanyt egy idő után sikerült ugyan visszaköttetni, de a villanyvezetékek állapota siralmas. Kihívtak kőművest, villanyszerelőt, akik szerint a lakás felújítása minimum 600 ezer forint lenne, de akár másfélmilliót is elnyelne. A vizes falból csokorban nőnek a gombák, és évenként kellene bútort cserélni a vizesedés miatt.
+   </p>
+   <p>
+    Az
+    Utcáról Lakásba! Egyesület
+    közösségi gyűjtést indított, hogy összegyűljön 600 000 forint, ami a lakás felújításához szükséges. A munkálatokban önkénteseink is segítik a családot, a szükséges építőanyagok egy részét pedig Erika és fia csekély jövedelmükből, illetve egyesületünk készleteiből tudják megoldani.
+   </p>
+   <p>
+    Banki utalással lehet a családot támogatni, az Utcáról Lakásba! Egyesület számlaszámára: ULE Magnet 16200151-18523939, „Erika” közleménnyel.
+   </p>
+   <p>
+    Ezeket a költségeket pedig Erikáék nem tudják a havi költségvetésükből kigazdálkodni, mivel kettejük rokkantnyugdíjából a lakbér és a rezsi kifizetése, valamint gyógyszereik megvétele után  alig marad valami ételre. Erika ráadásul másik két gyerekét is támogatja anyagilag. Bár mindketten próbálnak munkát keresni, de van, hogy Erika fel se tud kelni, annyira rosszul van. Elkeseredve mesélte, hogy fizikai munkát például egyáltalán nem tud vállalni: „Nincs erő a kezemben. Én meg mindenbe beleállok, mintha nem lennék beteg, egyszerűen nem veszem tudomásul, hogy az vagyok. És amikor valami nem megy, akkor kétségbeesem, hogy én már ennyire nyomorék vagyok?”
+   </p>
+   <p>
+    Erika és Zoli az AVM-ben találkoztak az Utcáról Lakásba Egyesülettel, ami most közösségi gyűjtést szervez Erikáéknak annak érdekében, hogy legalább valamivel élhetőbb körülmények közt lakhassanak. A cél 600 ezer forint összegyűjtése lenne, amiből a lakás aljzatbetonozása, és elektromos hálózata készülhetne el. „Ha legalább villany és normális fűtés lenne, akkor már látnám a fényt az alagút végén. Jó lenne, ha a karácsonyt már kicsit fényesebben láthatnám,” zárta Erika beszélgetésünket egy reményteli mosollyal.
+   </p>
+   <p>
+    <hi rend="bold">
+     Pósfai Orsi és Kovács Vera
+    </hi>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 330 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

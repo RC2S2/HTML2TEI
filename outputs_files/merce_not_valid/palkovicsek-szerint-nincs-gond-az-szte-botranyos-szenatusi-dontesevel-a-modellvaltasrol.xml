@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Palkovicsék szerint nincs gond az SZTE botrányos szenátusi döntésével a modellváltásról
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     39e165e0-1fd8-5c67-920e-0cba0a7ed2e5
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Palkovicsék szerint nincs gond az SZTE botrányos szenátusi döntésével a modellváltásról
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-29T20:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/29/palkovicsek-szerint-nincs-gond-az-szte-botranyos-szenatusi-dontesevel-a-modellvaltasrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/29/palkovicsek-szerint-nincs-gond-az-szte-botranyos-szenatusi-dontesevel-a-modellvaltasrol/
+     </sch:url>
+     <sch:name>
+      Palkovicsék szerint nincs gond az SZTE botrányos szenátusi döntésével a modellváltásról
+     </sch:name>
+     <sch:datePublished>
+      2021-03-29T20:00:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      egyetemi autonómia
+     </sch:keywords>
+     <sch:keywords>
+      modellváltás
+     </sch:keywords>
+     <sch:keywords>
+      szte
+     </sch:keywords>
+     <sch:keywords>
+      szegedi tudományegyetem
+     </sch:keywords>
+     <sch:keywords>
+      veritas virtus libertas
+     </sch:keywords>
+     <sch:keywords>
+      szajbély mihály
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="39e165e0-1fd8-5c67-920e-0cba0a7ed2e5">
+     <sch:identifier>
+      urn:uuid:d2755c54-0efb-45f9-8177-5a56c39e5369
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.551887
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:40:15.944213
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="39e165e0-1fd8-5c67-920e-0cba0a7ed2e5" when="2021-12-14T15:30:41.551887">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Palkovicsék szerint nincs gond az SZTE botrányos szenátusi döntésével a modellváltásról
+   </head>
+   <p>
+    Február elején fordult panaszlevéllel Szajbély Mihály, a Szegedi Tudományegyetem Bölcsészkarának szenátora Rovó László rektorhoz, azt kérve, hogy semmisítsék meg az egyetem modellváltásáról szóló határozatot, és ismételjék meg a szavazást a kérdésről, álláspontja szerint ugyanis ügyrendi szabálysértések történtek.
+   </p>
+   <p>
+    Szajbély ígéretet kapott Rovótól arra, hogy a panaszlevelét a modellváltást levezénylő Innovációs és Technológiai Minisztériumhoz (ITM) is eljuttatja. Rovó László azonban nem volt hajlandó bemutatni az ITM álláspontját a panaszt benyújtó professzornak.
+   </p>
+   <p rend="head">
+    Mihálik Edvin, a Momentum szegedi önkormányzati képviselője ezért közérdekű adatigényléssel fordult az ITM-hez, hogy megtudakolja a minisztérium álláspontját a Szajbély Mihály által megfogalmazott panaszokról.
+   </p>
+   <p>
+    A panaszok a következőek voltak:
+   </p>
+   <list>
+    <item>
+     Nem arról az előterjesztésről szavaztak, ami eredetileg ki lett küldve.
+    </item>
+    <item>
+     Nem adták meg neki a szót a szavazás előtt.
+    </item>
+    <item>
+     Olyan zavarosan vezette fel Rovó László a szavazást, hogy a szenátorok nem is tudták pontosan miről döntenek.
+    </item>
+    <item>
+     A rektor nyomásgyakorlással és megfélemlítéssel válaszolt a dékánok aggályaira.
+    </item>
+   </list>
+   <p>
+    Mihálik Edvin szerint az ITM válaszából kiderül: a minisztérium mindent rendben talált, Szajbély panaszainak 3. és 4. pontjával viszont egyáltalán nem foglalkozott.
+   </p>
+   <p rend="head">
+    Az ITM tehát nem vizsgálta ki, hogy a rektor nyomást gyakorolt -e és megfélemlítette -e a dékánokat.
+   </p>
+   <p>
+    Vagy ahogy Mihálik Edvin fogalmaz Facebook-bejegyzésében:
+   </p>
+   <p>
+    „Vagyis a magyar kormány szerint rendben van, ha egy rektor a források megvonásával fenyegeti meg a karok vezetőit. Szerintük az is rendben van, ha egy szavazás előtt még csak el sem mondják rendesen, miről szól a döntés.”
+   </p>
+   <p>
+    Ahogy arról korábban beszámoltunk,
+    a szóban forgó botrányos szenátusi ülés
+    után a
+    Veritas Virtus Libertas (VVL)
+    , szegedi egyetemi csoport Facebook-oldalán osztott meg egy felvételt az esemény utolsó tíz percéről, amelyen jól látható és hallható, mennyire kaotikus módon fogadták el a modellváltást.
+   </p>
+   <p>
+    A felvételen Rovó László rektor szavazásra bocsájtotta, hogy a két előterjesztés közül melyikről szól a végső szavazás. Szajbély professzor szót kért, ám nem kapott jogot hozzá. Ezután a rektor bejelentette, hogy még nem a végszavazást folytatják le, majd a jogi osztály képviselője átvette tőle a szót és közölte, hogy az SZMSZ szerint ha az első, lényegi garanciák nélküli előterjesztés többséget kap, akkor a második előterjesztésről szavazni már nem kell.
+   </p>
+   <p rend="head">
+    A felvételen jól hallható tehát, hogy a rektor és a jogi osztály képviselője sem értett egyet abban, hogy ez valóban a végszavazás-e.
+   </p>
+   <p>
+    Később az alternatív javaslatot jegyző, a modellváltásra garanciákat kérő Szajbély szenátor is megszólalhatott röviden, eddigre azonban a modellváltásról szóló szavazás már megtörtént.
+   </p>
+   <p>
+    Mindeközben Szél Bernadett, független országgyűlési képviselő Facebook-bejegyzésében arról számolt be, hogy írásbeli kérdéssel fordult az ombudsmanhoz, amelynek válaszleveléből kiderült, hogy az egyetemi autonómiára hivatkozva nem vizsgálja az ombudsman az egyetemi autonómia felszámolását. Szél Bernadett hozzátette:
+   </p>
+   <p>
+    „
+    <hi>
+     Szajbély professzornak igaza van, a modellváltó egyetemek maximum abban reménykedhetnek, mint amit anno már megélhetett Magyarország, hogy nem lesz keményvonalas a párttitkár, és hagy nekik némi mozgásteret.
+    </hi>
+    „
+   </p>
+   <p>
+    Szél Bernadett korábban
+    közérdekű adatigényléssel
+    fordult a Pécsi Tudományegyetemhez, a Debreceni Egyetemhez és a Szegedi Tudományegyetemhez, utóbbi kettő azonban megtagadta azt. Szél azt szerette volna megtudni, milyen információk birtokában döntöttek az egyetemek a modellváltásról pár hét leforgása alatt.
+   </p>
+   <p>
+    A Szél által megszerzett dokumentumokból többek között az derül ki, hogy nem az egyetemek, hanem az Innovációs és Technológiai Minisztérium kezdeményezte az egyetemek alapítványi kézbe helyezését, valamint az, hogy a szélsebesen elfogadott modellváltásnak olyan fontos részleteiről sem egyeztek meg, mint az alapítványi kuratórium összetétele, a rektorválasztás szabályai, vagy a szenátus jogkörei.
+   </p>
+  </body>
+ </text>
+</TEI>

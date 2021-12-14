@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Kúria elmeszelte a kormány gyűlöletplakátjait!
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9c487652-c4ef-51e8-9934-d099537acaed
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Kúria elmeszelte a kormány gyűlöletplakátjait!
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-04-06T14:31:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/04/06/a-kuria-elmeszelte-a-kormany-gyuloletplakatjait/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/04/06/a-kuria-elmeszelte-a-kormany-gyuloletplakatjait/
+     </sch:url>
+     <sch:name>
+      A Kúria elmeszelte a kormány gyűlöletplakátjait!
+     </sch:name>
+     <sch:datePublished>
+      2018-04-06T14:31:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      lmp
+     </sch:keywords>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      Kúria
+     </sch:keywords>
+     <sch:keywords>
+      gyűlölet
+     </sch:keywords>
+     <sch:keywords>
+      plakát
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9c487652-c4ef-51e8-9934-d099537acaed">
+     <sch:identifier>
+      urn:uuid:0ca3d642-6755-4677-b49f-abcc697dbef1
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:03.032197
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:52:33.993582
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9c487652-c4ef-51e8-9934-d099537acaed" when="2021-12-14T15:35:03.032197">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Kúria elmeszelte a kormány gyűlöletplakátjait!
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Az LMP beadványa nyomán a Kúria mai döntésében eltiltotta a kormányt a Stop feliratú gyűlöletplakátok közzétételétől, mert a kormány képviselői nem tudták indokolni, hogy a plakát milyen közfunkciót teljesítene be, továbbá azért, mert a plakátkampány a Fidesz választási üzenetét segítette.
+   </p>
+   <p>
+    „A Kúria megállapítja, Magyarország Kormánya megsértette a pártok közötti esélyegyenlőséget azzal, hogy a 2018. március 26. napjától közzétett figyelemfelhívó kampányának STOP feliratú, tömött sorokban menetelő migránsokat/menedékkérőket ábrázoló plakátjaival a FIDESZ-MPSZ és KDNP jelölőszervezetek választási kampányát erősíti. A Kúria Magyarország Kormányát a további jogsértéstől eltiltja. A felülvizsgálati eljárás illetékét az állam viseli. A végzés ellen jogorvoslatnak nincs helye” –
+    került ki nem sokkal ezelőtt a Kúria honlapjára.
+   </p>
+   <p>
+    A Kúria többek között az alábbival igazolta döntését:
+   </p>
+   <p>
+    A „STOP plakátkampány” objektív szükségességét a Kormány nyilatkozata nem igazolta és az a plakátkampányból nem tűnik ki nyilvánvalóan. A Kormány nyilatkozatában arra hivatkozott, hogy ez széleskörű szakpolitikai elemzést igényelne, melyre nincs módja jelen eljárásban biztosított rövid határidők között. A Kúria ezt az érvet azért nem tudta elfogadni, mert amennyiben a fenti követelményeknek megfelelően, a semlegességre törekedve, mégis kénytelen volt e plakátkampányt a választási időszakban elindítani a Kormány, akkor az erre vezető tények és körülmények, indokok eleve rendelkezésre kellett, hogy álljanak, hiszen csak ezek megállapításából következtethetett volna a Kormány a plakátkampány szükségességére. Összefoglalva ez azt jelenti, hogy a Kúria számára nem azt kellett bemutatni, hogy utólag milyen szakpolitikai indokokkal lehetne megalapozni az érintett tájékoztatási tevékenységet, hanem csak a plakátkampány melletti kormányzati döntést megalapozó iratok vagy azok tartalmának összefoglalására lett volna szükség. Ezek bemutatása nélkül a rendelkezésre álló iratok alapján csak azt lehetett megállapítani, hogy a plakátkampánynak nem volt konkrét, szükséges, és célszerű – a választási kampánytól független – tájékoztatási funkciója.
+   </p>
+   <p>
+    De a Kúria azt is kimondta, hogy hiába van lehetősége a kormánynak tájékoztatnia a kampány alatt is, az a lehető legkevésbé lehet kampánytevékenység:
+   </p>
+   <p>
+    A választási kampány időszakában a Kormány feladatainak megfelelő ellátásához szükséges tájékoztatási tevékenységet valamely választási kampánytémában is folytathat feltéve, hogy a tájékoztatásnak van a választási kampánytól független, objektív indoka. A tájékoztatás módját úgy kell meghatározni, hogy a kormányzati feladat elvégzését lehetővé téve a választási kampányt a lehető legkevésbé érintse, az esélyegyenlőséget ne sértse.
+   </p>
+  </body>
+ </text>
+</TEI>

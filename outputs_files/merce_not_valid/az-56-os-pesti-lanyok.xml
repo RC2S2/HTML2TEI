@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az ’56-os Pesti Lányok
+    </title>
+    <author>
+     <persName>
+      Eörsi László
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7d805a3a-e3c0-5319-a41b-b146432509d4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az ’56-os Pesti Lányok
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Eörsi László
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-23T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/23/az-56-os-pesti-lanyok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/23/az-56-os-pesti-lanyok/
+     </sch:url>
+     <sch:name>
+      Az ’56-os Pesti Lányok
+     </sch:name>
+     <sch:datePublished>
+      2019-10-23T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Eörsi László
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      1956
+     </sch:keywords>
+     <sch:keywords>
+      forradalom
+     </sch:keywords>
+     <sch:keywords>
+      könyv
+     </sch:keywords>
+     <sch:keywords>
+      Szabad Október
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7d805a3a-e3c0-5319-a41b-b146432509d4">
+     <sch:identifier>
+      urn:uuid:a2def1e4-5c59-4074-8a97-eb0c72565ec9
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:07.622856
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:49:14.314790
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7d805a3a-e3c0-5319-a41b-b146432509d4" when="2021-12-14T15:35:07.622856">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az ’56-os Pesti Lányok
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi>
+     Az ’56-os forradalom és szabadságharc felkelőcsoportjaiban nagy arányban harcoltak nők, vagy vettek részt másképp a küzdelmekben, például vöröskeresztes tevékenységgel, élelemellátással, vagy röpcédulák előállításával. Eörsi László idén megjelent könyvéből nem csak a forradalmárokról tudunk meg többet, de azokról a körülményekről is képet kapunk, amelyek a felkelőket felkelőkké tették. Ezek pedig a nők esetében egészen eltérőek a férfiak ezidáig jobban ismert történeteinél. A könyvből három szemelvényt közlünk.
+    </hi>
+   </p>
+   <p rend="head">
+    Csontos Erzsébet
+   </p>
+   <p>
+    Dorogon született 1930-ban. Pécsett volt bejelentett lakása, a pestlőrinci vattagyárban pedig bejelentett állása. Gyermekkoráról semmit nem tudunk. 1946 májusában két napig fogságban tartották tiltott határátlépés kísérlete miatt. Sikkasztásért 1951 novemberében három hónap, csalásért és közokirat-hamisításért 1954 novemberében hét hónap javító-nevelő munkára ítélték. 1956. július 28-án közveszélyes munkakerülésért, sikkasztásért, lopásért börtönözték be.
+   </p>
+   <p>
+    Csontos Erzsébet (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    A baracskai büntetőintézetből 1956. november 1-jén szabadult, Kanász Annával együtt. Amikor hívták őket a Baross téri felkelők, habozás nélkül csatlakozott a felkelőkhöz – hitt a forradalom győzelmében – és Kanász követte. „
+    <hi>
+     Elvből lett felkelő
+    </hi>
+    ” – mondták róla. Kettőjük barátsága azonban nem maradt felhőtlen: „
+    <hi>
+     Összevesztem Csontossal még az első napokban, mert úgy felvágott, hogy észre sem akart venni
+    </hi>
+    ” – vallotta Kanász Anna. Csontos Erzsébet fő feladata az élelemkiosztás volt, de részt vett a röpcédulázó részleg tevékenységében, s időnként a fegyveres szolgálatban is. Lehetséges, hogy a november 4-i harcokból is kivette a részét. A Péterfy kórházban a politikai ellenállás idején irányító szerepet vívott ki magának, miközben Nickelsburg László („Niki”, „Zsidó Laci”) főparancsnokkal is bensőséges viszonyt alakított ki. Balogh László („Pipó” a Baross tériek egyik alparancsnoka) szerint „
+    <hi>
+     elvben továbbra is Nickelsburg volt a főparancsnok, de gyakorlatilag Csontos Erzsébet adott inkább utasításokat helyette
+    </hi>
+    ”.
+   </p>
+   <p>
+    Angyal István – aki csak „Erzsiként” ismerte (a periratokban szerepelt még Csintalan Istvánné, Kolláti Lászlóné, Fehér Klára néven is) –, így látta őt: „[…]
+    <hi>
+     a forradalomban jelentős szerepe volt, mindenkit ismert, mintegy összefogta önmagában az összes embert. A kész röplapok egy részét mindig ő vitte el, és juttatta tovább a város különböző részeibe, hallatlan energiával szervezve a forradalmat.
+    </hi>
+    […]
+    <hi>
+     Az a szeretet, amivel mindenki körülvette őt, és bájos, tiszta szépsége nagy hatással voltak rám.
+    </hi>
+    […]
+    <hi>
+     Azt hiszem, életem egyik legnagyobb vesztesége, hogy közelebbről nem ismertem meg.
+    </hi>
+    ”
+   </p>
+   <p>
+    Az illegális találkozókon – különböző lakásokban – mindig ő képviselte a legradikálisabb álláspontot. Egyenesen a fegyveres ellenállás folytatását követelte, amikor az országban már hetekkel korábban megszűntek a harcok. Eörsi István „Kémnő” néven ismerte meg, amikor a gyanakodó Csontos le akarta őt lőni. Decemberben Bécsben folytatta a szervezést, és tekintélye tovább növekedett: „
+    <hi>
+     csak láttam, hogy még Pásztor
+    </hi>
+    [Gyula]
+    <hi>
+     is alávetette magát Csontos utasításainak, s én is ezért tettem
+    </hi>
+    ” – idézte fel bécsi emlékét Balogh László. „
+    <hi>
+     Csontos egyébként egy született parancsnoki tehetség volt
+    </hi>
+    ” – tette hozzá. Később együtt próbálták budapesti lakásán Nickelsburgot az ellenállás folytatására rábeszélni – sikertelenül.
+   </p>
+   <p>
+    Csontos Erzsébet (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    1957 elején Csontos Erzsébet Angliába emigrált. A hednesfordi lágerben a Szabadságharcos Szövetség szervezője és a lágerparancsnok magyar titkárnője volt. „
+    <hi>
+     1957 nyarán eltűnt a táborból, később az a hír járta, hogy visszajött Magyarországra
+    </hi>
+    ” – vallotta egy Gramma Péter nevű hazatért emigráns két évvel később. Az állítás igaz lehet, hiszen idehaza az utcán többen felismerték, így két ügynök, Harangi Zoltán („Kecskeméti”) és Bádenszky Borbála („Andrea”) is, akik Baross térről és a Péterfy kórházból ismerték. Korniczki Tamás, aki Bécsben is, Hednesfordban is sokat volt vele együtt, azt híresztelte Csontosról, hogy kádárista ügynök. Ez igencsak valószínűsíthető, hiszen a hatóságok megkapták a róla szóló jelentéseket, és mégsem csaptak le rá. Például „Andrea” 1960 februárjában így informálta a tartótisztjét:
+    <hi>
+     Körülbelül 4 hete felszállt hozzám a 6-os villamosra a Wesselényi utcánál.
+    </hi>
+    […]
+    <hi>
+     Felismertem, és az az érzésem, hogy ő is megismert. Nem szólt semmit. A Majakovszkij utcánál le is szállt.
+    </hi>
+    […]
+    <hi>
+     Én úgy tudtam, disszidált, de ez a találkozás mindent felborított. Meggyőződésem, hogy itt van. Álnévvel talán, mindegy, de itt kell lennie.
+    </hi>
+    ”
+   </p>
+   <p>
+    Valószínű, hogy Csontos már a politikai ellenállás idején is (vagy talán még korábban) a belügy embere volt, de erről nem került elő egyértelmű bizonyíték. Sőt, semmi más adat nem szerepel róla „Andrea” jelentése óta… Mindent egybevetve Csontos Erzsébet lehet 1956 történetének legrejtélyesebb alakja.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Szabad Október 2019
+    </hi>
+   </p>
+   <p>
+    A
+    <hi>
+     Mérce
+    </hi>
+    és a
+    <hi>
+     Gólya
+    </hi>
+    idén is megrendezi a Szabad Október fesztivált. Célunk, hogy ’18-at és ’56-ot is megidézve, a baloldali színtér szereplőivel együtt reflektáljunk helyzetünkre.
+   </p>
+   <p>
+    Beszélgetünk majd ’18-ról, ’56-ról és ’89-ről, lesznek történeti séták és tárlatvezetések. Kiemelt programjainkon pedig olyan kérdésekkel foglalkozunk, amelyeket ma a baloldal kulcskérdéseinek tartunk: a klímaváltozás kérdéséhez a szolidáris gazdaság lehetősége felől közelítünk, és megvitatjuk, hogy mit kezdhet a baloldali színtér az ellenzék 13-i áttörésével. Kelet-európai meghívottainkkal pedig a térségi szolidáris média lehetőségeiről fogunk beszélgetni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Október 22. és november 10. között
+    </hi>
+    mindenkit szeretettel várunk a Gólyában és külső helyszíneken.
+    Katt a linkre!
+   </p>
+   <p rend="head">
+    Horváth Zsuzsanna
+   </p>
+   <p>
+    Horváth Zsuzsa (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    Budapesten született 1920-ban, háromgyermekes családban. Három és fél évig Belgiumban, nevelőszülőknél lakott. Édesapja hentessegéd volt. Édesanyja 1933-ban meghalt. A hat elemi elvégzése után, 1936-1942 között segédmunkásként dolgozott. 1940-ben házasságot kötött, de férje egy év múlva elesett a szovjet fronton. Tőle született az első gyermeke. 1944-ben hozzáment egy műszaki rajzolóhoz, akitől azonban három év múlva elvált, miután a férfi elhagyta. 1945-ben ápolónőként dolgozott a pápai Irgalmas Kórházban. Ebben az évben meghalt a gyermeke. 1947-49 között háztartási alkalmazott volt. 1948-tól 1956 februárjáig közös háztartásban élt egy MÁV-főtiszttel, akitől két gyermeke született. 1952-ben egy évig a ZMKA-n helyezkedett el mint polgári alkalmazott. Fiatalkorától küszködött különböző betegségekkel.  1953–57 között a Dinamó Villamosgépgyárban raktárkönyvelőként dolgozott, 1600 Ft-os keresettel. 1945 után belépett az MKP-be.
+   </p>
+   <p>
+    Október 24-én húgával színházba indult, de a tömegben elszakadtak egymástól. A tűzharcok elől többedmagával a Corvin mozinál talált menedéket, és a házmester lakásában töltötte az éjszakát. Másnap reggel, a házban lévő munkásszállóban a házmesternével elsősegélynyújtó-helyet rendezett be.
+   </p>
+   <p>
+    Eleinte teát, kávét főzött a sebesültek számára, később segített a kötözésben is. Ily módon a Corvin közi csoport tagja lett, elsősorban az élelmezésről gondoskodott. Eközben egy ÁVH-s főhadnagyot, akit a felkelők foglyul ejtettek és agyonlövéssel fenyegettek, egy üres lakásba menekített. Egy másik ÁVH-st pedig ellátott élelemmel. Érzelmi viszonyba került a nála tíz évvel fiatalabb Iván Kovács Lászlóval, a Corvin közi felkelő főparancsnokával, akit ellenlábasai november 1-én vagy 2-án fondorlatosan leváltották, és Pongrátz Gergelyt nevezték ki helyette. A felkelőkkel maradt Iván Kovácsot november 4-én Pongrátzék árulónak kikiáltva lefegyverezték. Mindezt Horváth végignézte, de a passzivitása azt az érzést keltette a férfiben, hogy ő is részese a megaláztatásának. Sikerült megszöknie, de Pongrátzék kiadták a parancsot: „
+    <hi>
+     aki meglátja, lője le!
+    </hi>
+    ” A koncentrált szovjet támadás miatt még ezen a napon felszámolták a Corvin köziek bázishelyét.
+   </p>
+   <p>
+    1957 január elején „racionalizálták”, ezután nem keresett új állást. 15-én emigrálni akart – kapcsolatban maradt belga nevelőszüleivel, de flamand nyelvtudását már elfelejtette –, de elfogták a határnál. Kelenföldre költözött nővéréhez, mivel lakóhelyén, Pestlőrincen feljelentéssel fenyegették. Iván Kovácsot kórházakban, temetőkben kereste, de nem akadt rá. Február 5-én viszont az egykori felkelőparancsnok talált rá. Ekkortól rendszeresen találkoztak.   Iván Kovácsot nagyon elkeserítette a politikai helyzet, vakmerő terveket szőtt a Kádár-rendszer ellen és bevonta párját az illegális szervezkedésbe, aki segített neki a gépelésben. Közben a közös jövőről ábrándoztak.
+   </p>
+   <p>
+    A férfit március 12-én lefogták, és amikor Zsuzsanna három nap múlva a rendőrségen érdeklődött sorsáról, és csomagot vitt neki, őt is letartóztatták. (Erre már előzőleg számított.) „…
+    <hi>
+     kérem, engedjék meg, hogy Kovács Lászlóval
+    </hi>
+    [Iván Kovács László]
+    <hi>
+     házibeszélgetést folytassak, és hogy vele együtt, egy napon végezzenek ki, mert nagyobb büntetés az, hogy élni kell. Vállalom Kovács Lászlóval a bűnrészességet
+    </hi>
+    ” – írta önvallomásában.
+   </p>
+   <p>
+    Horváth Zsuzsa (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    A forradalomról ezt vallotta: „
+    <hi>
+     Én most is becsületes magyarnak tartom magam és nem értek egyet azzal, hogy november 4-én a szovjet csapatok beleavatkoztak a harcunkba. Az a véleményem, hogy mi magyarok az oroszok nélkül magasabb életszínvonalat tudtunk volna elérni.
+    </hi>
+    ” Az Iván Kovács-per III. rendű vádlottjaként elsőfokon hat évre ítélték. „…
+    <hi>
+     Olyat is magamra vállaltam Iván Kovács utasítására, amit ők
+    </hi>
+    [Frey Erzsébet a per IV. rendű vádlott és Iván Kovács]
+    <hi>
+     követtek el. Az ő véleménye ugyanis az volt, hogy meg kell menteni a fiatalokat, hogy tovább dolgozzanak, engem úgysem ítélnek el, mivel beteg vagyok és két gyermekem van
+    </hi>
+    ” – írta 1962-ben.
+   </p>
+   <p>
+    A másodfokú tárgyalás idején visszavonta a fellebbezését. 1958-ban beszervezték (Szőke Sándor főhadnagy) – valószínűleg gyermekeivel megzsarolták –, így börtönügynökként írt jelentéseket. Az elsőt még ezelőtt, 1957 decemberében írta, két héttel Iván Kovács kivégzése előtt. Magnószalagra rögzítették a 21 gépelt oldalnyi Corvin közi tapasztalatait.
+   </p>
+   <p>
+    1959. április 10-én szabadult, de azután is az operatív hálózatban maradt, Kmeczó István főhadnagy lett az új tartótisztje. 1968-ban kiemelték, hogy „
+    <hi>
+     …munkája nagyban hozzájárult hat ügy realizálásához. Jelentései őszinték, nagy százalékban értékesek és a valóságnak megfelelő képet adtak érdeklődési területeinkről. Az ügynök „munkája nagymértékben hozzájárult a célszemélyek megérdemelt bírósági felelősségre vonásához, jelentései megbízhatóak, ügynöki úton több oldalról ellenőrzöttek. Munkájával
+    </hi>
+    <hi>
+     kapcsolatban dekonspirációt, dezinformációt, árulást nem tapasztaltunk.
+    </hi>
+    ” Másutt: „…meglehetősen fecsegő típus. Hibái ellenére igen jó ügynök.” Vigyáztak is arra, hogy megőrizzék: „Javaslom […] elszakítását „Zalai” fn, ügynöktől. […] Elvált ember, lakással rendelkezik, az ügynöknek [Horváth Zsuzsannának] szimpatikus, és félő, hogy további kapcsolat esetén az ügynököt elveszítjük.”
+   </p>
+   <p>
+    Horváth Zsuzsa (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    Mindezek ellenére 1973 nyarától két évig „pihentették”, 1977 júniusában zárták le a dossziéját. Viszonzásképpen kiengedték családlátogatásra Belgiumba. Ezt követően évekig hivatalsegédként dolgozott a János kórházban. Ezután a 4. sz. Sebészeti Klinikán lett raktárvezető, majd a Rókus kórház intenzív osztályára osztották be. 1965-ben névházasságot kötött, mert „
+    <hi>
+     egy nőt olyan nagyon hamar lekezelnek, elintéznek, nem vesznek komolyan, de ha éreznek egy férfit a háta mögött, már mindjárt másképp állnak a dolgokhoz.
+    </hi>
+    ” 1976-ban az ORFI-ból ment nyugdíjba, de csekély jövedelme miatt 1987-ig az Orvostörténeti Múzeumban portásként dolgozott. 1992-ben az 1956-os múltjáért kitüntették. „…
+    <hi>
+     Nem tudok szép dolgokat, meg jó dolgokat mondani.
+    </hi>
+    […]
+    <hi>
+     Elég keserves életem volt
+    </hi>
+    […]
+    <hi>
+     mindig újrakezdtem, mindig belebuktam…
+    </hi>
+    ” – mondta életútinterjújában. 2000-ben elhunyt.
+   </p>
+   <p rend="head">
+    Lehoczky Attiláné (Lehotayné) Mona Judit
+   </p>
+   <p>
+    Lehoczky Attiláné (Lehotayné) Mona Judit (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    1926-ban született Tápiósülyön (Pest m.), háromgyermekes családban. A szülők baloldali érzelműek voltak. Édesanyja belépett a szociáldemokrata pártba, édesapja vöröskatonaként védte a Tanácsköztársaság határait. Orvostanhallgatóként 1951-ben férjhez ment, nemsokára gyermeke született. 1956-ban Újpesten patológusként dolgozott.
+   </p>
+   <p>
+    Október 23-án hazafelé elakadt a közlekedés: a Sztálin szobrot bontották éppen. Úgy látta, hogy a fiatalok a rossz látási viszonyok miatt veszélyben vannak a szobron. Maga mellé vett egy villamosvezetőt és egy katonatisztet, és a közeli illetékes középületben a tömeg küldöttjeiként kérték, hogy gyújtsák be a közvilágítást. A rémült gondnok szót fogadott. A Rádió épületének ostromát is látta.
+   </p>
+   <p>
+    Az első napokban Kőbányán látott el orvosi teendőket, de néhány nap múlva férjével, Lehoczky Attilával a Corvin köziekhez csatlakozott. A Práter utcában vezető orvos lett, a műtőnek berendezett teremben dolgozott éjjel-nappal, megszállottan. Ellátta az ÁVH-s foglyokat is. Amikor ezt egy felkelő helytelenítette, és szigorúbb bánásmódot javasolt, így válaszolt neki: „
+    <hi>
+     Harcos! Hogy beszélhetsz így? Akkor mi is olyanok lennénk, mint ők.
+    </hi>
+    ” Egyes források szerint a felkelőcsoportot érintő kérdésekben is szava volt.
+   </p>
+   <p>
+    November 6-án a corvinisták nagy részével elindult a nyugati határ felé, de már Újpesten meggondolta magát, és csak nehezen szánta rá magát újra az emigrálásra („
+    <hi>
+     előbb javítani kellene valamit az ország helyzetén
+    </hi>
+    ”). November végén kényszerűségből gyermekük nélkül lépték át az országhatárt egy corvinista csoporttal. Először Bécsben, majd Genovában laktak, és kapcsolatban álltak a Várfalvi Lajos vezette Magyar Forradalmi Tanáccsal. Férje vakmerő vállalkozás keretében februárban sikeresen kihozta a gyermeket is. (Ahogy később, egy amerikai újságnak nyilatkozta, férje egy másik apával érkezett; úgy kerülték el  a feljelentéssel  járó kockázatot, hogy egymás gyermekeiért mentek, hogy a lakótársak ne ismerhessék fel őket. A határátlépés veszélyét csökkentendő a kicsik altatókúpot kaptak.)  Eközben ő porckorongsérvvel kórházba került – valószínűleg az elmúlt időszak fizikai túlerőltetésétől.
+   </p>
+   <p>
+    Hamarosan az Egyesült Államokba, New Yorkba, majd Buffalóba költöztek. Itt már a Lehoczky név helyett a Lehotayt használták. Főleg Agatha Christie könyveket olvasva tanult meg angolul.  1958-ban megszülte második gyermekét. Ott újabb nehézségekbe ütköztek: az amerikaiak nem fogadták el a magyar diplomát, tehát szakmai pályafutásukat is újra kellett kezdeni.
+   </p>
+   <p>
+    Lehoczky Attiláné (Lehotayné) Mona Judit (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    Kórházakban patológusként kezdett dolgozni, majd New Yorkban megszerezte a diplomáját. Ezt követően óriási sikereket ért el: pályafutása alatt törvényszéki szakértő lett (Dr. Milton Helpern, „a modern törvényszéki patológia atyja” volt a professzora), a jó hírű Erie County-ban lévő boncolási intézetet vezette.  Több amerikai tudományos társaság sorai közé fogadta, a National Association of Medical Examiner vezetőségének első női tagjává választották. Majd ő lett a Törvényszéki Patológusok Országos Szövetségének első választott női igazgatója. Mindez komoly publicitást is kapott. „
+    <hi>
+     Dr. Lehotay elragadó és méltóságteljes nő volt, aki még lidérces feladatok ellátása közben sem vesztette el báját
+    </hi>
+    ” – írták róla.
+   </p>
+   <p>
+    „
+    <hi>
+     A törvényszéki patológiát rejtélyesnek, nagyon nehéznek, de egyben nagyon érdekesnek is találtam – igazi kihívás volt. A holttest titkait kell megfejteni. A test a saját nyelvén beszél, én megfejtem ezt a nyelvet, és így feltárom a halottak titkait
+    </hi>
+    ” – vallott hivatásáról. „
+    <hi>
+     Volt aki azt mondta, sosem lesz belőlem törvényszéki patológus, mert nő vagyok és akcentusom is van. Eltökéltem, hogy bebizonyítom az ellenkezőjét
+    </hi>
+    ”.
+   </p>
+   <p>
+    Lehoczky Attiláné (Lehotayné) Mona Judit (A képért köszönet Eörsi Lászlónak)
+   </p>
+   <p>
+    Mindazonáltal emigrációs életük nehéz és gondterhes volt, és a házasságában is repedések keletkeztek főleg amiatt, hogy férje előmenetele jóval kevésbé volt sikeres: az új követelményekhez nem tudott alkalmazkodni, így kényszerűségből könyvtárosi pályán folytatta.
+   </p>
+   <p>
+    Lehotay Judit magyarságtudatának megőrzését is fontosnak tartotta. Gyermekei ebben kevéssé követték. Az Egyesült Államok Szabadságharcos Szövetsége vezetőségének tagja lett. Az amerikai magyar cserkészmozgalom szervezésével is foglalkozott, a buffalói cserkészeket ő vezette. Jó viszonyt ápoltak az egykori felkelőparancsnokkal, Pongrátz Gergellyel, ő lett gyermekük keresztapja, de megneheztelt rá, amikor az exparancsnok új szabadságharcos szövetséget szervezett, mert úgy látta, hogy Pongrátzot ebben csak a saját érvényesülési lehetősége motiválja. 1981-ben hunyt el, de még haldokolva is hű maradt önmagához: hozzájárult, hogy videóra vett tanúvallomását felhasználják egy gyerekbántalmazási ügyben.
+   </p>
+   <p>
+    Eörsi László: Pesti lányok, 1956. Noran Libro 2019.
+   </p>
+  </body>
+ </text>
+</TEI>

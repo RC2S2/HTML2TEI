@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Karácsony Gergely: Budapestnek is meg kell dolgoznia azért, hogy az EU-s támogatások ne apadjanak el
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     7f4e3e5c-fb1b-5cbf-b6e7-1f8ec152ce9c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Karácsony Gergely: Budapestnek is meg kell dolgoznia azért, hogy az EU-s támogatások ne apadjanak el
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-26T13:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/01/26/karacsony-gergely-budapestnek-is-meg-kell-dolgoznia-azert-hogy-az-eu-s-tamogatasok-ne-apadjanak-el/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/01/26/karacsony-gergely-budapestnek-is-meg-kell-dolgoznia-azert-hogy-az-eu-s-tamogatasok-ne-apadjanak-el/
+     </sch:url>
+     <sch:name>
+      Karácsony Gergely: Budapestnek is meg kell dolgoznia azért, hogy az EU-s támogatások ne apadjanak el
+     </sch:name>
+     <sch:datePublished>
+      2019-01-26T13:51:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      előválasztás
+     </sch:keywords>
+     <sch:keywords>
+      tarlós istván
+     </sch:keywords>
+     <sch:keywords>
+      főpolgármester-jelölt
+     </sch:keywords>
+     <sch:keywords>
+      főpolgármester
+     </sch:keywords>
+     <sch:keywords>
+      horváth csaba
+     </sch:keywords>
+     <sch:keywords>
+      EU-s források
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="7f4e3e5c-fb1b-5cbf-b6e7-1f8ec152ce9c">
+     <sch:identifier>
+      urn:uuid:d6e88bd3-2539-40da-a680-aea19c81dcdc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:03.457292
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:19:29.874855
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="7f4e3e5c-fb1b-5cbf-b6e7-1f8ec152ce9c" when="2021-12-14T15:35:03.457292">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Karácsony Gergely: Budapestnek is meg kell dolgoznia azért, hogy az EU-s támogatások ne apadjanak el
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A január 28-án, azaz hétfőn induló főpolgármester-jelölti előválasztás előtt szombaton prezentálta programját Karácsony Gergely a Hotel Danubius Flamencóban. A bemutató viszonylag kevés meglepetéssel szolgált, Karácsony programpontjainak túlnyomó többségével már találkozhatott a közönség  különböző nyilvános szereplései alkalmával– többek között az eddigi jelöltvitákon, amelyekről a Mércén is
+    beszámoltunk
+    . A reprezentatív elemek mellett sokkal inkább a sarkalatos programpontok egyfajta összegzésének funkcióját töltötte be az esemény.
+   </p>
+   <p>
+    A bemutatón Karácsony közvetlen riválisa, az MSZP-s Horváth Csaba is megjelent. Ennek kapcsán az esemény moderátora, Barabás Richárd hangsúlyozta szimbolikus jelentőségét, kiemelve, hogy ettől is „igazi demokraták”, erről is szól az előválasztás: új, a NER felfogásával ellentétes politikai kultúra építéséről. Az MSZP ismertebb arcai közül egyébként még Kunhalmi Ágnes, a párt korábbi budapesti elnöke is tiszteletét tette.
+   </p>
+   <p>
+    Ide kapcsolódó szombati hír, hogy Gyurcsány Ferenc Facebook-oldalán bejelentette, a DK is beáll Karácsony Gergely mögé:
+   </p>
+   <p>
+    A bemutató azzal kezdődött, hogy a Karácsonyt eddig támogató közéleti személyiségek –Bálint gazda, Bajnai és Szabó Tímea – videóüzeneteit  játszották le a jelenlévőknek. Ebben a „szimbolikus blokkban” Karácsony mindhármójukkal  kapcsolatban kifejtette egy-egy vízióját Budapest jövőjéről. Bálint György figuráján keresztül az általa már sokszor emlegetett, kistelepülésen töltött a gyerekkora vezetett át, szerinte a jó levegő, zöld területek, kisebb közösségek ideálja az, amire törekedni lehet és kell.
+   </p>
+   <p>
+    Bajnai karaktere pedig Karácsony szerint arról is szól, hogy a tettek mindig fontosabbak, mint a nagy szavak. Közös munkájukra emlékezett vissza a 2014-es választás előtt, majd azt mondta, Budapesten Tarlóstól már láttuk az erős szavakat, ha a politikai ellenfelekről van szó – itt egy gesztust téve riválisa felé példaként hozta, hogy „
+    bunkó módon illette éppen Csabát
+    ” – de amikor Budapest pénzét, autonómiáját, vagy a kilakoltatásra váró embereket kellett volna védeni, az igazi tetteket nem láttuk.
+   </p>
+   <p>
+    Szabó Tímea kapcsán pedig Karácsony politikustársa harcos jelleme mellett azt a képet idézte fel, amelyben egy anyuka tol egy babakocsit, akinek rengeteg olyan nehézséggel kell megküzdenie a fővárosban – parkoló kocsik kerülgetése, felszállás a villamosra, szennyezett levegő –, amelyet meg szeretne oldani főpolgármesterként.
+   </p>
+   <p rend="head">
+    Amikor a konkrét program bemutatására került a sor, Karácsony hangsúlyozta, ez még nem az a program, amivel októberben meg kell verni Tarlóst, úgy fogalmazott, hogy „ez egy ajánlat”.
+   </p>
+   <p>
+    Szerinte olyan programnak kell végül kialakulnia, amely hosszabb vita, párbeszéd nyomán jön létre.  Mostani, vázlatos programjában tíz célt határozott meg, amely „élhetőbb és emberközpontúbb” Budapestet eredményezhet. Hangsúlyozta, ez nem rangsor, egyformán fontosak a programpontok:
+   </p>
+   <list>
+    <item>
+     <hi rend="bold">
+      Demokrácia
+     </hi>
+     : Karácsony úgy véli Budapestet megfosztották szabadságától, pénzétől, főpolgármesterétől (miután Tarlós szerinte a Fidesz helytartójává vált). Ismét szóba hozta, hogy köztérré alakíttatná a Városháza előtti parkolót. Azt szeretné, ha a város bemehetne a Városháza épületébe, ha „kinyitnák” azt. Szerinte a nyitott városháza azt üzeni, hogy a városvezetés is nyitott, és közösen döntik el a polgárokkal, hogy mi a helyes cselekvés módja. azt mondta, ez nem működik bizalom nélkül, annak pedig alapvető feltétele az átláthatóság.
+    </item>
+    <item>
+     Karácsony szerint a budapesti
+     <hi rend="bold">
+      légszennyezettség
+     </hi>
+     szintje az ázsiai nagyvárosok levegőjéhez hasonlítható a budapesti, és sok mindent kell tenni annak érdekében, hogy ez megváltozzon: meg kell védeni a zöld terülteket, az önhibájukon kívül környezetszennyezően fűtő embereknek célzott támogatásokat kell adni. Kell egy új szmogriadó-szabályozás, és az embereket folyamatosan tájékoztatni kell arról, hogy mekkora a probléma.
+    </item>
+    <item>
+     Karácsony arra is kitért, hogy szerinte a gondolkodj globálisan, cselekedj lokálisan elvet kell követni, részt kell vállalni a
+     <hi rend="bold">
+      klímaváltozás
+     </hi>
+     elleni harcban.
+    </item>
+    <item>
+     Ehhez kapcsolódóan a
+     <hi rend="bold">
+      közterületekkel
+     </hi>
+     kapcsolatos teendőknél a konkrétumok között említette a Városliget megvédését, valamint a Római-part ügyét is, azt mondta, meg kell tiltani, hogy építési területté nyilvánítsanak zöldfelületeket. Itt – mint korábban már arról többször beszélt – megemlítette, hogy kell egy , a zöld területekkel foglalkozó személy, egy főkertész a budapesti városvezetésbe, amely intézmény Zuglóban már szerinte bevált.
+    </item>
+    <item>
+     A legtöbbet a
+     <hi rend="bold">
+      közlekedés
+     </hi>
+     területén kell tenni Karácsony szerint a következő főpolgármesternek: Rugalmatlan a jegyrendszer, azt kell elérni, hogy egyre többen fizessenek egyre kevesebbet, követendő példának nevezte Bécset. Az is fontos, hogy a gyalogosokat és a kerékpárosokat részesítsék előnyben a gépkocsihasználattal szemben.
+     <p rend="head">
+      A budai fonódó villamost ugyanakkor sikeres fejlesztésnek nevezte.
+     </p>
+    </item>
+    <item>
+     A
+     <hi rend="bold">
+      lakhatás
+     </hi>
+     a fő problémának a megfizethetetlenné vált  lakásokat és albérleteket és a mindennapossá vált kilakoltatásokat nevezte. 
+„A mostani lakáspolitika, a gazdagoknak ad, és a szegényektől elvesz, ez nemcsak torz, de idejétmúlt is” – mondta. Karácsony vállalja, hogy főpolgármesterként 10 százalékra bővíti a nonprofit lakásszektort a mostani 4,6 százalékról. Arról is beszélt, hogy míg Budapesten a borzasztó körülmények szinonimája a az önkormányzati bérlakás, Bécsben jó lakásminőséget kap egy középosztálybeli ember is ugyanebben a konstrukcióban. Főpolgármesterként létrehozna egy fővárosi lakástársaságot, melynek átadnák azokat a lakásépítésre alkalmas fővárosi területeket, amelyeken a társaság – az EU-s támogatásokból – a nonprofit lakásépítési programot megvalósíthatja. A bérlők és a kiadók jogainak védelmére pedig létrehozná a lakásügyi ombudsman intézményét.
+    </item>
+    <item>
+     Az
+     <hi rend="bold">
+      esélyegyenlőség
+     </hi>
+     kapcsán arról is szólt, hogy  nagyon sok olyan intézmény hiányzik Budapestről, ami azt segítené, hogy egyenlő polgárokká váljanak a Budapestiek, sokat kell tenni szerinte a kirekesztés, intolerancia ellen. Úgy fogalmazott, Tarlós és a Fidesz a hajléktalan emberek ellen vív háborút a hajléktalanság helyett. Civil szervezetek bevonásával új rendszerben folytatná a hajléktalan emberek fővárosi segélyezését, hogy az hatásosabban segítse elő a hajléktalanságból való kilépést.
+    </item>
+    <item>
+     Azt is mondta, hogy a fővárosnak nincs
+     <hi rend="bold">
+      gazdasági fejlesztési koncepció
+     </hi>
+     ja, ami rendkívül hátrányos. Szerinte kreatív iparra épülő gazdaságot kéne létrehoznia Budapestnek. A fiatal tehetségeket itt kell tartani, egy főpolgármester pedig szerinte akkor sem maradhat néma, amikor a legjobb egyetemet elűzik a városból – utalt ezzel Karácsony a CEU-ügyre.
+    </item>
+    <item>
+     Az ingázáskényszer csökkentésére óriási igény van Karácsony szerint ennek kapcsán beszélt
+     <hi rend="bold">
+      városfejlesztési
+     </hi>
+     koncepciójáról: szerinte a kisváros a nagyvárosban logikát érvényesíteni a városmagon kívül, ehhez pedig új funkcióval kellene ellátni a régi ipartelepeket, amelyek kihasználatlan lehetőségeket rejtenek magukban.
+    </item>
+    <item>
+     Végül arra tért ki, hogy Budapest
+     <hi rend="bold">
+      európai uniós támogatás
+     </hi>
+     aiért meg kell harcolni. Szerinte az lenne a helyes, ha azok a városok, amelyek „megfelelnek a jogállamiság követelményeinek”, a kormányt megkerülve is megkapnák a támogatást, ha már Orbán „sajnálja a pénzt a budapestiektől”.
+    </item>
+   </list>
+   <p>
+    A
+    részletes program
+    a Párbeszéd holnapján elérhető.
+   </p>
+   <p>
+    A programbemutató itt tekinthető meg teljes hosszában:
+   </p>
+   <p>
+    Hétfőn nyílnak meg Budapest 33 pontján olyan sátrak, ahol helyben lehet regisztrálni és szavazni az előválasztáson, ezenkívül 26 pártirodában is lehet majd szavazni. A regisztrációs- és szavazóhelyiségek teljes listája
+    itt elérhető.
+   </p>
+  </body>
+ </text>
+</TEI>

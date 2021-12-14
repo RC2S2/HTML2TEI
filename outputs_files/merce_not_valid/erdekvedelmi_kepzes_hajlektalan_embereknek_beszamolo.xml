@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Érdekvédelmi képzés hajléktalan embereknek – beszámoló
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     aafa26f1-0e0c-5962-a724-3daa86b00798
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Érdekvédelmi képzés hajléktalan embereknek – beszámoló
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2013-12-22T06:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2013/12/22/erdekvedelmi_kepzes_hajlektalan_embereknek_beszamolo/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2013/12/22/erdekvedelmi_kepzes_hajlektalan_embereknek_beszamolo/
+     </sch:url>
+     <sch:name>
+      Érdekvédelmi képzés hajléktalan embereknek – beszámoló
+     </sch:name>
+     <sch:datePublished>
+      2013-12-22T06:00:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      avm_akadémia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="aafa26f1-0e0c-5962-a724-3daa86b00798">
+     <sch:identifier>
+      urn:uuid:f94d8692-9f3e-4655-bdf3-7a4a2bfddc6a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:58.839066
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:10:43.796688
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="aafa26f1-0e0c-5962-a724-3daa86b00798" when="2021-12-14T15:30:58.839066">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Érdekvédelmi képzés hajléktalan embereknek – beszámoló
+   </head>
+   <p>
+    Ez a cikk több mint 7 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     A Város Mindenkié 2013. december 4-én tartotta éves érdekvédelmi képzését, ahol a csoport hajléktalan aktivistái és szimpatizánsai tanulhattak az érdekvédelem módszereiről, eszközeiről és a felmerülő nehézségek legyőzéséről. A képzést három tapasztalt aktivista tartotta, Lakatosné Jutka, Balog Gyula és Udvarhelyi Tessza.
+    </hi>
+   </p>
+   <p>
+    A képzést a résztvevők bemutatkozásával és az AVM bemutatásával kezdtük, hogy azok a résztvevők is ismerjék a csoportunkat, akik most találkoztak velünk először. Ezután a jogi információkról szóló blokk következett, ahol jelenleg nagyon is aktuális három témát jártunk körül: a lakcímmel kapcsolatos jogokat és kötelességeket (amelyről
+    nemrég jelent meg kisokosunk
+    is), a
+    KENYSZI-rendszer
+    működését, majd az Utcajogász koordinátorával, Bognár Eszterrel a nemrég hatályba lépett szabálysértési tényállást beszéltük át, amely
+    bünteti az „életvitelszerű közterületen tartózkodást”
+    .
+    A résztvevők végig nagyon aktívak voltak, sok-sok kérdést tettek fel, és nagyon jó jogi érzékről tettek tanúbizonyságot.
+   </p>
+   <p>
+    Mivel nagyon elhúzódott az idő, a képzésből sajnos kimaradt az a blokk, amelynek során egy pár jó példát vettünk volna végig az AVM érdekvédelmi tevékenységéből –elsősorban azért, hogy megmutassuk a jelenlévőknek: érdemes küzdeni, kiállni jogainkért, mert bár sokszor nagyon nehéz, de el lehet érni kézzelfogható eredményeket. Itt beszéltünk volna több az
+    Utcajogász
+    á
+    ltal sikeresen megoldott ügyről (pl. amikor egy kilakoltatott család személyes holmiját az önkormányzat elzárta, és csak a segítségünkkel tudtak hozzájutni), a
+    kőbányai elsőként lakhatás programról
+    ,
+    amelynek során egy erőszakos kunyhóbontási kísérlet után a kerületi önkormányzat önálló lakhatási programot indított utcán élő embereknek, a
+    zuglói perünkről
+    ,
+    amelynek során hajléktalan emberek perelték be az önkormányzatot a kunyhóik jogszerűtlen elbontása miatt (noha a per még nem ért véget, már azt hatalmas eredménynek tartjuk, hogy a kunyhólakóknak volt bátorságuk az ügy beindításához és nagyon kitartóan részt is vesznek benne), vagy éppen
+    Lakatosné Jutka ügyéről
+    , aki hónapokon keresztül harcolt azért, hogy visszakapja jogszerűtlenül elvett segélyét.
+   </p>
+   <p>
+    Egy rövid szünet után a programban ezután Lakatosné Jutka következett, aki bemutatta az AVM érdekérvényesítő munkájának lépcsőzetes logikáját: ha egy ügyben eredményt szeretnénk elérni, először mindig hivatalos és udvarias formában keressük meg a döntéshozókat (pl. személyes megkeresés,
+    n
+    yílt levél
+    ),
+    majd ha ez sikertelennek bizonyul, akkor mobilizálni kezdünk az ügyben, hogy mutassuk az ügy társadalmi támogatottságát (pl. petíció,
+    tüntetés
+    ),
+    és csak akkor fordulunk ennél „radikálisabb” eszközökhöz (pl.
+    polgári engedetlenség
+    ,
+    közvetlen akciók), amikor már úgy érezzük, hogy nincsen más lehetőségünk követeléseink eljuttatására azokhoz, akik képesek lennének a helyzet javítására vagy megváltoztatására.
+   </p>
+   <p>
+    A program következő elemét Balog Gyula vezette le, aki szituációs játékok segítségével segített abban a résztvevőknek, hogy kipróbálják érdekvédelmi készségeiket. Két helyzetet gyakoroltunk el a fórum színház módszertanát követve (ahol az eredeti helyzetbe belépve a közönség is megváltoztathatja a történet menetét). Az első helyzetben egy hajléktalanszálló lakóját cigarettázáson kapják az intézmény vécéjében, és ezért ki akarják tiltani. Vajon milyen eljárással tiltják ki? Mennyire tudja érvényesíteni a jogait? Mit az eszközök a kezében, hogy a tél közepén ne kerüljön utcára egy ilyen viszonylag kicsi szabálysértés miatt? A második esetben egy kunyhólakó párhoz mennek oda a közterület-felügyelők és próbálják őket elküldeni otthonukból, amelyet elmondásuk szerint nemsokára le fognak bontani. Vajon van-e ehhez joguk? Mit tehetnek a kunyhólakók jogaik, érdekeik védelmében?
+   </p>
+   <p>
+    A képzés lezárásaként egy közösségi panaszfórumot tartottunk, ahol a résztvevők kis papírokra írták le az ellátórendszerrel kapcsolatos negatív tapasztalataikat. Az eseteket egy zacskóban gyűjtöttük össze és ezeket véletlenszerűen kihúztuk, majd közösen próbáltunk rájuk megoldásokat találni. Néhány példa a felhozott nehézségekre: „A hajléktalan ember csak ’munkaeszköz’ neki reggel 9-től este 5-ig, közben az órát nézi: Úristen, mikor lesz már este?” „Postai küldemények hanyag kezelése, visszaélés.” „ A szociális munkásom a saját akaratát szeretné rám erőltetni, feleslegesnek tartja a leszázalékolásom elindítását.” A megoldási lehetőségek között szerepelt a hivatalos panasz benyújtása, a szociális munkások munkájának pozitív elismerése (remélve, hogy ezzel az ügyfél is tiszteletteljes elbánásban fog részesülni), egy új szociális munkás keresése, valamint a magabiztos fellépés a saját érdekeinkért.
+   </p>
+   <p>
+    Mint mindig, most is nagyon sokat tanultunk egymástól, reméljük, legközelebb még többen részt vesznek az érdekvédelmi képzésünkön és egyre több hajléktalan ember fogja tudni használni a megfelelő eszközöket ahhoz, hogy érvényesítse érdekeit.
+   </p>
+   <p>
+    2013. december 14.                                                                                                     Udvarhelyi Tessza
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

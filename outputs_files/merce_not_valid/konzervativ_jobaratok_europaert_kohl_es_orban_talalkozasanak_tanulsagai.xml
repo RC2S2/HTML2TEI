@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Konzervatív jóbarátok Európáért – Kohl és Orbán találkozásának tanulságai
+    </title>
+    <author>
+     <persName>
+      Langowski Judith
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     aedb7811-4724-5975-b020-ada84641e497
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Konzervatív jóbarátok Európáért – Kohl és Orbán találkozásának tanulságai
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Langowski Judith
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-04-20T20:38:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/04/20/konzervativ_jobaratok_europaert_kohl_es_orban_talalkozasanak_tanulsagai/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/04/20/konzervativ_jobaratok_europaert_kohl_es_orban_talalkozasanak_tanulsagai/
+     </sch:url>
+     <sch:name>
+      Konzervatív jóbarátok Európáért – Kohl és Orbán találkozásának tanulságai
+     </sch:name>
+     <sch:datePublished>
+      2016-04-20T20:38:00
+     </sch:datePublished>
+     <sch:author>
+      Langowski Judith
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      menekültügy
+     </sch:keywords>
+     <sch:keywords>
+      Angela_Merkel
+     </sch:keywords>
+     <sch:keywords>
+      Helmut_Kohl
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="aedb7811-4724-5975-b020-ada84641e497">
+     <sch:identifier>
+      urn:uuid:dd122a79-0923-4754-919d-177e80696a8e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:06.397288
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:22:21.081490
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="aedb7811-4724-5975-b020-ada84641e497" when="2021-12-14T15:31:06.397288">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Konzervatív jóbarátok Európáért – Kohl és Orbán találkozásának tanulságai
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    Ahhoz képest, hogy Orbán Viktor keddi rövid látogatása Helmut Kohl volt német kancellárnál magánútként volt beállítva – a sajtót nem is hívták meg – nagy visszhangja volt a német napilapok politikai oldalain.
+   </p>
+   <p>
+    Ludwigshafen, 2014. június 28. MTI Fotó: Miniszterelnöki Sajtóiroda/Burger Barna; Forrás:
+    hirado.hu
+   </p>
+   <p>
+    A Rajna menti, remek borvidéken fekvő Oggersheimban látogatta meg Orbán a 86 éves Kohlt, akit még fiatal politikusként ismert meg. Majd 80 percet töltöttek el a régi szép időkről beszélgetve, amikor még Kohl vezette Európa legfontosabb gazdaságát – 16 évig volt kancellár, 1982-98-ig, vagyis pont akkortájt, amikor kinyílt Európa Orbánéknak. A határnyitást Kohl a magyaroknak már 1989-ben hálásan megköszönte. Orbán a látogatással Kohlnak szeretett volna tisztelegni, és a német-magyar barátságnak, az összes magyar nevében – illetve köszönetet nyilvánítani azért, hogy Kohl 2002-ben és 2014-ben kiállt Orbán mellett a választási kampányban. A német-magyar barátság, ahogy kiderült, most is elég szoros, a rossz PR ellenére, amelyben Orbán Németországban részesül.
+   </p>
+   <p>
+    A nagy rendszerváltás óta Kohl és Orbán jó barátok, Orbán saját magát „Kohl diákjának” tartja. Olyannyira, hogy Orbán írta az előszót Kohl legújabb könyvének magyar fordításához. Az „Aggodalom Európáért” című kötetben a volt kancellár azokról a hibákról számol be, melyeket az őt követő szociáldemokrata-zöld kormány követett el az euró bevezetésével. De az Európai Uniót ennek ellenére „történelmi lehetőségnek” látja, amiért felelősek vagyunk.
+   </p>
+   <p>
+    Helmut Kohl Orbánt „nagy európainak” tartja. A könyvben is hangsúlyozza, hogy mind a mai napig támogatja Orbán politikáját, így a legfrissebb migrációs politikáját is, akárcsak Orbán hozzáállását az összeurópai döntésekhez ebben a témában. Az Unió szerinte egy „szívügy”; a könyvvel is azt szeretné elérni Kohl, hogy újra egybeforrjon „Európa„, mivel összeköti egy közös kultúra, melyet Kohl „európai géniusznak” nevez.
+   </p>
+   <p>
+    A „nem-politikai„ találkozót arra is felhasználta a két barát, hogy egyetértésüket fejezzék ki Angela Merkel, jelenlegi német kancellár bevándorláspolitikájával. Merkel szerint is „hasznos” volt a találkozó, mivel a közös európai döntésekről is szó esett, és arról is, hogy a menekülést kiváltó okok ellen hogyan lehet küzdeni.
+   </p>
+   <p>
+    Angela Merkel pedig, ahogy ez Németországban közismert, Kohl kedvenc tanítványa volt, mielőtt egy adománybotrány nyomán a politikus kellemetlen helyzetbe került, és Merkel is szembehelyezkedett vele a párton belül. A kancellár asszony hozzáállása a menekültkérdéshez egyébként sokat változott: míg nyáron a Willkommenskultur, azaz a befogadás kultúrája volt a jellemző, most az Erdogan török államfővel köthető alkuk fontossága kerekedett felül. Hiszen ha már a török határon megállítják a szíriaiakat, akkor itt a befogadókultúrára sem kell már annyi pénzt szánni (értsd: infrastruktúrát fenntartani a menekülteknek és segítőknek).
+   </p>
+   <p>
+    Míg a német sajtó hevesen kritizálja Orbán politikáját, Európa rosszfiújának állítva be őt, Merkel és Kohl, a német politika fontos és kiemelkedő figurái, szó nélkül hagyják Orbán erősen menekültellenes politikáját. Merkel
+    a pártcsaládja színeiben marad és kiáll a magyar konzervatív társa mellett, ezzel elkerülve a konfrontációt is a CDU és a CSU Orbánnal szövetséges köreivel.
+    Akik még egy negyedszázada együtt nyitottak határokat, most együtt zárják be őket. Az Európát egyben tartó eszme és gyakorlat egyúttal sok európait is kizár, olyanokat, akik pedig szívesen hinnének benne és küzdenének érte.
+   </p>
+   <p>
+    Azaz úgy tűnhet, ha így összetartanak a politikusok, nem is kell aggódnunk Európa jövőjéért – vagy mégis?
+   </p>
+   <p>
+    Támogass havi 1000 forinttal:
+   </p>
+   <p>
+    További vállalásaink és támogatási lehetőségek
+   </p>
+   <p>
+    A Kettős Mérce csak akkor tud működni, ha te is támogatod! A Kettős Mérce nem segít pártokat vagy oligarchákat. Ők sem segítenek minket. A Mércét akkor tudjuk hosszú távon fenntartani, ha legalább 600-an támogattok minket. Jelenleg 228 állandó támogatónk van. Ha szerinted is szükség van egy olyan baloldali és független lapra, mint a Mérce,
+    támogass minket
+    !
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

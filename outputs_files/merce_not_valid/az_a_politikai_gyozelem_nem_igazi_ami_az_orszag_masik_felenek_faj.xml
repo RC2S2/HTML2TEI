@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az a politikai győzelem nem igazi, ami az ország másik felének fáj
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0908273b-e45f-523c-ae21-6813eda14437
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az a politikai győzelem nem igazi, ami az ország másik felének fáj
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-02-23T10:03:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/02/23/az_a_politikai_gyozelem_nem_igazi_ami_az_orszag_masik_felenek_faj/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/02/23/az_a_politikai_gyozelem_nem_igazi_ami_az_orszag_masik_felenek_faj/
+     </sch:url>
+     <sch:name>
+      Az a politikai győzelem nem igazi, ami az ország másik felének fáj
+     </sch:name>
+     <sch:datePublished>
+      2017-02-23T10:03:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      népszavazás
+     </sch:keywords>
+     <sch:keywords>
+      olimpia
+     </sch:keywords>
+     <sch:keywords>
+      nolimpia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0908273b-e45f-523c-ae21-6813eda14437">
+     <sch:identifier>
+      urn:uuid:2e23a476-98d1-48a9-b762-18dccc1946c7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:07.158244
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:28:08.993710
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0908273b-e45f-523c-ae21-6813eda14437" when="2021-12-14T15:35:07.158244">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az a politikai győzelem nem igazi, ami az ország másik felének fáj
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Boldognak kéne lennem, hiszen már két éve koptatom a klaviatúrát, több mint 10 cikket írtam arról, miért nem szabad olimpiát rendeznünk, gyűjtöttem aláírásokat is. Meggyőződésem, hogy ha Budapesten rendezték volna az olimpiát, az óriási károkat okozott volna az országnak. És most győztünk, megakadályoztuk ezt a katasztrófát.
+    </hi>
+   </p>
+   <p>
+    (Kép forrása: reutersmedia.net)
+   </p>
+   <p>
+    Örülhetnék, hogy felesleges vagy rosszul célzott beruházásokra elköltött milliárdoktól, hatalmas korrupciótól, eladósodástól mentettük meg az országot. És végső soron örülök is, de nem tud teljes lenni a győzelmi mámor.
+   </p>
+   <p>
+    Tudomásul kell vennünk, hogy a magyar demokrácia végérvényesen győztesekre és vesztesekre oszlott, hogy nincsenek viták, egymás álláspontjainak elfogadása, konszenzuális vélemények. Ma Magyarországon az erősebb kutya baszik. Ennyi. És most a Fidesz a szerszám túloldalára került. Ennek is örülhetnék, hiszen az elmúlt 7 évben nem sok ilyen alkalom volt.
+   </p>
+   <p>
+    Örülhetnék annak is, hogy az emberek tényleg egyenként megmozdulva összeszedték az aláírásokat, hogy egy népi siker bontakozott ki a szemünk előtt, amely végül nyerni tudott a hatalom ellen. De mégis keserű a szájíz.
+   </p>
+   <p>
+    Azért nem tudok felhőtlenül örülni, mert vita és egymás megértés nélkül, a népszavazás visszavonásával totális győzelmet aratunk, mert megsemmisítettük az ellenfelet, és itt az ellenfél nem csupán egy korrupt rendszer, és egy szerintem káros terv volt, hanem olimpiát akaró emberek millióinak vágya, mert megint „ők és mi” sztorit akarnak gyártani emberek érzéseiből. És igen, tudom, egy „rendezünk vagy nem rendezünk” kérdésben valamelyik oldal nyer, a másik meg veszít, de más ez a vereség, ha vita van, ha empátia van, ha megértjük kicsit egymás gondolatait. Akkor már nem fáj annyira a vereség, ha értünk más szempontokat is, a sajátunkon kívül.
+   </p>
+   <p>
+    Kattints és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+   </p>
+   <p>
+    Ez maradt most el, ahogy mindig elmarad ebben az országban. Az, hogy megértsük egymást, hogy ne harcként fogjuk fel az életünk döntései feletti vitát, hanem párbeszédként, aminek a végén döntést kell hoznunk, nem megbántva egymást.
+   </p>
+   <p>
+    Miért nem lehetett a pályázatra elköltött tízmilliárdokból valódi vitát rendezni, miért nem lehetett korábban népszavazás? Miért nem lehetett ezt az egészet tisztességesen, az emberek véleményét figyelembe véve intézni?
+   </p>
+   <p>
+    A csodálatos még ebben a katyvaszban is az lenne, ha ma ezt a vereséget látva a fideszes, vagy csupán olimpia-párti honfitársaim megértenék, hogy milyen totálisan legyőzve lenni, mennyire fáj a politikai megroppantás, mennyire haszontalan a politika olyan felfogása, amelyben nincs tisztes vereség, csak a politikai végképp eltörölni. Mert Orbán Viktor ezzel a visszalépéssel a tisztes vereség (és persze a győzelem lehetőségét), vette el az olimpia párti magyaroktól. De persze ez nem fog megtörténni, hiszen a fideszes sajtó jól előkészítette a terepet, a nemzeti egység megbontóival, a hazaárulózással, az álom lerombolóival.
+   </p>
+   <p>
+    Mintha nem együtt kéne álmodnunk az ország álmait, mintha a nemzeti egységbe nem tartozna bele az a többség, amely a kezdet óta ellenezte az olimpiát, mintha tényleg hazaárulók lennének azok, akik mást gondolnak.
+   </p>
+   <p>
+    A vitákat lefolytathattuk volna az elmúlt években, a többség véleményét meg lehetett volna hallgatni, egy népszavazást korábban is ki lehetett volna írni, de a kormánypárt addig feszegette a politikai kommunikációs húrt, addig blokkolta az elmúlt években sorra a népszavazási kezdeményezéseket, ameddig el nem szakadt a cérna, és össze nem jött brutális mennyiségű, 266 ezer aláírás. Mert ma Magyarországon a többség is csupán akkor szerezhet magának akaratot a Fidesz döntéseivel szemben, ha elpattan a húr, mint Schmidt Pálnál, mint a netadónál, a vasárnapi boltzárnál, vagy most az olimpiánál. És ez az igazi probléma. A demokrácia hiánya, a többségi vélemények elnyomása, és egy olyan politikai környezet kialakítása, ahol a többségi véleménynek totálisan kell legyőznie a kisebbségit, hogy igazat adjunk neki.
+   </p>
+   <p>
+    Valójában az álom sose volt közös, a nemzet egysége csak hazudva volt a témában. A hazaárulózás pedig arra kellett, hogy ez el legyen fedve.
+   </p>
+   <p>
+    Csak egy dologban reménykedhetünk, hogy most mindannyian megértjük, mennyire fájó a másiknak az, ha totálisan legyőzik őt, és akkor talán legközelebb eljön az a pillanat, hogy a mi győzelmünk nektek már nem fog fájni, és fordítva: a ti győzelmetek sem fog nekünk fájni.
+   </p>
+   <p>
+    Akkor pedig jöhet a közös álom, a nemzeti egység, és nem lesz többé hazaárulózás.
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

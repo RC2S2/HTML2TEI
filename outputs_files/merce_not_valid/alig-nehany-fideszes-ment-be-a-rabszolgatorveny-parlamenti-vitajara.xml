@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Alig néhány fideszes ment be a rabszolgatörvény parlamenti vitájára
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     dd48d5ae-111a-5ffb-9622-b8a52b208a6d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Alig néhány fideszes ment be a rabszolgatörvény parlamenti vitájára
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-27T21:32:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/27/alig-nehany-fideszes-ment-be-a-rabszolgatorveny-parlamenti-vitajara/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/27/alig-nehany-fideszes-ment-be-a-rabszolgatorveny-parlamenti-vitajara/
+     </sch:url>
+     <sch:name>
+      Alig néhány fideszes ment be a rabszolgatörvény parlamenti vitájára
+     </sch:name>
+     <sch:datePublished>
+      2018-11-27T21:32:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      rabszolgatörvény
+     </sch:keywords>
+     <sch:keywords>
+      munka
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      szél bernadett
+     </sch:keywords>
+     <sch:keywords>
+      parlament
+     </sch:keywords>
+     <sch:keywords>
+      vita
+     </sch:keywords>
+     <sch:keywords>
+      Kósa Lajos
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="dd48d5ae-111a-5ffb-9622-b8a52b208a6d">
+     <sch:identifier>
+      urn:uuid:5c02a2eb-d50f-456a-9e1d-a0bb6e6761de
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:36.982346
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:11:44.599300
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="dd48d5ae-111a-5ffb-9622-b8a52b208a6d" when="2021-12-14T15:30:36.982346">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Alig néhány fideszes ment be a rabszolgatörvény parlamenti vitájára
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Felháborodott ellenzéki felszólalásokkal és üres kormánypárti padsorokkal kezdődött el a túlóráról és munkaidőkeretről szóló új
+    törvénymódosítá
+    s vitája ma este a parlamentben.
+   </p>
+   <p>
+    A Fidesz részéről csupán az egyik beterjesztő, Kósa Lajos vett részt a plenáris ülés vitáján, ezt több ellenzéki, Harangozó Tamás MSZP-s, Szél Bernadett független, Csárdi Antal LMP-s és Volner János független képviselő is élesen tette szóvá.
+   </p>
+   <p>
+    A rabszolgatörvényről írt összes cikkünk
+    ide kattintva
+    olvasható.
+   </p>
+   <p>
+    Az új, a lehetséges túlórakeretet közel duplájára (250 óra/évről 400 óra/évre) növelő javaslat a szakszervezetek és érdekvédelmi képviseletek megkérdezése nélkül készült el, és érdemi egyeztetés hiányában is nyújtották be.
+   </p>
+   <p>
+    Harangozó Tamás MSZP-s képviselő mind a javaslat tartalmát, mind pedig annak társadalmi vita hiányában megkísérelt átverését a törvényhozáson egyértelműen minősítette:
+   </p>
+   <p rend="head">
+    A magyar kormány a magyar dolgozókat eladta a német multiknak és az itthoni oligarcháknak.
+   </p>
+   <p>
+    Harangozó felhívta a figyelmet, katasztrofális helyzetet teremthet a dolgozók között, ha a javaslatból törvény lesz, az ugyanis a dolgozók maradék hétvégéjét is elrabolná tőlük, mintegy rabszolgává tennék a magyarokat anélkül, hogy mindezért több bért kellene fizetniük.
+   </p>
+   <p>
+    Szél Bernadett ugyanakkor, ha lehet még élesebben hívta fel a helyzet abszurditására a figyelmet. Amikor ő beszélt, a kormánypárt és kormányzat részéről csupán négy ember volt jelen az ülésteremben este kilenckor.
+   </p>
+   <p>
+    Kiemelte:
+   </p>
+   <p rend="head">
+    Miközben túlóráztatnák a magyarokat, ők viszont nem hajlandóak túlórázni.
+   </p>
+   <p>
+    Hosszas, emelt hangú felszólításba került Szélnek az is, hogy a beterjesztő Kósa Lajos egyáltalán rá figyeljen, ne pedig számítógépébe mélyedjen.
+   </p>
+   <p>
+    Leszögezte, a törvényjavaslat lényege az, hogy miközben a család fontosságára a Fidesz-KDNP folyamatosan felhívja a figyelmet, a mostani, multikat kiszolgáló törvénytervezet még a szombatot is elveszi a legtöbb családtól, a szabadidő megnyirbálásával pedig fáradt, kizsigerelt emberek tömkelegévé változtatja a magyarokat.
+   </p>
+   <p>
+    Volner János, volt jobbikos képviselő, egyetértve Szél Bernadettel, egyenesen úgy fogalmazott:
+   </p>
+   <p rend="head">
+    A kommunista szombat után most jön a kapitalista vasárnap.
+   </p>
+   <p>
+    Az ellenzéki képviselők közül többen az Alkotmánybírósághoz, a köztársasági elnökhöz és az alapvető jogok biztosához utalnák a rabszolgatörvény tervezetét, úgy látván, hogy ezeknek a kontrolloknak mindenképpen el kellene azt vetniük.
+   </p>
+   <p>
+    Varga-Damm Andrea, a Jobbik képviselője azt is mondta: normális esetben „emberek tömegei, az utcán tiltakoznának” egy ilyen tervezet ellen. Hangosan megkérdezte,
+   </p>
+   <p rend="head">
+    Hol van most a KDNP?
+   </p>
+   <p>
+    Emlékeztetve, hogy éppen a kisebbik kormánypárt kardoskodott évekig a vasárnapi boltzár mellett, azzal érvelve, hogy a családoknak rendes, nyugalmas hétvégét akarnak biztosítani. A rabszolgatörvény ellen látszólag nincsen kifogásuk, avagy nem tudnak róla – vélte Varga-Damm.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés 23:44
+    </hi>
+   </p>
+   <p>
+    Miután az ellenzéki képviselők több 2 perces felszólalásban és hosszabb hozzászólásokban is kifejtették, miért ellenkezik szerintük a rabszolgatörvény-tervezet még a Fidesz-KDNP által 2012-ben elfogadott új Munka Törvénykönyve egyes rendelkezéseivel is, Lezsák Sándor házelnök végül 23.30-kor már váratlanul megvonta a szót Szél Bernadettől, majd Z Kárpát Dániel „a magyar demokrácia emléke iránti tiszteletből” elállt saját, utolsó hozzászólásától.
+   </p>
+   <p>
+    Többen abszurdnak tartották a hirtelen lezárást és az ellenzék méltatlankodása közepette emelkedett fel Kósa Lajos, hogy összegezze a vitát. Arról beszélt, szerinte az ellenzék „teljes tévedésben van” törvényjavaslatát illetően, amely szerinte meg sem változtatná a munkahetet (holott heti 40 órához hozzáad 8-at). Véleménye szerint a rendkívüli munkavégzést a javaslat nem érinti és sok ágazatban egyáltalán nem is fogják az új rendelkezéseket alkalmazni. Ezért szerinte csupán apró, de szükséges módosításról beszélhetünk.
+   </p>
+   <p>
+    Az általános vita rövidre vágása után a rabszolgatörvényről várhatóan jövő hét elején szavaz a parlament.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Focivébé a tekintélyuralom árnyékában
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     809b6ddc-5bfd-5c91-893b-01b6d4510197
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Focivébé a tekintélyuralom árnyékában
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-06-14T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/06/14/focivebe-a-tekintelyuralom-arnyekaban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/06/14/focivebe-a-tekintelyuralom-arnyekaban/
+     </sch:url>
+     <sch:name>
+      Focivébé a tekintélyuralom árnyékában
+     </sch:name>
+     <sch:datePublished>
+      2018-06-14T20:30:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      oroszország
+     </sch:keywords>
+     <sch:keywords>
+      Argentina
+     </sch:keywords>
+     <sch:keywords>
+      focivébé
+     </sch:keywords>
+     <sch:keywords>
+      FIFA
+     </sch:keywords>
+     <sch:keywords>
+      vb2018
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="809b6ddc-5bfd-5c91-893b-01b6d4510197">
+     <sch:identifier>
+      urn:uuid:ece9c6b6-51a1-419d-b306-cbba6b2a7fad
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:55.648347
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:57:32.965604
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="809b6ddc-5bfd-5c91-893b-01b6d4510197" when="2021-12-14T15:30:55.648347">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Focivébé a tekintélyuralom árnyékában
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    „
+    <hi>
+     Ott, ahol jogról, szabadságról beszélni sem lehet, most futballoznak, és a világ az országban dúló terror helyett csak a gauchók és a tangó hazájával ismerkedik meg a tévéközvetítések nyomán
+    </hi>
+    ” – írta a nyugatnémet
+    <hi>
+     Stern
+    </hi>
+    magazin az 1978-as, Argentínában rendezett labdarúgó-világbajnokság azóta sokat idézett, rezignált summájában.
+    [1]
+   </p>
+   <p>
+    Ironikus, hogy a világ egyik legnagyobb sportünnepe, a glóbusz népeit Tokiótól New Yorkig megbolondító játék csúcseseménye pontosan 40 évvel a politika által talán leginkább beárnyékolt világbajnokság után költözik Vlagyimir Putyin Oroszországába.
+   </p>
+   <p>
+    Az olimpiákhoz hasonlóan a labdarúgó-világbajnokságok gyakran a rendező állam kirakateseményeiként funkcionálnak, amelyek azt hivatottak üzenni a nagyvilágnak, hogy az országban minden rendben, az aktuális torna pedig a történelem legszenzációsabbja lesz. 40 évvel ezelőtt Argentínában Jorge Rafael Videla juntájának rémtetteit jótékonyan leplező
+    látványosság lett a focivébéből
+    .
+   </p>
+   <p>
+    A tábornok diktatúrája a hivatalos adatok szerint 13 ezer,
+    jogvédő szervezetek szerint
+    mintegy 30 ezer halottat követelt. A Videla és társai által 1976-ban felállított katonai kormány a kommunizmus elleni harc nevében felszámolta a politikai pártokat, ellenőrzése alá vonta a szakszervezeteket, cenzúrázta a médiát, megkínoztatott és megöletett több ezer „felforgató elemet”. Még a világbajnokság döntőjének otthont adó Buenos Aires-i El Monumental stadiontól alig egy kilométerre is embertelen körülmények között fogva tartott politikai foglyok sínylődtek a haditengerészet főiskolájában berendezett börtönben. Ráadásul ekkortájt Videla nem csak a belföldi állapotok elé szeretett volna paravánt húzni: a dél-amerikai kontinens jobboldali kormányai az összehangolt, Condor hadműveletnek nevezett program kereteiben munkálkodtak a baloldali politikai ellenzék megsemmisítésén. A leszámolások áldozatainak számát kutatók 50 ezerre becsülik, 30 ezer személyt nyilvánítottak eltűntnek, további 400 ezer embert pedig jogtalanul börtönöztek be.
+   </p>
+   <p>
+    Hollandia és Argentína válogatottja az 1978-as döntő előtt, fotó: WIKIMEDIA
+   </p>
+   <p>
+    Argentína végül – a világbajnokságok történetében először – tornagyőztes lett. Erre ugyanakkor ma már sokkal inkább bűntudattal, mintsem hőstettként tekintenek a „gaúchók”: erősen lejtő hazai pálya és
+    őrületes bundák
+    árnyéka vetül azóta is a kék-fehér csíkos mezre. A diktátor azonban örülhetett, hiszen részben legitimálta – a végül az 1983-as falklandi háború után összeomló – rendszerét. Nemcsak a világpolitika terepén aratott elismerést, hanem az
+    <hi>
+     albiceleste
+    </hi>
+    óriási sikere és az argentin nép kollektív eufóriája  is komoly politikai tőkét jelentett.
+   </p>
+   <p rend="head">
+    Mi a baj az orosz vébével?
+   </p>
+   <p>
+    Négy évtizeddel azután, hogy a futballt az emberi jogok és a demokratikus alapértékek lábbal tiprásának leplezésére használták, egy olyan labdarúgó-világbajnokság kezdődik Oroszországban, amelyet ellenzői már évekkel a kezdő sípszó előtt számos indokkal kritizáltak.
+   </p>
+   <p rend="head">
+    Olyan indokok ezek, amelyek alapján a valóságtól nem teljesen elrugaszkodott dolog azt mondani, hogy negyven év alatt teljes kört írt le a világfutball ünnepe: mondhatni, cseberből vederbe érkezett.
+   </p>
+   <p>
+    Az orosz vébé tulajdonképpen a rendezési jog 2010-es odaítélése óta mást sem csinál, mint egyre mélyebbre süpped az ellentmondások mocsarában.
+   </p>
+   <p>
+    Noha a kronológiát tekintve az egyik legkésőbb feltárt visszássága volt a világbajnokság előkészületeinek, érdemes mégis onnan kezdeni, hogy Oroszországról – Katarral együtt – a Nemzetközi Labdarúgó-szövetség (FIFA) krémjét elsöprő korrupciós botrány felgöngyölítése közben
+    kiderült
+    : eleve megvásárolt szavazatoknak köszönhette a torna lebonyolításának jogát. A FIFA akkori – sok egyéb disznóságban is érintett – elnöke, Sepp Blatter ment, az orosz és katari világbajnokságok viszont maradtak.
+   </p>
+   <p>
+    A vébé egyébként amellett, hogy a szavazatvásárlás miatt nemzetközi dimenzióban sem volt „olcsó”, az oroszok közlése szerint
+    tizenegy milliárd dolláros
+    rendezési büdzsé több mint felét állami költségvetésből fedezik.
+   </p>
+   <p rend="head">
+    Mindezt úgy, hogy a stadionfelújításokra szánt keret az előkészületek során megötszöröződött, miközben a renovált arénák kapacitása a rendes orosz bajnoki mérkőzések átlagos látogatottságának négyszeresére duzzadt, tehát jó eséllyel kihasználatlanul fognak kongani a következő években.
+   </p>
+   <p>
+    Az oroszországi torna sztornózásának leghangosabb szószólói a
+    német
+    és
+    angol
+    labdarúgó-szövetségek voltak – utóbbi érintettségét ugyanakkor nem szabad figyelmen kívül hagyni, hiszen annak idején pályázó vetélytársa volt az orosz testületnek. Akárhogy is, végül nem értek célt a korrupciót kiáltó érvelések.
+   </p>
+   <p>
+    Nem találtak meghallgatásra azok a hangok sem, amelyek a színes bőrű játékosokat az elmúlt években orosz pályákon ért rasszista inzultusokra figyelmeztettek. Pedig nem is kevés ilyen történt, és nem is csak kevésbé ismert labdarúgókkal szemben:
+    huhogtak már orosz földön
+    például Yaya Tourénak, a világklasszis elefántcsontparti középpályásnak, de Roberto Carlosnak, a brazilok legendás balhátvédjének is.
+   </p>
+   <p>
+    A FIFA ehelyett a tüneti kezelésekre esküszik az orosz szurkolók körében a legutóbbi bajnoki szezonban is erősödő rasszizmus kordában tartásához. A nemzetközi szövetség felhatalmazást adott a világbajnokság mérkőzéseit vezető bíróknak, hogy ha gyűlölködő megnyilvánulást tapasztalnak, félbeszakítsák a meccset, igaz, nem azonnal. Elsőre megállíthatja a játékot, hogy a hangosbeszélőben felszólítsák a szurkolókat a nem kívánatos viselkedés befejezésére. Másodikra levezetik a játékosokat a pályáról az öltözőbe, amíg beolvassák az újabb felhívást, és ha harmadszor is meg kell állítani a játékot, már a bíró jogában áll majd megszakítani a meccset.
+   </p>
+   <p>
+    A játékosok bizalma azonban nem nevezhető töretlennek a FIFA irányában: az angol futballisták például külön felkészítést kaptak arra, hogyan kezeljék majd az esetleges rasszista megnyilvánulásokat. Kétségeik valamelyest érthetőek, ha azt vesszük alapul, hogy a szövetség a gyakorlatban milyen szempontok szerint és milyen mértékben szankcionált különböző kihágásokat: Két és fél hónappal a vébé nyitómeccse előtt Oroszország az  egyik legnagyobb esélyest, Franciaországot fogadta a Szentpétervári Stadionban. A meccsen tapasztalt rasszista megnyilvánulások miatt a rendező felet 22 ezer fontra büntették – csak, hogy érezzük a forintban 8 milliós tétel súlyát, a 2017-es U20-as világbajnokságon egy angol játékost 16 ezer fontra (5,8 millió forint) büntettek azért, mert nem az eseményt szponzoráló energiaital-cég termékét fogyasztotta a kispadon,
+    írja az Index
+    .
+   </p>
+   <p>
+    Politikusok és tisztviselők számos alkalommal emelték fel a hangjukat a rendezési jog elvétele érdekében a futballpályákhoz szorosan nem kapcsolódó, ám a világ közvéleménye által finoman szólva vitatott, ellentmondásosan megítélt események kapcsán is. 2014-ben
+    tízezrek írták alá
+    azokat a melegjogi aktivisták által indított petíciókat, amelyek az oroszországi melegellenes törvényekre hivatkozva követelték a vébé áthelyezését egy másik országba.
+   </p>
+   <p>
+    A Krím négy évvel ezelőtti annektálását követően
+    angol
+    és
+    amerikai
+    politikusok is a rendezési jog elvételét sürgették, utóbbiak még az 1992-es és 1994-es jugoszláv precedensre is hivatkoztak, amikor is egy Európa- és egy világbajnokságtól is eltiltották a felbomlófélben lévő, véres polgárháború szaggatta föderációs államot. A kelet-ukrajnai háborús övezet felett 2014-ben lelőtt maláj utasszállító-repülőgép katasztrófája után brit és német kormányzati tisztviselők ugyancsak azt
+    hangsúlyozták
+    , hogy Oroszország se nem méltó, se nem biztonságos helyszíne egy ilyen világeseménynek.
+   </p>
+   <p>
+    Mindezek után a 2018-as világbajnokság a Nemzetközi Olimpiai Bizottság által a 2015-ben kirobbant doppingbotrány miatt eszközölt, orosz sportolókkal szembeni kőkemény
+    szankciókat
+    , és a Szergej Szkripal elleni merényletet követő
+    botrányt
+    is túlélte. Utóbbit követően egyébként az Egyesült Királyság más ellenlépések mellett azt is elhatározta, hogy sem a kormány, sem a királyi család tagjai nem képviseltetik magukat a focitornán.
+   </p>
+   <p rend="head">
+    Mégis, mindenfajta nemzetközi szankció, korrupció és jogsértés elleni tiltakozás, mozdíthatatlannak hitt FIFA-vezetők bukása és orosz olimpikonok súlyos megbüntetése ellenére az orosz focivébé egy karcolás nélkül ellavírozott 2018 júniusáig, hogy immáron feltartóztathatatlanul kezdetét vegye.
+   </p>
+   <p>
+    Azt ugyan nehéz elképzelni, hogy a putyini focimese pont ugyanúgy végződjön, mint az 1978-as – Oroszország finoman szólva nincs ott a végső győzelemre esélyes csapatok között –, de egy, a tisztes helytállásnál valamivel jobb, akár várakozáson felüli eredmény hatalmas presztízsnyereség lehet Putyinnak, aki már a torna kezdete előtt is kétségtelenül a vébé egyik legnagyobb győztese.
+   </p>
+   <p rend="head">
+    Egy fecske és a bojkott
+   </p>
+   <p>
+    Ha az öltönyös diplomaták tevékenysége hatástalan, felmerül a kérdés, hogy tehet-e, egyáltalán érdekében áll-e tenni mindezek ellen az „egyszerű” játékosoknak.
+   </p>
+   <p>
+    A fentebb már emlegetett, rasszista beszólásokat elszenvedő elefántcsontparti sztár, Yaya Touré ugyan
+    felvetette
+    azt a lehetőséget, ami egyébként sok nemzetközi sportesemény előtt felmerült már: a fekete sportolók tüntetőleg maradjanak távol az oroszországi világbajnokságtól, másképp egyszerűen nem lehet eredményt elérni a fajgyűlölet problémájának leküzdésében. Az ő hamvába holt próbálkozása is mutatja, hogy a bojkott – amit egyébként a FIFA keményen büntet – csak kollektív kiállással tud működni.
+   </p>
+   <p>
+    Valami hasonlóra akad egyébként példa a vébétörténelemben, még ha kevesen tartják is számon. 1966-ban ugyanis afrikai
+    csapatok
+    nélkül zajlott a világbajnokság, miután a kontinens labdarúgó-szövetségei összefogtak, és közösen tiltakoztak az addig érvényben lévő selejtező procedúra ellen. Akkoriban ugyanis a teljes földrész egy, azaz egyetlen kvalifikációs helyért versengett.
+   </p>
+   <p rend="head">
+    A ’66-os vébé persze nem ezért maradt emlékezetes – sokkal inkább a hazai pályán játszó angolok kétes sikeréről –, de az biztos, hogy a bojkott örökre megváltoztatta a vébék lebonyolításának menetét, és alapvető célját elérte.
+   </p>
+   <p>
+    1978-ban, az ominózus argentin világbajnokságon több játékos is
+    politikai megfontolások miatt
+    tüntetett a távollétével, például a német Paul Breitner. A holland és a világfutball akkori legjobbjáról, Johan Cruyffról is hasonlót híreszteltek, de ő mintegy harminc évvel a történtek után
+    bevallotta
+    , hogy noha
+    támogatta a gesztust
+    , nem elsősorban a junta elleni tiltakozás miatt mondott le a szereplésről, hanem mert a vb előtt őt és családját túszejtők zaklatták Barcelonában, s ez mély nyomokat hagyott benne. Az utókor persze megjegyezte, hogy az érintett válogatottak sztárjaik nélkül véreztek el a végső győzelem felé vezető úton, ahogyan azt is, hogy politikai nyomásra égbekiáltó igazságtalanságokat szenvedtek a játékvezetőktől és a meccsek kezdési időpontját befolyásoló tévétársaságoktól. Ugyanakkor a lényegen mindez nem változtatott: a torna végén hivatalosan is világbajnokká avatták Argentínát, a politikai hatalom pedig elégedetten dörzsölte a tenyerét.
+   </p>
+   <p>
+    Azt persze fontos megjegyezni, hogy az afrikai csapatok bojkottja labdarúgók egy nagyobb csoportjának részérdekeit érvényesítette sikeresen, míg az európai sztárok ’78-as gesztusai egy globális, de legalábbis nemzetközi értelemben vett közjó elérését szolgálták, amit az egyes futballisták vagy fel- és elismernek, vagy nem. (Yaya Touré és a színes bőrű játékosok példája leginkább valahol a kettő határmezsgyéjén mozog.) A játékosok mindenesetre aligha hibáztathatók azért, ha a címeres mezben azt teszik, ami alapvetően a dolguk, vagyis pályára lépnek, és a hazájukat képviselve szabályos keretek között megpróbálják a lehető legjobb teljesítményt nyújtani.
+   </p>
+   <p rend="head">
+    A FIFA-nak már sokkal nagyobb felelőssége van abban, hogy a focivébé újra egy autoriter hatalom kirakatcirkuszává silányult.
+   </p>
+   <p>
+    Ha rendelkezne valamiféle erkölcsi iránytűvel a nemzetközi labdarúgást összefogó szervezet, akkor az 1978-as lett volna az utolsó alkalom, hogy olyan ország kapja a rendezést, amelyet tekintélyuralmi vezetés irányít. Ehhez képest, ha minden így marad, a korrupciós vonat tovább száguld egészen Katarig, az abszolút hatalom, a modern kori rabszolgaság és a szabadságjogok korlátozásának másik fellegváráig, ahol
+    bevándorló munkások ezrei
+    halnak meg még addig, amíg felépülnek 2022-es világbajnokság csodastadionjai.
+   </p>
+   <p>
+    Címlapkép forrása: Wikimedia.
+    [1]
+    –  Idézi Hegyi Iván, Labdarúgó VB-könyv (2005), Budapest, Népszabadság könyvek, 123.o.
+   </p>
+  </body>
+ </text>
+</TEI>

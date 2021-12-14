@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Gender, zsandár, Jeanne d’Arc
+    </title>
+    <author>
+     <persName>
+      Szűcs Zoltán Gábor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     abdedb9d-fd05-5bd6-bbdd-280add529d84
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Gender, zsandár, Jeanne d’Arc
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Szűcs Zoltán Gábor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-08-13T19:40:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/08/13/gender-zsandar-jeanne-darc/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/08/13/gender-zsandar-jeanne-darc/
+     </sch:url>
+     <sch:name>
+      Gender, zsandár, Jeanne d’Arc
+     </sch:name>
+     <sch:datePublished>
+      2018-08-13T19:40:00
+     </sch:datePublished>
+     <sch:author>
+      Szűcs Zoltán Gábor
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      felsőoktatás
+     </sch:keywords>
+     <sch:keywords>
+      gender
+     </sch:keywords>
+     <sch:keywords>
+      elte
+     </sch:keywords>
+     <sch:keywords>
+      társadalmi nemek
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="abdedb9d-fd05-5bd6-bbdd-280add529d84">
+     <sch:identifier>
+      urn:uuid:e3755213-54ed-43cc-8cef-f4ed0bed4a0b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:01.923762
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:03:39.248653
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="abdedb9d-fd05-5bd6-bbdd-280add529d84" when="2021-12-14T15:31:01.923762">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Gender, zsandár, Jeanne d’Arc
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Az elmúlt hónapok egyik legabszurdabb fejleménye az, hogy a minisztérium rendeletileg kívánja felszámolni az úgynevezett társadalmi nemek tanulmányok (
+    <hi>
+     gender studies
+    </hi>
+    ) képzéseket. Egyebek között attól olyan abszurd az ügy, hogy alig vannak intézményileg érintettek, tehát a nem kormánypárti nyilvánosság megint be van szorítva egy bizonyos szempontból marginális, más tekintetben szimbolikusan fontos ügybe, ami elől elugrani sem lehet, de amit megvédeni sem.
+   </p>
+   <p>
+    Emellett ez egy politikailag alaposan túlhevített kérdés az elmúlt évek kormánypropagandája által- annyira, hogy a kormány megint elfelejtett  indoklást fűzni a döntéséhez.
+   </p>
+   <p>
+    Továbbá, kifejezetten provokációszámba menő „egyeztetések” történtek  (nyár közepén 24 órát kaptak az egyetemek), az ELTE vezetése gyalázatos szolgalelkűséggel reagált, míg többségünk egyelőre hallgat, s csak néhány elszórt tiltakozó hang hallatszik.
+   </p>
+   <p>
+    Teremfoglaló diákok beszélnek diáktársaikhoz az Eötvös Loránd Tudományegyetem (ELTE) budapesti, Múzeum körúti B épületében 2013. február 11-én. A demonstrálók az egyetemet érintő pénzelvonás miatt az oktatást több teremben megszakították. MTI (Fotó: Szigetváry Zsolt)
+   </p>
+   <p>
+    A kormánymédia megint indulatos, alpári és a tényekkel köszönőviszonyban sem lévő dolgokat hablatyolt össze az ügyről, a megfélemlítés és a lejáratás nyilvánvaló céljával.
+   </p>
+   <p rend="head">
+    De miről is szól ez az ügy?
+   </p>
+   <p>
+    Mármint azon túl, hogy létezik egy társadalmi nemek tanulmányok nevű társadalomtudományi terület, amely azzal foglalkozik, hogy az emberek közötti nemi különbségekhez olyan társadalmi megkülönböztetések (hatalom, erőforrásokhoz való hozzáférés, magatartási szabályok, munkamegosztásbeli hely, szerepek stb.) kapcsolódnak, amelyek egészükben véve nem vezethetőek le pusztán a biológiai különbségekből, hanem a különböző korokban és kultúrákban eltérő felfogások, szokások, társadalmi struktúrák termékei…
+   </p>
+   <p>
+    És azon túl, hogy vannak, akik szerint ezt a társadalomtudományi területet érdemes nem kizárólag valamelyik másik (egy vagy több) társadalomtudományi területnek alárendelten kezelni, hanem nagyobb intézményi önállóságot biztosítani neki, így például az oktatásban önálló szakként tanulhatóvá tenni…
+   </p>
+   <p>
+    Sőt, azon is túl, hogy egy ideje már Magyarországon a társadalmi nemek tanulmányok szak létrejött, átment egy szakmai ellenőrzési folyamaton és lehetővé vált, hogy olyan egyetemek, amelyek képesek biztosítani a képzési- és kimeneti követelményeknek (ez egy EMMI rendelet melléklete volt eddig) való megfelelést, indíthassanak is ilyen képzést…
+   </p>
+   <p>
+    S végül azon is túl, hogy néhány helyen ilyen szakok, kevés hallgatóval és mesterszakon, létre is jöttek…
+   </p>
+   <p rend="head">
+    Hogy megérthessük, miről szól ez az ügy, látni kell, hogy alapvetően kétféle módon lehet a társadalmi nemek tanulmányok egyetemi képzésben való elfogadottságához viszonyulni: vagy ideológiai vagy racionális alapon.
+   </p>
+   <p>
+    (Nem magához a társadalmi nemek tanulmányokhoz, hanem ahhoz, hogy ilyesmit önálló szakként egyetemen oktassanak.)
+   </p>
+   <p>
+    Ez a megkülönböztetés önmagában nem értékítélet, hanem valóban hozzáállás kérdése. Ideológiai hozzáállás az, ha valaki azt kérdezi, hogy értékrendünkkel összeférhető-e egy ilyen szak létezése az egyetemeken. Racionális hozzáállás az, hogy igazolható-e egy ilyen egyetemi képzés létezése az egyetemek funkciójáról alkotott  elképzeléseink fényében.
+   </p>
+   <p>
+    Lehetséges ideológiai alapon ellenezni, elviselni és támogatni is a társadalmi nemek tanulmányok szakot, s lehetséges racionális alapon is ellenezni, elviselni és támogatni is.
+   </p>
+   <p>
+    Ez nem azt jelenti, hogy mindezen vélemények teljesen egyenértékűek. Dehogyis. Aki seggfej vagy egy aljas gazember vagy egy szűklátókörű barom, az akkor is az, ha ideologikusan áll a dologhoz és akkor is, ha racionálisan. De mégis fontos látni, hogy
+   </p>
+   <p rend="head">
+    még egy ilyen kis ügyben is meglehetősen kuszák a frontvonalak és a konfliktus gyökerei mélyebbre nyúlnak a felsőoktatásról alkotott általánosabb elképzelésekbe, mint azt esetleg elsőre gondolnánk.
+   </p>
+   <p>
+    Az
+    <hi rend="bold">
+     ideologikus megközelítésnek
+    </hi>
+    is többféle változata van és úgy látom, a kormányhoz közelebb állók eltérő reakcióit elég jól megmagyarázza ez a dimenzió.
+   </p>
+   <p>
+    Az egyik, röviden
+   </p>
+   <p rend="head">
+    extrém ideologikus álláspontnak
+   </p>
+   <p>
+    nevezhető megközelítés nagyjából azt jelenti, hogy a kérdést elsősorban, sőt, szinte kizárólag értékalapon ítéljük meg. Ezt az álláspontot képviselik a társadalmi nemek tanulmányok képzés azon üldözői, akik „genderideológiáról” delirálnak a kormánymédiában, de ezt képviseli a KDNP is, amely már évek óta kereszteshadjáratot vív a szak ellen, illetve ez illik bele a kormánypropagandába is, mert a „genderizmus” egy ideje már egyike a világméretű sorosista összeesküvésnek ebben a kormányzati propagandamocsokban.
+   </p>
+   <p>
+    Innen nézve a társadalmi nemek tanulmányok szak egy tudománynak álcázott balos, a nyugati-keresztény civilizációt, a hagyományos nemi szerepeket aláásni akaró ideológia, amely ellen ideológiai önvédelemből, saját értékeik védelmében kell fellépniük azoknak, akik ezt az álláspontot képviselik.
+   </p>
+   <p>
+    Megjegyzem, extrém ideologikus álláspontot képviselnek azok is, akik a szakot azért védik, mert a nők, az LMBTQIA közösségek tagjainak szisztematikus társadalmi elnyomása elleni harc fegyvereként tekintenek erre a szakra.
+   </p>
+   <p>
+    Az extrém ideológiai álláspont nem attól extrém, hogy hülyeség  (bár én nem értek vele egyet), hanem attól, hogy nincs benne helye más megfontolásoknak.
+   </p>
+   <p>
+    A másik,
+   </p>
+   <p rend="head">
+    mérsékelt ideologikus álláspontot
+   </p>
+   <p>
+    a jelek szerint a kormány radikalizálódását egyre kényelmetlenebbül figyelő konzervatív értelmiségiek látszanak képviselni, akik szerint a társadalmi nemek tanulmányok egy bevett társadalomtudományi terület, nemzetközileg elfogadott és bár nem feltétlenül értenek egyet azoknak az embereknek az értékrendjével, akik nagy számban előfordulnak e szak körül (azért nincs konzervatív, aki ne látná ezt lelke mélyén gyanúsan liberális-baloldali fészeknek), de úgy gondolják, hogy a tanszabadság és az egyetemi autonómia olyan értékek, amelyeket egy ideológiai kereszteshadjáratot vívó kormánnyal szemben is meg kell védeni.
+   </p>
+   <p>
+    Úgy vettem észre egyébként, hogy az ellenzéki oldalon is sokan hasonló állásponton vannak. Ha szívből rühellik is néha a társadalmi nemek tanulmányokat (van, aki nyersebben ideológiai, van, aki valamivel szofisztikáltabb filozófiai alapon), de a kormány lépéseit elutasítják.
+   </p>
+   <p>
+    S hasonló megközelítéssel, csak persze pozitívabb ideológiai megítéléssel élnek azok, akik oktatnak ilyen helyeken vagy csak rokonszenveznek a szak által vélelmezetten vagy ténylegesen népszerűsített értékekkel. S nincs is ebben se semmi meglepő: ha a kézmosás egészséges, akkor nincs abban semmi baj, ha az orvosi képzésnek része az, hogy népszerűsítse a kézmosást, s ne csak megállapítsa annak helyességét.
+   </p>
+   <p>
+    Így néz ki hát a „vita” (mert azért némi túlzás, valljuk be, a kormányzati úthenger majdnem akadálytalan továbbhaladását vitának nevezni) az egyik nézőpontból.
+   </p>
+   <p>
+    Van azonban egy másik nézőpont is, a racionális. Ez, mint mondtam, arról szól, hogy egy ilyen képzésnek mi a létjogosultsága annak fényében, hogy az egyetemeket részben (a CEU-t semennyire, az ELTE-t nagyrészt) az adófizetők tartják el, ezért joggal merül fel a kérdés, hogy milyen ésszerűség igazolhatja egy ilyen szak létezését. Itt megint van extrém és mérsékelt álláspont.
+   </p>
+   <p rend="head">
+    Az extrém
+   </p>
+   <p>
+    és az egyik miniszter, Palkovics László által például az MTA és az alapkutatások ügyében is képviselt álláspont szerint, ahogy a tudományoknak, úgy az egyetemi képzéseknek is valamilyen könnyen belátható gazdasági hasznának kell lennie, különben az nem más, mint az adóforintok eltékozlása.
+   </p>
+   <p>
+    Ez egy egészen kivételesen ostoba és gonosz nézet, hiszen – hogy egy hasonlóan gonosz és buta példát hozzak – bárki, aki látta már a kormánytagokat  akár csak egyszer is, az biztos lehet benne, hogy a miniszterek messze több kalóriát fogyasztanak el naponta, mint amennyi feltétlenül szükséges, úgyhogy egészen biztosan túl nagy az adófizetők által állt fizetésük a gazdaságilag indokolthoz képest. Ezzel együtt ez egy elég elterjedt érveléstípus a kormányon belül, a támogatóik között, s nem idegen az ellenzék egy részétől sem.
+   </p>
+   <p>
+    Hogy mitől bugyuta az előző álláspont, azt a másik,
+   </p>
+   <p rend="head">
+    mérsékelt racionalista
+   </p>
+   <p>
+    megközelítés hívei szokták elmondani: a munkaerőpiac igényei szédítő sebességgel változnak, a technológia fejlődik, a kormány aligha a legalkalmasabb szereplő annak megjóslására, hogy 10-15 év múlva mi lesz a keresett szakma (ennyi időre pedig szükség van, hogy lássuk, egy szak összességében szűk gazdasági értelemben munkaerőpiaci szempontból megérte-e).
+   </p>
+   <p rend="head">
+    Éppen ezért az egyetemek célja nem az, hogy betanított munkásokat neveljen, hanem, hogy képességeket fejlesszen, általános műveltséget adjon át, segítsen a világban tájékozódni és rugalmasan gondolkodni,
+   </p>
+   <p>
+    hogy ha majd felnőve valaki kilép a munkaerőpiacra, akkor ott el tudjon helyezkedni az igényeinek megfelelő, jól fizetett állásokba.
+   </p>
+   <p>
+    Innen nézve fontosabb az, hogy a diákok érdeklődését kielégítő szakok is létezzenek (mert ami érdekel, azt könnyebb tanulni), hogy ne gyorsan avuló szakmai fogásokra fókuszáljanak, hanem általánosabb nevelési célokat tűzzenek ki maguk elé.
+   </p>
+   <p>
+    E mérsékelt racionalista megközelítés tehát azt mondja, hogy a gyorsan változó világ hosszabb távú  igényeinek kell a társadalmi nemek tanulmányok szaknak megfelelnie, nem az épp aktuális és holnapra elavuló rövid távú igényeknek. Ha tehát a CEU gender studies szakján végzettek változatos, de korrekt állásokban tudtak elhelyezkedni, az azt bizonyítja, hogy ez a szak megfelel a rugalmas képzési igényeknek. Ha pedig az ELTE szakján még senki sem végzett, akkor a kormány hazudik, ha a munkaerőpiaci igényekre hivatkozva akarja a szakot gyakorlatilag betiltani.
+   </p>
+   <p>
+    Mindebből nem következik, hogy mérsékelt racionalista alapon nem lehet az ilyen szakokat kritizálni, de az igen, hogy a kormány által választott brutális és cinikus stratégiát nem lehet belőle levezetni. Főleg a CEU esetében, ahol mégiscsak egy magánegyetem képzésébe trollkodik bele az állam.
+   </p>
+   <p>
+    Hát, így néz ki a vita szerintem. S hogy én hol állok ebben? A mérsékelt racionalista érvek nem állnak tőlem távol. Az egyetemi képzés, amíg adóforintokból (is) megy, nyilván nyilvános igazolásra szorul. Ha már érveink sincsenek rá, az régen rossz.
+   </p>
+   <p>
+    Abban is biztos vagyok, hogy az extrém racionalista álláspont ordenáré baromság és bár vannak, akik jóhiszeműen ilyen ostobák, de nem kevesen fügefalevélként használják magánmániáik és hatalomvágyuk leplezésére.
+   </p>
+   <p>
+    De igazából nem ez a számomra fontosabb aspektusa a kérdésnek, hanem az ideológiai. Miközben a sötét, buta és gonosz extrémen ideologikus jobboldali kirohanásokat mélységesen elítélem, a szakot védő extrémen ideologikus állásponttal sem azonosulok.
+   </p>
+   <p rend="head">
+    A nyíltsisakos ideológiai harc nem az egyetemekre való, hanem a Facebookra és kocsmai beszélgetésekre.
+   </p>
+   <p>
+    Viszont a mérsékelt racionalista álláspontban kicsit taszít annak hidegsége, utilitarizmusa, s ezért nem tudok vele egészen együtt érezni.
+   </p>
+   <p>
+    Az egyetemi képzés szerintem – mint általában a magasabb tanulmányok a mi kultúránkban már két és félezer éve – két dologról szóltak egyszerre, amelyek viszonyát sosem sikerült teljesen tisztázni, de nem is baj, ha nem sikerült, de mégis érezhetően összetartoznak.
+   </p>
+   <p>
+    Az egyik az
+    <hi>
+     igazság,
+    </hi>
+    a
+    <hi>
+     tudás
+    </hi>
+    keresése. Az egyetem eszerint arra való, hogy megtanítsa, ami a tudomány mai állása szerint a világról tudható.
+   </p>
+   <p>
+    Ez nem a végső igazság, nem is hazudja azt magáról, de sokkal több, mint amit a kocsmában, Facebookon, konteós oldalakon el lehet elsajátítani. A tudományos tudás mindig több és mindig absztraktabb, mint ami feltétlenül szükséges ahhoz, hogy valaki hr-menedzserként, marketingesként, social media szakemberként, kontrollerként, középiskolai tanárként, tök egyforma családi házakat tervező építészként, háziorvosként, CNC-kezelőként, adatelemzőként, informatikusként boldoguláshoz szükséges. Ebben az értelemben az egyetemi képzés mindig fölé lő a szükségesnek. Ezt meg lehet indokolni a rugalmas munkaerőpiaci igényekkel, de szerintem nem a teljes igazság az ügyben. A tudás és az igazság intrinzikus értékek, elsősorban önmagukért, nem valami másért vágyunk rájuk.
+   </p>
+   <p>
+    A másik cél a
+    <hi>
+     felkészítés az életre
+    </hi>
+    . Nem abban az értelemben, hogy betanított munkásokként milyen gombokat nyomogassunk a gépen napi 10 órában, hanem abban a nagyon alapvető módon, hogy mindannyian megérdemeljük azt, hogy választ kereshessünk arra a kérdésre: Hogyan éljünk?
+   </p>
+   <p>
+    Nem csak azért vannak különböző szakok, mert a mai tudás túl nagy és túl széttagolt ahhoz, hogy valaki mindenről mindent megtudhasson, hanem, mert ha már így van, akkor mindenkinek az érdeklődése és a képességei szerint legyen lehetősége a számára fontos kérdésekre választ keresni és olyan hivatás felé orientálódni, amely leginkább összhangban van az érdeklődésével és a képességeivel.
+   </p>
+   <p rend="head">
+    Ezért is van, hogy minden szak szélesebb perspektívát kínál a világra, mint amit az adott terület feltétlenül szükségessé tesz.
+   </p>
+   <p>
+    Társtudományos, kitekintő jellegű, választható tárgyak biztosítják, hogy az emberi elme az egyetemi képzés során szabadon kalandozhasson és a 3+2 éves bolognai rendszer nagy értéke, hogy lehetővé teszi, hogy valaki 21 évesen módosíthassa (alapvetően megváltoztassa vagy specifikusabbé tegye) 18 éves korában megtett választását, hogy merre indul el a világ megismerésében és önmaga képzésében, fejlesztésében. S ez így van jól, hiszen hatalmas változásokon megyünk keresztül ezekben az években mindannyian.
+   </p>
+   <p>
+    Számomra ezek ideológiai kérdések: az igazságkeresés egy érték, a
+    <hi>
+     hogyan éljünk
+    </hi>
+    kérdése is egy érték, s ezek azok az értékek, amelyeket bármely korrekt, szakmailag megalapozott szak, mint a társadalmi nemek tanulmányok szak is képviselnek, s ezért megérdemlik, hogy kiálljunk mellettük.
+   </p>
+   <p>
+    Ezzel a megközelítéssel a fentiek közül két álláspont nem összeegyeztethető. Az extrém ideologikus megközelítés hívei számára ezek azért nem értékek, mert az igazság adott és az egyetem dolga csak a terjesztés. Az extrém racionalista megközelítés hívei számára pedig ezek nem értékek és az egyetem dolga a betanított munkások előállítása.
+   </p>
+   <p>
+    A mérsékelt racionalista álláspont viszont tulajdonképpen belefér, sőt, az érveikkel alapvetően egyetértek, legfeljebb azt gondolom, hogy nem adják ki az egész képet. Ahhoz szükség van azokra az értékekre is, amelyekről én beszéltem és amelyek nélkül szerintem csúszós lejtőre kerül mindenki, aki az egyetemet mint intézményt – nem csupán a társadalmi nemek tanulmányok szakot – védelmezni kívánja a jelenlegi hatalom zsarnoki beavatkozásaival szemben.
+   </p>
+   <p>
+    Hát, ezért van, hogy szerintem szégyellheti magát a kormány amiatt, hogy betámadta ezt a szakot és emiatt szeretném a szolidaritásomat is kifejezni az érintettekkel.
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      A szöveg eredetileg a
+      Baloldali Liberális blogon
+      jelent meg.
+     </hi>
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

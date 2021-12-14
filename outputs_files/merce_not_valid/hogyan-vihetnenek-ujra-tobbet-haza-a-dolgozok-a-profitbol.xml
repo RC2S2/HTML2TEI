@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hogyan vihetnének újra többet haza a dolgozók a profitból?
+    </title>
+    <author>
+     <persName>
+      Büttl Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5988e16b-cabd-5bee-b29c-8db84a46e0d8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hogyan vihetnének újra többet haza a dolgozók a profitból?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Büttl Ferenc
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-10-05T21:05:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/10/05/hogyan-vihetnenek-ujra-tobbet-haza-a-dolgozok-a-profitbol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/10/05/hogyan-vihetnenek-ujra-tobbet-haza-a-dolgozok-a-profitbol/
+     </sch:url>
+     <sch:name>
+      Hogyan vihetnének újra többet haza a dolgozók a profitból?
+     </sch:name>
+     <sch:datePublished>
+      2018-10-05T21:05:00
+     </sch:datePublished>
+     <sch:author>
+      Büttl Ferenc
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      gazdaság
+     </sch:keywords>
+     <sch:keywords>
+      neoliberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      munkáspárt
+     </sch:keywords>
+     <sch:keywords>
+      menedzser
+     </sch:keywords>
+     <sch:keywords>
+      dolgozói tulajdon
+     </sch:keywords>
+     <sch:keywords>
+      bérhányad
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5988e16b-cabd-5bee-b29c-8db84a46e0d8">
+     <sch:identifier>
+      urn:uuid:888425ce-7fb5-4c5e-8a32-23500847181d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:03.332264
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:10:48.527819
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5988e16b-cabd-5bee-b29c-8db84a46e0d8" when="2021-12-14T15:35:03.332264">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hogyan vihetnének újra többet haza a dolgozók a profitból?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Hogy megérte-e bezúzni a Századvég folyóirat 88. lapszámát, mert
+    <hi>
+     Bod Péter Ákos
+    </hi>
+    tanár úr leírta, hogy a jelenkori magyar állam a gazdaság számos területén szűkösséget teremt (leginkább a hozzáférés tekintetében), és hogy az így mesterségesen keletkeztetett járadékok (extra jövedelmek) azután remekül alkalmasak arra, hogy azokat a politika bitorlói és sleppjük mondjuk úgy „elsajátítsa”, azt majd az idő eldönti. Persze értem én, hogy kínos, ha az ember fejéhez vágják (tudományosan), hogy „tolvaj”, de hát ez amolyan nyílt titok e hazában a Fideszről/Orbánról, nem? No, mindegy.
+   </p>
+   <p>
+    Én most nem erről akarok írni. Ebben az írásban a bérhányad alakulásához, azaz Bod Péter Ákos írásának azon részéhez kapcsolódnék, amely a bérek és profitok arányának alakulását tárgyalja. A munka részesedésének aránya a megtermelt jövedelemből fontos téma, számomra pedig különösen izgalmas a brit Munkáspárt új (?) ötletének fényében, amely a dolgozói tulajdon bővítéséről és a dolgozók vállalati profitokból való részesedéséről szól.
+   </p>
+   <p rend="head">
+    Csökkenő bérhányad a fejlett gazdaságokban
+   </p>
+   <p>
+    Bod Péter Ákos a következőket írja:
+   </p>
+   <p>
+    „E két korrekció révén [a bérek / GDP mutatónál a nevező esetében a GDP-ből kivonjuk a tőkejavak amortizációját, a számlálónál pedig a bérekhez hozzáadjuk az önfoglalkoztatók által realizált profitot – BF] a munkajövedelmek arányának csökkenése már kevésbé drámai, mint a nyers mutatók alapján, noha az alapprobléma így is látható.”
+   </p>
+   <p>
+    Az alapprobléma, miszerint a bérhányad csökkenő tendenciát mutat a fejlett gazdaságokban, vagyis a  bérből és fizetésből élő dolgozók egyre kevesebbet visznek haza a profitból a tőkésekhez képest. Felesleges módszertani vitába bonyolódni, de számomra nem teljesen egyértelmű, hogy az önfoglalkoztatók jövedelmét miért kell teljes egészében a bérekhez adnunk (számláló), miközben azoknak csak egy része munkajövedelem? És azt is vitatnám, hogy a topmenedzseri fizetések ugyanúgy a munkabér kategóriába sorolandók, mint a futószalag mellett álló munkás fizetése, de nem is sorolom tovább, itt és most tényleg nem érdemes a módszertant megkérdőjelezni. Nem érdemes, mert bármilyen is a módszertan, az adatsorok egyöntetűen és egyértelműen ugyanazt mutatják:
+   </p>
+   <p rend="head">
+    az elmúlt évtizedek során a bérhányad, azaz a munka részesedése a megtermelt jövedelemből tendencia jelleggel csökkent.
+   </p>
+   <p>
+    A mértékről lehet vitatkozni – itt jelentősége van a módszertannak is – az alap tézisről azonban nem. Had mutassak azért néhány ábrát erről én is. Az első az amerikai FED (Federal Reserve) adatai alapján készült és a
+    <hi>
+     Share of Labour Compensation in GDP at National Current Prices for United Sates
+    </hi>
+    <hi>
+     (A munkajövedelem részesedése a GDP-ből – folyó árakon – az Egyesült Államokban)
+    </hi>
+    hangzatos címet kapta.
+   </p>
+   <p>
+    forrás: University of Groningen and University of California, Davis, Share of Labour Compensation in GDP at Current National Prices for United States [LABSHPUSA156NRUG], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LABSHPUSA156NRUG, September 26, 2018.
+    A következő pedig legyen egy másik nemzetközi gazdasági szervezet által publikált anyagból, hiszen ilyesmi kérdésekkel nem csak az IMF, de például az OECD szakértői is foglalkoztak/foglalkoznak. Sőt nem csak foglalkoztak a bérhányad alakulásával, de egy
+    tanulmányt
+    is megjelentettek 2015-ben
+    <hi>
+     The Labour Share in G20 Economies
+    </hi>
+    <hi>
+     (Bérhányad a G20 gazdaságokban)
+    </hi>
+    címmel.
+   </p>
+   <p>
+    forrás: Labour Share in G20 Economies, OECD
+   </p>
+   <p>
+    Az OECD tanulmányban bemutatott ábra nem egy, hanem több országban megfigyelt részesedések átlagát tükrözi. A folytonos vonal a korrigált részesedést (a korrekció ez esetben az önfoglalkoztatók adataival való korrigálás), míg a szaggatott vonal a nyers részesedést mutatja. A tanulmány szerzői számos adatot prezentálnak annak bemutatására, hogy a szokásos növekedési modellek feltételezéseihez képest, amelyek állandó bérhányaddal számolnak (Cobb-Douglas termelési függvény), az elmúlt évtizedek gyakorlati tapasztalatai rendre a bérhányad csökkenését mutatják
+    [1]
+    .
+   </p>
+   <p rend="head">
+    A munka alacsonyabb részesedése a jövedelemből a volt államszocialista országokban
+   </p>
+   <p>
+    Ami a bérhányad relatív szintjét illeti, ott egy kevéssé örömteli, bár korántsem meglepő dolog látszik
+    <hi rend="bold">
+     .
+    </hi>
+   </p>
+   <p rend="head">
+    A munka részesedése a megtermelt jövedelemből – a csökkenő trend mellett – az európai centrum országokban magasabb, mint a volt „kommunista” országokban.
+   </p>
+   <p>
+    Bod Péter Ákos az MNB által közölt ábrával illusztrálja ezt a különbséget (lásd Bod Péter Ákos hivatkozott tanulmánya 55. oldal). Én most had mutassam be a vonatkozó ILO (
+    International Labour Organization
+    – Nemzetközi Munkaügyi Szervezet) statisztikát. A következő ábra a bérhányad alakulását és szintjét mutatja a nagy európai gazdaságok (centrum országok) és a V4 országok
+    [2]
+    esetében.
+   </p>
+   <p>
+    forrás: ILO, ILOSTAT
+   </p>
+   <p>
+    Jól látható, hogy az önfoglalkoztatók jövedelmeivel kiigazított bérhányad a centrum esetében 55-60% között van, míg a V4 országok esetében ugyanez csupán a GDP 45-50%-a. A fentiek szerint mintegy
+   </p>
+   <p rend="head">
+    10%-os különbség van az EU centrum országok javára a munkajövedelmek GDP-ből való részesedését tekintve a két országcsoport között.
+   </p>
+   <p>
+    Nem fogok most mélyebbre menni a volt államszocialista országok leszakadásának, az alacsony bérhányad okainak feltárását illetően. Ez egy külön dolgozat témája, itt és most csak jelezni szerettem volna a problémát és azt, hogy Bod Péter Ákos is felteszi a kényes kérdést:
+    <hi>
+     „… a béreknek a GDP-n belüli hányada kisebb. Valóban ennyivel inkább ki van zsákmányolva a kelet-európai munkavállaló a tőke által?”
+    </hi>
+    (im 58. oldal) A válasz keresése során a szerző eljut ahhoz a hipotézishez, hogy „az extranyereségek nagyságát nem a gyors es nyilván sikeres modernizáció indokolja, sokkal inkább a járadékjövedelmek túlzott jelenlétével lehet dolgunk”. Majd bemutatja, hogy milyen hagyománya van annak a politikai gyakorlatnak Magyarországon, amely szűkösségek teremtésével (erőforrások és hozzáférések centralizálásával) teremt/termel járadék formájában extra jövedelmeket, és hoz létre a járadékvadász klientúrát.
+   </p>
+   <p>
+    Anélkül, hogy kétségbe vonnám a Bod Péter Ákos által kifejtetteket, miszerint hazánkban és a volt államszocialista országokban általában, az állam által/segítségével létrehozott járadékok magyarázhatják az alacsony bérhányadot, én jelentős szerepet tulajdonítok egyéb tényezőknek is. Ilyen egyéb tényező például a volt államszocialista országokban
+   </p>
+   <p rend="head">
+    a munkás érdekképviseletek tudatos szétverése, gyengítése (erőtlen szakszervezetek), vagy a helyi politikai elit és a külföldi tőke közötti együttműködés,
+   </p>
+   <p>
+    aminek keretében a helyi politikai elit részesedés fejében extraprofitot garantál a külföldi tőkének (korrupció), és egyebek. De mint írtam, e dolgozat fő vonala a bérhányad csökkenése a fejlett gazdaságok esetében, úgyhogy a kitérőt rövidre zárva csupán annyit jegyeznék meg, hogy a centrum – periféria (EU viszonylatban) ilyetén különbségeinek okai további kutatásokat, magyarázatokat igényelnek.
+   </p>
+   <p rend="head">
+    Lassan növekvő átlagbér, gyorsan növekvő topmenedzseri fizetések
+   </p>
+   <p>
+    A bérhányad csökkenése a fejlett gazdaságokban szorosan kapcsolódik a munkabérek (reálbérek) alakulásához, a dolgozók életszínvonalának alakulásához. A már idézett OECD kiadvány, a
+    Labour Share in G20 Economies
+    , közli a következő ábrát a munkatermelékenység és a reálbérek alakulásáról. Az ábra szerint
+   </p>
+   <p rend="head">
+    a reálbérek növekedési üteme jócskán elmarad a munkatermelékenység növekedésétől.
+   </p>
+   <p>
+    Ugyanakkor az elmúlt évtizedek változásai nem egyszerűen arról szólnak, hogy a reálbér lassabban növekszik, mint a munka termelékenysége, hanem arról is, hogy a bérjövedelemmel rendelkező társadalmi csoporton (alkalmazottak) belül is elszakad egymástól a felső 1% és a többiek munkajövedelmének alakulása. Hogy a munkások (alkalmazottak) egy jelentős csoportja esetében a reálbér változása az átlagnál kisebb mértékben követi a termelékenység növekedését, azt a
+    Decoupling of Wages from Productivit: Macro-level Facts
+    [3]
+    2017-es OECD tanulmányból származó ábrák prezentálják. Az első ábra az átlagbér és a mediánbér
+    [4]
+    eltérő növekedését mutatja be, ez pedig a béregyenlőtlenségek növekedésének tipikus tünete.
+    [5]
+   </p>
+   <p>
+    forrás: Decoupling of Wages from Productivit: Macro-level Facts, OECD 2017
+   </p>
+   <p>
+    A most következő, második ábra (ugyanabból a forrásból) pedig a már említett 1%, vagyis a legmagasabb bérjövedelmeket elérők bérének változását mutatja (piros szaggatott vonal). Az ábrán jól látható, hogy a legmagasabb bérek magasan az átlag felet növekednek
+    [6]
+   </p>
+   <p>
+    Vagyis
+   </p>
+   <p rend="head">
+    miközben a bérek növekedése általában elmarad a munkatermelékenység növekedésétől, addig a bérek egy része, a legjobban keresők (vállalati topmenedzserek) fizetése nemcsak, hogy lépést tart a termelékenység növekedéséve, de meg is haladja azt.
+   </p>
+   <p>
+    A növekvő társadalmi egyenlőtlenségek (jövedelmi és vagyoni) oka tehát nem csak a munka – tőke közötti jövedelemelosztás változásában, a munka részesedésének csökkenésében keresendő, hanem a munkajövedelmeken belüli egyenlőtlenségek növekedésében is. A tőkét tulajdonlók és az alkalmazott vállalati felsővezetés egyaránt nyertese, míg a többi alkalmazott (munkások) vesztesei a fenti folyamatoknak. És itt akkor vissza is utalnék a korábban felmerült módszertani kérdésre, nevezetesen, hogy a topmenedzseri fizetéseket be szabad-e sorolni (számolni) a munkajövedelmek közé?
+   </p>
+   <p>
+    Hogy miért csökken(t) a bérhányad a fejlett gazdaságokban (a fejlődőkben is) az elmúlt évtizedekben és hogy miért nem követi a reálbér (reál mediánbér) szorosabban a munkatermelékenység alakulását, arról számos elmélet létezik. Vannak szerzők, akik a globalizáció hatásaként értelmezik ezeket a folyamatokat, vannak, akik a munkások gyengülő alkuerejét látják mögöttük, megint mások a technológiai változásokat tekintik alapvető oknak
+    [7]
+    . Én azt gondolom, hogy a sok együtt ható tényező mellett a jóléti államot az 1980-as években felváltó neoliberális állam politikája a meghatározó, amely a tőkének és a tőketulajdonosoknak kedvez.
+   </p>
+   <p rend="head">
+    A baloldal válasza a csökkenő bérhányadra
+   </p>
+   <p>
+    A brit Munkáspárt nemrégiben bejelentett programjának egy
+    új elemét
+    , miszerint a 250 főnél többet foglalkoztató magánvállalatokat köteleznék arra, hogy bizonyos tulajdoni hányadot átadjanak a felállítandó
+    <hi>
+     Dolgozói Tulajdonosi Alapoknak
+    </hi>
+    (Inclusive Ownership Founds).
+   </p>
+   <p rend="head">
+    Ezeken keresztül a munkások nem csupán a profitjövedelmekből szereznek részesedést, de beleszólást is nyernek a vállalatok irányításába
+    [8]
+    .
+   </p>
+   <p>
+    A Munkáspárt bal oldaláról érkező kezdeményezés összecseng a Bernie Sanders-féle baloldali irányzatot megjelenítő Elizabeth Warren szenátor  (USA, Demokrata Párt) közelmúltban beterjesztett
+    törvényjavaslatával
+    , amely ugyancsak a munkások jogainak kiterjesztését és érdekeinek a vállalatok irányításában való erősebb megjelenését szorgalmazza.
+   </p>
+   <p>
+    A dolgozói tulajdon mint eszköz a munkások jövedelmeinek növelése és a vállalatok részleges dolgozói irányítása érdekében nem új keletű gondolat
+    [9]
+    . A magyarországi 1956-os Munkástanácsoktól kezdve az Egyesült Államokban népszerű
+    [10]
+    dolgozói tulajdonosi programokon
+    keresztül sok féle formában megjelent már mind a gazdasági elméletben, mind a gyakorlatban. Tény, hogy sok helyen működik sikeresen (lásd a 100 legnagyobb dolgozói tulajdonban lévő amerikai cég
+    listáját
+    ) és bár sem a kapitalizmust nem dönti meg, sem a világot nem váltja meg általában.
+   </p>
+   <p>
+    A jelen munkáspárti javaslatot lehet kritikával illetni elméleti és gyakorlati oldalról egyaránt. Nem tudjuk pontosan, hogy hogyan is működne egy ilyen „kollektív” munkástulajdon, mint irányítási forma, nem lehet kizárni, hogy a bürokrácia venné át a tulajdonosi funkciókat, nem pedig maguk a munkások. Nem tudjuk, hogy valóban csökkentené-e a javaslat a munkások kiszolgáltatottságát és növelné-e a gazdasági demokráciát? Hogyan juttatna jövedelmet a 250 főnél kevesebb főt foglalkoztató vállalatok dolgozóinak? Mit oldana meg a létező egyenlőtlenségi (elosztási) problémák közül és mit nem? És így tovább. De ha onnan nézzük, amiről e dolgozat első néhány bekezdése szólt, akkor azt gondolom, hogy minden ötlet, javaslat, ami a munkások helyzetén javít, növeli a munka részesedését a jövedelemből, az üdvözlendő és bátorítandó!
+   </p>
+   <p>
+    [1]
+    – „Over the past decades, however, this conventional wisdom has been challenged by the empirical evidence, which indicates a downward trend for the labour share in many of the countries for which data are available” (
+    Labour Share in G20 Economies
+    , OECD 2017, 2. oldal)
+    [2]
+    – V4 országok, vagy másképpen Visegrádi országok: Cseh Köztársaság, Lengyelország, Magyarország, Szlovákia.
+    [3]
+    – [1]
+    <hi>
+     Decoupling of Wages from Productivit: Macro-level Facts
+    </hi>
+    . OECD Economics Department Working Papers No. 1373 By Cyrille Schwellnus, Andreas Kappeler and Pierre-Alain Pionnier 2017
+    [4]
+    – Mediánbér: az a bér, amely alatti bért kap a munkaválalók pontosan fele.
+    [5]
+    – Decoupling between real median and average compensation growth typically reflects higher compensation growth at the top than at the middle of the compensation distribution, which can be interpreted as a partial measure of rising wage inequality. (
+    Decoupling of Wages from Productivit: Macro-level Facts
+    , OECD 2017, 6. oldal)
+    [6]
+    –  The decline in the ratio of median to average wages appears to be overwhelmingly driven by high wage growth of top earners. (
+    Decoupling of Wages from Productivit: Macro-level Facts
+    , OECD 2017, 18. oldal)
+    [7]
+    – „The usual explanations for changes in labour shares include technological change, globalization, financial markets, product and labour market institutions, the bargaining power of labour and unemployment.” (
+    Decoupling of Wages from Productivit: Macro-level Facts
+    , OECD 2017, 18. oldal)
+    [8]
+    –  All private companies employing more than 250 people would have to set up „ownership funds” giving workers financial stakes in their companies and increasing powers to influence how they are run… (forrás:
+    <hi>
+     McDonnell: Labour will give power to workers through ‘ownership funds
+    </hi>
+    <hi>
+     .
+    </hi>
+    in: The Guardian 2018. szeptember 8.)
+    [9]
+    – „The idea can be traced back to a plan developed by Rudolf Meidner and Gosta Rehn, two Swedish economists, who called for all companies with more than 50 employees to be required to transfer 20% of annual profits in the form of shares into worker-controlled funds.”(forrás:
+    neweconomics.org
+    )
+    [10]
+    –  „In 2018, the top 100 employee-owned companies employ more than 606,000 people…” (forrás:
+    National Center for Employee Ownership
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

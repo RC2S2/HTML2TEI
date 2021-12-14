@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Te mit szólnál, ha egy fénykép alapján bárki megtudhatná minden adatodat?
+    </title>
+    <author>
+     <persName>
+      Pósfai Orsi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     95f28a97-5227-5a6e-8a73-772e887382d7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Te mit szólnál, ha egy fénykép alapján bárki megtudhatná minden adatodat?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pósfai Orsi
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-07-25T11:33:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/07/25/te_mit_szolnal_ha_egy_fenykep_alapjan_barki_rad_talalna_az_interneten/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/07/25/te_mit_szolnal_ha_egy_fenykep_alapjan_barki_rad_talalna_az_interneten/
+     </sch:url>
+     <sch:name>
+      Te mit szólnál, ha egy fénykép alapján bárki megtudhatná minden adatodat?
+     </sch:name>
+     <sch:datePublished>
+      2016-07-25T11:33:00
+     </sch:datePublished>
+     <sch:author>
+      Pósfai Orsi
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="95f28a97-5227-5a6e-8a73-772e887382d7">
+     <sch:identifier>
+      urn:uuid:ce88d8f9-72b3-4088-aaef-16b51ef882ab
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:05.079262
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:23:57.237752
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="95f28a97-5227-5a6e-8a73-772e887382d7" when="2021-12-14T15:35:05.079262">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Te mit szólnál, ha egy fénykép alapján bárki megtudhatná minden adatodat?
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Képzeld el, hogy ülsz a metrón, és azt veszed észre, hogy a veled szemben ülő ember bámul, és mintha fényképeket készítene rólad a telefonjával. Ez a gondolat persze nem érint kellemesen, de nem teszel semmit, mert biztos, hogy nem ismered az illetőt, és különben is, a következő megállónál úgyis leszállsz, úgyhogy végülis tök mindegy.
+    </hi>
+   </p>
+   <p>
+    Kép forrása: tarunwadhwa.com
+   </p>
+   <p>
+    Aztán elkezdesz egy idegentől üzeneteket kapni a közösségi médián keresztül, és rájössz, hogy ez az az ember, akit a metrón láttál. Mire letiltod, addigra már megtudott rengeteg személyes információt rólad, amivel könnyedén visszaélhet. Ez a szituáció Oroszországban már nem csupán fikció, hanem realitássá vált a
+    FindFace
+    telefonos alkalmazás jóvoltából, amely egy fénykép alapján 70 százalékos pontossággal találja meg a kép alanyának profilját a legnépszerűbb orosz közösségi oldalon, a Vkontakte-n.
+   </p>
+   <p>
+    A FindFace-t lényegében társkereső alkalmazásként hirdetik: készíts egy képet egy ismeretlenről, keresd meg Vkontakte-n, és ismerd meg életed szerelmét! De ha belegondolunk, egy ilyen technológiát alkalmazó applikáció ennél sokkal kevésbé jóindulatú célokra, és sokkal súlyosabb következményekkel is felhasználható. Egy szexuális preferenciáit titkoló meleg fiatalt lefotózhatnak egy melegbárban, és kiposztolhatják a falára a fotót. Egy bántalmazója elől elmenekült nő tartózkodási helyét megoszthatják korábbi bántalmazójával. Sőt, egy elnyomó állam (vagy ahogy mifelénk dívik, egy illiberális állam) beazonosíthatja egy ellenzéki tüntetésen az összes résztvevőt. És ez csak néhány példa egy mindenki számára ingyenesen (bizonyos korlátokkal – 30 keresés után már fizetni kell érte) elérhető, arcfelismerő technológiával ellátott alkalmazás szinte végtelen számú felhasználási lehetőségeiből.
+   </p>
+   <p>
+    <hi rend="bold">
+     A FindFace gyökerei
+    </hi>
+   </p>
+   <p>
+    A FindFace app 2016 februárjában vált a nagyközönség számára elérhetővé, de története jóval korábban kezdődött. Az alkalmazás egy 2015-ben alakult cég, az N-Tech.Lab által alkotott algoritmus alapján működik, amelyen a cég alapítója, Artyom Kuharenko már középiskolás kora óta dolgozott és tökéletesített az évek folyamán. Az algoritmus, melyet készítői FaceN-nek neveztek el, képes megtanulni és beazonosítani egy arcot bizonyos személyes jegyek – mondjuk a szem mérete, a szemöldök vastagsága, a száj alakja stb. – alapján.
+   </p>
+   <p>
+    Az N-Tech.Lab algoritmusa 2015 szeptembere után kezdett el a potenciális vevőkből hatalmas érdeklődést kiváltani, miután egy washingtoni egyetemen tartott nemzetközi
+    versenyen
+    legyőzte a Google arcfelismerő technológiáját – a Google „Facenet v8” programja egy 100 000 fotóból álló adatbázisban a képeken szereplő arcoknak csak a 70,5 százalékát, míg a FaceN 73,3 százalékát tudta helyesen beazonosítani.
+   </p>
+   <p>
+    Az érdeklődő vevők széles skálán mozogtak: kínai kaszinóktól a török határőrségig sok mindenkinek megmozgatta a fantáziáját a program. Az N-Tech.Lab alkotóit még orosz és külföldi titkosügynökségek is megkeresték, de azt már nem árulták el az érdeklődő újságíróknak, hogy üzletet is kötöttek-e velük. Akikkel biztos hogy kötöttek, az
+    a moszkvai önkormányzat
+    . Moszkvában több mint 100 000 biztonsági kamerát működtet az önkormányzat lakóházakban, utcákon, tereken és tömegközlekedési eszközökön: 2015 óta ezeknek a kameráknak a felvételein futtatják le a FaceN-t, ha valakit be akarnak azonosítani róluk.
+   </p>
+   <p>
+    A FaceN társkeresésre való felhasználásának ötlete Makszim Perlintől származik, aki a Blacklight reklámügynökség képviseletében kereste fel Kuharenkóékat. Perlin javaslata volt az is, hogy a Vkontakte (VK) adatbázisára legyen kialakítva egy kereső alkalmazás, amely a közösségi oldal nyílt kódját kihasználva könnyedén letöltheti a felhasználók fotóit. Kuharenko annak ellenére belement az algoritmus eladásába az ügynökségnek, hogy az ötlet nem lelkesítette túlzottan. És így vált a nagyközönség számára elérhetővé egy olyan arcfelismerő technológia, ami precízebben működik, mint a Google hasonló megoldása.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az erkölcsi felsőbbrendűség kiélése
+    </hi>
+   </p>
+   <p>
+    Felmerül a kérdés, hogy ez mennyiben különbözik bármely más arcfelismerő alkalmazástól, amit a Facebook, az Instagram, vagy a Google használ, és amelyeket majd mindenki, aki nem él remeteként, használ, vagy legalábbis találkozik velük. Hiszen az arcfelismerés egy napról napra rohamosan fejlődő és nagyon trendinek számító műfaj, amelyet egymással versengve fejlesztenek egyre tovább a világ legnagyobb cégei. És ha ezeknek a cégeknek a szolgáltatásait használjuk – amit azért valljunk be, legtöbben nem nagyon tudnánk
+    <hi rend="italic">
+     nem
+    </hi>
+    használni – akkor már rég kipipáltuk azt a kis dobozt, amivel elajándékoztuk összes adatunkat szabad felhasználásra adatbányászoknak, reklámügynökségeknek, titkosszolgálatoknak anélkül, hogy ebből bármit különösebben érzékelnénk.
+   </p>
+   <p>
+    De akkor nézzük meg, mi történt a FindFace kiadása után szinte azonnal. A 4chan (egy olyan közösségi oldal, ahol anonim módon lehet egymással beszélgetni és különféle tartalmakat megosztani) orosz megfelelőjén, a
+    Dvach
+    -on elindult egy beszélgetés, a következő felszólítással: „Keressük a pornófilmekben és az utcán dolgozó kurvákat”. Itt a felhasználók arra
+    biztatták egymást
+    , hogy az app segítségével azonosítsanak be pornószínésznőket, és aztán „leplezzék le” őket Vkontakte profiljukon, a családjuk és barátaik előtt. Az indoklás itt általában valami kevéssé pontosan körbehatárolt erkölcsi buzgóság volt, hiszen így ezek a „kurvák” elnyerték méltó jutalmukat.
+   </p>
+   <p>
+    A FindFace javára vált egy másik, a jóízlést még köszönőviszonyból sem ismerő internetes csoportnak is, akik nyilvános WC-kben készült felvételeket
+    gyűjtenek össze
+    – az app segítségével megkereshették az ezekben a videókban szereplő embereket (az valószínűleg senkit nem lep meg, hogy ezek a videók általában nőkről készültek), akiket aztán a videók képkockáival zaklattak vagy zsaroltak.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az állam figyel
+    </hi>
+   </p>
+   <p>
+    Azért említsünk egy pozitív példát is: az alkalmazás segítségével Szentpéterváron elfogtak két gyújtogatót, miután a felgyújtott házban egy lakó képeket készített az elkövetőkről és megtalálta VK-s profiljukat, amit továbbított a rendőrségnek. De elgondolkodtató, hogy ez valóban pozitív példa-e. Ha az orosz rendőrség egy olyan alkalmazás alapján talál meg valakit, aminek nagyjából 70 százalékos a pontossága, az kételyeket ébreszthet a letartóztatás jogosságát illetően. Nem beszélve arról, hogy mindezt egy civil állampolgár által készített fotóra hivatkozva teszi.
+   </p>
+   <p>
+    És akkor bele is futottunk a FaceN technológia egyik legaggasztóbb aspektusába: egy olyan országban, ahol éppen most hoztak egy sor olyan
+    törvényt
+    , amelyet nagyon sokan és nagyon hangosan ítéltek el (többek között például
+    Edward Snowden
+    ), mint az állampolgárok magánéletét és személyes szabadságát szélsőségesen korlátozó lépéseket, ott nem ad sok okot a nyugalomra, hogy a hatóságoknak egy lépéssel könnyebbé vált bárkinek a beazonosítása egyetlen kép alapján.
+   </p>
+   <p>
+    A
+    Jarovaja-törvény
+    néven (az azt benyújtó képviselő, Irina Jarovaja nyomán) ismertté vált terrorizmus elleni törvénycsomagot június végén fogadta el az orosz parlament. A csomagot élesen kritizálták jogvédők és orosz internetes cégek egyaránt (többek között a legnagyobb orosz cégek, a Mail.ru és a Yandex.ru is), jogsértőnek, praktikátlannak és kivitelezhetetlennek nevezve több pontját is. A csomag azt követeli internetes szolgáltatóktól és „információforgalmazást lebonyolító” oldalaktól, hogy minimum hat hónapig tároljanak el minden rajtuk keresztül haladó adatot, és azt adják át a hatóságoknak, ha szükségük van rá. Ezen kívül a terrorizmust támogató kijelentésekért hét év, a „tömeges demonstrációkon” való részvételre buzdító kijelentésekért pedig öt és tíz év közötti börtönítélet szabható ki. A Human Rights Watch oroszországi fiókjának igazgatója, Tánya Loksina a törvénycsomagot a szólás- és vallásszabadság, és az adatvédelemhez való jog elleni támadásnak nevezte.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az adatvédelem korlátai
+    </hi>
+   </p>
+   <p>
+    A FindFace egyik részvényese, Makszim Perlin így foglalta össze az adatvédelemmel kapcsolatos
+    véleményét
+    :
+   </p>
+   <p rend="head">
+    „Csöppet sem érdekel az adatvédelem. Én mindenről beszélek a közösségi oldalakon. Hadd olvassanak a titkosszolgálatosok a szexuális életemről és a barátnőimről. Üzleti levelezés? Hadd tudják meg mennyit keresek és hogy kik az ügyfeleim. Őszintén meg vagyok róla győződve, hogy ez senkit sem érdekel. Az adatvédelem túl van értékelve. Nem nagy ügy hozzáférni valakinek a telefonjához, úgyhogy nyugodtan olvassa csak el a titkosszolgálat az üzeneteimet.”
+   </p>
+   <p>
+    Tulajdonképpen igen: te magad teszed fel a képeidet a Facebookra, az Instagramra, a Vkontakte-ra. Te osztod meg munkahelyedet a LinkedIn-en, te kapcsolod be a GPS-t a telefonodon, te mented el a bankkártyád adatait az Amazonon. Te magad bontod le magad körül a védelmi falakat, az anonimitást. Csakhogy épp ebben rejlik a bökkenő, az óriási különbség a Facebook, a Google ésa Vkontakte, illetve a FindFace között. Míg az előbbieknél te döntöttél a részvételedről, te pipáltad ki a felhasználási feltételek mellett az elfogadást jelző dobozt, addig abba nem egyeztél bele, hogy egy idegen lefotózzon a metrón, és utána zaklasson a saját profilodon. Nem egyeztél bele abba, hogy mások döntsenek az arcod, a személyiséged anonimitásáról. És nem fogadtad el egy másik ember telefonjára letöltött alkalmazás felhasználási feltételeit.
+   </p>
+   <p>
+    Amíg ezt a végtelenül fontos különbséget nem veszik figyelembe az arcfelismerő technológia fejlesztői és az adatvédelmet szabályozó törvényhozók, addig az anonimitáshoz való jogunk valószínűleg csak tovább fog csorbulni. Lehet, hogy Makszim Perlinnek igaza van, és valójában ha nincs rejtegetnivalód, akkor teljesen mindegy, ki mikor olvassa el az üzeneteidet, mikor láthat bele mindenbe, amit valaha feltettél magadról az internetre. De valószínűbbnek tűnik, hogy többen ragaszkodnának adataik védelméhez, és döntéseik szabadságához az interneten is, mint ahogy azt Perlin képzeli. És ha egyszer a FindFace alkotói áttörnek a Facebook és egyéb közösségi oldalak őket akadályozó és kizáró szabályzatain, akkor könnyen elképzelhető, hogy tömegével fognak törlődni a profilok ezekről az oldalakról. Inkább ez mint hogy emberek kockáztassák az orosz alkalmazással járó kellemetlenségeket.
+   </p>
+   <p>
+    Addig is: ha van profilod a Vkontakte-n, érdemes ellenőrizned az adatvédelmi beállításaidat!
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

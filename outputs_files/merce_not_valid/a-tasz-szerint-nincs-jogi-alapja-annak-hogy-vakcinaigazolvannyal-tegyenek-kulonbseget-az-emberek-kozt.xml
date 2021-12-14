@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A TASZ szerint nincs jogi alapja annak, hogy vakcinaigazolvánnyal tegyenek különbséget az emberek közt
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ac302bcb-29f0-5164-95e0-4860277796c1
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A TASZ szerint nincs jogi alapja annak, hogy vakcinaigazolvánnyal tegyenek különbséget az emberek közt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-04-23T21:01:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/04/23/a-tasz-szerint-nincs-jogi-alapja-annak-hogy-vakcinaigazolvannyal-tegyenek-kulonbseget-az-emberek-kozt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/04/23/a-tasz-szerint-nincs-jogi-alapja-annak-hogy-vakcinaigazolvannyal-tegyenek-kulonbseget-az-emberek-kozt/
+     </sch:url>
+     <sch:name>
+      A TASZ szerint nincs jogi alapja annak, hogy vakcinaigazolvánnyal tegyenek különbséget az emberek közt
+     </sch:name>
+     <sch:datePublished>
+      2021-04-23T21:01:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      tasz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ac302bcb-29f0-5164-95e0-4860277796c1">
+     <sch:identifier>
+      urn:uuid:c98398df-2731-4671-bf3f-29d5fd74aa2d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.954318
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:43:03.639238
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ac302bcb-29f0-5164-95e0-4860277796c1" when="2021-12-14T15:30:59.954318">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A TASZ szerint nincs jogi alapja annak, hogy vakcinaigazolvánnyal tegyenek különbséget az emberek közt
+   </head>
+   <p>
+    Diszkriminatív és alaptörvény-ellenes szabályozás bevezetésére készül az Orbán Viktor által a péntek reggeli rádióinterjúban elmondottak alapján a kormány – véli a Társaság a Szabadságjogokért (TASZ).
+   </p>
+   <p>
+    A jogvédők Facebook-oldalukon megosztott posztja szerint  a védettségi igazolvánnyal kapcsoaltban a legrosszabb forgatókönyv valósul meg éppen, ráadásul olyan oltottsági szám mellett, ami köszönőviszonyban sincs a nyájimmunitással.
+    A védettségi igazolvány ugyanis a nevével ellentétben valójában egyáltalán nem a védettséget igazolja, hiszen a kártyát mindenki megkapja, akár napokkal az első oltása után is, de ekkor még nem alakult ki a védettsége. Az igazolvány és a kormány kommunikációja a TASZ szerint ezért hamis biztonságérzetbe ringatja az embereket.
+   </p>
+   <p>
+    „Pedig a védettség csak a második oltás után alakul ki, ezért a kártyát is csak ez után lehetne kiadni” – teszik hozzá.
+   </p>
+   <p rend="head">
+    Jogi értelemben pedig ezzel az a probléma, hogy kihúzza a szőnyeget az alól az érvelés alól is, ami megengedi, hogy az igazolvánnyal látogathatók legyenek a közösségi terek.
+   </p>
+   <p>
+    A jogvédők szerint ugyanis ha a kártyával rendelkezők is fertőzőképesek, akkor a különségtétel alapja csak az lesz, hogy kinek van kártyája és kinek nincs. 
+Ez a fajta megkülönböztetés pedig a TASZ értékelése szerint diszkriminatív és így alaptörvény-ellenes is.
+   </p>
+   <p>
+    Mint ismert, pénteken reggel Orbán Viktor bejelentette, hogy a  négymillió beoltott jövő hét szerda-csütörtök magasságában lehet meg, és az ehhez kötött új lépések is megszülettek már: megnyitják a szolgáltatások széles körét azok számára, akiknek van védettségi igazolványuk.
+   </p>
+   <p>
+    Vagyis látogathatók lesznek számukra többek közt a színházak, edzőtermek, mozik, uszodák, közfürdők, kalandparkok, vidámparkok, játszóházak, könyvtárak, sportesemények, táncos-zenés események, szállodák, az éttermek belső helyiségei, az állatkertek és cirkuszok.
+   </p>
+   <p>
+    Hiába beszélt Orbán Viktor a rádióinterjúban arról, hogy már az első oltás is kellő védettséget ad: a koronavírus elleni védettséget
+    háromféle módon lehet igazolni:. H
+    a valaki megkapta a védőoltást, vagy igazoltan átesett a koronavírus-fertőzésen, illetve ha valaki vélhetően átesett a fertőzésen, de nem tudott róla vagy nem készült róla teszt és utólag elvégzett ellenanyag-vizsgálat igazolja a fertőzésen való átesését is. Ebben az esetben a vizsgálat önköltséges, de hatósági áras lesz, melynek összege 11 000 forint. Emellett ki kell fizetnie a védettségi igazolvány kiállításának 3000 forintos összegét is. Ha az ellenanyag-vizsgálat igazolja, hogy korábban valóban fertőzött volt, akkor a védettségi igazolvány érvényessége 4  hónap. Minden más esetben ingyenes az igazolvány.
+   </p>
+  </body>
+ </text>
+</TEI>

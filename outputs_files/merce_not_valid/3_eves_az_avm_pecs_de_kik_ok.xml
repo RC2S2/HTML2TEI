@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     3 éves az AVM Pécs! De kik ők?
+    </title>
+    <author>
+     <persName>
+      A Város Mindenkié
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c60165bd-1978-5526-a0b3-c4e5c9d6f30e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      3 éves az AVM Pécs! De kik ők?
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       A Város Mindenkié
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-10-12T10:14:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2018/10/12/3_eves_az_avm_pecs_de_kik_ok/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2018/10/12/3_eves_az_avm_pecs_de_kik_ok/
+     </sch:url>
+     <sch:name>
+      3 éves az AVM Pécs! De kik ők?
+     </sch:name>
+     <sch:datePublished>
+      2018-10-12T10:14:00
+     </sch:datePublished>
+     <sch:author>
+      A Város Mindenkié
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      Pécs
+     </sch:keywords>
+     <sch:keywords>
+      születésnap
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c60165bd-1978-5526-a0b3-c4e5c9d6f30e">
+     <sch:identifier>
+      urn:uuid:428843cf-6cbc-49fd-beee-c49e2db78f42
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:04.349357
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:19:53.757762
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c60165bd-1978-5526-a0b3-c4e5c9d6f30e" when="2021-12-14T15:26:04.349357">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    3 éves az AVM Pécs! De kik ők?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     „A Város Mindenkié pécsi csoportja egy 2015-ben alakult alulról szerveződő, önkéntesekből álló mozgalom, amelyben hajléktalan, hajléktalanságot megtapasztalt, lakásszegénységben élő emberek és biztos lakhatással rendelkező szövetségeseik hajléktalanságban és lakásszegénységben élők érdekvédelmével foglalkoznak.”
+    </hi>
+   </p>
+   <p>
+    Pont 3 évbe telt, hogy ezt megtanuljuk egy szuszra elmondani. Talán pont azért tartott nekünk is 3 évig (3 a magyar igazság), mert legyünk őszinték, ezt senki se érti elsőre…
+   </p>
+   <p>
+    Mi az, hogy alulról szerveződő? Mozgalom? Mit jelent a hajléktalanság és még inkább, mi az ördög az a lakásszegénység? Egyáltalán kik azok a tagok, akiket így határozunk meg? Érdekvédelem? Az is egy fura szó…
+   </p>
+   <p>
+    De, ami a legfontosabb: mit értünk az alatt, hogy A Város Mindenkié?
+   </p>
+   <p>
+    Biztosak lehetünk abban, hogy erre a kérdésre minden AVM tag magabiztos, de eltérő választ fog adni. Persze. Mert A Város mindenkinek mást jelent.
+   </p>
+   <p>
+    Mit jelent például nekem Pécs?
+   </p>
+   <p>
+    Először is a TV torony segítségével rövid idő alatt be tudom lőni, hogy merre van észak és ezt valamiért nagyon hasznosnak találom. Éjszakánként a Havihegyi kápolna kivilágításával nagyszerű árnyjátékot lehet játszani, annak tudatában, hogy a város elég sok pontjáról láthatnak. A buszjáratok olyan gyakran váltanak számot és irányt, hogy sosem múló izgalom kíséri minden buszra szállásomat: vajon valóban oda jutok-e, ahova szeretnék? Kertváros, ahova soha nem költöznék, de ahol mindig imádok eltévedni. Tettye, ahol több évi gyakorlati barangolás után is elvétem a megfelelő lépcsőt a megfelelő utcához. Uránváros, amelyet már csak a neve miatt is érdemes volt megépíteni. Gyárváros, ahol már nincsenek gyárak. Meszes, amitől mindenki tart, én meg mindig oda tartok…
+   </p>
+   <p>
+    És hogy mi köze mindennek a mozgalmisághoz?
+   </p>
+   <p>
+    Adott egy város:
+   </p>
+   <list>
+    <item>
+     140 ezer alá csúszott lakosságszámmal,
+     10 milliárd felé csúszó adóssággal,
+     megszűnt iparral,
+     elmutyizott buszparkkal (ráadásul biztos vagyok benne, hogy mindegyikből kiszerelték a klímát és a lengéscsillapítót), 500 forintos menetjeggyel,
+     egy Budapest-Pécs vasútvonallal, amely évek óta 3 óra 10 perc, vonatpótló busszal,
+     évek óta nem tisztázott légszennyezettségi szinttel,
+     egykor kiváló gimnáziumokkal, amelyek mára kicsúsztak a top 100-ból,
+     kulturális élettel, amelyre igazából már csak nosztalgiával gondolunk,
+     közel 1500 hajléktalanságban élő emberrel, akiket nagy buzgóságunkban
+     már 2014-ben
+     kitiltottunk a belvárosból,
+     közel 3000 eladósodott önkormányzati bérlővel,
+     és egy önkormányzattal, amelynek a rendszerváltozás óta lyukas a költségvetése, majd ennek sokadik felismerése után jobbnak látták megválni az adósságkezelő programtól, és rászállni arra a 108 családra, akik inkább lakásokat törtek fel, hogy ne kerüljenek utcára.
+    </item>
+   </list>
+   <p>
+    Hát ezért beszélünk mozgalomról.
+   </p>
+   <p>
+    Mert a városból, amit szeretünk, csináltak egy olyat, amiben nagyon nehéz élni.
+   </p>
+   <p>
+    Amikor 3 éve Pécsett is megalakult a budapesti minta alapján egy A Város Mindenkié csoport, hamar felismertük, hogy nem ismerjük a várost. 3 év munkája után mondhatjuk, hogy már sejtjük, mivel állunk szembe.
+   </p>
+   <p>
+    Olyan ez, mint a klímaváltozásról beszélni: mindenki érti már, hogy nagy lehet a para, de senki sem tudná pontosan megmondani, hogy mi, hogyan és miért.
+   </p>
+   <p>
+    A mi csoportunk erre vállalkozik. Mert a Városnak Lakói vannak, akiknek Lakniuk kell valahol.
+   </p>
+   <p>
+    Ahogyan azonban a klímaváltozást sem fogja senki jobban érteni csak mert egyre több szakértő mond róla szakértő dolgokat, úgy a lakhatási válságot sem lakáspolitikusok fogják megváltani. Hanem az emberek, akik benne élnek.
+   </p>
+   <p>
+    Ezért mi A Város Mindenkiében elsősorban Veletek szeretnénk együtt dolgozni.
+   </p>
+   <p>
+    Az elmúlt években sok háztartásba jutottunk el, sok családdal kerültünk kapcsolatba, sokszor, sok helyen mondtuk el, hogy mit tapasztaltunk, és sokaknak próbáltunk tudásunknak megfelelően segíteni.
+   </p>
+   <p>
+    Azonban lehagyott minket az ország.
+   </p>
+   <p>
+    Azt kérdezik: jó, de milyen sikereink vannak? Persze voltak sikereink.
+    Akadályoztunk
+    meg kilakoltatást,
+    bontást
+    , ültünk le
+    tárgyalni
+    városvezetőkkel, szerveztünk
+    kerekasztalt
+    ,
+    mondtunk
+    beszédeket
+    ,
+    építettünk kunyhót
+    a Kossuth téren, és úgy általában: közösséget csináltunk magunkból.
+   </p>
+   <p>
+    Eközben pedig
+    szétszakadt
+    a pécsi ingatlanpiac. A családosok kiszorulnak a Belvárosból. Csak egyetemistáknak adnak ki lakást, nekik se olcsón. A szegregátumok nőnek, lakóik ellehetetlenülnek. Az
+    új lakásrendeletünk
+    rossz vicc.
+    15-étől a rendőr vihet el
+    , ha nincs otthonod.
+   </p>
+   <p>
+    Ez a folyamat, és a 2018-as választások eredménye is egyértelművé tette, hogy nincs mese: nincs tovább fotelből írható forradalmi blogbejegyzés (mint ez).
+   </p>
+   <p>
+    Mi az AVM-nél alulról szerveződünk, mert az utcán kezdjük. Mozgalom vagyunk, mert odamegyünk az ajtódhoz és bekopogunk. Érdeket védünk, mert mindenki érdeke, hogy lakjon valahol.
+   </p>
+   <p>
+    Ma lettünk 3 évesek.
+   </p>
+   <p>
+    Aradi Fanni,
+   </p>
+   <p>
+    A Város Mindenkié pécsi aktivistája
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

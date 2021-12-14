@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A négyigenes népszavazás nem a rendszerváltás elárulása, hanem garanciája volt
+    </title>
+    <author>
+     <persName>
+      Labanino Rafael
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     fe609d85-6e1b-5e1b-aff6-4b7e54ef2005
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A négyigenes népszavazás nem a rendszerváltás elárulása, hanem garanciája volt
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Labanino Rafael
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-29T19:15:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/29/a-negyigenes-nepszavazas-nem-a-rendszervaltas-elarulasa-hanem-garanciaja-volt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/29/a-negyigenes-nepszavazas-nem-a-rendszervaltas-elarulasa-hanem-garanciaja-volt/
+     </sch:url>
+     <sch:name>
+      A négyigenes népszavazás nem a rendszerváltás elárulása, hanem garanciája volt
+     </sch:name>
+     <sch:datePublished>
+      2017-11-29T19:15:00
+     </sch:datePublished>
+     <sch:author>
+      Labanino Rafael
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      népszavazás
+     </sch:keywords>
+     <sch:keywords>
+      rendszerváltás
+     </sch:keywords>
+     <sch:keywords>
+      négyigenes
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="fe609d85-6e1b-5e1b-aff6-4b7e54ef2005">
+     <sch:identifier>
+      urn:uuid:8ef30099-c674-438c-bb5a-4ce96e83c5bf
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:00.260386
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:34:53.697520
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="fe609d85-6e1b-5e1b-aff6-4b7e54ef2005" when="2021-12-14T15:31:00.260386">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A négyigenes népszavazás nem a rendszerváltás elárulása, hanem garanciája volt
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Vágó Gábor a Mércén vasárnap megjelent
+    cikkében
+    a négyigenes népszavazást a Köztársaságot végül elemésztő ősbűnként írja le. Szerintem éppen ellenkezőleg, a népszavazás a rendszerváltás garanciája volt.
+   </p>
+   <p>
+    Fotó: OSA Archívum
+   </p>
+   <p>
+    Vágó az 1989. november 26-án megtartott „négyigenes” népszavazást a rendszerváltás elárulásának nevezi, az azt  szervező SZDSZ-t pedig végső soron a Harmadik Köztársaság sírásójaként jellemzi. „
+    <hi>
+     Akkor tanulták meg a magyar pártok, hogy nem az ország hosszú távú érdeke, pláne nem a demokrácia minősége a fontos számukra, hanem a saját jól felfogott, rövid távú érdekük
+    </hi>
+    ” – szögezi le rögtön a cikk elején.
+   </p>
+   <p>
+    Vágó rendkívüli fontosságot tulajdonít a köztársasági elnök közvetlen választásának, amit szerinte a négyigenes népszavazás lehetetlenített el. Szerinte az SZDSZ és az általa csak a szabad demokraták ifjúsági tagozatának tekintett, korabeli FIDESZ feláldozták a nemzeti érdeket a saját pártérdekeik oltárán. A népszavazás szerinte nem szolgált semmilyen más célt, mint az MSZMP „földbe döngölését”, és Pozsgay Imre, az állampárt köztársasági elnökjelöltjének kiiktatását, nem mellesleg a két párt kampányban való felépítését.
+   </p>
+   <p>
+    A szerző úgy véli, az SZDSZ-es vezetők cselesen elrejtették a köztársasági elnök megválasztásáról szóló kérdést három olyan kérdés mellé, amelyekre „
+    <hi>
+     csak meggyőzött munkásőrök mertek nemet mondani
+    </hi>
+    ”. Végül az országgyűlési választások után az MDF és az SZDSZ „
+    <hi>
+     zárt ajtók mögötti dealt
+    </hi>
+    ” kötött a köztársasági elnök parlament általi megválasztásáról és Göncz Árpád személyéről.
+   </p>
+   <p>
+    „A politikai machinációk, taktikázások és manőverezések elvezettek oda, hogy egy demokratikus eszközzel kevesebb van az állampolgárok kezében. A pártok pedig megerősítve látták azt a magatartásukat, hogy csak a rövidtávú saját érdeküket nézzék, az ország hosszú távú érdeke helyett”
+   </p>
+   <p>
+    – zárja cikkét.
+   </p>
+   <p>
+    Kérdések:
+   </p>
+   <p>
+    Csak az országgyűlési választások után kerüljön-e sor a köztársasági elnök megválasztására?
+   </p>
+   <p>
+    Kivonuljanak-e a pártszervek a munkahelyekről?
+   </p>
+   <p>
+    Elszámoljon-e az MSZMP a tulajdonában vagy a kezelésében levő vagyonról?
+   </p>
+   <p>
+    Feloszlassák-e a Munkásőrséget?
+   </p>
+   <p rend="head">
+    Vágó cikkének legfontosabb hibája, hogy a kiindulópontja hamis, vagyis nem felel meg a történelmi tényeknek. Egyszerűen nem igaz, hogy az SZDSZ és az (egyébként a szabad demokratáktól független, ifjúsági tagozatuknak még csak informálisan sem tekinthető, ráadásul korábban alakult) FIDESZ árulták volna el úgymond az Ellenzéki Kerekasztalt.
+   </p>
+   <p>
+    A valóság ezzel szemben az, hogy a négyigenes népszavazás minden pontjában, így a köztársasági elnöknek a szabad országgyűlési választások utáni megválasztásáról is egyetértés volt az ellenzéki pártok között. Annyira, hogy maga az MDF is végig ezt képviselte. Ezen csak az MSZMP-vel kötött különalku után változtatott.
+   </p>
+   <p rend="head">
+    Az MDF-MSZMP különalku története
+   </p>
+   <p>
+    Az MDF sajátos viszonyt ápolt az MSZMP-vel. Az MDF-et alapító népi írók és értelmiségiek mindig is hatalmi megállapodást és jóváhagyást kerestek az MSZMP-vel. Ahogy a demokratikus ellenzékiek fogalmaztak: a népi írók folyóiratot kértek, míg a demokratikus ellenzék folyóiratokat csinált (és ez pontosan így is volt).
+   </p>
+   <p>
+    Az 1988 szeptemberi, második lakitelki találkozón, ahol elfogadták az MDF alapítólevelét és alapszabályát, Pozsgay Imre is részt vett, és magának az állampárt főtitkárának, Grósz Károlynak az üdvözletét is elhozta (így az MDF kapott egy félhivatalos jóváhagyást). Az MDF még 1989-ben is visszautasította, hogy magát egyértelműen ellenzékiként határozza meg, úgy fogalmaztak, hogy elutasítják „a társadalom merev felosztását kormányra és ellenzékre”.
+   </p>
+   <p>
+    Pozsgay elérte, hogy még a kerekasztal tárgyalások előtt az MSZMP köztársasági elnökjelöltje legyen, az állampárt ezzel érkezett az ellenzékkel való tárgyalásokra. A kerekasztal tárgyalások alatt Antall József végig egyeztetett Pozsgayval Csoóri Sándor lakásán.
+   </p>
+   <p rend="head">
+    Bár az ellenzéki pártok előre kikötötték, hogy csak olyan megállapodást írnak alá az MSZMP-vel, amiben ők egymás között konszenzusra jutottak, az MDF mégis aláírta a többi ellenzéki szervezet számára elfogadhatatlan egyezséget, szembefordulva saját korábbi, a tárgyalások során képviselt álláspontjával. A különalku legfontosabb eleme az volt, hogy a köztársasági elnök megválasztását még az országgyűlési választások előtt megtartják.
+   </p>
+   <p>
+    Vágó azt sejteti, hogy a másik három kérdés, vagyis a munkahelyi pártszervek megszüntetése, az MSZMP vagyonának elszámoltatása és a Munkásőrség feloszlatása eldöntött kérdések lettek volna, és a ravasz szabad demokraták ezeket mintegy csaliként tették be az egyetlen lényeges kérdés mellé. Azonban ez nem igaz. Az MSZMP-ből minden engedményt ki kellett kényszeríteni.
+   </p>
+   <p>
+    Az állampártnak esze ágában sem volt ezekben a kérdésekben engedni, sőt, az MDF által aláírt megállapodásban erre biztosítékokat is kapott. Antall József azzal próbálta eladni az MSZMP-vel való megegyezést a többi ellenzéki pártnak, hogy ezek az állampárt és az általa ellenőrzött parlament számára adott, valójában nem lényeges, időleges kedvezmények, amelyeket majd később úgyis rendezni fognak. Ezekben a kérdésekben az MSZMP csak a népszavazás kiírásának hatására engedett, hogy ezzel az egészet okafogyottá tegye, és a köztársasági elnök megválasztásának időbeli elsőbbségét megmentse.
+   </p>
+   <p rend="head">
+    A négyigenes népszavazás jelentősége
+   </p>
+   <p>
+    De miért volt fontos, hogy ne a szabad országgyűlési választások előtt, hanem utána válasszák meg a köztársasági elnököt? Az MSZMP és az MDF egyértelműen az 1989-es lengyel megállapodást akarták másolni, ahol a Szolidaritás engedményekért és egy félszabad választásért cserébe elfogadta Jaruzelski köztársasági elnökségét. A Szolidaritás azonban egy évtizedes múltra visszatekintő milliós tömegmozgalom volt, saját tömegmédiával, és ezt a megállapodást még 1988 végén, 1989 legelején hozták meg.
+   </p>
+   <p>
+    Ezzel szemben a magyar ellenzék nem volt (akkor még) egységes, összeszokott ellenzékiek vezette tömegmozgalom, hanem kis tagságú, újonnan alakult, egymással bizalmatlan és más-más ideológiai profilú szervezetekből állt; csak kis példányszámú, illegális folyóiratai voltak, az MSZMP irányította a teljes magyar sajtót.
+   </p>
+   <p>
+    És ami még 1989 elején elfogadható kompromisszum volt, nagyon másképp nézett ki 1989 nyarán-őszén. De a legfőbb tényező az volt, hogy a MSZMP-MDF különalku nem szolgálta senki más, mint Pozsgay és vele az állampárt, illetve az akkor legnagyobb tagságú, és az állampárti sajtó által támogatott, egyedül „legitimként” beállított MDF érdekeit. Pozsgay elnökségével az MSZMP a legfontosabb közvetlenül választott tisztséget szerezhette volna meg, és minden bizonnyal sokkal jobban szerepelt volna a választásokon, hatalmát, vagyonát jóval nagyobb mértékben tudta volna átmenteni. Az MDF pedig jelentősen megnehezítette volna ellenzéki vetélytársai dolgát, és biztosan részesült volna a hatalomból.
+   </p>
+   <p>
+    Minden készen állt volna tehát egy a románhoz hasonló, a volt kommunisták irányításával és dominanciájával levezényelt átmenethez (bár valamivel nyilván kisebb lett volna a hatalmuk és a támogatottságuk, mint Iliescuéknak). A négyigenes népszavazás ezt akadályozta meg, és ezért teljesítette ki a rendszerváltás folyamatát. A népszavazáson a magyar választópolgárok többsége hitet tett a rendszerváltás eredetileg minden ellenzéki szervezet által támogatott pontjai mellett, világos választói felhatalmazást adva a teljes rendszerváltáshoz. Az emberek egyértelműen nemet mondtak az MSZMP hatalmának átmentésére.
+   </p>
+   <p rend="head">
+    Az MDF-SZDSZ paktum sem valami sötét, hitvány alku volt, ahogy azt Vágó cikkéből gondolhatnánk. Az MDF és az SZDSZ megállapodott az eredetileg túl széleskörűen meghatározott, kétharmados többséget igénylő törvényhozási területek számának csökkentésében, azokat csak az alkotmányos jelentőségű, és a demokratikus verseny, a szabad nyilvánosság szempontjából kulcsfontosságú területekre korlátozva.
+   </p>
+   <p>
+    Megállapodtak abban is, hogy a köztársasági elnököt, sok demokráciához hasonlóan, az Országgyűlés fogja választani. Így lett az 1945-től 1947-ig, a szovjetek által elhurcolt Kovács Béla, a Kisgazdapárt főtitkárának személyi titkáraként dolgozó, majd 1956-os szerepvállalásáért életfogytiglani szabadságvesztésre ítélt, mindkét politikai oldalon tisztelt, József Attila-díjas író és műfordító Göncz Árpád a köztársasági elnök.
+   </p>
+   <p>
+    Az MDF-SZDSZ paktum a két legnagyobb párt között az ország irányíthatósága érdekében meghozott, felelős és demokratikus megállapodás volt. Igen, felelős és demokratikus, mert biztosította, hogy a kormány valóban tudjon kormányozni, és ténylegesen a kormányt alkotó pártoknál legyen a kormányzati felelősség. Ez demokratikus szempontból is kiemelt jelentőségű, hiszen a választók akarata így érvényesül, és a kormányzó pártok választói elszámoltathatósága is csak így válik lehetővé. Közben az alku lényeges konszenzusos elemeket is megtartott.
+   </p>
+   <p rend="head">
+    A közjó és a demokrácia minőségének intézményi feltételei
+   </p>
+   <p>
+    Röviden érintenem kell Vágó másik két állítását is: miszerint a pártok partikuláris érdekei és a közjó egymással szemben állnának, illetve, hogy a közvetlenül választott köztársasági elnöki intézmény egy magasabb minőségű demokráciát biztosított volna.
+   </p>
+   <p>
+    A pártok érdekeinek a közjóval való szembeállítása egy rendkívül népszerű és mélyen antidemokratikus gondolat. A közjó nem lebeg platóni ideaként a fejünk felett, amit valami racionális módszerrel meg lehet ismerni. Nem rajtunk kívül álló, nem tőlünk független, hanem a demokratikus közéleti vitákban, sok-sok partikuláris törekvés és konfliktus során születik meg.
+   </p>
+   <p>
+    A pártok, a különféle civil szervezetek, a szakszervezetek, a munkaadói szervezetek, a szakmai kamarák, állampolgárok egy ügyért akár spontán összeálló csoportjai, a vállalkozások, de még egy kisvárosi bélyeggyűjtő kör, és az egyes állampolgár is mind részesei ennek a folyamatnak. És egy demokratikus államban mindnek biztosítják a jogait arra, hogy a közügyekbe beleszólhasson, azokat a maga eszközeivel alakíthassa. Természetes, hogy egy párt úgy véli, hogy a saját érdekei, azaz a választói, az eszméi, és szakpolitikai elképzeléseinek következetes és minél hatékonyabb képviselete a közjót szolgálja. Így van ezzel egy meghatározott szakpolitikai és/vagy elvi, jogi célért küzdő civil szervezet is.
+   </p>
+   <p>
+    Ezek a viszonyok a különböző pártok, érdekcsoportok, szervezetek, a választók és a pártok között; a közigazgatás és a politika között; és gyakran az alapvető szabadságjogok és az ezeket garantáló független intézményrendszerek és többségi akarat között finoman szólva is problematikusak. De ezeket a kérdéseket csak egy demokráciában tehetjük fel egyáltalán.
+   </p>
+   <p rend="head">
+    A köztársasági elnök közvetlen választása, vagyis egy elnöki vagy félelnöki rendszer nem biztosít önmagában magasabb minőségű demokráciát. A francia demokrácia nem jobb minőségű, mint a német, attól, hogy a francia elnököt közvetlenül választják (de nem is rosszabb). Nem kapunk egyértelmű képet akkor sem, ha megnézzük, a félelnöki rendszerek hogyan teljesítenek Közép-Kelet-Európában, elég csak Lengyelországra gondolnunk.
+   </p>
+   <p>
+    Egyes intézmények helyett inkább több intézmény együttes, a demokratikus minőségre gyakorolt hatását érdemes nézni.
+   </p>
+   <p>
+    A harmadik Magyar Köztársaságban (és a Fidesz alaptörvénye létrehozta rendszerre mindez még inkább igaz) a konstruktív bizalmatlansági indítvány szinte bebetonozta a miniszterelnököt, amit a valójában két-három középpárt és két-három kisebb párt esetén még valamennyire arányos 1990-es választási rendszerben a koalíciós kényszer még úgy, ahogy kompenzált, bár a rendszer merevségén nem változtatott.
+   </p>
+   <p>
+    Azonban már valójában 1994-ben borult ez a formula, és onnantól a pártrendszer az egész politikai rendszer ösztönzőinek megfelelően koncentrálódott. A választási rendszer nagyon megnehezítette új pártok az Országgyűlésbe való bekerülését és megerősödését. A magyar pártrendszer a mai napig a legkevésbé innovatív Közép-Kelet-Európában, vagyis rendkívül kevés új párt tudott mandátumhoz jutni (azok többsége is egészben vagy részben létező pártokról vált le), kormányra kerülni pedig egy sem tudott közülük.
+   </p>
+   <p>
+    Mivel a magyar alkotmányos rendszerben a kormánytöbbségen kívül nincs más közvetlen választói felhatalmazással rendelkező vétó szereplő (ez lehetne egy felsőház is, vagy szövetségi állam esetén tartományi parlamentek, de egy köztársasági elnök is), egy elszánt és egységes kétharmados parlamenti többség minden jogállami intézményt kikapcsolhat (és ki is kapcsolt).
+   </p>
+   <p>
+    Ezen azonban esetünkben egy közvetlenül választott köztársasági elnök sem változtatna (még a lengyel rendszerben is egy köztársasági elnöki vétót 60 százalékos többséggel leszavazhat a törvényhozás). Lengyelországban a demokrácia teljes eróziója előtt jelenleg nem a közvetlenül választott köztársasági elnöki intézmény, hanem az áll, hogy az arányos választási rendszernek köszönhetően a Jog és Igazságosság nem tudott kétharmados, vagyis alkotmányozó többséget szerezni.
+   </p>
+  </body>
+ </text>
+</TEI>

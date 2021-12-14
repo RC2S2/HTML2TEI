@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Visszatért 2015: Orbán Viktor migránshullámozik, Soros Györgyöt okolja, és nemzeti konzultációt lobogtat
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b7581cdc-541c-5c03-8aa9-b7afda31331a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Visszatért 2015: Orbán Viktor migránshullámozik, Soros Györgyöt okolja, és nemzeti konzultációt lobogtat
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-02-28T11:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/02/28/visszatert-2015-orban-viktor-migranshordazik-soros-gyorgyot-okolja-es-nemzeti-konzultaciot-lobogtat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/02/28/visszatert-2015-orban-viktor-migranshordazik-soros-gyorgyot-okolja-es-nemzeti-konzultaciot-lobogtat/
+     </sch:url>
+     <sch:name>
+      Visszatért 2015: Orbán Viktor migránshullámozik, Soros Györgyöt okolja, és nemzeti konzultációt lobogtat
+     </sch:name>
+     <sch:datePublished>
+      2020-02-28T11:00:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      Soros György
+     </sch:keywords>
+     <sch:keywords>
+      gyöngyöspata
+     </sch:keywords>
+     <sch:keywords>
+      nemzeti konzultáció
+     </sch:keywords>
+     <sch:keywords>
+      migráns
+     </sch:keywords>
+     <sch:keywords>
+      Brüsszel
+     </sch:keywords>
+     <sch:keywords>
+      börtönbiznisz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b7581cdc-541c-5c03-8aa9-b7afda31331a">
+     <sch:identifier>
+      urn:uuid:3314fd80-7f88-4b17-bf0c-887764202949
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:29.512993
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:01:24.374513
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b7581cdc-541c-5c03-8aa9-b7afda31331a" when="2021-12-14T15:30:29.512993">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Visszatért 2015: Orbán Viktor migránshullámozik, Soros Györgyöt okolja, és nemzeti konzultációt lobogtat
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Tisztán emlékszem arra, amikor 2015-ben Magyarország kormánya harcot hirdetett a „megélhetési bevándorlók” ellen.
+   </p>
+   <p>
+    Akkor még a Vasárnapi Híreknél dolgoztam, és
+    kétkolumnás összeállítást
+    írtam arról, miért végtelenül ostoba, hazug és manipulatív az a nemzeti konzultáció, amiben a terrorizmusról és a bevándorlókról, illetve e kettő összefüggéseiről tartottak szájbarágót a magyar polgároknak. Akkor még csak álmélkodtunk, hogy vajon tényleg képes lesz-e egy egész gyűlöletkampányt felhúzni a kormány Soros György személye köré (naná!), és persze még nem sejthettük, hogy micsoda plakátcunami szakad majd emiatt a nyakunkba. A végtelen mennyiségű brüsszelezés túlzásnak tűnt, az erre kidobott adófizetői milliárdok pedig annyira felháborítónak, hogy az ember nyugodtan gondolhatta azt, hogy ezt bizony túltolja épp a kormány, és előbb-utóbb kénytelenek lesznek elengedni a migránsozós topikot, mert hosszú távon nem tudnak belőle megélni.
+   </p>
+   <p>
+    Nos, ma, 2020. február 28-án az MTI szemlézte Orbán Viktor Kossuth Rádiónak adott menetrendszerinti interjúját. Csak néhány mondat a szemléből:
+   </p>
+   <list>
+    <item>
+     A kormányfő hangsúlyozta: meg kell védeni Magyarország határait és a magyarokat. Akármilyen migránshullám indul is el, a magyar határrendészeti szervezetek képesek a biztonságos határzár működtetésére – mondta, kijelentve: „nem kell aggódnunk Magyarország biztonsága miatt addig, amíg egységesek vagyunk”.
+    </item>
+    <item>
+     A délről északi irányba tartó „feláramlást” történelmi trendnek nevezte – jelezve, hogy Magyarország a szárazföldi útvonal egyik fontos szakasza -, a következő tíz-húsz év kérdésének pedig azt tartja, hogy Törökországtól kezdve ezt a „feláramlást” hol sikerül megállítani. Megjegyezte, az „invázió hullámszerű”.
+    </item>
+    <item>
+     A miniszterelnök arról is beszélt, hogy Görögország nem képes, nem tudja, nem akarja megvédeni a határait, így rajta keresztül „áttrappolva” el lehet jutni a Balkánra, ami „nekünk sok gondot okoz”.
+    </item>
+    <item>
+     A miniszterelnök arról is beszélt, hogy nem az ellenzék a fő politikai ellenfelük, hanem „Soros György és az ő világa”, ők sokkal nagyobb fenyegetést jelentenek az országra, a kormány munkájára nézve, mint az ellenzék. Hozzáfűzte: Sorosnak korábban három olyan nagyszabású akciója is volt, amellyel ki akarta fosztani az országot.
+    </item>
+    <item>
+     „A végén mindig arról van szó, hogy a Soros György-féle pénzügyi birodalom hogyan tud befolyást szerezni kormányzati döntések fölött, amitől aztán pénzügyi előnyt remél” – mondta, sajnálatosnak nevezve, hogy „a magyar ellenzék összenőtt ezzel a Soros-féle rendszerrel”.
+    </item>
+    <item>
+     Soros Györgyöt és „csapatát”, az általa finanszírozott médiát, újságírókat, aktivistákat, NGO-kat úgy jellemezte, mint egy „jól szervezett, civil ruhában lévő, de katonai logika alapján mozgatott szervezet, amely jól láthatóan központi kezdeményezésekre hadrendbe áll, témákat vesz fel és kormányokat támad meg”.
+    </item>
+   </list>
+   <p>
+    Innen nézve kicsit tényleg olyan, mintha újra 2015-ben lennénk, ezek a mondatok elhangozhattak volna (és hát kis változásokkal, más hangsúlyokkal nyilván el is hangzottak) öt évvel ezelőtt is. Ma már semmiképp sem lepődünk meg rajta, de azért jó, ha rögzítjük is: Orbán Viktor és kormánya az elmúlt 5 évben valóban rendkívül sikeresen húzta fel a Soros-Brüsszel-migránsok hármas köré kommunikációs ténykedését.
+   </p>
+   <p>
+    Elég volt ez ahhoz, hogy újabb kétharmadot szerezzen a kormány (persze nem függetlenül az ellenzéki szerencsétlenkedéstől sem), úgy, hogy képes volt választótábora felé fenntartani az
+    <hi>
+     erő
+    </hi>
+    látszatát, ráadásul még annak ellenére is, hogy az elmúlt 5 évben valóban – ebben speciel tényleg igaza van a miniszterelnöknek – „hullámszerű” volt az „invázió”, vagyis voltak olyan időszakok jócskán, amikor a százmilliárdokból a határra applikált kerítést nem ostromolták migránshordák.
+   </p>
+   <p>
+    Szerencséje annyiban van Orbán Viktornak, hogy most, amikor egyébként elég sok nehézséggel kell/kéne küzdenie a kormányának (Brüsszel és a 7. cikkely, vagy éppen a néppárti csuklóztatás éppúgy ide tartozik, mint az őszi önkormányzati térvesztés miatti szavazói értetlenség), valóban erősödik a migrációs nyomás – aminek azonban Magyarország továbbra sem az okaival – mint például a klímakatasztrófa miatti elvándorlás, netán a háborúk miatti migráció – foglalkozik, pusztán politikai tőkét kovácsol abból, hogy végre megint lehet mutogatni a köztévében a tömegeket, akik már a határon (na de melyiken?) sátoroznak, és fondorlatosan tervezik Magyarország és Európa elárasztását.
+   </p>
+   <p>
+    Nem véletlen, hogy Orbán újra egyre hangsúlyosabban értekezik a témáról, hiszen Brüsszel ellenében idehaza még mindig kitűnő erőpozíció az, legalábbis szóban, hogy Magyarország védi a határokat, és így Európa egészét (keresztény mibenlétét) is a multikultitól és a terroristáktól.
+   </p>
+   <p>
+    Azzal pedig, hogy Orbán ismét – nem először – Soros Györgyöt teszi meg politikai ellenfelévé az ellenzéki pártokkal szemben, egyben újfent kijelölte azokat a kereteket is, amelyek közt hajlandó politizálni. Ezek közt a keretek közt pedig az ellenzék legfeljebb a kormány által tematizált témák után futhat.
+   </p>
+   <p rend="head">
+    És persze azt is tegyük hozzá: ma már a bejáratott migránsozás és sorosozás nem elég.
+   </p>
+   <p>
+    Beszélt ma a miniszterelnök másról is, az újabb nemzeti konzultációról, és ezen belül a „börtönbizniszről”, Gyöngyöspatáról és a
+    börtönből való idő előtti kiengedés ügyéről is – mintha ugyan az oktatásban évtizedek óta lappangó szegregációról valóban érdemben akarna konzultálni a kormány, vagy a börtönbiznisz azért csípné a szemét, mert nem szereti, hogy a magyar adófizetőket megkárosítják.
+   </p>
+   <p>
+    Az elmúlt 5 évben megszokott módon ezek a kérdések sem azért tevődnek azonban fel, mert a kormány kíváncsi lenne arra, hogy mi a magyar állampolgárok véleménye ezekről a kérdésekről. A nemzeti konzultáció kipróbált eszköz arra, hogy a kormány minden postaládába bedobathassa, hogy hogyan is kell gondolkodni az általuk bedobott témákban.
+   </p>
+   <p>
+    Ami egyrészt jó arra, hogy a saját választóiknak újabb paneleket adjanak, amelyek mentén gondolkodhatnak, míg az ellenzék számára feldobják a labdát, hogy akkor most épp mi az, amit cáfolhatnak, mivel foglalkozzanak, mire reagáljanak.
+   </p>
+   <p rend="head">
+    Tiszta haszon, minden irányból.
+   </p>
+   <p>
+    2015-ig a nemzeti konzultációk egyébként legalább a látszatra adtak: olyan témákban levelezett a kormány, amelyek valóban a választói igényekre rezonáltak (nyugdíjak, Alaptörvény, szociális konzultáció, devizahitelesek és egyebek).
+   </p>
+   <p>
+    5 évvel ezelőtt azonban egy újabb szintre lépett a konzultálás kormány és ország között (talán nem is annyira véletlen, hogy ez év októberétől a frissen megalakult, és Rogán Antal vezette Miniszterelnöki Kabinetiroda vette át a nemzeti konzultációkhoz kapcsolódó feladatokat), hogy aztán jöhessenek az Állítsuk meg Brüsszelt, majd pedig a Soros-tervről szóló konzultációk, meg persze az idei őrület, aminek még csak a felvezető szakaszában járunk.
+   </p>
+   <p>
+    Azért jó hír is legyen a végére, ha már így kiveséztük a mai Orbán-interjút: a miniszterelnök szerint a koronavírus elől nem lehet elzárkózni, de „
+    a vírus azonosításához szükséges eszközök rendelkezésre állnak, Magyarországnak nemzetközileg elismert járványügyi szakemberei vannak, 24 órás ügyeleti rendszert működtetnek, a határátkelőhelyeken szűrőmechanizmusokat indítottak meg, a repülőteret pedig különösen is figyelik.
+    ”
+   </p>
+   <p rend="head">
+    Mindenki nyugodjon le, meg vagyunk mentve.
+   </p>
+  </body>
+ </text>
+</TEI>

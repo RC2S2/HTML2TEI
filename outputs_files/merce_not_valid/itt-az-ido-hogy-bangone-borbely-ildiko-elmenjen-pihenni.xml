@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Itt az ideje, hogy Bangóné Borbély Ildikó elmenjen pihenni
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b47bb6f0-4a60-57ec-a1cf-894a84b37743
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Itt az ideje, hogy Bangóné Borbély Ildikó elmenjen pihenni
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-04-26T13:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/04/26/itt-az-ido-hogy-bangone-borbely-ildiko-elmenjen-pihenni/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/04/26/itt-az-ido-hogy-bangone-borbely-ildiko-elmenjen-pihenni/
+     </sch:url>
+     <sch:name>
+      Itt az ideje, hogy Bangóné Borbély Ildikó elmenjen pihenni
+     </sch:name>
+     <sch:datePublished>
+      2019-04-26T13:45:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      mszp
+     </sch:keywords>
+     <sch:keywords>
+      bangóné borbély ildikó
+     </sch:keywords>
+     <sch:keywords>
+      atv
+     </sch:keywords>
+     <sch:keywords>
+      patkány
+     </sch:keywords>
+     <sch:keywords>
+      patkányozás
+     </sch:keywords>
+     <sch:keywords>
+      kárász róbert
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b47bb6f0-4a60-57ec-a1cf-894a84b37743">
+     <sch:identifier>
+      urn:uuid:649b6d1d-2650-4e26-a3be-92a338ad22ba
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:53.273307
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:29:43.629292
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b47bb6f0-4a60-57ec-a1cf-894a84b37743" when="2021-12-14T15:30:53.273307">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Itt az ideje, hogy Bangóné Borbély Ildikó elmenjen pihenni
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Mindig olyan kényelmetlen érzés, amikor az ember publicistaként valakit lemondásra szólít fel, mert hát mégis kit képvisel egy publicista? Milyen alapja van arra, hogy lemondásra szólítson fel bárkit? Esetünkben a józan észt, minden szempontból.
+   </p>
+   <p>
+    Bangóné Borbély Ildikó, az MSZP képviselője az alábbi választ adta arra a kérdésre, hogy miért magas a Fidesz támogatottsága:
+   </p>
+   <p>
+    „Bangóné: Csak hogy egy mondatot mondjak, ha már szókimondó vagyok: sok a patkány Magyarországon. Ha már a patkánytéma felhozódott itt Budapesten. És nem csak Budapesten.
+   </p>
+   <p>
+    Kárász Róbert: Jó, ennek mi az áthallása?
+   </p>
+   <p>
+    Bangóné: Mindenki úgy gondolja, ahogy akarja. Ezt meg kellene állítani, a patkányinváziót is, mert nagyon sok kárt tudnak okozni Magyarországon és okoztak is az elmúlt időszakban. Nagyon sokat beszélünk arról, igen, hogy ha a támogatottságot nézzük, hogyan építették ki mondjuk uniós forrásokkal a függelmi viszonyt, a függőségi viszonyt, hogyan vannak függőség hatalomtól Magyarországon az emberek, hogyan szakadt le Magyarországon a vidéki Magyarország.”
+   </p>
+   <p>
+    Majd Bangóné arról beszél, hogyan hülyíti az embereket a kormánypárt.
+   </p>
+   <p>
+    Nagyon nehéz ezt úgy érteni, hogy nem a Fidesz-szavazókat nevezi patkánynak az MSZP képviselője, nagyon ki kell facsarni a mondanivalót, hogy legalább azt mondhassuk, csak a kormánypárt tagjait és vezetőit patkányozza le Bangóné. Én nem is így értem, szerintem az MSZP-s képviselő a kormánypárti szavazókról beszél, az ország közel harmadát patkányozta le.
+   </p>
+   <p>
+    Ez pedig egyszerűen nem érhet mást, mint lemondást.
+   </p>
+   <p rend="head">
+    Kicsit kattanjunk le az O1G-ről, a gecizésről és barátairól, és gondoljuk kicsit azt, hogy az ellenzék jobb, mint a kormánypárt, és van következménye az ilyen mondatoknak, hogy egy kormányváltás után nem olyan országban akarunk élni, ahol a mostani ellenzéki pártok úgy patkányoznak hatalomból, mint Bayer Zsolt. Vagyis hogy Bayer Zsoltot nem Bayer Zsoltra cseréljük.
+   </p>
+   <p>
+    És egyébként ebből a szempontból mindegy is, hogy a Fidesz szavazóit, tagjait vagy vezetőit patkányozta le Bangóné, és beszélt a patkányinvázió megállításáról, ez bármely esetben vállalhatatlan.
+   </p>
+   <p>
+    Már csak azért is, mert az, aki Fidesz-szavazó, és főleg, ha a Bangóné által leírt függőségi viszonyban van, az nem gonosz ember, és nem az ellenségünk. Egyszerűen csak mást gondol arról, mi a fontos az országnak. Azt is tudjuk, hogy azért gondol mást, mert egy másik valóságban létezik, amit a kormánypárt épített fel.
+   </p>
+   <p rend="head">
+    Őket patkánynak nevezni nem hogy nem jó ötlet, hanem politikai szűklátókörűség, a politika nem értésének, a politikai alkalmatlanságnak a bizonyítéka.
+   </p>
+   <p>
+    És már csak azért is le kell mondania Bangónénak, mert ez nem hasznos, mert ha lepatkányozod a Fidesz szavazóit, akkor biztosan nem fogod meggyőzni őket. Mert a kormánypárt ezt a patkányozást úgy fogja ráégetni az ellenzékre (és ne legyünk álszentek, ezt tette anno az MSZP a köteles beszéddel), hogy az nem lesz jó senkinek. Ez valószínűleg már nehezen menthető, de a lemondás, vagy ha ez nem történik meg, akkor a kizárás az egyetlen lehetőség ennek elkerülésére.
+   </p>
+   <p>
+    Márpedig Bangónének nem ez az első olyan mozzanata, ami bizonyítja, hogy alkalmatlan képviselőnek. Az MSZP-nek lépnie kell, Bangónénak távoznia kell.
+   </p>
+  </body>
+ </text>
+</TEI>

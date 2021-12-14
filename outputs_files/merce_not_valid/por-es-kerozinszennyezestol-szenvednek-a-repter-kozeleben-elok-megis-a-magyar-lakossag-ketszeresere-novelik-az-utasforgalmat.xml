@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Por- és kerozinszennyezéstől szenvednek a reptér közelében élők, mégis a magyar lakosság kétszeresére növelik az utasforgalmat
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5d9596b0-c39a-53d3-8c36-e03123c4903f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Por- és kerozinszennyezéstől szenvednek a reptér közelében élők, mégis a magyar lakosság kétszeresére növelik az utasforgalmat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-10-12T11:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/10/12/por-es-kerozinszennyezestol-szenvednek-a-repter-kozeleben-elok-megis-a-magyar-lakossag-ketszeresere-novelik-az-utasforgalmat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/10/12/por-es-kerozinszennyezestol-szenvednek-a-repter-kozeleben-elok-megis-a-magyar-lakossag-ketszeresere-novelik-az-utasforgalmat/
+     </sch:url>
+     <sch:name>
+      Por- és kerozinszennyezéstől szenvednek a reptér közelében élők, mégis a magyar lakosság kétszeresére növelik az utasforgalmat
+     </sch:name>
+     <sch:datePublished>
+      2021-10-12T11:51:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      környezetszennyezés
+     </sch:keywords>
+     <sch:keywords>
+      zajszennyezés
+     </sch:keywords>
+     <sch:keywords>
+      mtvsz
+     </sch:keywords>
+     <sch:keywords>
+      liszt ferenc repülőtér
+     </sch:keywords>
+     <sch:keywords>
+      kerozin
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5d9596b0-c39a-53d3-8c36-e03123c4903f">
+     <sch:identifier>
+      urn:uuid:13b997cd-9989-4073-a721-6d805a4bd4cd
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:55.422297
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:56:45.878426
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5d9596b0-c39a-53d3-8c36-e03123c4903f" when="2021-12-14T15:30:55.422297">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Por- és kerozinszennyezéstől szenvednek a reptér közelében élők, mégis a magyar lakosság kétszeresére növelik az utasforgalmat
+   </head>
+   <p>
+    Új
+    tanulmányban
+    vonja kérdőre a Magyar Természetvédők Szövetsége és a Közép- és Kelet-Európai Bankfigyelő Hálózat (
+    <hi>
+     Bankwatch
+    </hi>
+    ) a budapesti Liszt Ferenc Nemzetközi Repülőtér fejlesztéseihez 200 millió euró hitelt nyújtó Európai Beruházási Bankot (EBB).
+   </p>
+   <p>
+    A természetvédők elemzése szerint a repülőtér 9 kilométeres, félmillió embernek otthont adó körzetében a mikroporszennyezés mértéke jelenleg is az átlagos szint 4-13-szorosa. A repülőtérrel szomszédos lakott területein tüdőfibrózisban vagy agydaganatban szenvedő polgárok, illetve hozzátartozóik arról számoltak be az MTVSZ-nek, hogy az orvosok gyakran mondták nekik, hogy betegségük nagyrészt a kerozin- vagy a zajszennyezés számlájára írható, még ha ezt írásban nem is erősítették meg.
+   </p>
+   <p>
+    A helyiekkel készített interjúkból az MTVSZ Youtube-csatornáján látható egy összeállítás:
+   </p>
+   <p>
+    A természetvédők tanulmánya rámutat, hogy a COVID-19 járvány harmadik hullámát követően az utazási irodák és a repülőtársaságok heves kampányba kezdtek, hogy a turistaforgalmat újraélesszék, ám nemcsak ez okoz problémákat a Budapest központjától mindössze 16 kilométerre fekvő reptér közelében élő embereknek: a repülőtér új fejlesztési tervei 21 millióra, azaz Magyarország lakosságának több mint kétszeresére kívánják növelni az utasforgalmat.
+   </p>
+   <p>
+    A Budapest Airport működése és bővítése mintegy 1 millió, közelben élő mbert embert érint, köztük olyan gyermekes családokat, akiknek a házai évtizedekkel a repülőtér bővítésének megkezdése előtt épültek. A helyi lakosok életminősége a légi forgalom növekedésével arányosan csökken, és ez így volt már a COVID előtt is. Miközben sokan élvezik a lehetőséget, hogy nyaralni/vakációzni repülhetnek, a turista- és teherjáratok számának növekedésével járó zaj egyre inkább megkeseríti a repülőtér közelében lakók életét. És ez még nem minden: a repülőgépek üzemanyagának, a kerozinnak az égetéséből származó légszennyezés kiterjedt földrajzi területet érint.
+   </p>
+   <p>
+    Az MTVSZ helyzetértékelése szerint a repülőtér további bővítése a környező lakónegyedekben élő helyi lakosok százezreit fogja csapdába ejteni a bővítés miatt leértékelődött ingatlanokban. Egyes házak a zajszennyezés, a rezgés és a légörvények miatt fizikailag tönkrementek (pl. falak repedtek meg, tetőcserepek hullottak le), ezáltal közvetlen életveszélyt jelenthetnek. A bővítés miatt még több háznál léphetnek fel ilyen jellegű károk. Az intenzívebb földi forgalom még több zajt, légszennyezést és zavarást okoz majd ezeken a sűrűn lakott területeken, ami valószínűleg egészségkárosodást von majd maga után. A repülőtér közvetlen közelében élő lakosok nem tudnak a szabadban beszélgetni, a kertjüket nyugodtan használni, mivel a repülőgépek ötpercenként, vagy a legforgalmasabb órákban még annál is gyakrabban érkeznek/indulnak. A kiszolgáltatott vagy anyagi nehézségekkel küzdő lakoscsoportok nem tudnak könnyen alkalmazkodni vagy elköltözni egy olyan környezetből, amely veszélyezteti a jólétüket.
+   </p>
+   <p>
+    Az MTVSZ a tanulmányt ajánló, szerkesztőségünkhöz eljuttatott közleményében felidézi, hogy a jövő nemzedékek ombudsmanja 2019 februárjában arra is figyelmeztette a magyar kormányt, hogy az éjszakai (a tervezettet meghaladó) túlzottan nagy légiforgalom miatt sérül az érintett polgárok egészséges környezethez való joga.
+   </p>
+   <p rend="head">
+    A természetvédők arra tényre is felhívják a figyelmet, hogy a széles körű lakossági elégedetlenség és a magyar hatóságoknak küldött gyakori panaszok ellenére a repülőtér bővítésére irányuló projektet soha nem vetették alá semmilyen környezeti vagy társadalmi hatásvizsgálatnak.
+   </p>
+   <p>
+    Arra is kitérnek, hogy az EBB által a projektre vonatkozóan végzett társadalmi és környezeti átvilágítás nem fedezett fel semmilyen káros társadalmi hatást. A bank a természetvédők szerint figyelmen kívül hagyta az uniós környezeti hatásvizsgálati előírások és az uniós zajvédelmi irányelv a helyiek szerint nyilvánvaló be nem tartását is.
+   </p>
+   <p>
+    „A budapesti Liszt Ferenc Nemzetközi Repülőtér bővítése, amelyet az Európai Beruházási Bank (EBB) finanszírozott, jól példázza, hogy a nagy infrastrukturális projekteket hogyan erőltetik az emberek és a környezet rovására. Lesöprik az uniós környezetvédelmi előírásokat és az EBB saját normáit. A legmegdöbbentőbb ebben az esetben az, hogy egy uniós adófizetői pénzből megvalósuló projekt a magyar polgárokat olyan nyomorúságos élethelyzetbe sodorta, amelyből nincs kiút számukra”
+   </p>
+   <p>
+    –  mondta Dönsz-Kovács Teodóra, a Magyar Természetvédők Szövetsége munkatársa.
+   </p>
+   <p>
+    Az MTVSZ esettanulmánya letölthető innen.
+   </p>
+  </body>
+ </text>
+</TEI>

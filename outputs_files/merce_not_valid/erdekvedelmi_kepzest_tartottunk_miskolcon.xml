@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Érdekvédelmi képzést tartottunk Miskolcon
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e64facc3-b3ca-53cc-bed2-baba64a85e2e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Érdekvédelmi képzést tartottunk Miskolcon
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2015-09-03T11:31:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2015/09/03/erdekvedelmi_kepzest_tartottunk_miskolcon/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2015/09/03/erdekvedelmi_kepzest_tartottunk_miskolcon/
+     </sch:url>
+     <sch:name>
+      Érdekvédelmi képzést tartottunk Miskolcon
+     </sch:name>
+     <sch:datePublished>
+      2015-09-03T11:31:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      beszámoló
+     </sch:keywords>
+     <sch:keywords>
+      avm_akadémia
+     </sch:keywords>
+     <sch:keywords>
+      Miskolc
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e64facc3-b3ca-53cc-bed2-baba64a85e2e">
+     <sch:identifier>
+      urn:uuid:bf262a6d-e810-460d-9b99-76e792d9129c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:46.815073
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:14:43.885124
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e64facc3-b3ca-53cc-bed2-baba64a85e2e" when="2021-12-14T15:30:46.815073">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Érdekvédelmi képzést tartottunk Miskolcon
+   </head>
+   <p>
+    Ez a cikk több mint 6 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     2015. augusztus 14-én és 15-én Miskolcon tartottunk képzést a Miskolcnak Hangja Van! (MHV) nevű civil közéleti és aktivista csoport felkérésére. A képzésről az egyik résztvevő, Csikós Mariann számol be.
+    </hi>
+   </p>
+   <p>
+    Napok teltek el, míg feldolgoztam és utána kipihentem magam a rettenetesen sok információ birtokában, amit az eredetileg 3 naposra tervezett képzés alatt 2 nap alatt sikerült átadni nekünk és mi csak szívtuk magunkba a tudást, mint a szivacs… Felemelő és fergeteges volt. Ha egy mondattal akarnám jellemezni a képzést: olyan közvetlen, barátságos egyedi és egyéni stílusú érthető kommunikáció, amely szokatlan fegyelemmel párosult. A tudatosság meg a szakmai hozzáértés mindvégig jellemezte. Ehhez kapcsolódott a következő meglepetés, ami az irántunk érzett bizalmat fejezte ki: meghívást kaptunk a pár nap múlva megrendezésre kerülő „elvonulásra”. Nem csoda hogy mindez időbe telt, míg feldolgoztam, de a csoportunk többi tagja is így látta, mert azonnal munkához láttunk.
+   </p>
+   <p>
+    2015. augusztus 17-én – már hétfőn – megtartottuk első csoportgyűlésünket, s azóta a másodikat is. Megegyeztünk, hogy a személyes kapcsolattartás elengedhetetlen. Úgy döntöttünk, hogy ezek a heti gyűlések rendszeresen megtartásra kerülnek és egyelőre nyilvánosak. Ezen túlmenően döntöttünk arról is, hogy havi egyszeri alkalommal egy nagyobb volumenű tájékoztatást tartunk a tagságnak, akik még jelenleg a szimpatizánsaink táborát erősítik. Létrehoztuk az e-mailes levelezőrendszert és egyéb személyi kérdésekben is döntés született, valamint megalakítottuk az első két belső csoportunkat: „Közéleti” és „Karitatív” elnevezésekkel.
+   </p>
+   <p>
+    A legfontosabb és legelső döntést is meghoztuk, ami a csoport működésének további szempontjából igen meghatározó: MINDENKIVEL együttműködni és senkit nem elutasítani. Azóta is ennek szellemében dolgozunk és keressük a szövetségeseket, mert ugye itt egy speciális helyzet adódott Miskolcon: az érintettek segítik az érintetteket, úgyhogy jogászok és szakemberek után kell néznünk, hogy munkánkat maradéktalanul el tudjuk látni és a támadási felületeket csökkentsük, valamint a hatásfok növelése érdekében sem elhanyagolható szempont.
+   </p>
+   <p>
+    A jegyzeteinkből és az AVM-től kapott agyagokból igyekszünk a többiekkel is megértetni és elfogadtatni a tudatosság és elhivatottság fontosságát, mindemellett folytatjuk a karitatív tevékenységünket is. Megpróbáljuk a feladatokat leosztani és az egyenlőséget és egyensúlyt megtartani. A demokráciát még gyakorolni kell és van még sok minden, amit tanulnunk és pótolnunk kell.
+   </p>
+   <p>
+    Magyarázatra szorulhat a 3 nap 2 napra csökkenése, de ez a helyi sajátosságokból adódott. Mindkettőnk – AVM és MHV – részéről egyetértettünk abban, hogy a „mégérintettebbek”, azaz a szó szerint hajléktalanságban élő emberek jelenléte nélkül is meg kell tartanunk a képzést és majd a mi feladatunk lesz a megtanultak továbbadása, tanítása.
+   </p>
+   <p>
+    Továbbá döntés született azzal kapcsolatosan is, hogy nem alakulunk szervezetté, de szervezetten/tudatosan kell cselekednünk és közösséget építenünk. Így is megtaláljuk a módját a támogatások fogadására, ami még egyelőre várat magára, de ez az irány is megmozdult. Felkeressük a mégérintettebeket, akiket eddig nem kerestünk (például az utcán és kunyhóban élő embereket). Ez egy újabb helyi sajátosság, hiszen ezek az emberek „láthatatlanok” itt Észak-Magyarországon (Borsodban, Miskolcon).
+   </p>
+   <p>
+    A helyi viszonyoknak megfelelően igyekszünk követni az AVM stratégiáját, strukturális felépítését és iránymutatásait. Számítunk továbbra is Rátok és lehetőségeinkhez mérten részt veszünk a budapesti képzéseken is. Természetesen várunk vissza Benneteket, hogy közösen folytathassuk azt, amit együtt elkezdtünk.
+   </p>
+   <p>
+    Miskolc, 2015. szeptember 1.                                               Csikós Mariann
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

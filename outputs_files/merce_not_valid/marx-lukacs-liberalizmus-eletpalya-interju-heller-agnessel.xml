@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Marx, Lukács, liberalizmus – életpálya-interjú Heller Ágnessel
+    </title>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     365a6812-25ca-5ce1-84de-b2c5f2bdfe3c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Marx, Lukács, liberalizmus – életpálya-interjú Heller Ágnessel
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-20T22:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/20/marx-lukacs-liberalizmus-eletpalya-interju-heller-agnessel/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/20/marx-lukacs-liberalizmus-eletpalya-interju-heller-agnessel/
+     </sch:url>
+     <sch:name>
+      Marx, Lukács, liberalizmus – életpálya-interjú Heller Ágnessel
+     </sch:name>
+     <sch:datePublished>
+      2019-07-20T22:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Új Egyenlőség
+     </sch:keywords>
+     <sch:keywords>
+      heller ágnes
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="365a6812-25ca-5ce1-84de-b2c5f2bdfe3c">
+     <sch:identifier>
+      urn:uuid:fed6c6df-ea3a-468d-9e86-4da5c98e2732
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:51.341871
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:40:16.592966
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="365a6812-25ca-5ce1-84de-b2c5f2bdfe3c" when="2021-12-14T15:30:51.341871">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Marx, Lukács, liberalizmus – életpálya-interjú Heller Ágnessel
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Heller Ágnes filozófus az egyik legismertebb magyar szerte a világban. Lukács György tanítványa, az úgynevezett Budapesti Iskola tagja volt, és már fiatalkori marxiánus műveivel ismertséget szerzett magának a nyugati baloldalon. 1977 után azonban kényszerből nyugaton folytatta pályáját, és eltávolodott a marxizmustól.
+    </hi>
+   </p>
+   <p>
+    Pogátsa Zoltán, az Új egyenlőség főszerkesztője 2017-ben készített életútinterjút
+    a tegnap elhunyt
+    Heller Ágnessel. Ennek újraközlésével emlékezünk a filozófusra.
+   </p>
+   <p>
+    Ennek a szövegnek az eredeti változata az Új Egyenlőség oldalán jelent meg.
+   </p>
+   <p>
+    Az
+    Új Egyenlőség
+    rendszeresen közöl olyan társadalom-, politika-, gazdaságelméleti írásokat, amelyek hasznos szempontokat, kereteket nyújtanak a közéleti gondolkodáshoz, vitákhoz. A lap öndefiníciója szerint „a gazdasági demokrácia alapértékeit – egyenlőség, szabadság, igazságosság és szolidaritás – képviseli”. A Mérce – az Új Egyenlőség szerkesztőivel egyeztetve, olykor szerkesztve – rendszeresen közli újra a magazin szövegeit.
+   </p>
+   <p>
+    Mi abból a szemszögből beszélgettünk vele, hogy mit gondol mai fejjel Marxról, illetve a kapitalizmus igazságtalanságairól. A következők derültek ki:
+   </p>
+   <list>
+    <item>
+     A filozófiába Lukács György egyik előadásán szerelmesedett bele 1947-ben, de még évekig nem olvasott Marxot. Sőt, elmesélése szerint ironikus módon a Rákosi-korszakban nem is nagyon lehetett Marxot eredetiben olvasni, csakis azokat a szövegrészeket, amiket a párt közzé kívánt tenni.
+    </item>
+    <item>
+     Igazán elmélyülni Marxban csak 1953-ban tudott, és nagyon imponált neki az elidegenedés kritikája, azaz hogy az ember a kapitalizmusban nem érzi magáénak a munkáját és annak termékét. Marx szerinte ehelyett egy utópiát ígér, ahol megszűnik a munka a szó hagyományos értelmében. Hellernek az idő tájt nagyon vonzó volt ez a kép, mert szabadságfilozófiának érezte, később azonban ugyanolyan megvalósíthatatlan utópiának érezte ezt, mint bármely más utópiát. Az ember szerinte mindig minden civilizációban rosszul érzi magát.
+    </item>
+    <item>
+     Hogy Hellert pont ez fogta meg Marxból, az azért is izgalmas, mert állítása szerint egészen későig nem olvasta gurujának, Lukács Györgynek fő művét, a
+     <hi>
+      Történelem és osztálytudat
+     </hi>
+     ot, amelyben pontosan ezekkel a kérdésekkel foglalkozik. Ezt a művet ő lényegében már csak Ausztráliában olvasta, amikor már nem volt rá nagy hatással! Ennek fő oka az volt, hogy Lukács nem szerette ezt a művet, ami miatt első sorban számon tartják nemzetközileg, ezért diákjai körében sem erőltette. Heller szerint egyébként ez Lukács egyetlen igazán marxiánusnak tekinthető műve.
+    </item>
+    <item>
+     Heller szerint a Budapesti Iskola elsősorban szellemi barátságokról szólt. Mai fejjel úgy látja, bizony magukat tartották egyedül a szellem embereinek az országban. Izoláltak is voltak a magyar szellemi élettől, ezt talán hiba is volt szerinte. Mindenki másfajta filozófiával foglalkozott annak ellenére, hogy Lukács programja a marxi életmű egyfajta újrafogalmazása lett volna.
+    </item>
+    <item>
+     Ebből az időszakból Hellernek a legnépszerűbb könyve a
+     <hi>
+      Mindennapi élet
+     </hi>
+     , amit azonban ő maga nem érez a legjobb könyvének. Ez a könyv úgy marxiánus szerinte, hogy közben nem ismeri el a termelés paradigmáját, azaz hogy a termelőeszközökhöz fűződő viszont határozná meg a társadalmi struktúrát.
+    </item>
+    <item>
+     A
+     <hi>
+      Reneszánsz ember
+     </hi>
+     szintén népszerű, és szereti is.
+    </item>
+    <item>
+     Az
+     <hi>
+      Érzelemelmélet
+     </hi>
+     című könyvben már nincs semmi marxizmus.
+    </item>
+    <item>
+     Legfontosabb műnek mégis az
+     <hi>
+      Etika trilógiát
+     </hi>
+     tartja
+     <hi>
+      .
+     </hi>
+    </item>
+    <item>
+     Nyugaton talán a legnépszerűbb a
+     <hi>
+      Marx szükségletelmélete
+     </hi>
+     lett. De nyugaton már korán ismerték a
+     <hi>
+      Mindennapi élet
+     </hi>
+     et, a
+     <hi>
+      Reneszánsz ember
+     </hi>
+     t és az
+     <hi>
+      Etika
+     </hi>
+     trilógiát is.
+    </item>
+    <item>
+     Heller szerint olyat nem tudunk mondani, hogy egy társadalom abszolút igazságos lenne, de olyat igen, hogy az egyik társadalom igazságosabb, mint a másik, főleg, ha lebontjuk intézményekre.
+    </item>
+    <item>
+     Heller szerint ha a kapitalizmus megszűnne, az emberek 9/10-e elhalálozna.
+    </item>
+    <item>
+     A kapitalizmus persze nem járhat egyedül. A piaci által termelt igazságtalanságokat és egyenlőtlenségeket az állami újraelosztásnak kell ellensúlyoznia. Ehhez azonban demokrácia kell, mert ahol nincs demokrácia, ott az újraelosztás tovább rontja és nem pedig ellensúlyozza a piaci egyenlőtlenségeket és igazságtalanságokat.
+    </item>
+    <item>
+     Heller azzal is egyetért, hogy a demokráciához is szükségeltetik az újraelosztás, hiszen e nélkül nincs elég széles támogatottsága. Azaz a két folyamat között kölcsönhatás van.
+    </item>
+    <item>
+     Nyugati filozófiai irodalmat a Kádár rendszerben a háború előtti kiadásokból lehetett beszerezni, antikváriumokból.
+    </item>
+    <item>
+     1956 felszabadító érzés volt intellektuálisan. Innentől már volt hajlandó tovább hallgatni.
+    </item>
+    <item>
+     Szerinte Kádár gyilkos volt, és a gyilkosságnál nincs rosszabb. Nincs értelme Kádárt Rákosival hasonlítgatni, mindkettő gyilkos.
+    </item>
+    <item>
+     Amerikába pont Reagan neoliberális korszakában érkezett, ami szerinte Clinton alatt is folytatódott. Ez alatt sokat romlottak a mobilitási esélyek, és ez nagyon nagy baj! Még a nyolcvanas években is ingyenes volt minden állami egyetem, ma nem tudják a tandíjat megfizetni. Trump ennek köszönheti a megválasztását.
+    </item>
+    <item>
+     1990 és 2010 között ugyanez volt a probléma Magyarországon is. A szabadságot ajándékba kaptuk, nem kellett érte harcolni.
+    </item>
+    <item>
+     A parlamentarizmus és a demokrácia intézményei rendesen meg voltak Magyarországon, de a hétköznapi emberek aktivizmusa nem volt elégséges. Az ő bevonásukért a politikai elit nem tett szinte semmit, kivéve a Fideszt, amely megcsinálta a polgári köröket. A liberálisoknak a rendszerváltás környékén voltak liberális körei, de ezek elhaltak. A liberális pártvezetés Heller szerint nem törődött a vidéki tagsággal.
+    </item>
+    <item>
+     Amikor azt mondta, hogy a privatizáció eredeti tőkefelhalmozáshoz vezet, a barátai úgy reagáltak: ahhoz az kell, hogy a piac beinduljon. Ehhez képest a húsz év alatt Magyarországon Heller szerint soha nem volt szabad piac!
+    </item>
+    <item>
+     A tömegtársadalmakban óhatatlanul minden párt populista.
+    </item>
+    <item>
+     Az egymást követő kormányok nem tudták, hogy milyen országokat kormányoznak.
+    </item>
+    <item>
+     A társadalmi normákat meg lehet változtatni új és megfelelő intézményekkel. A politikai elitnek feladata lett volna, hogy lehetőséget teremtsen a magyarok felelősségvállalására.
+    </item>
+   </list>
+  </body>
+ </text>
+</TEI>

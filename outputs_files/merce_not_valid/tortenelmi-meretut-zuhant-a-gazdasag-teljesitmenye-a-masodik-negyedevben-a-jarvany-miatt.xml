@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Történelmi méretűt zuhant a gazdaság teljesítménye a második negyedévben a járvány miatt
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     20fc7787-98ca-5fb6-ae0d-38b71c35b9aa
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Történelmi méretűt zuhant a gazdaság teljesítménye a második negyedévben a járvány miatt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-08-14T12:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/08/14/tortenelmi-meretut-zuhant-a-gazdasag-teljesitmenye-a-masodik-negyedevben-a-jarvany-miatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/08/14/tortenelmi-meretut-zuhant-a-gazdasag-teljesitmenye-a-masodik-negyedevben-a-jarvany-miatt/
+     </sch:url>
+     <sch:name>
+      Történelmi méretűt zuhant a gazdaság teljesítménye a második negyedévben a járvány miatt
+     </sch:name>
+     <sch:datePublished>
+      2020-08-14T12:30:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      gazdaság
+     </sch:keywords>
+     <sch:keywords>
+      válság
+     </sch:keywords>
+     <sch:keywords>
+      GDP
+     </sch:keywords>
+     <sch:keywords>
+      recesszió
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="20fc7787-98ca-5fb6-ae0d-38b71c35b9aa">
+     <sch:identifier>
+      urn:uuid:317fed7d-6068-47d7-832a-92841682522d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:29.695034
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:21:17.620907
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="20fc7787-98ca-5fb6-ae0d-38b71c35b9aa" when="2021-12-14T15:30:29.695034">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Történelmi méretűt zuhant a gazdaság teljesítménye a második negyedévben a járvány miatt
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Magyarország bruttó hazai terméke 2020 II. negyedévében a nyers adatok szerint 13,6, a szezonálisan és naptárhatással kiigazított és kiegyensúlyozott adatok szerint 13,5%-kal csökkent az előző év azonos időszakához viszonyítva – közölte a Központi Statisztikai Hivatal pénteki gyorsjelentésében.
+   </p>
+   <p>
+    Az első félévre vetítve pedig ez azt jelenti, hogy 6,1%-kal csökkent a GDP a nyers adatok szerint.
+   </p>
+   <p>
+    Az előző negyedévhez mérten 14,5 százalékkal csökkent a bruttó hazai termék volumene 2020 második negyedévében a szezonálisan és naptárhatással kiigazított és kiegyensúlyozott adatok szerint. Mint a Portfolio elemzése is
+    rámutat
+    ,
+   </p>
+   <p rend="head">
+    ez mind az éves, mint a negyedéves index történelmi rekordot jelent, amióta ugyanis a magyar gazdaság teljesítményét negyedéves frekvencián mérik, sosem zuhant ekkorát a teljesítménye.
+   </p>
+   <p>
+    A mai adat azt is jelenti, hogy Magyarország technikailag recesszióba került, hiszen két egymást követő negyedévben csökkent a GDP-je.
+   </p>
+   <p>
+    A GDP volumenváltozása az előző év azonos negyedévéhez képest. Forrás: KSH.hu
+   </p>
+   <p>
+    A KSH egyúttal jelezte azt is: a járvány miatt kialakult rendkívüli helyzet a gazdaságban olyan gyors változásokat eredményezett, amelyek az adatminőségre, a becslési módszerek eredményességére és a szezonalitásra egyaránt hatással vannak, ezeken keresztül a szokásosnál jelentősebb mértékben befolyásolhatják a jövőbeli revíziók nagyságát.
+   </p>
+   <p>
+    Az idei első negyedévben még a GDP a nyers adatok szerint 2,2 százalékkal, a szezonálisan és naptárhatással kiigazított és kiegyensúlyozott adatok szerint 2,0 százalékkal nőtt az előző év azonos időszakához viszonyítva.
+   </p>
+   <p>
+    A GDP idei második negyedévi részletes adatait szeptember elsején teszi közzé második becslésében a KSH, míg a gazdaság idei harmadik negyedévi teljesítményéről november 13-án közölnek adatot.
+   </p>
+   <p>
+    Szintén a Portfolio mutat rá, hogy a kiigazítatlan GDP-növekedési adat -13,6%, az erre vonatkozó előzetes várakozások konszenzusa -10,7% volt,
+    vagyis a várakozásoknál nagyobb
+    lett a gazdasági teljesítmény zuhanása.
+   </p>
+   <p>
+    A KSH az első becslésekor nem közöl részletes adatokat, így pontosan még nem látni, hogy az egyes területen milyen részt vállaltak a méretes esésből. A hivatal értékelésében mindössze annyi áll, hogy „a koronavírus okozta járvány miatt kialakult rendkívüli helyzet hatására a legtöbb nemzetgazdasági ág termelése visszaesett, a szolgáltatások és az ipar egyaránt nagymértékben hozzájárultak a gazdasági teljesítmény alakulásához”.
+   </p>
+   <p>
+    A GDP bezuhanásának már számos előjele volt: a márciusban már kis mértékben ható koronavírus-sokk áprilisban erősödött fel igazán, és rá is nyomta a bélyegét a második negyedéves teljesítményre. Ezt mutatta az is, hogy 30 százalékot zuhant az ipari termelés májusban, ami nagyobb volt mint a 2009-es válságban tapasztalt.
+   </p>
+   <p>
+    Májusban
+    írt a Mérce hasábjain Büttl Ferenc közgazdász arról
+    , hogy a gazdaság újraindulása csak lassú, fokozatos és részleges lehet és lesz, így a 2020-as hazai gazdasági visszaesés (recesszió) bekövetkezése bizonyos, csupán a mértéke kérdéses.
+   </p>
+   <p>
+    A múlt héten írtunk arról, hogy másik makromutatót is padlóra küldött  válság:
+    soha nem látott méretűre nőtt az államháztartási hiány
+    Magyarországon, miután a júliusi hiány 328 milliárdra rúgott, a héthavi hiány elérte a 2165 milliárd forintot, ami szintén rekordnak számít.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az Amazon egyik rakodómunkásának öngyilkossága rávilágított az óriáscégen belüli elviselhetetlen munkakörülményekre
+    </title>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ad7e64e6-47cc-5311-8d5b-0cc63657c5e4
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az Amazon egyik rakodómunkásának öngyilkossága rávilágított az óriáscégen belüli elviselhetetlen munkakörülményekre
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-03-06T14:09:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/03/06/az-amazon-egyik-rakodomunkasanak-ongyilkossaga-ravilagitott-az-oriascegen-beluli-elviselhetetlen-munkakorulmenyekre/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/03/06/az-amazon-egyik-rakodomunkasanak-ongyilkossaga-ravilagitott-az-oriascegen-beluli-elviselhetetlen-munkakorulmenyekre/
+     </sch:url>
+     <sch:name>
+      Az Amazon egyik rakodómunkásának öngyilkossága rávilágított az óriáscégen belüli elviselhetetlen munkakörülményekre
+     </sch:name>
+     <sch:datePublished>
+      2021-03-06T14:09:00
+     </sch:datePublished>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      kizsákmányolás
+     </sch:keywords>
+     <sch:keywords>
+      amazon
+     </sch:keywords>
+     <sch:keywords>
+      öngyilkosság
+     </sch:keywords>
+     <sch:keywords>
+      munkakörülmények
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ad7e64e6-47cc-5311-8d5b-0cc63657c5e4">
+     <sch:identifier>
+      urn:uuid:42160b97-feeb-47a5-9e40-33cc12e362b5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.017024
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:42:01.580908
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ad7e64e6-47cc-5311-8d5b-0cc63657c5e4" when="2021-12-14T15:30:52.017024">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az Amazon egyik rakodómunkásának öngyilkossága rávilágított az óriáscégen belüli elviselhetetlen munkakörülményekre
+   </head>
+   <p>
+    Március 1-jén, hétfőn reggel 7 óra körül Paul Vilscek, az Amazon munkatársa öngyilkosságot követett el a cégóriás Las Vegas-i logisztikai központjában. A 48 éves munkás a raktár belsejében lévő negyedik emeleti magasföldszintről vetette le magát a munkatársai szeme láttára.
+   </p>
+   <p>
+    Ennek ellenére az Amazon menedzsmentje tíz óráig a munkahelyen tartotta a dolgozókat, majd csak ezután küldték őket haza –
+    írja a WSWS híroldal
+    .
+   </p>
+   <p rend="head">
+    Az egyik munkás így nyilatkozott a
+    <hi>
+     Reddit
+    </hi>
+    nek: „Közel három órát vett igénybe annak a belátása, hogy szüneteljen a munka azon a helyszínen, ahol az egyik munkatársunk éppen meghalt.” Ugyanakkor a munkásokat másnap reggelre ismét munkába szóltották, mintha mi sem történt volna.
+   </p>
+   <p>
+    Miután a médiában az terjedt el, hogy „pusztán balesetről” van szó, a Clark megyei halottkém a helyi televízió kamerái elé állt, s bejelentette, hogy semmiféle balesetről sincsen szó, Paul Vilscek öngyilkosságot követett el.
+   </p>
+   <p>
+    A bejelentés után a Las Vegas-i logisztikai központ két dolgozója névtelenül nyilatkozott az
+    <hi>
+     International Amazon Workers Voice (IAWV)
+    </hi>
+    lapnak azokról a körülményekről, amelyek Paul Vilscek halálához vezethettek.
+   </p>
+   <p>
+    Az egyikük arról számolt be, hogy „Paul barátságos ember volt, igazi fecsegő”, aki minden munkaterületen megállta a helyét: csomagokat rakodott, kivette a részét a raktározásból és a számlázásból, a keletkezett károk felmérésében is részt vett, szállítmányozási feladatokat vállalt.
+   </p>
+   <p>
+    A munkatársa nézete szerint a halálához azok a körülmények vezettek, amelyeket minden Amazon-munkásnak el kell szenvednie. A menedzsment nem foglalkozik a munkások mentális életével, „fel sem merül, hogy a stresszel és a munkások szorongásával” bármit is kezdeniük kellene.
+   </p>
+   <p rend="head">
+    „Az öngyilkossági gondolatok” éppen úgy köröznek a munkások fejében, mint a kézbesítendő dobozok az egész központot behálózó futószalagon a fejük felett.
+   </p>
+   <p>
+    Egy másik Las Vegas-i dolgozó elmagyarázta a lapnak, hogy ő még soha életében nem találkozott olyan foglalkoztatóval, amelyet ennyire hidegen hagynának a munkásai. „Véleményem szerint annak szegény embernek az esetében, aki a logisztikai központban meghalt, ugyanazok a problémák merültek fel, mint mindannyiunknál: senki sem támogatja a munkahelyén, s azt a kevéske szabadidőt is, amelyet kiérdemlünk, ellenünk fordítják például a munkakövetelmények folyamatos emelésével” – nyilatkozta a munkás, akit a lelki problémái – poszttraumás stressz, szorongás, depresszió – miatt rövid időre szabadságoltak.
+   </p>
+   <p rend="head">
+    Beszámolt arról is, hogy a szabadságlevele átvételekor a tudomására hozták, hogy a kieső munkaórák miatt annak a listának az elejére került, amely a következő leépítéskor elbocsátandó munkások nevét tartalmazza.
+   </p>
+   <p>
+    A lapban megjelent nyilatkozatok után a közösségi médiákat elöntötték az Amazon munkásainak bejegyzései. Az egyikük azt írta a Redditen, hogy:
+   </p>
+   <p>
+    „3 évig dolgoztam az Amazon egyik raktárában. Ez idő alatt többször is elgondolkodtam a negyedik emeleten… Csak attól féltem, hogy nem lett volna elég magas.”
+   </p>
+   <p>
+    Egy másik bejegyzés arról szól, hogy az Amazon raktárai a börtönökhöz hasonlóak. „A tíz- és tizenegyes órás műszakot csak két 15 perces szünet szakítja meg. De valójában ezek sem tartanak 15 percig, hiszen míg az étkezdébe vagy a szabad levegőre jutok, eltelik 5-5 perc. Két hétig bírtam.”
+   </p>
+   <p>
+    Az Amazon egyre kegyetlenebb feltételek elé állítja a munkásait.
+   </p>
+   <p>
+    Az
+    Amazon chicagói raktárának dolgozóit például január 25-én állították nehéz választás elé
+    : vagy 10 és fél órás műszakokban dolgoznak hajlani fél kettőtől délig, vagy elveszítik a munkájukat.
+   </p>
+   <p>
+    Eközben
+    a cég újabb fejlesztéseken dolgozik
+    : nem csak az utat, de a sofőrfülkét is megfigyelő, és a vezetőt mesterséges intelligencia segítségével folyamatosan figyelmeztető biztonsági kamerás rendszert telepítenek a szállítmányozó furgonokba.
+   </p>
+   <p>
+    A
+    <hi>
+     The Daily Beast
+    </hi>
+    összeállítása szerint 2013 és 2018 között 189 öngyilkossági kísérlet történt az Amazon áruházaiban.
+   </p>
+   <p>
+    (World Socialist Web Site, Mérce)
+    Ha úgy érzed, segítségre van szükséged, tárcsázd a telefonos lelki elsősegély-szolgálatot a
+    116-123
+    számon, ami éjjel-nappal ingyenesen hívható! És
+    olvasd el ezt az oldalt
+    !
+   </p>
+   <p>
+    Ha másért aggódsz,
+    ezt az oldalt
+    nézd meg.
+   </p>
+  </body>
+ </text>
+</TEI>

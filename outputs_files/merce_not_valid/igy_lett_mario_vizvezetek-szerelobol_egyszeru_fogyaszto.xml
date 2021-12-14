@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Így lett Mario vízvezeték-szerelőből egyszerű fogyasztó
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     99ac86a2-46f0-526d-b54f-491675e78b46
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Így lett Mario vízvezeték-szerelőből egyszerű fogyasztó
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-09-14T09:55:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/09/14/igy_lett_mario_vizvezetek-szerelobol_egyszeru_fogyaszto/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/09/14/igy_lett_mario_vizvezetek-szerelobol_egyszeru_fogyaszto/
+     </sch:url>
+     <sch:name>
+      Így lett Mario vízvezeték-szerelőből egyszerű fogyasztó
+     </sch:name>
+     <sch:datePublished>
+      2017-09-14T09:55:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      munka
+     </sch:keywords>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      kizsákmányolás
+     </sch:keywords>
+     <sch:keywords>
+      neoliberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      munkás
+     </sch:keywords>
+     <sch:keywords>
+      prekariátus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="99ac86a2-46f0-526d-b54f-491675e78b46">
+     <sch:identifier>
+      urn:uuid:023d4a77-98de-4d93-afd6-59057e637059
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:07.160497
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:32:34.705547
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="99ac86a2-46f0-526d-b54f-491675e78b46" when="2021-12-14T15:31:07.160497">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Így lett Mario vízvezeték-szerelőből egyszerű fogyasztó
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+    <hi>
+     „Itt élünk mi! Idegünk rángó háló,
+    </hi>
+    <hi>
+     vergődik benn’ a mult sikos hala.
+    </hi>
+    <hi>
+     A munkabér, a munkaerő ára,
+    </hi>
+    <hi>
+     cincog zsebünkben, úgy megyünk haza.
+    </hi>
+    <hi>
+     Ujságpapír az asztalon kenyérrel
+    </hi>
+    <hi>
+     s az ujságban, hogy szabadok vagyunk –
+    </hi>
+    <hi>
+     poloskát űzünk lámpával s a kéjjel
+    </hi>
+    <hi>
+     s két deci fröccsel becsüljük magunk’.”
+    </hi>
+    – József Attila: Munkások (részlet)
+   </p>
+   <p>
+    A kiszolgáltatottság sokáig kéz a kézben járt a munkássággal, ahogy József Attilánál is 1931-es versében. A kékgallérosok élete a
+    <hi>
+     vasbányák fuvallata
+    </hi>
+    , a
+    <hi>
+     gép rugdallása
+    </hi>
+    , a
+    <hi>
+     lendkerék szijja
+    </hi>
+    , és a
+    <hi>
+     sivalkodó transzformátorok
+    </hi>
+    volt.
+    <hi>
+     Itt élünk mi
+    </hi>
+    – mondja József Attila –
+    <hi>
+     a munkabér, a munkaerő ára, cincog zsebünkben s két deci fröccsel becsüljük magunk
+    </hi>
+    .
+   </p>
+   <p>
+    Míg a fenti képzettársítás és szituáció elkopott a mindennapok szeme elől, az első versszakban megjelenő helyzet nem.
+    <hi>
+     Kis, búvó országokra rálehel / a tátott tőke sárga szája
+    </hi>
+    és a kiszolgáltatottság már nem csak a fentebb megjelenített munkásság osztályrésze. A kékgallérosok számaránya évtizedek óta csökken a foglalkoztatottak számához viszonyítva. Jelentőségük olyannyira halványul a mindennapokban, hogy az a világ legnagyobb példányszámban eladott videójáték-sorozatának főszereplőjére, Marióra is
+    kihatott
+    .
+   </p>
+   <p>
+    Az 1981-es első megjelenésekor még ácsként, aztán 1983-tól kezdve vízvezeték-szerelőként elhíresült Mario sem dolgozik többé szakmájában, sőt egyáltalán nem kapott munkát készítőitől. Megálmodója, Shigeru Miyamoto úgy nyilatkozott, hogy a játékszituáció teremti Mariót és „együtt változik és fejlődik a digitális technológiával. A technológiai újítások izgalmas újdonságokat nyújtanak és amikor arra eszmélsz, hogy népszerűvé válnak, Mario követi őket. Ezért egyszerre ismerős és friss a karaktere, hiszen a technológia fejlődésével újabb és újabb dolgokra lesz képes.”
+   </p>
+   <p>
+    Akárcsak a munkásosztály esetében, itt is a technológiai fejlődés állt a változás középpontjában; a proletariátus helyét az úgynevezett prekárok veszik át napjaink szakirodalmában és online publicisztikáiban. Már elnevezésük is a léthelyzetükkel van összefüggésben.
+   </p>
+   <p rend="head">
+    A prekaritás biztonsághiányból fakadó bizonytalanság, kiszolgáltatottság, átmenetiség, kétség, jelentésekkel bír. Ebből következően „tagjai” egyáltalán nem, vagy elhanyagolható mértékű megtakarítással rendelkeznek, foglalkoztatásuk bizonytalan (diákmunkás, idénymunkás, vagy  feketén foglalkoztatott) és/vagy alulfizetett. Többek között ezekből következően élnek védtelenül, kiszolgáltatottan, bizonytalanságban.
+   </p>
+   <p>
+    Prekársorba kerülhet (és tartozik) a hétköznapi értelemben vett munkásság nagy része is, de fontos kiemelni, a kiszolgáltatott létbizonytalanság nem csak az ő osztályrészük, ezért gyártanak a jelenség köré a szociológiában egy teljesen újszerű fogalomkészletet.
+    <hi>
+     (Bővebben a
+     prekariátusról
+     és az
+     osztályokról
+     )
+    </hi>
+   </p>
+   <p rend="head">
+    Mi történt a munkásosztállyal?
+   </p>
+   <p>
+    A nyugati centrumországokban, a második világháborút követően kialakult jóléti állami modelleknek köszönhetően csökkentek az egyenlőtlenségek, univerzálissá vált a szociális és (munka)jogi biztonság is. A szociális hálót bővítő-fenntartó, a piacot szabályozó, és a munkavállalókat védő állam azonban a 70-es évektől kezdődően (a politikai rendszer ellenpólusaként is működő „keleti blokk” válságba sodródásával párhuzamosan) elkezdett visszavonulni és
+    neoliberális
+    politikát gyakorolni.
+   </p>
+   <p>
+    Ezt a politikát nem csak a jobboldali/konzervatív pártok éltették, például amerikai republikánus és brit konzervatív kormányzatok (mint a Reagan- vagy a Thatcher-adminisztráció), hanem az őket követő demokrata és munkáspárti vezetők is: az USA-ban Clinton, a briteknél Blair és Brown. Továbbá nem demokratikus rezsimek is alkalmazták, mint Chilében Pinochet és Argentínában Videla.
+   </p>
+   <p>
+    Az 1970-es években meglendülő (és az addigra kialakult) neoliberális fordulat okai azonban főként a termelési tényezők és a munkaszervezés változásában keresendők. A fordista sorozatgyártás a második világháború befejeződésével újraszervezésre szorult. A változatos fogyasztói igények kielégítésére helyeződött a hangsúly, ennek eredményeképp jött létre az ún. posztfordista rugalmas specializáció (szakosodás), melyben a gyártósorok a változó fogyasztói igényekhez igazodnak alacsony átállási és fejlesztési időkkel. A megváltozott termelés pedig megváltozott igényeket támaszt mind a vállalatok, mind a munkavállalók irányába: a decentralizált vállalatszervezés, valamint a növekvő munkavállalói képzettségi szint is elengedhetetlenné válik a digitalizáció mellett.
+   </p>
+   <p rend="head">
+    A foglalkoztatott munkások száma e második világháború utáni,
+    posztfordista fordulat következményeképp
+    a 2000-es évekig (példának véve az USA-t) nem változott számottevő mértékben, vagy trendszerűen, azonban arányuk a foglalkoztatottak körében folyamatosan csökkent.
+   </p>
+   <p>
+    A kékgallérosok feldolgozóipari jelenléte a második világháború végén még 35% körül volt, mely már 1962-re 27,8%-ra apadt és azóta tovább esett 8.7%-ig. Közben számuk időszakos, közel egymilliós ingadozások után 2001-től kezdve abszolút értékben is beszakadóban, jelenlétük a foglalkoztatottság egészét tekintve pedig továbbra is folyamatos csökkenésben van.
+   </p>
+   <p>
+    Ezen látszólagos stagnálás-csökkenés mellett azonban a feldolgozóiparban foglalkoztatottakra jutó kibocsátás egyre magasabbra szökött: 1950-től 1976-ig a 19 500 dollár megduplázódott ($38 500), majd ez 1997-ig újból ($74 400) és 2011-ig még egyszer ($152 800). Ez azt jelenti, hogy az átlag amerikai munkás több értéket termel meg ma egy óra alatt, mint elődei 1947-ben közel 10 óra alatt.
+   </p>
+   <p rend="head">
+    A 70-es évekig az egy dolgozóra jutó kibocsátás és a bérek elfogadhatóan követték egymást. A folyamat azonban az 1970-es évek elején szinte teljesen megakadt és a bérek növekedése azóta is messze elmarad, szinte stagnál a termelékenység bővüléséhez képest.
+   </p>
+   <p rend="head">
+    De Mario és Luigi vállalkozhattak is
+   </p>
+   <p>
+    Eddig feltételeztem Mario munkabér jellegű foglalkoztatottságát, ezért esett annyi szó azokról, akiket következetesen munkásoknak nevezünk a hétköznapokban. Azonban a prekaritás pontosan arról szól, hogy nem csak a tradicionálisan ipari foglalkoztatott emberek mindennapjai küzdelmesek, nem csak ők lehetnek és vannak kiszolgáltatott helyzetben.
+   </p>
+   <p>
+    Mivel a dolgozók egyre kisebb aránya kerül az iparba (értelemszerűen az agrárjellegű munkavégzés pedig már jóval korábban visszaszorult), így a létbizonytalanság problematikája új csoportnál koncentrálódik, akárcsak a munkavállalásé, és eltolódik a szolgáltatói szektor felé. Különösebb tekintet nélkül végzettségre, életkorra, hiszen a prekaritás növekedése azért következhetett be, mert a lezajlott politikai-gazdasági folyamatok eredményeként a jóléti államok ellátórendszerei leépültek, továbbá folyamatosan gyengülnek a munkavállalói jogok, teret nyernek a tőkés osztály diktátumai és az élet apró mozzanatai is kiszolgáltatódnak a piaci logikának és fogyasztási kényszernek.
+   </p>
+   <p>
+    A kizsákmányolás nem csak füstös gyárkémények tövében zajlik. A megújuló termelési tényezőket felismerve és kihasználva a tőke birtokosai, mint minden kínálkozó lehetőségkor, korlátlan uralomra kívánnak törni, pozícióikat és profitjukat biztosítva, bővítve. E multinacionális vállalatok nem csak a munkaidőnk felett rendelkeznek, hanem piaci terjeszkedésük, szolgáltatásaik bővítése által életünk minden apró mozzanatába bejárást vívnak ki.
+   </p>
+   <p rend="head">
+    Ezekben a szolgáltatásokban kényelemért, szórakozásért, használatért cserébe a fogyasztók idővel maguk is eszközzé válnak a termelésben, őket magukat (adataikat) értékesítik például hirdetőknek. Ezen folyamatok következményeképp fordulhatott elő az is, hogy Marióból, egy vízvezeték-szerelőből mára „egyszerű” fogyasztó válhatott, aki teniszezik, focizik és autóversenyezik.
+   </p>
+   <p rend="head">
+    Felzárkózás a nyugathoz
+   </p>
+   <p>
+    Hazánkba az egész folyamat megkésve és felemásan gyűrűzött be a modernizációs kényszerek hátán. Magyarország az 1949-es évvel kezdődő államkapitalista társadalomszervezésig agrárjelleget öltött. Csak a tervutasítások erőltetett iparosításával kovácsoltak belőle Laki László szavaival élve: „kvázi fejlett” indusztriális társadalmat, ezt pedig 1989-ben a nemzetközi piac közreműködésével egy ún. „félperifériás újkapitalista posztindusztriális társadalomra” cserélték. Ebben a Laki által alkotott elnevezésben egyszerre sűrűsödik az új társadalom-, és társadalompolitika-szervezésben rejlő modernizációs kényszer (félperifériás) és a neoliberális (újkapitalista) jelleg.
+   </p>
+   <p>
+    Azonban a hazai prekár probléma és a posztindusztriális társadalom hátterében nem azok a folyamatok állnak, mint a korábban látott nyugati példa mögött.
+   </p>
+   <p rend="head">
+    Az USA foglalkoztatottsági adatait vizsgálva kiviláglik, hogy évtizedeken keresztül egy munkaerőpiaci bővülés történt az országban, melyben az ipari foglalkoztatás eljelentéktelenedett. Ezzel ellentétben hazánkban az ipar és a TSZ-ek összeomlása miatt a foglalkoztatottság zsugorodása figyelhető meg, mely mellett a szolgáltatások növekedése eltörpül.
+   </p>
+   <p>
+    Ennek eredményeként az országban nincs megfelelő, nyugaton ismert vásárlóerő, az általános jólét szintje pedig egyre csökkenőben, a társadalom elszegényedőben, és létének elbizonytalanodásába csúszik, prekarizálódik. Mindezek tetejében még a termelékenység is alacsony (a nyugathoz viszonyítva). A neoliberális gazdaságpolitikától, a privatizációtól és az állami szabályozások leépítésétől az ország gazdaságának fellendülését, az általános jólét növekedését, a nyugati életszínvonal elérését várták a politikusok és hangadó közgazdászok, de cselekedeteik e téren sikertelennek bizonyultak.
+   </p>
+   <p>
+    Hatásukra azonban a tőke monopolizálódó uralma érvényesül. Az állami kivonulás és a tőkés osztály nyomásának következtében folyamatosan csorbulnak a munkavállalói jogok, a szakszervezetek eljelentéktelenednek, a környezetvédelem pedig egy már-már nem létező fogalommá válik, és ez csupán egy hevenyészett válogatás a problémákból.
+   </p>
+   <p>
+    A
+    szocialista
+    szociálliberális és konzervatív kormányok pedig egyaránt a „jól bevált” neoliberális diszciplínákat folytatják, előbbiek pedig úgyszintén elköteleződtek a tőketulajdonosok mellett. Harmadikutas politikájukkal elengedték a munkavállalói küzdelmet, az egyenlő társadalom, valamint a magántulajdon korlátozásának, megszüntetésének eszméjét, a szocialista társadalomba való eljutást. Bár nevükben megtartották a szocialista jelzőt, felvették a liberális párt(ok) programját (szavazóbázisát, tagságát).
+   </p>
+   <p>
+    A felhalmozódó államadósságra szociális és oktatási kiadások csökkentésével válaszolnak, a jelenlegi kormányzat pedig hozzá hű nemzeti tőkésosztályt is teremtett már állami és EU-s pénzek baráti kézbe játszásával. Ezzel kívánják foglyul ejteni az államot, megtartani kormányzó szerepük egy tekintélyelvű korlátozott parlamentarizmusban.
+   </p>
+   <p rend="head">
+    Mik a kitörés lehetőségei?
+   </p>
+   <p>
+    Egy olyan történetiségben, ahol magukra vörösnek látszó felöltőt húztak diktátorok és piaci liberálisok egyaránt, nehéz a jelszavak újrateremtése, de elengedhetetlen. A munkavállalók (nevezzük őket csak munkásoknak!) jogaiért való küzdelmet újra kell kezdeni, melyre az éppen zajló TESCO-sztrájkok ráirányíthatják a figyelmet.
+    A sztrájk nem csak a dolgozók, hanem az egész társadalom ügye.
+    Újra kell teremteni a valódi baloldaliságot Magyarországon.
+   </p>
+   <p>
+    Teremthetünk új fogalmi hátteret egy probléma leírására, mint a prekár-jelenséggel tesszük, de nem szabad elfelejtenünk az elmúlt évszázadokban már megalkotott fogalmainkat és megértéseinket; a prekárok többsége bérmunkából élő
+    <hi>
+     keményen dolgozó kisember
+    </hi>
+    , ebből kifolyólag marxi értelemben vett munkás. Létbiztonságukért, választójogukért, munkavállalói jogaikért küzdeni kell össztársadalmi szinten.
+   </p>
+   <p>
+    A korábbi jóléti államok és a jelenleg is működő skandináv-modell országaiban tapasztalt jólét sem a semmiből, vagy a tőke jóindulatából fakad. Elég csak rátekinteni ezen utóbbi országok szakszervezeti tagállományára és összevetni Magyarországéval vagy a többi OECD országgal.
+   </p>
+   <p>
+    szakszervezeti tagság
+    Infogram
+   </p>
+   <p rend="head">
+    Be kell látni, hogy az elmúlt két évtizedben a kormányzatok által propagált egyéni haszonhajhászás nem vezetett közjólétre, és az országba alacsony munkabérrel való működőtőke csábítás sem teremt vásárlóerőt. Az egyetlen kiút a szolidaritás vállalása egymással, a közösségteremtés, az egymás és a társadalom problémáinak megértése, megoldása közös erővel, az állami-társadalmi szerepvállalás növelése.
+   </p>
+   <p>
+    A baloldaliságot és a magukat baloldalinak valló pártok saját programjukat, nézeteiket nem úgy kell csűrni-csavarniuk, ahogy az éppen aktuális, felhergelt, jobbra tolódott közhangulat fújja – lásd. rendszerváltás utáni állam-félelem, állam-utálat, a szociális ellátások visszavágásának kérdésköre, határkerítés, menekült-befogadás.
+   </p>
+   <p>
+    A baloldaliság már egy önmagában is létező, együttérző gondolkodásmód, amit hirdetni kell.
+   </p>
+   <p>
+    <hi rend="bold">
+     Lipusz Balázs
+    </hi>
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

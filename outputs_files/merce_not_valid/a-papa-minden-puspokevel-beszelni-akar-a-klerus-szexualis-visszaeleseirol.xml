@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A pápa minden püspökével beszélni akar a klérus szexuális visszaéléseiről
+    </title>
+    <author>
+     <persName>
+      Berke Regina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0e7d7cc7-8764-52b4-866a-96b9ca461b16
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A pápa minden püspökével beszélni akar a klérus szexuális visszaéléseiről
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Berke Regina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-09-13T09:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/09/13/a-papa-minden-puspokevel-beszelni-akar-a-klerus-szexualis-visszaeleseirol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/09/13/a-papa-minden-puspokevel-beszelni-akar-a-klerus-szexualis-visszaeleseirol/
+     </sch:url>
+     <sch:name>
+      A pápa minden püspökével beszélni akar a klérus szexuális visszaéléseiről
+     </sch:name>
+     <sch:datePublished>
+      2018-09-13T09:00:00
+     </sch:datePublished>
+     <sch:author>
+      Berke Regina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      szexuális zaklatás
+     </sch:keywords>
+     <sch:keywords>
+      abúzus
+     </sch:keywords>
+     <sch:keywords>
+      katolikus egyház
+     </sch:keywords>
+     <sch:keywords>
+      Ferenc pápa
+     </sch:keywords>
+     <sch:keywords>
+      vatikán
+     </sch:keywords>
+     <sch:keywords>
+      theodore mccarrik
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0e7d7cc7-8764-52b4-866a-96b9ca461b16">
+     <sch:identifier>
+      urn:uuid:019a991e-7b1f-49d6-b7ca-c4d62113e854
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.016668
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:06:39.815672
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0e7d7cc7-8764-52b4-866a-96b9ca461b16" when="2021-12-14T15:30:45.016668">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A pápa minden püspökével beszélni akar a klérus szexuális visszaéléseiről
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Ferenc pápa szerdán bejelentette, hogy rendhagyó csúcstalálkozóra hívja meg a világ összes államában működő püspöki konferenciák vezetőit a Vatikánba. A 2019 februárjára kitűzött találkozó összehívásának apropója az egyház tagjaival szemben globálisan felmerülő szexuális zaklatási krízis, illetve a nyár végi McCarrik-botrány.
+   </p>
+   <p>
+    „A katolikus egyház értetlenül személéli saját 9/11-ét, mely katasztrófánk konkrét dátummal még nem, de sok-sok évvel, és megszámlálhatatlan áldozattal annál inkább rendelkezik.”
+   </p>
+   <p>
+    –
+    jegyezte meg
+    az egyház fejének eddigi tehetetlenségével kapcsolatban Gänswein érsek, Benedek pápa egykori tanácsadója a bejelentés előtt egy nappal, a szeptember 11-i terrortámadás évfordulóján.
+   </p>
+   <p>
+    A csúcstalálkozó közvetlen előzményének tehát a katolikus egyház tagjaival kapcsolatos szexuális visszaélésekről szóló vádak számítanak. Ezek kisebb-nagyobb hullámokban való napvilágra kerülése 2002 óta tart, de az elmúlt időszakban egyre többen mertek felszólalni az őket ért abúzusokról.
+   </p>
+   <p>
+    Nyár végén egy ilyen felszólalás eredményeképpen mondott le  Theodore McCarrik, akit egy egykori ministránsfiú vádolt szexuális zaklatással. A washingtoni érsek a katolikus egyházat vezető bíborosi testületben elfoglalt helyét kellett, hogy elhagyja. Ezzel McCarrik a legmagasabb rangú katolikus főpap, akit a közelmúltban pedofil bűncselekménnyel vádoltak meg – de ügye nem csak emiatt kiemelt jelentőségű.
+   </p>
+   <p>
+    A történtek után ugyanis augusztus 15-én megjelent
+    Viganó-levél
+    , melyben Viganó érsek, a vatikáni diplomaták amerikai csoportjának korábbi vezetője Ferenc pápa lemondását követelte több, a katolikus egyházban történt szexuális zaklatás eltusolása miatt. Eltusoláson pedig nem csupán a pápa általános passzitivítását értette a szexuális zaklatási vádak ügyében, hanem azzal is meggyanúsította, hogy felmentette McCarrik-ot több, XVI. Benedek pápa által kiszabott szankció alól. Továbbá konkrétan megemlített több magas rangú papot, akik közösen tartották titokban az egyházi vezető szexuális visszaéléseit. Megerősítette tehát McCarrik áldozatának vallomását, és hozzátette, hogy a bíboros rendszeresen „vadászott”, 2005-ben és 2007-ben pedig óriási összegeket fizetett két férfinek, akiket még gyermekkorukban zaklatott, a hallgatásukért cserébe. A levél tartalmával azóta sokan vitatkoztak a katolikus egyház magasabb rangú tagjai közül, de még többen voltak azok, akik megerősítették Viganó egy-egy állítását.
+   </p>
+   <p rend="head">
+    Az mindenesetre kijelenthető, hogy fellépése végre kikerülhetetlen és kulcsfontosságú feladattá tette a katolikus egyház számára a klérus tagjai által (főként fiatalkorú áldozatok sérelmére) elkövetett szexuális bűncselekmények felderítését, illetve megelőzését.
+   </p>
+   <p>
+    Ennek a ténynek a bizonyítéka a februárra összehívott csúcstalálkozó is, mellyel Ferenc pápa újból középpontba helyezi az egyházban felmerülő szexuális visszaélések és a pedofília elleni küzdelmet, amit sokan már 2013-as megválasztása óta vártak tőle.
+   </p>
+   <p>
+    2014-ben egyébként Ferenc pápa már felállított egy, a kiskorúak védelmével foglalkozó pápai bizottságot, ami pár napja, szeptember 9-én tartotta kilencedik ülését. Ezzel kapcsolatos közleményükben megköszönték az áldozatoknak és családjaiknak, hogy megoszották az őket ért abúzusokkal kapcsolatos traumáikat, és kiemelték a szexuális visszaélési ügyek abszolút prioritását is. Azonban az áldozatok családjainak megrökönyödésére  a bizottság kijelentette, hogy küldetése nem ezek kinyomozása, hanem a jövőbeli abúzusok megelőzése.
+   </p>
+   <p>
+    „Testületünk nem a szexuális zaklatás miatt, hanem a kiskorúak védelmének érdekében jött létre. Nem foglalkozunk a már megtörtént konkrét szexuális bűncselekményekkel.”
+   </p>
+   <p>
+    – emelte ki a bizottság elnöke, O’Malley bíboros (aki egyébként szintén gyanúba keveredett a McCarrick-ügy eltusolásával kapcsolatban, a titkárnője ugyanis véletlenül nem továbbította számára egy New York-i pap levelét, ami McCarrick-kal szembeni vádakat tartalmazott).
+   </p>
+   <p>
+    Ferenc pápa a konferenciáról szóló bejelentésében szintén a prevenció fontosságára hívta fel a figyelmet a gyermekek biztonsága érdekében.
+   </p>
+   <p>
+    A gyermekek védelme és az őket fenyegető minden abúzus intézményi eszközökkel való ellehetetlenítése persze valóban elengedhetetlen, azonban kérdés, hogy mikor lesz a hatalmukkal és pozíciójukkal visszaélő, szexuális bűncselekményeket bizonyítottan elkövető egyházi tisztségviselők azonnali felelősségrevonása is a katolikus egyház prioritása.
+   </p>
+  </body>
+ </text>
+</TEI>

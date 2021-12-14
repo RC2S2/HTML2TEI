@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Aggasztóan dől egy olajtanker az USA szankcióitól sújtott Venezuela partjainál
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6f4ff697-9cb2-526a-91c8-9b201d814728
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Aggasztóan dől egy olajtanker az USA szankcióitól sújtott Venezuela partjainál
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-18T08:44:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/18/aggasztoan-dol-egy-olajtanker-az-usa-szankcioktol-sujtott-venezuela-partjainal/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/18/aggasztoan-dol-egy-olajtanker-az-usa-szankcioktol-sujtott-venezuela-partjainal/
+     </sch:url>
+     <sch:name>
+      Aggasztóan dől egy olajtanker az USA szankcióitól sújtott Venezuela partjainál
+     </sch:name>
+     <sch:datePublished>
+      2020-10-18T08:44:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      venezuela
+     </sch:keywords>
+     <sch:keywords>
+      kőolaj
+     </sch:keywords>
+     <sch:keywords>
+      olaj
+     </sch:keywords>
+     <sch:keywords>
+      szankciók
+     </sch:keywords>
+     <sch:keywords>
+      óceán
+     </sch:keywords>
+     <sch:keywords>
+      hajó
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6f4ff697-9cb2-526a-91c8-9b201d814728">
+     <sch:identifier>
+      urn:uuid:5e3edcea-4479-4882-84c6-ac51c517c597
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:25.161013
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:26:47.169199
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6f4ff697-9cb2-526a-91c8-9b201d814728" when="2021-12-14T15:30:25.161013">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Aggasztóan dől egy olajtanker az USA szankcióitól sújtott Venezuela partjainál
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Napok óta, és jelenleg is éppen süllyed a Nabarima nevű olajtanker Venezuela partjainál, a fedélzetén több, mint egymillió hordó olajjal, ami tengerbe kerülése esetén komoly ökológiai katasztrófával fenyeget – figyelmeztet a Fishermen and Friends of the Sea civil szervezet. Videójukat az alább tudjátok megnézni:
+   </p>
+   <p>
+    Nabarima Sinking Confirmed!
+   </p>
+   <p>
+    Közzétette:
+    Fishermen and Friends of the Sea – FFOS
+    –
+    2020. október 16., péntek
+   </p>
+   <p rend="head">
+    A gCaptain hajózási szaklap szerint a tanker erősen megdőlt oldalirányba, és a TankerTracker is komoly veszélyekre figyelmeztet twitter oldalán:
+   </p>
+   <p>
+    We aim to confirm the potential catastrophic nightmare of a situation as there are 1.3 million crude oil barrels aboard. The AIS data does show vessel activity on October 13th.
+    #OOTT
+    #NABARIMA
+    #Venezuela
+    #TrinidadandTobago
+    https://t.co/4Yi6EQRGWR
+    via
+    @MarineTraffic
+    https://t.co/ULi7spV4Im
+   </p>
+   <p>
+    — TankerTrackers.com, Inc.⚓️🛢 (@TankerTrackers)
+    October 16, 2020
+   </p>
+   <p>
+    A Nabarima jelenleg egy úszó tengeri tározóként működik, vagyis nem szállít olajat, hanem a part mentén egy adott pontra horgonyozva tárolják benne a nyersanyagot és fedélzetén jelenleg 1,3 millió hordó, vagyis több, mint kétszáz millió liter „Corocoro” típusú, venezuelai nyersolaj található.
+   </p>
+   <p rend="head">
+    A hajót többek között azért is használják ily módon, mert a Venezuelával szembeni amerikai szankciók fényében korlátozzák az ország olajexportját.
+   </p>
+   <p>
+    A hajót a Petrosucre közös vállalat üzemelteti, ami a venezuelai állami Petroleos de Venezuela (PDVSA) és az olasz Eni közös vállalkozása, az előbbi többségi tulajdonában, és az USA által életbe léptetett szankciók miatt 2019 óta nem tud olajat, vagyis Venezuela legfontosabb exportcikkét exportálni.
+   </p>
+   <p>
+    Így az Egyesült Államokbeli Citgo Petroleum Corp., a Petrosucre legfontosabb felvásárlója sem veszi át a nyersolajat, ami a Venezuela és Trinidad és Tobago közelében elterülő Paria öbölben várja sorsát, miközben az olasz Eni pedig arra vár, hogy zöld utat kapjon az USA-tól az olaj exportjára.
+   </p>
+   <p>
+    A
+    Reuters
+    tudósítása szerint a hajón épp szelepeket javítanak, és noha az olajvállalat(ok) hivatalosan nem kommentálták értesüléseiket, korábban úgy nyilatkoztak, hogy a hajó „kielégítő” állapotban van, és egy forrásból úgy értesültek, a hajó azért dőlt meg, hogy a javításokat el tudják végezni.
+   </p>
+   <p>
+    Az Egyesült Államok Trinidad és Tobagoi nagykövetsége természetesen
+    aggodalmát fejezi ki
+    a Nabarima állapota miatt, és leszögezi, hogy a szankciók nem a környezetvédelmi tevékenységekre irányulnak. Ugyanakkor amennyiben nem szankcionálnák az ország olajexportját, akkor a Nabarima fedélzetén sem ragadt volna 1,3 millió hordónyi nyersolaj, hanem a venezuelai-olasz vegyesvállalat exportálta volna.
+   </p>
+   <p>
+    Az Egyesült Államok 2019-ben Nicolás Maduro elnök újraválasztása után vezetett be szankciókat Venezuela ellen, mondván elcsalták a választást. Az mindenesetre bizonyos, hogy immár több, mint egy éve rendszeresek a tüntetések a fennálló rendszer ellen, az Egyesült Államok pedig minden befolyását latba vetve azért küzd, hogy egy amerikai nagytőkét kiszolgáló vezetést juttasson hatalomhoz az országban.
+   </p>
+   <p>
+    A venezuelai eseményekről rendszeresen beszámolunk a
+    <hi>
+     Mércén
+    </hi>
+    , további cikkeinket
+    erre a linkre
+    kattintva éritek el, a Maduro-rendszer jellegéről pedig
+    ezt az írást
+    ajánljuk figyelmetekbe.
+   </p>
+  </body>
+ </text>
+</TEI>

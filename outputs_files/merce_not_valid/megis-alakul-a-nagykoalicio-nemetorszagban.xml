@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mégis alakul a nagykoalíció Németországban?
+    </title>
+    <author>
+     <persName>
+      Langowski Judith
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     26f9beb9-6066-5315-86e7-d7987b8306c6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mégis alakul a nagykoalíció Németországban?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Langowski Judith
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-24T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/24/megis-alakul-a-nagykoalicio-nemetorszagban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/24/megis-alakul-a-nagykoalicio-nemetorszagban/
+     </sch:url>
+     <sch:name>
+      Mégis alakul a nagykoalíció Németországban?
+     </sch:name>
+     <sch:datePublished>
+      2017-11-24T20:30:00
+     </sch:datePublished>
+     <sch:author>
+      Langowski Judith
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      CDU
+     </sch:keywords>
+     <sch:keywords>
+      SPD
+     </sch:keywords>
+     <sch:keywords>
+      Angela_Merkel
+     </sch:keywords>
+     <sch:keywords>
+      Schulz
+     </sch:keywords>
+     <sch:keywords>
+      Steinmeier
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="26f9beb9-6066-5315-86e7-d7987b8306c6">
+     <sch:identifier>
+      urn:uuid:d1e02956-6372-414a-8561-0e9f590e8b6d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:21.581591
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:35:20.714466
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="26f9beb9-6066-5315-86e7-d7987b8306c6" when="2021-12-14T15:27:21.581591">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mégis alakul a nagykoalíció Németországban?
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Martin Schulz, a Németországi Szociáldemokrata Párt (SPD) elnöke
+    ma kijelentette
+    , mégsem zárkóznak el a koalíciós tárgyalásoktól Angela Merkel kancellár pártszövetségével. A szocdemek a szeptemberi szövetségi választás estéjén azt mondták, nem vesznek részt egy újabb nagykoalícióban, de miután a négypárti tárgyalások megszakadtak a konzervatív CDU/CSU pártszövetség, a Zöldek és a jobboldali liberális FDP közt, az egyetlen valódi lehetőség a stabil kormányzásra az maradt, hogy a szociáldemokraták mégis hajlandóak újra kisebbik koalíciós partnerként kormányozni Merkel kabinetjében.
+   </p>
+   <p>
+    Merkel és Schulz, kép: dpa
+   </p>
+   <p>
+    Csütörtök délután több mint egy órán keresztül beszélt az amúgy szintén szociáldemokrata Frank-Walter Steinmeier államfő Martin Schulzzal, az SPD vezetőjével, aki a párt kancellárjelöltje is volt a szeptemberi szövetségi választásokon. A megbeszélésnek nem kisebb tétje volt, mint hogy felállhat-e Németországban egy stabil kormány.
+   </p>
+   <p>
+    Vasárnap éjjel ugyanis a liberálisok
+    felrúgták a koalíciós tárgyalásokat
+    a feltételezett koalíciós partnerek közt. Frank-Walter Steinmeier elnök ez után bejelentette, hogy nem csak a négy eddigi feltételezett koalíciós partnert fogja megpróbálni rábírni arra, hogy nyitottak legyenek az együttműködésre, hanem azokat is, akik a tárgyalások során az ún. „jamaika-koalíció” ellenzékeként képzelték el magukat. Ezek közül a pártok közül valójában csak a szeptemberi választásokon 20.5 százalékos, történelmi mélyponton landoló szociáldemokraták esélyesek arra, hogy Merkelékkel koalícióra lépjenek. A radikális baloldali Linkével (9.2%) csak a baloldali pártok nem zárják ki az együttműködést (ők azonban kevesek a kormányzáshoz), a Bundestagba idén először bekerülő szélsőjobboldali AfD-vel  (12.6%) pedig senki nem szeretne kormányozni.
+   </p>
+   <p>
+    A megszakított koalíciós tárgyalások után három út vezethet Németországban működő kormányzáshoz. Merkel bevállalhat egy kisebbségi kormányzást a CDU/CSU-hoz politikailag legközelebb álló FDP-vel, vagy a kicsit távolabb álló, balosabb Zöldekkel. A kancellár azonban már hétfőn bejelentette, hogy
+    „szkeptikus” a kisebbségi kormányzással kapcsolatban
+    . Egy előrehozott választás újraoszthatná a lapokat, de
+    az aktuális közvéleménykutatások
+    alapján ebben az esetben sem lehetne egy radikálisan más felállású Bundestaggal számolni. A harmadik lehetőség a nagykoalíció megújítása az SPD és a CDU/CSU közt, a mandátumok 53%-ával.
+   </p>
+   <p>
+    Schulz hétfőn még erősen kiállt egy ilyen koalíció ellen, arra utalva, hogy az elmúlt négy év közös kormányzása alatt az SPD sokat veszített politikai profiljából a CDU „juniorpartnereként„, ami megágyazott a szeptemberi történelmi bukásnak.
+   </p>
+   <p>
+    A csütörtöki elnöki beszélgetés előtt azonban Schulznak már azzal kellett szembenéznie, hogy a párt három szárnya közül kettő
+    nyitottságot követel a koalíciós tárgyalásokra
+    . Egyre nagyobb nyomás helyződött Schulzra, még egy CDU-s Észak-Rajna-Vesztfália tartományi miniszter, Karl-Josef Laumann is az SPD politikai felelősségéről beszélt
+    egy sajtóinterjúban
+    , mondván, egy CDU/CSU-SPD koalícióban az SPD mint hagyományos munkáspárt jobb munkapiaci feltételeket harcolhatna ki a német dolgozóknak.
+   </p>
+   <p>
+    Az államfővel való tárgyalás után az SPD vezetősége késő estig tárgyalt a kormányban való részvétel lehetőségeiről. Az SPD vezetője ma pedig már úgy nyilatkozott, nem zárkózik el a tárgyalások elől, de egy újabb koalícióról csak a párttagság dönthet. Ezt követően a péntek délutáni órákban Steinmeier államfő jövő csütörtökre egy közös beszélgetésre hívta a CDU, a CSU és az SPD vezetőit.
+   </p>
+   <p>
+    Hétfőn még úgy tűnt, hogy az SPD az előrehozott választásokat támogatná inkább, annak érdekében, hogy ellenzékben visszanyerhessék profiljukat. Nem biztos azonban, hogy Schulzot egy előrehozott választás esetén is kancellárjelöltnek jelölné a párt. Arról a következő pártkongresszus fog két hét múlva dönteni, hogy Schulz pártvezető maradhat-e.
+   </p>
+   <p>
+    „Az SPD teljesen tudatában van a jelenlegi bonyolult helyzetben fennálló felelősségének”, mondta homályosan Schulz szerdán a DPA német hírügynökségnek. „Biztos vagyok benne, hogy a következő napokban és hetekben az országunk számára jó megoldást fogunk találni.” Most újra komoly az esélye, hogy ez a megoldás egy újabb konzervatív-szociáldemokrata nagykoalíció lesz.
+   </p>
+   <p>
+    Amíg a Berlin fölötti égben eldöntetlenül lógnak ezek az opciók, két tisztségviselőnek köszönhető, hogy két hónappal a választások után még rendjén mennek a dolgok a Bundestagban. Mind Steinmeier államfő, mind a parlamenti elnök, egyúttal volt pénzügyminiszter Wolfgang Schäuble pártokon felüli autoritást próbálnak sugározni. A parlamentben egy 47 fős, pártokon átívelő tagságú, korlátozott hatalmú ügyvezető kormány, ún. „Hauptausschuss„ (főbizottság) hoz politikai döntéseket, míg nem születik megállapodás a koalícióról és a kancellár személyéről.
+   </p>
+  </body>
+ </text>
+</TEI>

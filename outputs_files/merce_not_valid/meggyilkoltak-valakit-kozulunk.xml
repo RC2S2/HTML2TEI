@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Meggyilkoltak valakit közülünk
+    </title>
+    <author>
+     <persName>
+      Misetics Bálint
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     dd70ffe9-baef-5c09-a2ed-d3f69e81744f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Meggyilkoltak valakit közülünk
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Misetics Bálint
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-06-26T20:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/06/26/meggyilkoltak-valakit-kozulunk/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/06/26/meggyilkoltak-valakit-kozulunk/
+     </sch:url>
+     <sch:name>
+      Meggyilkoltak valakit közülünk
+     </sch:name>
+     <sch:datePublished>
+      2018-06-26T20:30:00
+     </sch:datePublished>
+     <sch:author>
+      Misetics Bálint
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      cigány
+     </sch:keywords>
+     <sch:keywords>
+      gyász
+     </sch:keywords>
+     <sch:keywords>
+      neonáci
+     </sch:keywords>
+     <sch:keywords>
+      ukrán
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="dd70ffe9-baef-5c09-a2ed-d3f69e81744f">
+     <sch:identifier>
+      urn:uuid:08dc6498-37a9-435a-90e8-74de1a0db13e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:00.518123
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:56:23.760664
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="dd70ffe9-baef-5c09-a2ed-d3f69e81744f" when="2021-12-14T15:35:00.518123">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Meggyilkoltak valakit közülünk
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+    <hi>
+     „nevét rút ferditésben
+    </hi>
+    <hi>
+     Ismerik csak átokképen.”
+    </hi>
+   </p>
+   <p>
+    A hétvégén különös kegyetlenséggel meggyilkoltak egy kárpátaljai fiatalembert, a 24 éves Pap Dávidot.
+   </p>
+   <p>
+    Lemberg külvárosában egy neonáci terrorszervezet tagjai szombat éjszaka támadtak baseball ütőkkel és késekkel kárpátaljai magyar romák sátraira és kunyhóira – otthonaira. A támadásban egy fiatal magyar cigány férfi életét vesztette, négyen megsebesültek, két 19 éves fiú, egy 30 éves nő és tízéves kisfia.
+   </p>
+   <p>
+    Megemlékezés a budapesti ukrán nagykövetség előtt; a szerző felvétele
+   </p>
+   <p>
+    A kárpátaljai magyar romák elleni pogromot elítélte Lemberg polgármestere, Kárpátalja kormányzója, Ukrajna magyarországi
+    nagykövete
+    , az
+    Európa Tanács
+    , valamint az
+    Egyesült Államok
+    és
+    Kanada
+    külképviselete.
+   </p>
+   <p rend="head">
+    Sajnos hiába keressük azonban – a külügyminisztérium vagy a kijevi magyar nagykövetség honlapján – azt a közleményt, amelyben Magyarország kormánya részvétét és együttérzését fejezi ki az elhunyt Pap Dávid családjának, határozottan elítéli a neonáci terrortámadást és az ukrán hatóságok hasonló korábbi pogromokkal kapcsolatos tétlenségét, továbbá felszólítja az ukrán államot, hogy minden tőle telhetőt tegyen meg a gyilkosok felelősségre vonása, a neonáci terrorszervezetek mielőbbi feloszlatása és hasonló támadások megelőzése érdekében.
+   </p>
+   <p>
+    A kárpátaljai magyar cigányok az ukrán neonáciknak magyarok („Miért itt nálunk, a mi erdőnkben laktok, basszátok meg? Menjetek Magyarországra” –
+    mondta
+    egy néhány héttel ezelőtti pogrom résztvevője egy roma magyar asszonynak), Magyarország kormányának azonban, úgy tűnik, csak cigányok.
+   </p>
+   <p>
+    Magyarország magát nemzetinek tartó kormánya jóvá tehette volna Balog Zoltán volt miniszter fajgyűlölő –
+    <hi rend="italic">
+     tehát
+    </hi>
+    nemzetietlen –
+    nyilatkozatát
+    , miszerint a magyar kormány még nem döntötte el, hogy „a határon túli, magyarul beszélő cigányok tehertétel vagy erőforrás”.
+   </p>
+   <p>
+    Nem tették jóvá – ezzel pedig ismét nyilvánvalóvá tették, hogy uralmuk nem csupán a jogállamiság, a parlamentáris demokrácia és a jóléti állam, hanem a nemzeti eszme számára is tehertétel.
+   </p>
+   <p>
+    Ha van olyan, hogy nemzeti eszme, akkor az nem a „magyar focit”, a magyarkodó giccset, és főleg nem a piros-fehér-zöldre festett
+    etnicista
+    uszítást jelenti; nem az „
+    etnikai homogenitást
+    ”, hanem éppen ellenkezőleg: egy a közvetlen rokoni kapcsolatokon, valamint az etnikai és osztálykülönbségeken egyaránt átívelő – ennyiben tehát
+    <hi rend="italic">
+     univerzalisztikus
+    </hi>
+    – felelősségérzetet és szolidaritást. Azt jelenti,
+    hogy
+    „a legalsó pór is kunyhajában // Mondhassa bizton: nem vagyok magam! // Testvérim vannak, számos milliók; // Én védem őket, ők megvédnek engem. // Nem félek tőled, sors, bármit akarsz.”
+   </p>
+   <p>
+    Pap Dávid barkaszói családja mezőgazdasági napszámos munkából él, ő maga pedig fémhulladék gyűjtésével foglalkozott Lembergben. Ő volt az a legszegényebb ember, akinek – ha van olyan, hogy nemzeti szolidaritás – nem szabadott volna félnie a kunyhójában, és akit, ha megvédeni nem is tudtunk, legalább halálában nem szabad magára hagynunk.
+   </p>
+   <p>
+    Ha lehet egy nemzetnek becsülete, úgy azt ezúttal is – mint ahogyan korábban, a Puczi Béla
+    határontúli nemzeti hősre
+    való
+    méltó megemlékezéssel
+    kapcsolatban – roma szervezetek védték meg.
+   </p>
+   <p>
+    Ha van olyan, hogy magyar nemzet, azt tegnap nem az Országház képviselte „a nemzet főterén”, hanem a RomNet, a Phiren Amenca és a Kethane Egyesület az Istenhegyi út járdaszegélyén, Ukrajna nagykövetsége előtt, ahol gyertyagyújtással emlékeztek a neonáci terrorizmus magyar áldozatára.
+   </p>
+   <p>
+    Reméljük, hogy nem helyettünk, hanem mindannyiunk nevében.
+   </p>
+  </body>
+ </text>
+</TEI>

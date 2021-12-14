@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A bíróság újra az Auróra mellé állt
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0ad0d538-5873-5951-b7a5-4e6c776da71c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A bíróság újra az Auróra mellé állt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-10-31T17:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/10/31/a-birosag-ujra-az-aurora-melle-allt-kocsis-mateval-szemben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/10/31/a-birosag-ujra-az-aurora-melle-allt-kocsis-mateval-szemben/
+     </sch:url>
+     <sch:name>
+      A bíróság újra az Auróra mellé állt
+     </sch:name>
+     <sch:datePublished>
+      2017-10-31T17:24:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      józsefváros
+     </sch:keywords>
+     <sch:keywords>
+      Kocsis Máté
+     </sch:keywords>
+     <sch:keywords>
+      auróra
+     </sch:keywords>
+     <sch:keywords>
+      településkép védelem
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0ad0d538-5873-5951-b7a5-4e6c776da71c">
+     <sch:identifier>
+      urn:uuid:4e743550-a3c3-4860-847a-ad56e0beb95c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:31.604489
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:32:52.663774
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0ad0d538-5873-5951-b7a5-4e6c776da71c" when="2021-12-14T15:30:31.604489">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A bíróság újra az Auróra mellé állt
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    A Fővárosi Közigazgatási és Munkaügyi Bíróság ma hatályon kívül helyezte a Józsefvárosi Önkormányzat jegyzőjének határozatát, amely bezáratta az Auróra mellett működő kertet.
+   </p>
+   <p>
+    A Fővárosi Kormányhivatal már augusztusban jogszerűtlennek nyilvánította a szórakozóhely és közösségi ház belső tereinek bezáratásáról szóló határozatot, most a bíróság is kimondta, az önkormányzat által hivatkozott településkép-védelmi indokoknak semmi közük nem volt a hely bezáratásához.
+   </p>
+   <p>
+    Az Aurórát júniusban záratták be Kocsis Mátéék, az eredeti indok az volt, hogy egy rendőrségi razzia során csekély mennyiségű marihuánát találtak néhány vendégnél. Ám
+    az is köztudott
+    , hogy a józsefvárosi polgármester régóta orrol a sok független civil szervezetnek otthont adó Aurórára, így a hely bezáratása mögött politikai okok is lehettek. A bíróság mostani döntése csak megerősíti ezt a sejtést. Az Auróra egyébként október elsejétől újra nyitva áll.
+   </p>
+   <p>
+    <hi rend="bold">
+     Helyreigazítás (2017. november 7.)
+    </hi>
+   </p>
+   <p>
+    Kocsis Máté jogi megbízottján keresztül helyreigazítási kérelmet juttatott el hozzánk a cikk címével kapcsolatba. A kérelemnek itt helyet is adunk:
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      (1) Valótlanul állítottuk, hogy a bíróság az Auróra elleni ügyben Kocsis Mátéval szemben döntött volna.
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi>
+     A valóság ezzel szemben a következő.
+    </hi>
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      (1) Az Auróra Kocsis Mátéval szemben nem nyert pert. A peres eljárásban a Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat Polgármesteri hivatala volt az alperes.
+     </hi>
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítés (2017. november 7.)
+    </hi>
+   </p>
+   <p>
+    A helyreigazítási kérelem arra nem tér ki, de a bíróságon a felperes sem az Auróra volt, hanem az azt működtető cég, a Marom Klub kft, az alperes pedig a VIII. kerületi jegyző.
+   </p>
+   <p>
+    Tehát a cím névhasználata az Auróra körül kialakult konfliktusban érintett felek olvasók általi könnyebb beazonosíthatóságát szolgálta, a konkrét jogi procedúra és a benne érintett felek hivatalos megnevezése a cikk szövegében kerül pontos kifejtésre, mint ez általában a sajtóban lenni szokott. (Pap Szilárd István)
+   </p>
+   <p>
+    (via
+    444
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

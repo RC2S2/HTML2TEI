@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Borbély András: Munka és identitás
+    </title>
+    <author>
+     <persName>
+      Borbély András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f9c2af1a-7180-5943-803a-bf105339bb57
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Borbély András: Munka és identitás
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Borbély András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-29T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/29/borbely-andras-munka-es-identitas/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/29/borbely-andras-munka-es-identitas/
+     </sch:url>
+     <sch:name>
+      Borbély András: Munka és identitás
+     </sch:name>
+     <sch:datePublished>
+      2021-07-29T07:30:00
+     </sch:datePublished>
+     <sch:alternateName>
+      Töredékek a munkáról – II. rész
+     </sch:alternateName>
+     <sch:author>
+      Borbély András
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      munka
+     </sch:keywords>
+     <sch:keywords>
+      társadalom
+     </sch:keywords>
+     <sch:keywords>
+      politika
+     </sch:keywords>
+     <sch:keywords>
+      bérmunka
+     </sch:keywords>
+     <sch:keywords>
+      piac
+     </sch:keywords>
+     <sch:keywords>
+      karl marx
+     </sch:keywords>
+     <sch:keywords>
+      identitás
+     </sch:keywords>
+     <sch:keywords>
+      proletariátus
+     </sch:keywords>
+     <sch:keywords>
+      polgári társadalom
+     </sch:keywords>
+     <sch:keywords>
+      Értéktöbblet-elméletek
+     </sch:keywords>
+     <sch:keywords>
+      absztrakt munka
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f9c2af1a-7180-5943-803a-bf105339bb57">
+     <sch:identifier>
+      urn:uuid:0e769632-e5f8-4f8f-87cb-78aa2836b5f0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:38.911292
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:27.124273
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f9c2af1a-7180-5943-803a-bf105339bb57" when="2021-12-14T15:30:38.911292">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Borbély András: Munka és identitás
+   </head>
+   <head type="subtitle">
+    Töredékek a munkáról – II. rész
+   </head>
+   <p rend="head">
+    Proletár politika
+   </p>
+   <p>
+    A kapitalista munkaforma, a társadalmi munka elidegenedett formája azt hozza magával, hogy az ember munkatevékenysége és személyisége között megszűnik a bensőséges kapcsolat lehetősége: nem a munkában valósítjuk meg önmagunkat, hanem ott, ahol szabaddá válunk a munkától.
+    [1]
+   </p>
+   <p>
+    A polgári társadalom klasszikus képlete, mely a modern ember társadalmi állapotát az állampolgár (
+    <hi>
+     citoyen
+    </hi>
+    ) és a magánember (
+    <hi>
+     bourgeois
+    </hi>
+    ) elválasztásában, a személy életfunkcióiba beírt belső ellentmondással fejezi ki, munka és személyiség elválasztását úgy tükrözi vissza, mintha a szabadság a privát oldalhoz tartozna, vagyis mintha a szabadság magánemberi minőségemben illetne meg.
+   </p>
+   <p>
+    Kant még tudta, hogy az ész nyilvános használata az, aminek szabadnak kell lennie, míg az ész privát használata kötött. De ez egyszerűen nem fér ma az egyetemi hallgatók fejébe, mert számukra a nyilvánosság a kiszolgáltatottság és a szimbolikus uralom területe, a szabadság pedig csak a nyilvános politikai funkcióktól elválasztott önazonosságban, autenticitásban, intimitásban, önkifejezésben, önmegvalósításban lelhető fel, vagyis minél távolabb bármifajta nyilvános politikától, bármifajta közügytől.
+   </p>
+   <p>
+    Megérzésükben van igazság.
+   </p>
+   <p>
+    A szabadság ilyenfajta depolitizálásának tendenciája már a személyiségi jogok fogalmában benne rejlik, amennyiben ezek végül is a magánembert illetik meg, amelyet az állam biztosít az állampolgárság nyilvános funkcióján keresztül. A szabadság az, hogy nem kell eltűrnöm egy másik személy önkényét, se kegyét, amelyen a feudális uralom nyugszik, hiszen mindketten egyenlőképpen állunk a törvény előtt. Csakhogy a jog, noha védelmet nyújt a személyes önkénnyel szemben, nem vagy alig terjed ki a személytelen termelési viszonyok által előidézett kényszerek területére.
+   </p>
+   <p>
+    Ezen a téren a szabadság könnyen a visszájára fordul:
+   </p>
+   <p>
+    szabad vagy eladni, megalázni, prostituálni magad, vagy eladhatod saját szerveidet, ha más lehetőség nem adódik. Szabadságodban áll kizsákmányolni magad.
+   </p>
+   <p>
+    A proletár politika ellenben, amíg még – legalább elvben – létezett, arra irányult, hogy az ember léte és lényege közti fenti elválasztást megszüntesse. Az nem lehet, hogy a munka, amely a tőkés termelés korszakában lehetővé teszi az emberiség számára a természeti kényszerek alóli példátlan mértékű felszabadulást és függetlenedést, egyúttal a konkrét egyedi személyek feletti uralom és kizsákmányolás fokozódásának az eszköze is legyen. Az nem lehet, hogy az emberi képességek, termelőerők felszabadításának, a technológiai és a tudományos fejlődés kibontakozásának, továbbá az egyetemes emberi jogok kodifikálásának korszakában az egyedi lény, az ember, sőt egész emberosztályok léte a puszta önfenntartásra, a túlélésre, a rasszista diszkriminációra és az értéktöbblet mások számára való termelésére redukálódjék. Az nem lehet, hogy a személyes szabadság korszaka egyben a termelési viszonyok uralma alatt görnyedő néptömegek szolgaságának a korszaka is legyen.
+   </p>
+   <p>
+    A proletár politika tehát arra irányult, hogy a termelést, amely felszabadult a társadalmi hatalom kényszerének korábbi személyesebb formái alól és így maga is önálló személytelen hatalommá, a termelési viszonyokban kifejeződő kényszerré vált, újra politikai ellenőrzés alá vonja. Hogy a termelési viszonyok emberek fölötti uralmát az embereknek a termelési viszonyok fölötti kontrolljává változtassa. Egy olyan politika ellenőrzése alá, mely a hipotézis értelmében képes megszüntetni a kapitalista termelési viszonyokban benne rejlő belső ellentmondást a természeti kényszerek alóli felszabadulás és a termelési viszonyok teremtette brutális-kifinomult társadalmi kényszerek példátlan megnövekedése között. Amely képes megszüntetni az ellentmondást a társadalmi össztermelés, az általában vett gazdagság növekedése és a javak, a termelőeszközök, a profit, az általában vett érték példátlanul egyenlőtlen, sőt inkább egyoldalú társadalmi eloszlása között.
+   </p>
+   <p>
+    Mert az nem lehet, hogy a személyes szabadság és a történelmileg egyedülállóan fejlett gépi termelőeszközök korában az emberek magukra hagyatottam pusztuljanak bele a munkába, a kommunikatív unalomba és depresszióba, a színfalak mögé rejtett nyomorba, a diszkriminációba, a szociális gyökértelenségbe és a magányba. A munka, ettől elválaszthatatlanul az életforma, továbbá a kultúra forradalma ezért volt a proletár politika tulajdonképpeni tartalma.
+   </p>
+   <p>
+    Ám a proletár politika államszocialista vagy államkapitalista kísérlete Kelet-Európában, mint tudjuk, ígéreteit nem vagy igencsak vitathatóan váltotta valóra. És végül is kudarcot vallott.
+   </p>
+   <p>
+    Budapest, 2020. május 9. Munkás a Nyugati pályaudvar csarnokának felújításán 2020. május 9-én. Az állomás tetõszerkezetének felújítása május 8-án kezdõdött, a hét hónapig tartó munkálatok alatt az utascsarnok zárva tart. MTI/Mónus Márton
+   </p>
+   <p rend="head">
+    Munka és identitás
+   </p>
+   <p>
+    Miután a munka társadalmi tartalma végleg megszűnőben, miután így az emberi gondolat és cselekvés egységét megvalósító gyakorlat – amelynek ősformája a munka volt – kiürült és a munka kivettetett a politikai szabadságról szóló viták arénájából a társadalmat formáló szimbolikus értékek világán túli külső sötétségre, végül az utolsó politikailag megmunkálandó tárgyat úgy nevezik, hogy identitás. Ha Sztálin azt mondta, hogy „a költők a lélek mérnökei”, akkor mára a lélek és a tudat ipari fölparcellázásának feladatát átvették a piacsztálinisták. Ők támogatják az identitások differenciálását, mert abban reménykednek, hogy ez lehetővé teszi a piac bővítését.
+   </p>
+   <p>
+    Ugyanakkor az egyik legfontosabb kérdés itt is az, hogy miként tudjuk megkülönböztetni a természeti (testi) kényszerektől szabaddá váló, kívánatos egyénülést attól a már fölismert csapdától, hogy a természeti kényszerektől szabaddá váló társadalmiasulás formája a társadalmi uralom egyén által úgyszintén uralhatatlan, személytelen kényszereként térjen vissza az emberi viszonyokba. Az értékforma társadalmi dominanciája és a munka virtualizációja tartalmi kiürülés, így azzal a kérdéssel szembesít, hogy mi által leszünk azzá, akik vagyunk, vagy mi által vagyunk azok, akik lehetnénk, ha a tárgyi világ formálása, a konkrét munka és a konkrét gyakorlat felszabadításának lehetősége kicsúszott a kezünk közül.
+   </p>
+   <p>
+    És pontosan emiatt nem lehet a kérdést elismerés
+    <hi>
+     versus
+    </hi>
+    elosztás, vagy identitás
+    <hi>
+     versus
+    </hi>
+    osztály szembenálló alternatíváira szűkíteni. Hiszen
+   </p>
+   <p rend="head">
+    mind a munka, mind az identitás általi személyes megvalósulást a domináns társadalmi hatalom termelési módja közvetíti.
+   </p>
+   <p>
+    Az identitás társadalmi megmunkálásának abban a formájában például, amelyben egy vállalat támogatja a szexuális kisebbségek önkifejezését és társadalmi elismerését, vagy az ún.
+    <hi>
+     etnomarketing
+    </hi>
+    fogásait alkalmazza, mert tudja, hogy számíthat a melegekre vagy az etnopolitika híveire mint fogyasztókra, valójában az értékforma bekeríti, bekebelezi az identitást, s ezt még akkor is ki kell mondani, ha az identitárius egyénülés szabadságlehetőségei ezzel együtt kívánatosan kitágulnak.
+   </p>
+   <p>
+    Ám ha az identitást a csereértékforma, az áruforma és a piaci fogyasztás rendszere közvetíti, akkor az, amit identitáspolitikának neveznek, könnyen a piaci versengés túszává, afféle identitásversengéssé válhat, s ennek láthatóak is a jelei.
+   </p>
+   <p>
+    Az egyénülés elismerése sajnálatos módon magát a másság lényegét semmisíti meg, ha nem talál más utat, mint hogy normatív kényszerként érvényesüljön, s hasonlóan járhatunk vele, mint a munkával, nevezetesen hogy a munka ugyan „az értékek szubsztanciája és immanens mértéke, de neki magának nincs értéke”.
+    [2]
+    Egyszerűen mert inadekvát az az egyenértékforma, melyben reprezentálni akarják.
+   </p>
+   <p>
+    Tehát megfizetik ugyan, ha már muszáj, az identitás politikai és piaci árát, de végső soron nem ismerhetik el immanenciáját. Erre szokták mondani, hogy a tőke mintegy „rátelepszik” minden immanens viszonyra, életformára, identitásra és tevékenységre, hogy értéket szipolyozzon ki belőle, s miközben támaszkodik rájuk és használja őket, egyben kizsákmányol és kompromittál minden immanenciát egész a végső kiüresedésig és összeomlásig.
+   </p>
+   <p>
+    Ennek az objektív csapdahelyzetnek az előfeltételét persze az képezi, hogy a politika kurrens formái lemondtak arról, hogy problematizálják a tőkés termelési mód, az absztrakt munka és az egyenértékforma uralmát, és kapituláltak
+    <hi>
+     Monsieur le Capital
+    </hi>
+    előtt, bárhogyan is próbálják ezt az alapvető árulást akár az úgynevezett „nyugat” iránti hódolattal, akár az iránta táplált –
+    <hi>
+     post mortem
+    </hi>
+    gyarmatirigység által is motivált – féltékeny gyűlölettel elleplezni.
+   </p>
+   <p>
+    Az identitásnak mint az önmagunkká válás problematikájának nyilvánosítása, politikai formába öntése így nem a privát és a nyilvános, a magánember (
+    <hi>
+     bourgeois
+    </hi>
+    ) és az állampolgár (
+    <hi>
+     citoyen
+    </hi>
+    ) közti konvencionális határ áthágásaként ragadható meg, ahogy a nyárspolgári erkölcs hangoztatja („felőlem csinálják, csak maradjanak a négy fal között”), hanem a magánszféra területén belül létrejövő másodlagos szétválásként. (És különben sem garantált, hogy a magánszféra végül ne börtöncellaként záruljon rá arra, aki a politikai szabadságot összetéveszti a „hagyjon engem mindenki békén” egyébként gyakran jogos és érthető személyes vágyával.)
+   </p>
+   <p>
+    De mivel a politika lemondott arról, hogy a „termelés a termelés kedvéért” elvével szemben megkísérelje egy olyan politikai közösség létrehívását, amely a termelési viszonyok uralmát az emberi képességek kiteljesedése és a természeti világ megőrzése javára korlátozná és szervezné át, tehát arról, hogy a közös szabadság gyakorlata legyen és kikülönítse a társadalmi létezőket a tőke jól idomított zsákmányállatainak szerepéből, büntetése az lesz, hogy megszűnik mint politika, hogy maga is a magánszféra börtönébe szorul vissza, hogy a magánszféra naturalizálásán kénytelen élősködni.
+    [3]
+   </p>
+   <p>
+    Hisz a politikának más tárgya nem igen marad, miután a közvagyont, a politikai, kulturális, gazdasági kulcspozíciókat és intézményeket szétosztották az informális hatalmi érdekkörhöz tartozó lojális fenegyerekek és csendestársaik között. Mindez egyebek mellett például a fogyasztói és felhasználói metaadatok, vagyis a magánszféra piaci-informális kizsákmányolása alapján fabrikált propaganda rémuralmában mutatkozik látványosan meg, miáltal is a politika újfent (digitális) bürökráciává fajul.
+   </p>
+   <p>
+    A piaci és a politikai logika, a privát és a nyilvános közti különbség ezzel azonban meg is szűnt, pontosabban a társadalmiasult magánszféra sajátos hatalmi képződményévé olvadt össze,
+   </p>
+   <p>
+    hiszen a politikát és az etnikai vagy szexuális identitást ugyanolyan ócska reklám- és propagandafogásokkal kell legyúrni az
+    <hi>
+     elgonoszított
+    </hi>
+    nép torkán, s ezzel egyúttal az egyénülési törekvéseket semlegesíteni és egyenértékűsíteni, mint bármely más bóvli árut.
+   </p>
+   <p>
+    Eközben az államot informális magánérdekekből összetákolt vállalat-komplexummal helyettesítik, és az utolsó erőtlen kísérletek arra, hogy a politikai közösség eszméjét valamifajta „értékalapú” politizálással mentsék meg, belefulladnak az „érték” fogalmának kétértelműségébe, nevezetesen hogy a személyes-társadalmi értéket képtelenek megkülönböztetni a társadalmi termelés hatalma diktálta ideológiai érdekektől. Hisz mi más lehet a magyarázat arra, hogy homoszexuálisok szavaznak meg a parlamentben homofób törvényeket?
+   </p>
+   <p rend="head">
+    Immanencia
+   </p>
+   <p>
+    Az egyik oldal: az identitás immanens értéke, melyet a domináns egyenértékforma magába épít vagy amelyre rátelepszik, és a maga társadalmi-politikai átlagszínvonalára süllyeszt. A másik oldal: a személy egyénülésen keresztüli kiteljesedésének társadalmilag elfojtott igazságkövetelése.
+   </p>
+   <p>
+    E két tendencia konfliktusa egy olyan területen zajlik, amely bár politikainak mondja magát, bizonyos értelemben nem lépi át a társadalmiasult magánszféra határát. (Ez utóbbi kicsit hasonlít „a kispályás informalitás-viszonyok” magánéletet, politikát, gazdaságot egyaránt behálózó félperiféria-szimptómájára.)
+    [4]
+   </p>
+   <p>
+    Ha az identitás elismerése ma a politika pártfüggetlen igazságának látszik, akkor megkísérelhető az identitás és a politikai igazság összetartozásának a kritikája is, legalábbis azokban az esetekben, amelyekben az identitás politizálása nem válik egyben a társadalmi hatalom kényszereinek formáját öltő termelési viszonyok kritikájává, a személy képességei kibontakoztathatóságának egyetemleges követelésévé, az emberi lény léte és lényege közti ellentmondás felszámolásának gyakorlatává.
+   </p>
+   <p>
+    Másfelől az is megkockáztatható, hogy
+   </p>
+   <p rend="head">
+    a munka társadalmi tartalmának megszűnése az, ami erodálja, sőt felszámolásra ítéli a politika értelmét és funkcióját.
+   </p>
+   <p>
+    Hiszen ha az élő munka és a munkások a termelés szempontjából egyre inkább fölösleges populációnak számítanak, a politikusok még sokkal inkább azok. Ám mégsem tűnik elfogadhatónak az, hogy a politikának azt a régi elképzelését, amelynek alapja a társadalmi munkán és termelésen alapuló társadalmi hatalom vitatása egy potenciálisan egyetemes politikai közösség elvi álláspontjáról, föl kellene váltani az identitások igazságkövetelő politikájával. Azért nem, mert a munka depolitizálása és társadalmi tartalmának kiürülése után a gyakorlat, a gyakorlati élet „üres helye”, nevezetesen a tartalmas életcselekvés szükséglete továbbra is velünk marad. A világot formáló objektív irányú társadalmi gyakorlatot nem lehet az önmeghatározás szubjektív irányú gyakorlataival kiváltani, még ha utóbbi feltétlenül jogosult is. Így a munka „üres helyét” problematizáló új politika és az identitáspolitika viszonyát valamilyen komplementiritásként kell elképzelni.
+   </p>
+   <p>
+    A munka és a termelés egyetemes értelme, mint korábban jeleztem, a társadalmiság anyagi és szerkezeti alapjainak, magának a társadalmi gyakorlatnak a megteremtése volt. Ha a munkafunkció mint a társadalmi viszonyok és gyakorlatok integratív önteremtő alapzata szétmállik, ha az értelmes életgyakorlatot megfojtja az absztrakt munka és értékforma rémuralma, az az önmagukba merülő és menekülő életek tömeges összeomlásába torkollik.
+   </p>
+   <p>
+    Ez a materiális háttér a – bár egyénileg gyakran jogos és érthető – kompenzációk és pótcselekvések irányába térítheti el az identitárius igazságkövetelések gyakorlatait is.
+   </p>
+   <p>
+    Ha személyeket valamely kisebbség reprezentánsaiként támadnak meg, nem lehet nem észrevenni, hogy ebben is az absztrakció, az egyenértékforma rémuralma fejti ki hatását, amellyel szemben valójában minden „egyes” kisebbségben van.
+   </p>
+   <p>
+    A hatalom tapintható indifferenciája a tekintetben, hogy mik az adott kisebbségi kategória immanens karaktervonásai, ha vannak, s hogy számára az áldozatok tetszőlegesen fölcserélhetőek, hiszen már eleve nem számítanak, valójában az úgynevezett „többséggel” szemben is permanens fenyegetést jelent. Így az identitásért vívott harc, akárcsak a munka emberi értelméért vívott küzdelem, ahol kibékül az egyenértékformával, ahol elfogadja vagy kénytelen elfogadni, hogy puszta reprezentáció, ott a társadalmi termelés hatamának tükorfordítottjává válva lényegének (immanenciájának) elvesztését kockáztatja – éppen akkor, amikor létét normatív értelemben is elismerik, azaz a társadalmi hatalom szintjére emelve hamisítják meg.
+   </p>
+   <p>
+    Így talán azt a határvonalat lenne tanácsos megkeresnünk, ahol az egyénülés megformálása, a magunkon magunkért és egymásért végzett munka egyben az értékesülés gátjává, továbbá egy új társadalmi életforma, egyénülés és társadalmiság, az emberek közti lehetőleg uralommentes viszonyok megteremtésévé válhat.
+   </p>
+   <p>
+    Munkások dolgoznak egy építőhelyen Ferencvárosban. Fotó: Kocsis Árpád / Mérce
+   </p>
+   <p rend="head">
+    Politika mint antipolitika
+   </p>
+   <p>
+    Végül azt a helyzetet is komolyan kell venni, hogy a társadalmiasult magánszféra „politikái” csak megszorításokkal nevezhetők valóban politikának. Hiszen alig tesznek mást, mint hogy pusztán menedzselni próbálják a kapitalista termelési viszonyok aktuális és lokális körülményeinek túszává vált életek permanens rossz közérzetét, szenvedését és cinizmusát, egzisztenciális, szociális, lelki és intellektuális kilátástalanságát. Ám ezirányú ténykedésükkel valójában nem fenntartják, megerősítik vagy létrehozzák, hanem felszámolják a politikai közösség amúgy is gyatrácska támasztékait.
+   </p>
+   <p>
+    E körülmények között minél inkább rászorulnánk a létező, hivatásos, akár „ellenzéki” politikai szféra támogatására, annál kevésbé számíthatunk rá. Ha így a „politika” errefelé valójában nem más, mint a félperifériás kapitalizmus menedzserfunkciója, azaz a politikai osztály szabadság-, nép- és személyellenes versengése-nyomulása a közjavak lenyúlásáért, akkor ezt az úgynevezett „politikát” az erre szakosodott teljes politikai osztállyal együtt egész egyszerűen meg kell tagadni, sőt el kell űzni és tiltani még a (látszat)ellenzékiség pozícióiból is.
+   </p>
+   <p>
+    Csak a lehetetlen, a teljesen új kezdet az, ami lehetséges. Az új politika kiindulópontja: az antipolitika.
+   </p>
+   <p>
+    A szabadság, a személy szabadsága, azaz képességeinek kibontakozása csak akkor valósulhat meg, ha a személy képességeinek kibontakozása és az egyesült, társadalmiasult egyének összteljesítménye (a társadalmi termelés hatalma) legalább részben és lényeges pontokon összhangba hozható. Elnyomás ott van, túl minden formális meghatározáson, ahol az, amit az emberek együttesen (mint társadalom) tesznek kizáró ellentétben áll azzal, amire a személyeknek egyenként szükségük van a szabadsághoz. Relatíve jó társadalom tehát az, ahol ahol az egyéni és össztársadalmi képességek és célok között a lényeges pontokon legalább létezik minimális összhang. Ahol viszont mindenki mást akar, mint a másik, mást gondol, mint amit mond, és mást gondol, mint amit tesz, ott a szabadság nyomora fog uralkodni. Itt tartunk most, a szabadság ellentmondásainak trágyájában.
+   </p>
+   <p rend="head">
+    A nehézség persze az, hogy a vágyott „közös alap”, a „minimálkonszenzus” nem pusztán megegyezés és a mégoly jóakaratú „összefogás” kérdése.
+   </p>
+   <p>
+    Hiszen a tettek és a gyakorlat mindig megcáfolhatják a szavakat és a nyilatkozatokat, az önellentmondó és nyíltan gonosz kijelentésekről nem is beszélve – a társadalmi gyakorlat hatalma a szubjektumon már ebben is megmutatkozik. Nem az „értékek”, hanem a társadalmi termelés és önteremtés közös alapjáról van szó, arról, hogy bár a személyek képességei, igényei, céljai egyénenként különböznek és szétválnak, a célhoz vezető eszközök (társadalmi, termelési, politikai, kulturális feltételek) kapcsán azonban egyességre kell lehessen jutni. Aminek feltétele a helyes és konkrét valóságmegismerés – bármennyire is idegenül hangozzon ez az interpretációs önkényként félreértett „szabadság” kortárs körülményei között.
+   </p>
+   <p>
+    Márpedig politika lényegi értelemben csak ott lehetséges, ahol a szavak, nyilatkozatok, de még a törvények is adekvátak a társadalmi termelés hatalma és az egyenkénti személyek összességének konkrét szabadságlehetőségei közti valóságos és pusztító feszültséggel. Vagyis ott, ahol az ember személyes élete szembe kerül a természeti és társadalmi kényszerrel: önnön szükségleteivel és az általa is kiszolgált társadalmi-termelési hatalommal. Végső soron tehát ott, ahol a politika alanya szembe kerül és szembe is tud nézni – tetteiben és műveiben – magával.
+   </p>
+   <p>
+    Az írás eredetileg
+    <hi>
+     A Szem
+    </hi>
+    <hi>
+     Szél
+    </hi>
+    című aloldalán jelent meg
+    .
+   </p>
+   <p>
+    [1]
+    – Ehhez lásd: Borbély András,
+    Misztika és politika IV. elidegenedés
+    / gyökértelenség =
+    <hi>
+     aszem.info
+    </hi>
+    , 2018. 01. 28.
+    [2]
+    – Karl Marx,
+    <hi>
+     A tőke. A politikai gazdaságtan bírálata
+    </hi>
+    , Budapest, Kossuth Könyvkiadó, 1973, 500.
+    [3]
+    – Lásd ehhez: Borbély András,
+    Nincs politika
+    =
+    <hi>
+     Mérce
+    </hi>
+    , 2021. március 6.
+    [4]
+    – Böröcz József,
+    <hi>
+     Kistársadalom – kiskapuk
+     .
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

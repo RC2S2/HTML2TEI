@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A társadalom önvédelmének történelmi perspektívái
+    </title>
+    <author>
+     <persName>
+      Gerőcs Tamás
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Pinkasz András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c80e129e-c825-5ee7-bda1-849fe9f4aa8d
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A társadalom önvédelmének történelmi perspektívái
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pinkasz András
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Gerőcs Tamás
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-10-31T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/10/31/a-tarsadalom-onvedelmenek-tortenelmi-perspektivai/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/10/31/a-tarsadalom-onvedelmenek-tortenelmi-perspektivai/
+     </sch:url>
+     <sch:name>
+      A társadalom önvédelmének történelmi perspektívái
+     </sch:name>
+     <sch:datePublished>
+      2019-10-31T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Gerőcs Tamás
+     </sch:author>
+     <sch:author>
+      Pinkasz András
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      A Mérce
+     </sch:keywords>
+     <sch:keywords>
+      szakszervezet
+     </sch:keywords>
+     <sch:keywords>
+      dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      szakszervezetek
+     </sch:keywords>
+     <sch:keywords>
+      rendszerváltás
+     </sch:keywords>
+     <sch:keywords>
+      Szabad Október
+     </sch:keywords>
+     <sch:keywords>
+      eszmélet
+     </sch:keywords>
+     <sch:keywords>
+      szabad október fesztivál
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c80e129e-c825-5ee7-bda1-849fe9f4aa8d">
+     <sch:identifier>
+      urn:uuid:f7bdc1ca-b982-4726-aea9-d7005b129606
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:01.359312
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:48:21.932810
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c80e129e-c825-5ee7-bda1-849fe9f4aa8d" when="2021-12-14T15:35:01.359312">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A társadalom önvédelmének történelmi perspektívái
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A kapitalizmus fejlődéstörténete társadalmi ellentmondásokra épül. A tőke hatalmának kiépülését és az azzal szembeni társadalmi ellenállásokat Polányi Károly „kettős mozgásként”, ún. ingamozgásként írja le. A társadalom önvédelmi mechanizmusai időszakosan képesek arra, hogy a társadalomból kiágyazódó tőkés gazdasági intézményeket visszaágyazzák, azaz visszavegyék fölöttük a társadalmi ellenőrzést.
+   </p>
+   <p>
+    Az alábbiakban a tőkés társadalmi viszonyok újraalakulására, történelmi ciklusainak váltakozásaira e társadalmi „önvédelmi reakciókon” keresztül nézünk rá. Ezen belül is a munkából élő emberek egyik legfontosabb önvédelmi intézményére, a szakszervezetre helyezzük a hangsúlyt, valamint arra, hogy az önvédelem kialakításában milyen szerep hárul az államra.
+   </p>
+   <p>
+    A két intézmény közvetlenül is kapcsolódik egymáshoz, hiszen egy szakszervezet az érdekvédelmet az állam által hozzá rendelt jogosítványokon, vagyis legális úton keresztül képes biztosítani a dolgozók számára. Bár e hozzászólásnak nem témája, de fontos rögzíteni, hogy a munkások önvédelmének sok olyan formája létezett már, amely adott történelmi korszakokban kikényszerült a legalitásból.
+   </p>
+   <p rend="head">
+    Azaz a szakszervezeti forma fontos, de a tőkés társadalmi elnyomással szembeni ellenállás megszervezésének nem az egyetlen formája: a törvényi szabályozás ugyanis egyszerre jelent lehetőséget és korlátot a működés számára.
+   </p>
+   <p>
+    A munkaerőpiacon kialakult munkaerőhiány és a kelet-európai régióval összevetve továbbra is meglepően alacsony bérek miatt legkésőbb 2017-től kezdve a szakszervezetek erősödését és népszerűségének a növekedését lehet tapasztalni. Mindezt annak ellenére, hogy a jogait és lehetőségeit jelentősen lecsökkentette a 2012-es Munka Törvénykönyve. A rendszerváltáshoz képest meglepően késői időpont oka, hogy ez a szervezeti forma pont azok szemében vált az államszocializmus évei alatt hiteltelenné, majd a rendszerváltást követő években működésképtelenné, akiknek az érdekeit szolgálni hivatott lett volna.
+   </p>
+   <p>
+    Német szakszervezeti tagok tüntetnek több szabadidőért. fotó forrása: Facebook IG Metall
+   </p>
+   <p>
+    Az írás Gerőcs Tamás és Pinkasz András hozzászólása az Eszmélet 1989-re vonatkozó körkérdéséhez. Az Eszmélet
+    <hi>
+     rendszerváltás
+    </hi>
+    <hi>
+     30.
+    </hi>
+    témájú beszélgetésér
+    e november 6-án 18 órától kerül sor a Gólyában, a Szabad Október keretein belül.
+   </p>
+   <p>
+    A szakszervezetek társadalmi önvédelmi szerepe Magyarországon az államszocializmus időszakától kezdve erodálódni kezdett. Központosításuk következtében államosították az intézmény érdekvédelmi funkcióját, ezzel azonban éppen a valós (sok esetben az állammal szembeni) önvédelem lehetőségeit üresítették ki.
+   </p>
+   <p>
+    A helyzet 1989 után, a rendszerváltással sem javult, sőt bizonyos szempontból romlott is. A korábbi központosított rendszert – részben a nemzetközi szervezetek javaslatára – olyan módon decentralizálták, hogy a dolgozói érdekvédelem meggyengült.
+   </p>
+   <p>
+    Az erős szakszervezetekkel rendelkező országokban (pl. Németországban) tipikusan ágazati szinten szerveződő szakszervezetek vannak, így azok képesek nagy erőt felmutatni a tőkével való tárgyaláskor. Magyarországon azonban a rendszerváltás egy széttöredezett struktúrát hozott létre: ágazatokat széttörő konföderációkat valamint az ágazati helyett gyári szinten aktívabb szakszervezeteket.
+   </p>
+   <p>
+    A munkás elégedetlenség artikulálásának nehézségeire talán az egyik legérdekesebb magyarországi példa a rendszerváltás idejének szakszervezeti mozgalmához vezet vissza. Az államszocialista rezsim megrendülésekor a gazdasági és politikai elitnek számolnia kellett a növekvő munkáselégedetlenséggel, és mivel a központi állam nem tudott felügyeletet gyakorolni a szakszervezeti mezőben zajló folyamatok fölött, ezért néhány területen sikerült a munkásoknak független érdekvédelmi tömörüléseket kialakítaniuk. Ebben a folyamatban három fontos kezdeményezést említünk: a BAL, a munkástanácsok és a Liga létrejöttét.
+   </p>
+   <p>
+    A rendszerváltáskor az Eszmélet körül szerveződő baloldali csoport szakszervezeti szövetségesekkel összekötve próbálta mozgósítani a munkásokat, annak érdekében, hogy ne engedjék a gyárakat rossz körülmények között privatizálni, valamint népszerűsítették a munkásönszerveződést. A korabeli sajtó és értelmiség azonban olyan mértékben sugallta a tőkés rendszerbe való visszatérés előnyeit, hogy a munkanélküliség és az infláció együttes veszélyével annak későbbi brutális megvalósulásáig alig számoltak a gyárakban. Így a szervezkedés nem tudott érdemi sikereket elérni, a bekövetkező válság pedig tovább szűkítette az elérhető eredményeket.
+   </p>
+   <p>
+    A kezdeti próbálkozások sikertelensége miatt a Baloldali Alternatíva Egyesülés (BAL) több tagja – a SZOT utódszervezeteként létrejött MSZOSZ-hez hasonlóan – az MSZP-n belül vagy éppen azzal szorosan együttműködve próbálta meg baloldali irányba alakítani a közpolitikákat. Ezt azonban érdemi kormányzati stratégiává – a pártpolitikai korlátok, és az MSZP tőkés rendszerbe való betagozódása miatt – nem sikerült átváltania.
+   </p>
+   <p>
+    Hasonló vakvágányra futottak az 1989 környékén megindult munkástanácsok is. Ezek elsősorban a gyárak bezárása és privatizációja ellen jöttek létre, de a vállalatvezetők tulajdonszerzését sem feltétlenül támogatták. Ethoszuk az 1956-os munkástanácsok önrendelkezési elképzeléseire épült. Ezek a munkástanácsok elégedetlenségüket fejezték ki nem csak a korabeli privatizáció miatt, hanem az MSZMP körüli nómenklatúra vagyonmentő intézkedései sem tetszettek nekik, ami viszont így fenyegetést jelentett nemcsak a vállalatvezetők, hanem a SZOT hatalmára is. A munkástanácsok elterjedésével ugyanis megszűnt az akkor még létező szakszervezeti csúcsszerv egyeduralma.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Szabad Október 2019
+    </hi>
+   </p>
+   <p>
+    A
+    <hi>
+     Mérce
+    </hi>
+    és a
+    <hi>
+     Gólya
+    </hi>
+    idén is megrendezi a Szabad Október fesztivált. Célunk, hogy ’18-at és ’56-ot is megidézve, a baloldali színtér szereplőivel együtt reflektáljunk helyzetünkre.
+   </p>
+   <p>
+    Beszélgetünk majd ’18-ról, ’56-ról és ’89-ről, lesznek történeti séták és tárlatvezetések. Kiemelt programjainkon pedig olyan kérdésekkel foglalkozunk, amelyeket ma a baloldal kulcskérdéseinek tartunk: a klímaváltozás kérdéséhez a szolidáris gazdaság lehetősége felől közelítünk, és megvitatjuk, hogy mit kezdhet a baloldali színtér az ellenzék 13-i áttörésével. Kelet-európai meghívottainkkal pedig a térségi szolidáris média lehetőségeiről fogunk beszélgetni.
+   </p>
+   <p>
+    <hi rend="bold">
+     Október 22. és november 10. között
+    </hi>
+    mindenkit szeretettel várunk a Gólyában és külső helyszíneken.
+    Katt a linkre!
+   </p>
+   <p>
+    A munkástanácsok 1991-re átalakították szervezeti működésüket, és az eredeti 1956-os ethosztól eltérően, vagy éppen annak bukásából okulva egy központilag koordinált konföderációba tömörültek, amely végül a konzervatív-nemzeti MDF vezette kormánnyal alakított ki szövetséget 1991 után, ma pedig a Fidesz-KDNP pártcsalád holdudvarába tartozik. Ugyanakkor a konföderáció itt sem tudott a politikai kapcsolatán keresztül érdemi eredményeket elérni.
+   </p>
+   <p>
+    A Liga alá tartozó szakszervezetek szintúgy ebben az időszakban jöttek létre, és már az első években több százezer korábbi SZOT tagot számláltak. Ezt a csoportosulást is kifejezetten az állampárttól függő SZOT-tal szemben hozták létre. Mivel ez a kezdetektől kvázi konföderációként működött, ennyiben nagyobbak is voltak a helyi érdekérvényesítésen túl mutató politikai ambíciói, mint a még független munkástanácsoknak. A Liga szintén elutasította a spontán privatizációt és a gazdasági nómenklatúra építését, vagyis az MSZMP-vel szemben pozícionálták magukat, és a pártok megalakulásakor az SZDSZ-hez kerültek közel az 1990-es választások idején.
+   </p>
+   <p>
+    Az SZDSZ-en belül 1989-ben még több ideológiai irányzat is képviselte magát, és a baloldali szárny például kereste volna a kapcsolatot a független munkástanácsokkal még mielőtt azok keresztény-konzervatív irányba álltak. Az SZDSZ-ben közben a liberális piacpárti csoport kerekedett felül, ami végül megakadályozta az ez irányú építkezést. A Ligával kialakított szövetség is csak az MSZP és az SZDSZ között létrejött koalícióig állt fenn, ezt követően a Liga az 1998-ban először kormányra kerülő Fidesz felé orientálódott át.
+   </p>
+   <p>
+    A szakszervezetek és a politikai pártok közelsége mindegyik esetben értékalapúvá vált.
+   </p>
+   <p rend="head">
+    Ugyanakkor a szakszervezetek érdek- és nem értékképviseletre jöttek létre, és az érdekeiket pedig szemmel láthatóan nem képviselték a pártok.
+   </p>
+   <p>
+    Az adott történelmi körülmények között még hihető volt, hogy egyes pártok képesek lehetnek a szakszervezetek érdekeinek védelmére, mára azonban látványossá vált, hogy érdemi döntéseknél a pártok az általuk képviselt tőkefrakciók érdekeit képviselik – akiknek pedig többnyire ellentétes az érdeke a dolgozókéval. Mindez a rendszerváltás utáni munkásérdek-képviselet visszaszorulását, és a társadalmi önvédelmi reakciók legyengítését eredményezte.
+   </p>
+   <p>
+    Bár a pártpolitika csapdáját legkésőbb a kétezres évek elejére mindegyik szakszervezeti konföderáció megtapasztalta, máig erősebb közöttük az értékalapú elkülönülés és a tartós politikai kapcsolatok megőrzésére vonatkozó igény, mint az érdekérvényesítés jegyében kötött szakszervezeti és politikai koalíciók megerősítése. A 2010 óta zajló magyar nemzeti „szabadságharc” is a nemzeti tőke és a nemzetközi tőke közötti tulajdon újraelosztás története. A dolgozó a nemzeti tőke sikerét az ideológián keresztül, de nem a bérén keresztül érezheti át.
+   </p>
+   <p rend="head">
+    Minden érdemi béremelésért a dolgozóknak maguknak kellett megküzdeniük.
+   </p>
+   <p>
+    Mindeközben a munkavállalói jogok folyamatos gyengítése vagy a munkabiztonsági előírások leépítése egyre lehetetlenebb helyzetbe hozták nem csak a szakszervezetek működését (gondoljunk csak a 2010-es sztrájktörvény szigorítására), hanem az egyes dolgozók alkuerejét is. Az önvédelmi mechanizmusok gyengülésére utal, hogy a Fideszhez kötődő szakszervezetek ebben az átalakulásban olyan defenzív helyzetbe kerültek, hogy például a Munka Törvénykönyvének 2018-as átírásához (az ún. rabszolgatörvényhez) részben asszisztálni voltak kénytelenek. Az azóta kialakult sikeres béralkuk rámutattak arra, hogy a szakszervezetek csak akkor tudnak eredményt elérni, ha egy nagy és mobilizálható tagsággal rendelkeznek, nem töredezettek értékalapon ágazati szinten, és képesek tiszta formában a dolgozóik érdekében politizálni.
+   </p>
+   <p>
+    Fotó: Markoszov Szergej, Mérce
+   </p>
+   <p>
+    A másik fontos tanulság a szakszervezeti mobilizáció kapcsán, amire szintén a 2000-es évek világgazdasági folyamatainak megváltozása hívta fel a figyelmet, hogy az értékkisajátítást és elosztást végző tőke egyre globalizáltabban szervezi meg a termelést, miközben a szakszervezetek tevékenységei – a szabályozói korlátozások miatt – leginkább továbbra is a nemzeti politikai színtérre korlátozódnak. Számos európai szakszervezet ismerte fel az elmúlt években, hogy ki kell lépni ebből a keretből, máskülönben a tőkével szembeni hatékony érdekképviselet, a dolgozók önvédelme számolódik fel.
+   </p>
+   <p>
+    Fontos hangsúlyoznunk, hogy erre a következtetésre nem valamilyen elméleti konstrukció vezetett, hanem a hétköznapi gyakorlat kihívásai. Jó példa erre a járműipar, amely Európa egyik centrumállamában, Németországban továbbra is az egyik legerősebb ipari tőkefrakció alá tartozik, és a szervezett munkásság is ebben az ágazatban az egyik legerősebb, vagyis az érdekellentétek sokszor ebben a szektorban tőrnek a leglátványosabban a felszínre.
+   </p>
+   <p>
+    Az elmúlt évek ipari átszervezései, azaz a járműipari tevékenységek jelentős részének – különösen azoknak, amelyek nagyszámú dolgozót érintettek – áttelepítése a kelet-európai régióba, kihívást jelentett nem csak a németországi aktív fémipari dolgozók szakszervezetének (IG Metall), hanem a kelet-európai társszervezeteknek is. Ebben a kontextusban adódott és adódik, hogy a tőke – ez esetben a járműipari cégek – igyekszik kihasználni a dolgozók és érdekképviseleti szervezeteik nemzeti határokon átnyúló töredezettségét.
+   </p>
+   <p>
+    Az IG Metall szolidaritást vállalt a sztrájkoló Audi-szakszervezettel a 2019-es munkabeszüntetés idején.
+   </p>
+   <p>
+    A hatékony önvédelem egyik alapfeltétele éppen az, hogy ezek a szervezetek nem egymásra licitálva, egymással szemben próbálnak egy vesztésre álló küzdelmet a nemzeti keretek között megvívni a sokkal globalizáltabb tőkével szemben, hanem előnyükre fordíthatják a szakszervezeti és egyéb munkásmozgalmak határokon átnyúló mozgósító erejét. Látunk ilyen irányú üdvözlendő kezdeményezéseket, és azt gondoljuk, hogy a hatékony érdekképviseletet a jövőben ezen a nemzetközi, de legalábbis regionális (például EU-n belüli) téren kell ellátni, a küzdelmet megvívni.
+   </p>
+   <p>
+    Bár a fenti tanulságokat a szakszervezetekre fókuszálva rögzítettük, a 2008-as válságot követő évtized számos egyéb tanulságot is hozott, például hogy milyen korlátjai vannak, ha az önvédelmet egy zárt politikai térben, például egy pártban próbálják megvalósítani a dolgozó emberek érdekeit ellátó szervezetek. A nemzetközi fellépés bár szükséges, de nem minden szempontból elégséges feltétele a társadalmi önvédelemnek. Az Európiai Uniót (EU) is a tőkés csoportok szervezték meg, és mint az ipari átszervezés következményeiből, és az azok köré épült politikákból látjuk, máig elsősorban a tőke érdekeit szolgálja.
+   </p>
+   <p>
+    Az EU-s intézmények bevétele, egyáltalán az uniós politikai színtérre kerülő küzdelmek sem kecsegtetnek gyors és egyöntetű sikerrel. Ha valakinek valaha is kétségei lettek volna e felől, annak a görögországi események, a Sziriza párt betagozódása a tőkés elnyomásba, és ezáltal a valós önvédelem feláldozása egyértelmű példa lehetett, hogy hol vannak a korlátai egy alulról jövő társadalmi önvédelmi kezdeményezésnek a nemzetközi politikai térben.
+   </p>
+   <p>
+    Az önvédelem részben alulról szerveződő, az emberekkel szoros és közvetlen kapcsolatot fenntartó formái – pl. az említett szakszervezetek – komoly veszteség nélkül nem kikerülhetők. Párt vagy új dolgozói mozgalom alapítása, az államhatalom megszerzése, vagy akár Uniós szervek bevétele a tőkés társadalmi rendszerben csak nagyon nehezen tud működő stratégiává válni, ha egyáltalán azzá tud válni, mert számos helyen a betagozódás, az ingamozgás átbillenésének veszélye áll fenn.
+   </p>
+   <p>
+    A mindenkori kormányok ugyanis a tőkés világrendszerben a tőkés felzárkózás versenyében menedzselik az országot, ami a dolgozók érdekeivel szemben, érdekeik megosztásával és feláldozásával tud csak megvalósulni. Mint megtapasztalhattuk az elmúlt években is – például a magyar Munka Törvénykönyvének 2018-as szabályozása kapcsán – sok esetben az egyes dolgozói csoportokat, például a közmunkásokat vagy a határozott idejű szerződéses munkavállalókat, a kölcsönzött munkásokat és a teljes állásúakat egymással szemben is megpróbálja kijátszani a tőke (akár a multinacionális vállalatok, akár a hazai burzsoázia, de leginkább mindkettő) érdekében eljáró kormányzat.
+   </p>
+   <p>
+    A
+    kormányzat a munkavállaló-ellenes intézkedéseit csak egyre álságosabb ideológiával tudja eltakarni. Ennek az ideológiának – ami jelenleg a menekülésre kényszerülő embertársainkat kiáltja ki bűnbaknak – éppen a tőkével szembeni saját önvédelmünk miatt nem szabad felülni. Rosa Luxemburg volt talán az egyik első baloldali gondolkodó, aki már a század elején felhívta a figyelmet, hogy a gyarmati népekkel, a centrumon kívüli tőke kizsákmányolt áldozataival szolidaritást kell vállalnunk, és a dolgozói érdekképviseleteknek a nemzetközi színtéren, annak megfelelő fórumain és szintjein közösséget kell tudni vállalni a világ legmegnyomorítottabb és legkizsákmányoltabb embereivel.
+   </p>
+   <p rend="head">
+    Csak közös fellépéssel gyakorolható az önvédelem, máskülönben a tőke minden eszközt bevet arra, hogy megossza a munkából élő emberek legkülönbözőbb csoportjait.
+   </p>
+   <p>
+    A társadalmi ellenállás, önvédelem bár a tőkés kizsákmányolás miatt mindig jelen van, de ennek artikulációja, hogy valós rendszerformáló erővé váljon, sőt a tőkés rendszerrel szemben szerveződjön meg, csak nagyon nehezen tud jól kifejeződni. Ha odafigyelünk ezekre a tanulságokra, akkor van esély nem csak egy szélesen vett nemzetközi szolidaritásra, hanem a tőkével szembeni hatékony fellépésre, a legkülönbözőbb hátterű dolgozók társadalmának a mainál erősebb közös önvédelmére.
+   </p>
+   <p>
+    <hi>
+     Budapest – Binghamton 2019.10.10.
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

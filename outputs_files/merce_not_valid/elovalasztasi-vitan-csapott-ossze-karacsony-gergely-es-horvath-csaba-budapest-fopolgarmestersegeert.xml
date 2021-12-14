@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Előválasztási vitán csapott össze Karácsony Gergely és Horváth Csaba Budapest főpolgármesterségéért
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     da6936d6-6db3-54a8-93de-5b9fdaa1890b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Előválasztási vitán csapott össze Karácsony Gergely és Horváth Csaba Budapest főpolgármesterségéért
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-20T19:21:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/01/20/elovalasztasi-vitan-csapott-ossze-karacsony-gergely-es-horvath-csaba-budapest-fopolgarmestersegeert/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/01/20/elovalasztasi-vitan-csapott-ossze-karacsony-gergely-es-horvath-csaba-budapest-fopolgarmestersegeert/
+     </sch:url>
+     <sch:name>
+      Előválasztási vitán csapott össze Karácsony Gergely és Horváth Csaba Budapest főpolgármesterségéért
+     </sch:name>
+     <sch:datePublished>
+      2019-01-20T19:21:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      budapest
+     </sch:keywords>
+     <sch:keywords>
+      karácsony gergely
+     </sch:keywords>
+     <sch:keywords>
+      választás
+     </sch:keywords>
+     <sch:keywords>
+      előválasztás
+     </sch:keywords>
+     <sch:keywords>
+      főpolgármester-jelölt
+     </sch:keywords>
+     <sch:keywords>
+      vita
+     </sch:keywords>
+     <sch:keywords>
+      horváth csaba
+     </sch:keywords>
+     <sch:keywords>
+      jelölti vita
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="da6936d6-6db3-54a8-93de-5b9fdaa1890b">
+     <sch:identifier>
+      urn:uuid:f6c4d530-bbb3-45b4-8662-f5ce6bb15267
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:37.273411
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:20:08.899361
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="da6936d6-6db3-54a8-93de-5b9fdaa1890b" when="2021-12-14T15:30:37.273411">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Előválasztási vitán csapott össze Karácsony Gergely és Horváth Csaba Budapest főpolgármesterségéért
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A három közül első alkalommal vitázott a baloldal két főpolgármester-jelöltje, Horváth Csaba (MSZP) és Karácsony Gergely (Párbeszéd). A vitára, amelyet a 11. kerületi Danubius Hotel Flamencoban tartottak, jelentős közönség mellett, Szöllősi Györgyi tévés újságíró moderálásával került sor.
+   </p>
+   <p>
+    A hangulat az ellenfelek, Horváth és Karácsony között alapvetően barátságos volt, csak ritkán csapott át nézeteltérésekből fakadó, valódi szóváltássá. Az ilyen pillanatok egyike volt, amikor Horváth Csaba azt kérte számon Karácsony Gergelyen, miért támogatja a szerinte „levitézlett” Vitézy Dávid közlekedési elképzeléseit, és miért van Zuglóban fideszes alpolgármestere.
+   </p>
+   <p rend="head">
+    A maga részéről ugyanis Horváth kijelentette: „A NER-rel nincs alku!”
+   </p>
+   <p>
+    Válaszul Karácsony Gergely hangsúlyozta, ő 2014-ben úgy lett újoncként polgármester a 14. kerületben, hogy számos párt támogatója rá szavazott. Kiemelte, hogy elvek, értékek mentén mindig is az együttműködésre fog törekedni, és hogy Vitézy 2014 előtti munkáját, például az integrált BKK-t, nagyon fontosnak tartja.
+   </p>
+   <p>
+    Karácsony egyébként nem kereste az MSZP jelöltjével aktívan a konfliktust, viszont leszögezte:
+   </p>
+   <p rend="head">
+    Egyetlen ellenzéki főpolgármester-jelölt indulása a cél Tarlós ellen, és ehhez olyan jelölt kell, akit nemcsak a baloldali, de jobbikos és akár kormánypárti szavazók is támogatni tudnak.
+   </p>
+   <p>
+    Szerinte ő az esélyesebb erre a címre.
+   </p>
+   <p>
+    Horváth a maga részéről erre csak annyit válaszolt, az előválasztási rendszer miatt teljesen biztos benne, hogy az, aki ezt végül megnyeri, Budapest főpolgármestere lesz, mert csak egyetlen ember lesz, akivel a Fideszt le lehet majd váltani, és nem arról szól a versenyt hogy bármelyik jelöltet is „szeretnék” az ellenzéki szavazók.
+   </p>
+   <p>
+    A jelöltek egyetértettek abban, hogy Budapest és a budapesti városvezetés lehet az a pont, ahonnan a Fideszt az ellenzéki együttműködés 2022-re meg tudja buktatni,
+   </p>
+   <p rend="head">
+    és a fővárosban kell kiépíteni az ellenállást.
+   </p>
+   <p>
+    Ezzel kapcsolatban Horváth és Karácsony is számít arra, októberben nemcsak ellenzéki főpolgármester, de ellenzéki többségű közgyűlés is lesz Budapesten.
+   </p>
+   <p>
+    Részleges programvita
+   </p>
+   <p>
+    A két vitás pillanat mellett még egy nézteltérésre a moderátor hívta fel a figyelmet. Felidézte ugyanis, hogy Horváth Csaba korábban azt állította, Karácsony „másolta” az ő programját.
+   </p>
+   <p>
+    Karácsony ezt ugyan nem utasította vissza teljesen határozottan, ugyanakkor kiemelte, hogy sok ellenzéki társától tanul, így Horváth Csabától is. A Párbeszéd jelöltje már a vita elején kifejezte, elvárja Horváth Csaba támogatását ha ő győz, és ugyanezt teszi majd, ha Horváth kerekedik felül.
+   </p>
+   <p>
+    Főbb programpontjait is kifejtette: ezek közül az egyik legfontosabbnak a tömegközlekedés reformját és a bérletek árának racionalizálását, csökkentését említette meg, emellett azonban a szegénységet, és a klímaváltozást említette, mint szerinte fontos kihívásokat:
+   </p>
+   <p>
+    „Olyan várost szeretnék, ami mindannyiunké, nem a Fideszé, nem az ingatlanbefektetőké és nem az autóké, hanem az embereké.”
+   </p>
+   <p>
+    – jelentette ki.
+   </p>
+   <p>
+    Ehhez hozzátette, szerinte Orbán Viktor
+    és Tarlós István főpolgármester nem ismerik, hogyan élnek az átlag budapestiek, egy korábbi videó tanúsága szerint elcsodálkoztak a villamos átlagsebességén is. Tarlóst a miniszterelnök pedig Karácsony szerint többször porig alázta.
+   </p>
+   <p>
+    „Orbán akaratát csak a budapestiek tudják megállítani. Én azért ragaszkodtam az előválasztáshoz, mert a következő főpolgármester-jelöltnek nem az ellenzék, hanem a budapestiek jelöltjének kell lenni.”
+   </p>
+   <p>
+    – hangsúlyozta.
+   </p>
+   <p>
+    Horváth Csaba, programja bemutatása előtt azt tartotta fontosnak megjegyezni, hogy „a NER csak az erőből ért”, ezt bizonyította a Római part és a Nolimpia kampány esete is, ezért a Fidesszel szemben Budapesten „erőt kell mutatni.”
+   </p>
+   <p>
+    Az MSZP-s jelölt egyébként meglepően sok zöld, avagy zöldítő javaslatot vett föl programjába.
+   </p>
+   <p rend="head">
+    Legérdekesebb javaslata arra vonatkozik, hogy a Belvárosban sok helyen le kívánja vinni a közúti közlekedést a föld alá, míg a felszínt a gyalogosoknak és a zöldterületnek adná.
+   </p>
+   <p>
+    Karácsony ezzel kapcsolatban megjegyezte, hogy ez a programpont mindenképpen túlzó, és nem lehet általános szabályként bevezetni azt.
+   </p>
+   <p>
+    A legfontosabb különbség Horváth Csaba programjában és ajánlatában az budapesti adóforintok kérdése volt. Kijelentette, hogy miközben a fővárosiak napi 20 milliárd forint adót fizetnek be az államkasszába ebből csupán „stadionokat és atlétikai központokat” kapnak vissza, így ígéretként fogalmazta meg, hogy minden 10 forint budapesti adóból 1 a fővárosba juttat vissza, ha gyöz.
+   </p>
+   <p>
+    Karácsony Gergely élesen elítélte a Liget-projektet is. Közölte,
+    a Városligetet beépítő projekt csupán azért jött létre, „mert Orbán kinézte a Várat, rájött hogy ott múzeumok vannak, és oda akarta áttenni.”
+   </p>
+   <p>
+    A Liget-projekt a Párbeszéd jelöltje szerint jelképezi mindazt, ami ellen fel kell lépnie az új városvezetésnek. Elmondta, Budapesten nagyon kevés a zöldterület, a Városliget ezért „a legbecsesebb kincs.”
+   </p>
+   <p>
+    Ezért kijelentette, nagyon egyszerűen meg is tudja főpolgármesterként állítani a projektet, az a törvény ugyanis amit elödje, Papcsák Ferenc volt zuglói polgármester nyújtott be, nem a végső szó, valójában a Városligeti Építési Szabályzat a VÉSZ teszi lehetővé a beépítését.
+   </p>
+   <p>
+    Ígéretet tett: ha főpolgármester lesz, módosíttatja a VÉSZ-t és csupán egy mondat lesz benne:
+   </p>
+   <p rend="head">
+    A Városligetbe nem építünk semmit.
+   </p>
+   <p>
+    Budapest, 2019. január 20. Karácsony Gergely, a Párbeszéd (b) és Horváth Csaba, az MSZP jelöltje a baloldali fõpolgármester-jelölti elõválasztás keretében tartott vitán a budapesti Danubius Hotel Flamencóban 2019. január 20-án. MTI/Bruzák Noémi
+   </p>
+   <p>
+    Horváth a maga részéről teljesen egyetértett Karácsonnyal, és közölte, a Liget-projekt példátlan Európában, amennyiben egy érték miatt egy másik értéket elpusztítanak. Így a maga részéről az új múzeumi negyedre a Nyugati pályaudvar környékén tett javaslatot, hiszen szerinte nem kell azt mindenképpen a Városligetbe építeni.
+   </p>
+   <p>
+    Kisebb nézteletérés alakult ki akkor, amikor a jelöltek a hajléktalan emberek és a lakhatás tárgykörében kapott kérdésre reagáltak.
+   </p>
+   <p>
+    Horváth Csaba a hajléktalanok rehabilitálását és integrálását javasolta, méghozzá „svéd modell” szerint, de hozzátette, szerinte „van egy réteg, amely magatartási okokból hajléktalan.”
+   </p>
+   <p rend="head">
+    Karácsony Gergely erre röviden reflektálva kijelentette, nem a hajléktalanok hanem a hajléktalanság ellen kell egy városvezetésnek küzdenie, véget Kell tehát vetnivetni közterü való vegzálásuknak és az elhelyezés nélküli kilakoltatásoknakz. Ezért szerinte a mostani szállóknál komfortosabb lakhatás elérhetővé tétele lehet csak a cél.
+   </p>
+   <p>
+    Szóba került még a Ferihegyi repülőtér megnövekedett forgalma is, ezzel kapcsolatban Karácsony leszögezte, hosszú távon új repülőtér kell a fővárosnak, hiszen nonszensz az, hogy ekkora légiforgalmat a város felett vezetnek el itthon, rövid távon azonban éjfél és 5 óra közötti forgalmi tilalom és a „védett zónák” kiterjesztése lenne erre a megoldás.
+   </p>
+   <p>
+    Az előválasztás első körében Horváth és Karácsony közül lehet kiválasztani, ki mérkőzik majd meg a júniusi második körben a függetlenként induló Puzsér Róberttel a baloldal jelöltjei közül.
+   </p>
+   <p rend="head">
+    Az első körben január 28 és február 3 között lehet majd Karácsony Gergely vagy Horváth Csaba mellett voksolni, hogy hogyan, arról itt
+    részletesen is írtunk.
+   </p>
+   <p>
+    A teljes vitát az ATV élőben is közvetítette, itt visszanézhető:
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az igazságszolgáltatás az oktatás és az egészségügy útjára lépett
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     dd8f56aa-1c3b-567e-b04d-3709518e357f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az igazságszolgáltatás az oktatás és az egészségügy útjára lépett
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-08T07:13:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/08/az-igazsagszolgaltatas-az-oktatas-es-az-egeszsegugy-utjara-lepett/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/08/az-igazsagszolgaltatas-az-oktatas-es-az-egeszsegugy-utjara-lepett/
+     </sch:url>
+     <sch:name>
+      Az igazságszolgáltatás az oktatás és az egészségügy útjára lépett
+     </sch:name>
+     <sch:datePublished>
+      2017-11-08T07:13:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      demokrácia
+     </sch:keywords>
+     <sch:keywords>
+      igazságszolgáltatás
+     </sch:keywords>
+     <sch:keywords>
+      handó tünde
+     </sch:keywords>
+     <sch:keywords>
+      csak meg ne szólaljon
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="dd8f56aa-1c3b-567e-b04d-3709518e357f">
+     <sch:identifier>
+      urn:uuid:5ce15632-e06f-42fc-bb3f-337d5186b251
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:54.648122
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:37:05.424989
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="dd8f56aa-1c3b-567e-b04d-3709518e357f" when="2021-12-14T15:30:54.648122">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az igazságszolgáltatás az oktatás és az egészségügy útjára lépett
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Országos Bírósági Hivatal: kéretik csöndben maradni (Kép forrása: MTI)
+   </p>
+   <p>
+    Végülis nem tűnik nagy dolognak: állítólag
+    Handó Tünde kérésére
+    nem engedte be a tévébe nyilatkozni Szepesházi Péter bírót a munkaadója. Pedig mondanivalója nyilván lett volna, hiszen a bíróságokról folyt volna a szó.
+   </p>
+   <p>
+    Szepesházi az utóbbi időben többször, több fórumon is bírálta az Országos Bírói Hivatal elnökét, illetve úgy általában azt, ahogyan manapság az igazságszolgáltatás működik. Innen nézve persze valahol érthető is, hogy ez az elnök, vagyis Handó Tünde nincs elragadtatva attól, hogy egy újabb műsorban is elmondassék az ő hozzá nem értése és rossz vezetői hozzáállása.
+   </p>
+   <p>
+    Másrészt viszont ez a mostani eset is rávilágít arra, hogy mi az egyik oka annak, hogy nem omlik ez az egész rendszer a működtetői fejére. Azért, mert nincs, aki fel merjen szólalni ellene – ha pedig mégis van, akkor azt igyekeznek elnémítani.
+   </p>
+   <p>
+    Handó nem az első, aki ehhez az eszközökhöz nyúl. Az oktatásban például gyakorlatilag azóta ez folyik, hogy a Fidesz-KDNP központosított, kézivezérelt üzemmódba váltott. Ma egy pedagógus nem nyilatkozhat ám csak úgy, bárkinek, ahhoz engedélyt kell kérni a tankerülettől. Az igazgatók esetében pláne. A procedúra pedig nem csak lassítja a pedagógusokkal való kommunikációt, de egyben gyanakvást is kelt. Miért nyilatkozik az a pedagógus? Mit fog mondani? Az iskola hírnevét rossz színben ugye nem tüntetheti fel, így persze nem is nagyon akar már mondani semmit (hisz a tankerület úgyis ellenőrzi, aztán ő marad ott trében, holnap is van tanítás, halló!), végül minden kérdés teljesen okafogyottá válik – olajozottan működő gépezet ez, az iskolák évek óta gyakorlatilag némák, nem nagyon tudjuk, mi folyik odabent.
+   </p>
+   <p>
+    És igen, ugyanez van ám az egészségügyben is. Ott se lehet csak úgy elcsípni a folyosón egy orvost vagy nővért, sőt,
+    olyat is láttunk már
+    , hogy egy kórház azt is megtiltotta a dolgozóinak, hogy kommenteljenek vagy akár „rossz híreket” lájkoljanak, amivel negatív színben tüntetik fel a az intézmény dolgozóit. Mert ha nem? Vállalniuk kell a „polgári vagy büntetőjogi felelősséget”.
+   </p>
+   <p>
+    És akkor úgy tűnik, ez a remek módszer most elérte az igazságszolgáltatást is. Nem nehéz megérteni az okát: Handó Tünde viselt dolgai nem igazán tüntetik fel jó színben a rendszert. Már az is elég beszédes volt, amikor a Fővárosi Törvényszék a pletykálkodást
+    tiltották meg
+    (hogy csak a szakmai ügyekről nem lehetett eszmét cserélni, vagy a magánügyeket se, az nem derült ki sajna).
+   </p>
+   <p>
+    A lényeg ugyanis az, hogy mindazoknak, akik látják, mindennap megtapasztalják a rendszer visszásságait, azoknak némának kell lenniük. Nem juthat ki egy rossz szó, egy fél panasz, egy köldökszösznyi elégedetlenség sem, hiszen Magyarország erősödik, intézményrendszerei a nagy átalakítások, személycserék és irányváltások után most jó irányba haladnak. Óriásplakátokon, legalábbis.
+   </p>
+   <p>
+    És ezt az illúziót nem rombolhatja le holmi jöttment, az intézményben dolgozó, a problémákkal (melyek valójában nincsenek is) minden nap találkozó nyilatkozó!
+   </p>
+   <p>
+    Nyilván óriási probléma az, hogy ma már az – elvileg ugyebár független – igazságszolgáltatás is így működik. De ugyanígy baj, hogy minden, állami kézben lévő szektort sújt jelenleg ez a némasági bulla, kimondva vagy kimondatlanul, de ott lebeg mindannyiuk feje felett a „hallgatsz vagy repülsz” soha le nem íródó szabálya.
+   </p>
+   <p>
+    Kár ezért az egészért. Mert hát végülis mennyivel egyszerűbb lenne, ha a rettegés helyett, hogy vajon kinél szakad el a cérna, és ki ront ki a nagyvilágba, hogy körbeüvöltse a problémákat, inkább megoldani próbálnák őket. Ha nem a paranoid túlszabályozással próbálnák elhallgattatni a dolgozókat, hanem azzal, hogy élhető körülményeket teremtenek nekik, nem verik szét a fejük felett az egész intézményrendszert, és nem félemlítik meg őket folyamatosan, hanem hagyják dolgozni.
+   </p>
+   <p>
+    Minőségi munkát ugyanis ilyen mérgező légkörben folytatni nem lehet – és ez igaz az oktatásra éppúgy, mint az egészségügyre vagy az igazságszolgáltatásra. Meg az összes többi szektorra, ahol egyelőre nem mert még megszólalni senki. De meddig bírják?
+   </p>
+  </body>
+ </text>
+</TEI>

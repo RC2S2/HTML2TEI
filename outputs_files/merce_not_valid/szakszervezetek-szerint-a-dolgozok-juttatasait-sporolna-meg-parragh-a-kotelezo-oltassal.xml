@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szakszervezetek szerint a dolgozók juttatásait spórolná meg Parragh a kötelező oltással
+    </title>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e5f60cf8-021e-5118-bcef-0eec67788fde
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szakszervezetek szerint a dolgozók juttatásait spórolná meg Parragh a kötelező oltással
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-20T16:54:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/20/szakszervezetek-szerint-a-dolgozok-juttatasait-sporolna-meg-parragh-a-kotelezo-oltassal/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/20/szakszervezetek-szerint-a-dolgozok-juttatasait-sporolna-meg-parragh-a-kotelezo-oltassal/
+     </sch:url>
+     <sch:name>
+      Szakszervezetek szerint a dolgozók juttatásait spórolná meg Parragh a kötelező oltással
+     </sch:name>
+     <sch:datePublished>
+      2021-07-20T16:54:00
+     </sch:datePublished>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      MASZSZ
+     </sch:keywords>
+     <sch:keywords>
+      oltás
+     </sch:keywords>
+     <sch:keywords>
+      Kordás László
+     </sch:keywords>
+     <sch:keywords>
+      Parragh László
+     </sch:keywords>
+     <sch:keywords>
+      mkik
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e5f60cf8-021e-5118-bcef-0eec67788fde">
+     <sch:identifier>
+      urn:uuid:0d0a2adc-6bdb-4030-b524-c9d6695adac5
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.403304
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:59.491830
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e5f60cf8-021e-5118-bcef-0eec67788fde" when="2021-12-14T15:30:43.403304">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szakszervezetek szerint a dolgozók juttatásait spórolná meg Parragh a kötelező oltással
+   </head>
+   <p>
+    A Magyar Szakszervezeti Szövetség (MASZSZ) azonnali érdekegyeztetést kezdeményez Parragh László, a Magyar Kereskedelmi és Iparkamara (MKIK) elnökének nemrég tett javaslata kapcsán, miszerint a munkáltató kötelezővé teheti munkavállalóinak az oltást. Parragh a
+    Portfóliónak adott
+    , ma megjelent interjújában jelentette ki,  hogy egy új jogszabály bevezetését javasolná a kormánynak, mely alapján bizonyos munkakörökben kötelezővé tennék a védőoltást az alkalmazottaknak.
+   </p>
+   <p>
+    Az elnök szerint ma is elterjedt gyakorlat, hogy a vállalatok elvárják a dolgozóiktól az oltást, a jogszabályi módosítás viszont megkönnyítené ezt a lehetőséget. A Kamara vezetője azzal indokolta a javaslatot, hogy csak így lehet elkerülni, hogy a gazdaságot újra le kelljen zárni.  Kordás László, a MASZSZ elnöke azonban felhívta a figyelmet, hogy a jogszabály esetleges bevezetése hátrányosan érintené a munkavállalókat.
+   </p>
+   <p rend="head">
+    A nem létező problémára miért kell jogszabályt alkotni?
+   </p>
+   <p>
+    Kordás László szerint a munkavállalók beoltottsága terén eddig nem is volt probléma, amit Parragh július 20-ai nyilatkozatában is elismer, hiszen a helyi szakszervezetek segítségével szinte minden munkahelyen meg tudott egyezni a munkáltatói és a munkavállalói oldal az oltások beadatásáról. A legtöbb helyen ezt plusz juttatásokkal oldották meg: aki vállalta az oltást, az szabadnapot kapott, de egyéb megoldások is működnek.
+   </p>
+   <p rend="head">
+    Kordás ezért felveti: vajon nem éppen ezeket a pluszokat akarja-e az MKIK elnöke megspórolni a munkáltatóknak? Márpedig úgy tűnik, ez lehet a cél – vélekedik a MASZSZ elnöke.
+   </p>
+   <p>
+    Az új jogszabály ráadásul szabad kezet adna a munkáltatóknak az oltások kötelezővé tételére. Kordás szerint a javaslatból az is következik, hogy aki nem hajlandó beoltatni magát a „főnök” utasítására, azt a jogszabályra hivatkozva egyszerűen ki lehessen rúgni a munkahelyéről.
+   </p>
+   <p>
+    Kordás ugyanakkor hangsúlyozta, mindent meg kell tenni a gazdaság működésének fenntartásáért, szerencsére ezt nagyon sok munkavállaló is így gondolja, hiszen beadatta az oltást. A MASZSZ ezért elkötelezett híve annak, hogy megakadályozzunk egy újabb, esetleges drámai leállást – írja közleményében a szövetség. A gazdaság ismételt lebénulása ugyanis újabb munkanélküliségi hullámot indítana el, amit dolgozók tömegei már nem tudnának elviselni – szögezte le Kordás László.
+   </p>
+   <p>
+    Az új jogszabály kapcsán azonban rengeteg kérdést kell tisztázni azon túl is, hogy egyáltalán szükség van-e rá – véli Kordás. Szerinte nagyon fontos meghatározni, hogy milyen szempontok alapján döntheti el a munkáltató, milyen munkakörökre lesz kötelező az esetleges jogszabály alkalmazása. Mivel a szakszervezetek nem érzékeltek ezen a téren problémákat, Kordás úgy véli, egy esetleg mégis megszülető jogszabálynak mindenképpen a helyi kollektív megállapodásokat kell segítenie – szögezte le.
+   </p>
+   <p rend="head">
+    A MASZSZ elnöke szerint már a felvetés is szokatlan Parraghtól, de  ha már így alakult, akkor a részleteket országos érdekegyeztető fórumon kell egyeztetni.
+   </p>
+   <p>
+    A MASZSZ elnöke ezért a Versenyszféra és a Kormány Állandó Konzultációs Fórumának (VKF) valamint a az Országos Közszolgálati Érdekegyeztető Tanács (OKÉT) azonnali összehívását kezdeményezi.
+   </p>
+  </body>
+ </text>
+</TEI>

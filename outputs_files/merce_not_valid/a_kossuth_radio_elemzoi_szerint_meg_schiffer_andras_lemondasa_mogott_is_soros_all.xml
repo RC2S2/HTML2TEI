@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Kossuth Rádió elemzői szerint még Schiffer András lemondása mögött is Soros áll
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     006ad66e-0265-5e16-8dee-2e141a1d337a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Kossuth Rádió elemzői szerint még Schiffer András lemondása mögött is Soros áll
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-06-01T20:02:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/06/01/a_kossuth_radio_elemzoi_szerint_meg_schiffer_andras_lemondasa_mogott_is_soros_all/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/06/01/a_kossuth_radio_elemzoi_szerint_meg_schiffer_andras_lemondasa_mogott_is_soros_all/
+     </sch:url>
+     <sch:name>
+      A Kossuth Rádió elemzői szerint még Schiffer András lemondása mögött is Soros áll
+     </sch:name>
+     <sch:datePublished>
+      2016-06-01T20:02:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="006ad66e-0265-5e16-8dee-2e141a1d337a">
+     <sch:identifier>
+      urn:uuid:92e8b5ad-68cd-4879-a144-1962080454c2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:06.990458
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:23:46.168218
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="006ad66e-0265-5e16-8dee-2e141a1d337a" when="2021-12-14T15:31:06.990458">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Kossuth Rádió elemzői szerint még Schiffer András lemondása mögött is Soros áll
+   </head>
+   <p>
+    Ez a cikk több mint 5 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     Unalmasan indult a hét, hisz nem nagyon volt kire rásütni a Soros-bélyeget. Egészen addig, amíg Schiffer András be nem dobta a törülközőt.
+    </hi>
+   </p>
+   <p>
+    Fotó: Nagy Béla / Magyar Nemzet
+   </p>
+   <p>
+    Érdemes mostanában időnként rágörgetni a Kossuth Rádió műsoraira, ahol az unalmas közéleti híreket manapság hardcore sci-fi tartalmakkal teszik izgalmassá. A döglesztő nyáreleji hőségben az
+    Ütköző délben
+    című műsor rázhatta fel az érdeklődő hallgatók hangulatát. Az adás központi témája természetesen Schiffer András lemondása volt, a szaggatott mondatokban beszélő riporternő két igazi nagyágyúval, Nagy Attila Tiborral a Méltányosság Politikaelemző Központtól, és Fodor Csabával, a Nézőpont Intézettől boncolgatta a kivonulás okait.
+   </p>
+   <p>
+    A két politikai elemző gyakorlatilag a kezdet kezdetén megegyezett abban, hogy az Indexnek adott
+    Schiffer-interjúban
+    nem találhatóak meg a lemondás valós indokai – bár eléggé érthetetlen ez a bennfentes összekacsintás, hiszen Schiffer viszonylag jól megindokolta, hogy miért lép ki az LMP-ből. Más kérdés, hogy az ő szavait persze különféle módokon lehet elemezni. De a két szuperagy csípőből jelzi, hogy szerintük másról van itt szó, vagyis az alapállás az, hogy ezek ketten beülnek a rádióba, és teljes bizonyossággal kijelentik, hogy Schiffer András lemondása mögött még véletlenül sem azok a fő indokok, amiket Schiffer András a saját száján kiejt. Talán itt, rögtön az elején érdemes elkezdeni gyanakodni tehát.
+   </p>
+   <p>
+    Nagy Attila Tibor még csak utalgat rá finoman, hogy „nem kerek a történet”. Aztán jön Fodor, és a feldobott labdát sebészi pontossággal csapja le. „Nem zárható ki, hogy valami külső ráhatás van a dolog mögött” – mondja, és rögtön jelzi is: a 2018-as parlamenti választás sokkal keményebb lesz a tekintetben, hogy „az Orbán Viktor kormányával szemben akár belföldön, akár külsőleg szembehelyezkedők sokkal nagyobb pressziót fognak tartani a magyar belpolitika aktorain, mint eddig.” A riporternő meglepett hangon kérdezi, hogy mégis miféle külső nyomás érkezik, és HONNAN? A felvetés teljesen jogos: azt nagyjából 2012 óta folyamatosan mantrázza a Fidesz, hogy itt a háttérhatalmak befolyásolják a politikai erőket. Akkor vajon épp most, amikor még a vak is láthatja, hogy a kormánynak lejt a pálya a választási rendszerben, miért pont az LMP-t kell a „szembehelyezkedőknek” szétzilálniuk? Tán tőlük tart a kormány, hogy elviszik előlük a szavazatok nagy részét? Ezt az érvet azért talán nem ártott volna egy kicsit jobban átgondolni…
+   </p>
+   <p>
+    De persze Fodornak az ilyen apróságok meg se kottyannak, halad tovább az összeesküvés-elméletben: előcitálja a 2014-es választások előtti, zavaros időszakot, amikor az LMP is átélt már egy nyomást, Bajnaiék irányából, akik megpróbálták őket beterelni a baloldalon alakuló összefogásba. Schiffer akkor ellenállt, az LMP azonban értékes embereket vesztett, akik Karácsony Gergővel az élen kiváltak a pártból, és megalapították a PM-et. Az analógia nem kicsit sántít: az LMP akkor kettészakadt, erőforrásai pedig megoszlottak. Most ugyan Schiffer kivált, de ez korántsem jelenti a párt halálát, nyilván lesz élet utána is.
+   </p>
+   <p>
+    De hát persze a nagy kérdés még a logikai bukfencek után is az: kinek állt ez érdekében? Ki volt az, aki az LMP-ben ekkora zavart volt képes okozni?
+   </p>
+   <p>
+    „Külső aktorok, és itt Soros Györgyre is nyugodtan lehet gondolni” – magyarázza el azonnal Fodor, honnan indul a támadás, és „az a céljuk ezeknek az aktoroknak, akár belföldön, akár külföldön értelmezzük őket, hogy minél kevesebb alternatíva legyen a szavazólapokon, amely megosztja a kormány elleni szavazatokat.”
+   </p>
+   <p>
+    Tádámm.
+   </p>
+   <p>
+    Schiffer András tehát azért mondott le posztjáról, és hagyta maga mögött az LMP-t, amelyet egyszer már a sorosista bagázs megpróbált maga alá gyűrni, nehogy még egyszer át kelljen élnie ezt a szégyent. Sorosék pedig dörzsölhetik a markukat, mert sikerült a szavazólapról kiiktatniuk egy olyan pártot, amely egyértelműen a Fidesz leszakadó szavazóit szipkázta föl eddig. Ördögi tervnek hangzik, még logikusan is van felépítve első hallásra. Kár, hogy itt megint csak tiszta agyrémről van szó: hisz azt ugyan a lőtéri kutya se állította, hogy attól, hogy Schiffer kivonul a politikából (a fontorlatos Soros György nyomására), attól az LMP megszűnne létezni, és szavazólapokon szerepelni…
+   </p>
+   <p>
+    Márpedig a kormányközeli politikai elemzők világa már csak ilyen egyszerűen működik: szépen elmagyarázzák, hogy Schiffer nélkül az LMP nem létező párt, amelynek sem arca, sem karakteres hangja nem lesz (Fodor még odáig is elmerészkedik, hogy Schiffert majdnem nagy formátumú politikusnak nevezi, akinek kvalitásai kiválóak, „felszólalásai… színvonalasak voltak”).
+   </p>
+   <p>
+    Azért óriási barbatrükk az, ahogy a két politikai elemző képes alig néhány mondatban úgy egymásra pakolni egy rakás csúsztatást, hogy a végén kinézetre egy egész pofás kis sorosozás kerekedik belőle! Ideje tehát, így a nyár első napján, a 2016-os év kellős közepén minden kormánypárti szavazónak elkezdeni rettegni. Soros már a küszöbön áll, és ha nem figyelünk, a szemünk láttára lövi ki a többi ellenzéki pártot is, amíg a szavazólapon nem marad más, csak a Fidesz (na jó, talán még a KDNP-t meghagyja, de csak a vicc kedvéért…).
+   </p>
+   <p>
+    Ha másért nem is, azért érdemes hallgatni a Kossuth Rádió közpénzből sugárzott (és mintegy másfél millió hallgatót bevonzó) adásait, hogy lássuk, hogyan sikerül a kormány ideológiai alapvetéseit minden egyes élethelyzetre úgy ráhúzni, hogy a hallgatók meg legyenek győződve róla, hogy kormányunk legalább tisztában van az őt fenyegető veszélyekkel, és kellőképp oda is figyel ezekre. Mindegy, hogy egy
+    gimnazistát
+    , egy
+    civil szervezetet
+    , vagy éppen egy leköszönő Schiffer Andrást kell kontextusba helyezni, megvan rá az univerzális formula, amivel máris saját céljaikra tudják felhasználni az adott eseményeket. Soros, meg az ő háttérhatalma pedig van olyan rémisztő ellenségkép, amivel ha mást nem is, de az elmúlt hetek nagy korrupciós botrányait, a hanyatló gazdaság felől érkező vészjelzéseket, a tanárok és az egészségügyi dolgozók tiltakozásait, meg az út közben felmerülő egyéb disznóságokat jól el lehet fedni. Egyelőre.
+   </p>
+   <p>
+    A két szuperelemzőnek azonban van még hova fejlődnie, hiába rágta már bele mindenki szájába Orbán Viktor, hogy HÁT-TÉR-HA-TA-LOM, egyiküknek sem sikerült az adásban, még a legvadabb sorosozás közepette sem kiejteni a kulcsszót a száján. Nem baj, majd legközelebb.
+   </p>
+   <p>
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

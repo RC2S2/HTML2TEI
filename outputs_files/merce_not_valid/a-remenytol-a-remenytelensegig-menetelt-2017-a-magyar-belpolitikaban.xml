@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A reménytől a reménytelenségig menetelt 2017 a magyar belpolitikában
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     da3d0bb0-8b29-5520-a3f4-6986c9ce82ad
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A reménytől a reménytelenségig menetelt 2017 a magyar belpolitikában
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-01-01T13:31:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/01/01/a-remenytol-a-remenytelensegig-menetelt-2017-a-magyar-belpolitikaban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/01/01/a-remenytol-a-remenytelensegig-menetelt-2017-a-magyar-belpolitikaban/
+     </sch:url>
+     <sch:name>
+      A reménytől a reménytelenségig menetelt 2017 a magyar belpolitikában
+     </sch:name>
+     <sch:datePublished>
+      2018-01-01T13:31:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      béremelés
+     </sch:keywords>
+     <sch:keywords>
+      CEU
+     </sch:keywords>
+     <sch:keywords>
+      összefogás
+     </sch:keywords>
+     <sch:keywords>
+      botka lászló
+     </sch:keywords>
+     <sch:keywords>
+      nolimpia
+     </sch:keywords>
+     <sch:keywords>
+      2017
+     </sch:keywords>
+     <sch:keywords>
+      ez volt 2017
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="da3d0bb0-8b29-5520-a3f4-6986c9ce82ad">
+     <sch:identifier>
+      urn:uuid:1e0af1d7-2775-4c4e-9a16-a3473836f89d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:40.147571
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:43:46.536208
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="da3d0bb0-8b29-5520-a3f4-6986c9ce82ad" when="2021-12-14T15:30:40.147571">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A reménytől a reménytelenségig menetelt 2017 a magyar belpolitikában
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Egy éve ilyenkor arról írtam cikket,
+    2017 valóban a lázadás éve lehet
+    , mert a társadalomban óriási elégedetlenség van. De ahhoz, hogy ez tényleg a lázadás éve legyen, nem csak elégedetlenség kell, és nem csupán az, hogy az utcára menjünk, hanem az is, hogy az elégedetlenséget tartósan kifejezzük. A jóslatom, úgy tűnik, tökéletesen bejött.
+   </p>
+   <p>
+    2017 úgy indult, ahogy Orbán Viktor rémálmát elképzeljük: NOlimpia, CEU-tüntetések, erősödő ellenzék, magára találó MSZP. Majd úgy folytatódott és zárult le, ahogy Orbán Viktor álmában elképzelte. Brutális propaganda, széteső ellenzéki pártok, soha nem látott Fidesz-előny, csöndes magyar társadalom. De nézzük, mi történt ebben az évben Magyarországon:
+   </p>
+   <p rend="head">
+    1. Béremelések, adóátalakítások
+   </p>
+   <p>
+    Bár a minimálbéremelést még 2016-ban jelentette be a kormány, egy szép vallomással, amelyben Orbán Viktor elmondta, hogy már nem az alacsonyan tartott bérekre kell építeni a gazdaságot (tehát eddig azt tették), maguk a béremelések az év elején léptek hatályba. A minimálbér és a garantált bérminimum megemelésére a munkaerőhiánnyal küzdő Magyarországon óriási szükség volt, kicsit kár, hogy több helyen is, például a Tesco dolgozói között, vagy az egészségügy dolgozóinak egy részénél, a minimálbér-emelések felszívták a további béremelések hatását. Így fordulhatott elő, hogy van, aki a 12 százalékos egészségügyi béremelés mellett se keres többet ma, mint januárban.
+   </p>
+   <p>
+    De a bérfeszültség továbbra se tompult. Óriási különbségek vannak lakóhely szerint is a bérekben, és akadnak olyan, főként állami ágazatok, amelyekben elképesztő béreket kapnak a dolgozók. Ha egyáltalán dolgozik még valaki. Az egészségügy egyes szektoraiban, a szociális vagy a kulturális ágazatban még mindig nevetséges bérek jellemzőek.
+   </p>
+   <p>
+    A béremelések mellett más is történt a gazdaságpolitikában. Például a társasági adó nagy cégekre jutó kulcsának 19-ről 10 százalékra csökkentése, az egyik legdurvább kedvezmény, amit az elmúlt 27 évben a multinacionális vállalatoknak adott magyar kormány.
+   </p>
+   <p rend="head">
+    2. NOlimpia és Momentum
+   </p>
+   <p>
+    Tényleg senki se hitt abban, még a momentumosok nagy része sem, hogy egy friss szervezet össze tudja gyűjteni az olimpiáról szóló népszavazáshoz szükséges aláírásokat. A később párttá alakult egyesület egyik elnökségi tagja le is mondott még januárban, amikor eldöntötték, hogy elindítják a kampányt.
+   </p>
+   <p>
+    Aztán elkezdtek ömleni az aláírások, már a második héten lehetett sejteni, ez meglesz, a végére pedig tényleg igazi győzelmi partit láthattunk.
+   </p>
+   <p>
+    Aztán jöttek a dolgos hétköznapok, és bár május elsején a CEU-tüntetések hátán még dobott egy nagyot a Momentum, egyre inkább kezdtek beszürkülni a többi ellenzéki párt közé. Elmúlt az újdonság és az izgalmasság aurája. Amikor pedig nyáron bejelentették, nem hajlandóak senkivel sem együttműködni a választásokon, már borítékolható volt, hogy besüllyednek az 1-2 százalékos tartományba.
+   </p>
+   <p>
+    A Momentum indulásakor kaptunk bőven kritikát, hogy miért bánunk ilyen keményen a párttal. Pedig a megállapításaink többsége nagyjából bejött. Hiába épített szervezetet, a Momentum nem tudott kitörni saját köreiből, és valójában nincs átgondolt, a társadalom problémáihoz igazodó víziójuk Magyarországról. Csak a „mi vagyunk a legtökösebbek, és újak vagyunk” hangulat farvizén eveztek, miközben nem volt igaz az az állítás sem, hogy itt a politika valamiféle megreformálásáról lenne szó.
+   </p>
+   <p>
+    Most ott állunk, hogy az érdekesség és az izgalom elmúlt, ha pedig a párt nem tudja újra érdekessé tenni magát, akkor necces lesz a parlamenti bejutás.
+   </p>
+   <p rend="head">
+    3. Botka László tündöklése és bukása
+   </p>
+   <p>
+    2016 decemberében jelentette be az MSZP, hogy Botka lesz a párt miniszterelnök-jelöltje. Botka rögtön bele is vágott, meghirdette, hogy fizessenek a gazdagok, egy markáns baloldali politikát tett a szocialista párt megszólalásainak fókuszába. A projekt egy ideig működött is, márciusra a közvélemény-kutató intézetek többségénél rég nem látott dolog történt: emelkedett az MSZP támogatottsága. Aztán elfogyott a szufla, az MSZP kongresszusa májusban órási többséggel választotta Botkát a párt teljhatalmú miniszterelnök-jelöltjévé, de innentől kezdve csak lejtmenet következett.
+   </p>
+   <p>
+    Szeged, 2017. január 30. Orbán Viktor miniszterelnök (b) és Botka László (MSZP) polgármester sajtótájékoztatót tart a Modern városok program keretében kötött együttmûködési megállapodás aláírása után a szegedi városházán 2017. január 30-án. MTI Fotó: Ujvári Sándor
+   </p>
+   <p>
+    Egyrészt Botka nem tudott semmi érdemit mondani a korábbi programja mellé nyártól kezdve, majd kiütközött, hogy több konfliktust vállalt, mint amennyit kellett volna. A „fizessenek a gazdagok” kampány csípte a nagyvárosi liberális értelmiség szemét. A Gyurcsánytól való külön utasság stratégiáját könnyen lehetett úgy Botka ellen fordítani, hogy nem az ellenzéki mantra, a Szent Összefogás érdekében cselekszik, majd elkezdte őt ágyúzni a Fidesz kintről és bentről is. A kormánypárt médiája és az MSZP belső fideszesei is rászálltak Botkára. Szeptemberben már lehetett látni, a projekt léket kapott, és ha csak nem jön valami csoda, el is süllyed. De nem csoda jött, hanem egy brutális nagy szarkeverés, Lattmannal, Tarjányival: egy puccs, amelynek célja Botka megbuktatása volt. A szegedi polgármester előtt ezután két út maradt, végigcsinálja, és rákenik a 18-as választási vereséget, vagy idő előtt kiszáll. Ő az utóbbi mellett döntött.
+   </p>
+   <p rend="head">
+    4. CEU-tüntetések
+   </p>
+   <p>
+    Vannak olyan pillanatok, amikor megírok egy cikket, kirakom, és nem vagyok benne biztos, hogy nem valami kamuról írok-e, hiszen ez csak tévedés lehet. Ilyen volt az is, amikor megírtam 20 perccel a hír kipattanása után a CEU ellehetetlenítéséről szóló első publicisztikánkat. Aztán kiderült, hogy nem kamu, a kormány tényleg belekezd a legjobb magyarországi egyetem ellehetetlenítésébe. A következő pár hónap története ismert: tüntetések, EU-reakciók, és most ott állunk, hogy a legvalószínűbb verzió az, a választások után, új felhatalmazása birtokában a kormány tényleg lecsap a CEU-ra.
+   </p>
+   <p>
+    Pedig ez az ügy tényleg lehetett volna a Fidesz Waterlooja, ahogy például a netadó korábban, de nem volt olyan erő, olyan tudással, elszántsággal és tapasztalattal, amely továbbvitte volna ezt az ügyet, és fenntartotta volna, mozgalomba szervezte volna az emberek dühét. Így csupán egy kellemetlen epizód lett a kormány szempontjából.
+   </p>
+   <p>
+    Viszont azt jól mutatta meg ez az ügy is, mekkora az elkeseredés és düh a kormánnyal szemben, amit az erő hívhat elő az emberekből. Az első CEU-tüntetések után ugyanis még nem volt akkora érdeklődés a téma iránt, de az óriási, több tízezres tüntetés után következő napokban és héten lényegében minden a CEU-val kapcsolatos hír érdekelte az embereket.
+   </p>
+   <p rend="head">
+    5. Soros, soros, soros
+   </p>
+   <p>
+    Ez a szó végigkísérte az évünket, és nem csak kísért, hanem radikalizálódott. Az idei évre jutottunk el odáig, hogy a Soros ellen indított kampány már fizikailag is megjelent. A CEU-ügy, a civil szervezetek elleni törvény, majd a vidéki civilek elleni durva fellépés, a semmire felépített gyűlöletkampány átfordítása a valóságra, létezőre. Valószínűleg még soha reklámkampányra annyit nem költöttek ebben az országban, mint a Soros elleni gyűlöletkeltésre. És az a helyzet, hogy ennek a kampánynak vannak eredményeit. Soros folyamatosan ott van a hírekben, és ezzel az emberek fejében.
+   </p>
+   <p rend="head">
+    6. Az egészségügy helyzete
+   </p>
+   <p>
+    Gyakorlatilag hetente lehetett hozni a híreket: nincs fűtés a János-kórházban; azért halt meg egy nő, mert nem látták el időben a sürgősségin; leomlik a vakolat; maguknak kell a kötszert hozni a betegeknek; Ikeába mennek dolgozni a nővérek, és 2018-ig lehetne folytatni a felsorolást. Ennél már csak annak rosszabb, aki tényleg találkozott is a magyar egészségüggyel 2017-ben. Túlterhelt nővérek, nem megfelelő műszerek, hosszú várólisták. Persze ezek a problémák nem 2017-ben kezdődtek, és nem is 2010-ben. De látványos az, hogy mennyire nem tudott semmit kezdeni a kormány az egészségügy helyzetével idén sem, miközben az konkrét emberei életeket veszélyeztetett.
+   </p>
+   <p rend="head">
+    7. Csak a zöldek nyernek
+   </p>
+   <p>
+    De voltak sikeres mozgalmak is idén. Két zöld mozgalom az amelynek tagjai, nem pár hónapra csaptak fel egy célért, hanem évek óta küzdenek érte. A Ligetvédők, idén is többször tudták blokkolni, hogy múzeumok épüljenek a Városligetbe, és ha az elmúlt éveket nézzük, leginkább az ő tiltakozásuk hatására, már sokat finomodott a Városliget átépítésének a terve. De majdnem hogy célt értek a Római-part beépítése ellen tiltakozó civilek, és pártok. Az utolsó pillanatban kellett a fővárosnak megfúrnia az ügyben engedélyezett népszavazási aláírásgyűjtést, év végén pedig jött a hír, a főváros visszavonja azt a tervet a part menti gát építésére, ami megszüntette volna a Római-partot a ma ismer formában.
+   </p>
+   <p rend="head">
+    8. Plakáttörvény
+   </p>
+   <p>
+    Kevéssé hájpolt, de annál durvább epizódja volt a 2017-es évnek az a műveletsorozat, amelynek keretében a Fidesz lényegében betiltotta az ellenzéki pártok plakátolását. Az egész eljárás célját jól foglalja össze, hogy 2013-ban még pont a plakátpiac volt az, amelyet semmilyen módon nem korlátozott a pártok működése kapcsán a Fidesz a választási eljárási törvényben. Az ok egyszerű volt: akkor Simicska még fideszes volt. De ma már más szelek fújnak: Simicska a Fidesz ellen van, így a kormánypárt elkezdte brutálisan korlátozni a köztéri reklámozás lehetőségét. Júniusban végül egy olyan kétharmados törvényt fogadott el 50%-os parlamenti többséggel a Fidesz, amely lényegében megtiltja, hogy a pártok köztéri reklámokat rakjanak ki.
+   </p>
+   <p rend="head">
+    8. #Meoo
+   </p>
+   <p>
+    Bár az igazi #Metoo nem Magyarországon söpört végig, hanem inkább nyugaton, nekünk is juttatott belőle egy kis szelet. Egy nagy szelet pedig az ellenkampányból. Belebukott a szexuális zaklatásba Marton László, Kerényi Miklós Gábor és Havas Henrik. Bár utóbbinál ehhez kellett az is, hogy a tévés műsorvezető Vona Gáborról írjon könyvet. Enélkül hozzá se ért volna senki.
+   </p>
+   <p>
+    A magyar #metooo sajátossága, hogy sokkal inkább szólt az ellenreakciókról. A nyugatról importált, antifeminizmus soha nem volt ilyen erős Magyarországon. Ennek követői úgy beszélnek genderfasizmusról, mintha Magyarországon az lenne a jellemző, hogy hatalmi pozícióban lévő nők alázzák a férfiakat. Pedig ha kilépünk abból a világképből, amely a nyugati példák alapján próbálja leírni a magyar közéletet, rájöhetünk, itt ilyenről szó sincs.
+   </p>
+   <p rend="head">
+    9. Ellenzéki összefogás
+   </p>
+   <p>
+    Az ellenzéki Összefogásnál nincs nagyobb fegyvere a Fidesznek, ez az a folyamat, amely 4 évente megérkezik, és magasba repíti a Fidesz támogatottságát. Pedig csupán annyi kéne ahhoz, hogy ez ne így történjen, hogy a pártok ténylegesen valami mérhető, számokra és a valóságra alapuló és reális forgatókönyv szerint kössék meg a Fidesz választási törvénye által rájuk kényszerített alkukat.
+   </p>
+   <p>
+    Budapest, 2017. december 20. Molnár Gyula, az MSZP elnöke (b) beszél, mellette Gyurcsány Ferenc, a DK elnöke közös sajtótájékoztatójukon az Országgyûlés Irodaházában 2017. december 20-án. MTI Fotó: Balogh Zoltán
+   </p>
+   <p>
+    Persze a politikai logika nem ezt diktálja, hanem azt, hogy az idők végeztéig egymással veszekedjenek. Miközben a Fidesz jót szórakozik azzal, hogy a kezében lévő médiatúlsúly segítségével a legerősebbet lenyomja, a leggyengébbeket pedig megemelje, így garantálva azt, hogy az idők végezetéig ne nyerje meg egyetlen párt se az ellenzéki mecset. 2018 elején például az MSZP, a DK és az LMP is hasonló támogatottsággal indulhat neki a választásnak, amelynek kettős tétje is lesz, a Fidesz kétharmadának megakadályozása, illetve az, ki lesz a legerősebb ellenzéki párt. Persze, ha a Fideszen múlik, nem lesz olyan, hogy legerősebb ellenzéki párt.
+   </p>
+   <p rend="head">
+    10. Az állami számvevőszék pártállamot játszik
+   </p>
+   <p>
+    Miután Simicska Lajos úgy döntött, a Jobbikkal buktatja meg Orbánt, elkezdte hiperolcsón (de kicsit drágábban, mint a Fidesznek anno), átadni óriásplakáthelyeit a Jobbiknak, majd miután a plakáttörvényt áttolta a Fidesz, magukat az eszközöket adta át hiperolcsón. Ebben a helyzetben vetette be a Fidesz az elvileg független, de a volt Fidesz-képviselő, Domonkos László által vezetett Állami Számvevőszéket, amely több mint 600 millióra büntette a pártot. Mindezt úgy, hogy a Fidesz bizonyíthatóan ugyanilyen visszaélését meg se hajlandó vizsgálni az ÁSZ.
+   </p>
+   <p>
+    De ha ez nem lett volna elég, ahogy elsőként megírtuk a magyar sajtóban, további pártokat is elkezdett büntetni az Állami Számvevőszék, teljesen nevetséges indokok mellett osztott ki tízmilliós bírságokat az LMP-nek, a DK-nek, az Együttnek, a Liberálisoknak és a Párbeszédnek.
+   </p>
+   <p>
+    A taktika egyértelmű, úgy okozni sebeket ezeknek a pártoknak, hogy még ne tegyék őket tönkre, de ellehetetlenítsék annyira, hogy nehezebben tudják beindítani a kampányt.
+   </p>
+   <p>
+    Így érkeztünk meg 2018-ra oda, hogy láthatjuk, egy pártállam kiépítése zajlik Magyarországon.
+   </p>
+  </body>
+ </text>
+</TEI>

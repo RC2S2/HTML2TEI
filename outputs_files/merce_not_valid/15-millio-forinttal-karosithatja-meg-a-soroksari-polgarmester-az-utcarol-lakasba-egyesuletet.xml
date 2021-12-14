@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     15 millió forinttal károsíthatja meg a soroksári polgármester az Utcáról Lakásba Egyesületet
+    </title>
+    <author>
+     <persName>
+      Kovács Blanka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e546e8e6-ec0b-5d38-9462-8f2ef002626e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      15 millió forinttal károsíthatja meg a soroksári polgármester az Utcáról Lakásba Egyesületet
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kovács Blanka
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-21T16:22:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/21/15-millio-forinttal-karosithatja-meg-a-soroksari-polgarmester-az-utcarol-lakasba-egyesuletet/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/21/15-millio-forinttal-karosithatja-meg-a-soroksari-polgarmester-az-utcarol-lakasba-egyesuletet/
+     </sch:url>
+     <sch:name>
+      15 millió forinttal károsíthatja meg a soroksári polgármester az Utcáról Lakásba Egyesületet
+     </sch:name>
+     <sch:datePublished>
+      2020-10-21T16:22:00
+     </sch:datePublished>
+     <sch:author>
+      Kovács Blanka
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Lakhatás
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzatok
+     </sch:keywords>
+     <sch:keywords>
+      ULE
+     </sch:keywords>
+     <sch:keywords>
+      soroksár
+     </sch:keywords>
+     <sch:keywords>
+      Bese Ferenc
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e546e8e6-ec0b-5d38-9462-8f2ef002626e">
+     <sch:identifier>
+      urn:uuid:65593402-22d4-4c21-8d8c-4b639a2a0b6a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.111128
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:26:24.466375
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e546e8e6-ec0b-5d38-9462-8f2ef002626e" when="2021-12-14T15:30:59.111128">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    15 millió forinttal károsíthatja meg a soroksári polgármester az Utcáról Lakásba Egyesületet
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    15 millió forinttal károsíthatja meg a soroksári polgármester és a képviselő-testületi többség az Utcáról Lakásba Egyesületet (ULE) és a kerületi lakásszegénységben élőket, miután rendeletalkotási jogukkal visszaélve, téves információt terjesztve és az érintetteket a nyilvános ülésekről kitiltva megszavazták, hogy a civil szervezet ne építhessen lakásokat saját telkén – írja az ULE közleményében.
+   </p>
+   <p>
+    Amint arról korábban mi is
+    beszámoltunk
+    , a Soroksári Önkormányzat képviselő-testülete múlt kedden hozott rendeletével változtatási tilalmat rendelt el egy szűk területen, amelyen az Utcáról Lakásba Egyesület saját tulajdonú telke az egyetlen beépítésre váró ingatlan.
+   </p>
+   <p>
+    A helyzet előzménye, hogy néhány hete ismeretlenek Tiszta Soroksárért Társaság néven elkezdték azt a hamis információt terjeszteni, hogy hajléktalanszállót épít az egyesület. Holott az ULE valójában nem szállót, hanem egy 3 lakásos sorházat szeretett volna felhúzni, amelyek ingatlanjait olcsón adták volna ki rászorulóknak.
+   </p>
+   <p>
+    A múlt heti ülésen Bese Ferenc polgármester elismerte, hogy pontos tudomása volt arról, hogy az álhírekkel ellentétben otthontalan emberek számára épülnek bérlakások, mégis többször, nyíltan hajléktalanszállónak nevezte a maximum 7 ember befogadására szánt épületet, a Grassalkovich úton lévő, összesen 500 fős szállóhoz hasonlítva azt.
+   </p>
+   <p rend="head">
+    Az ULE közleményében hangsúlyozza: a lakásépítést a rendelet miatt nem lehet befejezni, holott a szervezet a telek megvásárlására, közművesítésére és munkadíjakra már több mint 15 millió forintot adott ki eddig. Ez az éves költségvetésük negyedét jelenti.
+   </p>
+   <p>
+    A szervezet a
+    <hi>
+     Mércének
+    </hi>
+    elmondta, csak abban az esetben tudnák folytatni az építkezést, ha kártérítést vagy cseretelket kapnának az önkormányzattól, de arra nincs tartalékuk, hogy egy újabb telket vásároljanak.
+   </p>
+   <p>
+    „Az egyesület működése tovább haladhat így is, de ebben az esetben ezekre a lakásokra nem tudunk újabb lakáspályázatokat kiírni, így kevesebb embernek lesz biztos tető a feje felett. Ez a pénz egyéni adományokból és céges támogatásokból jött össze, így végeredményben az ő hozzájárulásuk is hiábavaló lenne” – nyilatkozta az ULE.
+   </p>
+   <p>
+    Hozzátették, szeretnék békés úton megegyezni, és tegnap kaptak is meghívót Bese Ferenc polgármestertől, hogy személyesen tárgyaljanak. Ez a találkozó a jövő héten esedékes, remélik, hogy kapnak kézzelfogható ajánlatot egy másik telekről vagy a pénzügyi kárpótlásról, és a novemberi soroksári testületi ülésen már tud is erről érdemben dönteni a testület.
+   </p>
+   <p rend="head">
+    Ha ez nem sikerül, akkor megpróbálják jogi úton rendezni a kérdést.
+   </p>
+  </body>
+ </text>
+</TEI>

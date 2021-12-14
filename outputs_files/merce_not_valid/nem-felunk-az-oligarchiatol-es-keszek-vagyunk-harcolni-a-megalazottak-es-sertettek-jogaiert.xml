@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Nem félünk az oligarchiától, és készek vagyunk harcolni a megalázottak és sértettek jogaiért”
+    </title>
+    <author>
+     <persName>
+      Losoncz Márk
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     4dc2ce3d-30d2-592a-8e64-71ebde62c87f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Nem félünk az oligarchiától, és készek vagyunk harcolni a megalázottak és sértettek jogaiért”
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Márk
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-10-27T07:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/10/27/nem-felunk-az-oligarchiatol-es-keszek-vagyunk-harcolni-a-megalazottak-es-sertettek-jogaiert/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/10/27/nem-felunk-az-oligarchiatol-es-keszek-vagyunk-harcolni-a-megalazottak-es-sertettek-jogaiert/
+     </sch:url>
+     <sch:name>
+      „Nem félünk az oligarchiától, és készek vagyunk harcolni a megalázottak és sértettek jogaiért”
+     </sch:name>
+     <sch:datePublished>
+      2020-10-27T07:24:00
+     </sch:datePublished>
+     <sch:alternateName>
+      Beszélgetés Jovo Bakićtyal, a Radikális Baloldal Pártja tagjával
+     </sch:alternateName>
+     <sch:author>
+      Losoncz Márk
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      baloldal
+     </sch:keywords>
+     <sch:keywords>
+      interjú
+     </sch:keywords>
+     <sch:keywords>
+      szerbia
+     </sch:keywords>
+     <sch:keywords>
+      pártpolitika
+     </sch:keywords>
+     <sch:keywords>
+      radikális baloldal pártja
+     </sch:keywords>
+     <sch:keywords>
+      partija radikalne levice
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="4dc2ce3d-30d2-592a-8e64-71ebde62c87f">
+     <sch:identifier>
+      urn:uuid:ea1bd6f9-7402-4f53-a5c0-c4eb9fc32ed0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:46.719052
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:25:51.214100
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="4dc2ce3d-30d2-592a-8e64-71ebde62c87f" when="2021-12-14T15:30:46.719052">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Nem félünk az oligarchiától, és készek vagyunk harcolni a megalázottak és sértettek jogaiért”
+   </head>
+   <head type="subtitle">
+    Beszélgetés Jovo Bakićtyal, a Radikális Baloldal Pártja tagjával
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Nemrégiben a szerbiai Szociáldemokrata Unió megváltoztatta a nevét: immár a Radikális Baloldal Pártjaként működik. A Párt egyik fontos egyéniségével, a belgrádi szociológussal, Jovo Bakićtyal beszélgettünk.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      Losoncz Márk: Ez idáig Szociáldemokrata Unió (SzDU) voltatok. Amíg nem lettetek a Radikális Baloldal Pártja [
+     </hi>
+     Partija radikalne levice
+     <hi>
+      ], azt szerettem volna megkérdezni, hogy nincs-e szociáldemokrácia manapság okkal válságban, s nem szükséges-e egy radikálisabb program és elnevezés? Minthogy lényegi változások történtek, újabb kérdésekre van szükség. A korábbi programban kritikusak voltatok a „liberális kapitalizmussal” szemben, és síkra szálltatok, többek között, a „tulajdon kollektív formáiért”. Ez alapján nem volt egyértelmű, hogy küzdötök-e a kapitalizmus ellen vagy sem. A kollektív tulajdon a kapitalizmuson belül is lehetséges (a klasszikus példák egyike a Mondragon vállalat). A Radikális Baloldal Pártja vajon egyértelműbben antikapitalista, mint az SzDU?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    Jovo Bakić: Mindenképpen. Az SzDU – amelyhez az elmúlt év végén csatlakoztam –, nem volt antikapitalista egészen két évvel ezelőttig, amikor a vezetőségben megérett a gondolat, hogy radikális baloldali párttá váljék, amely vállaltan antikapitalista. E célból összehívta a baloldaliakat, hogy egyesüljenek. Válaszoltak többen a Szerbiai Baloldali Csúcstalálkózó [
+    <hi>
+     Levi samit Srbije
+    </hi>
+    ] tagjai közül, a DIEM25 szerbiai részlegéből, amiként mi is, akik nem tartoztunk egyetlen szervezethez sem. Ellene vagyunk mindenfajta kapitalizmusnak – noha világos, hogy a kapitalista világrendszer peremvidéki kis országában akkor lesz radikális változás, ha egyúttal a rendszer centrumában is változásra kerül sor. Láttuk a Sziriza példáján, hogy mi történik, ha a rendszer félperifériája igyekszik szembeszállni a központból érkező diktátumokkal. Ha azonban a hullám a központból érkezik, ki tudjuk majd használni. Addig úgy küzdünk, ahogyan tudunk és ahogyan képesek vagyunk rá.
+   </p>
+   <p rend="head">
+    Védeni fogjuk a megalázottak és a sértettek érdekeit, megkérdőjelezzük a neoliberálisok és a szélsőjobboldaliak ideológiai hegemóniáját.
+   </p>
+   <p>
+    Szerbia nyilvánossága elé kívánjuk tárni a baloldali témákat.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Az SzDU 1996-ban jött létre. Ha jól értettem, megbeszéltétek a vezetőség egy részével, hogy a már regisztrált pártot átadják számotokra annak érdekében, hogy egy radikálisabb pártot alakítsatok (minthogy új pártot alapítani Szerbiában nagyon drága). Lenne néhány kérdésem a szervezeti formával kapcsolatban. A releváns társadalmi szférák (például a munkahely és a szomszédságok) demokratizálásáért küzdötök. Hogyan néz ki a demokratizálódás magán a párton belül?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Voltaképpen a különböző szervezetekből érkező baloldaliak egyesüléséről van szó, mint az első válaszomban már sugalltam. De valóban, a pártalapítás Szerbiában drága (mintegy 55 000 euró), amely funkcionálisan ellehetetleníti a szegény többséget, hogy politikával foglalkozzon. Így aztán az SzDU szándéka, hogy nekünk, többieknek átadja a lehetőséget, jelentősen megkönnyítette a dolgunkat. A pártunk nem vezetőségi, azaz
+    <hi>
+     leader
+    </hi>
+    -párt. Kollektív elnökségünk van (3 női és 2 férfi taggal), Végrehajtó Bizottságunk (1 női és 6 férfi taggal), valamint megvannak a Fő Választmány végrehajtó szervei, amelyeknek az előbbi két szerv tagjai számadással tartoznak. Végül pedig mind felelősséggel tartoznak a Kongresszusnak, amelynek bármely elvtárs a delegátusa lehet. Így küzdünk a tekintélyelvű tendenciákkal szemben a pártban. Természetesen
+    Michels nevezetes „vastörvénye” az oligarchiákkal kapcsolatban
+    megvan mint veszély a jövőre nézve. Nagy kihívás, hogy szembeszálljunk e tendenciákkal.
+   </p>
+   <p>
+    A Radikális Baloldal Pártja vezetősége és egyes bizottságok tagjai 2020 szeptemberében (Forrás: Partija radikalne levice Facebook-oldal)
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Abban a történelmi pillanatban, amikor a magyarországi és szerbiai ellenzékiek többsége az „ellenzék” egységéért száll síkra, ti kijelentitek, hogy „senkivel nem fogtok együttműködni, s a
+     </hi>
+     Szövetség Szerbiáért
+     <hi>
+      tal [tíz szerbiai »ellenzéki« párt szövetsége] nincs közös dolgotok”. Azokra az emberekre támaszkodtok, akiket nem kompromittált az eddigi pártpolitikában való részvétel. Mi több, bíráltátok az oligarchiát, amely „ellenzékben” van (s mondtátok, hogy „lefoglalnátok a nép ellenségeinek a tulajdonát”, például Željko Mitrović
+     </hi>
+     <hi>
+      médiamogulét). Arról is beszéltetek, hogy a „Szerbiai Szocialista Párt és a Szocialisták Mozgalma nem baloldaliak, hiszen jobboldali neoliberális reformokat hajtanak végre”. Mivel roppant bátor stratégiáról van szó, muszáj megkérdeznem: milyen szövetségesekre számítotok? Hogyan nyeritek majd el a széles néptömegek bizalmát?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Helyzetünk első ránézésre nem rózsás, de meggyőződésünk, hogy idővel a honpolgárok megértik, miért érdekük, hogy csatlakozzanak az oligarchia hatalmának lebontásához. Ugyanis mi a szegény többség vagyunk – a kevesek uralmával szemben. Használjuk majd a közösségi médiákat, az olyan portálokat, mint a
+    <hi>
+     Mašina
+    </hi>
+    vagy
+    <hi>
+     Novi plamen
+    </hi>
+    folyóirat. Élünk majd minden eszközzel, amellyel a nyilvánosság tudomására hozhatjuk a szándékainkat, s amellyel rámutathatunk, miként élnek vissza az uralmukkal a kevesek. Bemutatjuk a programunkat, megoldást kínálunk a felhalmozódott társadalmi problémákra. Megkíséreljük felvenni a kapcsolatot a szakszervezetekkel, igyekszünk intenzívebbé tenni a munkások harcát. Folytatjuk, amit eddig is csináltunk. A mögöttünk álló életszakasz és tevékenység arról tanúskodik, hogy
+   </p>
+   <p rend="head">
+    nem félünk az oligarchiától és készek vagyunk harcolni a megalázottak és sértettek jogaiért: a szegényeken át, akik fölül a tetőt is elorozzák, a nyugdíjasokig, akiktől
+    alkotmányellenesen elveszik a jogaikat
+    ; a munkásokért, akik borzalmas körülmények között dolgoznak (még a toalettre is alig mehetnek el), illetve tömegével halnak meg az építkezéseken.
+   </p>
+   <p>
+    Néhányan egyetemen dolgozunk. A szellemi ifjúsággal való munka nagyon fontos a neoliberális és a radikálisan jobboldali ideológiai hegemóniával szemben. Végül pedig ne felejtsük el a létező, radikálisan demokrata helyi-városi szervezetekkel való együttműködést, mert megannyi jó koponya és tisztességes ember van, akik szembeszállnak az oligarchiával, s akik szövetségesek lehetnek egy igazságosabb társadalomért folytatott harcban. Hosszú, kemény út áll előttünk – mi azonban úton vagyunk, készek mindenre.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Az előző kérdést folytatva: arról beszéltél, hogy „némely dolgokat nem lehet fájdalommentesen elintézni”. Azt mondtad, hogy „sebészkés kell, hogy a tumort eltávolítsuk”. Az újságokban arról lehetett olvasni, hogy „Jovo Bakić egyetemi tanárt beszélgetésre hívták a megnyilvánulásai miatt. Jelesül, Bakić a
+     </hi>
+     NIN
+     <hi>
+      hetilap számára azt nyilatkozta, hogy a Szerbiai Rádió és Televízió épületébe történt behatolás »őrültség, ha nem csövekkel megyünk«.” Mint válaszolnál azon „balliberálisoknak” és dogmatikus pacifistáknak, akikben az effajta kijelentések félelmet keltenek? Ez azt jelenti, hogy a demokratizálás lehetetlen erőszak nélkül? Mi a „forradalmi erőszak”, amelyről beszéltél?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Nincs politika erőszak nélkül, hiszen a politika a hatalom körüli küzdelmekről szól. Márpedig nincs hatalom, ha nem áll mögötte erő. Az állam az a politikai közösség, amelynek monopóliuma van az erőszak használatára.
+   </p>
+   <p rend="head">
+    Azonban amikor az állam igazságtalan (s a kapitalizmusban így szokott lenni), s ha még olyan is a helyzet, mint Szerbiában (ahol a köztársaságot elorozta és fogva tartja a maffia), akkor legitim a forradalom és az autoritárius-maffiajellegű rezsim megdöntése, a gyökeres változások érdekében – a gazdaság, a kultúra és a politika terén.
+   </p>
+   <p>
+    A forradalmi igazságosság azt jelenti, hogy letartóztatjuk azokat, akik hatalmasokként összefonódnak a maffiával, hogy elítéljük őket, elkobozzuk a törvénytelenül szerzett vagyonukat (s ezt a burzsoá jogállam standardjai szerint csinálnánk), azok vagyonát is, akik a tömegkommunikációs eszközeikkel bűnözőket (s ezzel magát a bűnözést) promotálták. Társadalmivá tennénk a nagytőkések vagyonát. A lényeg az, hogy az ártatlanokkal szemben természetesen nem lesz erőszak, vagy az uralkodó pártok egyszerű tagjaival szemben, amire korábbi forradalmakban számos eset volt.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Eddig számos európai mintát említettetek meg: a németországi Baloldalt, a görögországi Szirizát vagy a
+      horvát Munkásfrontot
+      . Mi az, amit a szerbiai baloldal megtanulhat a tapasztalataikból? És hozzátennék még egy kérdést. Szerbia kétségbeesetten igyekszik az Európai Unióba, noha sehogy se sikerül neki. Mi az álláspontotok az EU-t illetően? Hogyan válaszolnátok arra a kihívásra, hogy a nyugati elitek és Vučić elnök között szoros együttműködés van?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Fontos, hogy a széles társadalmi rétegekben meggyökerezzenek a baloldali eszmék. Részt kell venni a munkásság küzdelmeiben, meg kell védeni a szegényeket, a megalázottakat és a sértetteket, ám egyúttal toborozni kell értékes és tisztességes értelmiségieket. Nem lep meg bennünket, hogy a jó öreg európai oligarchák szívélyes viszonyt ápolnak a tekintélyelvű vezetőinkkel, hiszen utóbbiak egy nyomorúságos gyarmat élén állnak – így is látják őket a különböző metropoliszokból érkezők, akik azért jönnek, hogy kizsákmányolják a munkásainkat.
+   </p>
+   <p>
+    Kételyeink vannak az EU-t illetően, mert nem egy szociális és demokratikus beállítottságú közösség, hanem a kevesek kapitalizmusbeli hatalmát tükrözi. Egyesíti a kapitalizmus centrumának derék régi oligarcháit és a fiatal oligarchákat, akik a volt szocialista országokból érkeznek, a (fél)perifériáról. Sem az EU, sem Vučić, sem a hazai oligarchia „nem tesz ránk mélyebb benyomást”.
+   </p>
+   <p rend="head">
+    Felhívjuk a nép figyelmét arra, hogy Vučić és az amerikai/európai oligarchák egyezkedései nem szolgálják a szegények, azaz a lakosság többségének hasznát – sokkal inkább az oligarchákét.
+   </p>
+   <p>
+    Egyúttal internacionalisták vagyunk, ez az egyik fő érték számunkra; s reméljük, hogy lesznek, akik majd küzdenek velünk a pártjaik és a mozgalmaik révén, s képviselik majd a munkásság és a jogfosztott szegények érdekeit az említett oligarchákkal szemben. Reméljük, hogy ezen politikai erőkkel kiharcoljuk az EU átalakítását, s az egyenlő emberek és nemzetek közössége lesz, amely nyitott a másság iránt, s az egyenlőség, szabadság és minden ember testvérisége elvei szerint irányítják majd.
+   </p>
+   <p>
+    Jovo Bakić, a szerb Radikális Baloldal Pártja tagja (Forrás: Partija radikalne levice Facebook-oldal)
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Ha jól értettem, úgy vélitek, túl sok a misztifikálás Koszovó körül. Mi a Radikális Baloldal Pártjának álláspontja e tekintetben?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Koszovó kérdése nagyban hazug, hiszen különböző szerbiai kormányok foglalkoztak vele, sok időt és energiát befektetve, s mégsem tudtak kihatni rá lényegi módon. Eközben nem figyeltek a szegény többség mindennapi gondjaira és problémáira – pedig minderre ténylegesen kihathatnának.
+    <hi>
+     De facto
+    </hi>
+    Szerbiának nincs hatalma Koszovó felett az 1999-es NATO-agresszió óta. Papíron vannak csupán jogai – a valóságban nem. Természetesen történelmi és kulturális okokból Koszovó fontos Szerbia számára, a NATO koszovói jelenléte elfogadhatatlan. A NATO-egységeknek távozniuk kell, a szerbeknek és az albánoknak kölcsönösen elfogadható álláspontot kell elérniük, őszinte, közvetítők nélküli tárgyalásokon. És úgy, hogy egyik oldalon sem tárgyaljon olyan, aki háborús bűnös, legyen akár az Egyesült Nemzetektől.
+   </p>
+   <p>
+    Azonban az EU-nál és Koszovónál is sokkal fontosabbak a honpolgárok mindennapi gondjai, különösen hogy a tekintélyelvű vezető, a családja és a maffia elorozták a köztársaságot.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Az egyik kihívás a baloldal számára az 1990-es évek örökségével való szembesülés, amikor álbaloldaliak voltak hatalmon. Mi az, amire igent tudtok mondani abból a korszakból?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Abból a korszakból fontos számunkra az SzDU antinacionalista küzdelme, amely az új emberek és szervezetek révén idén a Radikális Baloldal Pártja lett. Semmi más abból a korszakból nem igenelhető. Sőt, az álbaloldaliak elérték, hogy az emberek undorodjanak a baloldaltól – akik pedig egyébként a baloldali értékek és politika leglelkesebb hordozói lehetnének. Ennyiben a feladatunk nehezebb.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Már az SzDU programjában lehetett olvasni, hogy „Szerbia territoriális, regionális, városi és községi szerveződéséért, a területi autonómiáért” száll a párt síkra. Vajon ez Szerbia föderalizálását jelenti, amely magába foglalná Vajdaság autonómiáját is?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: A föderalizálás a honpolgárok tudatában a szocialista Jugoszlávia háborús felbomlásához kötődik. Ennyiben a föderalizálásnak Szerbiában nem lehet semmilyen támogatása. Vajdaság autonómiája eddig az uralkodó pártok oligarcháinak zsákmánya volt, a bürokratikus apparátusok és a tartományi közvállalatok bábja. A pártunk feltétlenül a decentralizált államért fog síkra szállni, de egy egységes állam is lehet decentralizált. Több hatalmat lehet átruházni a városokra és községekre, s talán a régióknak szintjére – ha az ott élők igényt tartanak rá.
+   </p>
+   <p rend="head">
+    A hatalomnak a honpolgárokat kell szolgálnia, a népnek önnön részvételével kell megoldania a problémáit. A közvetlen demokrácia mint ideál a legkönnyebben a helyi politikai közösségek szintjén valósulhat meg.
+   </p>
+   <p>
+    Nagybecskerek vagy Kikinda polgárai jobban tudják, mi kell nekik a vízszolgáltatót illetően, mint a belgrádiak vagy az újvidékiek. Nekik maguknak kell kezdeményezniük, s a városi, községi és köztársasági hatalom a rendelkezésükre állhat. A Duna–Tisza–Duna csatorna nem csupán a Vajdaság gondja, hanem az egész köztársaságnak törődnie kellene vele, amiként a mezőgazdasági területek vízellátásával is (természetesen előbb a nagyüzemeket társadalmi tulajdonná kell tenni, gondot viselve a gazdasági hatékonyságról).
+   </p>
+   <p rend="head">
+    Általában véve a köztársaságnak segítenie kell a helyi önigazgatást, hogy megoldást találjon a lokális és a regionális problémákra, azzal, hogy részt vesz az infrastrukturális munkában, amelyet maguk a helyi közösségek nem tudnak elvégezni.
+   </p>
+   <p>
+    Másként szólva, a községek és a városok lesznek a legfontosabb politikai közösségek, mert a honpolgárok itt majd kifejezhetik az érdekeiket mint közérdeket. Azért állnak majd rendelkezésre, hogy segítsenek a problémák megoldásában. Ha az egész, viszonylag kicsi köztársaság minden honpolgár és város érdekét szolgálja, akkor a regionalizálás nem is szükséges (amelynek lehetőségéről természetesen kell beszélni), nemhogy a föderalizálás. Mondanom sem kell, a területi szerveződés fontos kérdés, s minden érv és érdek figyelembevételével kell megoldást találni.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Ma roppant aktuális a fasizmus új formáinak kérdése, a mikrofasizmusé (Deleuze/Guattari),
+      a posztfasizmusé
+      (Tamás Gáspár Miklós). Könyvet írtál a szélsőjobboldalról. Hogyan látod a mai szerbiai helyzetét? Szem előtt tartom azt is, hogy nemrégiben a
+     </hi>
+     Novi plamen
+     <hi>
+      ben nagy viták zajlottak arról, hogy a baloldalnak együtt kell-e működnie a „jobboldali populizmussal” (
+      lásd például
+      ).
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: A mai szerbiai szélsőjobboldal nagyrészt Aleksandar Vučić autoritárius-maffiaszerű rezsimjének ellenőrzése alatt van. A hatalommal összefonódó drogkartellek vezetik a Crvena Zvezda, a Partizan, a Rad és más futball- vagy kosárlabdaklubok szurkolóit. Ezekből a „szurkolókból” toboroznak a szélsőjobboldali csoportok. Készek arra, hogy elverjék a hatalom ellenfeleit. Az ellenzéknek tudatában kell lennie és fel kell készülnie, hogy e csoportok az adott pillanatban készen állnak majd, hogy megvédjék a hatalmat. Természetesen kifejezetten a szélsőséges, illetve a radikális jobboldali csoportokkal való együttműködés ellen vagyok – akár a hatalom ellenőrzése alatt vannak, akár ellenzékben. A baloldaliak csak veszhetnek egy ilyen együttműködéssel.
+   </p>
+   <p>
+    <hi rend="bold">
+     <hi>
+      LM: Hogyan tekintetek az orbáni és a vučići rezsim viszonyára, hasonlóságaira?
+     </hi>
+    </hi>
+   </p>
+   <p>
+    JB: Mindketten kifejezetten tekintélyelvűek, manipulálnak a nacionalizmussal, kokettálnak a szélsőjobboldallal; igyekeznek az ellenőrzésük alatt tartani ezeket a csoportokat, hogy megvalósíthassák az érdekeiket. Ezek fontos hasonlóságok, és vegyük figyelembe a közelségüket, a szívélyes együttműködésüket. Azonban látnunk kell a különbségeket is. Orbán a szocializmus liberális ellenfeleként lépett fel, Soros-ösztöndíjas volt (a
+    <hi>
+     Chevening
+    </hi>
+    -ösztöndíj részese), hogy aztán radikális jobboldali legyen, aki konzervatívnak adja ki magát. Egyúttal „nyitott” tekintélyelvű-xenofób nacionalista lehet, aki elüldözi a CEU-t Budapestről (kárt okozva saját hazája akadémiai közösségének). Míg Vučić a szélsőjobboldali Radikális Pártból jön, s mostanság mindenféle megalázást kell eltűrnie (Clinton a vállát veregeti, Blair és Schröder a tanácsadói [csupa olyan politikus, aki hozzájárult Szerbia NATO-s bombázáshoz, amelynek idején a Radikális Párt emberiség elleni bűncselekménnyel vádolta őket – L.M.], s eközben Szerbia
+    <hi>
+     de facto
+    </hi>
+    gyarmati helyzetbe kerül, a nagykövetségét Tel Avivból Jeruzsálembe helyezik át). Igyekszik tisztába tenni a politikai életrajzát.
+   </p>
+   <p>
+    A magyar kisebbségi oligarchák a Vajdaságban a két nagy oligarchia közötti hidat képezik. Persze pozitív, hogy mindez tükrözi a „jószomszédi viszonyokat”, de negatív, amennyiben a tekintélyelvű oligarchák szárnya alatt történik. Olyanokról van szó, akik nem ódzkodnak a történelmi revizionizmustól sem [utalás – többek között – a csetnikek, illetve a Horthy-rezsim rehabilitálására – L. M.]. Tudtommal a különbség abban van, hogy Orbán nincs kapcsolatban a maffiával és a narkó-klánokkal, Vučić pedig igen. Orbán kokettál a nagymagyar kényszerképzetekkel, míg Vučić banalizálja a nacionalizmust – megalomán szobrokat és épületeket készíttet, ekképpen igyekszik felcserélni „Nagy-Szerbiát”, a területi terjeszkedés ideológiai ideálját, amelynek 2008-ig híve volt. Ez az „égi Szerbia” peremvidéki-kapitalista trivializálása, amely olyan profithozó fellegekbe kerül, mint
+    a „Belgrád a vízen” projekt
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

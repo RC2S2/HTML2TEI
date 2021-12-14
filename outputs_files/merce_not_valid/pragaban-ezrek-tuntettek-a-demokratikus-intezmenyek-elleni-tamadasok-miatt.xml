@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Prágában ezrek tüntettek a demokratikus intézmények elleni támadások miatt
+    </title>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     091e5c5a-6f43-53fe-8075-82bbbca79ea1
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Prágában ezrek tüntettek a demokratikus intézmények elleni támadások miatt
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-01T22:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/01/pragaban-ezrek-tuntettek-a-demokratikus-intezmenyek-elleni-tamadasok-miatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/01/pragaban-ezrek-tuntettek-a-demokratikus-intezmenyek-elleni-tamadasok-miatt/
+     </sch:url>
+     <sch:name>
+      Prágában ezrek tüntettek a demokratikus intézmények elleni támadások miatt
+     </sch:name>
+     <sch:datePublished>
+      2020-03-01T22:00:00
+     </sch:datePublished>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      korrupció
+     </sch:keywords>
+     <sch:keywords>
+      Orbán
+     </sch:keywords>
+     <sch:keywords>
+      civil
+     </sch:keywords>
+     <sch:keywords>
+      csehország
+     </sch:keywords>
+     <sch:keywords>
+      Kaczyński
+     </sch:keywords>
+     <sch:keywords>
+      prága
+     </sch:keywords>
+     <sch:keywords>
+      centralizáció
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="091e5c5a-6f43-53fe-8075-82bbbca79ea1">
+     <sch:identifier>
+      urn:uuid:1a3169c9-e8e3-476f-b5e4-d3caa6b42a0c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:44.649586
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:07:20.813545
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="091e5c5a-6f43-53fe-8075-82bbbca79ea1" when="2021-12-14T15:30:44.649586">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Prágában ezrek tüntettek a demokratikus intézmények elleni támadások miatt
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A múlt évben kétszer is negyedmilliós tüntetést szervező
+    <hi>
+     Millió pillanat a demokráciáért
+    </hi>
+    cseh civil mozgalom újra utcára szólította szimpatizánsait vasárnap Prágában.
+   </p>
+   <p rend="head">
+    A demonstráció oka az volt, hogy a cseh parlament alsóháza Stanislav Křeček volt szociáldemokrata képviselőt választotta meg az új cseh emberi jogi biztosnak, akit a sajtó egyértelműen Milos Zeman államfő és Andrej Babiš kormányfő emberének tart.
+   </p>
+   <p>
+    Ahogy arról a
+    Mérce
+    is beszámolt, Millió pillanat korábban követelte Andrej Babiš lemondását mivel szerintük politikai szerepvállalása összeférhetetlen vállalkozói tevékenységével, ezentúl azt, hogy távozzon tisztségéből Marie Benešová igazságügyi miniszter, mivel őt azzal  gyanúsítják, hogy szükség esetén kész lenne leállítani a Babiš ellen folyó eljárásokat.
+   </p>
+   <p>
+    Ezeken felül követelte eddig is a mozgalom, hogy erősítsék meg a bíróságok, az ügyészség és a közmédia függetlenségét.
+   </p>
+   <p>
+    A Letná téri tüntetésen novemberben és a közszolgálati hírtelevízióban közvetített beszédekben többször is elhangzott: nem szabad megengedni, hogy náluk is a magyarországihoz vagy a lengyelországihoz hasonló helyzet alakuljon ki.
+   </p>
+   <p>
+    A vasárnapi tüntetésen, ahol több ezren jelentek meg (létszámban elmaradva a két legnagyobb demonstrációjuktól) a mozgósítás jelszava a
+   </p>
+   <p>
+    „Védjük meg demokratikus intézményeinket – Nem akarunk Magyarország és Lengyelország útjára térni!”
+   </p>
+   <p>
+    volt.
+   </p>
+   <p>
+    „A tüntetés nem Křeček személye ellen irányul, hanem az ellen, hogy Zeman és Babiš igyekeznek ellenőrzésük alá vonni a közmédiát, a bíróságokat, ügyészségeket és más demokratikus intézményeket, amelyeknek azonban nem a politikusokat, hanem az egész társadalmat, az állampolgárokat kell szolgálniuk.”
+   </p>
+   <p>
+    – mondta Mikulás Minár, a Millió pillanat elnöke a tüntetésen elhangzott beszédében.
+   </p>
+   <p>
+    A tömegben olyan transzparenseket is
+    lehetett látni
+    , mint az „Az Európai Unió, nem pedig Orbán és Kaczynski útján akarunk járni” vagy „A média nem a politikusoké!”
+   </p>
+   <p>
+    Czesi protestują: „Nie chcemy iść drogą Polski i Węgier”
+    #praga
+    #milionchvilek
+    #czechy
+    pic.twitter.com/dwCtQKE0Zq
+   </p>
+   <p>
+    — Łukasz Grzesiczak (@PepikNews)
+    March 1, 2020
+   </p>
+   <p>
+    Babiš amúgy a személyével kapcsolatos vádakat továbbra is elutasítja, és azt állítja: nem áll fenn összeférhetetlenség, mert cégeit, az Agrofert Holdingot 2017 februárjában a hatályos törvény értelmében már vagyonkezelő alapokba helyezte. 
+A szervezők mintegy 300 ezerre, a rendőrség pedig 200 ezerre becsülte a Letná téri tüntetés résztvevőinek számát. Az 1989-es rendszerváltás óta ez volt az egyik legnagyobb kormányellenes megmozdulás Csehországban.
+   </p>
+   <p>
+    A szervezők további tüntetésekre készülnek vidéki helyszíneken, és júniusban ismét a fővárosban tartanának demonstrációt.
+   </p>
+   <p>
+    (MTI; ct24.ceskatelevize.cz)
+   </p>
+  </body>
+ </text>
+</TEI>

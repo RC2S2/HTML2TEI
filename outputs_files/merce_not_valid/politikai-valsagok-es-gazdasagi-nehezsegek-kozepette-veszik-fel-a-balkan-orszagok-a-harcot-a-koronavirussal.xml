@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Politikai válságok és gazdasági nehézségek közepette veszik fel a balkáni országok a harcot a koronavírussal
+    </title>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     49066dc0-8410-5d37-addc-650e34d97bf9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Politikai válságok és gazdasági nehézségek közepette veszik fel a balkáni országok a harcot a koronavírussal
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-27T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/27/politikai-valsagok-es-gazdasagi-nehezsegek-kozepette-veszik-fel-a-balkan-orszagok-a-harcot-a-koronavirussal/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/27/politikai-valsagok-es-gazdasagi-nehezsegek-kozepette-veszik-fel-a-balkan-orszagok-a-harcot-a-koronavirussal/
+     </sch:url>
+     <sch:name>
+      Politikai válságok és gazdasági nehézségek közepette veszik fel a balkáni országok a harcot a koronavírussal
+     </sch:name>
+     <sch:datePublished>
+      2020-03-27T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      szerbia
+     </sch:keywords>
+     <sch:keywords>
+      Kelet-Európa
+     </sch:keywords>
+     <sch:keywords>
+      macedónia
+     </sch:keywords>
+     <sch:keywords>
+      balkán
+     </sch:keywords>
+     <sch:keywords>
+      jugoszlávia
+     </sch:keywords>
+     <sch:keywords>
+      albánia
+     </sch:keywords>
+     <sch:keywords>
+      észak-macedónia
+     </sch:keywords>
+     <sch:keywords>
+      montenegró
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="49066dc0-8410-5d37-addc-650e34d97bf9">
+     <sch:identifier>
+      urn:uuid:4ce38e2c-995d-448c-89fb-4f2b2b57c6cb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:46.544012
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:04:45.561004
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="49066dc0-8410-5d37-addc-650e34d97bf9" when="2021-12-14T15:30:46.544012">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Politikai válságok és gazdasági nehézségek közepette veszik fel a balkáni országok a harcot a koronavírussal
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A koronavírus járvány korábban sosem látott helyzet elé állította az érintett országok kormányait, akik mind különböző módokon próbálják feltartóztatni a vírus terjedését és enyhíteni a kialakulóban lévő gazdasági válság várható negatív következményeit. A
+    <hi rend="italic">
+     Mércén
+    </hi>
+    már részletesen beszámoltunk a régiónkból a cseh és a román
+    válaszreakciókról
+    , illetve bemutattuk, milyen utat jár
+    Dánia
+    vagy éppen
+    Franciaország
+    , és írtunk
+    a brit kormány sajátos reakciójáról
+    is. A következőkben egy átfogó összefoglalót kívánunk adni arról, mit tesznek most a balkáni térség országai, amelyek már a koronavírus megjelenése előtt is komoly gazdasági és szociális problémákkal küzdöttek.
+   </p>
+   <p>
+    Az egykori Jugoszlávia területén és szomszédságában sok esetben véres konfliktusok során létrejött országokban több helyen is súlyos etnikai-vallási feszültségek húzódnak a lakosság körében, ami a politikába is begyűrűzik, jelentősen nehezebbé tévé a hatékony, stabil kormányzást, ami elengedhetetlen lenne a koronavírus okozta járvány kezeléséhez. Határokon átívelő együttműködésről is nehezen beszélhetünk, mivel a legtöbb ország kifejezetten ellenséges külpolitikát folytat egymással többek között az említett etnikai-vallási feszültségek miatt.
+   </p>
+   <p>
+    Emellett az eltérő nemzetközi szövetségeseket is figyelembe kell venni a helyzet megértéséhez: az olyan országok mint Albánia vagy Észak-Macedónia elsősorban az EU-hoz fordul segítségért, még az orosz- és kínabarát Szerbia kifejezetten kritikusan áll az Unió válságkezelési stratégiájához. A Nyugat-Balkánon jellemző hagyományosan nagy elvándorlás és vendégmunka-vállalás szintén meghatározó erejű tényező a járvány tekintetében, mivel számos albán, macedón vagy éppen bosnyák dolgozik olyan országokban, mint Olaszország vagy Ausztria, amelyeket súlyosan érintett a koronavírus.
+   </p>
+   <p rend="head">
+    Észak-Macedónia: elhalasztott választások és jelentős hitelfelvétel a járvány miatt
+   </p>
+   <p>
+    A nemrég névváltoztatáson átesett balkáni országban szükségállapotot hirdettek, ennek következtében pedig
+    elmaradnak
+    az eredetileg áprilisra időzített előrehozott választások. Ezek azután kerültek kiírásra, hogy a szociáldemokrata Zoran Zaev
+    lemondott
+    a hivataláról, mivel zátonyra futottak az ország európai uniós csatlakozási tárgyalásai. A hosszú idők óta gazdasági gondokkal küzdő, már a járvány kitörése előtt elfogadott költségvetésében is 2.3%-os deficittel számoló ország kénytelen volt egy 580 millió eurós
+    hitelhez
+    folyamodni, hogy képes legyen felvenni a harcot a vírussal.
+    Kijárási tilalom is bevezetésre került
+    este kilenc és reggel hat óra között, hogy ezzel is csökkentsék a fertőzések számának további növekedését. Emellett,
+   </p>
+   <p rend="head">
+    miközben nem került sor teljes hatósági árszabályozásra, a kormány maximalizálta a
+    C-vitaminban gazdag citrusfélék árát
+    , mivel az utóbbi napokban jelentős árnövekedés történt ezeknek a gyümölcsöknek az esetében.
+   </p>
+   <p>
+    Észak-Macedóniában március 26-án már több mint 200 embernél mutatták ki a vírust, amelynek jelenleg három halálos áldozata van. Az országban azután jelent meg a járvány, hogy az olaszországi események láttán kialakuló pánikban az országban élő több mint hetvenezer észak-macedóniai közül sokan gyorsan hazatértek, magukkal hozva a vírust.
+   </p>
+   <p rend="head">
+    Koszovó: az emberek az erkélyeiken tüntetnek a politikusok hatalmi játékai ellen
+   </p>
+   <p>
+    A koronavírus nem csak súlyos népegészségügyi vonatkozásokkal járt a nemzetközileg csak részlegesen elismert délkelet európai országban, hanem egy olyan politikai válságot is kirobbantott, amibe belebukott a csupán február óta regnáló kormány.
+   </p>
+   <p>
+    A függetlenségét Szerbiától 2008-ban kikiáltó, többségében albánok lakta ország miniszterelnöke az az Albin Kurti, akinek pártja, a népjóléti üzenetekkel operáló, a direkt demokrácia és az Albániával való egyesülés mellett kiálló Vetëvendosje az első helyet szerezte meg a tavaly októberben megtartott parlamenti választásokon, őket pedig szorosan követve, egy mandátummal kevesebbet szerezve a jobboldali Koszovói Demokratikus Liga (LDK) végzett a második helyen, a két párt jelenleg a koszovói szerb közösség pártjával kiegészülve koalícióban vezeti az országot.
+   </p>
+   <p>
+    Az ingatag lábakon álló kormányban az elmúlt napokban komoly feszültséget szült, hogy miközben Kurti nem akar szükségállapotot kihirdetni, addig az LDK-s belügyminiszter Agim Veliu nyilvánosan kijelentette, hogy szerinte szükség lenne a szükségállapotra, emiatt a miniszterelnök menesztette is a jobboldali politikust a pozíciójából. Ennek hatására az LDK
+    bizalmatlansági indítványt kezdeményezett
+    Kurti ellen, amihez meg is szerezték az ellenzéki pártok támogatását. Az indítványt szerdán 82 képviselő támogatta a 120 fős parlamentben, a Kuvendiben.
+   </p>
+   <p rend="head">
+    Így Koszovónak egyelőre beiktatott kormány nélkül kell felvennie a harcot a koronavírussal, ami csak tovább növeli a helyzet súlyosságát.
+   </p>
+   <p>
+    Elemzők szerint a válság leginkább a Koszovói Demokrata Párt (PDF) vezetőjének, Hashim Thaçi-nak kedvezhet, aki 2016 óta Koszovó elnöke, előtte 2008 és 2014 között az ország miniszterelnöke volt. A Koszovói Felszabadítási Hadseregben „Kígyó’-ként ismert Thaçi évtize megkerülhetetlen politikai szereplő, és feltűnően nem ápol jó kapcsolatot a hozzá közel álló politikai körök évtizedes uralmát megtörő Kutival, aki nyilvánosan kijelentette, hogy nem szeretné, ha az elnök újrázna első ciklusa lejárta után.
+    Thaçi az ellenzékhez hasonlóan szintén a szükségállapot mellett foglalt állást, amiért a miniszterelnök mellett a kormányt támogató szerb nemzetiségi párttól is
+    kritikát kapott
+    , akik szerint az elnök csak arra használná fel a szükségállapotot, hogy katonákat küldjön Koszovó északi, döntő többségében szerbek lakta régiójába.
+   </p>
+   <p>
+    Az amúgy is súlyos gazdasági gondokkal sújtott kis országnak semmiképp sem kedvez a politikai szereplők legújabb hatalomjátéka, ami az állampolgárok elégedetlenségét is kivívta, akik közül néhány más lehetőség híján az
+    erkélyeikre szerveztek tüntetést
+    , hogy kinyilvánítsák nemtetszésüket a jelenlegi helyzettel szemben.
+   </p>
+   <p>
+    NEWS –
+    #Kosovo
+    television broadcast live protest of people from balconies, as the voting starts to bring the government down.
+    pic.twitter.com/8tnAuDtJry
+   </p>
+   <p>
+    — Stefan in Kosovo (@StefanInKosovo)
+    March 25, 2020
+   </p>
+   <p>
+    A pártpolitikai csatározások ellenére nem áll le az ország működése, a még hatalomban lévő kormány igyekszik mindent megtenni a legutóbbi adatok alapján több mint 70 embert megfertőző és egy ember életét követelő koronavírus okozta problémák mérséklésére.
+   </p>
+   <p>
+    Első körben például döntés született arról, hogy az áruszállítást végző sofőrökön kívül minden Koszovóba érkezőt karanténba helyeznek, hogy ezzel is csökkentsék a vírus további terjedését. Emellett kétlépéses kijárási tilalmat vezettek be, március 23-a óta délelőtt tíz és délután négy, illetve este nyolc és reggel hat óra között tilos az utcára menni. Miközben még nem létezik gyógymód a koronavírus ellen, a koszovói kormány importálni kíván abból a Lorcin nevű gyógyszerből, amelynek izomlazító, légzéskönnyítő hatása enyhítheti a betegség tüneteit. Bezárásra kerültek a közparkok, illetve az egészségügyi minisztérium jelentős készleteket halmozott fel maszkokból, kesztyűkből és egyéb védőfelszerelésekből. A jövedelem nélkül maradó koszovóiaknak a kormány a szociális segélyek kifizetésének
+    előrehozásával
+    próbál segíteni – emellett gazdasági szempontból fontos fejlemény, hogy a kormány részlegesen
+    hatályon kívül helyezi
+    a Szerbiából és Bosznia-Hercegovinából érkező árukra kivetett 100%-os vámot.
+   </p>
+   <p rend="head">
+    Bosznia-Hercegovina: súlyos személyiségi jogsértések a járvány ürügyén
+   </p>
+   <p>
+    A tragikus múlt, a mindent megbénító korrupció és a nehéz anyagi helyzet mellett Bosznia-Hercegovinának a sajátos, bonyolult politikai rendszerével is szembe kell néznie a koronavírussal való küzdelem során. Az ország két entitása a Bosznia-hercegovinai Föderáció és a Szerb Köztársaság, illetve a különleges státuszú Brčkói Körzet egyaránt saját kormányzattal rendelkezik, melyek széleskörű autonómiájába a járvánnyal kapcsolatos óvintézkedések meghozatala is beletartozik. Ennek következtében eltérő döntések születtek a szerb, illetve bosnyák-horvát lakta területeken, sőt egyes esetekben még az entitások alá rendelt kantonokban is!
+   </p>
+   <p>
+    A bosznia-hercegovinai föderáció kormánya március 11-én két hetes zárvatartást rendelt el az oktatási intézmények számára. Már ez a lépés sem ment zökkenőmentesen, ugyanis kezdetben voltak olyan kantonok a föderációban, ahol
+    tovább folyt az oktatás
+    , a felsőbb kormányzati utasítás ellenére is. Egy héttel később a nyilvános rendezvények is betiltásra kerültek, illetve március 20-án elrendelték, hogy a tartományban élő 18 év alatti és 65 év feletti lakosok nem hagyhatják el otthonukat. Másnap pedig délután hattól reggel ötig tartó általános kijárási tilalmat is bevezettek, hasonlóan Észak-Macedóniához. Keményebb lépésre szánta el magát a 10-es kanton nevű régió, ahol az áruforgalmon és a kormányzati alkalmazottakon kívül mindenkinek megtagadják a belépést a kanton területére. A föderáció területén is több olyan üzlet van, ami a járványon kíván nyerészkedni, aminek következtében a maszkok és fertőtlenítők ára megháromszorozódott. A helyi kormányzat egy március 16-i döntésével kemény pénzbírságok kiszabásával próbál tenni ez ellen.
+   </p>
+   <p>
+    Bosznia-Hercegovina másik entitásában, a Szerb Köztársaságban szintúgy kijárási tilalmat vezettek be, igaz, itt csak este nyolctól.
+   </p>
+   <p rend="head">
+    Mivel sok olyan ember van, aki megszegi a hatóság által rájuk kiszabott kéthetes karantént, ezért a köztársaság kormányzata igencsak megkérdőjelezhető lépésre szánta el magát: úgy döntöttek,
+    nyilvánosságra hozzák
+    a karantént elhagyók személyazonosságát, ami felvet bizonyos személyiségi jogi kérdéseket.
+   </p>
+   <p>
+    A Bosznia-hercegovinai Föderáció egy lépéssel tovább ment, és arra kérte a szövetségi kormányt, hogy
+    engedélyezze
+    az önkormányzatoknak a koronavírussal fertőzött lakosok nevének nyilvánosságra hozását. Az ország adatvédelmi hivatala megtagadta ezt a kérést, és rendeletben tiltotta meg az összes kormányzati tisztségviselőnek, hogy nyilvánosságra hozza a betegek nevét. Egyébként az államfői pozíciót ellátó háromtagú, a tagok között nyolchavonta rotálódó kollektív elnökség vezetői posztjára éppen március 20-án nevezeték ki a bosnyák Šefik Džaferović-et, akinek rövid ciklusa nagyrészt az ellen a koronavírus elleni küzdelemről fog szólni, amelynek jelenleg több mint 180 fertőzöttje és három halálos áldozata van az országban (március 26-i adat).
+   </p>
+   <p rend="head">
+    Montenegró: a kormány összerúgta a port a szerb ortodox egyházzal
+   </p>
+   <p>
+    Az alig hatszázezres, de etnikailag igen sokszínű, 45%-ban montenegróiak, 28 százalékban szerbek, 8 százalékban bosnyákok lakta balkáni országot a koronavírus egy politikailag már amúgy is feszült pillanatban érte el. Montenegróban jelenleg komoly vita folyik a tervezett
+    egyházügyi törvényről
+    , amelynek értelmében azok a vallási helyek, amelyek felett semelyik felekezet sem tudja bizonyítani a tulajdonjogát, állami felügyelet alá kerülnének. A törvény ellen a leghangosabban a szerb ortodox egyház tiltakozik, amelynek már amúgy sincs jó viszonya az 1990 óta megszakítás nélkül hivatalban lévő Szocialisták Demokratikus Pártjával (DPS). A helyzet már odáig fajult, hogy felfüggesztették hivatalukból a törvény elleni tüntetéseken részt vevő katonatiszteket. A tiltakozások egyébként január óta tartanak, ám most a vírusra való tekintettel elmaradnak. De a válság ellenére sem javult a két fél viszonya, néhány nappal ezelőtt a rendőrség kihallgatta a szerb ortodox egyház két magas rangú vezetőjét, miután azok – szembemenve a nyilvános rendezvényeket tiltó rendelkezéssel –
+    továbbra is miséket tartottak
+    . Nagy felháborodás kísérte azt is, hogy miközben az országban nincs elég védőfelszerelés, az egészségügyi miniszter gyerekei jó minőségű orvosi maszkokban
+    pózoltak az Instagramon
+    .
+   </p>
+   <p>
+    A jugoszláv utódállamban március 25.-én 52 fertőzöttről tudtak, a vírusnak pedig egy halálos áldozata van. Az ország első két fertőzöttjének a neve nyilvánosságra került a közösségi médiában, ahol több, a származásukkal és vallási hovatartozásukkal kapcsolatos gyűlölködő komment látott napvilágot. Erre még rátesz egy lapáttal, hogy a civil szervezetek tiltakozása ellenére a montenegrói kormány úgy döntött,
+    nyilvánosságra hozza
+    a karanténba kerülők személyazonosságát, mivel Dusko Markovic miniszterelnök szavaival élve „az egészséghez és élethez való jog felülírja a személyes adatok védelmének jogát”.
+   </p>
+   <p rend="head">
+    Albánia: felpörgött a kormányzati fake news a járvány kapcsán
+   </p>
+   <p>
+    Albániát a lehető legrosszabbkor érte a koronavírus járvány. A balkáni ország ugyanis még mindig a tavaly novemberi súlyos földrengést próbálja kiheverni, ami egyes számítások szerint a GDP 6.4%-ának megfelelő, 1 milliárd eurós kárt okozott. A kormány ennek ellenére próbál mindent megtenni a járvány okozta gazdasági nehézségek enyhítésére:
+   </p>
+   <p rend="head">
+    Edi Rama március 19.-én
+    bejelentett
+    egy 300 millió eurós gazdasági csomagot, amely egyaránt jelentős összeget biztosít a nagyvállalatok, kis-és közepes vállalkozók számára, jelentős forrásokat különít el orvosi eszközök vásárlására, valamint vállalja a vállalkozók és magánszemélyek számára a közüzemi számlák késedelmi díjainak átvállalását.
+   </p>
+   <p>
+    Az Albán Szocialista Pártban politizáló, a gazdaság és a korrupt igazságszolgáltatás területén sikeres reformokat végrehajtó, de közben korrupcióval és bűnszervezetekkel való együttműködéssel vádolt Rama március 12-i beszédében
+    „háborút” hirdetett
+    az országban március 25-ig már több mint 146 embert megfertőző és 5 ember életét követelő koronavírussal szemben, és szigorú óvintézkedéseket helyezett kilátásba. Albánia lezárta a határait, a nap nagy részében érvényes kijárási tilalmat hirdetett, bezárásra kerültek a főleg az olasz piacra dolgozó call centerek és könnyűipari üzemek, illetve a vendéglátó egységek és iskolák. Emellett számos charterjáratot indították az Olaszországban rekedt állampolgárok hazavitelére (jelenleg több mint félmillió albán bevándorló él az országban).
+   </p>
+   <p>
+    Néhány napja
+    kisebb botrány kerekedett abból
+    , hogy a miniszterelnök egy olyan videót posztolt a Facebook oldalára, amin állítása szerint spanyol rendőrök láthatók, ahogy fizikai erőszakot alkalmaznak a kijárási tilalmat megszegőkkel szemben. Rama hasonló bánásmódot helyezett kilátásba az albán hatóságok utasításainak ellenszegülőknek. Ám nem sokkal később kiderült, hogy a videón valójában algériai rendőrök láthatók, miközben az autokrata kormány ellen tüntetőket bántalmaznak. A showelemeket kedvelő Rama – feltételezhetően az utcán lézengőkkel kiabáló olasz polgármesterek által inspirálva – néhány napja a főváros, Tirana utcáit járva szólított meg járókelőket, számon kérve rajtuk, hogy miért nincsenek otthon.
+   </p>
+   <p>
+    Albanian PM Edi Rama walking around Tirana and scolding passers-by they are roaming the streets defying COVID-19 restrictions.
+    pic.twitter.com/q1uULHF1BY
+   </p>
+   <p>
+    — Dimitar Bechev (@DimitarBechev)
+    March 25, 2020
+   </p>
+   <p>
+    A járvány jelentette nehézségek közepette viszont jó hír, hogy az Európai Bizottság szomszédság- és bővítéspolitikáért felelős biztosa, Várhelyi Olivér
+    bejelentette
+    , megkezdődnek a csatlakozási tárgyalások Észak-Macedóniával és Albániával.
+   </p>
+   <p rend="head">
+    Szerbia: segítség Kínától
+   </p>
+   <p>
+    Komoly lépésekre szánta el magát Szerbia, hogy megfékezze a koronavírus terjedését, ami több mint 380 embert fertőzött meg és négy ember halálához vezetett (március 25-ei adat). Lezárásra kerültek a határok, az iskolák, emellett szigorú kijárási tilalmat vezettek be. Déli szomszédunknál a járványnak nem csak egészségügyi és gazdasági (a GDP várhatóan 2%-al fog csökkeni 2020-ban) hanem komoly
+    geopolitikai vonatkozásai
+    is vannak.
+   </p>
+   <p rend="head">
+    Szerbia ugyanis elsősorban nem az EU-tól kér segítségét a krízis megoldására, hanem attól a Kínától, ami annak ellenére képest most több európai ország segítségére sietni gyógyászati eszközökkel és pénzbeli támogatással, hogy néhány hete még a leginkább válság sújtotta régiónak számított.
+   </p>
+   <p>
+    A kínai delegáció érkezése Szerbiába (kép: Vučić Facebook-oldala)
+   </p>
+   <p>
+    A demokratikus elhajlással nehezen vállalható szerb elnök, Aleksandar Vučić egy beszédében élesen kritizálta az EU-t, amiért az korlátozza az orvosi védőfelszerelések exportját, az európai szolidaritást „tündérmesének” nevezte. Ugyanakkor háláját fejezte ki Kínának, amiért az orvosokat és eszközöket küld Szerbiának. Vučić „barátjaként és testvéreként”
+    hivatkozott
+    Kína vezetőjére, Hszi Csin-pingre, aki nemcsak az ő személyes, hanem „az egész ország barátja”- az ultranacionalista politikus még a kínai zászlót is
+    megcsókolta
+    , amikor fogadta az országba érkező hat kínai orvost. Szerbia egyébként néhány napja bejelentette, hogy hozzákezd a széleskörű teszteléshez, valamint 2.5 milliárd eurót szán a válság miatt bajba jutó vállalkozásoknak.
+   </p>
+  </body>
+ </text>
+</TEI>

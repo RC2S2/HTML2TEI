@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hadházy Ákos a TV2 szerint elmenekült a kameráik elől, de erről még nekik sincs felvételük
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8ad2de2d-c49a-5739-b89b-1e55f7e8eff8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hadházy Ákos a TV2 szerint elmenekült a kameráik elől, de erről még nekik sincs felvételük
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-03-30T13:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/03/30/hadhazy-akos-a-tv2-szerint-elmenekult-a-kameraik-elol-de-errol-meg-nekik-sincs-felveteluk/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/03/30/hadhazy-akos-a-tv2-szerint-elmenekult-a-kameraik-elol-de-errol-meg-nekik-sincs-felveteluk/
+     </sch:url>
+     <sch:name>
+      Hadházy Ákos a TV2 szerint elmenekült a kameráik elől, de erről még nekik sincs felvételük
+     </sch:name>
+     <sch:datePublished>
+      2019-03-30T13:00:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ellenzék
+     </sch:keywords>
+     <sch:keywords>
+      propaganda
+     </sch:keywords>
+     <sch:keywords>
+      Hadházy Ákos
+     </sch:keywords>
+     <sch:keywords>
+      tv2
+     </sch:keywords>
+     <sch:keywords>
+      lejáratás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8ad2de2d-c49a-5739-b89b-1e55f7e8eff8">
+     <sch:identifier>
+      urn:uuid:6bac618c-2ea4-44e5-bf9e-07ffce00ab78
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:21.074476
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:25:41.106725
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8ad2de2d-c49a-5739-b89b-1e55f7e8eff8" when="2021-12-14T15:27:21.074476">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hadházy Ákos a TV2 szerint elmenekült a kameráik elől, de erről még nekik sincs felvételük
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    „A szerdán kezdődött tárgyalást elhalasztották, Hadházy Ákos pedig elmenekült, amikor meglátta kameránkat.”
+   </p>
+   <p>
+    „A tárgyalást azonban elnapolták, Hadházy pedig, amikor meglátta a TV2 kameráját, azonnal elrohant.”
+   </p>
+   <p>
+    A Tények csütörtökön készült riportjának első 40 másodpercében hangzik el kétszer is, hogy Hadházy Ákos független országgyűlési képviselő elmenekült, amikor meglátta a TV2 kameráit. A riport vágóképein eközben látjuk Hadházy Ákost ülni, beszélni, nézni – menekülni azonban egyszer sem.
+   </p>
+   <p>
+    A politikus ma hosszú Facebook-posztban jelezte: a TV2 megint nem mond igazat, és nem csak menekülés-ügyben. A történet előzménye az, hogy Hadházy magánváddal perli volt (azóta elhunyt) szomszédjának lányát, aki állítása szerint rágalmazza őt. A per szerdán kezdődött el. Innentől Hadházy Ákos beszámolója következik:
+   </p>
+   <p>
+    „A per első napján a hölgy előzetes értesítésemet mellőzve nem jelent meg. Amikor viszont én megérkeztem, a „Tények” riportere és kamerája is ott volt, de nem forgattak, nem is szólítottak meg, távozásomkor is a padon pihent a kamera. Bár az az „újságíró” volt velük, akik a rólam szóló lejáratásokat szokta készíteni, nem zaklattak. Csodálkoztam is, azt hittem, véletlenül vannak ott. Aztán ez lett belőle: szerintük én menekültem a kamerák elől – ezt úgy is volt képe Marsi Anikónak belemondania a kamerába, hogy természetesen a „tudósítás” egyetlen képkockát sem mutat a bíróságról „menekülő” Hadházyról.”
+   </p>
+   <p>
+    A teljes poszt itt olvasható:
+   </p>
+   <p>
+    És valóban: a 2 perc 43 másodperces riportban egyetlen egyszer sem látszik a TV2 kamerája elől menekülő Hadházy, aki egyébként jelezte azt is, hogy a rágalmak terjesztése miatt a tévé főszerkesztőjét és a tudósítások készítőjét is perli.
+   </p>
+   <p>
+    Valójában természetesen nincs semmi meglepő abban (bár ez már önmagában is sajnálatos), hogy a kormányközeli sajtó valótlanságokat állít:
+    tavaly összesen
+    109 helyreigazítási pert vesztettek el, a TV2 összesen 7 alkalommal (a rekorder az Origo volt, 34 elmarasztalással).
+   </p>
+   <p>
+    De érdemes még megemlíteni, hogy
+    csak idén januárban
+    , az év első 10 napján a Jobbik 8 pert nyert a kormánysajtóval szemben: a TV2 és a Ripost ellen három-három, a Magyar Időkkel és a Lokállal szemben pedig egy-egy győztes jogi procedúrát tudhat maga mögött a párt (egyébként rendkívül
+    tanulságos listát
+    is vezetnek sajtópereikről).
+   </p>
+   <p>
+    A mostani TV2 riport már csak azért is elgondolkodtató, mert egy anyagban úgy hangzik el egymás után kétszer egy állítás, hogy arra még csak törekedni se törekedtek, hogy ezt képi megjelenítéssel igazolni próbálják (ami azért egy televízió esetében amúgy nem hátrány).
+   </p>
+   <p>
+    Viszont maga Hadházy – aki egyébként a posztban is jelezte, hogy esze ágában sincs menekülni, sőt, a végsőkig küzd majd az igazáért – arra is felhívja a figyelmet, hogy a lejáratókampányoknak van egy olyan vetülete is, amivel egyre többször szembesül politikusként.
+   </p>
+   <p rend="head">
+    Ez pedig nem más, mint a fenyegetés.
+   </p>
+   <p>
+    A független politikus mellékelt egy képet is egy őt fenyegető levélből, amelyben olyan kitételek szerepeltek, mint például a „ha személyesen tudnánk találkozni, ki ütnélek a gecibe”, majd hozzátette:
+   </p>
+   <p>
+    „Ez nem nagyon vicces, mert mindig vannak sajnos őrült emberek, akik ezeket a fenyegetéseket komolyan gondolják és tisztában vagyok azzal, hogy előbb-utóbb akár a tettlegesség is utolérhet. A kormány pedig azzal, hogy az MTVA-ban ellenünk alkalmazott nyilvánvaló erőszakot büntetlenül hagyta, megüzente az átlagnál kevesebbet gondolkodó és agresszívabb embertársainknak: csináljátok nyugodtan.”
+   </p>
+   <p>
+    Hadházy hozzáteszi, hogy leginkább attól tart, hogy ellenzéki kollégái látva, hogy például ellene milyen lejárató hadjárat folyik, „esetleg hajlamosak lehetnek ezután úgy politizálni, hogy ők ezeket a lejáratásokat megússzák.”
+   </p>
+   <p>
+    A független politikus szerint ez azonban a legnagyobb hiba lenne szerinte.
+   </p>
+   <p>
+    „A zsarolásnak egyszerűen nem szabad engedni” – fogalmaz.
+   </p>
+   <p>
+    Legutóbb egyébként Cseh Katalin nőnap alkalmából töltött fel közösségi oldalára egy videót, amelyen a személyét gyalázó, őt fenyegető üzeneteket olvasott fel, amelyekkel politikusként nap mint nap találkozik:
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az „szszsz” nyilatkozata a rabszolgatörvényről
+    </title>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f804b0f9-1cbb-559f-9f7c-6f1430e8e6b8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az „szszsz” nyilatkozata a rabszolgatörvényről
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-03T15:53:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/01/03/az-szszsz-nyilatkozata-a-rabszolgatorvenyrol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/01/03/az-szszsz-nyilatkozata-a-rabszolgatorvenyrol/
+     </sch:url>
+     <sch:name>
+      Az „szszsz” nyilatkozata a rabszolgatörvényről
+     </sch:name>
+     <sch:datePublished>
+      2019-01-03T15:53:00
+     </sch:datePublished>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      forradalom
+     </sch:keywords>
+     <sch:keywords>
+      antikapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      követelések
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f804b0f9-1cbb-559f-9f7c-6f1430e8e6b8">
+     <sch:identifier>
+      urn:uuid:db5538c0-854e-4798-892a-eb476ea7348e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:01.026237
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:22:16.119625
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f804b0f9-1cbb-559f-9f7c-6f1430e8e6b8" when="2021-12-14T15:35:01.026237">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az „szszsz” nyilatkozata a rabszolgatörvényről
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Mi, székely és szórvány szituacionisták kettős állampolgári felelősségünkből adódóan aggodalmunkat fejezzük ki a magyarországi lázadások forradalmi céljainak bulvárkapitalista eltérítései miatt.
+   </p>
+   <p>
+    Álláspontunk, hogy a lázadásoknak csak akkor lesz eredménye, ha koncentráltan és magabiztosan a lehetetlent követeljük. Így, még ha győznek is a kapitalisták, az antikapitalizmus szelleme örökre bevésődik a nép kollektív tudattalanjába. Gyanakvásunkat fejezzük ki a parlamenti ellenzék, a szakszervezetek, továbbá a kétfarkú kutyák gondolattalan, a legfontosabb céloktól eltérítő üzenetei, a forradalom reprezentációjának spektakuláris kiüresítése miatt.
+   </p>
+   <p rend="head">
+    Dühünket a következő 5–1 pontban formáljuk meg, ezzel is elhatárolódva a parlamenti ellenzék 5 pontjától, melynek célja, hogy szűk keretek közé szorítsa és lejárassa a forradalmat.
+   </p>
+   <p>
+    4. A bérmunka rablás. A kapitalisták egyenlőségjelet tesznek munka és bérmunka közé. Miután meghamisították a bérmunka gazdasági jelentését, a kapitalistáknak van pofájuk azt mondani, hogy „A munka becsület”, „A munka tisztesség.” Egyszer s mindenkorra kijelentjük: a bérmunka szégyen s gyalázat. A bérmunka a munkának csak az egyik típusa, amelynek során a munkaképesség, a munka terméke, illetve a megformált, áruvá alakított anyag (a természet) el van rabolva a munkástól. A munkás így
+    gyökértelenné válik
+    , s a gyökértelenségéért kapott munkabér (legyen az sok vagy kevés) nem képes ezt kompenzálni. Fölszítjuk a bérmunka iránti kíméletlen gyűlöletet, mely az életösztön tagadása. A munka mint emberi-kulturális tevékenységforma felszabadítását, a munkaformák diverzitásának biztosítását követeljük, nem pusztán emberségesebb bérmunka-viszonyokat. Több bérmunka helyett társadalmilag hasznos munkát, szabad és önkéntes kooperáción alapuló életet! Le a bérrabszolgasággal!
+   </p>
+   <p>
+    3. A munkásosztály eltörlése. A kapitalisták, a kapitalistákhoz idomult baloldaliak, a szakszervezetek idealizálják a munkások életformáját, puszta humanitárius meggondolásból védik a jogaikat. Eltitkolják, hogy már a normál munkaidő is tartalmaz túlmunkát, ami a munkáltató oldalán tiszta profitként jelentkezik, amiért ő nem tett semmit. Ebből ered a munkások/alkalmazottak és a tőketulajdonnal rendelkezők közti alapvető gazdasági és egzisztenciális egyenlőtlenség, ez osztja osztályokra a társadalmat. Kijelentjük, hogy a munkások életkörülményeinek javítása, a munkabér növelése és a többi „baloldali” vagy szakszervezeti követelés csak meghosszabbítja a kapitalizmus élettartamát, nem törli el, pusztán csak csökkenti a bérrabszolgaság embertelenségét. A cél nem a munkásokat állítólag képviselő erők hatalomra juttatása, hanem a munkásosztály és minden más társadalmi osztály eltörlése. Le az osztálytársadalommal!
+   </p>
+   <p>
+    2. Az élőlények, tárgyak felszabadítása. Az áruforma, amellyé mindent és mindenkit átalakít az árutársadalom, megszünteti az élőlények, tárgyak egyedi arculatát, a sokszínű felszín leple alatt mindent és mindenkit egyenértékre redukál. Az élő- és tárgyi világ atomizált, elszigetelt, lekötött elemei csak az áruforma, a piac és a pénz közvetítésén keresztül léphetnek kapcsolatba egymással. Az áruforma hegemóniája a bolygót mészárszékké, a világot egy idegen test, a tőke testének szeletelt hústömegévé, puszta nyersanyaggá változtatta. A világ teste nem biodizájn! Támogatjuk az élővilágot visszafordíthatatlanul károsító vállalatok azonnali blokád alá vételét. Követeljük az élővilág nem kizsákmányolás-alapú tudományainak és a környezettudatos gazdálkodást elősegítő ismereteknek az azonnali bevezetését a közoktatásba. Követeljük az áruforma hegemóniájának megszüntetését, a gazdasági cseremódok diverzitásának elismerését. Ez a világ nem a fétisek földje, de rész a teljességből. Le a szelet-emberekkel!
+   </p>
+   <p>
+    1. A gépek és termelőeszközök társadalmasítása. A kapitalizmus az embert és a természetet a gép szolgálatába állítja, legyen szó ipari gyártósorról, automatizációról vagy a nyelv, a kommunikáció digitális szabványosításáról. A gépesítés a kultúraalkotó lény, az ember nagy vívmánya, de használata nem lehet öncél. Követeljük az öncélú technológiai innovációk korlátozását és a technológia humanizálását, mely megszabadít az emberi és állati munka fölösleges kínjaitól, de nem veti az ember fizikai és szellemi munkaképességeit a szabványosítás és az automatizáció szolgaságába, nem változtatja a természetet ipari hulladékraktárrá. A technológia az emberi társadalom közös tulajdona, nem pedig a nagyvállalatok magánvagyona, akik kisajátítják és a profitmaximalizásra való beállítással a társadalom közös érdekei ellen fordítják a technológiai hatalmat. A termelés és a társadalom korlátlan technologizációja, szabványosítása helyett a technológia társadalmasítását, a technológiának a társadalom közös érdekei szolgálatába állítását követeljük. Halál a tőke kiborgjaira!
+   </p>
+   <p>
+    0. A hiányzó ötödik pont helyett és az általános sztrájkra való felkészülés gyanánt a forradalmi tömegek figyelmébe ajánljuk a következő sorokat Máté evangéliumából:
+   </p>
+   <p>
+    „Nézzétek a mezők liliomait, hogyan nőnek: nem fáradoznak, nem szőnek-fonnak, mégis, mondom nektek, még Salamon sem volt dicsősége teljében úgy felöltözve, mint egy ezek közül. Ha a mezei virágot, amely ma virít, holnap pedig a kemencébe kerül, így öltözteti az Isten, akkor benneteket, kishitűek, nem sokkal inkább? Ne aggodalmaskodjatok hát, és ne kérdezgessétek: Mit eszünk, mit iszunk? Ezeket a pogányok keresik. Mennyei Atyátok tudja, hogy ezekre szükségetek van. Ezért ti elsősorban az Isten országát és annak igazságát keressétek, s ezeket mind megkapjátok hozzá! Ne aggódjatok tehát a holnap miatt, a holnap majd gondoskodik magáról! A mának elég a maga baja.” (Mt 6, 28-34.)
+   </p>
+   <p>
+    Mi, egerek és emberek, kutyák, lovak, zümmögő legyek, mohos kövek és ganajtúró bogarak az embertelen nagy hamu alól követeljük az emberiség, a természet, a képzeletbeli és valóságos dolgok egyetemes felszabadítását a sokszívű, sokarcú tőkehidra uralma alól.
+   </p>
+   <p>
+    A forradalmi gömbvillám járja át hálószobáitokat!
+   </p>
+   <p>
+    Legyen szép a forradalom és titokzatos, mint az üvegrózsa, mely a sivatagi homokba csapó villám nyomán keletkezik!
+   </p>
+   <p>
+    Gyűlölve is szeresd felebarátodat, mint önmagadat!
+   </p>
+   <p>
+    <hi>
+     A szöveg eredetileg
+    </hi>
+    A Szem
+    <hi>
+     oldalon jelent meg.
+    </hi>
+   </p>
+  </body>
+ </text>
+</TEI>

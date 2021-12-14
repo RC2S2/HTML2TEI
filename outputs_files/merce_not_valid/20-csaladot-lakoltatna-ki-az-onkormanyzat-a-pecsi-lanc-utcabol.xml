@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     20 családot lakoltatna ki az önkormányzat a pécsi Lánc utcából
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5797e551-d176-5e60-b8b1-c072ea2ee62e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      20 családot lakoltatna ki az önkormányzat a pécsi Lánc utcából
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-04-21T09:32:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2021/04/21/20-csaladot-lakoltatna-ki-az-onkormanyzat-a-pecsi-lanc-utcabol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2021/04/21/20-csaladot-lakoltatna-ki-az-onkormanyzat-a-pecsi-lanc-utcabol/
+     </sch:url>
+     <sch:name>
+      20 családot lakoltatna ki az önkormányzat a pécsi Lánc utcából
+     </sch:name>
+     <sch:datePublished>
+      2021-04-21T09:32:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      Kilakoltatás
+     </sch:keywords>
+     <sch:keywords>
+      Pécs
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5797e551-d176-5e60-b8b1-c072ea2ee62e">
+     <sch:identifier>
+      urn:uuid:b7c62e5b-e5dc-4656-aa7f-cb5d54bf9b8d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:07.884660
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:21:12.923956
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5797e551-d176-5e60-b8b1-c072ea2ee62e" when="2021-12-14T15:26:07.884660">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    20 családot lakoltatna ki az önkormányzat a pécsi Lánc utcából
+   </head>
+   <p>
+    <hi rend="bold">
+     Április 15-én Sebestyén György (egykori lakásosztály vezető, jelenleg Nyőgéri Lajos alpolgármesteri referense) egy roma küzdősport-egyesület két tagjával, a Lánc utcai lakásokkal való évtizedes üzérkedés utóbbi években vélhetően aktív szereplőivel karöltve keresett fel 20 családot a Lánc utcában, és szólította fel őket rövid időn belül otthonaik elhagyására.
+    </hi>
+   </p>
+   <p>
+    Csoportunkhoz hétvégén jutott el a lakók kétségbeesett megkeresése, amelyet a városban több civil szervezetnek és a sajtónak is elküldtek. Az önkormányzat fenyegető és a hivatalos intézkedés látszatát keltő fellépése példátlan összefogásra sarkallta a Lánc utca érintett lakóit. Aktivistáinkat hétfőn már egy tudatosan szerveződő közösség fogadta, akik egymással szolidaritást vállalva közösen fogalmazták meg nekünk álláspontjukat, mely szerint:
+   </p>
+   <p>
+    <hi rend="bold">
+     a kilakoltatásnak nem ez a módja, nem hajlandók elfogadni a megkérdőjelezhető módszereket alkalmazó tisztségviselő felszólítását, partnerek akarnak lenni a folyamatban, amelyben rendeződhetnek tartozásaik, szerződéses viszonyaik, és megőrizhetik lakhatásukat.
+    </hi>
+   </p>
+   <p>
+    A lakók körében azonban nem csak az önkormányzat emberének látogatása keltett riadalmat. Sokkal több kérdőjelet vet fel kísérőjének szerepe a folyamatban.
+   </p>
+   <p>
+    A Lánc utcai állapotokat jellemző híradások általában tartalmazzák a kábítószer-fogyasztás és lakásfeltörés kulcsszavakat, ám ritkán emlékeznek meg arról, hogy a 130 lakásos önkormányzati tömbben megjelenő bűnözés szervezettségéről minden bizonnyal tudott a tulajdonos önkormányzat is. A Lánc utca állapota és az ehhez kapcsolódó tény, miszerint konkrét személyekkel lehet összekötni többek között az önkényes lakásfoglalás menetét is, nyílt titok a városban, 5 éves alakulásunk óta mi is számtalanszor botlottunk már  a városban működő lakásmaffiá(k)* tevékenységébe.
+   </p>
+   <p>
+    Feltört lakás a Lánc utcában
+   </p>
+   <p>
+    <hi rend="bold">
+     Nemcsak az a kérdés, hogy miért történhetett meg, hogy a belváros peremén álló tömb folyosóin zavartalanul folyjon a lakásokkal való nepperkedés, hanem az is, hogyan került ennek feltételezhető kulcsszereplője a szociális ügyekért felelős alpolgármester szakmai referensének oldalára, amikor az családokat szólít fel lakáselhagyásra – jogi eljárás és hivatalos papírok nélkül?
+    </hi>
+   </p>
+   <p>
+    Amikor a Lánc utca áldatlan állapotairól emlékezik meg a döntéshozó, ritkán emlegeti, hogy az elmúlt évben észlelhető enyhülés minek köszönhető.
+   </p>
+   <p>
+    Korábban két tömbben működött a Máltai Szeretetszolgálat rehabilitációs programja. Ennek keretében együttműködési megállapodásokat kötöttek családokkal, lehetőséget biztosítva tartozásaik törlesztésére. Ebben a megállapodásban ugyan a mostani események fényében homályos az önkormányzat vállalása, de reményt adhatott a lakóknak a biztonságot jelentő szerződés megszerzésére. A program szerepet játszhatott abban is, hogy abban az időben több problémás, közbiztonságot veszélyeztető bérlőt lakoltattak ki a többnyire kisgyermekes családok által lakott folyosókról.
+   </p>
+   <p>
+    Nem elhanyagolható ebben azonban a nyugodt életre vágyó lakók azóta is tartó szerepvállalása. Azoké, akik sok esetben maguk is évek óta küzdenek azért, hogy szerződéses viszonyaik rendeződjenek és jogosan hívhassák otthonuknak a Lánc utcát. Éppen ők azok, akik megteszik a bejelentést, amikor közbiztonságot veszélyeztető lakók jelennek meg az épületben. Ahogyan ők igyekeznek a lakótömböt lakhatóvá tenni is: takarítanak, saját költségen irtják a csótányt és poloskát, próbálják távol tartani a galambokat az üres lakásoktól, és hívják fel az illetékesek figyelmét rendszeresen a hozzájuk tartozó társasházi kukák illetéktelen használatára. Ők most is tennének lakhatásukért, de úgy tűnik erre mégsem kapnak lehetőséget.
+   </p>
+   <p>
+    Rögtönzött lakógyűlés 04.19-én
+   </p>
+   <p>
+    <hi rend="bold">
+     Ki döntött 20 család, több mint 30 kiskorú kilakoltatásáról?
+    </hi>
+   </p>
+   <p>
+    Az elmúlt másfél évben számtalanszor hívtuk fel a városvezetés figyelmét, hogy veszélyes és nem túl biztató tendencia, ha elzárkóznak a lakásgazdálkodást jellemző káosz rendezésének átláthatóságától. Hogy hol és kik dolgoznak az ellenzéki városvezetés által folytatni kívánt lakáskoncepción, sokáig talány volt, majd év elején
+    kiderült
+    , hogy néhány szakmailag vállalhatatlan – Jobbik által szállított – jelentés és javaslat után a frakcióvezetők körében formálódik – valami.
+    <hi rend="bold">
+     A késlekedés emberek lakhatásában mérhető káráról is megemlékeztünk már többször, de most fog igazán láthatóvá válni: a szigorított védekezés lejárta után hivatalosan május 4-én ér véget a kilakoltatási moratórium.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Milyen koncepció alapján járt el Sebestyén György?
+    </hi>
+   </p>
+   <p>
+    A már lefalazott Lánc utcai Málta-iroda rehabilitációs munkája elvileg nem marad folytatás nélkül, a következő évekre már le van kötve egy 42 milliós tétel a város költségvetésében az úgynevezett
+    „Lánc utcai lakhatási projektre”
+    . A még Páva Zsolt idejében elfogadott program célja az épületben portaszolgálat bevezetése (remélhetőleg korábbi tapasztalataikból okulva ezúttal a lakásmaffiát kihagyva ennek üzemeltetéséből), és egy szolgáltató iroda kialakítása, amely bázisa lehet szociális tevékenységeknek, amelyek olyan rétegek számára segíthetnek a lakhatási nehézségeik leküzdésében, akik ezt egzisztenciális helyzetükből adódóan külső segítség nélkül nem tudnák megoldani.
+   </p>
+   <p>
+    <hi rend="bold">
+     Most ezt a réteget akarják kilakoltatni. Kiken fog akkor segíteni a program?
+    </hi>
+   </p>
+   <p>
+    Horváth Tamásnak, a terület megválasztott képviselőjének matricája egy Lánc utcai postaládán
+   </p>
+   <p>
+    A pandémia egészségügyi, gazdasági, társadalmi hatási nem kerülték el a Lánc utcát sem. Az otthontanulás biztosítása, a tartósan beteg gyermekek biztonságának megteremtése kikezdte a gazdaságilag eddig is pengeélen táncoló családok helyzetét, sokan elvesztették munkájukat, és egyelőre kilátásuk sincs rá, hogy mikor rendeződhet helyzetük. Segítségre az elmúlt évben nem számíthattak az önkormányzattól, a tavaly nyáron osztott egyszeri 30 ezer forintos albérleti támogatásra ugyanis önkormányzati bérlők nem voltak jogosultak.
+   </p>
+   <p>
+    Aktivistánk nézi át a hivatalos papírokat 04.19-én
+   </p>
+   <p>
+    A most felszólított lakók rendezetlen viszonyok között laknak, sokuk soha nem kapott rendes bérleti szerződést az önkormányzattól, jegyzőkönyvezett beköltözőként fizettetnek velük sok esetben piaci lakbért, szociális rászorultságuk tényétől függetlenül. Az évtizedes hanyagság jelei személyes történeteikben mutatkoznak meg: van lakó, aki 20 évvel ezelőtt vette meg önkormányzati lakását egy „közvetítőtől”, és elmondásuk alapján van aki még pár éve is a most Sebestyén Györgyöt kísérő személynek fizetett, hogy az az utcán állva rámutasson a feltörhető lakásra.
+   </p>
+   <p>
+    Történetük közös: önkényes lakásfoglalóként számon tartva utasítják el őket sorozatosan, bármilyen kérdésben keresik fel a Lakásosztályt. Nem kapnak részletfizetést, sem szociális lakbért.
+   </p>
+   <p>
+    <hi rend="bold">
+     És nem részesülnek tisztességes bírósági eljárásban és jogorvoslatban sem – mert önkényesek.
+    </hi>
+   </p>
+   <p>
+    A lakásgazdálkodást jellemző káosz és az ezzel párhuzamosan megjelenő kizsákmányoló rendszerek áldozatainak védtelenségére 2019-ben felhívtuk az új városvezetés figyelmét is. Miután azonban a döntéshozók elzárkóztak a probléma szakmai diskurzuson alapuló megoldásától, csak halvány reménysugár maradt, hogy a helyzet szociális megfontolás mentén kerüljön rendezésére.
+    <hi rend="bold">
+     Ezt a  reménysugarat a városvezetés többször, kérdésekre is elismételt kijelentése éltette, hogy senkit nem szándékoznak utcára tenni.
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     A Lánc utcai lakókkal viszont senki nem törekedett együttműködésre, megfélemlítésük és kilakoltatásuk pedig elindult.
+    </hi>
+   </p>
+   <p>
+    Az önkormányzati rendelet értelmében ezek a családok többé nem jogosultak szociális bérlakásra és számukra a piacon sem elérhető albérlet.
+   </p>
+   <p>
+    Felmérte az önkormányzat tettei társadalmi következményeit és hogy az ennek során felmerülő újabb feladatait el tudja-e látni? Pontosan tudja hány család az, akinek nincs hova költöznie? Felkészültek a fogadásukra a pécsi szociális és gyermekvédelmi intézmények? Az ellátórendszer folyamatosan teljes kihasználtsággal működik.
+   </p>
+   <p>
+    Nem ad okot bizakodásra az, hogy az önkormányzat eljáró tisztségviselője, megkérdőjelezhető hátterű kísérettel, szóban jelentett be egyszerre majdnem két tucat, a következő hetekre időzített kilakoltatást, amivel azon kívül, hogy szembe ment a városvezetés eddig kommunikált szándékával, minden hivatalos eljárási normát is megszegett. Ez egy rövidlátó, átgondolatlan, rosszul kivitelezett tervnek tűnik.
+   </p>
+   <p>
+    <hi rend="bold">
+     Pécs város polgármestere tegyen eleget ígéretének és szociális bérlakásból ne történjen elhelyezés nélküli kilakoltatás!
+    </hi>
+   </p>
+   <p>
+    <hi rend="bold">
+     Vizsgálja felül, hogy milyen döntések vezettek ehhez a mostani kezdeményezéshez!
+    </hi>
+   </p>
+   <p>
+    *a közhasználatban eltejedt
+    <hi rend="bold">
+     lakásmaffia
+    </hi>
+    kifejezés többnyire olyan bűnözői csoportokat takar, akik kiegészítő tevékenységként nepperkednek üres önkormányzati lakásokkal.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bayer Zsolt blogján keverték össze Petőfi két híres versét
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3fda5560-f1ed-5eec-85cd-3aa18d90892c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Bayer Zsolt blogján keverték össze Petőfi két híres versét
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-11-04T14:10:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/11/04/bayer-zsolt-blogjan-kevertek-ossze-petofi-ket-hires-verset/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/11/04/bayer-zsolt-blogjan-kevertek-ossze-petofi-ket-hires-verset/
+     </sch:url>
+     <sch:name>
+      Bayer Zsolt blogján keverték össze Petőfi két híres versét
+     </sch:name>
+     <sch:datePublished>
+      2018-11-04T14:10:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      petőfi sándor
+     </sch:keywords>
+     <sch:keywords>
+      mácsai pál
+     </sch:keywords>
+     <sch:keywords>
+      szentesi zöld lászló
+     </sch:keywords>
+     <sch:keywords>
+      verselemzés
+     </sch:keywords>
+     <sch:keywords>
+      dicsőséges nagyurak
+     </sch:keywords>
+     <sch:keywords>
+      akasszátok fel a királyokat
+     </sch:keywords>
+     <sch:keywords>
+      1994
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3fda5560-f1ed-5eec-85cd-3aa18d90892c">
+     <sch:identifier>
+      urn:uuid:c4d39744-b5c8-497f-a4de-58436a03fb0b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:05.117493
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:14:14.987623
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3fda5560-f1ed-5eec-85cd-3aa18d90892c" when="2021-12-14T15:31:05.117493">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Bayer Zsolt blogján keverték össze Petőfi két híres versét
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Hont András vette
+    észre Facebook-oldalán
+    , hogy Bayer Zsolt
+    <hi>
+     Bádog
+    </hi>
+    nevű blogján egy
+    Szentesi Zöldi László által jegyzett publicisztikában
+    az alábbi sor szerepel:
+   </p>
+   <p>
+    És akkor Ön, Mácsai Pál, előjött a függöny mögül, és elmondta Petőfi  Sándor:
+    Dicsőséges nagyurak című
+    versét, amelyet általában
+    Akasszátok  fel a királyokatként
+    emlegetünk (csatoltam, megtekinthető).
+   </p>
+   <p>
+    A két vers persze nem ugyanaz, de a Mácsai Pálra támadó írás tovább megy, és Petőfi költészetét is jellemzi imigyen:
+   </p>
+   <p>
+    Petőfi Sándor eredetileg is rettenetesen buta és ártalmas versét.
+   </p>
+   <p>
+    Szentesi Zöldi szerint egyébként azért „rettenetesen buta és ártalmas” a Dicsőséges nagyurak című vers, mert szerinte azt 1994-ben Mácsai híres szavalásában „
+    <hi>
+     halálos fenyegetésként aktualizálta
+    </hi>
+    ”. Ebből úgy tűnik, hogy Szentesi Zöldi nem olvasta végig a verset, mert abban azután, hogy Petőfi felhív a Dicsőséges nagyurak felkötésére, verse második fele pont arról szól, hogy ezt nem szabad csinálni.
+   </p>
+   <p>
+    Hanem még se!… atyafiak, 
+Megálljunk! 
+Legyünk jobbak, nemesebbek 
+Őnáluk; 
+Isten után legszentebb a 
+Nép neve: 
+Feleljünk meg becsülettel 
+Nékie.
+   </p>
+   <p>
+    Legyünk nagyok, amint illik 
+Mihozzánk, 
+Hogy az isten gyönyörködve 
+Nézzen ránk, 
+S örömében mindenható 
+Kezével 
+Fejeinkre örök áldást 
+Tetézzen.
+   </p>
+   <p>
+    Felejtsük az ezer éves 
+Kínokat, 
+Ha az úr most testvérének 
+Befogad; 
+Ha elveti kevélységét, 
+Címerit, 
+S teljes egyenlőségünk el- 
+Ismeri.
+   </p>
+   <p>
+    Nemes urak, ha akartok 
+Jőjetek, 
+Itt a kezünk, nyujtsátok ki 
+Kezetek. 
+Legyünk szemei mindnyájan 
+Egy láncnak, 
+Szüksége van mindnyájunkr’ aHazának.
+   </p>
+   <p>
+    Tehát Petőfi verse azzal szemben, amit Szentesi Zöldi állít, felsorolja a társadalom problémáit a dicsőséges nagyurakkal szemben, majd arra szólít fel, hogy a népnek ezen túl kell lendülnie, és együtt kell megoldani az ország problémáit  a nagyurakkal.
+   </p>
+   <p>
+    De persze nem a verselemzés kedvéért vettük górcső alá a cikket, hanem egy másik Szentesi Zöldi mondat miatt, amelyből kirajzolódik egy újabban elég gyakori kormányzati taktika, amelyben a saját kiváltságos helyzetüket a Fidesz-közeli emberek mártíromságnak állítják be, míg a Fidesz által létrehozott gazdasági és politikai elnyomást a másként gondolkodók üldözésének. Szentesi Zöldi ugyanis ezt írja Mácsai 1994-es szavalásáról, amely a 94-es kampányban egy baloldali-liberális rendezvényen hangzott el:
+   </p>
+   <p>
+    „
+    <hi>
+     ma sem lehet másképp értelmezni, mint hogy a nemzeti
+    </hi>
+    <hi>
+     gondolattal gennyes sebként kell bánni, és hogy a legjobb volna
+    </hi>
+    <hi>
+     fizikailag likvidálni, vagy ha nem megy, végleg eltüntetni a másképp
+    </hi>
+    <hi>
+     gondolkodókat.
+    </hi>
+    ”
+   </p>
+   <p>
+    Ha megnézzük a fenti „verselemzést” láthatjuk, hogy szó sincs likvidálásáról, főként nem a másképp gondolkodók eltüntetéséről, utóbbiról már csak azért sem, mert a vers nem is egy másképp gondolkodás, hanem anyagi helyzet szerint különböztet meg elnyomókat és elnyomottakat. Szentesi Zöldi mégis így keretezi a dolgot.
+   </p>
+   <p>
+    És tetszik tudni, olykor nagyon nehéz  megállni, hogy az ember lefogja az ütő kezet. De azért – nagy-nagy  önfegyelemmel – ez mindig sikerül, mert mi nem vagyunk a Bosszú Népe.  Nekünk az Ön 1994-es ábrázatára kiülő elemi gyűlölet soha nem állt jól. 
+Vannak más hibáink, fogyatékosságaink, de gyilkos indulat nem fűti a  magyart. Viszont rettenetesen jó a memóriánk, és ma is emlékszünk, ha  valaki halálos fenyegetésként aktualizálta Petőfi Sándor eredetileg is  rettenetesen buta és ártalmas versét.
+   </p>
+   <p>
+    Tehát pár mondattal később Szentesi Zöldi már arról elmélkedik, hogy a kamu gyilkosság-sztorit meg kell torolni, de a nemzeti oldal visszafogja magát, és nem tesz ilyen a Bosszú Népével szemben. Egyébként a Bosszú Népe ismert antiszemita toposz a zsidóságra.
+   </p>
+   <p>
+    Tehát azt láthatjuk, hogy egy olyan versből, amely arról szól, hogy az elnyomottaknak fel kell lázadniuk, és egyenlőségre kell kényszeríteniük a nagyurakat, a fideszes publicista felállítja a magyarság megtámadását és az indokot a leszámolására a Fidesz ellenségeivel.
+   </p>
+   <p>
+    Pedig a valóságban Petőfi verse nem buta és nem kártékony, hanem arról a küzdelemről szól, amelyben a megnyomorítottak és megalázottak – a koldusok, a kilakoltattok, az elnyomottak a mindenkori magyar elit kizsákmányoltjai – felkelnek és szembeszállnak elnyomóikkal, és rákényszerítik őket arra, hogy az állami javak elrablása helyett azt igazságos mértékben elosszák úgy, hogy minél inkább valóban a haza, a közösség a többség jussát szolgálja. Petőfivel szólva:
+   </p>
+   <p>
+    „Ha majd a bőség kosarából 
+Mindenki egyaránt vehet, 
+Ha majd a jognak asztalánál 
+Mind egyaránt foglal helyet, 
+Ha majd a szellem napvilága 
+Ragyog minden ház ablakán: 
+Akkor mondhatjuk, hogy megálljunk, 
+Mert itt van már a Kánaán!”
+   </p>
+   <p>
+    Szentesi Zöldi ezt az igazságosságért való küzdelmet keretezi a nemzet megtámadásaként. Pedig valójában a nemzetet és történelmét Szentesi Zöldi több százezres fizetésénél, amit az ilyen cikkekért kap, jobban reprezentálja a magyar nincstelenek küzdelemsorozata nem a győzelemért, hanem a túlélésért az örökkön-örökké az elitek által fogvatartott Magyarországon.
+   </p>
+  </body>
+ </text>
+</TEI>

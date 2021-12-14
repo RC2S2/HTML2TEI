@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Élni vagy félni?
+    </title>
+    <author>
+     <persName>
+      Nefelejcs Gergő
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Jason Stanley
+     </persName>
+    </author>
+    <author>
+     <persName>
+      CrimethInc.
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mouvement Communiste
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Mario Tronti
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kassák Lajos
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Ingo Stützle
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     9d18cb78-6bff-5590-b6c8-491cd692258b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Élni vagy félni?
+     </title>
+     <author>
+      <persName>
+       Ingo Stützle
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kassák Lajos
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mario Tronti
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mouvement Communiste
+      </persName>
+     </author>
+     <author>
+      <persName>
+       CrimethInc.
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jason Stanley
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nefelejcs Gergő
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-11-21T08:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://tett.merce.hu/2021/11/21/elni-vagy-felni/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://tett.merce.hu/2021/11/21/elni-vagy-felni/
+     </sch:url>
+     <sch:name>
+      Élni vagy félni?
+     </sch:name>
+     <sch:datePublished>
+      2021-11-21T08:00:00
+     </sch:datePublished>
+     <sch:author>
+      Nefelejcs Gergő
+     </sch:author>
+     <sch:author>
+      Jason Stanley
+     </sch:author>
+     <sch:author>
+      CrimethInc.
+     </sch:author>
+     <sch:author>
+      Mouvement Communiste
+     </sch:author>
+     <sch:author>
+      Mario Tronti
+     </sch:author>
+     <sch:author>
+      Kassák Lajos
+     </sch:author>
+     <sch:author>
+      Ingo Stützle
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      fasizmus
+     </sch:keywords>
+     <sch:keywords>
+      vélemény
+     </sch:keywords>
+     <sch:keywords>
+      kötelező oltás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="9d18cb78-6bff-5590-b6c8-491cd692258b">
+     <sch:identifier>
+      urn:uuid:a806b249-bc43-4a64-9167-98299bee621c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:03.446116
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:57:52.231901
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="9d18cb78-6bff-5590-b6c8-491cd692258b" when="2021-12-14T15:31:03.446116">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Élni vagy félni?
+   </head>
+   <p>
+    Aláírtam egy
+    kiáltványt
+    a héten, hogy legyen értelmes párbeszéd a járványkezelésről. Szerintem jó a társaság, tudok velük közösséget vállalni: csak az bánt, hogy balról kevesen vagyunk rajta.
+   </p>
+   <p>
+    A visszhangok egy része azt kérte számon, hogy hát hiszen már van párbeszéd – miről beszélünk, mit is akarunk?
+   </p>
+   <p>
+    Tegnap egy
+    harmincas férfi kiugrott a zalai kórház ablakán
+    , mikor megtudta, hogy koronavírusos. Valószínűleg különösebb gond nélkül felépült volna, de valahogy, valamiért halálos fenyegetésként élte meg a fertőzést.
+   </p>
+   <p>
+    Az osztrákoknál egy
+    hétig korlátozták az oltatlanokat
+    , hétfőtől pedig mindenkit, a lakosság támogatása mellett – noha mára tudjuk, hogy aki oltott, az is terjesztheti a vírust.
+   </p>
+   <p>
+    Hollandiában tegnap a korlátozások ellen tüntetők
+    közé éles lőszerrel lőtt a rendőrség
+    , egy megrázó felvételen kb. az látszik,
+    mintha kivégeznének valakit
+    .
+   </p>
+   <p>
+    2021 előtt nem létezett az a megkülönböztetés, hogy oltott vagy oltatlan. Voltak egészséges emberek, meg fertőzöttek karanténban, meg betegek kórházban vagy lélegeztetőn.
+   </p>
+   <p>
+    A cél az volt, hogy valahogy csökkentsük a halottak és a kórházba kerülők számát. Erre úgy tűnik, hogy jók az oltások, legfeljebb fél évente újra be kell adatni őket.
+   </p>
+   <p>
+    Mit
+    mondott a magyar kormány miniszterelnöke
+    tegnap?
+   </p>
+   <p>
+    Hogy aki nem oltat, az meghal. Tekintve, hogy jelenleg hetven-valahány éves a koronában elhunytak átlagéletkora, ezt nehéz nem fenyegetésként érzékelni.
+   </p>
+   <p>
+    Én betartottam minden szabályt, elkaptam a koronát, túléltem, védett vagyok, de a rendszer nem ismeri ezt el, ezért pl. koncertre sem járhatok.
+   </p>
+   <p>
+    Ez a kisebbik probléma: több millió más magyar, és majd százmillió európai nem rendelkezik védettségi igazolvánnyal, és a kormányok kényük-kedvük szerint korlátozzák a jogaikat, vagy fenyegetik őket azzal, hogy oltás nélkül el fogják veszteni az állásukat.
+   </p>
+   <p>
+    Pedig ezek egészséges emberek. Adófizető állampolgárok. Munkások.
+   </p>
+   <p>
+    Amíg a laptop-osztály berendezkedett a lezárások alatt
+    <hi>
+     home office-
+    </hi>
+    ra, addig ezek az emberek vitték a hátukon az életet.
+   </p>
+   <p>
+    Most pedig éles lőszerrel tüzelnek rájuk.
+   </p>
+   <p>
+    A csend pedig ordít.
+   </p>
+   <p>
+    Nem csak akkor, amikor ehhez nem szól semmit az antifasiszta közvélemény – nehogy a veszedelmes
+    <hi>
+     bilgéces
+    </hi>
+    szélsőjobbosokra asszociáljanak róluk –, hanem akkor is, amikor mellettem állsz, és nem szólsz semmit.
+   </p>
+   <p>
+    Amikor a kormány kihirdeti, hogy én – egészséges ember – veszélyeztetem a társadalmat, akkor nem szólsz semmit.
+   </p>
+   <p>
+    A szemembe nézel, és nem szólsz semmit.
+   </p>
+   <p>
+    A Facebookon látom, hogy mit írsz ki néha, és az összes bennem lévő szeretetet össze kell gyűjtenem, hogy ne küldjelek el a picsába.
+   </p>
+   <p rend="head">
+    Te is csak azt akarod, hogy hagyjanak ezzel békén. Én is. Mindannyian.
+   </p>
+   <p>
+    De akkor szólj valamit arról, hogy ezt a békét hogyan kívánod elérni. Mert én már nem látom.
+   </p>
+   <p>
+    Ha elveszik az állásom?
+   </p>
+   <p>
+    Ha nem mehetek sehova?
+   </p>
+   <p>
+    Ha mellbe lőnek?
+   </p>
+   <p>
+    Akkor lesz majd béke?
+   </p>
+   <p>
+    S mondd, ezt a békét ki fogja majd betartatni?
+   </p>
+   <p>
+    S ha lesz betartott béke, milyen béke lesz az?
+   </p>
+   <p>
+    Mert nekem csak az „F” betűs szó jut róla eszembe. És ha te azt szeretnéd, akkor én is azt szeretném, hogy engem inkább lőjetek le.
+   </p>
+   <p>
+    Mert úgy élni nem érdemes.
+   </p>
+  </body>
+ </text>
+</TEI>

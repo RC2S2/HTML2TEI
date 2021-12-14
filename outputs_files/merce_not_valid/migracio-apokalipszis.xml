@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Migráció-apokalipszis 2050
+    </title>
+    <author>
+     <persName>
+      Mérce vendégszerző
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     144e2d70-fae4-5295-ab4f-ecb2ca1b0ea8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Migráció-apokalipszis 2050
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mérce vendégszerző
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-12-03T12:09:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/12/03/migracio-apokalipszis/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/12/03/migracio-apokalipszis/
+     </sch:url>
+     <sch:name>
+      Migráció-apokalipszis 2050
+     </sch:name>
+     <sch:datePublished>
+      2016-12-03T12:09:00
+     </sch:datePublished>
+     <sch:author>
+      Mérce vendégszerző
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      menekült
+     </sch:keywords>
+     <sch:keywords>
+      migráció
+     </sch:keywords>
+     <sch:keywords>
+      menekültválság
+     </sch:keywords>
+     <sch:keywords>
+      népvándorlás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="144e2d70-fae4-5295-ab4f-ecb2ca1b0ea8">
+     <sch:identifier>
+      urn:uuid:c2c76579-454e-4a0b-a5cf-2f385a760a3f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:54.390064
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:27:24.301669
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="144e2d70-fae4-5295-ab4f-ecb2ca1b0ea8" when="2021-12-14T15:30:54.390064">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Migráció-apokalipszis 2050
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Beszélgessünk, jó? Most mondjuk elmesélem, hogy mik motoszkáltak a fejemben az elmúlt 5-6 évben. Migrációról lesz szó, a klímaváltozás összefüggésében. Ha nagyon ragaszkodsz hozzá, találhatsz benne aktuálpolitikai relevanciát is, de nem ez itt most a lényeg. Kezdem pár – számomra legalábbis – evidens alapozó kijelentéssel. Ugorjunk bele.
+   </p>
+   <p>
+    Fotó: UNICEF Ethiopia
+   </p>
+   <p rend="head">
+    Nem a bolygót kell megmenteni az emberektől, hanem az embereket a bolygótól – meg egymástól
+   </p>
+   <p>
+    Hiszek a klímaváltozásban. Az emberiség által előidézett, globális, szárazföldi és tengeri középhőmérséklet-emelkedésben, amelynek máris tanúi vagyunk, és amely folyamat az eddigi széndioxid valamint az egyéb, üvegház-hatást kifejtő gázok már bekövetkezett kibocsátása miatt még akkor is további felmelegedést okozna, ha most azonnal lekapcsolnánk mindent. A felmelegedés most az ipari forradalom előtthöz képest átlagosan +1˚C-nál tart, és már bele van sütve a rendszerbe a +1,5˚C. Ez nem az évezredes, vagy százezer éves csillagászati ciklusok természetes következménye, hanem mi csináljuk (hogy pontosan hogyan csináljuk, abba most ne menjünk bele, ez egy másik cikk témája lenne). Szóval, ebben hiszek, de azért leginkább a tudományban hiszek, amely egyöntetűen ezt állítja.
+   </p>
+   <p>
+    Ez az 1-2˚C talán nem is hangzik olyan soknak, de hadd utaljak a régi sztorira a békáról, amely bent csücsül az egyre melegedő vízben, és csak akkor kapcsol, amikor már késő. Egyébként pedig természetesen összetettebb a helyzet, mint amit az 1-2˚C fokkal le lehetne írni. Sajnálatos, hogy tudományos, politikai és sajtós körökben ezt a leegyszerűsítést szokás alkalmazni, mert a számok mögötti jelenségek sokkal kézzelfoghatóbban el tudnák mesélni, hogy miért nagy a baj. Ráadásul nem is annyira bonyolult felfogni ezeket a jelenségeket. Ki is választottam gyorsan négy dolgot, ami közelebb hozhatja az 1-2 fok jelentőségét, de persze választhattam volna mást is, ilyenből bármennyi van.
+   </p>
+   <list>
+    <item>
+     <hi rend="bold">
+      Az 1-2 fok földrajzi helytől függően lehet sokkal több is, ez csak egy átlag. A trópusi és szubtrópusi területek egy jelentős részét például fokozottan sújtja majd a meleg, és ahol eddig csak rohadt nagy forróság volt, ott záros határidőn belül elviselhetetlen éghajlat támad. De az Északi Sarkvidéket is sokkal erősebben érinti a felmelegedés, ami a jégsapka radikális eltűnésével fog járni, feltehetőleg sokkal hamarabb mint azt még nem is olyan régen gondoltuk. Az ugye megvan, hogy a fehér jobban visszaveri a napfényt mint a sötétebb színek? Na, ezt hívják pozitív visszacsatolásnak. Minél kisebb a jégtakaró, annál nagyobb a felmelegedés, és annál kisebb a jégtakaró, satöbbi.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Amit kevesebben tudnak: az átlagos középhőmérséklet megemelkedése a hőmérséklet struktúrájában is meg fog mutatkozni. Vegyünk egy jó forró nyári napot az aszfaltdús Budapesten. Már alig várjuk, hogy leszálljon az este, és egy fröccs társaságában felüdülést nyerjünk a feltámadó hűs esti szellőben. Ez úgy fog megváltozni, hogy mondjuk napközben nem 35 fok lesz, hanem 37, és ami a lényeg, este nem fog lemenni 25-re, hanem marad a 30, és elmarad a fellélegzés. Ez emberhalálhoz fog vezetni, méghozzá nem is kevéshez, mert akinek például szívelégtelensége van, az ezt nehezen bírja. Idős, illetve keringési megbetegedésben szenvedő társaink isszák meg a levét. Vagy majd jól bekapcsoljuk a légkondit, ami persze egy újabb pozitív visszacsatolás (még több energiafogyasztás, még több kibocsátás, még nagyobb meleg, még több légkondi), kivéve persze ha megújuló energiával üzemeltetjük.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Van ezen kívül az is, hogy miért lett divatjamúlt mostanában tudományos körökben globális felmelegedésnek nevezni beszélgetésünk mai tárgyát. Hát azért, mert nem csak a hőmérsékletről van szó, hanem a klíma eltorzulásáról is, amit angolosan climate weirding-nek szokás szólítani újabban. Például: nem az egy évre eső csapadék mennyisége változik meg, hanem az esőzések mintázata. A korábbi, egyenletesebb csapadékeloszlást egyre inkább hosszú, nagy szárazságok, és rövid, extrém esőzések és áradások váltják majd fel. A következmény könnyen kiszámolható: a termés gyakoribb elpusztulása, a talajerózió, valamint az áradásoknak kitett ingatlanokban keletkező egyre gyakoribb és szélsőségesebb károk.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      És végül van itt még egy jelenség, amire talán nem is gondoltál. Tanulmányaidból biztosan emlékszel arra, amikor a jégkorszakok végén a gleccser visszahúzódik, a helyére pedig fokozatosan beköltözik az élővilág. Triviális, hogy az állatok képesek helyet változtatni, de ugyanez érvényes a növényekre is, csak idő kell nekik. Egy mérsékelt égövi erdő például évenként 1,5km-t tud ’költözni’. Ha melegszik az idő, akkor Észak felé, ha meg lehűlés jön, akkor Délnek indul (a mi féltekénken). Igen ám, de a klímaváltozás jelenlegi tempója évi 4km-t követel meg, ezzel pedig nem tud az erdő lépést tartani. Béka a fortyogó kondérban. Úgyhogy, amennyiben tényleg azt tervezed, hogy nyugdíjas korodban majd a földet akarod túrni valahol a Balatonfelvidéken, akkor okosan teszed, ha máris úgy gondolkodsz mintha Dél-Olaszországban élnél, és csemegeszőlőt, fügét, olajfát telepítesz a málna, a cseresznye meg az alma helyére. És persze jó sok esővízgyűjtő tartályt meg öntözőrendszert.
+     </hi>
+    </item>
+   </list>
+   <p>
+    Még sorolhatnám, de látod, hogy az 1-2 fok is sokat számíthat, úgyhogy inkább ugorjunk, nem?
+   </p>
+   <p>
+    Annyit még muszáj megemlítenem, hogy a klímaváltozás mint tudomány- és iparág, két nagy csoportba sorolható. A korábbi évtizedekben elsősorban a
+    <hi>
+     mitigációval
+    </hi>
+    , azaz a meg nem előzhető klímaváltozás mértékének lehetőség szerinti csökkentésével foglalkoztak. Az elmúlt évtizedben azonban, rádöbbenve hogy máris benne ülünk a slamasztikában, rákanyarodtak az
+    <hi>
+     adaptációra
+    </hi>
+    is, azaz a már bekövetkezett klímaváltozáshoz történő hozzászokásra.
+   </p>
+   <p rend="head">
+    Példa. Telepítsünk egy hadsereg napelemet és állítsunk le minél több széntüzelésű hőerőművet = mitigáció (csökkentem magát a klímaváltozást). Építsünk gátakat New York City elé a tengerszintemelkedés ellensúlyozására = adaptáció (nem csökkentem a klímaváltozást, csak a káros hatásait).
+   </p>
+   <p>
+    Én is átestem ezeken a korszakokon. Kezdetben az érdekelt, hogyan lehetne az embereket rávezetni, hogy személyes felelősségük a klímaváltozás, valamint annak megakadályozása, de legalább csökkentése. Ezt persze továbbra is fontos témának tartom, de időközben az is elkezdett izgatni, hogy milyen lesz ez a világ amikor már bekövetkezett az – úgy tűnik – elkerülhetetlen változás, és hogyan lehetne a jövőbeli helyzetet (élet a forró levesben) üzemképessé tenni a gyerekeim számára. Ekkor kezdtem az adaptációval foglalkozni, és főleg ennek társadalmi vonatkozásaival.
+   </p>
+   <p rend="head">
+    Jó, de mi az a klímamigráció? És kik a klímamigránsok?
+   </p>
+   <p>
+    Ha túlélted a fenti laza bemelegítő kört, akkor kanyarodjunk rá voltaképpeni témánkra, a klímaváltozás-okozta migrációra. Gondolom sejted, hogy itt is csupa szívatás vár ránk, különben nem püfölném itt a billentyűket.
+   </p>
+   <p>
+    Hát akkor először is, nincs is olyan, hogy klímaváltozás-okozta migráció (de azért később mégiscsak azt állítom majd, hogy van). Inkább közvetett okságról lehet beszélni, főként a lassan kialakuló klímaváltozási jelenségek esetében.
+   </p>
+   <p rend="head">
+    Például: nem maga a szárazság okozza a népvándorlást. A szárazság éhezéshez vezet, és ez vezet az elvándorláshoz. Az elvándorlás konfliktushoz vezet a migráció célpontjában, ami pedig további elvándorláshoz vezet, stb.
+   </p>
+   <p>
+    Mindenesetre legtöbbször nehéz lesz kimondani, hogy ’személyesen’ a klímaváltozás okozta volna a migrációt. (Ugyanez nem érvényes a katasztrófa-szerű környezeti eseményekre, itt azonban gyakori az átmeneti migráció. Ha levonult a vihar, az emberek többsége igyekszik hazatérni.)
+   </p>
+   <p>
+    Mondok egy példát. Gondoltál-e már arra, hogy a szíriai konfliktus a klímaváltozás közvetett hatásának köszönhető? Nem? De miért nem? Csak azért mert elterelte a figyelmedet egy baltaarcú diktátor, aki sanyargatja a népét, meg egy, ezzel térben és időben egybeeső szélsőséges iszlámista társaság, akik mindenképpen kardozni akarnak? Na akkor figyelj. Volt a háborút megelőző négy évben Szíriában egy rettenetes aszály. Statisztikailag kimutatható, hogy a szárazság egyedülálló volt az elmúlt 150 évben, és azt is bizonyították, hogy ez a mozi nagyon nagy valószínűséggel nem jött volna létre, ha nincs a klímaváltozás. Az aszály következtében kb. másfélmillió vidéken élő embernek tönkrement a megélhetése, és ezek az emberek beszorultak a már eleve túlzsúfolt városokba. A kukta fedele alatt hirtelen megnövekedett a nyomás. Ehhez még hozzájárult a vidéki lakosság aránylag ellenségesebb viszonya az Asszád-rezsimmel szemben. A lázadó érzésű és gazdasági tönkre jutott vidékiek jól összetalálkoztak a városokban élő ellenzékiekkel. Ebből a találkozásból születtek azok az első békés megmozdulások, amelyek később, az elnyomó állam jóvoltából, erőszakhoz vezettek.
+   </p>
+   <p>
+    Azt állíthatjuk tehát, hogy a klímaváltozás, szakszóval élve,
+    <hi>
+     kockázati szorzóként
+    </hi>
+    játszott szerepet a konfliktus berobbantásában. Ha nincs aszály, akkor lehet hogy nem, vagy csak később, vagy másképpen következik be a válság. De kimondhatjuk-e, hogy a szíriai háborút a klímaváltozás idézte elő? Természetesen nem.
+   </p>
+   <p>
+    Oké, tehát nem tudjuk biztosan megmondani, hogy egy tetszőleges migrációs hullámot valóban a klímaváltozás vált-e ki. De menjünk tovább. Azt sem tudjuk megállapítani, hogy kik a klíma-menekültek, és kik egyszerűen csak gazdasági migránsok. (Ezt ugye már ma sem tudjuk, nem is kell hozzá a klímaváltozás.) Gondolj bele. Ha tudom, hogy (szó szerint) ég a talpam alatt a talaj, és néhány esztendőn belül ellehetetlenül az élet a szülőföldemen, akkor értelmes ember lévén összeszedem a kis családomat, felcihelődünk és elpályázunk még mielőtt éhen halnánk, nem? Na, pont ezzel a pragmatikus hozzáállással minősülhet az ember hamar gazdasági migránsnak, akinek köztudottan nem jár más, csak a szögesdrótos kerítés (nesze neked aktuálpolitika). Ahhoz, hogy a menekülteknek (legalább elvben) kijáró jogokban részesülhessek, meg kell várnom, amíg már tényleg éhezés, polgárháború, vagy környezeti katasztrófa történik.
+   </p>
+   <p>
+    Illetve ezt hihetnénk. De a jelenlegi helyzet szerint még ez sem igaz. Ugyanis a menekült jogálláshoz az szükséges, hogy az ember a hazájában üldöztetésnek legyen kitéve, etnikai, vallási, politikai, nemi, szexuális, vagy egyéb hovatartozása, identitása, nézetei miatt.
+   </p>
+   <p rend="head">
+    A klímaváltozás pedig nem valósítja meg ezt az üldöztetést: nem üldöz engem senki, csak mégis el kell meneküljek.
+   </p>
+   <p>
+    Jelen pillanatban nem létezik nemzetközi jogi kategória, ami a klímamigrációval számolna. Az EU, csakúgy mint az ENSZ, egyelőre csak abban tud megegyezni, hogy nincs ebben megegyezés. Vannak akik szerint ki kellene terjeszteni a ’menekült’ fogalmát a klímamigránsokra. Mások szerint egy teljesen új kategória létrehozatala szükséges, és el kellene kerülni a ’menekült’ szót és annak konnotációit. A legjellemzőbb mégis az, hogy a kérdés a nemzetközi szervezetek figyelmének perifériájára szorul.
+   </p>
+   <p>
+    Nincs politikai akarat, mert nincs még sürgetettség, és győz a rövid táv. Közhely, de nem árt emlékezni rá, hogy a választási ciklusok hossza tragikusan kedvezőtlenül viszonyul a klímaváltozás évtizedes, évszázados távlataihoz.
+   </p>
+   <p>
+    Gondolj bele. Még 2015-ben, a párizsi egyezmény megalkotásának évében is azon kellett vitatkozni, hogy tényleg van-e klímaváltozás, és ha igen, akkor milyen hatásai lehetnek a klímára és ezen keresztül a Föld élhetőségére, és hogy ezen lehetséges hatások ismeretében mit is kellene tenni a probléma megfékezésére (vö. mitigáció). Ha ehhez hozzávesszük a jelenleg is zajló migrációs hullám pillanatnyi sürgősségét, meg a vele szemben mutatkozó bénult tehetetlenséget, akkor nehéz is lenne elvárni, hogy komolyan foglalkozzon bárki a 2050 környékére várt népvándorlással (vö. adaptáció).
+   </p>
+   <p rend="head">
+    Klíma-apokalipszis = migráció-apokalipszis
+   </p>
+   <p>
+    Pedig jó lenne egy picit foglalkozni vele, mert nem akármilyen vándorlással állunk szemben.
+   </p>
+   <p>
+    Sokismeretlenes az egyenlet. Nem ismerjük a klímaváltozás jövőbeli mértékét, és hatásait. Nem ismerjük a jövőbeli mitigációs kisérletek nagyságrendjét, és sikerét. Végül pedig, nem ismerjük az emberi faj adaptációs kedvét és képességét.
+   </p>
+   <p rend="head">
+    Ezzel együtt, légy nyugodt (vagy inkább nyugtalan), hogy a következő 30-40 évben a szakértők szerint meg fog mozdulni körülbelül 200 millió és 1 milliárd ember közötti néptömeg.
+   </p>
+   <p>
+    Persze jó lenne pontosabbat tudni, de ez a szám még akkor is durva, ha csak az alsó értéket vesszük figyelembe. Mert mi is történt Európában mostanság, amikor mindössze 1-2 millió embert kellett volna befogadni? Nem szükséges részleteznem.
+   </p>
+   <p>
+    Na, de nem kell teljesen kétségbe esni. Az a 200 millió ember nem mind a magyar határnál akar majd felsorakozni (bár azért érdekes belegondolni egy ilyen verzióba is, el tudod képzelni?). A becslések arra engednek következtetni, hogy a mozgás nagyobbik része belföldre fog irányulni, egy másik számottevő szelete szomszédos országokba, és csak egy ’kisebb’ néptömeg indul interkontinentális útra, főleg azok, akik ezt megengedhetik magunknak. Csak a játék kedvéért, legyen mondjuk 50-30-20 százalék ez az arány. Európa vonzó célpont, úgyhogy a 20 százalék jelentős része minket fog választani. De ez így még nem elég. Tudnunk kellene azt is, hogy hol fognak manifesztálódni a klímaváltozás legsúlyosabb hatásai, hogy ebből következtetéseket vonhassunk le a migráció forrásországaira, valamint célországaira vonatkozóan.
+   </p>
+   <p>
+    Minden jel arra mutat, hogy a legfenyegetőbb veszélyek a fejlődő világra leselkednek, ezen belül is Dél-Kelet-Ázsiára, Kelet-Afrikára és Dél-Amerikára.
+   </p>
+   <p rend="head">
+    A problémákat a teljesség igénye nélkül sommásan úgy jellemezhetjük, hogy rendszerint vízzel kapcsolatosak. Vagy túl kevés lesz belőle (aszály, illetve a mérsékelt övi gleccserekben tárolt víztartalék elapadása), vagy túl sok (viharos esőzések, villámáradások, tengerszintemelkedés, talajvíz elsósvizesedése).
+   </p>
+   <p>
+    Dél-Amerikáról rögtön el is feledkezhetünk, mert ők ezt a kérdést kontinensen belül (ide értve Észak-Amerikát is) fogják elintézni, így vagy úgy. Marad Ázsia és Afrika. Ázsián belül a szigetvilág menekültjeivel sem mi fogunk foglalkozni, ők a süllyedő hajóról főleg a szomszédos Ausztráliába, illetve az ázsiai kontinensre fognak költözni. Relevánsabb viszont például
+    <hi rend="bold">
+     a 160+ milliós Banglades
+    </hi>
+    , amelynek legfontosabb termőterülete a Brahmaputra / Gangesz / Meghna folyórendszer torkolatvidéke. Ez a terület, amely már jelenleg is éppen csak a tengerszint felett található, nem más mint egy, a folyó hordalékából az óceánban keletkezett lapály, nézd csak meg a térképen. Itt terem meg az ország élelmiszerének nagy része, és itt él a lakosság 40 százaléka. Becslések szerint reális, hogy
+    <hi rend="bold">
+     2050-ig 40 millióan kényszerülnek innen kiköltözni
+    </hi>
+    , ahogy a tenger betüremkedik a szárazföldre, visszavéve azt ami korábban is az övé volt. A 40 millió ember jelentős része északabbra költözik, mások feltehetőleg Indiába, megint mások Európába.
+   </p>
+   <p>
+    Honnan tudom hogy Európába is eljutnak majd? Borzasztó egyszerű. Egyrészt onnan, hogy már most is eljutnak. Másrészt meg onnan, hogy a bangladesi kormánynak kimondott emigrációs politikája van, amelyben az embereknek még segítenek is elhagyni az országot. Nincs ebben semmi furcsa, ha figyelembe vesszük, hogy az ország GDP-jének a 8 százalékát a külföldön élő bangladesi származású családtagok transzferkifizetései teszik ki (ami durván 13 millió ember munkájának felel meg). Rájöttek, hogy a migráció a jövedelmek diverzifikációjának egyik leghatékonyabb eszköze, más néven kockázatkezelési módszer. Banglades csak egy a sok forrásország közül, és mégis, a fenti arányokkal számolva akár 8 millió érkezőre is számíthatunk tőlük itt, Európában.
+   </p>
+   <p>
+    <hi rend="bold">
+     Kelet-Afrikában meg a víz hiánya fog hasonló nagyságrendű mozgást előidézni.
+    </hi>
+    Az afrikai migráció, mint azt tapasztalhatjuk, könnyen megtalálja a módját, hogy eljusson a Földközi-Tengerig, onnan pedig Dél-Európa partjaira. Azt hiszem abban is megállapodhatunk, hogy nem fogunk szögesdrótot húzni a teljes partvonalra. Szóval egész Európa eléggé átjárható a déli oldalról.
+   </p>
+   <p>
+    Nem szükséges tovább taglalni:
+    <hi rend="bold">
+     becsléseim szerint legalább 40 millió bevándorlóra lehet számítani Európában.
+    </hi>
+    Most majd azt mondod, hogy annyira sok feltételezésre épül ez az én negyvenmillióm, hogy nem is érdemes vele foglalkozni, mert úgysem lesz pont annyi. Erre én bólogatni fogok, mert neked ebben teljesen igazad van, és lehet, hogy nem negyven, hanem csak húsz, de az is lehet hogy hatvan, vagy akár kétszáz. Senki nem tudja. Még annak a valószínűségét sem, hogy inkább a felső vagy az alsó tartományra érdemes fogadni.
+   </p>
+   <p>
+    Felvethetnéd, hogy ebben az esetben minek erőlködjünk, hiszen nem is biztos hogy nagy gáz lesz. Az eleve szűkös erőforrásainkat a mában minek fecsérelnénk egy bizonytalan jövőre? Nem inkább a már most is szűkölködő néptömegek felemelkedését kellene finanszíroznunk? Jogos, jogos. Mondd csak, kötöttél már valaha életbiztosítást, utasbiztosítást, lakásbiztosítást? Miért tetted ezt? Mert csökkenteni akartad a saját anyagi kockázatodat egy esetleges jövőbeli kárral szemben. Helyesen tetted. Ezt nevezik az elővigyázatosság elvének, ami azt mondja ki, hogy jobb ha be vagyunk biztosítva és nem következik be a káresemény, mint ha nincs biztosításunk és bekövetkezik. Ugyanez érvényes a mi esetünkben is, sőt. Míg egy baleset valószínűsége viszonylag alacsony, bizonyos mértékű klímamigráció szinte tutira vehető.
+   </p>
+   <p>
+    De velem lehet alkudni. Tegyük fel, hogy csak húszmillióan jönnek Európába, és ebből mondjuk Magyarországra csak az EU-arányos hányad esik, vagyis 2 százalék, azaz négyszázezer menekült.
+    <hi rend="bold">
+     Már ez is több mint harmincszorosa annak a számnak amit pillanatnyilag nem vagyunk hajlandóak befogadni.
+    </hi>
+    De ez még csak az alja a becsléseknek, amit könnyen lehet, hogy meg kell szorozni tízzel. Huh. Ha ettől a gondolattól egy pillanatra megroggyant a térded, akkor már te is érzed amit én: hogy jó lenne egy picit foglalkozni ezzel a kérdéssel, és nem csak majd akkor, amikor a szögesdróton kopogtatnak.
+   </p>
+   <p rend="head">
+    Négymillió kopogtatót ugyanis nehéz karhatalommal, szögesdróttal meg hivatalos ’migrációpolitikával’ a határainkon kívül tartani. Nem fog sikerülni. Európára vetítve, ha egy húsz- uszkve kétszázmilliós tömeg megindul felénk, attól bedől minden kerítés. Nem akkor kéne a fejünket kapkodni.
+   </p>
+   <p>
+    Most meg talán azt gondolod, hogy egy idegengyűlölő fa… siszta vagyok, amiért menekülthullámról meg kerítésrombolásról huhogok. Pedig nem ez a helyzet, hanem pont azt próbálom ecsetelni, hogy már most itt az ideje elkezdeni foglalkozni vele, hogy 30-40 év múlva milyen módon tudjuk majd
+    <hi>
+     befogadni
+    </hi>
+    ezeket az embereket, nem pedig (jobb esetben)
+    <hi>
+     távol tartani
+    </hi>
+    , vagy (rosszabb esetben)
+    <hi>
+     halomra lőni
+    </hi>
+    .
+   </p>
+   <p rend="head">
+    Háborús helyzet
+   </p>
+   <p>
+    Mint az kiderülhetett, a szíriai menekültválságot megfelelő analógiának tekintem a jövőbeli klímamigráció modellezéséhez. Végeztem is egy pici kutatást Hamburgban, ahol jelenleg is 26 ezer szíriai menekült tartózkodik, de ennél számottevően többen utaztak át rajta az elmúlt másfél évben, útban Skandinávia felé. A menekültekkel foglalkozó önkéntesek körében interjúzgattam, és tanulságos volt. A történet, leegyszerűsítve, hmmmm… mondjuk három dologról szól.
+   </p>
+   <p>
+    <hi rend="bold">
+     Az első a
+     <hi>
+      felkészületlenség-töketlenség
+     </hi>
+     tengely.
+    </hi>
+    A német szövetségi kormányt, meg a helyi önkormányzatokat egyszerűen lefagyasztotta a hirtelen érkező embermennyiség. Érdekes, hogy mennyire nem számítottak rá, pedig valamennyire lehetett volna, hiszen néhány hónap egérutat azért kaptak. De nem tudtak élni vele, és az emberek egyszer csak azt vették észre, hogy a menekültek megjelentek, és nem volt, aki az elemi szükségleteiket ellátta volna. Ismerős valahonnan?
+   </p>
+   <p>
+    Önkéntes szerveződések tömege jött létre egyik napról a másikra, és a vasútállomásokon felállított elosztókban ételt, italt, ruhát, takarót adományoztak a hullafáradt és hálás érkezőknek. Idővel megnyíltak a tornacsarnokok, vásárcsarnokok is, és egy-egy ilyen helyszínen gyakran 800 személyt szállásoltak el. Ez így nézett ki:
+   </p>
+   <p>
+    Most egy pillanatra képzeld el ugyanezt a képet, csak tízszer ennyi menekülttel. Jól látszik, hogy ez még rövid távon is tarthatatlan, ennek ellenére a tömegszállások gyakran 9, de néha 12 hónapon keresztül sem szűntek meg. Na, ezt értem töketlenség alatt. Az 1.8 millió lakosú, 100 milliárd eurós GDP-jű Hamburg városvezetése képtelen volt egy év alatt leszervezni, hogy a lakosság alig egy százalékának megfelelő számú menekültet elhelyezzen valami emberhez méltó helyen (mostanra mindenki legalább
+    <hi>
+     konténerben
+    </hi>
+    lakik, szuper, nem?).
+   </p>
+   <p>
+    A felkészületlenség és a töketlenség szinte kizárólag politikai akarat kérdése, mert nem igényel semmit, csak jószándékot meg odafigyelést. Na jó, mondjuk mandátumot is igényel a néptől, és ez tényleg nehéz, mert gyakran előfordul, hogy a menekülteket elsősorban absztrakt módon, vagy esetleg pénzügyileg szeretnénk támogatni, de nem szeretnénk velük a sarki közértben összefutni, vagy mondjuk a saját vendégszobánkban lakatni őket éveken keresztül. Pedig hejj, még emberemlékezeten belül van az az idő, amikor az én nagypapámat egy osztrák család bújtatta másfél évig a padláson. Miért ne tehetnénk meg mi is ugyanezt egy másik rászoruló embertársunkkal? A szolidaritás, ez most egy szitokszó, de akkor viszont vigyázni kell, nehogy egyszer mi is rászoruljunk valakire.
+   </p>
+   <p rend="head">
+    Az összes eddigi migráció és a jövőbeli klímamigráció közötti legfontosabb különbség a tervezhetőség. Egy szíriai polgárháborúval nem lehet számolni, a bangladesi tengerszint-emelkedéssel viszont annál inkább, évtizedekkel előre.
+   </p>
+   <p>
+    Node menjünk tovább.
+    <hi rend="bold">
+     A második tényezőt
+     <hi>
+      struktúrának
+     </hi>
+     nevezem.
+    </hi>
+    Nagy számban érkező bevándorló sikeres befogadásának vannak bizonyos strukturális előfeltételei. Ezeket nem kell bővebben elmagyarázzam, mert minden épelméjű kisiskolás könnyedén átlátja. Kezdetben kell étel, ital, szállás, orvosi ellátás, tolmács. Hosszabb távon kell jogállás (menekült vagy egyéb státusz), lakhatás, nyelvoktatás, munkavállalói engedély, munkahelylehetőség, iskoláztatás, társadalombiztosítás, szociális ellátás. Erre most azt mondod, hogy persze, csak előbb
+    <hi>
+     nekem
+    </hi>
+    legyen meg mindez, meg az összes hazai állampolgárnak, és majd utána elszórakozhatunk a gyüttmentekkel, hobbiból, ha már elfogyott a szociális érzékenységünket sértő, segítségre szoruló cigánygyerek.
+   </p>
+   <p>
+    Sajnos ez nem így fog menni. Tulajdonképpen két választásunk van.
+   </p>
+   <p rend="head">
+    Vagy idejönnek, és felkészületlenek vagyunk rájuk, de ebbe bele fog roppanni az összes létező ellátórendszer meg a társadalom kohéziója úgy általában, vagy pedig felkészültek vagyunk az érkezésükre, és bár akkor is recsegni-ropogni fog a rendszer, de talán megoldható, hogy a beérkezők idővel a társadalom önellátó, sőt adófizető tagjaivá váljanak.
+   </p>
+   <p>
+    Ne felejtsük el, hogy ezt a jövőbeli helyzetet nem a jelenlegi békeidőhöz kell hasonlítani. Ez egy háborús helyzet lesz, úgyhogy hasonlítsuk fejben inkább 1943-hoz. Harmadik opció (mármint hogy mégis inkább elmarad a migráció) az meg nem lesz.
+   </p>
+   <p>
+    A strukturális dolgok bizony drágák és időigényesek. Van benne sok építkezés, humán erőforrás képzés és átképzés, az ellátó rendszer és az iskolarendszer kibővítése, mindezt ráadásul megelőző jelleggel, nem pedig, ahogyan a történelemből megszokhattuk, reagálva a már kialakult igényekre. Őszintén szólva rohadtul nem látom át, hogy mivel lehetne bárkit is rávenni erre a fajta megelőző magatartásra. Szerinted?
+   </p>
+   <p>
+    Csak egyben merek bízni: a társadalomban és a gazdaságban bujkáló hatalmas rejtett tartalékokban. A szíriai migrációs válság során kiderült, hogy például a német népnek mennyi felajánlható pénze, takarója, munkaórája, és elsősorban mennyi szabad érzelmi vegyértéke van. A menekülteket az hatotta meg a legjobban, amikor rájöttek, hogy az őket segítő emberek nem bérencek, hanem önként vannak ott, és hogy a palackozott vizek meg a szendvicsek nem állami direktívára, hanem spontán és zsebből fizetve kerültek a pályaudvarra. Ilyen társadalmi összefogásra az önkéntesek saját bevallása szerint még életükben nem volt precedens.
+   </p>
+   <p>
+    Itt kell rákanyarodnunk
+    <hi rend="bold">
+     a harmadik, nem kevésbé fontos tényezőre, ez pedig a
+     <hi>
+      kulturális
+     </hi>
+     integráció.
+    </hi>
+    Mert mindaz, amiről eddig szó volt, bár szükséges, de nem elégséges feltétele ennek az elképzelhetetlen léptékű projektnek a sikeres levezényléséhez (vagy akár csak a mindent elsöprő kudarc elkerüléséhez).
+   </p>
+   <p>
+    Vajon ha lenne ezerkétszáz erdélyi székely menekült, volna-e helyük az országban? Persze hogy? De ha van ugyanennyi szíriai menekült? Az összes többi érv csak mellébeszélés, kivéve azt az egyet, hogy
+    <hi>
+     mások
+    </hi>
+    mint mi vagyunk. És ez a másság olyan, hogyismonnyam. Kényelmetlen, furi. Nekik is eszükbe jut valami arról, hogy Isten, Haza, Család, csak egy másik isten, egy másik haza, meg egy másik családmodell.
+   </p>
+   <p rend="head">
+    Ez a másság egy irritáns, amit inkább elkerülnénk. Mármint, ha lehet választani.
+   </p>
+   <p>
+    Úgyhogy most menjünk el időben oda, ahol már
+    <hi>
+     nem
+    </hi>
+    lehet választani.
+   </p>
+   <p>
+    A Hamburgban folytatott kérdezősködés szerencsére több egyszerű ötlettel is szolgált a kultúrák találkozására való elővigyázatos felkészülésben. A legfontosabbakra szorítkozva, a következő javaslatokat kaptuk az emberektől, akik ezt a témát testközelből ismerik:
+   </p>
+   <list>
+    <item>
+     <hi rend="bold">
+      Időben kommunikáljunk a „bennszülött” lakossággal, hogy tudják, mire számíthatnak.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Tanfolyamszerűen készítsük fel az érkezőket a fogadó országok kultúrájából, jogrendszeréből (hiszen megfelelő tervezéssel legalább nagyjából tudható lesz, hogy kik és hová fognak költözni).
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      A nyelvoktatást ugyanígy el lehet kezdeni, már a költözés előtt. A kellő számú nyelvoktató képzése természetesen ezt is meg kell hogy előzze. Finoman jelzem, hogy a bennszülötteknek is szabad ám a bevándorlók nyelvét tanulni. Ez a találkozáskor csökkentené az egyébként borzasztó erős aszimmetriát, arról nem is beszélve, hogy rendkívül praktikus, és a bevándorlóknak is jól esne.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Hozzunk létre integrációs tereket, ahol a népek találkozhatnak, méghozzá kulturális univerzálék mentén, legyen az például a főzés, a zene, a tánc, a foci vagy akár csak egy közösen elfogyasztott kávé.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Még jobb, ha meg sem várjuk a menekültek érkezését, hanem aktív csereprogrammal megyünk elébe a folyamatnak. Migráns országok meghívhatják a fogadó országok tagjait, hogy ismerkedjenek meg a helyszínen a másik fél civilizációjával, és a célországok is megtehetik ugyanezt a forrásországok lakóival. Az utazó hírnökök aztán odahaza terjeszthetik a látottakat, egyfajta kondenzációs magot alkotva a kölcsönös elfogadáshoz.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      A várostervezésben érvényesítsük azt az elvet, hogy maximális keveredést kell biztosítani, de nem csak a bevándorlók és a helyi lakosság, hanem a helyi szocio-ökonómiai spektrum szempontjából is. Mindemellett világos, hogy a frissen érkezők számára saját nyelvi és kulturális közösségük rendkívül fontos a kezdeti megtapadásban, és ezért a keveredést és a közösségek összefüggőségét egyszerre kell megvalósítani.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Kulcsfontosságú, hogy létrejöjjön egy egyéni támogatási rendszer, amelyben (természetesen önkéntes alapon) helyi lakosokat rendelünk egy, vagy több migráns családhoz. Ha minden érkező tudja, hogy kihez fordulhat egy kis támogatásért, és ha a fogadó fél számos tagjának van saját élménye a bevándorlókról, meg arról, hogy ő személy szerint mennyire fontos segítséget adhat, az mindenképpen előre mozdítja az integrációt, és csökkenti a konfliktusforrásokat.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Ha komolyan gondoljuk, hogy a kultúrák keveredése elkerülhetetlen, akkor a vallási vezetők és közösségek együttműködését, s így a különböző felekezetek egymás iránt tanúsított toleranciáját is meg kell növelni. Ha eltérő származású, bőrszínű, anyanyelvű püspökök és imámok vállalják karöltve, hogy igenis vannak közös pontok a hiteink között, az feltehetőleg segít számos szorongás enyhítésében.
+     </hi>
+    </item>
+    <item>
+     <hi rend="bold">
+      Végül pedig, a monokultúrás nemzetállamokban felnőtt társadalomnak el kell fogadnia, hogy a jövőben az emberek egy számottevő hányadának kettős kulturális állampolgársága lesz. Ez nem teszi őket se hazaárulóvá, se nemzetidegenné. Ezzel szemben gazdagítja kultúránkat, szélesíti látókörünket és lehetőségeinket (no meg a konyhánkat is). Ezek az emberek nem elvesznek tőlünk, hanem hozzátesznek ahhoz, ami a miénk.
+     </hi>
+    </item>
+   </list>
+   <p>
+    Magyarország történelmileg kitett helyet foglal el Európában (lásd tatárjárás, törökdúlás, balsors akit régen tép). Boldoggá tenne, ha a fenti beszélgetésből csak egy üzenetet magaddal vinnél, mégpedig azt, hogy van most egy egyedi esélyünk, hogy ne megint elszenvedői legyünk a népek vándorlásának. Ha élünk a nekünk adott évtizedes
+    <hi>
+     előrelátással
+    </hi>
+    , és követjük az
+    <hi>
+     elővigyázatosság
+    </hi>
+    elvét, akkor ezúttal esetleg megúszhatjuk.
+   </p>
+   <p>
+    <hi rend="bold">
+     Bors Hulesch
+    </hi>
+    <hi>
+     A szerző klímaváltozás-szociológus.
+    </hi>
+    <hi>
+     A cikk alapjául szolgáló munkát, teljes referenciával, megtalálhatod
+    </hi>
+    <hi>
+     itt
+    </hi>
+    <hi>
+     .
+    </hi>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához
+    <hi rend="bold">
+     600 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 340 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

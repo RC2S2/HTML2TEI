@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ha a pedagógusok 60 százalékos fizetésemelést kapnának, a bérük akkor érné el a törvényben rögzített szintet
+    </title>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bc346aa7-458b-5af4-bdb9-eba42f3ab7a6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Ha a pedagógusok 60 százalékos fizetésemelést kapnának, a bérük akkor érné el a törvényben rögzített szintet
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-06-15T16:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/06/15/ha-a-pedagogusok-60-szazalekos-fizetesemelest-kapnanak-a-beruk-akkor-erne-el-a-torvenyben-rogzitett-szintet/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/06/15/ha-a-pedagogusok-60-szazalekos-fizetesemelest-kapnanak-a-beruk-akkor-erne-el-a-torvenyben-rogzitett-szintet/
+     </sch:url>
+     <sch:name>
+      Ha a pedagógusok 60 százalékos fizetésemelést kapnának, a bérük akkor érné el a törvényben rögzített szintet
+     </sch:name>
+     <sch:datePublished>
+      2021-06-15T16:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      pedagógus
+     </sch:keywords>
+     <sch:keywords>
+      iskola
+     </sch:keywords>
+     <sch:keywords>
+      átlagbér
+     </sch:keywords>
+     <sch:keywords>
+      oktatáspolitika
+     </sch:keywords>
+     <sch:keywords>
+      pedagógia
+     </sch:keywords>
+     <sch:keywords>
+      pedagógus-hiány
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bc346aa7-458b-5af4-bdb9-eba42f3ab7a6">
+     <sch:identifier>
+      urn:uuid:69bb733a-3b2e-4753-8afc-4d94a70d6e1d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:27.911632
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:48:17.303707
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bc346aa7-458b-5af4-bdb9-eba42f3ab7a6" when="2021-12-14T15:30:27.911632">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Ha a pedagógusok 60 százalékos fizetésemelést kapnának, a bérük akkor érné el a törvényben rögzített szintet
+   </head>
+   <p>
+    A legfiatalabb tanárok, tanítók, óvodapedagógusok bruttó átlagbére alig haladja meg a 220 ezer forintot. A friss diplomások közül a pedagógus- és a művészetközvetítési szakon végzettek keresnek a legrosszabbul,
+    írja az
+    <hi>
+     Eduline
+    </hi>
+    .
+   </p>
+   <p>
+    A
+    diplomáspálya-követési rendszer legújabb statisztikái szerint
+    bruttó 226 077 forint a pedagógiai szakot végzett pályakezdők átlagos fizetése, de
+   </p>
+   <p rend="head">
+    még a legmagasabb fizetést elérők keresete sem haladja meg a 250 ezer forintot.
+   </p>
+   <p>
+    Pedig ezekben a kimutatásokban azok is szerepelnek, akik nem a pedagógusi pályán helyezkedtek el, s általában többet keresnek azoktól a társaiktól, akik iskolákban vagy óvodákban dolgoznak. A statisztikák őket „egyéb ügyintézők” néven említik, s havi bruttó 384 ezer forintot keresnek.
+   </p>
+   <p>
+    Ami a ténylegesen a szakmában dolgozó tanárok fizetését illeti: a felmérés szerint a speciális oktatók, nevelők számolhatnak a legmagasabb fizetéssel: bruttó 250 842 forinttal.
+   </p>
+   <p>
+    Az óvodában dolgozók és az általános iskolai tanítók átlagfizetése bruttó 227 ezer forint, a szakképzett oktatóké 214 ezer, az oktatási asszisztensek pedig alig bruttó 210 ezer forintot keresnek. Nem járnak sokkal jobban az egyetemi végzettségű tanárok sem, az ő kezdő bérük éves szinten alig haladja meg a bruttó 200 ezer forintot.
+   </p>
+   <p>
+    A pedagógusok bérét a korábbi ígéretekkel ellentétben a mai napig a 2014-es minimálbér alapján számítják, emlékeztet az
+    <hi>
+     Eduline
+    </hi>
+    .
+   </p>
+   <p>
+    Az akkor 101 500 forint volt, ma pedig már 167 400 forint.
+   </p>
+   <p rend="head">
+    Vagyis a pedagógusok bérét több mint 60 százalékkal kellene emelni ahhoz, hogy a köznevelési törvényben eredetileg rögzített szintet elérje.
+   </p>
+   <p>
+    A pedagógusok sanyarú helyzetére figyelmeztetett Filippov Gábor, az Egyensúly Intézet kutatási igazgatója is, aki hétfőn mutatta be egy konferencián az intézet által készített oktatáspolitikai javaslatcsomagot.
+   </p>
+   <p>
+    A
+    <hi>
+     444.hu
+    </hi>
+    híroldal szerint
+    Filippov több pontban határozta meg a magyarországi oktatáspolitika problémáit, amelyek közül a legégetőbb nehézség a pedagógushiány és a pedagógusok anyagi megbecsülésének hiánya.
+   </p>
+   <p>
+    (Eduline, Mérce, 444.hu)
+   </p>
+  </body>
+ </text>
+</TEI>

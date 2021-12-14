@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cseh miniszterelnök: „Lezárt ügy” a beneši dekrétumok kérdése
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5b74ef1b-7954-5b28-a290-fc650f6e7eb9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Cseh miniszterelnök: „Lezárt ügy” a beneši dekrétumok kérdése
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-05-24T21:20:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/05/24/cseh-miniszterelnok-lezart-ugy-a-benesi-dekretumok-kerdese/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/05/24/cseh-miniszterelnok-lezart-ugy-a-benesi-dekretumok-kerdese/
+     </sch:url>
+     <sch:name>
+      Cseh miniszterelnök: „Lezárt ügy” a beneši dekrétumok kérdése
+     </sch:name>
+     <sch:datePublished>
+      2018-05-24T21:20:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      magyarország
+     </sch:keywords>
+     <sch:keywords>
+      csehország
+     </sch:keywords>
+     <sch:keywords>
+      Visegrád
+     </sch:keywords>
+     <sch:keywords>
+      nemzetpolitika
+     </sch:keywords>
+     <sch:keywords>
+      benesi dektérumok
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5b74ef1b-7954-5b28-a290-fc650f6e7eb9">
+     <sch:identifier>
+      urn:uuid:67f5f71e-8e80-483d-832a-ee05b15f94db
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.945427
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:53:45.711145
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5b74ef1b-7954-5b28-a290-fc650f6e7eb9" when="2021-12-14T15:30:43.945427">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Cseh miniszterelnök: „Lezárt ügy” a beneši dekrétumok kérdése
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    „Lezárt ügynek nevezte” Andrej Babiš cseh miniszterelnök az Edvard Beneš  egykori cseh kormányfő által 1945-ben meghirdetett ún. Beneš-dekrétumok ügyét. Ezt a kormányfő több kérdésre és interpellációra válaszolva jelentette ki tegnap a prágai alsóházban.
+   </p>
+   <p rend="head">
+    Babiš képviselők kérdéseire válaszolva azt is hozzátette, szó nincsen róla, hogy a nemrég Augsburgban konferenciázó, egykor csehszlovákiai szudétanémetek „bajtársi szövetsége” bármikor is cseh területen tarthassa meg éves találkozóját.
+   </p>
+   <p>
+    Bernd Posselt, a szudétanémet „bajtársi szövetség” elnöke ugyanis pontosan ilyen ígéreteket tett hallgatóságának a kongresszuson. Rá reagálva Babiš most kijelentette,
+   </p>
+   <p>
+    „Nem venném ezt olyan komolyan. Egy ilyen tanácskozást nálunk nem lehet megszervezni valamelyik cseh város jóváhagyásával, s kételkedem, hogy akadna ilyen.”
+   </p>
+   <p>
+    A szudétavidéki kitelepítettek augsburgi találkozóján Stephan Mayer német szövetségi külügyi államtitkár támadta Prágát, és azt állította, a Beneš-dekrétumoknak „nincs helyük a mai Európában.”
+   </p>
+   <p>
+    A kijelentés és olyan információk alapján, hogy a következő találkozót Brnoban, Morvaországban szerveznék meg a németek, Jiří Valenta, a manapság kemény nacionalista cseh kommunista utódpárt plzeňi képviselője aziránt érdeklődött, ezek után lehetségesnek tartja-e a kormányfő, hogy a németek „ismét pénzbeli kártérítést követelnek majd” a dekrétumokért.
+   </p>
+   <p>
+    Babiš ezt válaszában határozottan kizárta:
+   </p>
+   <p>
+    „Semmi ilyesmi nem fog megtörténni, számunkra ez egyszer és mindenkorra lezárt ügy.”
+   </p>
+   <p>
+    Arra utalt ezzel, hogy nem akadna olyan cseh városi önkormányzat a nyugati, volt német-lakta területeken, amelyik felvállalná annak ódiumát, hogy a szudétanémetek hivatalos rendezvényét beengedje.
+   </p>
+   <p>
+    Az 1945-ben  az egykori Csehszlovákia területén élő magyar és német megszállók második világháborús bűneit kollektíven az ország német és magyar lakosságára hárították, és az ezt követő állami erőszak, atrocitások 15-30 ezer német és jó pár ezer magyar halálával végződtek a következő évben.
+   </p>
+   <p>
+    A politika egyik fontos kimenete a gyakorlatilag etnikai tisztogatással is felérő német-csehszlovák 1946-os és a magyar – csehszlovák 1947-48-as „lakosságcsere-program”, amelyek az észak-felvidéki magyar és a magyarországi szlovák szórvány gyakorlati eltűnésével, beolvadásával végződtek.
+   </p>
+   <p>
+    A program során összesen 23 ezer felvidéki magyar, tehát hozzávetőleg 100.000-en kényszerültek otthonuk hátrahagyására és Magyarországra menekülésre.
+   </p>
+   <p rend="head">
+    A Beneš-dekrétumokért eddig egyetlen csehszlovák, cseh vagy szlovák kormány sem vállalt egyértelmű történelmi felelősséget.
+   </p>
+   <p>
+    Egy 1998-as közös német-cseh nyilatkozat ugyan leszögezi a kitelepítéseket övező cseh állami atrocitásokat, de hangsúlyozza, hogy azok a náci német megszállás egyenes következményei. A nyilatkozat keretében a német kormány lemondott az üggyel kapcsolatos bárminemű anyagi kompenzáció igényéről.
+   </p>
+   <p>
+    Petr Nečas volt jobboldali miniszterelnök egy 2013-as beszédben már kifejezte sajnálkozását az 1945-46-os erőszak miatt, de ezt a politikai vonalat Csehországban csupán a jobboldal vitte, a 2015-ös menekültválságban megerősödő nacionalista-zemani szociáldemokrata irányzatot követi Babiš ANO pártja is, amely mindig is igen komolyan vette a kollektív második világháborús bűnösség elvét.
+   </p>
+   <p>
+    A magyar kormánynak Orbán Viktor 2002 tavaszi
+    nyilatkozata
+    óta deklarált célja a Beneš-dekrétumok eltörlése, amit mind a szlovák, mind a cseh tárgyalófelekkel folytatott rendszeres egyeztetések alkalmával felhoznak. Annak ellenére, hogy a – névleg ugyancsak baloldali Smer élén sokáig kormányzó – Robert Fico, volt szlovák miniszterelnök többször leszögezte, nem adják fel a dekrétumok elvi helyességét. Legutóbb tavaly nyáron Potápi Árpád akkori nemzetpolitikai államtitkár is
+    kifejezte
+    , kormánya nem hajlandó lemondani a szerintük kollektív bűnösség elvén alapuló dekrétumok eltörléséről.
+   </p>
+   <p>
+    (MTI // Címoldali kép: Wikipédia)
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Az életszínvonalra és az emberek mentális egészségére is remek hatással volt a finn alapjövedelem-kísérlet
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ffc573ea-5a89-5152-8c94-ba476ca2f881
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Az életszínvonalra és az emberek mentális egészségére is remek hatással volt a finn alapjövedelem-kísérlet
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-05-09T20:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/05/09/az-eletszinvonalra-es-az-emberek-mentalis-egeszsegere-is-remek-hatassal-volt-a-finn-alapjovedelem-kiserlet/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/05/09/az-eletszinvonalra-es-az-emberek-mentalis-egeszsegere-is-remek-hatassal-volt-a-finn-alapjovedelem-kiserlet/
+     </sch:url>
+     <sch:name>
+      Az életszínvonalra és az emberek mentális egészségére is remek hatással volt a finn alapjövedelem-kísérlet
+     </sch:name>
+     <sch:datePublished>
+      2020-05-09T20:00:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      vírusmentes
+     </sch:keywords>
+     <sch:keywords>
+      társadalom
+     </sch:keywords>
+     <sch:keywords>
+      alapjövedelem
+     </sch:keywords>
+     <sch:keywords>
+      jóléti állam
+     </sch:keywords>
+     <sch:keywords>
+      Finnország
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ffc573ea-5a89-5152-8c94-ba476ca2f881">
+     <sch:identifier>
+      urn:uuid:840a5cb5-d2f9-48b4-9f52-d112b0a9d758
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:27.721590
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:12:50.101997
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ffc573ea-5a89-5152-8c94-ba476ca2f881" when="2021-12-14T15:30:27.721590">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Az életszínvonalra és az emberek mentális egészségére is remek hatással volt a finn alapjövedelem-kísérlet
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Elsősorban az emberek mentális jólléte és anyagi biztonságérzete növekedett meg jelentősen Finnországban a 2017-18-as, kísérleti alapjövedelem folyósítása után. A finn Szociális- és Egészségügyi Minisztérium által még szerdán kiadott
+    sajtóközlemény
+    ismerteti annak a kiértékelésnek az eredményeit, amelynek adatait a bevezetés után, 2017 októbere és 2018 novembere között vették fel a lakosság körében.
+   </p>
+   <p rend="head">
+    A kísérleti fázisban 2000, előre kiválasztott finn állampolgárnak folyósítottak havonta 560 eurós (198.520 forint) összeget, a fókuszcsoporton belül. A juttatást jövedelmtől függetlenül, adó és járulékmentesen utalta át nekik hó elején a kormány 2017 január 1. és 2018 december 31. között. A program résztvevőit véletlenszerű kiválasztással sorsolták be a programba azok közül, akik a társadalombiztosítástól munkanélküli segélyt kaptak 2016 novemberének folyamán.
+   </p>
+   <p>
+    Az alapjövedelem rendszerét előbb lazább, majd 2018 elejétől szigorúbb szociális feltételekhez kötődik, így az alapjövedelem finn „aktivációs” modellben ez a segítség közel sem volt általános érvényű. A felmérés adatait a minisztérium szerint ez persze nagyban torzította, ezt sem lehet tehát egy esetleges általános alapjövedelem-modell részletes hatástanulmányának tartani.
+   </p>
+   <p>
+    Az mindenesetre máris kiderült, hogy a vizsgált időszakban az alapjövedelmet kapó emberek körében a foglalkoztatás a vizsgált időszakban átlag 6 nappal nőtt, és az azt kapók átlagosan 78 napot töltöttek el fizetett munkában, míg az alapjövedelem programban részt nem vevő, ugyancsak véletlenszerűen összesorsolt kontroll-csoportban ez a szám 73 nap volt.
+   </p>
+   <p>
+    Interjús-felméréses, kiértékelő vizsgálat a finn kísérleti alapjövedelem nyomán – elégedettségi és foglalkoztatási adatok / Ábra:
+    Kela, Finn kormány
+   </p>
+   <p>
+    Ez a növekedés nem volt egyenletes: például a feltétel nélküli alapjövedelem pár hónapos időszakában az alapjövedelmet kapó, kisgyermekes családok körében a szülők foglalkoztatottsága is megnőtt, míg más csoportokban egyáltalán nem.
+   </p>
+   <p>
+    Ha tehát a foglalkoztatottságra gyakorolt hatás csak kis mértékű, vagy semmilyen javulást nem hozott a finn modellkísérlet után, a pozitív hatások egyértelműen sokkal látványosabbak az azt megkapók általános közérzetére, és nem utolsó sorban a mentális egészségükre is.
+   </p>
+   <p rend="head">
+    A komplex vizsgálatok szerint az alapjövedelmet megkapók körében a saját életükkel való elégedettség radikálisan megnőtt, a depresszió, magányérzés pedig fokról fokra számolódott fel.
+   </p>
+   <p>
+    Minna Ylikännö, a finn társadalombiztosítás (Kela) szociológusa szerint pedig ezenkívül az alapjövedelem a legerősebb hatást a társadalmi kohézió, és a kiépülő, kölcsönös bizalom terén hozta: annak bevezetése után a különböző szomszédságok, mikroközösségek körében nagyobb mértékű bizalom, és magasabb szintű együttműködés jött létre. Ez, még limitált alapjövedelem esetében is közvetett és közvetlen jó hatásokat gyakorol nemcsak egy ország, egy állam stabilitására, de közvetve még a gazdasági teljesítőképességre, termelékenységre is.
+   </p>
+   <p>
+    Ylikännö kiemelte, természetesen, miközben az interjúkkal vizsgált fókuszcsoportok körében a bizalom, jövőbe vetett hit és az elégedettség mértéke lényegesen magasabb volt az alapjövedelemmel rendelkező személyek között (31%), mint a többi megkérdezett között (20%), egyértelmű korreláció maximum csak akkor állítható fel a jövedelem és a mentális egészség között, ha a kapott finn adatokat nemzetközi példákkal is összevetik. A 11 százalékos pozitív differencia azonban szembeötlően ugyanannyi, mint az eddigi, más országokban készült felméréseknél.
+   </p>
+   <p>
+    A kutatásban ugyancsak részt vevő Helena Blomberg-Kroll, a Helsinki Egyetem tanára kiemelte, a foglalkoztatottság és alapjövedelem pozitív összefüggése azonban továbbra is kérdéses, több adat kell a kapcsolat bizonyításához. Ami azonban szerinte elmondható, az az, hogy a munakerőpiacon eddig is aktív, ugyanakkor bérükből addig kijönni nem tudók az alapjövedelem után jóval aktívabbak lettek e téren.
+   </p>
+   <p rend="head">
+    A vizsgálat eredményeit összegezve Olli Kangas, a kormányzati Stratégiai Kutatások Központjának programvezetője kijelentette, a még az előző kormány által bevezetett kísérlet összességében sikeresnek mondható és értékes adatokat szolgáltatott az alapjövedelem lehetőségeiről, amelyekre más úton nem tehetett volna szert az északi állam.
+   </p>
+   <p>
+    Egy nemrégiben publikált,
+    összeurópai felmérés
+    ugyancsak azt mutatta ki, hogy az Európai Unió polgárainak többsége egyetértene egy feltétel nélküli alapjövedelm-program bevezetésével. Timothy Garton Ash liberális brit társadalomtudós, és Antonia Zimmermann a kutatást összegző jelentésükben kiemelték, az EU lakosainak 71%-a egyetértene egy ilyen tervvel. A kutatás, amely az oxofrdi St. Anthony’s College európai tanulmányok programjának keretében készült, azt is kimutatta, a megkérdezett európaiak 84%-a ért egyet az Európai Bizottság nemrég meghirdetett minimum-jövedelem-tervével is. Ez a mindenki számára egyforma alapjövedelem helyett a legszegényebbek jövedelmét egészítené ki úgy, hogy élelmezési és lakhatási problémáikat enyhítsék.
+   </p>
+  </body>
+ </text>
+</TEI>

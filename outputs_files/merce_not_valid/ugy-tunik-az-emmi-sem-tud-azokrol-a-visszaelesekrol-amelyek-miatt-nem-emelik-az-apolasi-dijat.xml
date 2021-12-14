@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Úgy tűnik, az EMMI sem tud azokról a visszaélésekről, amelyek miatt nem emelik az ápolási díjat
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     77b04c59-5409-5f8d-86b7-95095ea8249a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Úgy tűnik, az EMMI sem tud azokról a visszaélésekről, amelyek miatt nem emelik az ápolási díjat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-07-17T09:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/07/17/ugy-tunik-az-emmi-sem-tud-azokrol-a-visszaelesekrol-amelyek-miatt-nem-emelik-az-apolasi-dijat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/07/17/ugy-tunik-az-emmi-sem-tud-azokrol-a-visszaelesekrol-amelyek-miatt-nem-emelik-az-apolasi-dijat/
+     </sch:url>
+     <sch:name>
+      Úgy tűnik, az EMMI sem tud azokról a visszaélésekről, amelyek miatt nem emelik az ápolási díjat
+     </sch:name>
+     <sch:datePublished>
+      2019-07-17T09:00:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      ungár péter
+     </sch:keywords>
+     <sch:keywords>
+      otthonápolás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="77b04c59-5409-5f8d-86b7-95095ea8249a">
+     <sch:identifier>
+      urn:uuid:9263360b-dcc3-46e3-be3b-50112beb2efc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:03.838378
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:40:43.168505
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="77b04c59-5409-5f8d-86b7-95095ea8249a" when="2021-12-14T15:35:03.838378">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Úgy tűnik, az EMMI sem tud azokról a visszaélésekről, amelyek miatt nem emelik az ápolási díjat
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Mi is
+    írtunk
+    korábban arról, hogy egy június végi kormányinfón arról kérdezték Gulyás Gergely Miniszterelnökséget vezető minisztert, fogják-e emelni az otthonápolási díjat. Akkor Gulyás két okra hivatkozva adott nemleges választ: egyrészt arra hivatkozott, hogy nincs a költségvetésben erre tervezett pénz, valamint arra, hogy nem tudják kiszűrni a visszaéléseket.
+   </p>
+   <p>
+    Azzal kapcsolatban, hogy pontosan milyen visszaélésekre gondolt ekkor a miniszter, nemrég Ungár Péter adott be írásbeli
+    kérdést
+    intézett Kásler Miklós emberminiszterhez.
+   </p>
+   <p>
+    Ebben az alábbiakat próbálta megtudakolni a kormánytól:
+   </p>
+   <list>
+    <item>
+     Pontosan milyen típusú és hány darab visszaélést tapasztaltak az ápolási díjak igénylésekor?
+    </item>
+    <item>
+     Mekkora volt a visszaélések aránya az idősgondozók, a gyermeküket gondozók és a 
+házastársukat gondozók körében?
+    </item>
+    <item>
+     Felmérték-e pontosan, hogy mennyibe kerülne, ha az általam kért 100 000 forintra emelkedne az 
+ápolási díjak összege, és hogy lehet az, hogy ekkora összeget nem bír el a magyar költségvetés egy 
+ilyen fontos, a családok támogatására vonatkozó célra?
+    </item>
+   </list>
+   <p>
+    A
+    választ
+    Rétvári Bence államtitkár küldte meg Ungárnak, aki ezúttal sem felejtette el az LMP-s képviselő orra alá dörgölni, hogy az otthonápolási díj emeléséről szóló törvénymódosítást a „sípoló-dudáló” ellenzék 2018. december 12-én nem szavazta meg – mint ismert, ekkor próbálták az ellenzéki frakciók obstrukcióval sikertelenül megakadályozni a rabszolgatörvény megszavazását. A Rétvári által már nem először emlegetett törvény módosítás – amely végül jóval kisebb mértékben emelte az otthonápolási díjat, különbséget tett gyermeküket és más rokonukat ápolók közt – persze így is átment a parlamenten.
+   </p>
+   <p rend="head">
+    Arról azonban, hogy pontosan melyek is azok a visszaélések, amelyekre hivatkozva a kormány nem emel, egyáltalán nem derülnek ki a válaszból.
+   </p>
+   <p>
+    Amikor júniusban Ungár Péter
+    terjesztett be
+    törvényjavaslatot az otthonápolási díj emeléséről és kiterjesztéséről, az arról szóló parlamenti vitára egyetlen egy (!) fideszes képviselő ment csak el, másnap pedig a törvénymódosító javaslatot le is szavazták.
+   </p>
+   <p>
+    (
+    via 24.hu)
+   </p>
+  </body>
+ </text>
+</TEI>

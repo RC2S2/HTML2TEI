@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Tiszta, mégis káros: miért ne építsünk nagy vízerőműveket?
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f9a54bd7-9b9f-5e5b-ace6-52b4f86ab330
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Tiszta, mégis káros: miért ne építsünk nagy vízerőműveket?
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-08-20T16:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/08/20/tiszta-megis-karos-miert-ne-epitsunk-nagy-vizeromuveket/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/08/20/tiszta-megis-karos-miert-ne-epitsunk-nagy-vizeromuveket/
+     </sch:url>
+     <sch:name>
+      Tiszta, mégis káros: miért ne építsünk nagy vízerőműveket?
+     </sch:name>
+     <sch:datePublished>
+      2020-08-20T16:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      kapitalizmus
+     </sch:keywords>
+     <sch:keywords>
+      fenntarthatóság
+     </sch:keywords>
+     <sch:keywords>
+      Egyiptom
+     </sch:keywords>
+     <sch:keywords>
+      A csaptól az áradásig
+     </sch:keywords>
+     <sch:keywords>
+      etiópia
+     </sch:keywords>
+     <sch:keywords>
+      vízerőmű
+     </sch:keywords>
+     <sch:keywords>
+      nílus
+     </sch:keywords>
+     <sch:keywords>
+      Asszuáni-gát
+     </sch:keywords>
+     <sch:keywords>
+      GERD
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f9a54bd7-9b9f-5e5b-ace6-52b4f86ab330">
+     <sch:identifier>
+      urn:uuid:69776f42-c6e6-4ac7-bf54-3721cc8ef4ee
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:28.730817
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:20:40.870916
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f9a54bd7-9b9f-5e5b-ace6-52b4f86ab330" when="2021-12-14T15:30:28.730817">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Tiszta, mégis káros: miért ne építsünk nagy vízerőműveket?
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A jövőben az energiatermelésben, legalábbis belátható időtávon mindenképp, szükség lesz a vízenergia hasznosítására, hisz alapvetően egy tiszta, és hatalmas mennyiségben rendelkezésünkre álló energiaforrásról van szó, amit vétek lenne nem kihasználni. Azonban ahhoz, hogy valóban tiszta energiáról beszélhessünk, melynek termelése nem jár környezeti és társadalmi károkkal, igencsak oda kell figyelni a termelés módjára – és ez az, amiről az elmúlt évtizedek és napjaink legtöbb vízerőműve esetében elegánsan elfeledkeznek az építtetők.
+   </p>
+   <p>
+    Ennek ellenére a vízerőművekre sokan megváltásként tekintenek, ami nem csoda: szinte végtelen olcsó energiáról van szó, amely nem szennyezi a környezetet, és a természet erőit – a víz gravitációs erőből fakadó folyását, tömegét – használja fel arra, hogy elektromos árammal lássa el a fogyasztókat úgy, hogy semmiféle tüzelőanyag-költsége és károsanyag-kibocsátása nincs magának a termelésnek, ami a fosszilis alapú energiatermeléshez képest komoly fegyvertény.
+   </p>
+   <p>
+    Akadnak azonban súlyos ellenérvek is. Magyarországon ezt egy történelmi példa is illusztrálja: a rendszerváltás folyamatának egyik emblematikus mozgalma a Bős-Nagymarosi vízlépcső elleni széleskörű társadalmi tiltakozásból bontakozott ki, amely elérte, hogy a dunai vízlépcső magyarországi része nem valósult meg, jelentős részben környezetvédelmi okokból. Bár a rendszer elleni ellenállás szimbólumaként a politikai szempontok is indokolhatták az erőmű meg nem építését, és nem véletlen, hogy az Orbán-kormány is inkább Paks II-ben lát fantáziát, mint a Dunakanyar elárasztásában.
+   </p>
+   <p rend="head">
+    Az alapvető probléma a folyók mozgását energiává alakító erőművekkel, hogy számos esetben csak úgy tudnak gazdaságosan működni, hogy felduzzasztják a folyót, így a folyóvölgyet hosszú szakaszon elárasztva, megakasztva a víz korábbi természetes áramlását.
+   </p>
+   <p>
+    Erre azért van szükség, hogy a víz hajtotta turbinákra minél nagyobb nyomást helyezzenek, hogy nagyobb erővel tudják meghajtani a generátorokat, melyek így több áramot tudnak termelni. A megtermelt energia mennyisége nagyban függ a turbinákra nehezedő vízoszlop tömegétől, vagyis a tározóban lévő víz mennyiségétől.
+   </p>
+   <p>
+    <hi rend="bold">
+     Augusztus 17-től kékbe borult a Mérce. Egy héten át a víz a fő témánk.
+    </hi>
+    Hogyan lehetne igazságosabb és fenntartható a vízforrásaink kezelése? Hogyan lehetne közkincs, ami egyre kevesebbek privilégiuma?
+   </p>
+   <p>
+    Egy pohár tiszta víz, egy frissítő tusolás, a vízpartok csodálatos, élő világa és az általuk nyújtotta örömök, az egészséges, elérhető árú zöldség, gyümölcs és élelmiszer, az alapvető szükségleteket biztonságosan fedező közmű szolgáltatások – mindannyian azt szeretnénk, ha mi, akárcsak gyermekeink részesülhetnénk a víz áldásaiból.
+   </p>
+   <p>
+    Mi a Mércén egy olyan világra vágyunk, ahol mindez nemcsak a szerencsés országokba, szerencsés családokba születettek privilégiuma, hanem az egész emberiség osztályrésze. Ezért életbe vágó, hogy beszéljünk a vízről – tartsatok velünk!
+   </p>
+   <p>
+    A cikkeket
+    <hi>
+     A csaptól az áradásig
+    </hi>
+    címke alatt
+    találjátok.
+   </p>
+   <p>
+    Milyen problémákat okozhat egy folyó felduzzasztása? Lássunk néhány példát!
+   </p>
+   <p>
+    A hidroelektromos erőművek működéséhez felduzzasztott folyó olyan területeket áraszthat el, ahol a helyi ökoszisztéma szempontjából fontos fajok, állat- és növénytársulások élnek, melyek így kipusztulnak, vagy kénytelenek máshol megtelepülni, amennyiben tudnak alkalmazkodni a korábbitól eltérő körülményekhez.
+   </p>
+   <p>
+    De a folyó élővilágát is radikálisan átalakítják a vízerőművek: noha a Vaskapu szabályozása a Dunán jelentősen megkönnyítette a hajózást, gazdaságosabbá téve a fuvarozást Európa egyik legfontosabb vízi útján, egyszersmind elvágta a folyó alatta lévő szakaszának élővilágát a felette levőtől.
+   </p>
+   <p>
+    Zsilipelés a Bősi vízierőműben; fotó: Csicsay Imre / Wikimedia
+   </p>
+   <p>
+    Ennek egyik látványos következménye, hogy Magyarországig már nem tudnak felúszni bizonyos halak, például a vizák, holott régen a faj elterjedt (sőt, meghatározó) volt a Duna ezen szakaszán is. A vízi élővilág szétvágásán pedig a napjainkban már számos gát mellett felépített „hallépcsők” se feltétlenül segítenek, legalábbis nem az ekkora gátak esetében.
+   </p>
+   <p rend="head">
+    A felduzzasztott folyók okozta társadalmi károk azonban talán még ennél is húsba vágóbbak.
+   </p>
+   <p>
+    Itt gondolhatunk egyrészt arra, hogy az elárasztott területeken egykor települések álltak, közösségek éltek akár évszázadok óta, majd lakhelyük víz alá kerülése miatt költözni kényszerülnek. Amit csak hatalmas nehézségek, traumák árán élhetnek túl, már ha eleve nem része a koncepciónak, hogy a falusiakat városokba költöztessék, ahogy az például Ceaușescu Romániájában bevett gyakorlat volt.
+   </p>
+   <p rend="head">
+    Ilyenkor nem csupán az infrastruktúra különböző részei – az épületek, utak, telefon-vezetékek, stb. – semmisülnek meg, de az a tér is, melyben a közösség maga létezett, amellyel oda-vissza ható viszonyban állt, és így magának a társadalmi egységnek a szövete is felbomolhat, ami ugyan csak mellékhatása egy vízenergia-projektnek, de kiválóan lehet a kisebbségek elnyomására használni.
+   </p>
+   <p>
+    Ennél nagyobb léptékű társadalmi károkat is okozhatnak a gátak, melyekkel a folyók vizét felfogják, és ami az energiatermelés szempontjából jó ötletnek tűnhet elsőre, hatalmas gazdasági nehézségeket tud okozni akár teljes régiók lakosságának, a környezeti és társadalmi károk mellett – erre példaként szolgálhat a Nílusra telepített Asszuáni-gát.
+   </p>
+   <p>
+    A gátrendszer első fázisát még 1902-re építették fel a brit gyarmatosítók, és ekkor még figyelembe vették, hogy évente, a Nílus szokásos áradásakor átengedjék az árhullámot, ami rengeteg hasznos tápanyaggal terítette be a folyó árterületét, így biztosítva természetes módon a földek termékenységét. A második fázist azonban – melyet hosszas, a II. világháború vége óta tartó tervezés után, a brit gyarmatosítók elűzése és helytartóik megbuktatása, valamint az ezekből következő politikai változások folyományaként végül szovjet segítséggel építettek fel 1960 és 1970 között – nem úgy tervezték, hogy az éltető, egyszerre öntözést és trágyázást biztosító áradásokat átengedje.
+   </p>
+   <p>
+    Nasszer egyiptomi elnök 1963-ban a gát építésénél; fotó: Wikipedia
+   </p>
+   <p>
+    A gáttal egyrészt rengeteg olcsó energiához juttatták Egyiptomot, kiszolgálva mind az ipar (például a csillapíthatatlan energiaétvágyú alumíniumipar) energiaszükségletét, mind a lakossági fogyasztókat, rengeteg olyan helyre juttatva el a villanyáramot, ahol korábban nem is álmodhattak róla az emberek – magyarán komoly ugrást hajtottak végre az ország modernizálása terén.
+   </p>
+   <p>
+    Ugyanakkor számtalan problémát is előidéztek. Ezek közül csak az egyik, hogy a gát alatti folyamszakaszokon megszűntek az áradások, ezzel jócskán megnehezítve a földművelést, és kiterjedt öntözőrendszerek telepítését, valamint a műtrágyahasználatot szükségessé téve (miközben  a gát korábban lehetővé tette a kihasználatlan területek művelés alá vonását is). A kiterjedt öntözéses földművelés azonban egyre súlyosabb elszikesedéshez vezet, ami további, egyre intenzívebb műtrágyahasználatot tesz szükségessé a terméshozamok szinten tartásához, ami károsítja a talajt és a környezetet.
+   </p>
+   <p>
+    Ráadásképp az, hogy a gát feltartóztatja a Nílus felsőbb szakaszairól származó hordalékot, azzal is jár, hogy a deltába is kevesebb hordalék jut, amit a folyó lerakhatna – ez pedig a torkolat súlyos eróziójához vezet.
+   </p>
+   <p>
+    Ezen túl a gát a helyi klimatikus viszonyokat is megváltoztatja: a hatalmas vízfelület – 5 250 négyzetkilométer, ez valamivel kisebb terület, mint Békés megyéé – a relatíve alacsony páratartalom és magas hőmérséklet mellett igen komoly vízveszteséget eredményez. Azaz a víz „kárba vész” még mielőtt megforgathatná a turbinákat, vagy öntözésre használhatnák, miközben párásabb levegőhöz is vezet, ami rontja az ember hőérzetét, de segíti a betegségek terjedését is, vagy akár az ókori műemlékek pusztulásához is hozzájárulhat (amelyek közül több víz alá került már a  a tározó feltöltésekor).
+   </p>
+   <p>
+    Asszuán, Egyiptom, 2007. Fotó: Csörföly Dániel /
+    Wikipedia
+    .
+   </p>
+   <p>
+    Ez a probléma egyébként a meleg és száraz térségekben hatványozott mértékben merül fel – Norvégiában például annyira nem jellemző -, ahol a levegő vízfelvevő képessége nagyobb. És a veszteség különösen látványos, ha a vízfelület viszonylag nagy a tározó térfogatához képest – így az Asszuáni-gát esetében is.
+   </p>
+   <p>
+    A gát víztározójának üzembe helyezése előtt mintegy százezer embert kellett elköltöztetni.
+   </p>
+   <p>
+    Igaz,  hogy a kormány igyekezett biztosítani, hogy a kitelepítettek életkörülményei javuljanak, és szokatlan módon már a gát építése előtt kutatni kezdték a csoportos áttelepítésektől érintett közösségeket. Ennek ellenére az eredmények felemások, és sokan a mai napig szenvedik a következményeket – ahogy voltak, akik még a nyolcvanas évek végén is
+    arra vártak
+    , hogy egyszer majd visszatérhessenek elárasztott lakhelyükre.
+   </p>
+   <p>
+    Egy másik elrettentő példáról, az etiópiai Gilgel Gibe III erőműről és a vele összefüggő iparosítás katasztrofális társadalmi és környezeti hatásairól egy korábbi
+    cikkünkben
+    írtunk. A gát elsődleges célja, hogy elektromos árammal lássa el a rohamosan fejlődő etióp ipart, ahogy elvileg folyamszabályozási szerepet is betölt az Omo folyón.
+   </p>
+   <p>
+    A Gibe III az Omo folyón; fotó: Mimi Abebayehu/
+    Wikimedia
+    .
+   </p>
+   <p>
+    Azonban számos problémát okoz Etiópia lakosságának, amire környezetvédő és más civil szervezetek előre figyelmeztették a döntéshozókat. A folyóra épített gát, és a víz elvezetése miatt ugyanis a lejjebb fekvő régiók vízellátása veszélybe került, ami a klímaváltozás hatásaival együtt krónikussá vált vízhiányt, így mezőgazdasági nehézségeket és ebből fakadóan társadalmi feszültségeket eredményezett – arról nem is beszélve, hogy a korábban a folyó által táplált Turkana-tó éppen eltűnik.
+   </p>
+   <p>
+    Magyarán a beruházás úgy társadalmi, mint környezeti szempontból katasztrofális következményekkel járt, és fog járni a jövőben is, és noha a megtermelt áram egy része végül lakossági felhasználókhoz jut, azt is csak a relatíve tehetősebbek élvezhetik. Jelentős része azonban a jellemzően külföldi tulajdonú ipar étvágyát csillapítja, miközben víz nélkül hagyja a folyó alsóbb szakaszain élő szegényebb, pásztorkodó és mezőgazdaságból élő csoportokat, akik emiatt egymással kerülnek konfliktusba, miközben életszínvonaluk rohamosan csökken.
+   </p>
+   <p>
+    De nem ez az egyetlen vízerőmű Etiópiában, ami súlyos problémákat okoz. A Nagy Etióp Reneszánsz Gátat (GERD) még be sem fejezték, noha építése kezdetétől fogva komoly nemzetközi konfliktus övezi, miután a Nílusra épített erőművet a többi  érintett ország ellenzi.
+   </p>
+   <p>
+    Különösen Egyiptom aggódik amiatt, hogy a GERD tározójának feltöltése idejére saját energiatermelő kapacitása kerülhet veszélybe, a Nílus várhatóan kisebb hozama miatt, ami már önmagában okozhat más problémákat is, például általánosságban a vízellátás terén – de Szudán is kifejezte már hasonló aggodalmát.
+   </p>
+   <p>
+    A GERD 2020 júliusában; fotó: Hailefida /
+    Wikimedia
+    .
+   </p>
+   <p>
+    A klimatikus viszonyoktól, a Nílus vízhozamától és a nemzetközi megállapodásoktól függően a víztározó feltöltése szakértők szerin 5-15 évet vesz igénybe – ez idő alatt pedig az előrejelzések szerint uszkve kétmillió, gazdálkodásból élő ember lesz kénytelen kisebb-nagyobb vízhiánnyal szembe nézni, bár az etióp hatóságok és a befektetők képviselői váltig állítják, hogy a gazdasági és környezeti hatások messze nem lesznek olyan kiterjedtek, mint a beruházást kritizálók félelmei szerint.
+   </p>
+   <p>
+    Propagálói szerint a gátra a Gilgel Gibe III erőműhöz hasonlóan az ország iparosítása miatt van szükség, 6,45 Gigawatt tervezett teljesítményével önmagában csaknem megduplázza Etiópia áramtermelő kapacitását, így a remények szerint nemcsak belső fogyasztásra, de exportra is termelhetnek vele a jövőben áramot.
+   </p>
+   <p>
+    Az építkezést nem mellesleg részben a gyarmatosítói ambíciókat dédelgető Kína finanszírozza, miközben a beruházás  hasznát a jelentős részben kínai kézben lévő ipar látja majd. Etiópiának pedig nő a Kínától való függősége, vagyis elsősorban nem a térség, a régió vagy az ország lakossága profitál az építkezésből, hanem a külföldi befektetők, akik az olcsó nyersanyagok és az olcsó munkaerő miatt vannak jelen a régióban.
+   </p>
+   <p>
+    De nemcsak Afrika szarván, hanem Dél-Amerika számos országában is komoly problémát jelentenek az
+    óriásgátak
+    – az esőerdőket nemcsak a tűz, de a víz is pusztítja, mikor a felduzzasztott folyók elnyelik az erdőt, az őslakosok korábbi lakhelyeivel együtt, akik jellemzően nem kapják meg a beígért kompenzációt, ha egyáltalán beígérik nekik.
+   </p>
+   <p>
+    Latin-Amerikában az elmúlt nagyjából ötven évben indult be az óriásgátak építése, melyek a bővizű folyók roppant víztömegeit fogták zablába, hogy áramot termeljenek a földrész modernizálásához, és a gazdaság motorjaivá váljanak, táplálva a városok villanykörtéit, de elsősorban a gyárak végeláthatatlan szalagjait és az értékes kincseket rejtő hegyeket elbontó bányák gépeit.
+   </p>
+   <p>
+    Jártak tehát e projektek is társadalmi haszonnal bizonyos nézőpont szerint, azonban minimum kérdéses, hogy valójában mi is az egyenlegük. Jelentős részben ugyanis épp azt a gazdasági gyarmatosítást szolgálják ki, amit a fenti, afrikai példák esetében is láthattunk, és míg a társadalmi és környezeti károk helyben maradnak, a hidroelektromos energia és olcsó munkaerő nászából született profit elszáll az országok jelentős részéből.
+   </p>
+   <p>
+    Ráadásul a centrumországok nem csupán a „piac láthatatlan keze” útján okoznak kárt a periféria népének, de nagyon is látható módokon is: a környezetvédő és őslakos aktivistákat a tőke zsoldosai akár
+    meg is gyilkolják
+    , ha úgy látják, hogy a profit maximalizálásához ez a legkézenfekvőbb megoldás.
+   </p>
+   <p>
+    A Francia Guyanán épült Petit Saut erőmű pedig
+    arra világít rá,
+    hogy egy rosszul megtervezett vízerőmű nem csupán a helyi ökoszisztémát és esetlegesen emberek lakhelyét vágja gajra a folyóvölgy elárasztásával, de akár jelentős szén-dioxid, és egyéb üvegházhatású gázkibocsátással is járhat a víz alá került élővilág rothadásával.
+   </p>
+   <p>
+    Lehetne még sorolni a példákat hosszasan a világ számos részéről, Délkelet-Ázsiából vagy akár Kínából – a vízerőmű-projekteknek azonban visszatérő eleme, hogy miközben a helyi közösségeknek és a környezetnek akár tágabban nézve is súlyos károkat okoz, előnyeiből jobbára az ipar, vagyis jelen világunkban a tőke profitál.
+   </p>
+   <p>
+    Ennek is köszönhető, hogy noha régebben fontos energiaforrásnak számított – és számít sok helyen ma is – a centrumországokban immár nem jellemző, hogy új vízerőműveket építenének, a fentebb említett óriásgátakhoz hasonlókat pedig végképp nem – inkább a meglévőket modernizálják, emellett a kisebb projektek kerültek előtérbe, melyek nem járnak a nagyokhoz hasonló társadalmi és környezeti károkkal.
+   </p>
+   <p rend="head">
+    Ez pedig a tőkés világrendszer viszonyai miatt lehetséges. Ahogy nagyrészt a termelést és a nyersanyagok bányászatát, úgy az elnyomást, a környezetrombolást is kiszervezték a centrumországok a perifériára és a félperifériára. Az Egyesült Államokban és az Európai Unióban csökken az ipari termelés, míg a periférián és a félperiférián nő, így hát ezen régiókban telepítenek hatalmas mennyiségű új energiatermelő kapacitást.
+   </p>
+   <p>
+    Az ugyanakkor, hogy vízenergiát használnak ahelyett, hogy mondjuk szenet égetnének, hogy elektromos áramot termeljenek vele, mindenképp egy előremutató lépés – noha mint láthattuk, a vízerőművek is járnak környezeti kárral, sőt, működésük és építésük során még üvegházhatású gázkibocsátással is, ennek – legalábbis az utóbbinak – a mértéke megtermelt egységnyi energiára vetítve elenyésző például a barnaszén-erőművekéhez képest.
+   </p>
+   <p>
+    Mindazonáltal azt is látnunk kell, hogy rengeteg erőművi kapacitásra egész egyszerűen nincs szükség, mivel elsősorban nem társadalmi érdekeket, a társadalmi jólétet szolgálják, hanem a tőkés felhalmozásban kulcsfontosságú árutermelést segítik elő, melynek eredménye szükségtelenül, szükségtelen munka és energiabefektetés útján előállított szükségtelen termékek – és sokszor magától a terméktől nehezen megkülönböztethető hulladék – tömege.
+   </p>
+   <p>
+    Ahogy az sem szolgálja a közjót, ha a megtermelt „tiszta”, vagy bármilyen energiát nem a fizikai terméket előállító ipar, de az elektronikus gazdaság, a részvénypiacok, a megfigyelőállamok vagy egyéb gazdasági-állami tevékenységek kiszolgálására épített kolosszális szerver- és szuperszámítógép-parkok égetik el – mert akár előbbiről, akár utóbbiról beszélünk, mindenképp csak a globális társadalom egy szűk rétege látja hasznát, végső soron a többség kárára.
+   </p>
+   <p>
+    A vízenergiára évezredeken keresztül szükség volt az emberiség története folyamán, ahogy napjainkban is megkerülhetetlen, és minden bizonnyal a jövőben is jó darabig velünk lesz még. Hasznosítására pedig vannak jó példák is:
+    Norvégiában
+    például állami projekt keretében telepítenek kiserőműveket, melyek minimális környezeti hatás mellett szolgáltatnak villamos energiát (nb: a múlt század első felében úton-útfélen működtek ilyen erőművek az országban, melyeket fokozatosan szorítottak ki a nagyerőművek, most ezt a folyamatot fordítják a visszájára).
+   </p>
+   <p>
+    A fentiekből pedig látszik, hogy miért pont Európa egyik leggazdagabb országában lehetségesek az ilyen irányú fejlesztések – például azért, mert nem kell gombamód szaporodó gyárak energiaéhségével lépést tartani, mert azok a periférián bújnak elő a földből. Ugyanakkor Norvégia esetében az is lényeges, hogy nagy esésű, így áramgenerálásra komolyabb környezeti károkozás nélkül is viszonylag alkalmas vizekben gazdag, így áramellátását több, mint kilenctized részben a vízből, vagyis „tiszta” energiából fedező Norvégia a partjainál elterülő mesés gazdagságot rejtő olajmezők kitermeléséből is bőven profitál.
+   </p>
+   <p>
+    Egyelőre tehát globálisan az a tendencia, hogy míg a vízenergia felhasználásának környezet- és társadalombarát módjai a jövőben egyre inkább elterjedhetnek a centrumországokban, a periférián és a félperiférián egyre-másra jelentik be és indítják el a társadalmi, környezeti, vagy legtöbb esetben az ezek kombinációjából összeálló katasztrófákhoz vezető gátépítéseket a gazdaság fellendítése címén – amiből aztán elsősorban a centrum tőkéje profitál.
+   </p>
+   <p>
+    Ennek elkerüléséhez fontos lenne felülvizsgálni az óriás vízierőművek „tiszta fejlesztés” minősítését, amely alapján nemcsak a beruházások finanszírozása könnyebb, de „elmaradt kibocsátásuk” a karbonpiacon is értékesíthető. De ennél is lényegesebb, hogy  globális szinten kevesebb energiát kellene felhasználli. Ami viszont csak akkor kivitelezhető, ha magunk mögött hagyjuk a gazdasági növekedést az emberek érdekei fölé helyező gazdasági és társadalmi modellt, melynek rabigájában immár évszázadok óta senyved a bolygó lakosságának egyre nagyobb része, az elmúlt évtizedek fejleményeiből kifolyólag pedig immár szinte teljessége.
+   </p>
+  </body>
+ </text>
+</TEI>

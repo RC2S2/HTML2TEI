@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szél Bernadett az alapvető emberi jogok biztosához fordult a frissen elfogadott homofób törvénymódosító miatt
+    </title>
+    <author>
+     <persName>
+      Blaskó Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     466cd9de-4e34-52d7-aa62-c5cb2aacb2b5
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szél Bernadett az alapvető emberi jogok biztosához fordult a frissen elfogadott homofób törvénymódosító miatt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Blaskó Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-06-19T17:41:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/06/19/szel-bernadett-az-alapveto-emberi-jogok-biztosahoz-fordult-a-frissen-elfogadott-homofob-torvenymodosito-miatt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/06/19/szel-bernadett-az-alapveto-emberi-jogok-biztosahoz-fordult-a-frissen-elfogadott-homofob-torvenymodosito-miatt/
+     </sch:url>
+     <sch:name>
+      Szél Bernadett az alapvető emberi jogok biztosához fordult a frissen elfogadott homofób törvénymódosító miatt
+     </sch:name>
+     <sch:datePublished>
+      2021-06-19T17:41:00
+     </sch:datePublished>
+     <sch:author>
+      Blaskó Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      szél bernadett
+     </sch:keywords>
+     <sch:keywords>
+      homofóbia
+     </sch:keywords>
+     <sch:keywords>
+      homofób kampány
+     </sch:keywords>
+     <sch:keywords>
+      homofób módosító
+     </sch:keywords>
+     <sch:keywords>
+      ombudsman
+     </sch:keywords>
+     <sch:keywords>
+      alapvető jogok biztosa
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="466cd9de-4e34-52d7-aa62-c5cb2aacb2b5">
+     <sch:identifier>
+      urn:uuid:a167feb8-ca66-41d5-87df-4100eea4eb1e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:06.520317
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:47:51.668622
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="466cd9de-4e34-52d7-aa62-c5cb2aacb2b5" when="2021-12-14T15:31:06.520317">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szél Bernadett az alapvető emberi jogok biztosához fordult a frissen elfogadott homofób törvénymódosító miatt
+   </head>
+   <p>
+    A kedden elfogadott homofób törvénymódosítás miatt fordul az alapvető jogok biztosához Szél Bernadett, szerinte a módosító ugyanis sérti az LMBTQI fiatalok alapjogait, derül ki a politikus posztjából.
+   </p>
+   <p>
+    Ahogyan a módosítóról a
+    Mércén is beszámoltunk
+    : a Fidesz-KDNP pártszövetség a Jobbikkal együtt 157 igen és 1 nem szavazat mellett megszavazta a pedofil bűnelkövetőkkel szembeni szigorúbb fellépésről, továbbá a gyermekek védelme érdekében egyes törvények módosításáról szóló törvénymódosítást – amelynek homofób és transzfób jellegét megannyi
+    civil szervezet
+    és
+    ellenzéki párt
+    is bírálta már. A törvényjavaslat elfogadása előtt
+    tízezres tömeg tüntetett
+    a Kossuth téren, de ezt követően is
+    szerveztek
+    demonstrációt
+    .
+   </p>
+   <p rend="head">
+    A képviselő beadványában arról kérdezi Kozma Ákos alapjogi biztost, hogy itt és most kíván-e élni több fontos jogkörével.
+   </p>
+   <p>
+    A hatályba lépést követően meg tudja vizsgálni egyáltalán alkotmányos-e a jogszabály (
+    <hi>
+     „nem lesz az”
+    </hi>
+    , teszi hozzá Szél), és akkor ő maga is az Alkotmánybírósághoz fordulhat és kérheti a testületet, hogy utólagos normakontroll keretében ők maguk is mondják ki az alkotmányba ütközés tényét. De emellett az Alkotmánybíróságnál a nemzetközi szerződésbe ütközés vizsgálatát is kezdeményezheti.
+   </p>
+   <p>
+    „Az alapjogi biztos rendelkezik tehát ütőképes eszköztárral, képes érdemben lépni — és erre kérem őt magam is. Kulturált országban ilyen törvény a Ház közelébe sem kerülhet, a gyermekek egy csoportjának lehetetlen helyzetbe hozása pedig fel sem merülhet, hiszen ez súlyos kegyetlenség és egyben jogsértés is. Nekünk is vannak eszközeink, több is, mint gondolnánk, és nem habozunk használni!”
+   </p>
+   <p>
+    -írja a képviselő.
+   </p>
+   <p>
+    A képviselő a Háttér Társaság felmérésére hivatkozva a beadványban arra is emlékeztet: a heteroszexuálistól eltérő szexuális irányultságú vagy nemi identitású fiatalok egészséges fejlődését veszélyezteti az a gyakori kirekesztés, szóbeli zaklatás vagy akár fizikai bántalmazás, ami az iskolában éri őket.
+   </p>
+   <p rend="head">
+    Az LMBTQI fiatalok lelki és mentális egészségére ez a kirekesztettség súlyos hatással van, sokan küzdenek stresszel, önbizalomhiánnyal, de önbántás vagy öngyilkosság felé is fordulhatnak kétségbeesésükben. Az elhallgatás és tiltás ezért éppen hogy nem kedvező, hanem egyértelműen negatív hatással fog járni a fiatalok testi és lelki fejlődésére.
+   </p>
+   <p>
+    A képviselő írásban a következő konkrét kérdésekkel fordul az ombudsmanhoz:
+   </p>
+   <list>
+    <item>
+     Vizsgálja-e, illetve hatályba lépést követően tervezi-e vizsgálni a törvény Alaptörvénnyel való összhangját?
+    </item>
+    <item>
+     Tervezi-e, hogy a 2011. évi CXI. törvény 2. § (3) bekezdésében biztosított jogával élve kezdeményezi az Alkotmánybíróságnál a jogszabály Alaptörvénnyel való összhangjának felülvizsgálatát?
+    </item>
+    <item>
+     Tervezi-e, hogy a 2011. évi CLI. törvény 32. § (2) bekezdésében foglalt jogával élve kezdeményezi az Alkotmánybíróságnál a nemzetközi szerződésbe ütközés vizsgálatát a szóban forgó törvény vonatkozásában?
+    </item>
+   </list>
+   <p>
+    A beadvány teljes szövege
+    itt érhető el
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

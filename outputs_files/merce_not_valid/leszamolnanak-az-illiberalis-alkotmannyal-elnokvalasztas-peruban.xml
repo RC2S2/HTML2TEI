@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Leszámolnának az illiberális alkotmánnyal: elnökválasztás Peruban
+    </title>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5a3b5a58-cd8c-59c0-8eba-934bc11d8729
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Leszámolnának az illiberális alkotmánnyal: elnökválasztás Peruban
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-06-13T14:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/06/13/leszamolnanak-az-illiberalis-alkotmannyal-elnokvalasztas-peruban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/06/13/leszamolnanak-az-illiberalis-alkotmannyal-elnokvalasztas-peruban/
+     </sch:url>
+     <sch:name>
+      Leszámolnának az illiberális alkotmánnyal: elnökválasztás Peruban
+     </sch:name>
+     <sch:datePublished>
+      2021-06-13T14:00:00
+     </sch:datePublished>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      neoliberalizmus
+     </sch:keywords>
+     <sch:keywords>
+      elnökválasztás
+     </sch:keywords>
+     <sch:keywords>
+      marxizmus
+     </sch:keywords>
+     <sch:keywords>
+      peru
+     </sch:keywords>
+     <sch:keywords>
+      illiberális állam
+     </sch:keywords>
+     <sch:keywords>
+      Pedro Castillo
+     </sch:keywords>
+     <sch:keywords>
+      agrárszocializmus
+     </sch:keywords>
+     <sch:keywords>
+      Keiko Fujimori
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5a3b5a58-cd8c-59c0-8eba-934bc11d8729">
+     <sch:identifier>
+      urn:uuid:74b5e05b-5e76-46f7-b079-1f0780b4f2b6
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:54.542098
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:48:20.681132
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5a3b5a58-cd8c-59c0-8eba-934bc11d8729" when="2021-12-14T15:30:54.542098">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Leszámolnának az illiberális alkotmánnyal: elnökválasztás Peruban
+   </head>
+   <p>
+    <hi>
+     Cikkünk írásakor hajszállal ugyan, de nyerésre áll az agrárszocialista programmal induló Pedro Castillo a perui elnökválasztáson. Az évek óta súlyos politikai válságban élő országban a tét jelenleg nem más, mint a kilencvenes évek óta durván elszegényedő vidéki területek, és a zsugorodó és kiváltságaihoz tíz körömmel ragaszkodó városi középosztály közötti áthidalhatatlannak tűnő árkok betemetése, ami csak az ország szélsőségesen piacpárti alkotmányának megváltoztatásával lehetséges. Hogyan jutott el Peru a jelenlegi mély társadalmi-politikai válságig, és hogyan illeszkedik a Castillo által képviselt baloldali alkotmányos fordulat a térség általános politikai helyzetébe?
+    </hi>
+   </p>
+   <p rend="head">
+    A kilencvenes évek illiberális diktatúrája: a fujimorizmus
+   </p>
+   <p>
+    Alberto Fujimori 1990-től 2000-ig két elnöki ciklusban vezette Perut. Regnálása alatt komoly népszerűségre tett szert az ország jelentős részét ellenőrzés alatt tartó maoista Fényes Ösvény gerillái ellen folytatott – sikeres – harc, valamint az elnöki hatalom megerősítésével elért stabilabb politikai helyzet miatt. Az általa 1993-ban újraírt alkotmány jelentősen szűkítette az ország parlamentjének mozgásterét, és extra jogköröket adott az elnök kezébe.
+   </p>
+   <p rend="head">
+    Ami viszont még fontosabb volt, az a neoliberális gazdasági modell kiszélesítése, a szociális kiadások durva csökkentése és az állami vagyon privatizációja nagy nemzetközi cégeknek, akiknek a kezébe került így a perui nyersanyagok (fosszilis energiahordozók, nemesfémek) bányászata.
+   </p>
+   <p>
+    Csakhogy a makrogazdasági stabilitás elérésének, ahogy a hasonló szélsőségesen piacpárti rendszerekben, Peruban is súlyos ára volt: soha nem látott mértékben szegényedett el a társadalom vidéki része, és szociális állam híján a szélsőjobboldali populizmus büntetőpolitikára váltott. Perui őslakosok ezreit kényszersterilizálták, a parasztság mozgalmai ellen antikommunizmus jelszavával hadjáratot indítottak. Az ország teljes mértékben két részre szakadt: a piacpárti politikával jól járó városi középosztályra, illetve a – többek között az Egyesült Államok által diktált – megszorítások és privatizáció kárvallottjaira, a vidéki lakosságra.
+   </p>
+   <p>
+    Alberto Fujimori ugyan 2000-ben elmenekült az országból, és jelenleg második börtönbüntetését tölti emberiesség ellen elkövetett súlyos bűneiért (többek között antikommunista halálosztagok szervezéséért), öröksége a mai napig erősen jelen van a perui politikai életben. A jobboldali és szélsőjobboldali fujimorista pártok hagyományosan uralják a törvényhozást, a választott elnöknek így még a viszonylag széles jogkörök ellenére is nehéz kormányoznia, ezt mi sem mutatja jobban, mint a 2017 óta tartó súlyos politikai válság.
+   </p>
+   <p>
+    Alberto Fujimori (kép: Picryl/Karen L. Sanders
+   </p>
+   <p rend="head">
+    A Kongresszus és az Elnöki Palota négyéves háborúja
+   </p>
+   <p>
+    2017-ben Peru legfőbb hatalmi ágai közül kettő nyílt háborúba kezdett egymással, miután Alberto Fujimori lánya, Keiko Fujimori és a kongresszust uraló pártja egészpályás letámadást intézett a Pedro Pablo Kuczinsky elnök kezében összpontosuló végrehajtó hatalom ellen. Az ország politikai vezetése gyakorlatilag lebénult egy időre.
+   </p>
+   <p>
+    Alig nyugodtak meg a kedélyek, mikor Kuczinsky elnökről súlyos korrupciós ügyek láttak napvilágot, ami szinte rögtön bizalmatlansági szavazáshoz vezetett, ahol – meglepetésre – megúszta a lemondatást. Gyanúsan rövid idővel a megúszott kongresszusi szavazás után viszont a súlyos emberi jogsértések miatt börtönbüntetését töltő volt diktátor, Alberto Fujimori elnöki kegyelemmel
+    szabadlábra került
+    . Az újabb politikai válság azonban már Kuczinsky elnök székébe került, miután egy jobboldali képviselő olyan felvételeket szivárogtatott ki, amelyen Keiko Fujimori öccse megpróbálta megvesztegetni őt, hogy ne szavazza meg az elnök elmozdítását.
+   </p>
+   <p>
+    Kuczinsky utóda, Martín Vizcarra idejében folytatódott az elkeseredett harc a kongresszus és az elnöki palota között. 2019-ben például Vizcarra elnöki jogköreit némileg kiterjesztően értelmezve feloszlatta az országgyűlést arra hivatkozva, hogy az korrupciós ügyekben érintett bírákat nevezett ki az alkotmánybíróság tagjainak, ám az ezt követő rendkívüli választások ismét a fujimorista pártok túlsúlyát hozták el a kongresszusban. Vizcarra hatalmát végül a koronavírus-járvány döntötte meg: 2020-ban, miután a kormány járványkezelése gyakorlatilag megbukott, és az élénkítő csomagok ellenére a gazdaság gyors hanyatlásnak indult, az elnök elleni második bizalmatlansági szavazás végül sikerrel járt.
+   </p>
+   <p>
+    Ügyvivő elnöknek a kongresszus a jobboldali Manuel Merino házelnököt jelölte ki a 2021-es nyári választásig, aki azonban
+    egy hetet se tölthetett
+    hivatalában, mert az utcákra tóduló, puccsot kiáltó perui nép haragja elsöpörte.
+   </p>
+   <p>
+    Perui demonstráció a Merino-féle puccs ellen (kép: Flickr/Samantha Hare)
+   </p>
+   <p rend="head">
+    A legnagyobb és a marxista tanár
+   </p>
+   <p>
+    Keiko Fujimori, Alberto Fujimori legidősebb lánya harmadik alkalommal indult 2021-ben az elnöki székért. Bár meglehetősen népszerűtlen jelölt, az első fordulóban a 13 százalékos szavazatarány elegendő volt neki, hogy bekerüljön a második fordulóba, így a jobboldali pártok által gerjesztett
+    antikommunista hisztéria
+    légkörében a többi fujimorista és konzervatív politikai erőnek nem volt más választása, mint beállni mögé.
+   </p>
+   <p>
+    Keiko már fiatalon belekóstolhatott a politikába, miután apja válása után egy szokatlan gesztussal őt nevezte ki First Lady-nek, így népszerű, de kevés kockázattal járó pozícióból tudta építeni politikai karakterét. Apja bukása után át is vette a fujimorista kongresszusi pártok vezérének szerepét, amelyet az elnöki székért már fentebb ismertetett elkeseredett harca mellett olyan jobboldali-populista témák határoztak meg, mint a halálbüntetés bevezetése, a piacpárti intézkedések kiszélesítése, miközben apja bűneitől megpróbált óvatosan távolságot tartani, azokat „hibáknak” és „túlzásoknak”
+    minősítve
+    .
+   </p>
+   <p>
+    Keiko Fujimori (kép: Flickr/Néstor Soto Maldonado
+   </p>
+   <p>
+    Az őslakos származású agrárszocialista jelölt, Pedro Castillo egészen máshonnan indult. Általános iskolai tanárként kezdte pályafutását a kilencvenes években, országos ismertségre akkor tett szert, amikor az ország pedagógusai sztrájkba kezdtek 2017-ben, és ő az egyik legerősebb pedagógus-szakszervezet elnökeként küzdött az ágazat béreinek emeléséért.
+   </p>
+   <p>
+    A 2021-es elnökválasztáson való indulását is tanári tapasztalataival indokolta később: a koronavírus-járvány miatti lezárások alatt szembesült vele
+    elmondása szerint
+    , hogy diákjai közül szinte senkinek nincs mobiltelefonja, amivel be tudna kapcsolódni, és a tanítást lehetővé tevő eszközök sem érkeztek meg soha a kormánytól.
+   </p>
+   <p>
+    A marxista gyökerű Szabad Peru párt jelöltjeként kampánya során a vidéken tomboló szegénység felszámolását tűzte ki célul, erős szövetségben kormányozna a szakszervezetekkel és a földjeiket védő parasztmozgalmakkal (rondas campesinas). Ennek érdekében elsősorban az ország gazdaságát uraló nagy cégek jelentős megadóztatásával küzdene, de államosításokat – amivel a venezuelai válsággal riogató jobboldali pártok vádolják –
+    nem tervez
+    . Könnyű dolga biztos nem lesz elnökként: a kongresszust továbbra is uralja a fujimorista jobboldal, így a mélyreható alkotmányos-társadalmi változtatásokat csak kemény politikai harcok árán lehet majd megpróbálni átvinni.
+   </p>
+   <p>
+    Pedro Castillo (kép: Wikimedia Commons/Cheep)
+   </p>
+   <p rend="head">
+    A baloldali fordulat lehetősége Latin-Amerikában
+   </p>
+   <p>
+    Lenti Attila Mércére írt
+    elemzésében
+    „latin-amerikai tavasznak” nevezi azt a koronavírus járvány berobbanását megelőzően előtérbe került jelenséget, melynek során a főként Dél-Amerikában zajló társadalmi-politikai változtatást követelő népi mozgalmak megerősödtek, és kiújították a harcot t a neoliberális-illiberális alkotmányos rendszerek ellen. És valóban: Chilében több milliós tüntetéseken követelik évek óta az ország – szintén szuronyokkal kőbe vésett – „neoliberális mintaalkotmány” megváltoztatását, Bolíviában az Evo Morales ellen elkövetett puccs ellenére sem sikerült megtörni a baloldal hatalmát, Brazíliában a szélsőjobboldali Bolsonaro ellen a hazugságokkal eltávolított korábbi baloldali elnök,
+    Lula da Silva egyre esélyesebb
+    a 2022-es elnökválasztáson. Kolumbiában április óta szintén
+    utcán van a nép
+    a társadalmi egyenlőtlenségek és a rezsim brutalitása ellen harcolva.
+   </p>
+   <p>
+    Castillo várható perui választási győzelme így illeszkedik az illiberalizmus és a politikai elnyomás eszköztárával hatalmát bebiztosítani igyekvő, az elsősorban észak-amerikai és vele szövetséges helyi nagytőke kiszolgálására szerveződött dél-amerikai neoliberalizmus általános és egyre nyilvánvalóbb válságába, és az ettől szabadulni próbáló dél-amerikai nép harcába.
+   </p>
+   <p>
+    Jelenleg ugyan még mindig nem jelenthető ki teljes biztonsággal, hogy a népi mozgalmak maguk mögött hagyták az útkeresések szakaszát, de az már nyilvánvalónak tűnik, hogy a társadalmak széles tömegei, Dél-Amerika új generációja a békét immár nem pusztán konkrét fegyvernyugvásban és személycserékben, de a társadalmi igazságosság politikájának elmélyítésében is keresi.
+   </p>
+   <p>
+    (Reuters; BBC; AP; Junge Welt; Jacobin; Mérce)
+   </p>
+  </body>
+ </text>
+</TEI>

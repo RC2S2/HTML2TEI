@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A meleg Milo Yiannopoulosszal hirdették a hetero büszkeséget jobboldaliak Bostonban
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1a26e00c-5aa0-5df7-a716-97cac5c594ce
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A meleg Milo Yiannopoulosszal hirdették a hetero büszkeséget jobboldaliak Bostonban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-02T10:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/09/02/a-meleg-milo-yiannopoulosszal-hirdettek-a-hetero-buszkeseget-jobboldaliak-bostonban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/09/02/a-meleg-milo-yiannopoulosszal-hirdettek-a-hetero-buszkeseget-jobboldaliak-bostonban/
+     </sch:url>
+     <sch:name>
+      A meleg Milo Yiannopoulosszal hirdették a hetero büszkeséget jobboldaliak Bostonban
+     </sch:name>
+     <sch:datePublished>
+      2019-09-02T10:30:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      tüntetés
+     </sch:keywords>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      pride
+     </sch:keywords>
+     <sch:keywords>
+      jobboldal
+     </sch:keywords>
+     <sch:keywords>
+      milo yiannopoulos
+     </sch:keywords>
+     <sch:keywords>
+      felvonulás
+     </sch:keywords>
+     <sch:keywords>
+      heteroszexualitás
+     </sch:keywords>
+     <sch:keywords>
+      boston
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1a26e00c-5aa0-5df7-a716-97cac5c594ce">
+     <sch:identifier>
+      urn:uuid:7d149874-4100-46e4-b886-6329f21fde08
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:28.991877
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:48:06.401722
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1a26e00c-5aa0-5df7-a716-97cac5c594ce" when="2021-12-14T15:30:28.991877">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A meleg Milo Yiannopoulosszal hirdették a hetero büszkeséget jobboldaliak Bostonban
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Bostonban, az Egyesült Államokban „Straight Pride” néven tartottak jobboldali csoportok heteró-felvonulást a szexuális kisebbségek Büszkeség felvonulása mintájára, azonban az esemény nem úgy sült el, ahogy tervezték, mivel a néhány száz felvonulót több, mint ezer ellentüntető várta.
+   </p>
+   <p>
+    A rendezvényen  részt vett és felszólalt Milo Yiannopoulos, az amerikai alt-right trumpista sztárja, aki rendszeresen homoszexualitásával kérkedik.
+   </p>
+   <p>
+    A Szuper Vidám Boldog Amerika nevű szervezet által szervezett felvonuláson „nagy marsall” minőségben részt vevő Yiannopoulos beszédében követelte, hogy az LGBTQ betűkombinációhoz – mely a leszbikus, meleg, biszexuális, transszexuális és queer szavak angol megfelelőiből áll – adják hozzá az S-t, mint straight, amit a heteroszexuálisokra használnak.
+   </p>
+   <p>
+    A jobboldali megmondóember ugyanakkor nem fejtette ki, a betűkombinációban hol képzeli el az S betűt, így nem tudjuk, hogy melegek és leszbikusok, netán a transzok és queerek között, esetleg egész máshol képzeli el a szexuális többség reprezentációját.
+   </p>
+   <p>
+    A néhány száz fős csoport rendőrök kíséretében járult a bostoni városháza elé az ellentüntetők válogatott szitkozódásai közepette, az eseményről beszámoló Guardian szerint a
+   </p>
+   <p>
+    „náci geci”
+   </p>
+   <p>
+    népszerű volt a homofób menet elutasítói között.
+   </p>
+   <p>
+    Az LMBTQ közösségéről ismert Emerson főiskola kollégiumának lakói
+   </p>
+   <p>
+    „legyél meleg”
+   </p>
+   <p>
+    és
+   </p>
+   <p>
+    „nincs szükség heteró büszkeségre”
+   </p>
+   <p>
+    feliratú transzparensekkel köszöntötték a vonulókat, Lee Pelton, a főiskola elnöke pedig perverziónak minősítette a felvonulást, melyet többen videóra rögzítettek.
+   </p>
+   <p>
+    Habár John Hugo szerint a Szupervidám szervezet nem homofób, a városháza előtt tartott beszédek során többször felmerült az iskolákban tapasztalható állítólagos homoszexuális propaganda – melyet Magyarországon Torgyán József néhai kisgazda politikus már a több, mint húszéves „Féregirtó” beszédében emlegetett -, ezzel összefüggésben pedig a gyerekek homoszexualitásra nevelése.
+   </p>
+   <p>
+    Több felszólaló ismert szélsőjobboldali volt, többek között a Büszke Fiúk szervezetből, melyet erőszakos, rasszista, fehér felsőbbrendűséget hirdető megmozdulásairól ismerhetünk, és sokan fejezték ki ruházatukkal és megszólalásaikkal, hogy Trump elnök elkötelezett támogatói.
+   </p>
+   <p>
+    A jobbára békésen lezajlott rendezvény során harminchat embert, többségükben ellentüntetőket tartóztattak le, a rendőrség könnygázt is bevetett egy alkalommal, és négy rendőr sérült meg.
+   </p>
+   <p>
+    A Szupervidámak részéről többször elhangzott, hogy éves rendszerességgel megrendezett eseménynek tervezik a vonulást, ahogy arra is utaltak, hogy karácsony napjaiban is készülnek valamilyen akcióval.
+   </p>
+   <p>
+    Az esemény kapcsán Alexandria Ocasio-Cortez, a demokrata párt balszárnyának képviselője is megnyilvánult, „Küzdök a Maszkulinitásommal” parádénak nevezve a felvonulást, valamint megjegyzésekkel illette a nemi arányokat is. Mint írta,
+   </p>
+   <p>
+    „ahhoz képest, hogy ezek a férfiak állítólag oly büszkék heteroszexuálisságukra, valódi inkompetenciát mutatnak abban, hogy nőket csábítsanak a rendezvényükre.”
+   </p>
+   <p>
+    via
+    Guardian
+    /
+    The Hill
+   </p>
+  </body>
+ </text>
+</TEI>

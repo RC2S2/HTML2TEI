@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Félrenéznek a hatóságok a környezetromboló biatorbágyi focipálya ügyében Szél Bernadett szerint
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     c8fbd80b-69e4-5239-b3ed-d5ed194468bc
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Félrenéznek a hatóságok a környezetromboló biatorbágyi focipálya ügyében Szél Bernadett szerint
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-05-17T12:06:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/05/17/felreneznek-a-hatosagok-a-kornyezetrombolo-biatorbagyi-focipalya-ugyeben-szel-bernadett-szerint/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/05/17/felreneznek-a-hatosagok-a-kornyezetrombolo-biatorbagyi-focipalya-ugyeben-szel-bernadett-szerint/
+     </sch:url>
+     <sch:name>
+      Félrenéznek a hatóságok a környezetromboló biatorbágyi focipálya ügyében Szél Bernadett szerint
+     </sch:name>
+     <sch:datePublished>
+      2021-05-17T12:06:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      rendőrség
+     </sch:keywords>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      szél bernadett
+     </sch:keywords>
+     <sch:keywords>
+      önkormányzat
+     </sch:keywords>
+     <sch:keywords>
+      foci
+     </sch:keywords>
+     <sch:keywords>
+      biatorbágy
+     </sch:keywords>
+     <sch:keywords>
+      madár-forrás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="c8fbd80b-69e4-5239-b3ed-d5ed194468bc">
+     <sch:identifier>
+      urn:uuid:b04e9a33-2fa5-41eb-94c6-383a937780b4
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:04.445379
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:45:51.036640
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="c8fbd80b-69e4-5239-b3ed-d5ed194468bc" when="2021-12-14T15:26:04.445379">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Félrenéznek a hatóságok a környezetromboló biatorbágyi focipálya ügyében Szél Bernadett szerint
+   </head>
+   <p>
+    Folytatódik a biatorbágyi Madár-forrás ügye, miután Szél Bernadett független országgyűlési képviselő panaszt nyújtott be a Budaörsi Rendőrkapitányság eljárásával szemben. A képviselő szerint „döbbenetesen átlátszó módon nem látják bizonyíthatónak a környezetkárosítást” a rendőrségnél.
+   </p>
+   <p>
+    A nagyjából 14 ezer lakosú Biatorbágyon most épül a harmadik focipálya néhány méterre a Madár-forrástól, amely amellett, hogy kirándulók kedvelt kiindulópontja, az Országos Ökológiai Hálózat pufferterületének is része. Mint arról
+    év elején beszámoltunk
+    , a nagy lakossági felháborodást kiváltó építkezés előkészítő munkálatai még azelőtt indult meg, hogy Tarjáni István fideszes polgármester megrendelte volna az ezzel kapcsolatos környezeti hatástanulmányt, amely végül utólag megállapította: a focipálya nem jelent veszélyt a környezetre.
+   </p>
+   <p>
+    Csakhogy erről sem a szeptemberben
+    tüntetést is szervező
+    lakosság, sem az ügyben feljelentést tett képviselő nincs meggyőződve. Szél mai beszámolója szerint bár a rendőrség is elismerte a feljelentésében szereplő 1 méternél nagyobb – és emiatt hivatalosan engedélyköteles – talajszint-változtatást, a fák gyökereinek elvágását, illetve az élőlényekben gazdag humusz és a felszíni természetes növényzet elpusztítását, a képviselő szerint végül megoldották, „hogy ne kelljen semmit csinálniuk”.
+   </p>
+   <p rend="head">
+    Arra hivatkoztak ugyanis, hogy az önkormányzat két külön építési engedélyezési eljárási kérelmet adott be: egyet a tereprendezésre és egyet a pályaépítésre, ami Szél álláspontja szerint már önmagában is aggályos, mivel a két tevékenység egymást feltételezi.
+   </p>
+   <p>
+    A tereprendezésről az építésügyi hatóság megállapította, hogy „önmagában nem minősül építési tevékenységnek”, így nincs hatásköre az eljárásra, majd a másik kérelemben, a pályaépítésnél már meg sem említették a maximális 1 méter mélységet, ameddig engedély nélkül letolhatták volna a hegyoldalt.
+    Mint a képviselő emlékeztet, ebből végül 5 méter lett, ennek ellenére ezt azzal szüntette meg az építéshatóság, hogy nem engedélyköteles.
+    Csakhogy a képviselő szerint a két eljárást összevonva ki kellett volna mondania a rendőrségnek, hogy az 1 méternél nagyobb szintkülönbséget eredményező tereprendezés az Országos Ökológiai Hálózat pufferterületén engedélyezhető-e vagy sem.
+    „Úgy látom, nem csak a rendőrség néz félre, de a kormányhivatal is — most azonban betámadtam ezt az átlátszó eljárást, a természet és a helyi lakosság védelmében” – fogalmaz Szél.
+   </p>
+  </body>
+ </text>
+</TEI>

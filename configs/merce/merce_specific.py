@@ -10,6 +10,9 @@ PORTAL_URL_PREFIX = 'https://merce.hu'
 
 ARTICLE_ROOT_PARAMS_SPEC = [(('div',), {'class': 'main-article-text'})]
 
+HTML_BASICS = {'p', 'h3', 'h2', 'h4', 'h5', 'em', 'i', 'b', 'strong', 'mark', 'u', 'sub', 'sup', 'del', 'strike',
+               'ul', 'ol', 'li', 'table', 'tr', 'td', 'th', 'quote', 'figure', 'iframe', 'script', 'noscript', 'a',
+               'span', 'div', 'p', 'blockquote'}
 
 def get_meta_from_articles_spec(tei_logger, url, bs):
     source_set = {'A Város Mindenkié csoport', 'AVarosMindenkie', 'kps14', 'LeftEast', 'VoB', 'Robin Pajtás Kollektíva',
@@ -26,7 +29,7 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
     data = tei_defaultdict()
     data['sch:url'] = url
     meta_root = bs.find('div', class_='meta-left')
-    tag_root = bs.find('div', class_='main-article-footer_tags').find('ul', class_='tag-links')
+    tag_root = bs.find('ul', class_='tag-links')
     pp_root = bs.find('div', class_='pplive__posts track-cat')
     if meta_root is not None:
         date_tag = meta_root.find('div', class_='meta-time').find('time')
@@ -40,27 +43,28 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
             tei_logger.log('WARNING', f'{url}: DATE TAG NOT FOUND!')
         if pp_root is not None:
             # The first found element is the last modification of the coverage, based on the structure of the article
-            pp_lastdate_tag = meta_root.find('div', class_='ppitm__time time').find('time')
+            pp_lastdate_tag = pp_root.find('div', class_='ppitm__time time').find('time')
             if pp_lastdate_tag is not None:
                 pp_parsed_date = parse_date(pp_lastdate_tag['title'].strip(), '%Y.%m.%d. %H:%M')
                 if pp_parsed_date is not None:
                     data['sch:dateModified'] = pp_parsed_date
                 else:
                     tei_logger.log('WARNING', f'{url}: DATE FORMAT ERROR!')
-        subsect_tag = meta_root.find('div', class_='article_description')
+        subsect_tag = bs.find('div', class_='article_description')
         if subsect_tag is not None:
             data['sch:articleSection'] = subsect_tag.text.strip()
         else:
-            tei_logger.log('WARNING', f'{url}: ARTICLE SECTION TAG NOT FOUND!')
-        title = meta_root.find('h1', class_='entry-title')
+            tei_logger.log('DEBUG', f'{url}: ARTICLE SECTION TAG NOT FOUND!')
+        title = bs.find('h1', class_='entry-title')
         if title is not None:
-            subtitle = title.extract('span', class_='entry-subtitle')
+            subtitle = title.find('span', class_='entry-subtitle')
             if subtitle is not None:
+                subtitle.extract()
                 data['sch:alternateName'] = subtitle.text.strip()
             data['sch:name'] = title.text.strip()
         else:
             tei_logger.log('WARNING', f'{url}: TITLE TAG NOT FOUND!')
-        author_tag = meta_root.findall('a', rel='author')
+        author_tag = bs.find_all('a', rel='author')
         if author_tag is not None:
             author_list = [t.text.strip() for t in author_tag]
             author_list = list(dict.fromkeys(author_list))
@@ -81,7 +85,7 @@ def get_meta_from_articles_spec(tei_logger, url, bs):
             if len(keywords_list) > 0:
                 data['sch:keywords'] = keywords_list
         else:
-            tei_logger.log('WARNING', f'{url}: SUBJECT TAG NOT FOUND!')
+            tei_logger.log('WARNING', f'{url}: KEYWORDS TAG NOT FOUND!')
         return data
     else:
         tei_logger.log('WARNING', f'{url}: ARTICLE BODY NOT FOUND OR UNKNOWN ARTICLE SCHEME!')
@@ -117,7 +121,8 @@ MEDIA_LIST = [
     (('figure',), {}),
     (('div',), {'class': 'entry-asset-place asset-placed'}),
     (('div',), {'class': 'entry-asset-wrap entry-asset-iframe '}),
-    (('div',), {'class': 'entry-content-asset'})]
+    (('div',), {'class': 'entry-content-asset'}),
+    (('iframe',), {})]
 
 
 def decompose_spec(article_dec):

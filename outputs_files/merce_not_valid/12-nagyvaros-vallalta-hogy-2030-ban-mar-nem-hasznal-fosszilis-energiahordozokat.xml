@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     12 nagyváros vállalta, hogy 2030-ban már nem használ fosszilis energiahordozókat
+    </title>
+    <author>
+     <persName>
+      Dobsi Viktória
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     dd543b49-6404-5470-b2a9-3fc203408538
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      12 nagyváros vállalta, hogy 2030-ban már nem használ fosszilis energiahordozókat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Dobsi Viktória
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-10-27T22:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/10/27/12-nagyvaros-vallalta-hogy-2030-ban-mar-nem-hasznal-fosszilis-energiahordozokat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/10/27/12-nagyvaros-vallalta-hogy-2030-ban-mar-nem-hasznal-fosszilis-energiahordozokat/
+     </sch:url>
+     <sch:name>
+      12 nagyváros vállalta, hogy 2030-ban már nem használ fosszilis energiahordozókat
+     </sch:name>
+     <sch:datePublished>
+      2017-10-27T22:50:00
+     </sch:datePublished>
+     <sch:author>
+      Dobsi Viktória
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      közlekedés
+     </sch:keywords>
+     <sch:keywords>
+      várospolitika
+     </sch:keywords>
+     <sch:keywords>
+      lehet más a város
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="dd543b49-6404-5470-b2a9-3fc203408538">
+     <sch:identifier>
+      urn:uuid:725f2c7a-ef3b-4219-b659-1cb23b7fcb8d
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:59.216151
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:33:19.727677
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="dd543b49-6404-5470-b2a9-3fc203408538" when="2021-12-14T15:30:59.216151">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    12 nagyváros vállalta, hogy 2030-ban már nem használ fosszilis energiahordozókat
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Párizs, London, Barcelona, Quito, Vancouver, Mexikóváros, Koppenhága, Seattle, Los Angeles, Fokváros, Auckland és Milánó kötelezte el magát október 23-án, hogy 2030-ra megszabadul a fosszilis energiahordozóktól.
+   </p>
+   <p>
+    A 12 nagyváros polgármesterei Párizsban gyűltek össze hétfőn, a
+    <hi>
+     Together4Climate
+    </hi>
+    (Együtt a klímáért) éves értekezletén, és ígéretet tettek arra, hogy egészségesebb, zöldebb és főként fosszilis energiahordózóktól mentes területeket hoznak létre a jövőben. Mivel a városok üvegházhatású gáz kibocsátásának harmada a közlekedésből ered, így elsősorban ez volt a csúcs témája.
+   </p>
+   <p>
+    A metropoliszok célja, hogy egyre nagyobb területeken szüntessék be a benzines vagy dízelhajtású járműveket, illetve csökkentsék az ilyen járművek által megtett távolságokat és a legszennyezőbbek arányát, miközben elősegítik a közösségi és az alternatív – pl. gyalogos, biciklis – közlekedési módokat.
+   </p>
+   <p>
+    #Barcelona
+    ‘s climate plan focuses on adaptation as a means of protecting its citizens.
+    https://t.co/PPzgcwlGx0
+    #Together4Climate
+    @AdaColau
+    pic.twitter.com/eg0lGPQj1b
+   </p>
+   <p>
+    — C40 Cities (@c40cities)
+    2017. október 27.
+   </p>
+   <p>
+    Egyes városok már jelentős lépéseket tettek ebbe az irányba: Párizs 2015-ben, Mexikóváros, Athén és Madrid 2016-ban tettek ígéretet arra, hogy 2025-re betiltják a dízeljárműveket, és korlátozásokat vezettek be a legrégebbi és legszennyezőbb modellekre. London és Milánó ennél is messzebb ment, és a városközpontokat fizetőssé tették a motorizált közlekedés számára. Ezzel párhuzamosan a városi flottákat is fokozatosan kibocsátásmentessé teszik.
+   </p>
+   <p>
+    A hétfői ünnepélyes bejelentés, akárcsak a korábban tett ígéretek célja az is, hogy mozgósítsa a magánszektort, annak érdekében, hogy versenyképes kínálatot fejlesszenek az anyagok, termékek és szolgáltatások terén. Londonban például a az új generációs hibrid buszok ára néhány év alatt 10%-kal csökkent.
+   </p>
+   <p>
+    A 12 metropolisz tagja a
+    C40
+    hálózatnak, amelyet jelenleg több mint 90 olyan nagyváros alkot, amelyek elkötelezettek a klímaváltozás elleni küzdelemben. Összlakosságuk 650 millió körül jár, és a világgazdaság negyedét képviselik. A hálózat tagjai együttműködnek, hasznos tapasztalatokat osztanak meg egymással, és igyekeznek mérhető és fenntartható módokon elősegíteni a modellváltást. A C40
+    honlapján
+    Budapestnek vagy más magyar településnek nem találtuk nyomát.
+   </p>
+   <p>
+    A hétfői csúcs szereplői a jövőben két évenként beszámolnak az elért eredményekről.
+   </p>
+   <p>
+    (via
+    <hi>
+     Le Monde
+    </hi>
+    ; címlapkép:
+    Twitter C40cities
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

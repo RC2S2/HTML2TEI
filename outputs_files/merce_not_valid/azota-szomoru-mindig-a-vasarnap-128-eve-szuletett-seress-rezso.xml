@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Azóta szomorú mindig a vasárnap” – 128 éve született Seress Rezső
+    </title>
+    <author>
+     <persName>
+      Varsányi Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     afcaf5af-4fc2-5669-867b-29056862d11b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Azóta szomorú mindig a vasárnap” – 128 éve született Seress Rezső
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varsányi Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-11-03T21:50:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/11/03/azota-szomoru-mindig-a-vasarnap-128-eve-szuletett-seress-rezso/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/11/03/azota-szomoru-mindig-a-vasarnap-128-eve-szuletett-seress-rezso/
+     </sch:url>
+     <sch:name>
+      „Azóta szomorú mindig a vasárnap” – 128 éve született Seress Rezső
+     </sch:name>
+     <sch:datePublished>
+      2017-11-03T21:50:00
+     </sch:datePublished>
+     <sch:author>
+      Varsányi Bence
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      öngyilkosság
+     </sch:keywords>
+     <sch:keywords>
+      Seress Rezső
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="afcaf5af-4fc2-5669-867b-29056862d11b">
+     <sch:identifier>
+      urn:uuid:d17d7d71-a3b1-4ff3-ac60-79fcaa9ca355
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:35.909598
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:37:33.372719
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="afcaf5af-4fc2-5669-867b-29056862d11b" when="2021-12-14T15:30:35.909598">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Azóta szomorú mindig a vasárnap” – 128 éve született Seress Rezső
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Pontosan 128 évvel ezelőtt született Seress Rezső zeneszerző, zongorista. Ő szerezte a
+    <hi>
+     Szomorú vasárnap
+    </hi>
+    című világslágert, amelyet rengeteg zenész feldolgozott, köztük Billie Holiday és Ray Charles is. Az „öngyilkosok himnuszaként” elhíresült dalt hatalmas misztikum övezi, és a mai napig számos tévhit kering szerte a világban vele kapcsolatban.
+   </p>
+   <p>
+    Seress Rezső 1889. november harmadikán született, kikeresztelkedett zsidó szülők gyermekeként Budapesten. Alacsony termetéből hasznot húzva fiatalemberként egy vándorcirkuszban dolgozott, de légtornászi karrierje hamar befejeződött, amikor egy előadás előtti gyakorlás során majdnem halálos balesetet szenvedett. Később színészként végzett, majd a városligeti színtársulat régi zongoráján játszott, amikor felfigyelt rá a Műszínkör igazgatója, aki azután fellépéseket szervezett neki. Ekkoriban, az 1920-as évek Magyarországán, igen népszerű volt az élőzene, ugyanis tilos volt a hanglemezgyártás, rádiót pedig csak a tehetősebbek tudtak vásárolni.
+   </p>
+   <p>
+    1925-ben beindult Seress zenei karrierje, szomorkás dallamai népszerűek voltak a szegényebb zenekedvelők között is. A zenész megpróbált kitörni a
+    <hi>
+     „kocsmai mulattató”
+    </hi>
+    skatulyájából, ám a művészek sosem ismerték el,  és
+    <hi>
+     „
+    </hi>
+    dilettánsnak
+    <hi>
+     ”
+    </hi>
+    számított köreikben. Tíz évvel később, 1935-ben viszont interjút készített vele egy fiatal újságíró, Jávor László, majd felkérte Seresst, hogy komponáljon zenét frissen megjelent,
+    <hi>
+     Szomorú vasárnap
+    </hi>
+    című verseskötetének címadó verséhez. A többi már történelem.
+   </p>
+   <p rend="head">
+    Parti Nagy Lajos szavaival élve, a dal átszivárgott az egész világon.
+   </p>
+   <p>
+    A sláger népszerűségének titka azonban nem kizárólag melankolikus dallamában és szövegében rejlett. Miután nyomtatásba került a kotta (Seress egyébként soha nem tanult meg kottát olvasni), egyre több öngyilkosság helyszínén találták meg azt, a sajtó pedig felkapta a sztorit, a 8 Órai Újsággal az élen, a „gyilkos sláger” híre messze szállt.
+   </p>
+   <p>
+    Nem bizonyított tény, mindenesetre a rejtélyes „gyilkos dal” koncepciójánál sokkalta valószerűbb megoldása lehet a szuicid misztériumnak az, hogy a kottákat maga Jávor László helyezte el a holttestek mellet.
+   </p>
+   <p>
+    Jávor a 8 Órai Újság rendőri riportereként dolgozott akkoriban, tehát hamar értesülhetett a halálesetekről, és tekintve, hogy a rendőrség az öngyilkosságok helyszíneihez nem túl sietősen vonult ki, bőven meg is előzhette őket. Az 1920-as években Jávort egyébként többször is beperelték, általában sajtó útján elkövetett rágalmazás vétsége miatt. Ez persze nem bizonyítja, hogy szenzációhajhász, ízléstelen gerillamarketinges kampányba fogott volna művének népszerűsítése érdekében, mindenesetre nem is növeli az újságíró renoméját.
+   </p>
+   <p>
+    Az öngyilkosságok kellékévé vált kotta mellett növelték a sláger népszerűségét azok a nem bizonyított híresztelések is, amelyek szerint a dal miatt a világon végigsöprő öngyilkossági hullám nyomán sok országban betiltották azt.
+   </p>
+   <p rend="head">
+    Magyarországon persze valóban betiltották, de csak Rákosi idején, mivel a Horthy-korszak „polgári-burzsoáziájának dekadens világához” tartozott.
+   </p>
+   <p>
+    A Ray Charles, Louis Armstrong és Frank Sinatra által is feldolgozott dal 1945-re 370 ezer dollárt hozott Seressnek jogdíjakban, ám ezt a pénzt sosem kapta meg. Amíg Nyugaton rendkívül népszerű volt a zeneszerző, itthon a zsidótörvények visszavonulásra kényszerítették, majd később munkaszolgálatra kötelezték. Seress Rezsőt végül a
+    <hi>
+     Szomorú vasárnap
+    </hi>
+    mentette meg: pontosabban három és fél év munkaszolgálat után egy német katonatiszt, aki korábban látta őt Budapesten zongorázni.
+   </p>
+   <p>
+    Az államszocializmus alatt slágerei indexen voltak, rajongótábora egyre fogyott, anyagilag is nehéz helyzetbe került. A világhírű zeneszerző elzárkózott a külvilág elől, depresszióba esett, és hetvennyolc éves korában, lakásának ablakából kiugorva öngyilkosságot kísérelt meg. Az esést ugyan túlélte, viszont utána a MÁV Kórházba került, ahol 1968. január 11-én gipsze drótjával megfojtotta magát.
+   </p>
+   <p>
+    Seress Rezső munkássága, élete és halála akarva-akaratlanul is összefonódott az öngyilkossággal, ezért születésének 128. évfordulója nagyszerű alkalom arra, hogy szót ejtsünk a problémáról. Mert hogy problémáról beszélhetünk, afelől semmi kétség.
+   </p>
+   <p>
+    Az Egészségügyi Világszervezet (WHO) szerint a kontinensen
+    a hatodik legtöbb öngyilkosság Magyarországon történik
+    . Ugyan javult a helyzet
+    a korábbiakhoz képest
+    , viszont prevenciós nemzetstratégia és országos mentálhigiénés programok hiányában nehéz lesz kikerülni ebből az élvonalból, amelyhez egyetlen ország sem akar tartozni.
+   </p>
+   <p>
+    Nehézséget jelent, hogy az öngyilkosok körében felülreprezentáltak azok, akik depresszióval küzdenek. Több, mint felük egyáltalán nem jut el szakemberhez problémájával. Ez részben annak tudható be, hogy az idegrendszeri és mentális zavarokkal küzdőket közvetlen környezetük, családjuk, barátaik sem ösztönzik általában arra, hogy forduljanak szakértőhöz. Sőt, az se ritka, hogy nem hogy nem ösztönzik őket, de még komolyan sem veszik problémájukat.
+   </p>
+   <p>
+    A társadalom közömbössége ellen pedig tenni kell, és ebben a sajtónak óriási felelőssége van, főleg, hogy a teljes európai lakosság 38 százaléka küzd hasonló problémákkal.
+   </p>
+   <p>
+    Ha te is úgy érzed, hogy segítségre lenne szükséged, hívd a krízishelyzetben lévőknek rendszeresített, ingyenesen hívható 116-123-as, 116-111-es, vagy 06-80/820-111-es telefonszámot!
+   </p>
+   <p>
+    (Forrás:
+    Rubicon
+    ,
+    Urban Legends
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

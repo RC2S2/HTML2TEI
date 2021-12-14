@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Külügyminisztérium szerint semmi különös nincs Gruevszki és az államtitkár találkozójában
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ff24fb0a-e667-56d8-b9f2-67b35d852e44
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A Külügyminisztérium szerint semmi különös nincs Gruevszki és az államtitkár találkozójában
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-06-08T20:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/06/08/a-kulugyminisztreium-helyettes-allamtitkaraval-talalkoztott-gruevszki/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/06/08/a-kulugyminisztreium-helyettes-allamtitkaraval-talalkoztott-gruevszki/
+     </sch:url>
+     <sch:name>
+      A Külügyminisztérium szerint semmi különös nincs Gruevszki és az államtitkár találkozójában
+     </sch:name>
+     <sch:datePublished>
+      2019-06-08T20:51:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Gruevszki
+     </sch:keywords>
+     <sch:keywords>
+      külügy
+     </sch:keywords>
+     <sch:keywords>
+      444
+     </sch:keywords>
+     <sch:keywords>
+      államtitkár
+     </sch:keywords>
+     <sch:keywords>
+      joó istván
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ff24fb0a-e667-56d8-b9f2-67b35d852e44">
+     <sch:identifier>
+      urn:uuid:53418ae7-4c95-4734-becb-7ec88dbf0f81
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:45.625805
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:38:18.321299
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ff24fb0a-e667-56d8-b9f2-67b35d852e44" when="2021-12-14T15:30:45.625805">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A Külügyminisztérium szerint semmi különös nincs Gruevszki és az államtitkár találkozójában
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A 444 írta meg, hogy a héten épp a szerkesztőségük előtt futottak össze Nikola Gruevszki volt macedón elnökkel, az újságírók kérdéseire azonban nem válaszolt. Gruevszki körülbelül egy órán át tartózkodott egy Margit körúti lakásban, majd két férfi társaságában jött ki onnan.
+   </p>
+   <p>
+    Egyikőjük elkísérte az autójához, a másik viszont amikor meglátta az újságírókat, visszaszaladt. Miután Gruevszki elhagyta a helyszínt, a titokzatos harmadik férfi újra megpróbált kijönni a lakásból, ekkor azonban ismét a 444 újságíróival szemben találta megát, akik próbáltak neki magyarul és angolul is kérdéseket feltenni, de semmire sem reagált.
+   </p>
+   <p>
+    A történet itt nem ér véget,
+    a lap ugyanis kiderítette
+    , kivel találkozott Gruevszki. A férfit a kezében lévő jegyzetfüzet buktatta le, amin egy „Budapest Water Summit 2016” feliratú logó volt látható.
+   </p>
+   <p rend="head">
+    Erre az eseményre rákeresve az ott készült képeken meglátták a férfit, a rendezvény honalpjáról pedig kiderült, hogy ő Joó István, a Külügyminisztérium export növeléséért felelős helyettes államtitkára.
+   </p>
+   <p>
+    Gruevszki pénteken délután egy Budapest Business Party nevű üzleti rendezvényen vett részt a két férfival, így a 444 szerint nem életszerűtlen, hogy esetleg erről beszéltek előtte a helyettes államtitkárral.
+   </p>
+   <p>
+    További érdekesség, hogy a lakás, ahol Gruevszki a helyettes államtitkárral találkozott, korábban Airbnb-ként működött, de már több mint egy éve nem lakik benne senki.
+   </p>
+   <p rend="head">
+    A földhivatali adatok szerint az ingatlan két kínai állampolgár tulajdona, egyiküket, Wang Z-t a magyar letelepedési kötvényprogram ügyfeleként jelölték meg tavaly év elején a 444-nek és a Direkt36-nak eljuttatott, feladó nélküli levélben.
+   </p>
+   <p>
+    A nemzetbiztonsági zsargonban K-lakásnak vagy konspirált lakásnak nevezik az olyan ingatlanokat, ahol a péntekihez hasonló találkozók történhetnek. A rendszerváltás előtti definíció szerint
+   </p>
+   <p>
+    „a K-lakás az állambiztonsági szervek fedés alatt működtetett bérleménye, amelyet hálózati személyek, SZT-állományú tisztek fogadására, operatív akciók lebonyolítására, ellenséges objektumok, személyek időszakos megfigyelésére használnak”
+   </p>
+   <p>
+    –
+    írja a lap
+    .
+   </p>
+   <p>
+    Vélhetően Gruevszki előélete miatt nem akartak nyilvános helyen találkozni a helyettes államtitkárral, azt azonban láthatóan nem vették számításba, hogy pont egy szerkesztőség irodája melletti lakásba sikerült szervezni a találkozót. Ettől függetlenül jól szervezett akcióra utal, hogy Gruevszkit a Margit körúti épület előtt egy német rendszámú terepjáró várta benne sofőrrel, akinek a vállán valamilyen heveder volt átvetve, amivel fegyvertartásra is alkalmas táskákat lehet rögzíteni civilben. Az autó ablakán látható egy matrica is, ami egy műholdas távfelügyeleti rendszer jelzése.
+   </p>
+   <p>
+    A 444 megkérdezte a Külügyminisztréiumot arról,
+   </p>
+   <list>
+    <item>
+     hogy pontosan miért találkozott a helyettes államtitkár a volt macedón miniszterelnökkel,
+    </item>
+    <item>
+     milyen gyakran találkoznak Gruevszkivel a magyar kormány képviselői, és milyen témák kerülnek ilyenkor szóba,
+    </item>
+    <item>
+     hogy nem éreznek-e ellentmondást a kormány korábbi álláspontja, mely szerint Gruevszki ügyében nem játszik szerepet a politika, és a tény között, hogy egy magas rangú kormányzati tisztviselő találkozik vele egy körúti lakásban,
+    </item>
+    <item>
+     és hogy miért, pontosan milyen jogcímen és mire használja a magyar kormány a körúti lakást, és hogy hogyan kerültek kapcsolatba a lakás kínai tulajdonosaival.
+    </item>
+   </list>
+   <p>
+    Amint érekzik válasz a kérdésekre, megírjuk!
+   </p>
+   <p>
+    <hi>
+     <hi rend="bold">
+      Frissítés 23:15
+     </hi>
+    </hi>
+   </p>
+   <p>
+    A Külügyminisztérium egyetlen mondatban
+    válaszolt
+    a 444.hu kérdéseire:
+   </p>
+   <p>
+    „Semmi különös nincs abban, hogy a Külügyminisztérium kapcsolatban van egy hazánkban tartózkodó személlyel, aki sokáig saját hazája miniszterelnöke volt.”
+   </p>
+   <p>
+    Nikola Gruevszki
+    Magyarországra juttatásával mi is foglalkoztunk a Mércén. Mint emlékezetes, a volt észak-macedón kormányfő 2018 novemberében
+    magyar diplomaták segítségével
+    szökött Magyarországra, miután egy, miniszterelnöksége alatt elkövetett korrupciós bűncselekmény miatt jogerősen börtönbüntetésre ítélték hazájában.
+   </p>
+   <p>
+    Útközben, a tiranai nagykövetségen menedékjog iránti kérelmet nyújtott be, ezután Montenegróba, majd Szerbiába utazott, ahonnan gépkocsival Budapestre érkezett. Ezt követően Gruevszki példátlan gyorsasággal
+    meg is kapta a menekültstátuszt
+    , amelyet ráadásul nem is a tranzitzónában kellett kivárnia.
+   </p>
+   <p>
+    Macedónia 2018. november 15-én nemzetközi körözést adott ki Gruevszki ellen és
+    kiadatását
+    kérte Magyarországtól.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A fagyhalált halt emberekről emlékeztek meg a Kossuth téren
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     40491903-8d0b-5056-ae35-42d83aec8f84
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A fagyhalált halt emberekről emlékeztek meg a Kossuth téren
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-01-27T20:51:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/01/27/a-fagyhalalban-elhunyt-emberekrol-emlekeztek-meg-a-kossuth-teren/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/01/27/a-fagyhalalban-elhunyt-emberekrol-emlekeztek-meg-a-kossuth-teren/
+     </sch:url>
+     <sch:name>
+      A fagyhalált halt emberekről emlékeztek meg a Kossuth téren
+     </sch:name>
+     <sch:datePublished>
+      2020-01-27T20:51:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      szegénység
+     </sch:keywords>
+     <sch:keywords>
+      hajléktalanság
+     </sch:keywords>
+     <sch:keywords>
+      fagyhalál
+     </sch:keywords>
+     <sch:keywords>
+      megemlékezés
+     </sch:keywords>
+     <sch:keywords>
+      szociális fórum
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="40491903-8d0b-5056-ae35-42d83aec8f84">
+     <sch:identifier>
+      urn:uuid:31edc66a-9834-4f16-928d-c107d05ce09c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.643908
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:58:34.682329
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="40491903-8d0b-5056-ae35-42d83aec8f84" when="2021-12-14T15:30:41.643908">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A fagyhalált halt emberekről emlékeztek meg a Kossuth téren
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    A Magyar Szociális Fórum adatgyűjtése szerint szeptember végétől január 15-éig 95 ember fagyott meg Magyarországon – 60 százalékuk saját fűtetlen lakásában. A szervezet ma délután a Kossuth téren emlékezett meg a fagyhalálban elhunyt embertársainkról, ahol Simó Endre, az MSZF elnöke arról beszélt, csupán politikai akarat kérdése, hogy a hajléktalan emberek lakhatáshoz, a rászorulók pedig szociális támogatáshoz jussanak.
+   </p>
+   <p>
+    Szerinte a kormány életek árán is folytatja szegényellenes politikáját: úgy gondolják, hogy ha nem látják őket, akkor a probléma meg is szűnt.
+   </p>
+   <p>
+    „Csak akarni kellene, de ez a politika nem akarja, mert ellenérdekelt. Azt mondja, hogy menj be a melegedőbe, és akkor nem fogsz megfagyni.”
+   </p>
+   <p>
+    – mondta Simó, aki szerint annak a kormánynak mennie kell, amelyik nem tudja megvédeni az emberi életeket.
+   </p>
+   <p>
+    A szállókkal kapcsolatban arról beszélt, sokan be se akarnak menni, mert embertelen körülmények uralkodnak, mindeközben tele van a város üresen álló, közművesített állami épületekkel.
+   </p>
+   <p>
+    Mi is többször írtunk arról, milyen következményekkel jár a hajléktalanság büntetése:  sokan kiszorulnak a városból, kalyibákba, sátrakba költöznek a városszéli erdőkbe, ahol eltűnnek a szociális munkások látóteréből is, így segítséghez is nehezen férhetnek hozzá. Simó szerint a kormánynak hozzá kell segítenie az embereket ahhoz, hogy boldoguljanak, nem pedig bizonytalanságba, majd végső soron a fagyhalálba taszítania őket.
+   </p>
+   <p>
+    Ahogy az idei fűtési szezonban, most is az áldozatok több mint fele saját fűtetlen lakásában fagyott meg. Mivel a szociális háló képtelen megfelelő segítséget nyújtani minden idős, magányos, beteg embereknek, magunknak is fokozottan oda kell hogy figyelnünk a körülöttünk élőkre: egy tál meleg étel, egy kis segítség a tűzifa felaprításában is sokat segíthet.
+   </p>
+   <p>
+    Emellett fontos azt is tudni, mit tehetünk a hajléktalan emberekért: a Mércénél az A Város Mindenkié (AVM) és a tatabányai Utcai Segítők Szociális Egyesülete (USZSE) segítségével nemrég összeszedtük, mit tehetnek az önkormányzatok és mit a civilek, ha hajléktalan embertársainkon szeretnének segíteni –  a
+    teljes cikk itt olvasható
+    .
+   </p>
+   <p>
+    Jelenleg a Magyar Szociális Fórum az egyetlen szervezet, amely információkat szolgáltat a kihűlés okozta halálesetekről, mivel a rendőrség 2017 óta nem közöl erről adatokat, és a Belügyminisztérium – azon belül is Rétvári Bence államtitkár – pedig 2016 óta nem válaszol az ezzel kapcsolatos kérdésekre. Az A Város Mindenkié emiatt beperelte a rendőrséget, ám azt a választ kapták, hogy a a rendőr-főkapitányságnak fogalma sincs arról, hogy az egyes rendőrkapitányságok milyen kihűléssel kapcsolatos ügyekben járnak el, így azokról nem is tudnak összesített adatokat küldeni. Az MSZF vezetője, Simó András azt nyilatkozta: egy ideje az államapparátustól szerzik az adataikat, ám arra nem tért ki, hogy pontosan milyen ágtól.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Parasztságból a magyar kormány jobban teljesít – 2016 legfelháborítóbb mondatai
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     64c51ff0-0a37-5957-a44b-72e286f826d9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Parasztságból a magyar kormány jobban teljesít – 2016 legfelháborítóbb mondatai
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2016-12-30T10:48:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2016/12/30/parasztsagbol_a_magyar_kormany_jobban_teljesit_2016_legfelhaboritobb_mondatai/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2016/12/30/parasztsagbol_a_magyar_kormany_jobban_teljesit_2016_legfelhaboritobb_mondatai/
+     </sch:url>
+     <sch:name>
+      Parasztságból a magyar kormány jobban teljesít – 2016 legfelháborítóbb mondatai
+     </sch:name>
+     <sch:datePublished>
+      2016-12-30T10:48:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      korrupció
+     </sch:keywords>
+     <sch:keywords>
+      népszavazás
+     </sch:keywords>
+     <sch:keywords>
+      szexizmus
+     </sch:keywords>
+     <sch:keywords>
+      népszabadság
+     </sch:keywords>
+     <sch:keywords>
+      lázár_jános
+     </sch:keywords>
+     <sch:keywords>
+      Rogán
+     </sch:keywords>
+     <sch:keywords>
+      kósa_lajos
+     </sch:keywords>
+     <sch:keywords>
+      kockás_ing
+     </sch:keywords>
+     <sch:keywords>
+      2016
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="64c51ff0-0a37-5957-a44b-72e286f826d9">
+     <sch:identifier>
+      urn:uuid:d12501f1-52cb-433c-9b1f-09682077b6c7
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:27.291493
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:26:50.447816
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="64c51ff0-0a37-5957-a44b-72e286f826d9" when="2021-12-14T15:30:27.291493">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Parasztságból a magyar kormány jobban teljesít – 2016 legfelháborítóbb mondatai
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Szavakban gazdag év volt 2016 is. Politikusaink időnként elvesztették az agyuk és szájuk közti kapcsolatot, minek köszönhetően majd minden hónapra jutott egy-két felháborító kiszólás, vagy jól kiszámított fenyegetés.
+   </p>
+   <p>
+    (Fotó: MTI / Koszticsák Szilárd)
+   </p>
+   <p>
+    Sorrendet persze kéne állítani egy ilyen év végi összegzésnél, de őszintén szólva nem nagyon lehet. Voltak kis elhajlások, voltak nagyobb botrányok, voltak zsigeri undort kiváltó megmozdulások idén is szép számmal – de az mindben közös, hogy olyan pökhendi, gőgös, nemtörődöm képet festenek a kormányról és holdudvaráról, amelyből csak úgy süt a „tök mindegy, mit mondok, úgy sem tehettek ellene semmit” mentalitás. És ez egyébként így is van – sajnos.
+   </p>
+   <p>
+    Az idei közbeszédet viszonylag sok dolog tematizálta (például a korrupció, az olimpia, népszavazás, a sajtószabadság lerombolása, tanártüntetések, hogy csak néhányat mondjunk), és a rájuk adott reakciókból tisztán kiviláglik az is, milyen Magyarországot képzel el a jelenlegi kormány.
+   </p>
+   <p>
+    Például nőgyűlölőt – csak hogy egy egészen konkrét példával kezdjük.
+   </p>
+   <p>
+    „Vén kurvázott”
+    a szolnoki polgármester a közgyűlésen, Friderikusz Sándor pedig (az egyre erősebben kormányközelivé avanzsáló, de akkor ezt még leplező ATV-n) „ifjúkori hevületben” elkövetett „botlásnak” titulálta
+    Kiss László botrányát
+    , amikor kiderült, hogy évtizedekkel ezelőtt, aktív sportolóként többedmagával megerőszakolt egy lányt.
+   </p>
+   <p>
+    És mégsem ezek voltak az év legszexistább beszólásai. Egészen decemberig úgy tűnt, hogy Kósa Lajos mászta meg az alpári parasztság Csomolungmáját, amikor szintén
+    a Kiss László-ügyre reagálva
+    azzal védte a védhetetlent, hogy a sportra más szabályok érvényesek, mint a való életre.
+   </p>
+   <p rend="head">
+    „Bármilyen esetben, ha ön egy földön fekvő emberbe belerúg, akkor a rendőrség letartóztatja könnyű testi sértésért minimum. De egy labdarúgó meccsen, adott esetben ezért lehet, hogy még szabadrúgás sem jár” – mondta egész pontosan.
+   </p>
+   <p>
+    De aztán jött az évi egyszeri, decemberben tartott közmeghallgatás a Józsefvárosban, ahol Kocsis Máté, a kerület ura egy kérdésre a következőt
+    bírta kinyögni
+    :
+   </p>
+   <p rend="head">
+    „Én nagy becsben és tiszteletben tartom kedves és fiatal hölgyek aggódását a szociális ügyekért, csak a világ, egy önkormányzat működése és egy konkrét helyzet is bonyolultabb annál, minthogy egyébként roppant szimpatikus emberek, kedves hölgyek feltegyenek olyan kérdéseket, hogy mi lesz a szegény emberekkel.”
+   </p>
+   <p>
+    A világ, az önkormányzat és a szegénység ügyeibe ezek szerint fiatal hölgyeknek nincs beleszólása, legalábbis Kocsis szerint. Erre tényleg nehéz mit mondani…
+   </p>
+   <p>
+    Azért ne féltsük Kósát se, volt neki még néhány emlékezetesen elképesztő megmozdulása, amiből még jobban kirajzolódik a Fidesz Magyarország-képe. Többek közt képes volt
+    Hitler lapjához hasonlítania
+    az ocsmány módon kivégzett Népszabadságot:
+   </p>
+   <p rend="head">
+    „[…] a Népszabadság épp olyan állampárti napilap volt, képviselve a kommunista ideológiát, a pártot annak minden tettét, mint a Völkischer Beobachter.”
+   </p>
+   <p>
+    Megmutatva ezzel, hogy fikarcnyit sem érdekli őket, van-e még sajtószabadság ebben az országban, vagy nincs. Aztán
+    dadogva sem sikerült
+    kimagyaráznia az elbukott népszavazást („A perdöntő az, hogy érvényes… ööö” – nagyjából ennyire sikerült felfognia az eredményeket), remekül reprezentálva a kormánypárti álláspontot, miszerint amúgy is tökmindegy az eredmény, a lényeg, hogy elkölthettek egy csomó pénzt és gyűlöletet szítottak a magyar lakosságban, hogy azt saját hasznukra, vagyis népszerűségük növelésére fordítsák. És Kósa még itt sem állt meg, nagyot rúgott a szegényekbe is, akik szerinte nem hogy alapjövedelemre nem érdemesek, de valójában ingyenélők, akik az államot szipolyozzák. Egész pontosan
+    így fogalmazott
+    :
+   </p>
+   <p rend="head">
+    „Ez abból a tőből fakad, hogy legyen minden ingyen: a sör, a pálinka, legyen minden ingyen, és ne is kelljen dolgozni semmit se. Sőt, még annál is kevesebbet.”
+   </p>
+   <p>
+    Mi sem bizonyíthatja jobban ezeknél a mondatoknál, hogy mennyire nem érdekli ma a kormányt az, hogyan él a társadalom jelentős része, mintegy 4 millió ember a szegénységi küszöb környékén, vagy jóval alatta.
+   </p>
+   <p>
+    És nem csak Kósa rúgott a szegényekbe, amikor csak tehette, megtette ezt Nyitrai Imre is, aki a kormány „szociálpolitikáért felelős helyettes államtitkárának” szerepében tetszeleg. S eme tisztes posztján állva
+    nem átallotta közölni
+    :
+   </p>
+   <p rend="head">
+    „a számok azt mutatják, hogy kialakult egy viszonylag fix és stabil, kevéssé változó számú, folyamatosan utcán élő, utcán élni kívánó személy”.
+   </p>
+   <p>
+    És nem állt meg ott, hogy a hajléktalanságot egyfajta úri passzióként írta le, végső csapásként (és egyben orbitális hazugságként) még kimentette magát és kormányát is a felelősség alól, mivel szerinte
+   </p>
+   <p rend="head">
+    „ma Magyarországon nem kellene az utcán élni, hiszen Magyarország képes mindenkinek a lakhatását biztosítani”.
+   </p>
+   <p>
+    Tessék, itt zárul be a kör, hiszen Nyitrai szavai ugyan köszönőviszonyban sincsenek a valósággal, mégis kriminalizálnak egy rettentően kiszolgáltatott társadalmi réteget, nyomokban sem mutatva semmilyen szolidaritást.
+   </p>
+   <p>
+    Van az ugyanis máshol, ahol nagyobb szükség van rá.
+   </p>
+   <p rend="head">
+    „Gyerekkorában Bayer Zsolt mellettem ült az iskolapadban. Mellettem fog állni halálos ágyamnál is. Én Bayer Zsoltot sosem fogom megtagadni.”
+   </p>
+   <p>
+    Így tett hősies barátságáról
+    tanúbizonyságot
+    Semjén Zsolt. Igaz, hogy 111-en adták vissza lovagkeresztjüket azért, mert Bayer megkapta a sajátját, de az őt felterjesztő Semjén ebben semmi kifogásolnivalót nem talált, inkább megmutatta, mennyire nem érdekli sem őt, sem senki mást a környezetében az, hogy gyomorforgatónak találja-e a közvélemény a tevékenységüket. Ha akarnak valamit, azt véghez is viszik – nagyjából ennyiről szól Semjén mondata. Bár ne hallottuk volna…
+   </p>
+   <p>
+    Ha Semjénnek és társainak jobb lett volna, ha csöndben maradnak, gondoljunk egy kicsit Rogán Antalra is, aki viszont hiába lett luxustáskát lóbáló propagandaminisztere a kormánynak, sorozatos botrányai miatt úgy eldugták, hogy nagyítóval is csak akkor lehet megtalálni, ha valaki az égen helikoptereket keres. Nem is nagyon engedték idén mikrofon-közelbe, ha mégis, akkor is csak
+    annyit bírt kinyögni
+    , hogy a helikopterezés után nem hazudott, és még aznap nyilvánosságra hozta a kért információkat (igaz, vagy háromféle verzióban, vagyis valamikor azért csak hazudott is közben…). Rogán csúnya ügyei, illetve az, hogy ezeknek semmi következményük nincs, remekül mutatják meg nekünk, milyen következmények nélküli országgá sikerült változtatnia 6 év alatt a Fidesznek Magyarországot. Olyan hellyé, ahol a korrupciónak nincs retorziója, ahol az igazságszolgáltatás hamarabb csap le egy kakaós csiga-tolvajra, mint egy közpénzt herdáló miniszterre (és akkor Matolcsy Györgyöt és az ő alapítványait, ahol a
+    közpénz elvesztette idén közpénz jellegét
+    , már meg se említsük…).
+   </p>
+   <p>
+    De mivel Rogán a propagandaminiszter, azért hozzá is köthetőek felháborító mondatok: neki köszönhető ugyanis a Magyarországot nyárra elborító, gyűlöletkeltő plakátkampány, ami a népszavazás előtt a tömeget hergelni volt hivatott. A kampány több mint 10 milliárd adóforintot emésztett fel,
+    tele volt hazugságokkal
+    (Tudta? A bevándorlási válság kezdete óta ugrásszerűen emelkedik a nők elleni zaklatások száma Európában – és társai), ráadásul túl is volt tolva, sokan még fideszes berkeken belül is őt okolták a népszavazás bebukásáért. Azt viszont ne bocsássuk meg Rogánnak (sok más bűne között), hogy az hónapokig tolták le a torkunkon ezt a szemetet.
+   </p>
+   <p>
+    Igazán nagyot viszont idén (is) Lázár János mehetett, aki a KormányInfón hősiesen próbálta hétről hétre azt a látszatot kelteni, hogy valójában a kormány kész válaszolni a feltett kérdésekre.
+   </p>
+   <p>
+    Az egy dolog, hogy már
+    előre próbálta védeni
+    Rogán nem létező becsületét, nem is akárhogy:
+   </p>
+   <p rend="head">
+    „Arra kell majd felkészülni, hogy kormánypárti politikusok korrupciós ügyekbe fognak még keveredni. De csak azért, mert a kormánypárti korrupció pusztán az ellenzék „politikai terméke” lesz”
+   </p>
+   <p>
+    De emellett rá hárult főként a népszavazási bukta
+    megmagyarázása
+    éppúgy, mint ahogy neki
+    kellett bejelentenie
+    a közszférára lecsapó bürokrácia-csökkentő programot is, ami tízezrektől veszi el majd a munkát.
+   </p>
+   <p>
+    Lázár viszont, mint a kormány felkent szócsöve, tökéletesen példázza, hogyan is kommunikál a vezetőség. Íme egy egyszerű példa: amikor elkezdődtek a tanártüntetések, tavaly decemberben még vicceskedni próbált, és
+    azt üzente
+    , hogy „nem a farok csóválja a kutyát”. Aztán idén már egy fokkal erősebb üzemre váltott, és
+    azzal fenyegetőzött
+    , hogy a bürokráciacsökkentés jegyében akár a pedagógusoknak is lesz félnivalójuk. Majd előhúzta a
+    béremelés-kártyát,
+    mondván, hogy úgyis több a fizetés, nem kell itt hőzöngeni (ami mindig jó érv a társadalom felé, ha valamilyen problémát el kell fedni).
+   </p>
+   <p>
+    Az év legfelháborítóbb mondatainak egyike ugyan nem Lázárhoz, de a tanártüntetésekhez köthető. „Olyan pedagógusokra van szükség, akik okosak, erkölcsösek, és ezeket az értékeket adják át a diákoknak. Ezért vagyok pipa, ha a tévében nézem, hogy borotválatlan, kócos, kockás inges tanári kar grasszál” –
+    mondta még
+    februárban Klinghammer István volt felsőoktatási államtitkár. Mondjuk annyiból még akár szerencsésnek is tekinthető ez a mondat, hogy szimbóluma lett az oktatási kormányzat elleni fellángolásnak a kockás ing, majd a kockás esernyő – utalva a tüntetések idején üzembiztosan szakadó esőre -, de emellett jól példázza azt is, hogyan gondol ma egy kormányzati szereplő a közszférában dolgozókra, illetve még inkább azokra, akik nap mint nap az iskolákban igyekeznek az áldatlan állapotok ellenére is tanítani.
+   </p>
+   <p>
+    Kemény szavakat
+    használt Lázár a nyáron, amikor a soron következő tüntetés után közölte, a diákok romló teljesítményéért a tanárok felelősek. És végül, amikor december elején kijöttek a botrányos PISA-eredmények, már egyértelműen a pedagógusokra
+    hárította a felelősséget
+    .
+   </p>
+   <p rend="head">
+    „Balog Zoltánnak mennie kellene?! Ne vicceljen! Nem ő tartotta a matekórát. A felmérés eredményeit nem lehet a kormány tagjain számon kérni, nem ők tanítottak és nem ők tanultak.”
+   </p>
+   <p>
+    Hát így. Nagyjából amúgy ez a véleménye a magyar kormánynak minden problémáról. Nem ők tartják a matek órákat, nem ők műtik a betegeket sem, nem ők élnek az utcán, nem ők nem találnak munkát, és így tovább. Lázár a tökéletes példa arra, hogyan kommunikál ma a magyar kormány. Megfélemlít, hazugságokkal ámít, majd terel. És teszi mindezt úgy, hogy mindeközben egyáltalán nem érdekli, hogy mi történik „odakint”, a nagy magyar valóságban. Mert szavakból is fel lehet építeni egy országot, ha ezeknek a szavaknak kötött helyük van, és nincs más felület, amire rá lehet még firkálni az igazságot.
+   </p>
+   <p>
+    Csak hogy egy
+    végső példát
+    mondjak erre:
+   </p>
+   <p rend="head">
+    „… mi kikértük az emberek véleményét, bár nem érdekelt minket”.
+   </p>
+   <p>
+    Az idézet első fele Orbán Viktor szájából hangzott el. A második felét pedig valaki beillesztette a Pannon Lapok minden megyei fiókjába felülről leküldött karácsonyi interjúba a Fejér Megyei Hírlapnál. A mondat első fele legalábbis álszent csúsztatás a népszavazás tükrében, amelynek irányított kérdései még csak leplezni sem kívánták, hogy befolyásolni akarják az ember véleményét (és akkor az előzetesen küldött levelekről, a plakátcunamiról és a reklámblokkokba beszuszakolt kisfilmekről még nem is beszéltünk). A második fele viszont színtiszta igazság. Hiszen nem érdekelte a kormányt, hogy érvénytelen a népszavazás, nem érdekelte őket, hogy Magyarország nem vevő a gyűlöletre. Szóval a mondat első fele és második fele közt minőségi különbség van. A betoldott mondatok miatt már 5 embert kirúgtak a Fejér Megyei Hírlaptól. Orbán Viktort viszont még senki sem rúgta ki. Érdekes.
+   </p>
+   <p>
+    Ez a cikk a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Kettős Mércét nem támogatják oligarchák. Mi úgy őrizzük meg függetlenségünket, hogy a csak az olvasók támogatásából írjuk cikkeinket.
+    Célunk, hogy a társadalom számára fontos kérdésekről beszéljünk: az egyenlőtlenségekről, a szegénységről, az egészségügyről, az oktatásról, a nők jogairól, és hogy támogassuk azokat az alulról jövő kezdeményezéseket, amelyek egy igazságosabb Magyarországért küzdenek!
+    A Kettős Mérce fennmaradásához és fejlődéséhez
+    <hi rend="bold">
+     1000 állandó támogatóra van szükségünk.
+    </hi>
+    <hi rend="bold">
+     Jelenleg 356 állandó támogatónk van.
+    </hi>
+    Legyél te az egyik a hiányzó támogatók közül,
+    támogass minket
+    havi 1000, 2000, 5000 vagy 10000 forinttal, vagy egyszeri átutalással, és járulj hozzá ezzel a független sajtó fennmaradásához Magyarországon!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     „Elegünk van a mocskos Fideszből!”
+    </title>
+    <author>
+     <persName>
+      Kálmán Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8fe076ed-8b42-5567-8b30-17b4be85a35b
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      „Elegünk van a mocskos Fideszből!”
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kálmán Attila
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-04-10T08:42:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/04/10/_elegunk_van_a_mocskos_fideszbol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/04/10/_elegunk_van_a_mocskos_fideszbol/
+     </sch:url>
+     <sch:name>
+      „Elegünk van a mocskos Fideszből!”
+     </sch:name>
+     <sch:datePublished>
+      2017-04-10T08:42:00
+     </sch:datePublished>
+     <sch:author>
+      Kálmán Attila
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      CEU
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8fe076ed-8b42-5567-8b30-17b4be85a35b">
+     <sch:identifier>
+      urn:uuid:9adc70ae-9596-465c-8811-a763ef64330c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:31.920699
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:29:36.111518
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8fe076ed-8b42-5567-8b30-17b4be85a35b" when="2021-12-14T15:30:31.920699">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    „Elegünk van a mocskos Fideszből!”
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    A CEU ügye fontos, de itt már sokkal többről van szó. Vasárnap már nem akadémiai szabadságot követeltek a tüntetők és az örökzöld „szabad ország, szabad egyetem” is szórványosabban szólt. 70-80 ezer ember nem azért dugította be a belvárost, mert annyira érdekelné őket egy magánegyetem sorsa. Ez már az egész Orbán-rendszerről szól.
+   </p>
+   <p>
+    A tömeg egy része a Kossuth téren.
+   </p>
+   <p rend="head">
+    „Elegünk van!”
+   </p>
+   <p rend="head">
+    „Mocskos Fidesz!”
+   </p>
+   <p rend="head">
+    „Rogán Anti lop!’ (Rogán antilop)
+   </p>
+   <p rend="head">
+    „Ez a konzultáció!”
+   </p>
+   <p rend="head">
+    „Orbán, Lázár, Habony, undorító takony!”
+   </p>
+   <p rend="head">
+    „Ruszkik haza!”
+   </p>
+   <p>
+    Ezek zúgtak egyszerre több ezer torokból. Elemi erővel tört ki az elégedetlenség az eddig rezignált emberekből, akiknek csak egy szikra kellett (ez volt a CEU-ügy), valami kapaszkodó és a következő pillanatban már kilométeres hosszúságban foglalták el a Nagykörutat.
+   </p>
+   <p>
+    Lehet más nem köti össze a vasárnapi tüntetőket, mint hogy elegük van, de az majd legyen azoknak a pártoknak a baja, akik maguk mögé akarják őket állítani. Most ez az „ELÉG VOLT!” bőven elég:
+   </p>
+   <p rend="head">
+    70-80 ezer ember élhette meg egyszerre, hogy nincs egyedül. Nincs egyedül a rossz közérzetével. Nem csak őt fojtogatja az ország egyre nyomasztóbb légköre. Nem csak ő undorodik a saját zsebét tömő fideszes elittől. Nem csak őt aggasztja, hogy az oroszok seggében vagyunk. És nem csak ő szeretne egy jobb, élhetőbb országot magának és a gyerekeink.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha szerinted is fontos, hogy ezt megírtuk, támogass minket, hogy tovább működhessünk!
+   </p>
+   <p>
+    Innen lehet továbblépni. Láttam, ahogy ki dühösen, ki mosolyogva néz körül és jön rá talán először az utóbbi években, hogy nincs egyedül. Itt van egy nagy közösség, amelyik sok különböző dolgot akar, de abban egyetért, hogy valami mást, mint Orbán illiberális agyréme. És biztosan szívesebben töltenék ezek a tízezrek máshogy a vasárnap délutánjukat, mint hogy rendőrsorfallal nézzenek farkasszemet és legyalogolják a lábukat, de érzik, hogy most kell politizálni. Utolsó pillanatokban vagyunk, ez érződött a tömegen.
+   </p>
+   <p>
+    És nem az a lényeg, hogy bejut-e a tömeg a Parlamentbe, a Fidesz-székházba, vagy bárhová máshova. Ezek a fiatalok (és idősebbek, de most főleg fiatalokat láttam) lelkesek és elkeseredettek egyszerre, de nem fognak komolyan balhézni azért a rohamrendőrökkel, hogy elfoglaljanak valamit. Itt az volt a fontos és a következő tüntetéseken is az lesz az, hogy egyre többen ráébrednek, hogy nem kell egyedül, reménytelenül küzdeni a mindennapokban, hanem együtt, közösen gyalogolhatnak a változás felé.
+   </p>
+   <p rend="head">
+    Sokszor hallani tüntetések végén, hogy „na, megint nem történt semmi!” Itt viszont az volt az alapélmény, hogy valami elindult: itt vagyunk, sokan vagyunk és KURVÁRA ELEGÜNK VAN!
+   </p>
+   <p>
+    Ha erre ismét cinizmus lesz a válasz és Soros-bérencezés, azzal csak tovább szítják a tüzet. De szítsák csak, a következő alkalomra akkor meglesz a 100 ezer ember. És ők nem fogják megunni és nem mennek haza, mert úgy néz ki, már nincs hová hátrálni. Vagy a rendszer megy, vagy ők.
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

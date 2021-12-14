@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Két állítás a Fidesz családpolitikájáról
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     6a25f07f-6b43-5c95-9c1d-10c97fa052a9
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Két állítás a Fidesz családpolitikájáról
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-12-17T07:31:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/12/17/ket-allitas-a-fidesz-csaladpolitikajarol/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/12/17/ket-allitas-a-fidesz-csaladpolitikajarol/
+     </sch:url>
+     <sch:name>
+      Két állítás a Fidesz családpolitikájáról
+     </sch:name>
+     <sch:datePublished>
+      2017-12-17T07:31:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      egyenlőtlenség
+     </sch:keywords>
+     <sch:keywords>
+      család
+     </sch:keywords>
+     <sch:keywords>
+      igazságosság
+     </sch:keywords>
+     <sch:keywords>
+      családpolitika
+     </sch:keywords>
+     <sch:keywords>
+      csok
+     </sch:keywords>
+     <sch:keywords>
+      családi_pótlék
+     </sch:keywords>
+     <sch:keywords>
+      novák
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="6a25f07f-6b43-5c95-9c1d-10c97fa052a9">
+     <sch:identifier>
+      urn:uuid:204b0b92-46b3-45cb-8567-82e9898cb30f
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:26:09.219169
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:39:15.009512
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="6a25f07f-6b43-5c95-9c1d-10c97fa052a9" when="2021-12-14T15:26:09.219169">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Két állítás a Fidesz családpolitikájáról
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    1. „
+    Három olyan intézkedés lép életbe jövőre, amely a nagycsaládosok életét megkönnyíti. Kettő közülük az ingatlanvásárláshoz kötődik, a harmadik pedig adminisztratív enyhítést hoz – közölte Novák Katalin család- és ifjúságügyért felelős államtitkár szombaton Budapesten, az Erkel Színházban.” (MTI)
+   </p>
+   <p>
+    2. „Azokat a családokat, ahol nincs bejelentett munkaviszonnyal rendelkező ember, vagy ahol csak közmunkához jutnak hozzá, tehát ahol a gyerekek a legrosszabb helyzetben vannak, a magyar állam nem kívánja támogatni. A gyerekeik felnövését, az egészségüket, az iskoláztatásukat nem tartja fontosnak.” (Szikra Dorottya, az MTA TK Szociológia Intézetének tudományos főmunkatársa – 444.hu)
+   </p>
+   <p>
+    A kormány szereti azt mondani magáról, hogy családbarát. Hogy támogatja a családokat, hogy támogatja a gyerekvállalást. Ami amúgy üdvözlendő.
+   </p>
+   <p>
+    Lenne. Ha így lenne.
+   </p>
+   <p>
+    A család-diskurzus azt hiteti el velünk, hogy a kormány
+    <hi>
+     minden
+    </hi>
+    családra egyformán figyel,
+    <hi>
+     minden
+    </hi>
+    családot egyformán támogatja. Ez érezhető Novák Katalin államtitkár legújabb, szombati nyilatkozatából is: megkönnyíti
+    <hi>
+     A
+    </hi>
+    nagycsaládosok életét. Minden nagycsaládét.
+   </p>
+   <p>
+    A második idézet, amely Szikra Dorottya
+    444-nek adott interjújából
+    származik, azonban kicsit árnyalja a képet. A kormány családpolitikai intézkedései ugyanis nem minden családra hatnak egyformán. Ezek mindegyike – a családi adókedvezménytől a CSOK-ig – leginkább azoknak kedveznek, akik rendezett munkaviszonnyal rendelkeznek, és ezen belül is legjobb helyzetben lévő emberek kapják a legtöbb pénzt az államtól.
+   </p>
+   <p>
+    (MTI Fotó: Balogh Zoltán)
+   </p>
+   <p>
+    A családpolitikai szakértő 3 család példáján keresztül szemlélteti a helyzetet. Mindhárom család három gyereket nevel, mindháromban van egy 2 évnél fiatalabb gyerek.
+   </p>
+   <list>
+    <item>
+     A munkanélküli család 2009-ben 76.500 forintot kapott az államtól havonta. 2017-ben ugyanennyit (1 GYES + 3 családi pótlék) –
+     <hi rend="bold">
+      változás: 0.
+     </hi>
+    </item>
+    <item>
+     A minimálbéres család 2009-ben 98.050 forintot kapott az államtól havonta (1 GYED + 3 családi pótlék). 2017-ben 178.050-et (1 GYED + 1 családi adókedvezmény + 3 családi pótlék) –
+     <hi rend="bold">
+      változás: 1,8-szoros.
+     </hi>
+    </item>
+    <item>
+     Az átlagbéres család 2009-ben 160.100 forintot kapott az államtól havonta. 2017-ben 325.500-at –
+     <hi rend="bold">
+      változás: 2-szeres.
+     </hi>
+    </item>
+   </list>
+   <p>
+    Tehát ahogy haladunk felfele a jövedelmi létrán, úgy emelkedik az állami támogatás mértéke. Az is látszik, hogy a 2009-es szinthez képest azok járnak a legjobban, akik már amúgy jobb helyzetben voltak, másokhoz viszonyítva. És a fenti modellben még nincs benne a CSOK, amely szintén a biztos jövedelemmel rendelkező, hitelképes családokat támogatja.
+   </p>
+   <p>
+    Novák mai bejelentése is ebbe az irányba mutat, még inkább kedvezményes lesz a CSOK azoknak, akik igénybe tudják venni.
+   </p>
+   <p rend="head">
+    A kormány családpolitikája tehát regresszív: oda ad a legtöbbet, ahol a legtöbb van, és oda a legkevesebbet, ahol a legkevesebb.
+   </p>
+   <p>
+    Szóval minden alkalommal, mikor azt halljuk, hogy valamilyen kormánytisztviselő arról beszél, hogyan támogatják a családokat, jusson eszünkbe: nem A családokat, csak BIZONYOS családokat.
+   </p>
+  </body>
+ </text>
+</TEI>

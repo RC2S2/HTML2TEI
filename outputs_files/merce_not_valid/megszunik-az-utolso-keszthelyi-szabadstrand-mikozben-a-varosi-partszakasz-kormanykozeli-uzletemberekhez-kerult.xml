@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Megszűnik az utolsó keszthelyi szabadstrand, miközben a városi partszakasz kormányközeli üzletemberekhez került
+    </title>
+    <author>
+     <persName>
+      Pap Szilárd István
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     57d0bd51-1a9b-5651-9398-5788ecb22725
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Megszűnik az utolsó keszthelyi szabadstrand, miközben a városi partszakasz kormányközeli üzletemberekhez került
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Pap Szilárd István
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-06-22T13:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/06/22/megszunik-az-utolso-keszthelyi-szabadstrand-mikozben-a-varosi-partszakasz-kormanykozeli-uzletemberekhez-kerult/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/06/22/megszunik-az-utolso-keszthelyi-szabadstrand-mikozben-a-varosi-partszakasz-kormanykozeli-uzletemberekhez-kerult/
+     </sch:url>
+     <sch:name>
+      Megszűnik az utolsó keszthelyi szabadstrand, miközben a városi partszakasz kormányközeli üzletemberekhez került
+     </sch:name>
+     <sch:datePublished>
+      2019-06-22T13:00:00
+     </sch:datePublished>
+     <sch:author>
+      Pap Szilárd István
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      mészáros lőrinc
+     </sch:keywords>
+     <sch:keywords>
+      turizmus
+     </sch:keywords>
+     <sch:keywords>
+      balaton
+     </sch:keywords>
+     <sch:keywords>
+      Tiborcz
+     </sch:keywords>
+     <sch:keywords>
+      privatizáció
+     </sch:keywords>
+     <sch:keywords>
+      Keszthely
+     </sch:keywords>
+     <sch:keywords>
+      közösségi tulajdon
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="57d0bd51-1a9b-5651-9398-5788ecb22725">
+     <sch:identifier>
+      urn:uuid:b62c5798-cf86-4c66-a6b2-ae966381faf2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:46.362971
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:36:54.336113
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="57d0bd51-1a9b-5651-9398-5788ecb22725" when="2021-12-14T15:30:46.362971">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Megszűnik az utolsó keszthelyi szabadstrand, miközben a városi partszakasz kormányközeli üzletemberekhez került
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Nagy Bálint fideszes alpolgármester javaslatára a keszthelyi képviselő-testület nemrégiben döntött a város utolsó szabadstrandjának felszámolásáról. A Népszava szerint a strand helyén egy budapesti vállalkozás „kutyás élményparkot” és piknikkertet hozna létre. A majdnem egy hektáros területet a Sziládi-Kovács Tibor vezette Kutyabarát internetes oldalt működtető
+    cég
+    névleg egymillió forintért kapja meg öt évre, ám a városnak nem kell kifizetnie ezt az összeget, csupán vállalnia kell, hogy ezidő alatt évente 200 ezer forint értékben reklámozza az élményparkot és a város más programjait.
+   </p>
+   <p>
+    Egy ilyen jó pozíciójú telek esetében ez az összeg konkrétan aprópénz, 200 ezer forintért egyetlen AirBnb-n meghirdetett keszthelyi apartmant csak egy hónapig lehetne bérelni, nemhogy egy ekkora telket egy évre.
+   </p>
+   <p>
+    Kovács Viktória önkormányzati képvisel (DK), aki egyedüliként szavazott nemmel a szabadstrand felszámolására, a Népszavának elmondta:
+   </p>
+   <p>
+    „Több szempontból is érthetetlen és felháborító a döntés. A strandot eddig ingyen használhatta bárki, az élménypark viszont fizetős lesz. Az ötletről ráadásul még a helyi kutyás szervezetek sem tudtak. A strand rögtön a balatoni bringakörútról nyílik, és ez volt az egyetlen hely Keszthelyen, ahol a biciklisek meg tudtak állni, volt vizesblokk, s még meg is tudtak mártózni a Balatonban ingyen.”
+   </p>
+   <p>
+    Keszthelyen ezzel megszűnt annak lehetősége, hogy bárki ingyen mártózhasson meg a Balatonban. Az elmúlt években ezzel párhuzamosan a város fennmaradó partszakasza teljes egészében a Fideszhez, főként Mészáros Lőrinchez és Tiborcz Istvánhoz köthető cégek és üzletemberek kezébe került.
+   </p>
+   <p>
+    Keszthelyen a Mészáros Lőrinc érdekeltségébe tartozik a Hotel Helikon, a Zala Kemping és Üdülőfalu, a Balaton Szálló és a Hotel Via. Orbán Viktor veje a keszthelyi vitorláskikötőt kebelezte be pár éve, emellett az ő érdekeltségi körébe tartozik a Hullám Szálló, egy három hektárok kemping és a már lebontott Phoenix Hotel beépíthető telke. Az azóta megszűnt Heti Válasz már 2017-ben
+    arról számolt be
+    , hogy
+   </p>
+   <p>
+    „néhány foghíj kivételével a teljes városi partszakaszt ellenőrzése alá vonta a Mészáros Lőrinc vezette üzleti klub.”
+   </p>
+   <p>
+    Persze Mészároséknak és a fideszes oligarcháknak nemcsak itt, de a Balaton teljes partszakaszán rengeteg érdekeltségük van – ezeket a
+    Magyar Narancs tavaly összegezte
+    -, a 2016-os Balaton-törvénynek köszönhetően pedig a beépítési szabályokkal sem kell már túlzottan törődniük ezeknek az új tulajdonosoknak.
+   </p>
+   <p>
+    A mostani keszthelyi hír tehát csak egy újabb állomása annak a folyamatnak, amelynek során a közösségi javak magánkézbe kerülnek, magánprofit termelése céljából. És nem is akárkinek a profitja nő így, hanem a fideszes gazdasági holdudvar profitja. Ezzel kéz a kézben pedig azok az emberek szorulnak ki, akik nem tudják, vagy nem akarják megfizetni a hirtelen privatizált közösségi terek árát. Miközben a Balaton déli partján azért még találunk szabadstrandokat, az északi part
+    teljesen elesett
+    .
+   </p>
+   <p>
+    Úgy tűnik, a narancstőke végérvényesen kiszorítja az átlagembereket a Balaton-partról.
+   </p>
+  </body>
+ </text>
+</TEI>

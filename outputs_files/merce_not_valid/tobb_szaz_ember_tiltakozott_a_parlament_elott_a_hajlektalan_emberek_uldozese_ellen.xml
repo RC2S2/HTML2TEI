@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Több száz ember tiltakozott a Parlament előtt a hajléktalan emberek üldözése ellen
+    </title>
+    <author>
+     <persName>
+      Udvarhelyi Tessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     e0c89b39-72b1-5ece-b81c-b5bda7a63a6e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Több száz ember tiltakozott a Parlament előtt a hajléktalan emberek üldözése ellen
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Udvarhelyi Tessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2013-09-30T21:26:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://avm.merce.hu/2013/09/30/tobb_szaz_ember_tiltakozott_a_parlament_elott_a_hajlektalan_emberek_uldozese_ellen/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://avm.merce.hu/2013/09/30/tobb_szaz_ember_tiltakozott_a_parlament_elott_a_hajlektalan_emberek_uldozese_ellen/
+     </sch:url>
+     <sch:name>
+      Több száz ember tiltakozott a Parlament előtt a hajléktalan emberek üldözése ellen
+     </sch:name>
+     <sch:datePublished>
+      2013-09-30T21:26:00
+     </sch:datePublished>
+     <sch:author>
+      Udvarhelyi Tessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="e0c89b39-72b1-5ece-b81c-b5bda7a63a6e">
+     <sch:identifier>
+      urn:uuid:6593c0c0-a24a-4230-810f-2bb649e281bf
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:02.895981
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T17:09:35.270360
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="e0c89b39-72b1-5ece-b81c-b5bda7a63a6e" when="2021-12-14T15:31:02.895981">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Több száz ember tiltakozott a Parlament előtt a hajléktalan emberek üldözése ellen
+   </head>
+   <p>
+    Ez a cikk több mint 8 éves.
+   </p>
+   <p>
+    <hi rend="bold">
+     2013. szeptember 30-án A Város Mindenkié (AVM) csoport által szervezett tüntetésen több százan tiltakoztak a szabálysértési törvény módosítása ellen, amely az Alkotmánybíróság 2012 novemberi döntésével szembe menve újra büntetné az életvitelszerű lakhatást közterületen, lehetővé tenné az önkormányzatok számára hajléktalanmentes övezetek kijelölését és új elemként a kunyhóépítést is szabálysértéssé nyilvánítaná.
+    </hi>
+   </p>
+   <p>
+    „Mi, hajléktalan emberek száműzöttek lettünk hazánkban. Száműzöttek, mert megbüntethetnek azért, hogy nincs otthonunk” – mondta beszédében Fekete-Nagy Miklós, aki egyike a ma Magyarország élő 30 ezer hajléktalan embernek. Az AVM aktivistáján kívül felszólalt még Csizi Zsolt, aki megfelelő lakhatási lehetőség híján kénytelen volt kunyhót építeni, hogy megteremtse magának az önálló életvitel lehetőségét. Mint mondta, a felkapaszkodásért tett erőfeszítései „jutalma” most a hajléka elpusztítása és a büntetés lehet.
+   </p>
+   <p>
+    Bende Anna, az AVM szövetséges aktivistája és utcai szociális munkás emlékeztetett, hogy „ha egy nap az összes utcán élő ember úgy döntene, hogy bemegy egy szállóra, bizony nem jutna nekik hely”. Arra is figyelmeztetett, hogy a törvénymódosítás nemcsak embertelen és jogsértő, de nagyon veszélyes is, mert a hatóságok elől bujkáló embereket a szociális munkások sem fogják könnyen elérni, ami különösen a tél közeledtével veszélyes. Az utcán élés és a kunyhóépítés tiltásával és büntetésével az állam bűnözőkké nyilvánítja a már amúgy is gyakran zaklatásnak kitett hajléktalan embereket, folyamatos bujkálásra ítéli őket, és a velük való együttérzés helyett lenézésükre biztatja Magyarország állampolgárait.
+   </p>
+   <p>
+    Bolba Márta, józsefvárosi evangélikus lelkész bibliai példabeszédet idézett, amelyben Jézus nem engedte dehumanizálni a betegen utcára került hajléktalan embert. Azonban „Lázárnak ma nemhogy nem adnának enni, ha gazdag ember háza mellett aludna, hanem még meg is bírságolnák, akár börtönbe is vetnék. Ez nem igazság” – mondta a lelkész, aki kiemelte, hogy „a rendszerszintű lakhatási gondokat és munkanélküliség következményeit csak a rendszerszintű változtatások, a felelős társadalompolitika tudja orvosolni”.
+   </p>
+   <p>
+    A tüntetésen Lakatosné Jutka hajléktalan aktivista olvasta fel Nagy Bandó András író, humorista támogató levelét, aki egészségügyi okok miatt nem tudott a rendezvényen részt venni. Nagy Bandó így zárta beszédét: „addig ne érezzék biztonságban magukat a stadionokat építő, mutyizó és zsír gazdagon dőzsölő honatyának mondott megélhetési bűnözők, amíg az emberek az utcákon fagyoskodnak. Ők semmi mást nem akarnak, csak hogy egy semmit érő szobácska ajtajára ki legyen írva a nevük. … Amíg ez nem történik meg, szégyenteljes marad minden intézkedésük, minden ez ügyben hozott döntésük, törvénykezésük.”
+   </p>
+   <p>
+    A törvénymódosítás ellen tiltakozva az AVM tagjai elmondták, hogy a csoport nem azért küzd, hogy minél többen éljenek az utcán vagy kunyhóban, hanem hogy a magyarországi lakhatási válságra valódi megoldások szülessenek. A csoport régóta szorgalmazza az önkormányzati bérlakás rendszer fejlesztését, az üresen álló lakások hasznosítását, és a rossz állapotban lévő ingatlanok felújítását és lakhatóvá tételét.
+   </p>
+   <p>
+    A törvényt a Parlament a tüntetés után nagy többséggel megszavazta.
+   </p>
+   <p>
+    Képek az eseményről itt
+   </p>
+   <p>
+    Ezt a cikket eredetileg az AVM régi blogján publikáltuk.
+   </p>
+  </body>
+ </text>
+</TEI>

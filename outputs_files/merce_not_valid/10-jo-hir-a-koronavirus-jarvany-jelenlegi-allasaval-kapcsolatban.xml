@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     10 jó hír a koronavírus-járvány jelenlegi állásával kapcsolatban
+    </title>
+    <author>
+     <persName>
+      Varga Zsófia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     d8818f75-078c-53c7-b502-53626ce2767c
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      10 jó hír a koronavírus-járvány jelenlegi állásával kapcsolatban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Varga Zsófia
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-03-03T10:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/03/03/10-jo-hir-a-koronavirus-jarvany-jelenlegi-allasaval-kapcsolatban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/03/03/10-jo-hir-a-koronavirus-jarvany-jelenlegi-allasaval-kapcsolatban/
+     </sch:url>
+     <sch:name>
+      10 jó hír a koronavírus-járvány jelenlegi állásával kapcsolatban
+     </sch:name>
+     <sch:datePublished>
+      2020-03-03T10:30:00
+     </sch:datePublished>
+     <sch:author>
+      Varga Zsófia
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      koronavírus
+     </sch:keywords>
+     <sch:keywords>
+      járvány
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="d8818f75-078c-53c7-b502-53626ce2767c">
+     <sch:identifier>
+      urn:uuid:4fe1f823-efcd-4c1e-ae1b-3132351cd6b2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:50.359651
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:07:08.074615
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="d8818f75-078c-53c7-b502-53626ce2767c" when="2021-12-14T15:30:50.359651">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    10 jó hír a koronavírus-járvány jelenlegi állásával kapcsolatban
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Az utóbbi időben elszaporodtak a koronavírussal kapcsolatos hírek, illetve a nagy médianyilvánosság tovább erősítette a betegséggel kapcsolatos aggodalmakat. Az alábbiakban a koronavírus-járvány tíz fontos és elsődlegesen pozitív aspektusán keresztül számolunk be arról, hogy hogy áll a járvány és a megfékezésére tett erőfeszítések helyzete jelenleg.
+   </p>
+   <p rend="head">
+    1. Tudni lehet, mi okozza a megbetegedéseket
+   </p>
+   <p>
+    A koronavírus esetén a komoly tüdőgyulladásos tüneteket először 2019. december 31-én jelentették Vuhanban, majd január 7-én már azonosították is a vírust, illetve négy nappal később már a koronavírus genomja is felkerült egy publikus adatbázisba. Ez természetesnek tűnik, azonban érdemes észben tartani, hogy például az első AIDS-es esetet 1981 júniusában regisztrálták, majd ezt követően több mint két évig tartott, míg a virológusok azonosítani tudták a betegséget okozó vírust.
+   </p>
+   <p>
+    Ehhez képest a koronavírus-járvány esetén már tudni lehet azt is, hogy a megbetegedéseket a 2002-2003-as SARS-szal egy törzsbe, a Beta-koronavírusok 2B csoportjába tartozó SARSCoV2 kórokozó okozza. A jelenlegi járványt is elkeresztelték, ez a
+    <hi>
+     coronavirus disease 2019
+    </hi>
+    kifejezésből összevont COVID19.
+   </p>
+   <p>
+    A koronavírus-járvány alakulását, terjedését és visszaszorulását
+    ide kattintva tudjátok élő térképen követni
+    . A koronavírusról szóló cikkeink
+    itt olvashatók.
+   </p>
+   <p rend="head">
+    2. Ki tudjuk mutatni
+   </p>
+   <p>
+    Január 13-án
+    kiadta
+    az Egészségügyi Világszervezet (WHO) a koronavírusos megbetegedések valós idejű, RT-PCR labortechnikával történő diagnosztizálására vonatkozó iránymutatását. Ezzel minden hozzáértő számára lehetővé vált a vírus kimutatása a világ bármely pontján. Az azóta eltelt időszakban ráadásul fokozatosan nőtt a koronavírus-tesztek pontossága is, a WHO február végéig már 57 országba küldött tesztkészleteket.
+   </p>
+   <p rend="head">
+    3. Már javul Kínában a helyzet
+   </p>
+   <p>
+    Kifizetődőnek látszanak a Kínában bevezetett erős ellenőrzések és karanténba zárások: már egy ideje
+    csökken
+    a naponta regisztrált új esetek száma, tehát úgy tűnik, a komoly állami intézkedések nyomán ténylegesen sikerült megfékezni Kínában a vírust, a fertőzöttek száma tetőződni látszik az utóbbi időben: jelenleg ez alig több mint 80100 beteget jelent Kínában, de a szám alig növekszik. A vírus kiindulópontjaként szolgáló Wuhant is magába foglaló Hupej tartományt leszámítva például szombaton arról írt a
+    Reuters
+    , hogy január 20. óta a legkevesebb napi új esetetet regisztrálták, csupán hármat. Hupejt is beleszámítva ez a szám egyébként ma, március 3-án reggelre csupán
+    125 volt
+    .
+   </p>
+   <p rend="head">
+    4. Az esetek 81%-a nem komoly
+   </p>
+   <p>
+    A koronavírus az esetek 81%-ában nem okoz súlyos tüneteket. Igaz, a további 19 százaléka a betegeknek annál rosszabbul jár: 14% esetén komoly tüdőgyulladás alakul ki, valamint 5% azoknak az aránya, akik állapota kritikussá, akár halálossá is válik. A halálozási ráta csupán 2-3%, eddig 3100 ember vesztette életét a COVID19 során.
+   </p>
+   <p rend="head">
+    5. Sok a felgyógyuló
+   </p>
+   <p>
+    Sokáig egyáltalán nem jelent meg hangsúlyosan a médiában a koronavírusból felgyógyulók száma, bár mostanra ez a helyzet is változni látszik: ahogy telik az idő, egyre többen gyűrik le a betegséget (persze előfordul az is, hogy valaki újrafertőződik,
+    a betegség egyszeri leküzdése nem ad teljes és tartós immunitást
+    ). Ígéretes, hogy már több mint fele annyian gyógyultak fel a koronavírus-járványból, mint amennyi az összes regisztrált eset: előbbiek száma jelenleg 47 995, utóbbiaké 90 936. Bár mindkét szám elkerülhetetlen módon naponta növekszik, a felgyógyultak száma stabilan nő, míg a fertőzötteké stagnálni látszik.
+   </p>
+   <p>
+    A COVID19 koronavírus-járvány adatai: narancssárgával a kínai fertőzöttek száma, sárgával a Kínán kívüli megbetegedések, zölddel pedig a felgyógyulások száma, napi bontásban január 20. és március 3. között. Fotó: Johns Hopkins CSSE, arcgis.com
+   </p>
+   <p rend="head">
+    6. Alig fertőződnek meg fiatalok
+   </p>
+   <p>
+    A regisztrált esetek csupán 3%-a történik 20 év alattiaknál, illetve a negyven év alattiaknál csupán 0,2% a halálozási ráta. A gyerekek esetén sokszor akár annyira enyhék a tünetek, hogy a víruson észrevétlenül esnek át.
+   </p>
+   <p rend="head">
+    7. Könnyű semlegesíteni a vírust
+   </p>
+   <p>
+    Kutatások kimutatták, hogy a koronavírusok, köztük a SARS és a MERS akár kilenc napig is túlélnek élettelen felületeken (fém, üveg vagy műanyag), azonban egy percen belül könnyedén
+    elpusztíthatóak
+    például etanollal, hidrogén-peroxiddal és nátrium-hipoklorittal (hypóval). Ráadásul minél melegebb a környezet, a vírustörzs annál kevésbé ellenálló, annál inkább hal el önmagától is. Azonban a különböző „fertőzött felületektől” sem kell különösebben félni, a gyakori szappanos kézmosás hatékony módszer elkerülni a különféle betegségeket, így a koronavírust is.
+   </p>
+   <p rend="head">
+    8. Nagy a tudományos együttműködés
+   </p>
+   <p>
+    Több mint 200 tudományos cikk jelent meg az elmúlt két hónapban a koronavírusról, és a szám egyre növekszik. Ha csak az amerikai Országos Orvosi Könyvtár
+    adatbázisát nézzük
+    , 235 különböző tudományos cikk olvasható COVID19 és SARSCoV2 témákban. A jelenlegi cikkeket több mint 700 tudós jegyzi epidemológiai, kezelési, genetikai, diagnosztizálási és egyéb klinikai, a koronavírushoz köthető témákban, ráadásul számos további cikk jelenleg áll elbírálás alatt. Csak összehasonlításképp: a 2002-2003-as SARS esetén több mint egy év alatt feleennyi témába vágó kutatást publikáltak.
+   </p>
+   <p rend="head">
+    9. Már tesztelik az első védőoltásokat és több mint 80 klinikai vizsgálat van folyamatban
+   </p>
+   <p>
+    Több különböző kutatócsoport próbál vakcinát kifejleszteni a koronavírusokkal, így a jelenlegi járványt okozó SARSCoV vírussal szemben is. Ehhez természetesen rengeteg munka kell: mielőtt bármely védőoltást bevethetnének, rengeteg különböző tesztet szükséges elvégezni a létrehozott anyagok toxicitását, mellékhatásait és persze hatékonyságát illetően. Ez akár több hónapot, éveket is igénybe vehet, de attól még örvendetes hír, hogy világszerte több különálló projekt dolgozik a koronavírus-járvány végleges megfékezéséért, oltóanyagaikat legfőképp a
+    koronavírust a gazdasejthez kapcsoló
+    S glikoproteinre alapozva. Az oltóanyagon dolgozó Inovio már január 30-án bejelentette, hogy
+    együttműködik
+    a pekingi Advaccine-nel a vuhani koronavírus-járvány megfékezése érdekében, illetve február 18-án
+    jelentette be
+    a Sanofi is, hogy az amerikai egészségügyi minisztériummal a koronavírus elleni oltóanyag munkálatain.
+   </p>
+   <p rend="head">
+    10. Továbbra sincsen magyarországi eset
+   </p>
+   <p>
+    Ez bár jó hír az egyik oldalról, mint ahogy az is, hogy a koronavírus a fiatalabbakra kevésbé veszélyes, viszont ennek ellenére fontos, hogy figyeljünk a higiéniára – gyakori kézmosással és -fertőtlenítéssel visszaszorítható bármely vírus terjedése és megóvhatóak a betegségekkel szemben védtelenebb idősek és krónikus betegek is, legyen szó influenzáról vagy éppen koronavírusról. Fontos tudatában lenni annak, hogy előbbi jelenleg Magyarországon komolyabb fenyegetést jelent – koronavírusos esetet az országban továbbra sem regisztráltak.
+   </p>
+   <p>
+    Frissítés 03.05.: szerdán bejelentették az
+    első regisztrált magyarországi fertőzötteket
+    .
+   </p>
+   <p>
+    (
+    TheConversation
+    , Reuters, Al Jazeera)
+   </p>
+  </body>
+ </text>
+</TEI>

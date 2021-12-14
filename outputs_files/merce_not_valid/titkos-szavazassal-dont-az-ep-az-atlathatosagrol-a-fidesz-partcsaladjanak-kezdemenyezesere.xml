@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Titkos szavazással dönt az EP az átláthatóságról a Fidesz pártcsaládjának kezdeményezésére
+    </title>
+    <author>
+     <persName>
+      Császár Simon Gergely
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Weiler Vilmos
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lebanov Barbara
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ef9134a3-4407-5b95-bc61-9ee74a87a12e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Titkos szavazással dönt az EP az átláthatóságról a Fidesz pártcsaládjának kezdeményezésére
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lebanov Barbara
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Weiler Vilmos
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Császár Simon Gergely
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-01-31T13:19:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://balraat.merce.hu/2019/01/31/titkos-szavazassal-dont-az-ep-az-atlathatosagrol-a-fidesz-partcsaladjanak-kezdemenyezesere/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://balraat.merce.hu/2019/01/31/titkos-szavazassal-dont-az-ep-az-atlathatosagrol-a-fidesz-partcsaladjanak-kezdemenyezesere/
+     </sch:url>
+     <sch:name>
+      Titkos szavazással dönt az EP az átláthatóságról a Fidesz pártcsaládjának kezdeményezésére
+     </sch:name>
+     <sch:datePublished>
+      2019-01-31T13:19:00
+     </sch:datePublished>
+     <sch:author>
+      Császár Simon Gergely
+     </sch:author>
+     <sch:author>
+      Weiler Vilmos
+     </sch:author>
+     <sch:author>
+      Lebanov Barbara
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      internacionál
+     </sch:keywords>
+     <sch:keywords>
+      ep
+     </sch:keywords>
+     <sch:keywords>
+      európai parlament
+     </sch:keywords>
+     <sch:keywords>
+      ep2019
+     </sch:keywords>
+     <sch:keywords>
+      lobbi
+     </sch:keywords>
+     <sch:keywords>
+      átláthatóság
+     </sch:keywords>
+     <sch:keywords>
+      jelentés
+     </sch:keywords>
+     <sch:keywords>
+      strasbourg
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ef9134a3-4407-5b95-bc61-9ee74a87a12e">
+     <sch:identifier>
+      urn:uuid:1fdb4a7e-9906-4146-a0ee-18eeaa0b2ca2
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:04.226487
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:59:38.068454
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ef9134a3-4407-5b95-bc61-9ee74a87a12e" when="2021-12-14T15:35:04.226487">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Titkos szavazással dönt az EP az átláthatóságról a Fidesz pártcsaládjának kezdeményezésére
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Az Európai Parlament hosszú halogatás után a mai napon szavaz egy
+    javaslatcsomagról
+    , amely az Európai Parlament Eljárási Szabályzatát (ez kvázi az EP házszabálya) hivatott módosítani, és melyet Richard Corbett, brit munkáspárti EP-képviselő jegyez. A Corbett-jelentés olyan változtatásokat vezetne be az EP házszabályába, amelyek a nyilvánosság számára átláthatóbbá tennék az EP-képviselők tevékenységét, különös tekintettel a gazdasági lobbitevékenység befolyására a képviselők munkájára.
+   </p>
+   <p>
+    A jelentés javaslatai közül kettőt érdemes kiemelni. Az első azt tenné lehetővé, hogy az EP-képviselők önkéntes alapon kiírhassák az EP honlapjára, hogyan is költik el az adófizetők pénzét. A második pedig minden jelentéstevőtől (ezek az EP különböző bizottságaiban dolgozó képviselők, akik adott ügyekben jelentéseket írnak, amiről aztán az EP vitázik és szavaz. Ilyen jelentéstevő volt például Judith Sargentini is a magyar jogállami normák kérdésében az EP Állampolgári Jogi, Bel- és Igazságügyi Bizottságának nevében) megkövetelné, hogy online közszemlére tegyék, mikor találkoznak gazdasági lobbistákkal egy jelentés elkészítése során. Az utóbbi lépés egy kompromisszumos megoldás lenne, ugyanis a Bizottság már régóta dédelget egy javaslatot, ami a lobbistáknak egy kötelező, nyilvánosan böngészhető regisztert hozna létre, azonban ezt mindeddig az EP megtorpedózta.
+   </p>
+   <p>
+    A Corbett-jelentés ezen felül
+    nekimenne azon EP képviselőcsoportoknak is
+    , amelyek nem tartanak valódi üléseket, és nem is szavaznak együtt, csupán a befolyás és a forrásemelkedés reményében alakítanak ki külön csoportokat. Ezért a javaslatért azonban a három nagy pártcsaládon kívül (Európai Néppárt – EPP, Liberálisok és Demokraták Szövetsége Európáért – ALDE, Szocialisták és Demokraták Progresszív Szövetsége – S&amp;D) senki sem rajongott. Fabio Massimo Castaldo, az olasz 5 Csillag Mozgalom képviselője, és a parlament alelnöke szerint „a javaslat a többség diktatúráját valósítja meg.” Ahogy fogalmazott „a demokrácia mindig is abban állt, hogy az ellenzék jogai védelem alatt álltak, különös tekintettel azon jogokra, hogy az ellenzék alternatívát kínálhasson, és megvédhesse eltérő álláspontját”. Castaldo képviselőcsoportja, a Szabadság és Közvetlen Demokrácia Európája (EFDD) pontosan olyan csoport, mint amire a jogalkotók le kívánnak csapni. Az EFDD-t elsősorban az olasz 5 Csillag Mozgalom és a brit UKIP alkotja, akik azon túl, hogy rendszerkritikusak, sok hasonlóságot nem igazán mutatnak szakpolitikák terén, nem is szavaznak együtt, és üléseket sem nagyon tartanak. Képviselőcsoportjuk mégis 3 millió euró támogatást kapott az EP kasszájából.
+   </p>
+   <p>
+    A jelentés szavazására eredetileg január 16-án került volna sor, azonban az Európai Néppárt (EPP), a Fidesz európai pártcsaládja, melynek egyébként Jean-Claude Juncker maga is a tagja, a szavazás elhalasztását kérte, sőt, elérte, hogy az
+    <hi rend="bold">
+     EP-ben szinte precedens nélküli titkos szavazással
+    </hi>
+    szavazzanak az EP-képviselők átláthatóságát szabályozó javaslatcsomagról.
+   </p>
+   <p>
+    „Teljesen abszurd az, hogy az EP legnagyobb átláthatósági reformját titokban szavazzák meg” – nyilatkozta Vitor Teixeira, a Transparency International EU brüsszeli szakértője az
+    EUobserver
+    nek. Teixeira szerint ez újabb árnyékokat vet az EPP tavaly novemberben Helsinkiben elfogadott választási programjára, ami külön hangsúlyt fektetett az átláthatóság növelésével vívott korrupció elleni küzdelemre.
+   </p>
+   <p>
+    Az EUobserver emlékeztet, hogy az átláthatóság elleni küzdelem az EP-ben nem új keletű. Három éve Martin Schulz, aki akkor az EP szocialista elnöke volt,
+    megegyezett a Néppárttal
+    arról, hogy a képviselők másod- és harmadállását kontrolláló javaslatról halasszák el a szavazást cserébe azért, hogy eltusolják Schulz azon botrányát, hogy az EP forrásait használta fel saját bizottsági-elnökjelölt kampányához. Mindeközben a jelenlegi EP-képviselők számítások szerint 41 millió eurót kerestek a képviselőségen túli foglalkozásaikból, amely bevételek gyakran vetik fel az összeférhetetlenség kérdését.
+   </p>
+   <p>
+    <hi>
+     Update: 2019.01.31. 12:30 – a jelentés csupán néhány
+     szavazattal ment át az EP-n
+     .
+    </hi>
+   </p>
+   <p>
+    (via
+    EUobserver
+    )
+   </p>
+   <p>
+    A cikk a
+    <hi rend="italic">
+     Balra át!
+    </hi>
+    korábbi oldalán jelent meg. Áthoztuk ide, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

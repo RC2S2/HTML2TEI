@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mazsihisz: a magyar társadalom felülmúlja gyűlölködésben az európai átlagot
+    </title>
+    <author>
+     <persName>
+      Fazekas Lázár Benjámin
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     8a1e1adf-e3b8-5fe7-a96b-df76cca198fe
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Mazsihisz: a magyar társadalom felülmúlja gyűlölködésben az európai átlagot
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Fazekas Lázár Benjámin
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-07-21T13:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/07/21/mazsihisz-a-magyar-tarsadalom-felulmulja-gyulolkodesben-az-europai-atlagot/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/07/21/mazsihisz-a-magyar-tarsadalom-felulmulja-gyulolkodesben-az-europai-atlagot/
+     </sch:url>
+     <sch:name>
+      Mazsihisz: a magyar társadalom felülmúlja gyűlölködésben az európai átlagot
+     </sch:name>
+     <sch:datePublished>
+      2021-07-21T13:30:00
+     </sch:datePublished>
+     <sch:author>
+      Fazekas Lázár Benjámin
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      antiszemitizmus
+     </sch:keywords>
+     <sch:keywords>
+      gyűlölet
+     </sch:keywords>
+     <sch:keywords>
+      zsidó
+     </sch:keywords>
+     <sch:keywords>
+      medián
+     </sch:keywords>
+     <sch:keywords>
+      mazsihisz
+     </sch:keywords>
+     <sch:keywords>
+      goldziher intézet
+     </sch:keywords>
+     <sch:keywords>
+      heiszler andrás
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="8a1e1adf-e3b8-5fe7-a96b-df76cca198fe">
+     <sch:identifier>
+      urn:uuid:5f6f725b-5e67-4ba7-9942-8ecf9ef640cc
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:41.219812
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:49:56.641551
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="8a1e1adf-e3b8-5fe7-a96b-df76cca198fe" when="2021-12-14T15:30:41.219812">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Mazsihisz: a magyar társadalom felülmúlja gyűlölködésben az európai átlagot
+   </head>
+   <p>
+    Tegnap
+    mutatta be
+    a Mazsihisz (Magyarországi Zsidó Hitközségek Szövetsége) a Mediánnal és a Goldziher intézettel közösen végzett, 2019-2020-as antiszemitizmus-kutatását. Ebből kiderül, hogy bár Magyarországon biztonságban élnek a zsidók, ugyanakkor a társadalomban az antiszemitizmus élő jelenség.
+   </p>
+   <p>
+    Heiszler András, a Mazsihisz elnöke elmondta, hogy ugyan a kormány pozitív intézkedései az antiszemitizmus tekintetében vitathatatlanok, ennek ellenére a jelenség tapasztalható és jelen van a társadalomban. Bár Magyarországon nincsenek olyan jelenségek, amikből a félelem közvetlenül következne, és a zsidók helyzete is biztonságosabb Nyugat-Euóropához képest, Heiszler szerint azonban kérdéses, hogy itt érdemes-e más országokhoz hasonlítanunk magunkat.
+   </p>
+   <p>
+    Félix Anikó, a nemrégen alapított Goldziher Ignác Zsidó Történeti és Kulturális Kutatóintézet operatív vezetője kifejtette, ugyan jóval kevesebb a zsidókkal szembeni atrocitások száma a Nyugat-Európában mért adatoknál, ugyanakkor az antiszemitizmus mégis jelen van a mindennapokban. Ezt mutatja az is, hogy az olyan kategóriákban, mint az összeesküvés-elméletek, a gyűlöletbeszéd és a „közéleti antiszemitizmus” nőttek a számok 2019-ről 2020-ra:
+   </p>
+   <p>
+    2019-2020-ban a legnagyobb esetszámot a gyűlöletbeszéd kategória produkálta, 2019-ben 20, míg 2020-ban 31 ilyen esetet regisztráltak. A Mazsihisz Biztonsági Szolgálatának adatgyűjtése 2019-ben összesen 53, míg 2020-ban összesen 70 esetet regisztrált.
+   </p>
+   <p>
+    A felmérést 2013 óta rendszeresen, azonos metodika alapján, 1200 ember személyes megkérdezésével végzik. Mazsihisz az IHRA (International Holocaust Remembrance Alliance) munkadefinícióját veszi alapul az antiszemita összeesküvés-elméletek definiálásánál, amely azt a következőképpen határozza meg: „A zsidókról vagy a zsidóság hatalmáról valótlan, lealacsonyító, démonizáló vagy sztereotípiákon alapuló kijelentések tétele, ide tartozik például különösen, de nem kizárólag a zsidó világ-összeesküvés elmélet vagy az a mítosz, hogy a zsidók uralják a médiát, a gazdaságot, a kormányzati vagy egyéb társadalmi intézményeket.”
+   </p>
+   <p>
+    A kutató hozzátette azt is, az antiszemita verbális esetek, valamint különböző cikkek, online kommentek, tartalmak növekedése részben feltehetőleg a vírus okozta „bezártságnak” tudható be, másrészt a koronavírus okozta válságból eredő feszültségekkel, amelyek különböző csoportokkal szembeni agresszióban vezetődnek le.
+   </p>
+   <p>
+    Ráadásul a koronavírus jó táptalajt is nyújtott az összeesküvés-elméletek gyártóinak, akik olyan elképzeléseket terjesztettek, hogy a vírus okozói a zsidók, akik ártani szeretnének az emberiségnek a vakcinákkal. Ugyanígy az említett időszakban bevezetett 5G telekommunikációs rendszerrel kapcsolatos álhírek középpontjában is hasonló elméletek álltak: a mobilinternet technológiát egy „Cionista Világösszeesküvés” népirtásra fogja használni.
+   </p>
+   <p>
+    Félix Anikó elmondta azt is, a gyűlöletbeszéd kategória elkövetői leggyakrabban a Mi Hazánk mozgalomhoz köthetőek voltak. A közéleti antiszemitizmus kategóriában (amikor egyes történelmi eseményeket a zsidóság szempontjából aggályos módon mutatnak be, vagy nyíltan antiszemita személyek kapnak közéleti elismerést) felülreprezentált volt a kormányzat és a kormányközeli média.
+   </p>
+   <p>
+    „Soros György ellen például évek óta egy olyan kampány folyik, amely antiszemita sztereotípiák és összeesküvés-elméletek bizonyos meghatározó elemeit is tartalmazza.”
+   </p>
+   <p>
+    Erre jellemző eset a tavaly novemberben megjelent, Demeter Szilárd által írt, a Szájer ügy árnyékában feledésbe merült cikk is, amelyben a Petőfi Irodalmi Múzeum „Soros György gázkamrájának”
+    nevezte Európát
+    .
+   </p>
+   <p>
+    Hann Endre a Medián ügyvezetője elmondta, hogy a zsidósággal kapcsolatos negatív tévképzetekre való fogékonyság, az úgynevezett
+    <hi>
+     kognitív antiszemitizmus
+    </hi>
+    tekintetében 2019-ig fokozatos emelkedést, ezután azonban egy enyhe csökkenést találtak: a kognitív antiszemiták aránya egy év alatt 21-ről 16 százalékra csökkent.
+   </p>
+   <p rend="head">
+    A nem antiszemiták aránya 71 százalékon stagnál, de erre a számra reagálva Hann elmondta, hogy eléggé sokkoló, hogy a népesség 30 százaléka, közel egyharmada mérsékelten vagy erősen antiszemita.
+   </p>
+   <p>
+    Hahn Endre ugyancsak sokkolónak nevezte azt is, hogy a megkérdezettek 23 százaléka helyeselné a numerus clausust. Ennek a fajta antiszemitizmusnak az alulinformáltság a gyökere, s az „igazság utáni vágy”:  a kaotikusnak tartott világban az emberek vágynak az egyszerű magyarázatokra – a kutató szerint.
+   </p>
+   <p>
+    Magyarországon a „zsidó ügy” nem forró ügy – azaz a megkérdezettek számára a zsidósággal kapcsolatos események, hírek, jelenségek, dolgok nem bírnak kiemelt jelentőséggel. A zsidók megítélése még valamelyest javult is a kutató szerint, de ez nem azt jelenti, hogy elfogadóbbak lettek az emberek, hanem azt, hogy a gyűlöletüket mások irányába (arabok, feketék) célozzák.
+   </p>
+   <p rend="head">
+    Ezt jól mutatja a kutatás azon eredménye is, hogy gyűlölködésben felülmúljuk az európai átlagot.
+   </p>
+   <p>
+    Hann szerint leginkább a rendpárti, konzervatív, szélsőjobboldali gondolkodással jár együtt az antiszemitizmus, azok hajlamosabbak az előítéletre, akik erkölcstelen dolognak tartják a homoszexualitást, korlátoznák az országban a színesbőrűek számát, szigorítanák a terhességmegszakítást és a menekültek befogadását, vagy támogatják a halálbüntetést. Ugyanakkor valamennyi párt szavazói között megtalálhatók az erősen antiszemiták, a többi között 40 százalékuk a Fideszt, 16 százalékuk a Jobbikot, 9 százalékuk a DK-t, 8 százalékuk az MSZP-t, 2 százalékuk pedig a Momentumot támogatta.
+   </p>
+   <p>
+    (
+    Mazsihisz
+    ,
+    Népszava
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

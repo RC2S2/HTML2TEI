@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szél Bernadett: Jogunk van tudni, kit és mit képvisel a magyar kormány az ENSZ-klímacsúcson
+    </title>
+    <author>
+     <persName>
+      Diószegi-Horváth Nóra
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     156113ee-33e2-5a54-bff7-44c42629ef68
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szél Bernadett: Jogunk van tudni, kit és mit képvisel a magyar kormány az ENSZ-klímacsúcson
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Diószegi-Horváth Nóra
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-09-05T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/09/05/szel-bernadett-jogunk-van-tudni-kit-es-mit-kepvisel-a-magyar-kormany-az-ensz-klimacsucson/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/09/05/szel-bernadett-jogunk-van-tudni-kit-es-mit-kepvisel-a-magyar-kormany-az-ensz-klimacsucson/
+     </sch:url>
+     <sch:name>
+      Szél Bernadett: Jogunk van tudni, kit és mit képvisel a magyar kormány az ENSZ-klímacsúcson
+     </sch:name>
+     <sch:datePublished>
+      2019-09-05T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Diószegi-Horváth Nóra
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      klímaváltozás
+     </sch:keywords>
+     <sch:keywords>
+      szél bernadett
+     </sch:keywords>
+     <sch:keywords>
+      ENSZ klímacsúcs
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="156113ee-33e2-5a54-bff7-44c42629ef68">
+     <sch:identifier>
+      urn:uuid:d4258534-470e-4e95-b000-a87fff19cf33
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:24.705910
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:47:52.352053
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="156113ee-33e2-5a54-bff7-44c42629ef68" when="2021-12-14T15:30:24.705910">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szél Bernadett: Jogunk van tudni, kit és mit képvisel a magyar kormány az ENSZ-klímacsúcson
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    2019. szeptember 23-án tartják New Yorkban az ENSZ esedékes klímacsúcsát, az elsőt, ahol a világ vezetői is részt vesznek, amióta 2015-ben elfogadták a a Párizsi Klímaegyezményt, és egyben az utolsó is, mielőtt az életbe lép.
+   </p>
+   <p>
+    Ráadásul a Párizsi Klímaegyezményben tett vállalások legfeljebb arra elegendőek,
+    hogy 3 °C alatt tartsuk a globális hőmérséklet-emelkedést, miközben az ENSZ Éghajlatváltozási Kormányközi Testülete által 2018 októberében kiadott jelentés szerint m
+    indenképpen 1,5 °C-ban kell maximálni azt az iparosodás előtti szinthez képest.
+   </p>
+   <p>
+    A tét tehát elég nagy – innen nézve különösen aggasztó, hogy a magyar kormány mindeddig nyomokban sem jelezte, hogy milyen álláspontot fog képviselni a klímacsúcson.
+   </p>
+   <p>
+    Minderre Szél Bernadett hívta fel a figyelmet:
+   </p>
+   <p>
+    „…senki sem tudja, ki és mit fog képviselni a magyar kormány részéről a közelgő kulcsfontosságú New York-i ENSZ-klímacsúcson. Ez így tarthatatlan. Erről kellene szólnia a közmédia adásainak, szakmai és politikai egyeztetéseknek lenne itt a helye!” – írta Facebook-posztjában a független országgyűlési képviselő.
+   </p>
+   <p>
+    Szél ezért levélben fordult Dr. Hörcsik Richárdhoz, az Európai ügyek bizottságának vezetőjéhez, amelyben javasolja, hogy szeptember első felére hívjanak össze egy bizottsági ülést.
+   </p>
+   <p>
+    Szél jelezte azt is, hogy a kormány sem a közös uniós állásponttal kapcsolatos magyar vétóról, sem a klímacsúcson képviselendő magyar álláspontról nem adott tájékoztatást. Épp ezért emlékeztette Hörcsiket arra is, hogy az Európai ügyek bizottságának munkarendjében szerepel a klímapolitika is, és korábban adott is lehetőséget a klímapolitikát érintő ügyek megtárgyalására – például az ENSZ tavalyi katowicei klímakonferenciája előtt, amikor napirendre tűzte a kormány tájékoztatását a klímakonferencián képviselendő magyar és uniós álláspontról.
+   </p>
+   <p>
+    „(a)zt gondolom, most is így kell eljárnunk” – fogalmazott Szél Bernadett.
+   </p>
+   <p>
+    Tény, hogy a magyar kormány nem igazán lelkes, ha a klímakérdés szóba kerül. Még ha el is siklunk az olyan apróságok mellett, mint a KDNP által
+    <hi>
+     augusztusban
+    </hi>
+    megreklámozott műanyagmentes július, hogy Kósa Lajos szerint nem is az őserdő ég Brazíliában,
+    csak a bozótos
+    , vagy Tarlós István jelenlegi főpolgármester váratlan (de vélhetően
+    közel sem tartós
+    ) bezöldülése, akkor is nehéz magyarázatot találni arra, miért vétózták meg azt az uniós javaslatot, aminek értelmében a tagállamok közösen 2050-re klímasemlegessé tennék Európát.
+   </p>
+   <p>
+    Persze, számos oka lehet a kormánynak, hogy szemet hunyjon a világunkat fenyegető katasztrófa felett. Egyet például Szijjártó Péter külgazdasági- és külügyminiszter is
+    felvillantott egy járműipari konferencián
+    :
+   </p>
+   <p>
+    „Magyarország nem támogatja, hogy Brüsszel az autóipar versenyképességét a környezetvédelemre hivatkozva észszerűtlenül korlátozza”.
+   </p>
+   <p>
+    És mivel tudjuk, hogy a magyar kormány mindenek felett támogatja és kiszolgálja a külföldi multikat, nem is olyan meglepő, hogy az autóipar például a környezetvédelem előtt helyezkedik el a prioritási listán. Kérdés, hogy mi még?
+   </p>
+   <p>
+    Szél Bernadett
+    posztja itt
+    , a Hörcsik Richárdnak írt levele pedig
+    itt olvasható
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

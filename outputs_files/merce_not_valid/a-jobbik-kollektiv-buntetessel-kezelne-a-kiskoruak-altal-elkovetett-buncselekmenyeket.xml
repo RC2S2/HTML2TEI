@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jakab Péter kollektív büntetéssel kezelné a kiskorúak által elkövetett bűncselekményeket
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f4472a84-24f2-5b82-956f-8de6a974a304
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Jakab Péter kollektív büntetéssel kezelné a kiskorúak által elkövetett bűncselekményeket
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-06-19T22:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/06/19/a-jobbik-kollektiv-buntetessel-kezelne-a-kiskoruak-altal-elkovetett-buncselekmenyeket/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/06/19/a-jobbik-kollektiv-buntetessel-kezelne-a-kiskoruak-altal-elkovetett-buncselekmenyeket/
+     </sch:url>
+     <sch:name>
+      Jakab Péter kollektív büntetéssel kezelné a kiskorúak által elkövetett bűncselekményeket
+     </sch:name>
+     <sch:datePublished>
+      2020-06-19T22:00:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      jobbik
+     </sch:keywords>
+     <sch:keywords>
+      rasszizmus
+     </sch:keywords>
+     <sch:keywords>
+      romák
+     </sch:keywords>
+     <sch:keywords>
+      szociálpolitika
+     </sch:keywords>
+     <sch:keywords>
+      Jakab Péter
+     </sch:keywords>
+     <sch:keywords>
+      családi pótlék
+     </sch:keywords>
+     <sch:keywords>
+      szegényellenesség
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f4472a84-24f2-5b82-956f-8de6a974a304">
+     <sch:identifier>
+      urn:uuid:03b61ec9-7f24-47b8-bb6a-e49d122772cb
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:22.973013
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:14:50.021627
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f4472a84-24f2-5b82-956f-8de6a974a304" when="2021-12-14T15:30:22.973013">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Jakab Péter kollektív büntetéssel kezelné a kiskorúak által elkövetett bűncselekményeket
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p>
+    Jakab Péter hosszú,
+    parlamenti performansz-sorozata
+    , és pártja, a Jobbik elhúzódó, súlyos válsága közepette ma úgy gondolta, mégiscsak
+    kicsap egy döglött macskát a pártelnöki asztalra
+    , és ma a Mi Hazánkban ülő egykori párttársai számára is szimpatikus ötletnek számító tervvel próbálta rajongói lájkjait elnyerni.
+   </p>
+   <p rend="head">
+    A párttól az utóbbi időben szokásos módon színes-szagos Facebook-képpel mellékelve követelte, vonják meg a családi pótlékot a „kiskorú bűnözők” szüleitől.
+   </p>
+   <p>
+    A Jobbik régebbi időszakára emlékeztető tervet pedig egy jósnő vagy halottlátó tárgyilagosságával és problémaérzékenységével az elnök ki is fejtette, amikor azt írta:
+   </p>
+   <p>
+    „A Jobbik a családi pótlék 12 hónap időtartamra történő megvonását követeli olyan esetekben is, amikor a fiatalkorú bűnözőt nem ítélik letöltendő szabadságvesztésre. Mert igenis felelősség terheli a nevelési kötelezettségét elmulasztó szülőt.”
+   </p>
+   <p>
+    Végül Lakatos Attilát, az önmagát borsodi cigányvajdának kikiáltó, a 2010-es évek elejéről-közepén tett botrányos felszólalásairól ismert közéleti figurát idézve Jakab hozzátette:
+   </p>
+   <p>
+    „A gyermek nem állat, hanem felelősség.”
+   </p>
+   <p>
+    Hagyjuk is most azt a kérdéskört, mennyire lehet elkeseredett egy olyan pártvezető, aki a nagy arc- és identitáskeresés közepette, zárójelbe téve utolsó hat évét, ismét Vona Gábor 2012-es ötletei körül botorkál, és ne foglalkozzunk azzal sem, mennyire fér bele „állatozni” szegényebb gyermekeket, még akkor is, ha bűncselekményt követtek el.
+   </p>
+   <p rend="head">
+    Koncentráljunk inkább arra, vajon a Fidesz-KDNP egy évtizedes offenzívája után miért áll bele az új, poszt-cuki Jobbik is éppen a családi pótlék intézményébe?
+   </p>
+   <p>
+    Mert az egy dolog, hogy – a cégér szerint – egy immár jobbközép pártnak azért illene Bayer Zsoltéknál legalább egyetlen fokkal összetettebb választ farigcsálnia a fiatalkorúak bűnözéséhez mint szociálpolitikai, kriminalisztikai problémához. Ehhez Jakab és kommunikációs- közpolitika-alkotó csapata fordulhatott volna például
+    szakértői tanulmányokhoz
+    is, amelyek már évekkel ezelőtt hangsúlyozták, olcsóbb, könnyebb a problémát megelőzni, mint utólag drasztikusan büntetni: ahhoz viszont nem gumibot, finánc és hivatalnok, hanem szociális munkás, szociológus kellene.
+   </p>
+   <p>
+    Ezzel szemben Jakab ismét a bűnmegelőzés szerepét negligáló jobboldali demagógiát húzza elő a kalapból. A szokásos módon arról, hogy milyen büntetési tétel fölött húzná meg a családi jövedelem megnyirbálását a pártvezér, nem esik szó. Viszont mindennél beszédesebb a szándékokat illetően a „cigányvajda” szavainak idézése.
+   </p>
+   <p>
+    (Érdekes amúgy, hogy a jobboldalt támogató, a magyar romák „kollektív bűneiért” rendszeresen, színpadiasan
+    <hi>
+     meaculpázó
+    </hi>
+    figurák, mint Lakatos, valahogyan mindig csak olyankor kerülnek elő, amikor a drasztikus megoldásokat kell egy beszélő fejjel hirdetni vagy igazolni. Emlékezhetünk arra is, a „bevándorlás-népszavazás” idején, 2016 őszén is ő volt az, aki az igen mellett kampányolt roma közösségekben, mivel szerinte
+    „a migránsok a mi lányainkat is megerőszakolják.”
+    )
+   </p>
+   <p rend="head">
+    De ha nem is biggyesztette volna oda a félreértések elkerülése végett Jakab elnök Lakatos Attila nevét a bejegyzésbe, abból, hogy a Jobbik a családi pótlékot nyirbálná meg, és semmiféle más, feltételes, vagy a középosztálynak kifaragott juttatásokról nem esik szó, már tudatja, miről is van szó.
+   </p>
+   <p>
+    Kalmár Szilárd a járvány kihívásainak kapcsán a jelenségről
+    már részletesen írt
+    itt nálunk, és nem is nagyon lehet ezt annál tovább cifrázni, mint ahogyan ő fogalmazta meg:
+   </p>
+   <p>
+    „Mi a leggyakoribb kimondott-kimondatlan érv a családi pótlék emelése ellen?
+    <hi rend="bold">
+     Természetesen a cigányozás
+    </hi>
+    , mert azt mondják, hogy ha emelik, akkor nő a „megélhetési gyermekvállalók” köre. Azaz többen lesznek, akik csupán azért vállalnak gyereket, hogy pénzt kapjanak utánuk.”
+   </p>
+   <p>
+    Valóban.
+   </p>
+   <p>
+    Sokat beszél manapság a kormány, és Novák Katalin államtitkár is arról, mennyire fontos a demográfiai trendek megfordítása, és a minél több magyar gyermek születése. Amikor azonban ennek ellenére a romák és általában a társadalom legalsó néposztályába tartozók utolsó, a munkanélküliség esetén a nyomorba hullástól védő juttatását nyirbálják, lehull a lepel: az egésznek csak úgy van köze a demográfiához, ha az alatt amolyan orbánosan a „fehér családok” előnybe hozását és a „feleslegesek” végső elhagyását értjük.
+   </p>
+   <p>
+    A családi pótlék folyamatos gyengítése ugyanis a NER „munkaalapú társadalmának” egyik alapköve. Éppen a pótlékot és az – egyébként eleve sok sebből vérző – régi, jóléti segélyrendszert próbálták ezzel eltörölni, hogy a helyébe a totális függőséget okozó közmunkarendszer lépjen. Szó se róla, van olyan szociális tanulmány, amely azt is kimutatta, mindezt a 2010-re megszorításokkal szétvert munkanélküli segélynél jobban szeretik az emberek. Felelős magyar állampolgárként azonban nem állíthatjuk, hogy a szélsőséges vagyoni különbségeket ily módon újratermelő rendszer akármilyen szinten is jó, illő és hatékony lehetne.
+   </p>
+   <p rend="head">
+    A családi pótlék, a maga 12 000 forintos havi alapösszegével szerény vigasz, de mégis az utolsó olyan újraelosztási forma, amely igazságos, amely a számos szigorítás ellenére még most is lehetőséget kínál a gyermekéhezés mérséklésére is, és amelyet egy magát működőképesnek, sőt, hogy Jakab ízlésének jobban megfeleljen, életképesnek tartó társadalomnak mindenképpen rendbe kell tennie, hogy legalább az emancipáció, a felszabadítás lehetőségét felkínálja a zsákfalvak, és a „cigánysor” továbbra kétségbe ejtő nyomorából.
+   </p>
+   <p>
+    Sokat beszélünk manapság az ellenzék problémáiról, az
+    <hi>
+     antiorbánizmus
+    </hi>
+    minimumprogramjának
+    sekélyes semmitmondásáról.
+    Ha azonban Jakab válasza a Jobbik
+    egyre sokasodó problémáira,
+    és az ellenzéki stratégiakeresésre az, hogy „igenis van cigánybűnözés!”, akkor az egyetlen kérdés az, hogy mi értelme is volt a párt elmúlt 4-5 évébe fektetett, rengeteg munkát igénylő arculatváltásának, a szociálisan érzékenyebb jobboldal általuk néha sikerrel sugárzott képének?
+   </p>
+   <p>
+    És főként: miért szavazna bárki, aki ezzel a zöldséggel egyetért, Orbán helyett Jakab Péterre és barátaira?
+   </p>
+  </body>
+ </text>
+</TEI>

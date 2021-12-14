@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Trump fala miatt nem kapnak fizetést kormányzati dolgozók az USA-ban
+    </title>
+    <author>
+     <persName>
+      Bogatin Bence
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bcd46ca3-1441-55ee-9847-b09ceb6e2a77
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Trump fala miatt nem kapnak fizetést kormányzati dolgozók az USA-ban
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogatin Bence
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-12-22T21:35:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/12/22/trump-fala-miatt-nem-kapnak-fizetest-kormanyzati-dolgozok-az-usa-ban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/12/22/trump-fala-miatt-nem-kapnak-fizetest-kormanyzati-dolgozok-az-usa-ban/
+     </sch:url>
+     <sch:name>
+      Trump fala miatt nem kapnak fizetést kormányzati dolgozók az USA-ban
+     </sch:name>
+     <sch:datePublished>
+      2018-12-22T21:35:00
+     </sch:datePublished>
+     <sch:author>
+      Bogatin Bence
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      USA
+     </sch:keywords>
+     <sch:keywords>
+      dolgozók
+     </sch:keywords>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      Donald Trump
+     </sch:keywords>
+     <sch:keywords>
+      munkavállalók
+     </sch:keywords>
+     <sch:keywords>
+      külpolitika
+     </sch:keywords>
+     <sch:keywords>
+      fizetés
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bcd46ca3-1441-55ee-9847-b09ceb6e2a77">
+     <sch:identifier>
+      urn:uuid:788d80e2-b474-454a-b57e-df1d7620e3da
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:21.284523
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:15:32.402918
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bcd46ca3-1441-55ee-9847-b09ceb6e2a77" when="2021-12-14T15:27:21.284523">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Trump fala miatt nem kapnak fizetést kormányzati dolgozók az USA-ban
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A nem létfontosságú kormányzati hivatalok dolgozóit átmeneti időre fizetés nélküli szabadságra küldték, így részleges kormányzati leállásra ébredt az Egyesült Államok szombat reggel.
+   </p>
+   <p>
+    Mindez azért történt, mert az amerikai törvényhozók Donald Trump elnök korábbi választási ígérete, a mexikói határon felhúzandó fal költségei miatt egész napos tárgyalás után sem tudtak megegyezni a kormányzat működését biztosító költségvetésről. Így péntek éjféltől leállt az amerikai kormányhivatalok egy részének működése – így a NASA teljes személyzete és az adóhivatal 52 ezer munkatársa is érintett. És bár a létfontosságú intézmények – például a rendfenntartó erők vagy a nemzetbiztonsági szervek – alkalmazottai továbbra is dolgoznak,
+   </p>
+   <p rend="head">
+    munkahelytől függően így is lesz, aki fizetésért teszi, de olyan is, aki egyáltalán nem kap javadalmazást – mindezt közvetlenül karácsony előtt.
+   </p>
+   <p>
+    A törvényhozók ugyan a hét első felében megállapodtak abban, hogy rövid távra biztosítják a kormányzati költségvetést, de ebben az összegben még nem szerepeltek az amerikai-mexikói határra építendő fal költségei. Donald Trump viszont bejelentette: csakis akkor írja alá a kormányzati költségvetést, ha az tartalmazza a tervezett fal költségeit. Trump ötmilliárd dollárt kért erre a kongresszustól.
+   </p>
+   <p>
+    A demokrata párti politikusok nem hajlottak erre, sőt Chuck Schumer, a szenátus demokrata frakciójának vezetője a kongresszusban közölte: az elnök „soha nem kapja meg a pénzt a falra”.
+   </p>
+   <p>
+    Bár Trump a hét közepén
+    még úgy fogalmazott
+    , hogy örülni fog, ha a kormányzati leállás hosszú ideig tart, péntekre már meggondolta magát, és hajlott az egyeztetésekre. Republikánus politikusokkal tárgyalt a Fehér Házban, majd Mike Pence alelnök a kongresszus republikánus vezetőivel és külön Chuck Schumerrel is megbeszélést folytatott.
+   </p>
+   <p>
+    Pénteken délelőtt a képviselőház megszavazta a kormányzati költségvetést, amely magában foglalta a határon építendő fal ötmilliárdos költségét is. Az időközben már a karácsonyi ünnepekre hazautazott szenátorok is visszatértek a fővárosba, de a szenátusi szavazás – amely még pénteken későn este is tartott – eredménytelen lett.
+   </p>
+   <p>
+    „A kormányzat leáll, semmit nem tehetünk, mert szükségünk van a demokraták  szavazataira” – fogalmazott Donald Trump abban a
+    videoüzenetben
+    , amelyet a kormányzati költségvetés elfogadásának határideje előtt két órával tett közzé. A határidő péntek éjfél volt. Az elnök még hozzátette: reméli, hogy a leállás nem tart sokáig.
+   </p>
+   <p>
+    (MTI/
+    The Guardian
+    )
+   </p>
+  </body>
+ </text>
+</TEI>

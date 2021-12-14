@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Szélsőjobboldali kamu a nagyszerű horvát elnök asszonyról terjedő poszt
+    </title>
+    <author>
+     <persName>
+      Papp Gáspár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     ebd5823b-26b4-5fea-8916-b0118bb7351e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Szélsőjobboldali kamu a nagyszerű horvát elnök asszonyról terjedő poszt
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Papp Gáspár
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-19T14:32:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/19/szelsojobboldali-kamu-a-nagyszeru-horvat-elnokasszonyrol-terjedo-poszt/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/19/szelsojobboldali-kamu-a-nagyszeru-horvat-elnokasszonyrol-terjedo-poszt/
+     </sch:url>
+     <sch:name>
+      Szélsőjobboldali kamu a nagyszerű horvát elnök asszonyról terjedő poszt
+     </sch:name>
+     <sch:datePublished>
+      2018-07-19T14:32:00
+     </sch:datePublished>
+     <sch:author>
+      Papp Gáspár
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      propaganda
+     </sch:keywords>
+     <sch:keywords>
+      közösségi média
+     </sch:keywords>
+     <sch:keywords>
+      focivébé
+     </sch:keywords>
+     <sch:keywords>
+      Kolinda Grabar Kitarovic
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="ebd5823b-26b4-5fea-8916-b0118bb7351e">
+     <sch:identifier>
+      urn:uuid:ca4b0206-4134-4de2-8b21-7f87f3e0311a
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:51.758965
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:59:52.660386
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="ebd5823b-26b4-5fea-8916-b0118bb7351e" when="2021-12-14T15:30:51.758965">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Szélsőjobboldali kamu a nagyszerű horvát elnök asszonyról terjedő poszt
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A VB-döntő óta a hazafiasság példaképeként emelkedett magasba Kolinda Grabar-Kitarović horvát elnök asszony, aki a horvát válogatott mezében ölelgette Macront, Modrićot és a teljes horvát és francia csapatot. Nem csak a képek járták be az internetet, valószínűleg alig van olyan felhasználó Magyarországon, akinek a falán ne jelent volna meg valamelyik, a miniszteri fizetéseken és hivatali autókon spóroló, hazája fociválogatottjának vereségét méltósággal fogadó elnök asszonyról szóló hírcikk vagy Facebook-poszt.
+   </p>
+   <p rend="head">
+    Végre egy igazi hazafi – kár hogy kamu
+   </p>
+   <p>
+    Egy keddi bejegyzés például csütörtök kora délután 61 ezer lájk és 32 ezer megosztás fölött jár, és ez csak a legnépszerűbb darab, a Facebookon számos hasonló, illetve azonos tartalmú bejegyzés kering. (Összehasonlításképpen: Orbán Viktor választás utáni köszönő videója 40 ezer lájkot és valamivel kevesebb, mint 7000 megosztást ért.)
+   </p>
+   <p rend="head">
+    Az egyik baj a bejegyzéssel az, hogy teljesen kamu.
+   </p>
+   <p>
+    A Grabar-Kitarović nagyszerűségéről szóló Facebook-posztok német oldalakon kezdtek terjedni, és amint egy népszerű,
+    német nyelvterületen terjedő hoaxok és álhírek leleplezésével foglalkozó oldal megmutatta
+    , az állításokban alig van igazságmorzsa.
+   </p>
+   <p>
+    Röviden a Grabar-Kitarovićról terjedő állítások és cáfolatai.
+   </p>
+   <p>
+    <hi rend="bold">
+     1). Eladta az elnöki különgépét.
+    </hi>
+    Nem utal ilyesmire semmi, az elnöknek nincs is ilyesmire jogosítványa.
+   </p>
+   <p>
+    <hi rend="bold">
+     2.) Eladott 35 hivatali Mercedest.
+    </hi>
+    Nem utal ilyesmire semmi, az elnöknek nincs is ilyesmire jogosítványa.
+   </p>
+   <p>
+    <hi rend="bold">
+     3.) Leszállította a felére a miniszterek fizetését. (Egyes posztok szerint a sajátját is).
+    </hi>
+    Erre sincs bizonyíték.
+   </p>
+   <p>
+    <hi rend="bold">
+     4.) Leszállította felére a nagykövetek fizetését, a konzulokét 60%-ra.
+    </hi>
+    Nincs ilyen jogköre, és nem történt ilyen.
+   </p>
+   <p>
+    <hi rend="bold">
+     5.) Eltörölte a szenátorok nyugdíját. (Az eredeti német szerint csak megvágta.)
+    </hi>
+    Horvátországban nincsenek szenátorok, nyugdíjas szenátorok sem.
+   </p>
+   <p>
+    <hi rend="bold">
+     6.) Hét nyelven beszél, és nem tartja különbnek magát bárkinél.
+    </hi>
+    Ez lényegében igaz: beszél angolul, spanyolul, portugálul, horvátul, valamint alapszinten németül, franciául és olaszul.
+   </p>
+   <p>
+    A 7-es és 8-as állításokat, melyek szerint jól öltözködik, illetve tud veszíteni, nem tudjuk cáfolni.
+   </p>
+   <p>
+    Az oldal azt valószínűsíti, hogy az állításokat egy 2014-es, egykori malawi elnökről szóló cikkből vették át. Ezt ábrával is szemlélteti a lap.
+   </p>
+   <p>
+    Felül a horvát elnökről, alul a malawi ex-elnökről szóló állítások.
+   </p>
+   <p>
+    Nem ez volt az egyetlen kamu, ami a VB után terjedni kezdett. Szerdán még
+    a Magyar Távirati Iroda is hírként közölt egy hoaxot
+    , amely szerint a horvát válogatott arra kéri a politikusokat, hogy tartsák tőle távol magukat, továbbá a játékosok eladományozzák teljes sikerdíjukat szegény gyerekek nyaralására. A közleményről később kiderült, hogy kamu, és egy véletlen, valamint a sajtómunkások hanyagsága folytán került be a hír nemzetközi nyilvánosságba.
+   </p>
+   <p rend="head">
+    Szélsőjobbos propaganda
+   </p>
+   <p>
+    A horvát elnök asszony nagyszerűségéről szóló hírek és posztok azonban még ennél is súlyosabbak.
+   </p>
+   <p rend="head">
+    Amint kiderült ugyanis, az ügyesen felépített VB-döntős elnöki szereplésből legyártott szélsőjobboldali propaganda-darabot nyalt be a magyar Facebook-nyilvánosság.
+   </p>
+   <p>
+    A fenti cáfolatokat is közlő Mimikama szerint az állítások eredetileg a
+    <hi>
+     Freie Welt
+    </hi>
+    nevű, német szélsőjobboldali szájtról származnak. Az oldal elsősorban a német szélsőjobboldali AFD menekültellenes propagandáját terjeszti, a fenti állításokat forrás nélkül közölte az oldal.
+   </p>
+   <p>
+    Vagyis az történt, hogy a magyar Facebook-nyilvánosság nagy része bedőlt egy álhírnek, és ezzel maga is része lett a VB-döntőn magáról a laza, hazafias nép gyermekének képet mutató horvát elnök asszony propagandájának.
+   </p>
+   <p>
+    Holott, ha a felhasználó többet tudna Kolinda Grabar-Kitarovićról, akkor jó eséllyel jobban megfontolná, hogy megossza vagy lájkolja a róla szóló posztot.
+   </p>
+   <p rend="head">
+    Grabar-Kitarović
+    a jobboldali HDZ párt szélsőséges nacionalista, klerikális és putyinista szárnyához tartozik
+    , és korábban
+    horvát háborús bűnök relativizálásával és háborús bűnösök éltetésével hívta fel magára a figyelmet
+    .
+   </p>
+   <p>
+    Ebben a kontextusba Grabar-Kitarovićról a legfontosabb tény, hogy államfőként Horvátországot távolítaná az Európai Uniótól, és az orbáni utat követve inkább Oroszországgal kötné szorosabbra a szálakat. És éppen ez teszi alkalmassá arra, hogy a merkeli Európa-politika aláásásában érdekelt német szélsőjobb magasba emelje.
+   </p>
+   <p>
+    A történet arra mutat rá újra, amit
+    néhány napja már a VB-döntő propaganda-értékét látva megírtunk
+    : akár szimpatikus valakinek az adott politikus, akár nem, ha nem szeretnénk önkéntes propagandistává válni, akkor jó lesz körültekintőbben használnunk a közösségi médiát.
+   </p>
+   <p>
+    (Címoldali kép: Phong Hoàng flickr)
+   </p>
+  </body>
+ </text>
+</TEI>

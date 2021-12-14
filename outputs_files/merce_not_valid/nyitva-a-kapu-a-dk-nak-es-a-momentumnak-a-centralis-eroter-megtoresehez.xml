@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kinyílhat a kapu a DK-nak és a Momentumnak a centrális erőtér megtöréséhez
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f5aa2039-4dcb-5d77-877b-6a72863023a7
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Kinyílhat a kapu a DK-nak és a Momentumnak a centrális erőtér megtöréséhez
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-05-27T15:01:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/05/27/nyitva-a-kapu-a-dk-nak-es-a-momentumnak-a-centralis-eroter-megtoresehez/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/05/27/nyitva-a-kapu-a-dk-nak-es-a-momentumnak-a-centralis-eroter-megtoresehez/
+     </sch:url>
+     <sch:name>
+      Kinyílhat a kapu a DK-nak és a Momentumnak a centrális erőtér megtöréséhez
+     </sch:name>
+     <sch:datePublished>
+      2019-05-27T15:01:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      Fidesz
+     </sch:keywords>
+     <sch:keywords>
+      momentum
+     </sch:keywords>
+     <sch:keywords>
+      választás2019
+     </sch:keywords>
+     <sch:keywords>
+      dk
+     </sch:keywords>
+     <sch:keywords>
+      ep-választás
+     </sch:keywords>
+     <sch:keywords>
+      Gyurcsány Ferenc
+     </sch:keywords>
+     <sch:keywords>
+      dobrev klára
+     </sch:keywords>
+     <sch:keywords>
+      centrális erőtér
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f5aa2039-4dcb-5d77-877b-6a72863023a7">
+     <sch:identifier>
+      urn:uuid:457801b3-988a-4840-8f20-a9edaa252496
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:03.084023
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:32:54.075509
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f5aa2039-4dcb-5d77-877b-6a72863023a7" when="2021-12-14T15:31:03.084023">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Kinyílhat a kapu a DK-nak és a Momentumnak a centrális erőtér megtöréséhez
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    Nagyot fordult a magyar belpolitika, sőt, az ország helyzete is a tegnapi nappal, de még nagyobb változások indukálója is lehet a tegnapi EP-választások eredménye. Pontról-pontra szedjük össze, mi történt tegnap, és mi történhet még.
+   </p>
+   <list>
+    <item>
+     A Fidesz nyert, de azért nagy örömre nem lehet oka. 60 százalékos szavazatarány, kétharmados mandátumarány, az ellenzék megsemmisítése és 2 millió szavazó volt a cél a Fidesznél. Ebből semmi se jött össze. Sőt alig kaptak százalékosan több szavazatot mint 5 éve, ami már csak azért is értelmezhető kudarcként, mert az elmúlt 5 évben brutálisan megnőttek a Fidesz lehetőségei a magyar állam, a média, az önkormányzatok elfoglalásával. Sőt, még európai szinten is elég rosszul alakult a dolog. Nem lett szélsőjobboldali áttörés, lényegében minden szélsőjobboldali erő elmaradt az előzetes várakozásoktól, és a liberális és a zöld pártok is erősödtek. Emellett egy olyan ALDE-Macron-Néppárt-szocdem koalíció fog létrejönni, amely nem fogja kedvelni Orbánt. Méghozzá azt az Orbánt, aki minden valószínűség szerint pártcsalád nélkül marad.
+    </item>
+    <item>
+     Az ellenzék háza táján akár a tökéletes tisztulásra is van esély. A tegnapi katasztrofális eredmény után nincs értelme sok pénzt rakni az LMP feltámadására, de a DK az MSZP, a Momentum pedig az LMP és a Jobbik fiatal szavazóinak egy részét is felszívhatja. A következő hónapok közvélemény-kutatásai bármelyik ma vesztes pártot a megszűnés szélére lökhetik.
+    </item>
+    <item>
+     A Momentum óriásit nyert, most pedig (bizonyára) belép majd a pártba Szél Bernadett és Hadházy Ákos is, így két országos ismertséggel rendelkező politikust és parlamenti képviseletet kapnak. A 2 EP-képviselői hely rendezheti a párt anyagi helyzetét, és nem lenne meglepő, ha pár nagy támogatónak is kinyílna a zsebe az irányukba. Tegnap pedig úgy „túlnyerték” magukat a vidéki nagyvárosokban is, hogy ha jól szerepel az ellenzék ősszel, kb. minden harmadik tagjukból önkormányzati képviselőt csinálhatnak, ez pedig brutálisan megtolhatja a párt felépítményét és alapzatát.
+    </item>
+    <item>
+     A DK egyértelműen a tegnapi nap nyertese. Nem lennék meglepve, ha ma reggel már felvették volna  a telefonokat, és a helyi MSZP-s szervezetek vezetőit hívnák a területi vezetők, hogy jöjjenek át a DK-ba. A DK-ra viszont veszélyes, hogy ezt a győzelmet Gyurcsány viszonylagos háttérbe tolásával érték el. Tegnap azonban már a pártvezető beszélt hosszasan a párt eredményváróján, ma újra ő állt ki sajtótájékoztatót tartani, és ő beszél a parlamentben is. Kérdés, hogy az ellenzéki és bizonytalan szavazók felé tegnap a DK áttörte-e a Gyurcsány-plafont, megváltozik-e a közgondolkodás a volt miniszterelnökről.
+    </item>
+    <item>
+     Az MSZP-nek sosincs vége. A párt helyben sok helyen erősebb, mint ahogy az országosan vagy egy EP-választáson látszik. De tegnap este megcsapták őket és rájuk számoltak. Akár a kiütésre is lehet esély, de mivel az önkormányzati választáson sok helyen megkerülhetetlen, valószínűleg a számolás közben fel fog állni. De kérdés, hova. Az most elég valószínűnek tűnik, hogy nem a legerősebb ellenzéki párt helyére. És kérdés az is, hány polgármestere, helyi képviselője, helyi szervezete fog átevezni más színekbe őszig. Az is elég valószínű, hogy Tóth Bertalan menni fog, kivéve, ha a pártellenzékben lévő Mesterházyék úgy döntenek, vívja még a mostani MSZP-s vezetés a haláltusát helyettük.
+    </item>
+    <item>
+     Az LMP teljesen menthetetlennek tűnik ma. Persze csodák mindig vannak, de igazából most az a kérdéses, mi lesz a párt létező vagyonával, egyben marad-e a frakció, vagy lesznek olyanok, akik máshol próbálnak szerencsét?
+    </item>
+    <item>
+     A Jobbikról nehéz mit írni. Mondhatnánk, hogy a néppártosodás megbukott, de valójában a Jobbik vezetése, vagyis annak a hiánya bukott meg. Persze a már korábban meglévő óriási belső konfliktusok miatt a visszaradikalizálódást fogja választani a párt. Viszont ebben a Mi Hazánk Mozgalom hitelesebb. Várható, hogy Toroczkaiék szép lassan fel fogják szívni a Jobbik maradék radikális szavazótáborát, míg a Momentum és mások a konzervatívabb részét. Nem nagyon látszik, hogy ki és hogyan tudna megújulást hozni a pártban.
+    </item>
+    <item>
+     Kérdéses, mi lesz a önkormányzati választáson. A Puzsér Róbert mögött lévő két párt 6 százalékos támogatottsága Budapesten nem túl acélos, de Karácsony Gergely se lobogtathatja az MSZP-Párbeszéd támogatottságát. Persze neki ott van még a DK és a Momentum. Ez a három párt pedig tegnap este többségben volt Budapesten. De kérdéses az is, hogy vidéken mi lesz a jobbikos és MSZP-s jelöltekkel, akiknek pártjai csak a harmadik-negyedik helyet szerezték meg. Persze a tárgyalásokat újranyitni katasztrófa lenne, de az egyes önkormányzati képviselői helyek többletéért joggal jelentkezik be a DK és a Momentum.
+    </item>
+    <item>
+     A legnagyobb kérdés pedig az, hogy a DK és a Momentum ki tudja-e használni a tegnap estét, hogy ősszel országos hálózatot építsen, és eljusson minden nagyobb városba az országban, ahol aztán létező szervezettel tud jelen lenni. Persze ma valószínűbb a töredezettség fennmaradása, de ha a közvélemény-kutatások azt mutatják a következő hónapokban, hogy az emberek a másik 3 párttól átpártolnak a DK-hoz és a Momentumhoz, jelentősen kitisztulhat az ellenzéki pálya, ami az összefogás-kérdés eltűnésével, és a centrális erőtér helyett esetleg felálló „Fidesz kontra liberálisok” új törésvonallal nagyon nagy gondokat okozhat a Fidesznek.
+    </item>
+   </list>
+  </body>
+ </text>
+</TEI>

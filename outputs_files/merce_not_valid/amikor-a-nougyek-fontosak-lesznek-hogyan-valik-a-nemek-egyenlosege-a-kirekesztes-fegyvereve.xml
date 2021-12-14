@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Amikor a nőügyek fontosak lesznek: hogyan válik a nemek egyenlősége a kirekesztés fegyverévé?
+    </title>
+    <author>
+     <persName>
+      Gregor Anikó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1a7ec73a-58c8-5bd4-9e81-3af757594906
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Amikor a nőügyek fontosak lesznek: hogyan válik a nemek egyenlősége a kirekesztés fegyverévé?
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Gregor Anikó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-03-27T07:40:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/03/27/amikor-a-nougyek-fontosak-lesznek-hogyan-valik-a-nemek-egyenlosege-a-kirekesztes-fegyvereve/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/03/27/amikor-a-nougyek-fontosak-lesznek-hogyan-valik-a-nemek-egyenlosege-a-kirekesztes-fegyvereve/
+     </sch:url>
+     <sch:name>
+      Amikor a nőügyek fontosak lesznek: hogyan válik a nemek egyenlősége a kirekesztés fegyverévé?
+     </sch:name>
+     <sch:datePublished>
+      2018-03-27T07:40:00
+     </sch:datePublished>
+     <sch:author>
+      Gregor Anikó
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      Orbán Viktor
+     </sch:keywords>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      migráció
+     </sch:keywords>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+     <sch:keywords>
+      nők
+     </sch:keywords>
+     <sch:keywords>
+      antifeminizmus
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1a7ec73a-58c8-5bd4-9e81-3af757594906">
+     <sch:identifier>
+      urn:uuid:7065d196-2e69-43d1-aebe-5d4852a997c0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:42.253045
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:47:11.297711
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1a7ec73a-58c8-5bd4-9e81-3af757594906" when="2021-12-14T15:30:42.253045">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Amikor a nőügyek fontosak lesznek: hogyan válik a nemek egyenlősége a kirekesztés fegyverévé?
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    Sokak számára meglepőnek vagy éppen
+    képmutatónak tűnhet
+    , ha egy nacionalista politikus a nemek egyenlőségének elvében hirtelen védendő európai értéket lát, és hitet tesz amellett, hogy fontosnak is tartja azt. Miként lehetséges ez, ha a konzervatív nacionalizmus ideológiai alapjai a nők számára fő feladatként a nemzet biológiai és kulturális újratermelését tűzik ki, míg ugyanezen az alapon a férfiaknak inkább a haza (nők és gyerekek) védelmében kellene jeleskedniük? Miért és meddig fontos egy ilyen alapvetésben a nemek egyenlősége?
+   </p>
+   <p>
+    Orbán Viktor miniszterelnök a Kossuth Rádió stúdiójában 2017. december 22-én. MTI Fotó: Máthé Zoltán
+   </p>
+   <p>
+    Orbán Viktor nem először tett utalást arra, hogy hisz a nemek egyenlőségében, különösen akkor, ha azt védelmeznie kell valamivel szemben. 2016. március 15-ei
+    beszédében
+    utalt már arra, hogy a nemzetközi migrációval veszély fenyegeti az európai alapelveket, köztük férfiak és nők egyenjogúságát. 2017-ben hozzá intézett parlamenti kérdésre adott válaszában
+    jelezte
+    , hogy a nőkkel szembeni erőszak ellen tiltakozóknak inkább támogatnia kellene a magyar kormánynak az erőszakos migránsok elleni védekezését. Legutóbb pedig a Kossuth Rádióban
+    fejtette ki
+    a szokásos vasárnapi nyilatkozatában, hogy az egész európai kultúra alapja és sarokköve nők és férfiak egyenjogúsága, amit veszélyeztetnek a bevándorlók.
+   </p>
+   <p>
+    Ebből a rövid felsorolásból már látható, hogy ebben az érvelési keretben a nemek egyenlősége nem önmagáért fontos demokratikus alapérték, hanem egy megkülönböztetés és ellentétpár felrajzolásának alapjául szolgál: a nőket elnyomásban tartó muszlim migráns „ők” és a nemek egyenlőségét gyakorló és védelmező „mi” létrehozásában. Európainak, s benne magyarnak lenni annyi, mint hinni a nemek egyenlőségében, azok pedig, akik migránsok, lábbal tiporják azt.
+   </p>
+   <p rend="head">
+    Nem Orbán az első és egyetlen nacionalista politikus, aki a nemek egyenlőségét a kirekesztés eszközeként használja a bevándorlókkal vagy más csoportokkal szemben.
+   </p>
+   <p>
+    Talán nem is gondolnánk, hogy a jelenség olyan országokban is
+    felütötte a fejét
+    , mint a nemi esélyegyenlőségéről híres Svédország, ahol a szélsőjobb Svéd Demokraták érvelési keretét elemzők mutattak rá arra, hogy a nemek egyenlősége mint a svéd nemzet elvitathatatlan alapértékének hangoztatása egy célt szolgál: kirekeszteni a nőket elnyomásban tartó muszlim bevándorlókat a svéd nemzet fogalmából. Azzal ráadásul, ha a férfi politikusok a nemek egyenlőségét megvédendő értékként és ezzel egyidőben a nemzet női tagjait és a jogaikat is gyengébb, védelmezendő elemként mutatják be, a nacionalizmus tradicionális keretébe is tökéletesen illeszkedő férfiasság alakítására képesek.
+   </p>
+   <p>
+    Ugyanebben a keretezésben megbújik egy másik üzenet is, nevezetesen az, hogy az adott ország vagy éppen régió (itt: Európa) megvalósította női és férfi állampolgárai között a nemek egyenlőségét. Ez az értelmezés egyúttal partszélre sodorja a különféle feminista mozgalmak célkitűzéseit is, amelyek ugyan sokszor eltérő érvrendszerek mentén, de mind amellett foglalnak állást, hogy a nemek jogi, politikai, gazdasági, szociális egyenlősége a gyakorlatban számtalan területen a mai napig sem valósult meg maradéktalanul.
+   </p>
+   <p>
+    Mindeközben rengeteg indikátor mutatja azt, hogy nemhogy Magyarországon
+    nem
+    , de még a „bezzeg-országnak” kikiáltott Svédországban
+    sem
+    valósult meg nők és férfiak egyenlősége, és bőven akad tennivaló a kérdésben.
+   </p>
+   <p rend="head">
+    A nemek egyenlőségét a nemzet határvonalainak felrajzolásához felhasználó érvelés kiüresíti és depolitizálja a fogalmat, elvész az egyenlőségi elv eredeti értelme, amely  a nemek hierarchikus viszonyának átalakítását célozza.
+   </p>
+   <p>
+    Elveszi annak a lehetőségét, hogy ennek legnyilvánvalóbb megjelenési formáiról beszéljünk, így arról, hogy a nacionalizmus által is propagált tradicionális nemi szerepek (pl. a fizetetlen háztartási és gondoskodó munkák egyenlőtlen cseréje
+    révén
+    ), vagy a speciális társadalmi csoportok női tagjaihoz rendelt alulfizetett munkák hogyan járulnak hozzá nők gazdasági kizsákmányolásához, és erősítik egymást a globális kapitalizmus működési logikájával.
+   </p>
+   <p>
+    Azt is megnehezíti, hogy értelmes társadalmi vita bontakozzon
+    akár különféle feminista irányzatok képviselői között is
+    arról,  hogy a gazdasági és más típusú  kirekesztés miként erősíthet fel olyan kulturális kódokat férfiakban, amelyek a tradicionális férfiasságot az elnyomás és hatalom gyakorlásában, például a nők elleni erőszakos viselkedésben látják megvalósíthatónak.
+   </p>
+   <p>
+    Nem esik szó arról sem, hogy vajon milyen gazdasági tényezők és élethelyzetek teszik fogékonnyá a lakosságot az idegenellenességre, ahol a választási hajrában a pártok egymásra licitálva
+    űznek sportot
+    a gyűlöletkeltésből, és jóléti politikák helyett a jóléti sovinizmus paklijából terítik a kártyáikat. A kérdések elfojtása csakis annak kedvez, aki fekete-fehérnek akar láttatni komplex társadalmi kérdéseket, és „jó -rossz” ellentétpárokban gondolkodik jelenségekről.
+   </p>
+   <p>
+    Ennek eredményeképpen bárki, aki azért emel szót a nemek egyenlőségét kirekesztő politikai célokra való felhasználás ellen, mert az egyenlőtlenségek nagyon is jelenlévő és sokszor szó szerint húsba vágó valóságára akarja felhívni a figyelmet, könnyen az ellenség soraiban találja magát. Ha viszont itt a lehetőség, hogy egy-egy ilyen kinyilatkoztatás reflektorfénybe hozza a nemek közti egyenlőtlenségek különböző megjelenési formáit, a mögöttük rejlő összetett okokat és ezek összefüggését más, látszólag távoli jelenségekkel, érdemes kihasználni a helyzetet, és megpróbálni kimozdítani a vitákat a szokásos keretekből.
+   </p>
+  </body>
+ </text>
+</TEI>

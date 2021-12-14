@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Legalább öten meghaltak a káoszban Kabul repterén
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     b28fafa2-833b-5c92-bbca-6e89a6dcefeb
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Legalább öten meghaltak a káoszban Kabul repterén
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-08-16T14:00:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/08/16/legalabb-oten-meghaltak-a-kaoszban-kabul-repteren/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/08/16/legalabb-oten-meghaltak-a-kaoszban-kabul-repteren/
+     </sch:url>
+     <sch:name>
+      Legalább öten meghaltak a káoszban Kabul repterén
+     </sch:name>
+     <sch:datePublished>
+      2021-08-16T14:00:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      menekültek
+     </sch:keywords>
+     <sch:keywords>
+      háború
+     </sch:keywords>
+     <sch:keywords>
+      afganisztán
+     </sch:keywords>
+     <sch:keywords>
+      tálibok
+     </sch:keywords>
+     <sch:keywords>
+      talibán
+     </sch:keywords>
+     <sch:keywords>
+      dél-ázsia
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="b28fafa2-833b-5c92-bbca-6e89a6dcefeb">
+     <sch:identifier>
+      urn:uuid:6e6e815f-e53a-4eba-a081-720adf5c81f3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:23.818203
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:52:25.027124
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="b28fafa2-833b-5c92-bbca-6e89a6dcefeb" when="2021-12-14T15:30:23.818203">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Legalább öten meghaltak a káoszban Kabul repterén
+   </head>
+   <p>
+    Legalább öten meghaltak eddig a Kabul repterén kitört káoszban, miután emberek ezrei próbálnak meg bármely lehetséges repülőgépre felkapaszkodni, ami elhagyja az országot – írja az
+    AlDzsazíra
+    . A lap tudósítója szerint öt holttestet szállítottak el, azt azonban nem tudni, hogy mitől haltak meg.
+   </p>
+   <p rend="head">
+    Miután a nyugati országok megkezdték
+    Kabul evakuálását
+    , a város repülőterén teljes a káosz, mert sokan, akik nem szimpatizálnak a Talibánnal, a főváros
+    elfoglalása
+    után utolsó mentsvárként odamenekültek, és arra várnak, hogy feljussanak egy repülőgépre, ami elhagyja az országot.
+   </p>
+   <p>
+    Az alábbi felvételen látszik, ahogy emberek tömegei igyekeznek a repülőtérre.
+   </p>
+   <p>
+    Another day begins in Kabul, a sea of people rushing into the Kabul airport terminal.
+    #AFG
+    pic.twitter.com/UekpGJ2MWd
+   </p>
+   <p>
+    — Jawad Sukhanyar (@JawadSukhanyar)
+    August 16, 2021
+   </p>
+   <p>
+    A reptér jelenleg az amerikai katonák felügyelete alatt áll, akik biztosítják a követség és a kiszolgálószemélyzet, valamint a megszállás alatt velük együttműködő afgánok kimenekítését. Számos más ország is megkezdte állampolgárai, valamint a kollaboráns afgánok evakuálását. A francia követség egyelőre a repülőtérre költözött.
+   </p>
+   <p>
+    The French Embassy is relocated and at work
+    @KabulAirport
+    #Afghanistan
+    pic.twitter.com/qmuNgb9Mbm
+   </p>
+   <p>
+    — David Martinon (@david_martinon)
+    August 16, 2021
+   </p>
+   <p>
+    Noha főképp a nyugati országoknak dolgoztak nagy számban helybeli tolmácsok, valamint egyéb kisegítőszemélyzet, a várakozások szerint ezek az országok nem fognak tudni minden, velük együttműködő afgánt kimenteni. Albánia, Koszovó és Észak-Macedónia ugyanakkor már
+    bejelentették
+    , hogy felkészültek az afgán menekültek fogadására.
+   </p>
+   <p>
+    A repülőtéren felfüggesztették a kereskedelmi forgalmat, jelenleg leginkább a különböző megszálló hadseregek szállítórepülői és helikopterei jelentik a forgalmat. Sok menekülőre kevés repülő jut, így sokan elkeseredésükben mindenféle alkatrészekre, a repülők hágcsóira próbálnak felkapaszkodni. Az alábbi videón egy amerikai C-17-es típusú repülőgép készül felszálláshoz, helyi tudósítások szerint többen is a mélybe zuhantak a gépről, miután a levegőbe emelkedett.
+   </p>
+   <p>
+    Kabul Airport runway today. No words needed.
+    pic.twitter.com/8SfzEOprUZ
+   </p>
+   <p>
+    — Shiv Aroor (@ShivAroor)
+    August 16, 2021
+   </p>
+   <p>
+    pic.twitter.com/ztsl6jiVXv
+   </p>
+   <p>
+    — Sowaibah Hanifie (@SowaibahH)
+    August 16, 2021
+   </p>
+   <p>
+    Az amerikai katonák figyelmeztető lövéseket is leadtak, mert nem tudták máshogy kordában tartani a tömeget. A Talibán pedig felszólította a repülőtéren várakozókat, hogy térjenek haza. Az iszlamista terrorszervezet arról is biztosította a civileket, hogy nem fog bántódásuk esni, ahogy felszólította a harcosait arra is, hogy engedély nélkül ne menjenek be lakásokba.
+   </p>
+   <p>
+    Az alábbi felvételen látható, milyen mostanában a helyzet a repülőtéren.
+   </p>
+   <p>
+    Asraf Ghani elnök tegnap, azaz vasárnap hagyta el az országot, miután a tálibok meglepően hamar elfoglalták a fővárost, vagyis uszkve tíz nap alatt gyakorlatilag az egész országot az uralmuk alá hajtották, holott korábban akár hónapokig is elhúzódó harcokat prognosztizáltak.
+   </p>
+   <p>
+    A nemzetközi kontingens felügyelte reptéren kívül Kabul teljes városát is elfoglalták, így sok embernek nem volt már hova mennie, miután sokan már a fővárosba is az iszlamisták elől menekülve érkeztek. Mindazonáltal a menekülők között a híradások szerint a tálibok már eleste előtt beszivárogtak a fővárosba.
+   </p>
+   <p>
+    Helyi tudósítások szerint a tálibok valamennyi kormányzati intézményt átvették, hogy működtetni tudják az országot, miután az elnöki palotát már a tegnapi napon elfoglalták. Szemben a reptéren tapasztalható káosszal az utcák csendesek, és sok tálib harcost látni.
+   </p>
+   <p>
+    A jelenlegi eseményeket sokan hasonlítják ahhoz, ahogy az amerikaiak Saigont evakuálták, miután elveszítették a vietnámi háborút. Noha a káosz jelenleg is hasonló, a helyzet annyiban más, hogy jelen esetben egy kegyetlen vallási fundamentalista csoporttal állnak szemben a nyugati hatalmak.
+   </p>
+   <p>
+    Afganisztánból húsz év után vonulnak ki a nyugati megszállók, és világos, hogy ezen idő alatt nem sikerült legyőzni az iszlamistákat, és a köztársasági államforma sem tudott megfelelően megszilárdulni, amit az is jelez, hogy a tálibok bármelyik percben kikiálthatják az emirátust.
+   </p>
+   <p>
+    Antonio Guterres ENSZ-főtitkár
+    aggodalmát fejezte ki
+    , különösen a nők és lányok jogaival kapcsolatban, amit nem lát biztosítottnak a Talibán uralma alatt. Az iszlám fundamentalista szervezet által elfoglalt területeken több helyen hazaküldték a nőket a munkahelyükről, és a lányokat az iskolákból, mivel a szervezet szerint a nőknek nem szabad bérmunkát végezniük és tanulniuk.
+   </p>
+   <p>
+    Mindazonáltal a tálibok ezúttal nem a véreskezű gyilkosok és vallási extremisták képében kívánnak tetszelegni, ehelyett békés átmenetet, kormányzást, valamint nemzetközi kapcsolatokat ígérnek – ennek bizonyítására még
+    a nyugati sajtóval is szóba állnak
+    , ahelyett, hogy például lefejeznék a tudósítókat. A liberalizálódás jegyében többek között a nőknek nem kell az arcukat is eltakarniuk, elég csak a hajukra kendőt kötniük.
+   </p>
+   <p>
+    A békés átmenetben bízhat sok kollaboráns afgán is, miután a nyugati hatalmak egyáltalán nem biztos, hogy mindenkit ki tudnak menekíteni, ahogy arról
+    a brit védelmi miniszter is beszélt
+    .
+   </p>
+  </body>
+ </text>
+</TEI>

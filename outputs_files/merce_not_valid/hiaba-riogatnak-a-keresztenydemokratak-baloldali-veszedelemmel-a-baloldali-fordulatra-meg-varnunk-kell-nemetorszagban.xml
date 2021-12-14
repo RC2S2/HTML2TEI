@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hiába riogatnak a kereszténydemokraták „baloldali veszedelemmel”, a baloldali fordulatra még várnunk kell Németországban
+    </title>
+    <author>
+     <persName>
+      Mikus Áron
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2ed1ac8d-ed72-5361-bd21-6222d1ba6a1f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Hiába riogatnak a kereszténydemokraták „baloldali veszedelemmel”, a baloldali fordulatra még várnunk kell Németországban
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Mikus Áron
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-09-18T07:30:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/09/18/hiaba-riogatnak-a-keresztenydemokratak-baloldali-veszedelemmel-a-baloldali-fordulatra-meg-varnunk-kell-nemetorszagban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/09/18/hiaba-riogatnak-a-keresztenydemokratak-baloldali-veszedelemmel-a-baloldali-fordulatra-meg-varnunk-kell-nemetorszagban/
+     </sch:url>
+     <sch:name>
+      Hiába riogatnak a kereszténydemokraták „baloldali veszedelemmel”, a baloldali fordulatra még várnunk kell Németországban
+     </sch:name>
+     <sch:datePublished>
+      2021-09-18T07:30:00
+     </sch:datePublished>
+     <sch:author>
+      Mikus Áron
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      külföld
+     </sch:keywords>
+     <sch:keywords>
+      Németország
+     </sch:keywords>
+     <sch:keywords>
+      Bundestag2021
+     </sch:keywords>
+     <sch:keywords>
+      Olaf Scholz
+     </sch:keywords>
+     <sch:keywords>
+      armin laschet
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2ed1ac8d-ed72-5361-bd21-6222d1ba6a1f">
+     <sch:identifier>
+      urn:uuid:51631033-0af6-4a61-856e-eba7a9347fb0
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:31:04.232293
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:54:22.841569
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2ed1ac8d-ed72-5361-bd21-6222d1ba6a1f" when="2021-12-14T15:31:04.232293">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Hiába riogatnak a kereszténydemokraták „baloldali veszedelemmel”, a baloldali fordulatra még várnunk kell Németországban
+   </head>
+   <p>
+    Már csak nyolc nap maradt hátra a szeptember 26-i németországi választásokig, és a közvélemény-kutatások szerint a legvalószínűbb, hogy a szociáldemokrata Olaf Scholz lesz Angela Merkel kancellár utódja. Scholz kapcsán a kereszténydemokraták baloldali fordulattal riogatnak, azonban végignézve a kancellárjelölt politikai pályáján, ez elég valószínűtlen feltételezés.
+   </p>
+   <p>
+    A Forsa szeptember 7-én publikált telefonos felmérésének
+    eredményei
+    szerint
+    történelmi mélyponton
+    , 19%-on állt a jelenleg nagyobbik kormánypárt, a Kereszténydemokrata Unió (CDU), míg az egy hónapja még harmadik helyen álló szociáldemokraták (SPD) 25%-kal magabiztosan vezetnek. Az Annalena Baerbock kancellárjelöltségének áprilisi bejelentésekor 28%-kal első helyre ugró Zöldek (Die Grünen) viszont már csak a harmadik helyen állnak 17%-kal. A szociáldemokraták a GMS (társadalom- és piackutatási társaság) által szeptember 14-én publikált telefonos kutatás
+    szerint
+    továbbra is 25%-kal vezetnek, viszont a CDU náluk csak 2 százalékponttal van lemaradva, és 23%-on áll (és már a Forsánál is visszaerősödött 21%-ra). A GMS-nél a Grüne 16, az FDP 13, a Linke 6, az AfD 11 százalékon áll.
+   </p>
+   <p>
+    A Zöldek lecsúszásában komoly szerepet játszhatott a konzervatív média által Baerbock ellen folytatott
+    dezinformációs kampány
+    , valamint Baerbock ismétlődő hibái, úgy mint a
+    feljavított önéletrajza
+    vagy a
+    plágiumügye
+    sem kedvezett a népszerűségének. Ahogyan a CDU visszaesésében is komoly magyarázó erővel bír Armin Laschet kancellárjelölt szerepe, aki a saját pártját sem tudhatja teljes mértékben maga mögött – többen még az elmúlt hetekben is
+    Söder jelöltsége mellett
+    érveltek –, valamint a
+    júliusi árvizek során is hibát hibára halmozott
+    .
+   </p>
+   <p>
+    A közvélemény-kutatásokat vezető SPD esetében szintén nagy súllyal esik latba a kancellárkelöltjük, Olaf Scholz szerepe, aki már
+    július végén
+    vezette a kancellárjelöltek személyével kapcsolatos közvélemény-kutatásokat, miközben a pártjának csak az elmúlt hetekben sikerült átvennie a vezetést. Ha közvetlenül választanák a kancellárt, akkor a
+    válaszadók
+    30%-a Scholzra, 15 százaléka Baerbockra, és mindössze 9%-a szavazna Laschetre.
+   </p>
+   <p rend="head">
+    Scholz népszerűségének okát sokan abban látják, hogy a jelenlegi alkancellár és pénzügyminiszter testesíti meg azt a folytonosságot és kiszámíthatóságot, amit a választók megszoktak Angela Merkel kancellársága idején.
+   </p>
+   <p>
+    Scholz kampánytanácsadói
+    is abban reménykedtek, hogy több millió „Merkel-szavazó” lesz a piacon, akik a politikai középtől egy kevéssel balra állnak, ha igazságosságossági kérdésekről vagy éppen nyitottságról van szó, és számukra már nem lesz vonzó a – ha kevéssel is, de – jobbra mozduló CDU. Ezt érezhette meg Merkel is, amikor az utolsó kancellári beszédében a tőle megszokott diplomatikusság helyett kiállt Laschet mellett, és Scholzot támadva egy baloldali koalíció (SPD, Linke, Grüne) esélyével rémisztgetett, csatlakozva ezzel a pártja legújabb kommunikációs stratégiájához.
+   </p>
+   <p rend="head">
+    A szociáldemokraták árulása
+   </p>
+   <p>
+    Azonban a szocializmussal történő riogatás az SPD jobbszárnyához tartozó 63 éves munkajogász esetében finoman szólva is túlzó. A Gerhard Schröder által 2003-ban bejelentett – a munkaerőpiac rugalmassá tételét és a „jóléti állam modernizálását” célzó –
+    <hi>
+     Agenda 2010
+    </hi>
+    reformcsomagnak éppen a pártfőtitkári minőségben eljáró Scholz volt az egyik megalkotója. A csomag jelentős mértékben gyengítette meg a jóléti államot, és alapvető fordulatot hozott a német foglalkoztatási politikában, aminek a központi felfogása a „még egy rosszul fizetett munka is jobb, mint a munkanélküliség” lett.
+   </p>
+   <p>
+    Ennek szellemében 12 hónapban maximalizálták az álláskeresési járadékot, valamint az annak lejárta után kapható munkanélküli segély helyett bevezették a megalázóan alacsony összegű, csupán létminimumot biztosító
+    <hi>
+     Hartz IV
+    </hi>
+    -t, amely a munkaerőpiacra történő visszatérés ösztönzésének érdekében „együttműködési kötelezettséget” ír elő. Ennek értelmében az ember kénytelen elvállalni a neki felajánlott munkát, különben büntetésként csökkentik a folyósított összeget. A gyakorlatot, amely során a szankciók miatt a létminimum alá csökkent az összeg, az alkotmánybíróság 2019 végén az emberi méltósággal összeegyeztethetetlennek
+    ítélte
+    . A Schröder által hangsúlyozott egyéni felelősségvállalás különösen azon
+    keletnémetekkel szemben volt cinikus
+    , akik a rendszerváltás utáni gyárbezárások miatt vesztették el a munkahelyüket. Keleten ekkor a munkanélküliségi ráta kétszerese volt a nyugat-németországinak (20%) és ötvenezer nyitott pozíció jutott 1,6 millió álláskeresőre.
+   </p>
+   <p>
+    Scholz a reformok 10 éves évfordulóján a
+    <hi rend="italic">
+     Frankfurter Allgemeine Zeitung
+    </hi>
+    nak adott
+    interjújában
+    megvédte és sikeresnek nevezte az intézkedéseket, holott a munkanélküliség csökkenése jelentős részben a kétezres évek második felében történő,
+    már a reformok előtt is meglévő exporttöbblet
+    és a
+    megnyíló távol-keleti piacok
+    okozta gazdasági fellendülésre vezethető vissza. Azt azonban kénytelen volt elismerni, hogy a dereguláció – az ekkor még hiányzó általános minimálbér nélkül – ahhoz vezetett, hogy a cégek – visszaélve az egykori munkáspárt által kiszolgáltatottá tett munkavállalók helyzetével – lenyomják a béreket. (
+    <hi>
+     Wer hat uns verraten?
+    </hi>
+    )
+   </p>
+   <p>
+    Olaf Scholz hamburgi polgármesterként 2014-ben. (Fotó: Flickr / Heinrich-Böll-Stiftung)
+   </p>
+   <p rend="head">
+    Szegénység a világ egyik leggazdagabb országában
+   </p>
+   <p>
+    A német jóléti állam célja alapvetően mindig is a társadalmi rend fenntartása, és az egyén státuszának megőrzése volt az egyenlőtlenségek kiegyenlítésével szemben. (A
+    <hi rend="italic">
+     Jóléti kapitalizmus három világa
+    </hi>
+    című 1990-ben könyvében Gøsta Esping-Andersen dán szociológus három jellegzetes jólétiállam-modellt különböztet meg, amelyek közül az egyik a Németország példáján keresztül bemutatott
+    <hi rend="italic">
+     konzervatív modell
+    </hi>
+    .) Azonban az elmúlt 20 évben – részben a fent bemutatott folyamatoknak betudhatóan – jelentősen nőttek a jövedelmi és vagyoni különbségek, és a
+    szegénység is szembetűnő
+    a világ negyedik legerősebb gazdaságával rendelkező országában
+    . A szakszervezetekhez közel álló Hans-Böeckler Alapítvány
+    adatai szerint
+   </p>
+   <p rend="head">
+    a jövedelem eloszlása 2017-ben egyenlőtlenebb volt Németországban, mint Magyarországon.
+   </p>
+   <p>
+    A
+    vagyon egyenlőtlen eloszlását tekintve
+    pedig kizárólag Litvánia előzi meg az Európai Unióban. És miközben a gazdagok gazdagabbak lettek, a szegények szegényebbek: 2006 és 2019 között
+    14%-ról 15,9%-ra
+    emelkedett – a gazdasági növekedés ellenére is – a jövedelmi szegénységben élők aránya, tehát azon embereknek, akik jövedelme nem éri el medián jövedelem 60%-át – ami
+    2018-ban havi 1040
+    euró volt.
+   </p>
+   <p>
+    A koronavírus következményeként a szociális helyzet csak tovább romlott, különös tekintettel az egyébként is hátrányos helyzetű csoportokra. Így az idők szavát meghallva a jóléti állam leépítése után, most egy
+    „tartást adó és állampolgár-közeli jóléti állam”
+    kiépítését tervezik a szociáldemokraták.
+    Ennek keretében
+    búcsút intenének a
+    <hi>
+     Hartz IV
+    </hi>
+    -nek, amit jelenleg közel
+    3,9 millió ember
+    vesz igénybe, habár a
+    szankciókat
+    nem törölnék e
+    l teljesen
+    . Egyszerűbbé tennék az igénylését, és megemelnék az összeget – igaz, az még nem világos, hogy pontosan mennyivel, és mi alapján. Továbbá a folyósítás első két évében eltekintenének a megalázó vagyonfelmérési eljárástól is. Ezenfelül az adórendszer átalakításával próbálnák csökkenteni az egyenlőtlenségeket: tehermentesítenék a közepes jövedelműeket, igazságosabbá tennék az örökösödési adót, és vagyonadót vezetnének be a szupergazdagoknak. Mindemellett pedig a jelenleg 9,6 eurós minimálbért 12 euróra emelnék.
+   </p>
+   <p>
+    A Leibniz-Zentrum für europäische Wirtschaftsforschung kutatói megvizsgálták, hogy milyen hatásokkal járna az egyes pártok programja, amit magyarul a
+    G7 foglalt össze
+    . Ennek megfelelően látható, hogy az SPD-nél még a Zöldek is balosabbak: A jövedelmi egyenlőtlenségek a szociáldemokraták tervei alapján 4,3 százalékkal, míg a Zöldekével 6,5 százalékkal csökkennének. A Linke programja 14,5 százalékkal csökkentené ennek mértékét.
+   </p>
+   <p>
+    A költségvetési kiadások 3%-kal nőnének meg az SPD, 4%-kal a Zöldek, és 8%-kal a Linke programja alapján. A költségvetési szigor elve szintén Olaf Scholzra vezethető vissza, aki a nagykoalíció pénzügyminisztereként magáévá tette a CDU által propagált „
+    <hi>
+     schwarze Null”
+    </hi>
+    (fekete nulla) néven elhíresült elvet, amely megtiltja az állami költségvetés eladósodását. Ennek megfelelően, amíg például a Zöldek részben
+    állami hitelfelvétellel
+    kívánnák a zöld átállást finanszírozni, addig Scholz a magánbefektetőkben bízik, hogy megteremtik az ahhoz szükséges pénzügyi forrásokat.
+   </p>
+   <p rend="head">
+    Szociáldemokraták a kereszténydemokraták árnyékában
+   </p>
+   <p>
+    A kancellárjelöltjük rátermettségére és kormányzati tapasztalatára építő szociáldemokratákkal szemben épp a kormányzati részvételük vet fel kérdéseket. Hiszen az elmúlt 16 évből kisebbik kormánypártként 12 évet együtt kormányoztak a CDU-val. Ez idő alatt az SPD végig szenvedett a romló közvélemény-kutatási adatok miatt, és a párton belül is újra és újra előkerült a kérdés, hogy meddig éri még meg a kormányzás, ha annak a párt jelentéktelenné válása az ára. A párt ifjúsági tagozata (Jusos –
+    <hi rend="italic">
+     fiatal szocialisták
+    </hi>
+    ) – akkori vezetőjük, a párt balszárnyához tartozó Kevin Kühnert kezdeményezésére – a 2018-as koalíciós tárgyalások alatt kampányt indított a nagykoalíció ellen. (#
+    <hi>
+     NoGroko
+    </hi>
+    – nem a nagykoalícióra). Kühnert a közszolgálati média egyik fiataloknak szóló műsorában
+    kifejtette
+    , hogy kiváló alkalom lenne a pártja számára otthagyni a tárgyalóasztalt, ha a „CSU megint valami
+    rasszista bullshitet
+    talál mondani a menekültek kapcsán”.
+   </p>
+   <p>
+    A Jusos törekvése ellenére a nagykoalíció felállt, és Scholz pénzügyminiszteri és alkancellári pozíciót kapott benne. Persze a keresztény néppártok továbbra is képtelenek voltak az önkritikára, ha például a
+    rendőrségi rasszizmus kivizsgálásáról
+    , vagy pedig az
+    alaptörvényben szereplő „faj” („
+    <hi>
+     rasse
+    </hi>
+    ”)
+    kifejezésről volt szó. Sőt, a
+    saját tagjuk is beszámolt a rasszizmusról.
+    A rendőrségen belüli rasszizmussal kapcsolatos kutatást végül pont Scholz
+    jelentette be
+    , ahogyan azt is, hogy 2021-ben nem fogják folytatni a nagykoalíciót. Igaz, ő nem a CDU/CSU rasszizmushoz való viszonyát vagy az SPD jobboldalhoz simulását nevezte meg okként 2019-ben a
+    <hi>
+     Tagesspiegel
+    </hi>
+    nek adott
+    interjújában
+    , hanem szerinte sorozatban három nagykoalíció nem tenne jót a demokráciának.
+   </p>
+   <p>
+    Mindezek mellett az is kérdéses, hogy eddig mi tartotta vissza az SPD-t, hogy kormányzó pártként megvalósítsa a programját, és mi változna azáltal, ha a következő kormányt ők vezetnék. És valóban, a koalíciós szerződés több fontos célkitűzését
+    sem sikerült megvalósítania
+    a két pártnak. Mint például a
+    jobboldali támadások
+    (
+    <hi>
+     Hanau war kein Einzelfall!
+    </hi>
+    ) okán tervezett, a demokráciát előremozdító projektek hosszú távú pénzügyi támogatását célzó
+    <hi>
+     Demokratiefördergesetz
+    </hi>
+    et vagy éppen a
+    gyermekek jogainak alkotmányos szintre történő emelését
+    . Ahogyan a
+    határozott idejű munkaszerződések szigorúbb szabályozása
+    és az
+    állatjóléti törvény
+    is elbukott.
+   </p>
+   <p>
+    Persze voltak sikerei is az SPD-nek, ilyen például a
+    2014-ben elfogadott minimálbér
+    , vagy a – főleg egyetemvárosokban – tarthatatlanná váló lakhatási helyzet javítását célzó
+    lakbérfék
+    , amely lehetővé teszi a tartományok számára, hogy bizonyos területeken „felfokozottnak” minősíthessék az ingatlanpiacot, és így ott az újonnan megkötött szerződések nem írhatnak elő a területre jellemző átlagárat több mint 10%-kal meghaladó bérleti díjat. Ez persze önmagában kevésnek bizonyult, elég csak megnézni Berlin példáját, ahol a
+    lakbérplafon alkotmánybírósági visszavonása
+    után arról tartanak
+    népszavazást
+    a választások napján, hogy társadalmasítsák-e a nagy ingatlankonszernek 3000 lakáson felüli lakásállományát.
+   </p>
+   <p>
+    Olaf Scholz kampányútja során felkeresett egy kézműves vásárt. (Fotó: Flickr / Dirk Vorderstraße)
+   </p>
+   <p rend="head">
+    A feledékeny Olaf király
+   </p>
+   <p>
+    Scholz mellett az egyik leggyakrabban felhozott érv a kormányzati tapasztalata: belügyminiszter Hamburgban 2001 májusától októberig, majd munkaügyi és szociális miniszter szövetségi szinten 2007 és 2009 között, aztán 2011-től 18-ig Hamburg főpolgármestere volt. Három éve pénzügyminiszter és alkancellár. Egy ilyen karrier alatt lehetőség nyílik a maradandó intézkedések meghozására, valamint az ember vezetői stílusa is megmutatkozik. Párttársai a főpolgármestersége idején „Olaf királynak” nevezték, ami a
+    <hi>
+     Zeit
+    </hi>
+    értékelés
+    ében is előkerül. Az eredetileg politikai ellenfeleitől származó elnevezés azért maradt rajta, mert hatalmas szigorral kezelte a város pénzügyeit, ami pénzügyminiszterként is jellemző volt rá.
+   </p>
+   <p>
+    Főpolgármesterként az egyik visszatérően dicsért intézkedése, amikor a fent már említett elszabaduló bérleti díjakat
+    lakásépítéssel fékezte
+    volna, és ennek keretében az újonnan épített lakások egyharmadát szociális bérlakásnak szánták. Azonban a
+    lakhatási költségek növekedését
+    ez az intézkedés is csak
+    ideig-óráig volt képes megállítani
+    , és hosszú távon más megoldásra lesz szükség a lakhatási válság leküzdésére. Sikeresebb volt ennél a 2008/9-es pénzügyi világválság hatásainak kezelésére megalkotott – és a
+    koronavírus járvány alatt is alkalmazott
+    – „
+    <hi>
+     Kurzarbeitergeld
+    </hi>
+    I”, melynek keretében az állam bizonyos mértékig átvállalta az alkalmazottak fizetését, ezáltal megakadályozva a tömeges leépítéseket.
+   </p>
+   <p>
+    A kormányzati tapasztalata mellett a „szürkesége” az, ami „nevető harmadikká” teszi a választási kampányban elvérezni látszó ellenfeleivel szemben.
+   </p>
+   <p>
+    Mert hiába voltak Scholznak is kétes ügyletei, azok egy része túlságosan is bonyolult ahhoz, hogy igazán jelentős botrány legyen belőlük. Ilyen például a hamburgi
+    Warburg bankhoz köthető
+    Cum-ex
+    botrány. A Cum-ex üzletek során a cégek az osztalék kifizetés idején kereskedtek a részvénycsomagokkal, aminek következményeként ki tudták használni azt a kiskaput, hogy egyszerre két fél is igényt tarthatott a részvényekre. Ennek megfelelően mindkét fél visszaigényelhette az osztalék kifizetésekor – csak egyszer – befizetett adót. A hamburgi adóhivatal először 2016-ban lemondott arról, hogy behajtson a Warburg banktól egy ilyen üzletből származó 50 millió eurós összeget, majd egy év múlva meggondolta magát, de akkor pedig a pénzügyminiszteri tisztséget betöltő Olaf Scholz sietett a bank segítségére. Az ügylet kivizsgálása során világossá vált, hogy még a főpolgármestersége idején Scholz többször is találkozott a bank vezetőjével, azonban a tanúvallomások során
+    nem tudott visszaemlékezni
+    , hogy miről volt szó ezen találkozók alkalmával.
+   </p>
+   <p>
+    Ehhez hasonlóan nehezen érthető a
+    Wirecard-botrányban
+    betöltött szerepe is, ami a tőzsdén is jegyzett pénzügyi szolgáltatásokat végző Wirecard 2020. június 19-i összeomlása kapcsán robbant ki. Ekkor derült ki ugyanis, hogy 1,9 milliárd euró hiányzik a cég költségvetéséből. Az ügy a politikát sem hagyta érintetlenül, mivel a cégnek még
+    Angela Merkel német kancellár is lobbizott
+    Kínában.
+    Scholz érintettsége
+    abból következett, hogy a hatáskörébe tartozó szövetségi pénzügyi felügyelet képtelen volt felderíteni a csalást, és másfél éven keresztül nem jelezte az illetékes szervnek a pénzmosással kapcsolatos gyanúját a céggel szemben. A hivatal vezetőit leváltották, azonban Scholz érintetlenül úszta meg az esetet.
+   </p>
+   <p>
+    Olaf Scholz a tévéképernyőkön. (Fotó: Flickr / Deutsche Bundesbank: Frank Rumpenhorst)
+   </p>
+   <p rend="head">
+    Hamburgban rend van
+   </p>
+   <p>
+    A fentebb említett botrányoknál lényegesebben érthetőbbek az általa meghozott hamburgi represszív intézkedések. A 2001-ben belügyminiszterként bevezetett intézkedése szerint a rendőrség hánytatót alkalmazhatott azokon a drogdílereken, akik az intézkedés során lenyelték a náluk található feltételezett kábítószert. (
+    <hi>
+     Brechmitteleinsatz
+    </hi>
+    ). Ez az intézkedés 2001. december 8-án a 19 éves
+    Achidi John életébe került
+    , akit kábítószer-kereskedelem gyanújával tartóztattak le, és miután beadták neki a szert, összeesett, megszűnt a pulzusa és a légzése, s már nem lehetett megmenteni az életét. Ezen rendőri gyakorlatot egyébként 1996-ban a frankfurti tartományi fellebbviteli bíróság
+    összeegyeztethetetlennek ítélte az emberi méltósággal és az általános emberi jogokkal
+    . Ahogyan az Emberi Jogok Európai Bírósága is az egyezményben foglalt emberi jogokkal ellentétesnek
+    minősítette
+    a gyakorlat kényszerű alkalmazását. Scholz a közmédia támogatásával futó, alapvetően fiatalokat megcélzó
+    <hi>
+     Deutschland 3000
+    </hi>
+    podcastben
+    , a moderátor Eva Schulz kérdésére képtelen volt hibásnak elismerni a döntést, és a hamburgi főpályaudvar környékén akkoriban uralkodó áldatlan állapotokról kezdett beszélni.
+   </p>
+   <p>
+    De Scholznak korábban is volt problémája az erőszakos eseményekkel kapcsolatos felelősségvállalással. A 2017-es G20-csúcsra készülve polgármesterként azt ígérte, hogy a lakók észre sem fogják venni a rendezvényt, azonban a tüntetések előtt egy ismerten keményvonalas rendőrtisztet nevezett ki műveleti parancsnoknak. Az esemény végül káoszba fulladt, és az internetet bejárták azok a felvételek, amelyeken rendőrök ütlegelik és üldözik a tüntetőket. Mindezek ellenére Scholz szerint nem történt rendőri erőszak, és a tüntetők kapcsán „rendbontókról” beszélt. Ezt az érvét alátámasztva
+    40 millió eurót különített el a károk helyreállítására, amiből végül egymillió euró sem került lehívásra
+    .
+   </p>
+   <p>
+    Az, hogy Scholz és az SPD milyen politikát fog folytatni kormányra kerülve – ami a jelenlegi közvélemény-kutatási eredmények alapján igazán valószínű – az nagyban függ attól, hogy kivel fognak koalícióra lépni. A lehetőségek közül talán a legvalószínűbb a Zöldekkel és az FDP-vel közös Ampel (közlekedési lámpa), ami leginkább a liberálisok gazdaságpolitikája miatt bukhat el. Matematikai esély mutatkozik egy baloldali
+    <hi>
+     Rot-rot-grün
+    </hi>
+    (SPD-Grüne-Linke) koalícióra is, amelynek mindhárom párton belül vannak támogatói és ellenzői egyaránt. Ebben az esetben a Linke külpolitikai, radikális pacifista elképzelései képezhetnek ellentétet a pártok között. A Linke pártvezetése viszont annak érdekében, hogy a másik két párt számára kormányzóképesnek minősüljön,
+    elfogadott egy „azonnali programot”
+    (
+    <hi>
+     Sofortprogram
+    </hi>
+    ), amiben például kerülik a párt NATO-hoz való viszonyát.
+   </p>
+   <p>
+    Mindezek mellett azonban az biztos, hogy Scholzzal és az SPD-vel szó sem lesz valódi baloldali fordulatról.
+   </p>
+  </body>
+ </text>
+</TEI>

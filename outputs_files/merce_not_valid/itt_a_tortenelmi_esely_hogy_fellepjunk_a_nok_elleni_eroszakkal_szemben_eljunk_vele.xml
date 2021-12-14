@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A nők elleni erőszakkal szemben fellépni nem férfiellenes, és transzneműséghez sem vezet – Az Isztambuli Egyezményről
+    </title>
+    <author>
+     <persName>
+      Nógrádi W Noá
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5be78c4c-dda3-56bf-9126-564340ac1d7e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A nők elleni erőszakkal szemben fellépni nem férfiellenes, és transzneműséghez sem vezet – Az Isztambuli Egyezményről
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Nógrádi W Noá
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-03-11T10:48:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/03/11/itt_a_tortenelmi_esely_hogy_fellepjunk_a_nok_elleni_eroszakkal_szemben_eljunk_vele/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/03/11/itt_a_tortenelmi_esely_hogy_fellepjunk_a_nok_elleni_eroszakkal_szemben_eljunk_vele/
+     </sch:url>
+     <sch:name>
+      A nők elleni erőszakkal szemben fellépni nem férfiellenes, és transzneműséghez sem vezet – Az Isztambuli Egyezményről
+     </sch:name>
+     <sch:datePublished>
+      2017-03-11T10:48:00
+     </sch:datePublished>
+     <sch:author>
+      Nógrádi W Noá
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      nők elleni erőszak
+     </sch:keywords>
+     <sch:keywords>
+      feminizmus
+     </sch:keywords>
+     <sch:keywords>
+      családon_belüli_erőszak
+     </sch:keywords>
+     <sch:keywords>
+      isztambuli_egyezmeny
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5be78c4c-dda3-56bf-9126-564340ac1d7e">
+     <sch:identifier>
+      urn:uuid:5034d5c8-315e-433f-a87c-2a1c5ebe737b
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:31.428449
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:28:58.214479
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5be78c4c-dda3-56bf-9126-564340ac1d7e" when="2021-12-14T15:30:31.428449">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A nők elleni erőszakkal szemben fellépni nem férfiellenes, és transzneműséghez sem vezet – Az Isztambuli Egyezményről
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    Az „Európa Tanács Egyezménye a nők elleni és a családon belüli erőszak megelőzéséről és felszámolásáról”, röviden az Isztambuli Egyezmény magyarországi ratifikációjának (kihirdetésének, jogrendbe ültetésének) kérdése kapcsán több konzervatív, jobboldali írás is megjelent az utóbbi hetekben, amelyek problémásnak tartják az Egyezmény tartalmát és szövegét. Az elhangzó ellenvetések két lényegi pontra csoportosíthatók. Egyrészt, szerintük azáltal, hogy az Egyezmény hivatkozik a társadalmi nemekre („genderre”), az Egyezmény nem más, mint „a gender trójai falova”, ami rövid úton gyerekek transzeműsítéséhez vezet. Másrészt, diszkriminatívnak tartják, hogy az Egyezmény a nők elleni erőszakra összpontosít, és a férfiakat tekinti ezen erőszak tipikus elkövetőinek.
+   </p>
+   <p>
+    <hi rend="bold">
+     kép: gyerekrajz, Nők Lapja Café
+    </hi>
+   </p>
+   <p>
+    Mivel úgy tűnik, hogy ezekre hivatkozva az Igazságügyi Bizottság akár el is kaszálhatja a ratifikációs javaslatot, e két ellenvetésre válaszolnék röviden, az alábbi állítások kifejtésével:
+   </p>
+   <list>
+    <item>
+     <hi rend="italic">
+      Vannak társadalmi nemek, nemi szerepek, és ezek hierarchikusak.
+     </hi>
+    </item>
+    <item>
+     <hi rend="italic">
+      A hierarchikus társadalmi nemi szerepek létezésének elismeréséből nem következik a transzmozgalmi identitáspolitika (sőt).
+     </hi>
+    </item>
+    <item>
+     <hi rend="italic">
+      A párkapcsolati erőszak nem szimmetrikus, hanem elsősorban férfiak követik el, elsősorban nők ellen.
+     </hi>
+    </item>
+    <item>
+     <hi rend="italic">
+      Ez nem a véletlen műve, hanem a nők és férfiak közti hatalmi egyenlőtlenségből (hierarchiából) fakad.
+     </hi>
+    </item>
+   </list>
+   <p rend="head">
+    <hi rend="italic">
+     1. Vannak társadalmi nemek, nemi szerepek, és ezek hierarchikusak.
+    </hi>
+   </p>
+   <p>
+    A jobbról jövő első ellenvetés a társadalmi nemek (angolul „gender”) fogalmával kapcsolatban az, hogy nem léteznek.
+    A „
+    gender
+    ” kifejezést a társadalom- és politikatudományban arra használjuk, hogy leírjuk azokat a társadalmi kategóriákat, szerepeket és kapcsolódó sztereotípiákat, amiket hímnemű és nőnemű emberekhez, férfiakhoz és nőkhöz társítunk, de voltaképpen nem veleszületettek, biológiailag nem szükségszerűek, hanem társadalmi normák szabályozzák őket.
+   </p>
+   <p rend="head">
+    Aki például úgy gondolja, hogy vannak a világban vagy voltak a történelem folyamán olyan, női biológiával rendelkező emberek (lányok és nők), akik nem szerették a
+    rózsaszínt
+    jobban, mint a kéket, vagy mondjuk a szoknyát és magassarkút nem részesítették előnyben a nadrág és a lapostalpú cipő helyett, az legalábbis valamennyire belátja, hogy léteznek nem biológiai, hanem társadalmi faktorok, amik bizonyos jellemzőket és preferenciákat csatolnak a két nemhez.
+   </p>
+   <p>
+    Hasonlóan, aki például úgy gondolja, hogy a gyerekekről való gondoskodás nem szükségszerűen kizárólag vagy elsősorban az anyák feladata, hanem az apák aktív szerepvállalását hirdeti, – ahogy sokan, akik konzervatívként a családi értékek népszerűsítésének részeként határozzák meg ezt a célt -, az szintén belátja, hogy társadalmilag konstruált szerepkörökről van szó, amik nem biológiailag adottak, hanem megváltoztathatók.
+   </p>
+   <p>
+    Namármost, ezek a társadalmi nemi szerepek, amelyekről könnyen belátható, hogy léteznek, nem csak esetleges és lényegtelen különbségeket takarnak, hanem a szocializáción, társadalmi elvárásokon és az azoktól való eltérést büntető negatív következményeken keresztül fenntartott
+    <hi rend="italic">
+     olyan különbségeket, amikhez hierarchia kötődik
+    </hi>
+    , amik alá- és fölérendelő jelentéstartalmat takarnak és alá- és fölérendeltséget eredményeznek. Ismét a színek példáját használva, azok nem véletlenségből és mélyebb jelentés-társítás nélkül voltak és vannak a nemekhez rendelve; abban a korban és kontextusban, amikor a vörös szín árnyalatai (a rózsaszínnel együtt) az erőt, bátorságot szimbolizálták, ezek a fiúk és férfiak színei voltak, míg az akkoriban törékenységet, ártatlanságot, finomságot szimbolizáló kék volt a lányok és nők színe – ezeket ma a rózsaszín jelenti, s ma ez a női nemmel asszociált szín. A másik példánkat szemügyre véve pedig, a női gondoskodói szerepkör és a férfi kenyérkeresői szerepkör leosztása – ami szemben áll azzal az ideállal, hogy mindkét szülő egyenlően vegye ki a részét a háztartáson belüli és az azon kívüli munkából – szintén nem szimplán esetleges különbségeket jelent, hanem például a partnerüktől való anyagi függést eredményez az elsősorban gondoskodói nemi szerepkört ellátó nők számára, s ezáltal hatalmi viszonyt hoz létre.
+   </p>
+   <p>
+    Kattints, és kövesd a Kettős Mércét, hogy ne maradj le egyetlen hírről sem!
+    Ha tetszik, amit olvasol, támogasd a munkánkat, hogy tovább működhessünk!
+   </p>
+   <p>
+    A férfi és női nemi szerepeket egy
+    korábbi írásban
+    már részletesebben, több példával is alátámasztva illusztráltam, ezért itt most csak a lényeget emelném ki.
+   </p>
+   <p rend="head">
+    A férfi nemi szerep – a férfiasság, maszkulinitás – legalábbis jelenlegi formájában és jelentésében, elválaszthatatlanul összekapcsolódik a dominanciával (pl. anyagi fölénnyel, döntéshozói pozícióval), erő-, erőszak- és hatalomgyakorlással, míg a női nemi szerep – a nőiesség, femininitás – a simulékonysággal, törődéssel, kiszolgálással, és a férfiak igényeit kiszolgáló szépséggel. Akinek ez erősnek hangzik, az próbálja meg úgy leírni a férfiasságot és a nőiességet, hogy nem utal ezekre a jelentéstartalmakra – rá fog jönni, hogy ez nem egyszerű feladat.
+   </p>
+   <p>
+    Mindez nem azt jelenti, hogy a férfiak született gonosz elnyomók és a nők született alárendelt áldozatok. A társadalmi nemi szerepek létezésének és a gender hierarchikus voltának elismerése épp azt jelenti, hogy a nemekhez csatolt hierarchikus szerepek nem szükségszerűek vagy velünkszületettek. Ezért is emlegeti sok feminista, hogy mi vagyunk a férfiak legjobb barátai: azokkal ellentétben, akik például a tesztoszteronra hivatkozva biológiai szükségszerűséget látnak a kisfiúk és a férfiak által elkövetett erőszakban, és olyan mantrákkal élnek, hogy „a fiúk már csak ilyenek” (például erőszakos(abb)ak) vagy „a férfiak márpedig ilyenek” (például szexisták, vagy ha nem kapnak szexet, könnyen vetemednek nemi erőszakra), mi nem bélyegezzük meg a férfiakat született erőszaktevőkként, hanem úgy véljük, hogy a fiúk-férfiak nem feltétlenül ilyenek, és nem szabad úgy tennünk, mintha feltétlenül ilyennek kellene lenniük.
+   </p>
+   <p rend="head">
+    <hi>
+     2. A hierarchikus társadalmi nemi szerepek elismerése nem vonja magával a transz identitáspolitikát (sőt)
+    </hi>
+   </p>
+   <p>
+    Az Egyezmény nem a transzságról szól. A gender szót következetesen nem a belső, személyesen megállapított nemi identitás, hanem társadalmi nem és nemi szerep értelemben használja a szöveg, elismerve ezen szerepek hierarchikus és ezáltal a nők elleni nemi alapú erőszakot eredményező voltát. Míg a 80-as évek végén és a 90-es években számos nemzetközi egyezmény és stratégia született, ami hasonlóan alkalmazta a gender kifejezést (és amelyekhez már évtizedekkel ezelőtt Magyarország is csatlakozott), a mai körülmények között valóban ritka a szó rendszerszintű társadalmi jelenségekre, nemi szerepekre, nem pedig a belső identitásra összpontosító használata. Így valóban meglepő, hogy ez az Egyezmény ezzel a szövegezéssel megszülethetett – de üdvözlendő is, hiszen a nők elleni nemi alapú erőszak nem a belső, a személy által önmagáról beazonosított identitással, hanem a hierarchikus társadalmi nemi szerepekkel áll összefüggésben. A „társadalmi nem” kifejezést a fenti értelmezésben használja tehát az Egyezmény, és ezáltal nemhogy nem vonja magával a transzmozgalmat jellemző identitáspolitikai ágazatot, hanem egyenesen összeegyeztethetetlen azzal.
+   </p>
+   <p>
+    A transzmozgalmi politika domináns vonulata ugyanis azt hirdeti, hogy az a nő/férfi, aki annak érzi magát; és az, hogy ki melyik nemhez tartozónak azonosítja magát az alapján kerül megállapításra, hogy az adott személy preferenciái és jellemzői szerint melyik nemi sztereotípia-csomaggal azonosul jobban.
+   </p>
+   <p rend="head">
+    A feminista mozgalom egyes ágazatai, amelyek a gender fogalmát az Isztambuli Egyezményhez hasonlóan annak „társadalmi nemi szerep” és nem pedig „belső nemi identitás” értelmében használják, és a transzmozgalom között ennek megfelelően konfliktus van.
+   </p>
+   <p>
+    Míg az első szerint nincs olyan, hogy női vagy férfi agy, nem szükségszerűen, veleszületetten mások a férfiak és a nők tulajdonságai és képességei (a szülést és szoptatást leszámítva), a gender pedig társadalmi folyamatok eredménye, és a nemi sztereotípiák a nemek közti hierarchiát szolgálják, a második szerint van női és férfi agy és vannak veleszületett tulajdonságok, képesség-különbségek, csak ezek nem kapcsolódnak ahhoz, hogy kinek milyen ivarszervei vannak; az alapján tartozol valamelyik nemhez, hogy minek érzed magad, ezt pedig a sztereotípiák alapján tudod beazonosítani.
+   </p>
+   <p>
+    Ennek fényében a transzmozgalmi, belső identitáson alapuló politika – legalábbis sokunk szerint – egyenesen visszacsapó válasz a nők és férfiak egyenlőségéért küzdő nőjogi mozgalmak társadalmi nemi szerepeket és gender-hierarchiát illető rendszerkritikájára, erősíti mindazokat a gender-sztereotípiákat, amelyek ellen a feminista mozgalom évtizedek óta küzd.
+   </p>
+   <p rend="head">
+    <hi>
+     3. A párkapcsolati erőszak nem szimmetrikus, hanem elsősorban férfiak követik el, elsősorban nők ellen
+    </hi>
+   </p>
+   <p>
+    A szakirodalomban javarészt a 90-es évek folyamán lezajlott az ún. szimmetria-vita arról, hogy a párkapcsolati és családon belüli erőszak voltaképp hasonló mértékben érinti-e a nőket és a férfiakat, hasonlóak-e a férfi elkövető/nő áldozat és a nő elkövető/férfi áldozat arányok. Ebből a vitából és a kapcsolódó kutatásokból azt lehet leszűrni, hogy az arányok akkor hasonlóak (a legszélsőségesebb eredmények szerint 60-40), ha figyelmen kívül hagyjuk az erőszak súlyosságát és hatását, a kontextust, az esetek ismétlődését, és az erőszak mintázatát – tehát akkor, ha ugyanúgy 1-1-nek számít az, ha egy férfi éveken át súlyosan bántalmazza a feleségét fizikailag és korlátozza a személyi szabadságát és az, ha ez a nő egyszer visszaütött. Mivel a kettő közti különbséget valahogyan meg kellett fogalmazni, a szimmetria-vita előrelendítette a párkapcsolati erőszak definiálásának folyamatát.
+   </p>
+   <p>
+    Jelenleg a párkapcsolati és családon belüli erőszakot a legtöbb ezzel foglalkozó szakember, szervezet és nemzetközi intézmény a
+    <hi rend="italic">
+     kényszerítő kontroll
+    </hi>
+    fogalmának segítségével értelmezi. Ez egy olyan kapcsolati struktúra, amelyben az erőszak módszerei (úgymint fizikai, szexuális, pszichológiai, gazdasági) és az erőszak-alkalmazás ismétlődése olyan kombinációt alkotnak, ami által az egyik fél hatalmat gyakorol és tart fenn a másik felett. Ha egy párkapcsolatban egy nő fizikai erőszakot szenved el, az tipikusan nem izolált esetként fordul elő, hanem a kényszerítő kontroll mintázatának részeként, a férfi általi hatalomgyakorlás tágabb kontextusában helyezkedik el, míg ez tipikusan nem mondható el azokról az esetekről, amikor egy nő egy férfi ellen követ el erőszakos cselekvést.
+   </p>
+   <p>
+    Figyelembe véve a fenti faktorokat, és különbséget téve a valóban hatalomgyakorlást célzó és a másik feletti erőszakos hatalomgyakorlást nem célzó, izolált esetek között, bizony a párkapcsolati erőszakot nem csak 60/40 vagy 70/30 arányban, hanem ezt bőven meghaladó, túlnyomó többségben nők szenvedik el férfiak részéről– különböző kutatások eredményei szerint 90/10, 95/5, és ezekhez hasonló arányokban.
+   </p>
+   <p>
+    Azt is fontos megjegyezni, hogy az egyezmény nem csak a párkapcsolati erőszakkal foglalkozik, hanem több más, olyan erőszakformával is, amelyek elsősorban vagy kizárólag nőket érnek: szexuális erőszakkal, gyereklányokat érő kényszerházassággal, ún. „becsület nevében elkövetett” erőszakkal, női nemiszerv-csonkítással. Ezeket az erőszakformákat nem csak ez az Egyezmény, hanem sok másik is, valamint a témát tárgyaló szakirodalom is gender-alapú erőszaknak nevezi, mivel az erőszak alapját társadalmi nemi kategóriák és a társadalmi nemi szerepek szolgáltatják.
+   </p>
+   <p rend="head">
+    Amikor tehát a párkapcsolaton belüli erőszakot  gender-alapúnak nevezzük, ezen nem  mást értünk, mint azt, hogy a férfiak által nő partnerük vagy ex-partnerük ellen elkövetett, hatalomgyakorlást célzó erőszak abból a nemeket illető társadalmi elképzelésből fakad, hogy a férfiaknak joguk van hatalmat gyakorolni nő partnerük felett.
+   </p>
+   <p>
+    Mindez természetesen nem jelenti azt, hogy férfiak nem szenvednek el erőszakos cselekményeket, sőt, nagyon sok erőszakos cselekményt szenvednek el. Azonban – bár az is előfordul, hogy nők által szenvednek el férfiak erőszakot- , a férfiakra, ugyanúgy, mint a nőkre, a legnagyobb veszélyforrást férfiak jelentik. Minden statisztika azt támasztja alá, hogy az erőszakos bűncselekményekben – akár férfi, akár nő az áldozat – az elkövetők túlnyomó többsége férfi, és ez kiemelten igaz a halállal végződő erőszakos bűncselekmények esetében. Ami – ismét – nem azt jelenti, hogy a férfiak erőszakos bűnözőnek születnek, hanem azt, hogy a férfiak a szocializáció folyamán nagyobb társadalmi elfogadást tapasztalnak az erőszak-alkalmazásuk iránt, míg a nőkből ezt igyekszik a környezetük kinevelni. Hasonlóképpen, a kapcsolati erőszak témájához visszakanyarodva, a férfiak nagyobb elfogadást tapasztalnak az iránt, hogy hatalmat gyakoroljanak nőnemű partnerük (és gyerekeik) felett – úgymond „viseljék a nadrágot”.
+   </p>
+   <p rend="head">
+    Cáfolva egyes téves híreket, hadd szögezzem le azt is, hogy az Egyezmény szövege
+    <hi rend="italic">
+     nem
+    </hi>
+    tesz különbséget a családon belüli erőszakot elszenvedő és családon belüli vagy párkapcsolati erőszak szemtanújává váló fiú- és lánygyermekek között.
+   </p>
+   <p>
+    Ugyanúgy elítéli a fiúgyermekek bántalmazását és szorgalmazza a védelmüket a bántalmazástól illetve attól, hogy bántalmazás szemtanúiként közvetve sérüljenek, ahogyan elítéli a bántalmazást és szorgalmazza a védelmezést a lánygyermekek esetében.
+   </p>
+   <p rend="head">
+    <hi>
+     4. Ez nem a véletlen műve, hanem a nők és férfiak közti hatalmi egyenlőtlenségből (hierarchiából) fakad
+    </hi>
+   </p>
+   <p>
+    Már számos nemzetközi egyezmény (amelyekhez Magyarország is csatlakozott) elismerte azokat az alapvető igazságokat, amik az Isztambuli Egyezmény preambulumában olvashatók a nők elleni erőszak és a múltbeli és jelenlegi nemi alapú hierarchia kölcsönös ok-okozati kapcsolatáról.
+   </p>
+   <p rend="head">
+    Míg a nők elleni nemi alapú erőszak egyrészt a hierarchikus nemi konstrukciókból fakad, és a nemi szerepekről alkotott elképzelések igazolják és motiválják az erőszakot, egyúttal az erőszak maga is arra szolgál, hogy ezeket a hierarchikus szerepeket betartassa és megerősítse, fenntartsa a nők és férfiak közti egyenlőtlenséget.
+   </p>
+   <p>
+    A nők elleni erőszak megszüntetésnek lehetséges módjait feltárni igyekvő kutatások sorra bizonyítják, hogy a nők elleni nemi alapú erőszak a hierarchikus társadalmi nemi szerepekben gyökeredzik. Az erőszak megszüntetéséhez pedig szükség van „a maszkulinitás és a femininitás hierarchikus konstrukcióinak (amely a nők feletti hatalomgyakorláson alapul) leépítésére és az egyenlőtlenségeket támogató strukturális faktorok megszüntetésére” (
+    WHO-LSHTM 2010
+    , 36.o.). Addig is, míg ez megtörténik, másodlagos és harmadlagos prevenciót javasol a szakirodalom. Ezek olyan intézkedések, mint amiket az Isztambuli Egyezmény is előír, például a nemi egyenlőségről és egyenlőségen alapuló párkapcsolatokról szóló oktatás (másodlagos prevenció); illetve a hatékony és szakszerű beavatkozás és áldozatvédelem a már akut veszélyhelyzetekben, képzett igazságügyi szakemberekkel, áldozatvédelmi szolgáltatásokkal és infrastruktúrával, és erre alkalmas és hatékonyan érvényesített jogszabályokkal (harmadlagos prevenció).
+   </p>
+   <p rend="head">
+    Azok a teljesen kézzelfogható előírások, amelyeket az Egyezmény ratifikációja megkövetelne, például olyan pontokat tartalmaznak, mint hogy legyen elegendő krízis-otthon férőhely az erőszak elől menekülő nőknek és gyerekeiknek, s ezáltal ne legyenek kiszolgáltatva akár halálos erőszaknak. Ne feledjük, hogy Magyarországon hetente legalább egy nőt öl meg erőszakos partnere/volt partnere.
+   </p>
+   <p>
+    Mivel felmerült olyan ellenvetés is, hogy az Egyezmény minden nőket érő bűncselekményt aránytalan, kiemelt figyelemben részesít, és ez a különböző bűncselekményeket szintúgy elszenvedő férfiakkal szemben igazságtalan, ezt a tévhitet is fontosnak tartom eloszlatni. Az erőszakot és erőszakos cselekmények elkövetését vizsgáló tudományokban ma már közhelynek számít, hogy nem csak a nők elleni erőszaknak, de minden bűncselekménynek köze van a társadalmi nemekhez. Az elkövető, amikor kiválasztja az áldozatát, figyelembe szokta venni annak nemét, és neme alapján különböző társadalmilag meghatározott elképzeléseket társít hozzá; ezek alapján például megpróbálja belőni, hogy az illető mennyi veszélyt jelent rá nézve, vagy mennyi pénz lehet nála. Vagy vegyünk egy olyan, „kocsmai verekedős” helyzetet, amikor egy férfi saját férfiasságát bebizonyítandó, „férfiúi becsületét” védendő nekiesik egy másik férfinak – nem szükséges magyarázni, hogy a társadalmilag létrehozott nemi szerepek egy ilyen erőszak-helyzetben is szerepet játszanak.
+   </p>
+   <p>
+    A nők elleni erőszak azonban, abban az értelemben, ahogyan az Egyezmény hivatkozik erre a bűncselekmény-kategóriára, és ahogyan a szakirodalomban szerepel, nem csak azt takarja, hogy nőnemű az áldozat, és ezt az elkövető figyelembe veszi. A nők elleni erőszak ebben az értelemben azt is jelenti, hogy az erőszak motivációja, módja és célja a nők és férfiak közti hierarchiával – amely a társadalmi nemek hierarchikus konstukcióján alapul – és annak fenntartásával egybefonódik. Ebben az értelemben nem „nők elleni erőszak”, ha mondjuk egy tolvaj kizsebel egy nőt, majd ellöki; nők elleni erőszak azonban például az, ha egy férfi egy nőt akarata ellenére taperol (
+    szexuálisan zaklat
+    ) a villamoson vagy a munkahelyen, vagy akár a
+    Busójáráson
+    . Ez utóbbi esetekben ugyanis a motiváció hierarchikus társadalmi nemeket illető elképzeléseken alapul, nevesen például azon, hogy a férfiaknak joga van nők szexuális használatára – az elkövető úgy gondolja, férfiként joga van hozzáférni nők testéhez, és a jelenlegi körülmények között legtöbbször ez a joga sajnálatos módon nem is kérdőjeleződik meg.
+   </p>
+   <p>
+    Az Isztambuli Egyezmény tehát egy kézzelfogható társadalmi jelenségről szól, és kézzelfogható lépéseket ír elő annak másodlagos és harmadlagos megelőzésére – a leendő elkövetők és áldozatok számának csökkentésére és konkrét áldozatok védelmére.
+   </p>
+   <p>
+    Teszi ezt – igen helyesen -, a szóban forgó társadalmi jelenség valóságban tapasztalható jellemzőivel összhangban, figyelembe véve az összefüggést a társadalmi nemi szerepek és a nők elleni erőszak között. A többeket is izgató ún. WC-vitához vagy a „gender” szót teljesen más értelemben és céllal használó transzmozgalmi politikához az Egyezménynek köze sincs.
+   </p>
+   <p rend="head">
+    Aki szerint nincs rendjén, hogy Magyarországon több százezer nő él felette erőszakkal hatalmat gyakorló férfi partnere uralma alatt, hogy ezeknek a nőknek (és gyerekeiknek) nincs hova mennie, és heti egy meghal közülük, és úgy gondolja, az államnak feladata ezekbe a bűncselekményekbe beavatkozni és az áldozatok számára igazságszolgáltatást nyújtani, nem pedig megkönnyíteni az elkövetők dolgát, annak kutya kötelessége az Egyezmény támogatása.
+   </p>
+   <p>
+    Aki így van vele, az aláírhatja
+    ezt
+    a petíciót is, hogy látszódjon, van sok magyar, aki szerint fontos a nők biztonsága.
+   </p>
+   <p>
+    Az Egyezmény szövege bárkinek hozzáférhető, magyarul például
+    itt
+    is olvasható.
+   </p>
+   <p>
+    Ez a cikk is a ti támogatásaitokból készült el, a Kettős Mércét a ti adományaitokból tartjuk fenn!
+    Támogass minket bankkártyával:
+    Ha PayPalen vagy banki utalással támogatnál minket, klikk ide!
+    A Mércét nem támogatják oligarchák vagy pártpénztárnokok, csupán egyszerű magánemberek. Ez biztosítja a függetlenségünket. Támogass minket rendszeresen havi 1000, 2000 vagy 5000 forint átutalásával, hogy még több ilyen cikket írhassunk, és még több emberhez juttathassuk el, mi történik valójában az országban!
+    Kattints, és olvasd el, mit értünk el a ti támogatásotokból az előző hónapban!
+    Kattints, és támogass minket, hogy a Kettős Mérce tovább működhessen!
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

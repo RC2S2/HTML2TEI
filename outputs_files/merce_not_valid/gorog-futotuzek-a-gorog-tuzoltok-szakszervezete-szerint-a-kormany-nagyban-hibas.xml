@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Görög futótüzek: A görög tűzoltók szakszervezete szerint a kormány nagyban hibás
+    </title>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     bc433e21-82e2-5248-ab0b-c5d1cb2b1d6e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Görög futótüzek: A görög tűzoltók szakszervezete szerint a kormány nagyban hibás
+     </title>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-07-29T12:44:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/07/29/gorog-futotuzek-a-gorog-tuzoltok-szakszervezete-szerint-a-kormany-nagyban-hibas/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/07/29/gorog-futotuzek-a-gorog-tuzoltok-szakszervezete-szerint-a-kormany-nagyban-hibas/
+     </sch:url>
+     <sch:name>
+      Görög futótüzek: A görög tűzoltók szakszervezete szerint a kormány nagyban hibás
+     </sch:name>
+     <sch:datePublished>
+      2018-07-29T12:44:00
+     </sch:datePublished>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:keywords>
+      szakszervezet
+     </sch:keywords>
+     <sch:keywords>
+      Görögország
+     </sch:keywords>
+     <sch:keywords>
+      katasztrófa
+     </sch:keywords>
+     <sch:keywords>
+      futótűz
+     </sch:keywords>
+     <sch:keywords>
+      Tsziprasz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="bc433e21-82e2-5248-ab0b-c5d1cb2b1d6e">
+     <sch:identifier>
+      urn:uuid:909363ae-7023-4f44-b541-9921498ab232
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:57.170690
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:59:03.508230
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="bc433e21-82e2-5248-ab0b-c5d1cb2b1d6e" when="2021-12-14T15:30:57.170690">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Görög futótüzek: A görög tűzoltók szakszervezete szerint a kormány nagyban hibás
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A Görögországban, mintegy 24 kilométerre Athéntól pusztító futótüzek halálos áldozatainak száma szombatra
+    88-ra emelkedett
+    . A hatóságok még mindig küzdenek a lángokkal, miközben továbbra is rengeteg eltűnt személyt keresnek vízen és földön.
+   </p>
+   <p>
+    Dimitrisz Sztatopulosz, a mintegy tizenháromezres görög Tűzoltók Szövetsége vezetője szerint a kormányzati szervek súlyosan felkészületlenek voltak a katasztrófa kezelésére. A szakszervezeti vezető szerint a görög kormány „ezer és ezer apró hibát követett el”, és ez vezetett ahhoz, hogy példátlanul sok halálos áldozattal járt a tragédia.
+   </p>
+   <p rend="head">
+    Sztatopulosz szerint a kormányzat hibája többek között, hogy a tűzoltóság előzetes figyelmeztetése ellenére sem evakuálták időben a lakosságot a tűz sújtotta területekről. Ehhez tartozik, hogy a meteorológiai szolgálat nem tudta előrejelezni a 124 km/órás széllökéseket, amelyek a tűz gyors terjedését elősegítették, valamint a földre kényszerítették a tűzoltóság repülőgépeit.
+   </p>
+   <p>
+    „Egyszerűen képtelenek voltak felszállni a gépeink” – mondta Sztatopulosz – „Ha a meteorológiai szolgálat előzetesen figyelmeztetett volna, és riasztást ad ki, akkor más repülőterekre lehetett volna csoportosítani a légiflottát.”
+   </p>
+   <p>
+    A szakszervezeti vezető szerint politikai okai is vannak a tragédiának. Elmondása szerint az országot sújtó megszorítási intézkedések is nagyban hozzájárultak a katasztrófa-elhárítás elégtelen működéséhez. „Az 1750 járműből álló gépparkunk mintegy 15 százaléka bevetésre képtelen volt. Ezek a gépek teljesen elöregedtek, illetve konstrukciós hibáktól szenvednek. További 15 százaléknyi jármű szorul olyan alkatrészcserékre, amelyeket nem tudunk megengedni magunknak.
+   </p>
+   <p>
+    Pénteken Alexisz Ciprasz kormányfő elismerte politikai felelősségét a történtekben, viszont nem volt hajlandó meneszteni a sokak által felelősnek tartott polgári védelemért felelős minisztert,  Nikosz Toszkasz-t és több, szintén mulasztással vádolt kormányzati vezetőt, helyette azt a teóriát vázolta, hogy a futótűz szándékos gyújtogatás eredménye. Ezt a verziót azonban a görög tűzoltóság gyújtogatási esetekkel foglalkozó egysége szombatra cáfolta.
+   </p>
+   <p>
+    Forrás: The Guardian
+    Címoldali kép: Wikipedia
+   </p>
+  </body>
+ </text>
+</TEI>

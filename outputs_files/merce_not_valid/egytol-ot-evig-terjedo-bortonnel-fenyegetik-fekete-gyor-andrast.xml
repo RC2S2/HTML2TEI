@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Egytől öt évig terjedő börtönnel fenyegetik Fekete-Győr Andrást
+    </title>
+    <author>
+     <persName>
+      Kiss Soma Ábrahám
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     0a3c69dc-a89d-5406-af6d-98ba63cfa752
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Egytől öt évig terjedő börtönnel fenyegetik Fekete-Győr Andrást
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kiss Soma Ábrahám
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2019-04-29T11:59:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2019/04/29/egytol-ot-evig-terjedo-bortonnel-fenyegetik-fekete-gyor-andrast/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2019/04/29/egytol-ot-evig-terjedo-bortonnel-fenyegetik-fekete-gyor-andrast/
+     </sch:url>
+     <sch:name>
+      Egytől öt évig terjedő börtönnel fenyegetik Fekete-Győr Andrást
+     </sch:name>
+     <sch:datePublished>
+      2019-04-29T11:59:00
+     </sch:datePublished>
+     <sch:author>
+      Kiss Soma Ábrahám
+     </sch:author>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      momentum
+     </sch:keywords>
+     <sch:keywords>
+      erőszak
+     </sch:keywords>
+     <sch:keywords>
+      Fekete-Győr András
+     </sch:keywords>
+     <sch:keywords>
+      donáth anna
+     </sch:keywords>
+     <sch:keywords>
+      cseh katalin
+     </sch:keywords>
+     <sch:keywords>
+      per
+     </sch:keywords>
+     <sch:keywords>
+      koncepciós per
+     </sch:keywords>
+     <sch:keywords>
+      szarvas koppány bendegúz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="0a3c69dc-a89d-5406-af6d-98ba63cfa752">
+     <sch:identifier>
+      urn:uuid:4534e997-2101-4e6c-a8ae-eac9cd3cb8ec
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:22.821439
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:29:21.321252
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="0a3c69dc-a89d-5406-af6d-98ba63cfa752" when="2021-12-14T15:27:22.821439">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Egytől öt évig terjedő börtönnel fenyegetik Fekete-Győr Andrást
+   </head>
+   <p>
+    Ez a cikk több mint 2 éves.
+   </p>
+   <p>
+    A Központi Nyomozó Főügyészség épülete előtt tartott sajtótájékoztatót hétfőn délelőtt Fekete-Győr András, a Momentum elnöke, mivel a decemberi tüntetések alatt történt események miatt jelenleg börtönnel fenyegeti az ügyészség.
+   </p>
+   <p>
+    Fekete-Győr az egyik rabszolgatörvény-ellenes tüntetésen – a Momentum szinte védjegyének számító – füstgyertyás akció során egy ilyen eszközt a rendőrsorfal mögé dobott, emiatt az ügyészség azzal vádolja, hogy az okozott füsttel zavarta a rendőrök látását és szaglását.
+   </p>
+   <p rend="head">
+    Ennek megfelelően egytől öt évig terjedő szabadságvesztéssel sújthatják.
+   </p>
+   <p>
+    Fekete-Győr a sajtótájékoztatón elmondta,
+   </p>
+   <p>
+    „a mai napon vallomást tettem az ellenem folyó koncepciós büntetőeljárásban, egytől öt évig terjedő börtönnel fenyegetnek azért, mert egy játékboltban kapható, pár grammos füstölőt célzottan a rendőrsorfal mögé ejtettem a decemberi tüntetéssorozat egyik tüntetésén.”
+   </p>
+   <p>
+    Fekete-Győr kifejtette, két videó valamint három rendőri vallomás alapján vádolják, azonban ezekből szerinte kiderül, hogy neki valamint ügyvédjének van igaza, miszerint nem akadályozta a rendőrök látását és szaglását.
+   </p>
+   <p>
+    Fekete-Győr szerint Orbán Viktor és kormánya így akarja őt ellehetetleníteni, majd felsorolt olyan ügyeket, melyekkel foglalkozhatna az ügyészség az övé helyett.
+   </p>
+   <p>
+    „Gondoljunk itt Tiborcz István eliosos bűncselekményeire, gondoljunk itt Rogán Antal ingatlan-bűncselekményeire, Orbán Ráhel szállodáira, az összes EU-s közbeszerzéssel kapcsolatos visszaélésre”.
+   </p>
+   <p>
+    Ezután elmondta, mikor majd kormányra kerülnek a Momentummal, ezeket a kérdéseket független ügyészséggel fogják kivizsgáltatni, majd felsorolt olyan problémákat, melyek ellen fellépnének, például az egészségügy, oktatás, alacsony keresetek társadalom jelentős részét érintő kérdéseit.
+   </p>
+   <p>
+    A Momentum elnöke szakmaiatlansággal vádolta az ügyészséget, mivel szerinte „számára teljesen ismeretlen blogokról” tájékozódtak, és a Fidesz érdekében folytat koncepciós eljárást vele szemben – ugyanakkor a katonai ügyész munkáját elismerte, mivel szerinte az megfelelt az elvárásoknak.
+   </p>
+   <p>
+    Fekete-Győr ügyvédje, Rajmond Balázs elmondta,
+   </p>
+   <p>
+    „Fekete-Győr Andrást az ügyészség sem vádolja, illetve gyanúsítja azzal, (…) hogy bármilyen hivatalos személyt, rendőrt megdobott volna. A gyanúsítás mindössze azt tartalmazza, hogy az intézkedő rendőrsorfal mellé dobott füstkeltő eszközt.”
+   </p>
+   <p>
+    Ezután kifejtette, álláspontja szerint nem állja meg a helyét a hivatalos személy elleni erőszak tényállása, mivel ügyvédi véleménye szerint a bizonyítékok az ő oldalukon állnak, így ejtetni szeretnék az ügyet – magyarán mint jogász, nem gondolja hogy egytől öt évig terjedő szabadságvesztésre ítéljék a Momentum elnökét.
+   </p>
+   <p rend="head">
+    Mindeközben Szarvas Koppány Bendegúzt, a Momentum tagját, a Demokratikus Koalíció ifjúsági tagozatának volt elnökét, valamint Donáth Annát, illetve a párt EP-listavezetőjét, Cseh Katalint is hatósági személy elleni erőszakkal vádolják.
+   </p>
+   <p>
+    Cseh és Donáth ügyében Fekete-Győr nem kívánt részletesebben nyilatkozni, annyit mondott, jelenleg nyomozati szakaszban járnak az ügyek, Szarvas ügyéről pedig a HVG
+    számolt be
+    részletesebben.
+   </p>
+   <p>
+    E szerint a december 12-i és 13-i tüntetéseken ismeretlen tárgyakat dobott a rendőrsorfal felé, valamint füstkeltő eszközöket gyújtott meg, ezzel akadályozva a rendőrök látását és légzését, emellett
+   </p>
+   <p rend="head">
+    a rendőrség szerint kapszacinoid tartalmú könnygázt fújt a rendőrökre, továbbá egy szikrázó tárggyal is megdobta őket.
+   </p>
+   <p>
+    A Momentum volt képviselőjelöltje a gyanúsítás ellen panasszal élt, és a HVG információi szerint tanúvallomást nem tett. Amennyiben bűnösnek találják, őt is egytől öt évig terjedő börtönnel sújthatják.
+   </p>
+  </body>
+ </text>
+</TEI>

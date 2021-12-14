@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Baj már nincs, sok új terv viszont van!
+    </title>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Piróth Attila
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Parászka Boróka
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Losoncz Alpár
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lakatos Máté
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bakó Júlia
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bogdán Erik
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Tremmel Márk
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     f25b5226-49ff-5feb-a5c2-85c5e748610a
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Baj már nincs, sok új terv viszont van!
+     </title>
+     <author>
+      <persName>
+       Tremmel Márk
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bogdán Erik
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bakó Júlia
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lakatos Máté
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Losoncz Alpár
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Parászka Boróka
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Piróth Attila
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2020-01-31T11:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2020/01/31/baj-mar-nincs-sok-uj-terv-viszont-van/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2020/01/31/baj-mar-nincs-sok-uj-terv-viszont-van/
+     </sch:url>
+     <sch:name>
+      Baj már nincs, sok új terv viszont van!
+     </sch:name>
+     <sch:datePublished>
+      2020-01-31T11:45:00
+     </sch:datePublished>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Piróth Attila
+     </sch:author>
+     <sch:author>
+      Parászka Boróka
+     </sch:author>
+     <sch:author>
+      Losoncz Alpár
+     </sch:author>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:author>
+      Lakatos Máté
+     </sch:author>
+     <sch:author>
+      Bakó Júlia
+     </sch:author>
+     <sch:author>
+      Bogdán Erik
+     </sch:author>
+     <sch:author>
+      Tremmel Márk
+     </sch:author>
+     <sch:keywords>
+      mérce
+     </sch:keywords>
+     <sch:keywords>
+      szolgálati közlemény
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="f25b5226-49ff-5feb-a5c2-85c5e748610a">
+     <sch:identifier>
+      urn:uuid:47145a2d-eb8f-47fd-a373-1aa079150866
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:25.830163
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:58:14.868059
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="f25b5226-49ff-5feb-a5c2-85c5e748610a" when="2021-12-14T15:30:25.830163">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Baj már nincs, sok új terv viszont van!
+   </head>
+   <p>
+    Ez a cikk több mint 1 éves.
+   </p>
+   <p rend="head">
+    <hi rend="bold">
+     Kedves Olvasóink, kedves Támogatóink!
+    </hi>
+   </p>
+   <p>
+    Az elmúlt 2 hónap igazán sűrű volt a Mérce életében. Bár még közel sincs vége a teendőknek, fontosnak tartom, hogy a mögöttünk lévő időszakot lezárjuk, és nyissunk egy újat.
+   </p>
+   <p>
+    Két hónappal ezelőtt főszerkesztőt váltott a Mérce. Annyiban ez bizonyosan szerencsésen zajlott, hogy semmilyen nyomás nem volt rajtunk (előző főszerkesztőnk, Jámbor András szeretett volna valami másba fogni), de mint minden ilyen horderejű változás, ez is óhatatlanul terheket rótt a közösségünkre.
+   </p>
+   <p>
+    Ezzel párhuzamosan pedig kénytelenek voltunk realizálni, hogy az anyagi helyzetünk sokkal rosszabb, mint amivel terveztünk – így kénytelenek voltunk az év utolsó hónapjaiban támogatóinkhoz fordulni segítségért. A
+    <hi rend="italic">
+     Bajban van a Mérce
+    </hi>
+    kampányunk fő célja az volt, hogy kirántsa a szervezetünket abból a lehetetlen helyzetből, hogy január végén ne tudjunk fizetést adni a munkatársainknak.
+   </p>
+   <p rend="head">
+    Múlhatatlan hálával és egyben nagy megkönnyebbüléssel írhatom: ezt a célt nem csak sikerült elérnünk, de túl is teljesítettük nektek, az olvasóknak és a támogatóknak köszönhetően.
+   </p>
+   <p>
+    A Mérce nagyjából tavasz végéig tud előre tervezni – ami ugyan nem tűnik túl soknak, de a mi életünkben már ez kifejezetten nagy könnyebbséget jelent.
+   </p>
+   <p>
+    Köszönöm mindannyiunk nevében, hogy támogattok minket!
+   </p>
+   <p>
+    A
+    <hi rend="italic">
+     Bajban van a Mérce
+    </hi>
+    kampánytól tehát búcsúzunk, de ez nem jelenti azt, hogy nincs több dolgunk 2021-ig. A Mérce ugyanis kizárólag olvasói támogatásából működik, vagyis csak abból tudunk gazdálkodni, amit ti adtok nekünk. Tavaly 50 millió forintot kértünk, és bár ezt nem sikerült ugyan elérnünk az év végéig, de legalább csődbe nem mentünk. Sőt, van mire büszkének lennünk.
+   </p>
+   <p>
+    2019-ben két új munkatárssal gyarapodott a szerkesztőségünk, és két gyakornoknak is lehetőséget biztosítottunk arra, hogy újságírást tanuljon nálunk. Bővítettük a videórovatunkat, amihez szükségünk volt új eszközökre is. Új irodába költöztünk (méghozzá nagy örömünkre a Gólyába, ahol így olyan szervezetekkel lakunk egy fedél alatt, akikkel amúgy is szorosan együttműködünk). Ezzel párhuzamosan a szobanövényeink száma is megemelkedett, akikről gondoskodnunk kell – ami nem kis felelősség.
+   </p>
+   <p>
+    Fontosnak tartom, hogy a továbbiakban is beszámoljak arról, hogyan működik a Mérce, mire költjük a tőletek kapott támogatást, és merre tartunk.
+   </p>
+   <p>
+    A következő időszak ebből a szempontból különösen izgalmasnak ígérkezik. Még mindig a főszerkesztő-váltás következtében február végén elvonulunk, ahol a rövid-, közép-, és hosszútávú stratégiánk kialakításán dolgozunk majd. Átbeszéljük, szerintünk mi a Mérce, merre haladjunk tovább, miből kell több, és miből kevesebb. Ehhez az elmúlt két hónapban a szerkesztőség minden tagjával hosszasan beszélgettünk külön-külön, hogy legyen miből kiindulnunk.
+   </p>
+   <p>
+    Ha támogatnád a Mércét,
+    ide kattintva tudod megtenni
+    .
+   </p>
+   <p>
+    Új szövetségeket kötöttünk, sok szálat szorosabbra fűztünk, készülünk olyan együttműködésekkel, amelyek szerintünk nagyon izgalmasak. Ezek egy része már a következő hetekben látható lesz a Mérce felületein, mások egész éves projektként futnak majd.
+   </p>
+   <p>
+    De legfőképp azt tartom fontosnak, hogy a sok változás mellett egy valami állandó maradjon: az elkötelezettségünk. A Mérce büszkén vállalta eddig, és vállalja ezután is baloldali elköteleződését. Elveinkből és értékeinkből nem engedünk, és a jövőben is küzdünk az elnyomás, az igazságtalanság, az egyenlőtlenségek ellen.
+   </p>
+   <p>
+    Ezúton is szeretném megköszönni az egész szerkesztőségünk nevében azt a bizalmat és támogatást, amely nélkül nem tudnánk létezni, és remélem, idén is velünk tartotok ezen az úton, hiszen 2020-ban is szükség lesz független, baloldali lapra. Olyan lapra, ami csak akkor tud működni, ha az olvasói fenntartják.
+   </p>
+   <p>
+    Diószegi-Horváth Nóra 
+A Mérce főszerkesztője
+   </p>
+  </body>
+ </text>
+</TEI>

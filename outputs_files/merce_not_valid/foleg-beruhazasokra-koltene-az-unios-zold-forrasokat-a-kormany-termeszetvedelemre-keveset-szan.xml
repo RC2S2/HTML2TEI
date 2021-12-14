@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Főleg beruházásokra költené az uniós zöld forrásokat a kormány, természetvédelemre keveset szán
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     1891042a-5fdb-5093-a0ea-d3aa3c0bd2df
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      Főleg beruházásokra költené az uniós zöld forrásokat a kormány, természetvédelemre keveset szán
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-02-13T21:59:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/02/13/foleg-beruhazasokra-koltene-az-unios-zold-forrasokat-a-kormany-termeszetvedelemre-keveset-szan/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/02/13/foleg-beruhazasokra-koltene-az-unios-zold-forrasokat-a-kormany-termeszetvedelemre-keveset-szan/
+     </sch:url>
+     <sch:name>
+      Főleg beruházásokra költené az uniós zöld forrásokat a kormány, természetvédelemre keveset szán
+     </sch:name>
+     <sch:datePublished>
+      2021-02-13T21:59:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      környezetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      természetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      EU költségvetés
+     </sch:keywords>
+     <sch:keywords>
+      energiaszegénység
+     </sch:keywords>
+     <sch:keywords>
+      beruházás
+     </sch:keywords>
+     <sch:keywords>
+      mtvsz
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="1891042a-5fdb-5093-a0ea-d3aa3c0bd2df">
+     <sch:identifier>
+      urn:uuid:48c2fb3f-33ef-4177-8048-3da6aeca604e
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:37.689505
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:38:56.804574
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="1891042a-5fdb-5093-a0ea-d3aa3c0bd2df" when="2021-12-14T15:30:37.689505">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    Főleg beruházásokra költené az uniós zöld forrásokat a kormány, természetvédelemre keveset szán
+   </head>
+   <p>
+    Az RTL Klub birtokába került egy tervezet, amely szerint a 2021-2027-es uniós költségvetés Magyarországra eső részéből mintegy 1600 milliárd forintot csoportosítana át környezetvédelemre és energiahatékonyságra a kormány.
+   </p>
+   <p>
+    A tervezet szerint ebből az összegből 677 milliárd menne megújuló energiagazdálkodásra (pl. napelemes beruházásokra), majdnem 400 milliárdot szánna körforgásos gazdasági rendszerekre és fenntarthatóságra (főként a hulladékkezelés megújítására), 190 milliárd forint menne a szénből élő régiók felzárkóztatására és csupán a keret 3 százaléka, 49 milliárd forint jutna környezet- és természetvédelemre. A kormány számol emellett még az egyre gyakoribbá váló extrém időjárás miatt bekövetkező katasztrófakockázat csökkentési, illetve vízgazdálkodási alappal is, ami 288 milliárd forintot foglal magába (külön érdekesség, hogy ebből például tűzoltóautó is vásárolható).
+   </p>
+   <p>
+    Bár a kormány eddig közölt terveiből egyelőre csak vázlatosan látszik, mire költenének, de az a híradóban megszólaltatott Magyar Természetvédők Szövetsége (MTVSZ) szerint egyértelmű, hogy az energiaipar érdekei dominálnak, a kormány főleg beruházásokra költené a zöld pénzeket.
+   </p>
+   <p rend="head">
+    Szerintük a prioritások alapvetően jók, viszont a tervezetben szereplőnél sokkal többet kellene szánni természetvédelemre.
+   </p>
+   <p>
+    Emellett a lakóépületek energiahatékonysági felújításával kapcsolatban megjegyezték: ahhoz, hogy az emberek bele merjenek vágni egy ilyen felújításba, vissza nem térítendő állami támogatásokra lenne szükség.
+   </p>
+   <p>
+    Utóbbiak fontosságát egy nemrégiben meghozott bírósági ítélet is jelzi: mint arról beszámoltunk,
+    az EU bírósága elítélte Magyarországot
+    a környezeti levegő minőségével kapcsolatos uniós jogi szabályok megsértése miatt, illetve azt is megállapította, hogy Magyarország levegőminőség javítását célzó intézkedései nem megfelelőek, mivel azok nem jelölik meg a tervezett javulást és annak határidejét. Ahogy arról a Mércén is rendszeresen írunk,
+   </p>
+   <p rend="head">
+    a rossz energiahatékonyságú épületek és a nem megfelelő tüzelőanyagok használata az egyik legfőbb okai a hazai légszennyezettségnek és nagyban hozzájárulnak a klímaváltozáshoz is.
+   </p>
+   <p>
+    Ezért a légszennyezés elleni harc első és legfontosabb lépése
+    az energiaszegénység felszámolása lenne
+    , vagyis mindenki számára biztosítani kellene a megfizethető energiát a leginkább rászorulókat is elérő, célzott lakásfelújítási, energetikai támogatásokkal.
+   </p>
+  </body>
+ </text>
+</TEI>

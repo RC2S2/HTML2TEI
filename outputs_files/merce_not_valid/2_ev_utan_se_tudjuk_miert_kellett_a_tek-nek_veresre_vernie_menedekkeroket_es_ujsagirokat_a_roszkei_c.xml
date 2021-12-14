@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     2 év után se tudjuk, miért kellett a TEK-nek véresre vernie menedékkérőket és újságírókat a röszkei csatában
+    </title>
+    <author>
+     <persName>
+      Jámbor András
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     3f161bd7-c949-55c8-938f-ca342caebd2e
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      2 év után se tudjuk, miért kellett a TEK-nek véresre vernie menedékkérőket és újságírókat a röszkei csatában
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Jámbor András
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2017-09-16T18:33:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2017/09/16/2_ev_utan_se_tudjuk_miert_kellett_a_tek-nek_veresre_vernie_menedekkeroket_es_ujsagirokat_a_roszkei_c/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2017/09/16/2_ev_utan_se_tudjuk_miert_kellett_a_tek-nek_veresre_vernie_menedekkeroket_es_ujsagirokat_a_roszkei_c/
+     </sch:url>
+     <sch:name>
+      2 év után se tudjuk, miért kellett a TEK-nek véresre vernie menedékkérőket és újságírókat a röszkei csatában
+     </sch:name>
+     <sch:datePublished>
+      2017-09-16T18:33:00
+     </sch:datePublished>
+     <sch:author>
+      Jámbor András
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      menekültválság
+     </sch:keywords>
+     <sch:keywords>
+      Röszke
+     </sch:keywords>
+     <sch:keywords>
+      határzár
+     </sch:keywords>
+     <sch:keywords>
+      TEK
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="3f161bd7-c949-55c8-938f-ca342caebd2e">
+     <sch:identifier>
+      urn:uuid:a4722735-0e57-4687-b5eb-73b28600c00c
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:35:05.365841
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:32:28.682102
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="3f161bd7-c949-55c8-938f-ca342caebd2e" when="2021-12-14T15:35:05.365841">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    2 év után se tudjuk, miért kellett a TEK-nek véresre vernie menedékkérőket és újságírókat a röszkei csatában
+   </head>
+   <p>
+    Ez a cikk több mint 4 éves.
+   </p>
+   <p>
+    2015. szeptember 16-án több ezer menedékkérő várakozott a röszkei határátkelőnél, hogy átjusson Magyarországra. Az előző nap életbe lépett magyar törvények szerint ezt már nem tehették meg. A kétségbeesett, rosszul tájékoztatott menedékkérők egy kis része előbb kövekkel dobálta meg a magyar rendőrséget, majd a TEK indult rohamra, és a videók és képek tanúsága szerint menedékkérőket, újságírókat, ártatlan embereket bántalmazott. A nap történéseit élőben nézhette végig a teljes magyar lakosság.
+    Azóta pedig azt is tudjuk, ez a nap megváltoztatta a magyar lakosság, sőt még a média hozzáállását is a menekültekhez
+    .
+   </p>
+   <p>
+    Fotó: Ahmed H. Röszkén 2015-ben. / budapestbeacon.com
+   </p>
+   <p>
+    Fordulópont volt ez, innentől kezdve minimálisra csökkent a menekültválságot mint humanitárius helyzetet bemutató cikkek száma a médiában. Innentől datálódik a magyar kormány migráns-ellenes kampányának derékhada. A röszkei csatával és  az ott felbukkanó állítólagos terroristákkal alapozták meg a kormány propagandájának egy nagy részét, és bizonyították a kerítés szükségességét, majd azt a kormányzati szlogent, hogy mi védtük meg Európát.
+   </p>
+   <p rend="head">
+    Az igazi forró ősz
+   </p>
+   <p>
+    Pedig számtalan kérdés van, amikre ha választ kapnánk, talán máshogy néznénk erre a napra, és így máshogy néznénk, ha nem is a menekültválságra, de talán arra, amit a kormány kommunikál erről. Nem állítom, hogy ebben a cikkben mindent feltárok, és tökéletesen pártatlanul szemlélem azt, ami aznap, és azóta a röszkei csata kapcsán történt, de szeretnék egy átfogó képet nyújtani ezekről az eseményekről, hogy egészében láthassuk a történéseket, és így talán átértékeljük azt, amit a propaganda hozzátett vagy lecsípett belőle.
+   </p>
+   <p>
+    2015 nyarán óriási tömegben vonultak át a menekültek Magyarországon. A kormány máig
+    vitatott módon
+    szeptember 5-én megnyitotta a magyar határt Ausztria és Németország felé, és így 2 hétig lényegében szabadon kelhettek át a menekültek az országon (később is a horvát szakaszon). Azért csupán két hétig, mert szeptember 4-én a magyar kormány elfogadta az úgynevezett jogi határzárról szóló törvényt, aztán szeptember közepére elkészült a magyar kerítés a szerb határnál.
+   </p>
+   <p rend="head">
+    A fizikai határzár mellé tehát egy olyan törvény került elfogadásra, ami a határ átlépését az eddigieknél durvábban szankcionálta, és a határzár megrongálását is büntetni rendelte, illetve létrehozta a tömeges bevándorlás okozta válsághelyzet intézményét, ami jogalapot teremtett a kormánynak a hadsereg bevetésére.
+   </p>
+   <p>
+    Szeptember 15-én 0 óra 0 perckor pedig hatályba is lépett a rendelet. Pár percig még át tudtak jönni a menedékkérők a határon, de később már nem. Ezt a határszakaszt a kormány hermetikusan lezárta, és lényegében egy olyan jogi intézkedéssort vezetett be a menedékkérelemre (amit később, idén a végtelenségig szigorított), amely alapján mivel korábban Szerbiát biztonságos országnak minősítette a magyar parlament, majdnem lehetetlen lett szabályosan menedékkérelemért fordulni Magyarországon.
+   </p>
+   <p>
+    A menedékkérők azonban az úgynevezett balkáni útvonalról egyre csak gyűltek a határ túloldalán. Az elégedetlenkedő menedékkérők egy csekély része (pár tucatnyian a több ezerből) kövekkel kezdte el dobálni a magyar rendőrség egységeit.
+   </p>
+   <p rend="head">
+    Megnyílt a határ, de mégsem
+   </p>
+   <p>
+    Egy pillanatban viszont úgy tűnt, megnyílik a magyar határ, a menedékkérők özönleni kezdtek, „thank you Hungary, thank you Hungary!” kiáltással a magyar oldalra. De a következő pillanatban, ahogy az első emberek átértek a határon, a Terrorelhárítási Kommandó egységei lecsaptak az özönlő menedékkérőkre, több újságírót is megsebesítve, és a beszámolók szerint embereket hurcoltak át a határon, akiket később tiltott határátlépés bűntettével tartóztattak le.
+   </p>
+   <p>
+    Többen közülük, például
+    egy béna, egy sánta és egy majdnem vak nő
+    később vádlottjai lettek a röszkei terrorista pernek. Ez a per volt hivatott ugyanis bebizonyítani, hogy a kormány és a rendőrség terroristákra csapott le azon a napon. Illetve azt a kormányzat által kreált párhuzamot megerősíteni, hogy a menedékkérők egyenlőek a terroristákkal.
+   </p>
+   <p>
+    A „röszkei csata” után a menedékkérők új útvonalat választottak, és Horvátországon keresztül, Magyarországot érintve jutottak el Ausztriába. Itt a beszámolók szerint a magyar kormány
+    mindenkit átbuszoztatott az országon
+    , legtöbbjüket nem is ellenőrizték.
+   </p>
+   <p>
+    Míg a Röszkénél átjutni próbálók egy kis részének a verés és a börtön lett a jutalma, aki pár nap múlva a horvát határnál próbálkozott, már busszal juthatott tovább. Végül a horvát határon is felhúzott kerítés lényegében lezárta a menedékkérők magyarországi jelenlétét. A Törökország-EU megállapodás pedig nem sokkal ezután lezárta a teljes balkáni útvonalat is, megszüntetve azt az utat, ahol Magyarország felől közelíthették volna meg Ausztriát vagy Németországot a menedékkérők.
+   </p>
+   <p>
+    Számos kérdés merült fel a szeptember 16-án Röszkén történtek kapcsán, de ezek kivizsgálásától a kormány lényegében minden esetben elzárkózott. Pedig ha a valóságot akarjuk megismerni, és nem akarjuk, hogy a propaganda uralja a menekült-témát, szükségünk lenne ezeknek a kérdéseknek a megválaszolására.
+   </p>
+   <p rend="head">
+    Hibázott-e a rendőrség, a TEK és az akciót irányítók, amikor támadásba lendültek Röszkén?
+   </p>
+   <p>
+    A „röszkei csata” egy furcsa eseménysor volt. Szeptember 16-án reggelre több ezer menedékkérő gyűlt össze a magyar határnál. Amikor számukra egyértelművé vált, hogy a határ átjárhatatlan, a menedékkérők egy része elindult a szerb-horvát határ felé, legnagyobb részük ott maradt a magyar határnál és várt, egy kisebb részük pedig, eltérő beszámolók szerint egy 50-300 fős mag köveket kezdett dobálni a rendőrség felé. Egyes beszámolók szerint valakik ultimátumot is intéztek a rendőrséghez, hogy engedjék át őket. A magyar állam erőszakszervei viszont bajban voltak. Ugyanis az őket támadó kisebbség a szerb határ túloldalán volt, ahova a rendőrök nem tudtak átmenni, így nem tudták semlegesíteni az őket ért támadásokat.
+   </p>
+   <p>
+    Délután 4 óra körül egyszercsak kinyílt a magyar határ kapuja. A rendőrség felvételén jól látható, hogy az addig szigorúan őrzött, a magyar terület kezdetét jelentő kaputól hátrálnak a rendőrök.
+   </p>
+   <p>
+    Majd ezután a kaput kinyitják az addig támadólag fellépő menedékkérők. Ezután az is látszik, hogy abbamarad az addigi kődobálás.
+   </p>
+   <p>
+    A következő pillanatokat a helyszíni beszámolók szerint a szerb oldalon lévők közül mindenki úgy élte meg, hogy a magyarok megnyitották a határt. Akik hátrább álltak, nyilván csak a kapu mögül eltűnő rendőröket és a nyitott kaput látták. A menedékkérők pedig megindultak. Sokszor a nőket, időseket és gyerekeket előreengedve. Azt, hogy tényleg azt hitték, megnyitják a határt, az is bizonyítja, hogy az emberek azt skandálták, köszönjük Magyarország!
+   </p>
+   <p>
+    Csakhogy ezzel magyar területre léptek. Ahogy pedig a tömeg eleje átlépett, a TEK egységei támadást indítottak, hiszen már intézkedhettek. A tömeg pánikba esett, és menekülni kezdett, ahogy a Jobbik-közeli N1TV akkori felvételein is látszik.
+   </p>
+   <p>
+    2015.09.16. rendőr attack Röszke
+    from
+    atlatszo.hu
+    on
+    Vimeo
+    .
+   </p>
+   <p rend="head">
+    Ütöttek, vertek a TEK-esek
+   </p>
+   <p>
+    Warren Richardson, egy Budapesten élő ausztrál
+    fotós beszámolója szerint már a korábbi kődobálás kapcsán is megosztottak voltak a menedékkérők. Miközben egy részük dobálta a magyar hatóságokat, addig folyamatosan voltak olyanok is, akik próbálták az agresszívan fellépőket csitítani. Miután kinyílt a határt záró kerítés, percekig nem történt semmi atrocitás. Egy szír férfi adta át beteg gyerekét a magyar hatóságoknak, mivel szerb oldalon nem volt egészségügyi ellátás. Ő kérlelte, hogy legalább egy családtagjuk hadd mehessen át a rosszul lévő lányukkal. A külföldi újságírók őt interjúvolták, róla készítettek fotókat, amikor megindult a rendőrségi támadás. A TEK egységei Richardson szerint maguk előtt tolták a készenléti rendőröket, akik elkezdték kifelé nyomni a tömeget. Akik bekerültek a sorfal mögé, elestek, kinyomódtak szélre, azokkal a TEK-esek bántak el. Richardsont a földön többször is megrúgták, de tudott fotózni, miután felkelt további sérülteket is, például egy lengyel újságíró véres fejét is. Vagy azt a szír menedékkérőt, aki epilepsziás görcsöt kapott a támadás után.
+   </p>
+   <p>
+    Fotó: budapestbeacon.com
+   </p>
+   <p>
+    A TEK és magyar erőszakszervezetek akciója akár jogos is lehet, hiszen megpróbáltak törvényesen intézkedni a rájuk támadó menedékkérőkkel szemben. Csakhogy az áldozatok és letartóztatottak egy része nem lépett fel agresszívan a magyar állammal szemben (a röszkei perben is csupán egy olyan vádlott ül a vádlottak padján, akit ezzel gyanúsítanak), és azok sem törvényszegés szándékával indultak el a magyar határ felé, akiket ezután tiltott határátlépéssel gyanúsítottak meg, illetve ítéltek el. Így lényegében az ő nézőpontjukból lépre csalták őket. (Egyébként családegyesítés címszóval az előállítottak közül még aznap több embert visszaengedett a magyar állam Szerbiába.)
+   </p>
+   <p>
+    Arról, hogy milyen taktikai hibákat követtek el a magyar állam erőszakszervei, az Átlátszó közölt 2015-ben részletes cikket.
+    Itt egy volt rendőrségi szakértő elmondta, szerinte nem mérték fel a vezetők jól a terepet, hiba volt, hogy a szerb rendőrökhöz nem delegáltak kapcsolattartót, a rendőrök teste helyett más eszközökkel is védhették volna a határt, és szerinte hiba volt a TEK bevetése is, de összességében úgy értékelte, a csapatirányítás hibáitól eltekintve a rendőrök egy kemény helyzetben jól helytálltak.
+   </p>
+   <p rend="head">
+    Újságírók a megvertek között
+   </p>
+   <p>
+    De az mindenképp érthetetlen, hogy miért tartóztattak le számtalan újságírót is a röszkei rendőrségi támadás során, sőt olyan is volt köztük, akiket bántalmaztak. Egy lengyel újságírót gumibottal ütöttek a földön, miközben azt ordibálta, hogy ő sajtós, egy ausztrál és egy szlovák újságírót egy éjszakára bent is tartottak a fogdában.
+   </p>
+   <p>
+    A Dennik N szlovák újságírónője így számolt be a letartóztatásáról:
+   </p>
+   <p>
+    „Éppen fel akartam segíteni az egyik családot a földről, akik elestek, amikor az egyik rendőr a földre lökött, gumibottal végigvert, kicsavarta a kezem és gyorskötözővel megkötözött.”
+   </p>
+   <p>
+    Egy szerb tévéstábot még akkor is ütöttek és vertek a magyar rendfenntartók, mikor ők közölték, hogy újságíróként dolgoznak.
+    Így járt egy svájci riporter is.
+   </p>
+   <p rend="head">
+    Nincs érdemi vizsgálat
+   </p>
+   <p>
+    Ezekben az ügyekben egyébként nyomozott is az ügyészség a TEK ellen,
+    de nem tudunk eredményről.
+    Ellenben a magyar kormány és annak minden szerve teljes egészében elzárkózott attól, hogy kivizsgálják, jó döntéseket hozott-e a csapatirányítás Röszkénél. Szükség volt-e erre az átcsalós manőverre a határ, vagy a rendőrök épségének biztosításához? Követett-e el hibát a parancsnokság, amikor tájékoztatás nélkül vezényelt rohamot a határon átnyomuló emberekkel szemben? (Több beszámoló is van arról, hogy nem volt elégséges a tolmácsok tájékoztatása, illetve a határ kinyílása után nem jött tájékoztatás.) Alkalmazott-e túlzott erőszakot a rendőrség a támadás során?
+   </p>
+   <p rend="head">
+    Sőt, nem csupán elzárkóztak a vizsgálattól a rendvédelmi szervek, illetve a magyar kormány tagjai, hanem
+    30 nappal a történtek után minden bizonyítékot meg is semmisítettek
+    .
+   </p>
+   <p>
+    Pedig pont a 2006-os rendőri túlkapások kapcsán tudjuk, mennyire fontos lenne nem csupán a felelősségre vonás, hanem az is, hogy a rendőrség tanuljon az ilyen helyzetekből. Hiszen bár abban egyetérthetünk, hogy a bekövetkezett helyzetben a rendőrség fellépésére szükség volt, de ez a helyzet más intézkedésekkel valószínűleg elkerülhető lett volna, és elég valószínűtlen, hogy szükség volt a rendőrség ilyen mértékű fellépésére. Talán véresre vert emberek nélkül is lehetett volna rendezni a szituációt.
+   </p>
+   <p>
+    A fenti kérdések pedig még erősebbek lesznek, ha egyet hátralépünk, és az adott napot nem önmagában nézzük. Pár nap múlva ugyanis már nyitva is volt a magyar határ Horvátországnál, és maga az állam szállította vonattal és buszokkal tovább a menedékkérőket Ausztria felé. Felmerül a kérdés, hogy tájékoztatással, a menedékkérők informálásával, továbbterelésével nem lehetett volna elkerülni a röszkei összecsapást?
+   </p>
+   <p>
+    Hogy elkerülhető lett volna, azt csak valószínűsítjük, az viszont biztos, hogy a kormányzati propaganda tudott profitálni a Röszkén történtekből. Sőt, egy komoly, és sok esetben nagyon kérdéses tárgyalássorozattal tovább is tudta építeni a röszkei csata „legendáját”.
+   </p>
+   <p rend="head">
+    Terroristák, terroristák mindenhol
+   </p>
+   <p>
+    A magyar állam a Röszkén a magyar-szerb határ magyar oldalára kerülők közül 10 ember, illetve a később elfogott Ahmed H. ellen indított kirakatpert. A 10 embert másodfokon elítélte a magyar bíróság, méghozzá tömegzavargás résztvevőjeként elkövetett határzár tiltott átlépésének bűntettében. A vádlottak közül egy kivételével ekkor már senki se volt Magyarországon, csupán Yamen A., akit
+    két év börtönre ítéltek
+    . Illetve mindegyikőjüket kitiltották Magyarországról, ami azt is jelenti, hogy az EU területére se léphetnek be.
+   </p>
+   <p>
+    A 10 ember közül 3 ítéletét a másodfok felfüggesztettre változtatta, ők azok, akikről már korábban is beszéltünk, a vak asszony, a tolókocsis és a sánta férfi. Őket is elítélte a magyar állam tömegzavargás résztvevőjeként elkövetett határzár tiltott átlépéséért, ugyanis a bíróság első- és másodfokon is azt mondta ki, nem kell ahhoz résztvenni a tömegzavargásban, hogy valakit elítéljenek ezért, elég csak kihasználni ezt az alkalmat az átjutásra. A bíróság pedig se azt nem vette figyelembe, hogy több vádlott is a tömeg sodrásában jött át a magyar határon, se azt, hogy a többiek is azt gondolták, legális, amit tesznek, mert a magyar hatóságok megnyitották a határt.
+   </p>
+   <p>
+    A bírósági eljárásban egyébként a bíróság csak rendőrtanúkat hallgatott meg, és nem volt hajlandó elsőfokon a védelem által benyújott videófelvételeket megtekinteni. Másodfokon ezt már pótolták, csakhogy addigra a vádlottak java része már nem tartózkodott Magyarországon.
+   </p>
+   <p>
+    A Helsinki Bizottság
+    13 pontban szedte össze
+    , mik voltak a problémák az első fokú eljárás kapcsán. Állításuk szerint például a vádirat csak egyetlen vádlott esetében tárgyalta, hogy mit is csinált az ügyészség szerint. A többi kilenc esetében nem. Megemlítik, hogy „akkor tartóztatták le a mostani vádlottakat, amikor száz kilométerrel arrébb, a horvát–magyar határról a magyar állam maga buszoztatta és vonatoztatta a menekülőket az osztrák határra. Két nappal korábban még Röszkénél is ezrek jutottak át, sőt az egyik kapun a zavargás napján, 2015. szeptember 16-án is többtucatnyi menekülőt engedtek át a rendőrök”. A Helsinki Bizottság szerint az ügyészség – merőben önkényesen – nem bizonyítékként, hanem bűnjelként kezelte a helyszíni rendőrségi videófelvételeket. Így a vádlottak és védőik csak a tárgyalás idején ismerhették meg azokat, de a bíró utóbb a tárgyaláson sem engedélyezte azok lejátszását.
+   </p>
+   <p rend="head">
+    Ahmed H.
+   </p>
+   <p>
+    De nem csupán a röszkei tizet fogták perbe, ugyanis indult egy külön terrorista per is az Ahmed H. néven említett fiatalember ellen. Őt elsőfokon tíz év fegyházra ítélte a bíróság, másodfokon viszont új eljárásra kötelezték az első fokú bíróságot. Ez pedig nem véletlen. Ahmed H. ügye ugyanis a kezdetektől felvet kérdéseket.
+   </p>
+   <p>
+    Az elsőfokú bíróság ítélete alapján, ahogy
+    a 444 cikke írja, Ahmed H.-t azért találták nem
+    jogerősen bűnösnek, mert szerintük
+   </p>
+   <p>
+    „a szíriai származású férfi 2015. szeptember 16-án a lezárt röszkei határátkelőnél kődobálással akarta rákényszeríteni a déli határt védő magyar rendőröket, hogy engedjék be az országba a szerb oldalon összegyűlt migránsokat. A röszkei összecsapás előtt azt mondta, hogy a rendőröknek 5 percük van angol tolmácsot hozni, és 10 percük van megnyitni a határt, különben bedöntik a kordont. Ez így együtt adta ki a terrorizmust, ami a törvény szerint akkor történik, ha valaki személy elleni erőszakkal (kődobálással) próbál rávenni egy állami szervet (a rendőrséget), hogy valamit tegyen (nyissa meg a határt a migránsok előtt).”
+   </p>
+   <p>
+    Ezt az ítéletet semmisítette meg a másodfokú bíróság. Ahmed H.-ék azzal védekeztek a váddal szemben, hogy Ahmed csupán nyugtatta a tömeget, nem akart erőszakosan fellépni a magyar hatóságokkal szemben, nem igaz, hogy ultimátumot intézett a rendőrök felé. De nézzük is végig a teljes történetet.
+   </p>
+   <p rend="head">
+    Furcsa ügyek Ahmed H. körül
+   </p>
+   <p>
+    Ahmed H. elfogásáról először
+    a Népszabadságban jelent meg egy cikk, amit később a teljes magyar sajtó átvett
+    . A cikk szerint Ahmed H.-nál 8 útlevél volt, és egy iszlám fundamentalista szervezet  tagja.
+    Csakhogy később kiderült, a 8 útlevé
+    l, amit az egyébként EU-s állampolgárságú férfinél találtak, a családtagjai útlevelei voltak, és a szélsőséges szervezetként említett Tablighi Jamaat, aminek tagja, valójában inkább tűnik békés vallási szervezetnek, mint szélsőségesnek. Ez a manipuláció pedig azért ijesztő, mert a Népszabadság forrása nem lehetett más, mint a magyar állam szerve akkor. Márpedig ez azt jelenti, hamis információkkal – és mivel a szervek rendelkeztek a valós információkkal – feltételezhetően direkt tájékoztatta félre a magyar állam a médiát és a közvéleményt Ahmed H. letartóztatása kapcsán.
+   </p>
+   <p>
+    De a furcsaságok ezután is folytatódtak az ügyben.
+   </p>
+   <p>
+    2015 szeptember 25-én délelőtt az Origónak
+    adott interjút Fülöp Éva, Ahmed H. kirendelt védője, amelyben elmondta, még csak fel se merült az eddigi kihallgatások során a terrorizmus gyanúja védencével szemben. Majd ugyanaznap este előbb visszavonták Fülöp Éva kirendelt védői megbízását, és ezután rögtön terrorizmus vádjával hallgatták ki Ahmed H.-t- gyanúsítottként, már védője nélkül, rögtön vádat is emelve ellene. Hogy miért kellett leváltani a védőt, és hogy miért pont ekkor, illetve hogy korábban miért nem merült fel a terrorizmus vádja, ezekre a kérdésekre nem kaptunk azóta sem választ.
+   </p>
+   <p>
+    A következő érdekességre Ahmed H. pere kapcsán
+    egy HVG cikkben bukkanhatunk
+    . Ügyvédi információkra alapozva tárta fel a cikk az Ahmed H. ügyében elsőfokon eljáró bírónő kapcsolatait. Ezek szerint élettársának ügyvédi irodája több kormányzati megrendelést is kapott. A bírónő irodája pedig szomszédos a Fidesz volt szegedi országgyűlési képviselőjének irodájával, de ebben az irodaházban van irodája a szegedi bírói kollégium azon vezetője élettársának is, aki a HVG cikke szerint Ahmed H. ügyét első fokon fideszes kapcsolatokkal rendelkező bírának adta oda.
+   </p>
+   <p>
+    Az elsőfokú ítéletet a szegedi ítélőtábla megsemmisítette másodfokon, elég durva hiányosságokra hivatkozva. Elfogultságra hivatkozva el is vette az első fokon tárgyaló tanácstól az ügyet a másodfokon eljáró bíróság. De voltak más gondok is. A másodfok szerint
+    az elsőfokú ítéletből nem derül ki
+    , milyen alapon vetettek el Ahmed H.-ra nézve kedvező bizonyítékokat. Az elsőfok nem foglalkozott azzal, hogy a bizonyítékok mit mondanak a dobálás külső körülményeiről, motivációjáról, a követelések tartalmáról, valamint a követelések és a dobálás közti összefüggésről. De ellentmondásosak voltak a rendőrök vallomásai is a másodfokú bíróság szerint. A másodfok azt is kimondta, nincs bizonyíték arra sem, hogy a férfi vezetője lett volna a tömegnek, hogy a tettei a legcsekélyebb mértékben is befolyásolták volna a Röszkénél történteket.
+   </p>
+   <p>
+    Ahmed H. azóta is előzetes letartoztatásban ül, és várja az új, már egy másik testület ítéletét, újra elsőfokon.
+   </p>
+   <p>
+    Ahmed H. ügye kapcsán sokan koncepciós perről beszélnek, amit a fenti történetek nem cáfolnak sajnos. Sőt, ezt a verziót erősíti az is, ahogy a Fidesz és a hozzájuk kapcsolódó média kezelte az ügyet. Ahmed H.-t az első pillanattól kezdve terroristaként kezelte a magyar kormány és médiája, a perről folyamatosan beszámoltak, és Ahmed H. ügyét használták például az Európai Parlament ellen is, amikor az a CEU-ról és a civilekről szóló törvény bírálata mellett Ahmed H. eljárását is bírálta. De az ügyben nem csupán az EP, hanem az amerikai külügyminisztérium és több nemzetközi szervezet is felszólalt a furcsaságok miatt.
+   </p>
+   <p rend="head">
+    Nem derül ki az igazság
+   </p>
+   <p>
+    Ha végignézünk a fent feltett kérdéseken, végignézzük, milyen információk milyen tálalásban jutottak el a társadalomhoz a röszkei csata kapcsán, ijesztő képet kapunk. Már csak azért is, mert mindannyian tudjuk, milyen durván befolyásolták ezek az események a politikáról, a fontos témákról alkotott képünket az elmúlt években. A kép azért ijesztő, mert nem az igazságot láthattuk magunk előtt a médiában egy olyan ügy kapcsán, ami hetente köszönt vissza az újságok lapjairól, a tévé képernyőjéről. Mi mégis ezeknek a részleteknek a hiányában egy torzított valóságkép alapján döntünk arról, milyen politikát akarunk ebben az országban.
+   </p>
+   <p>
+    Kövesd a szerző bejegyzéseit a Facebookon is!
+    Ez a cikk a ti támogatásotokból készült el.
+   </p>
+   <p>
+    A Mérce cikkeit ingyen olvashatjátok, de nem ingyen készülnek, hanem a ti támogatásotokból és a mi munkánkból! A Mércét nem támogatják pártok, oligarchák, hanem 100%-ban az olvasók hozzájárulásából működik, ez biztosítja a függetlenségünket, és pont ezért csak akkor maradhatunk fenn, ha te is beszállsz!
+   </p>
+   <p>
+    Kattints és támogasd a Mércét rendszeres havi 2000, 5000 vagy 10 000 forinttal, hogy tovább működhessen és még jobb lehessen
+    !
+    Támogass minket egyszerűen bankkártyával:
+    Támogatom!
+    Más támogatási lehetőségekért és több infóért kattints ide.
+    Ez a cikk eredetileg a
+    <hi rend="italic">
+     Kettős Mércé
+    </hi>
+    n jelent meg, de áthoztuk a
+    <hi rend="italic">
+     Mércé
+    </hi>
+    re, hogy itt is elérhető legyen.
+   </p>
+  </body>
+ </text>
+</TEI>

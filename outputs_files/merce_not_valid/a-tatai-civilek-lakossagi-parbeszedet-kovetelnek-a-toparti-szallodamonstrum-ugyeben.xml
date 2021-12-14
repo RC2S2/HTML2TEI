@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A tatai civilek lakossági párbeszédet követelnek a tóparti szállodamonstrum ügyében
+    </title>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     45b51a04-8b91-5940-a4f2-b8f1f983e067
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A tatai civilek lakossági párbeszédet követelnek a tóparti szállodamonstrum ügyében
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-06-14T17:34:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/06/14/a-tatai-civilek-lakossagi-parbeszedet-kovetelnek-a-toparti-szallodamonstrum-ugyeben/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/06/14/a-tatai-civilek-lakossagi-parbeszedet-kovetelnek-a-toparti-szallodamonstrum-ugyeben/
+     </sch:url>
+     <sch:name>
+      A tatai civilek lakossági párbeszédet követelnek a tóparti szállodamonstrum ügyében
+     </sch:name>
+     <sch:datePublished>
+      2021-06-14T17:34:00
+     </sch:datePublished>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      természetvédelem
+     </sch:keywords>
+     <sch:keywords>
+      Tata
+     </sch:keywords>
+     <sch:keywords>
+      Öreg-tó
+     </sch:keywords>
+     <sch:keywords>
+      Avalon
+     </sch:keywords>
+     <sch:keywords>
+      stop avalon tata
+     </sch:keywords>
+     <sch:keywords>
+      nagy tavak
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="45b51a04-8b91-5940-a4f2-b8f1f983e067">
+     <sch:identifier>
+      urn:uuid:b048b782-a001-41eb-aff4-43369058ae76
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:51.447895
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:48:21.659193
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="45b51a04-8b91-5940-a4f2-b8f1f983e067" when="2021-12-14T15:30:51.447895">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A tatai civilek lakossági párbeszédet követelnek a tóparti szállodamonstrum ügyében
+   </head>
+   <p>
+    Június 26-án szombaton a
+    STOP Avalon Tata
+    demonstrációt
+    szervez a tatai Kossuth téren, mert a város fideszes polgármestere nem tett eleget a lakossági észrevételek befogadásának, valamint lakossági fórumot se hajlandó rendezni a tatai Öreg-tó partjára tervezett városfejlesztési beruházakról.
+   </p>
+   <p>
+    Ahogy arról már mi is
+    beszámoltunk
+    , a tatai városvezetés meg akarja változtatni a Helyi Építési Rendeletet olyan módon, hogy a tópartra, a lóistálló és a lovaspálya területére szállodát is lehessen építeni a jelenlegi szabályozás szerint ugyanis ez nem lehetséges. A Stop Avalon Tata Civil Mozgalom 2020 nyarán már több mint 6500 aláírást gyűjtött össze azért, hogy népszavazás induljon a kérdésben, azonban legkorábban csak 2022-ben indíthatnának népszavazást.  Michl József polgármester ezt kihasználva még 2021 novemberéig le kívánja zárni azt a településfejlesztési terv-módosítását annak érdekében, hogy a szállodai beruházás megvalósulhasson az Öreg-tó partján. A lakossági észrevételekre pedig a civilek szerint csupán egy rendkívül körülményesen használható online felületet biztosítottak, email-ben nem engedték beküldeni a javaslatokat, a városvezetés pedig lakossági fórumok helyett csak tájékoztatókat fog rendezni a beruházással kapcsolatban.
+   </p>
+   <p>
+    A Miénk a Grund Városvédő Egyesület (MAG) a megyei Kormányhivatalhoz fordult az ügyben, szerintük ugyanis a polgármester megszegte a helyi rendeletet azzal, nem volt hajlandó elfogadni az emailről beérkezett lakossági javaslatokat. Emellett azt is kifogásolták, hogy az erre a célra létrehozott űrlap beküldéséről nem érkezik visszaigazolás a kitöltőknek, jelentősen szűkíti az észrevételek megtételének formáját, valamint egy esetleges jogi eljárási vita esetén a beküldött elektronikus űrlap nem visszakereshető.  Később egy Tata város honlapján  közzétett
+    bejegyzésben
+    végül júnus 10-étől engedélyezték az észrevételek email-es beküldését is.
+   </p>
+   <p>
+    Szintén komoly aggály a civilek szerint, hogy a lakossági fórumok helyett az Öreg-tavat is érintő beruházásokról a városvezetés csak tájékoztatókat fog tartani. Ezeken a tájékoztatókon ugyanis a városvezetés helyett csak az önkormányzati dolgozók fognak részt venni, valamint szerintük a véleményezésre és kérdezésre sem lesz lehetőség, inkább egyoldalúan közvetítik majd a terveket a lakosság felé.
+    A civilek nyílt levélben is kérték Michl-t a lakossági fórum megtartására, most pedig tüntetést szerveztek, ahol követelik, hogy a polgármester ne egyedül dönthessen a várost meghatározó beruházásokról és engedjen beleszólást a lakosságnak is az ügyben.
+    Ahogy arról már korábban írtunk, a tatai civilek
+    több
+    levélben is
+    felkeresték fel Bencsik Jánost,  Tata fideszes országgyűlési képviselőjét, kérve, hogy álljon ki Magyarország nagy tavainak védelméért, célzott választ nem kaptak. Ráadásul a fenntartható fejlődés bizottsága, melynek Bencsik az elnöke,
+    elutasította
+    a
+    Nagy Tavak Koalíció
+    határozati javaslatát, amely a tatai Öreg-tó, valamint a Balaton, a Velencei-tó és a Fertő-tó védelmét tűzte ki célul.
+   </p>
+  </body>
+ </text>
+</TEI>

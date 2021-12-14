@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A szír diktátor embere 10 nap alatt kapott magyar papírokat, a menedékkérők 1 évet várnak a tranzitzónában
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     2010dcaf-bb88-5945-96f5-bf58f04e68f6
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A szír diktátor embere 10 nap alatt kapott magyar papírokat, a menedékkérők 1 évet várnak a tranzitzónában
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-08-21T18:40:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/08/21/a-szir-diktator-embere-10-nap-alatt-kapott-magyar-papirokat-a-menedekkerok-1-evet-varnak-a-tranzitzonaban/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/08/21/a-szir-diktator-embere-10-nap-alatt-kapott-magyar-papirokat-a-menedekkerok-1-evet-varnak-a-tranzitzonaban/
+     </sch:url>
+     <sch:name>
+      A szír diktátor embere 10 nap alatt kapott magyar papírokat, a menedékkérők 1 évet várnak a tranzitzónában
+     </sch:name>
+     <sch:datePublished>
+      2018-08-21T18:40:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      bevándorlás
+     </sch:keywords>
+     <sch:keywords>
+      szíria
+     </sch:keywords>
+     <sch:keywords>
+      aszad
+     </sch:keywords>
+     <sch:keywords>
+      nemzetbiztonsági kockázat
+     </sch:keywords>
+     <sch:keywords>
+      letelepedési kötvény
+     </sch:keywords>
+     <sch:keywords>
+      Bevándorlásügyi Hivatal
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="2010dcaf-bb88-5945-96f5-bf58f04e68f6">
+     <sch:identifier>
+      urn:uuid:5b49cb88-d1e0-401c-bdae-e34d67843b83
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:52.536140
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T15:02:56.992166
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="2010dcaf-bb88-5945-96f5-bf58f04e68f6" when="2021-12-14T15:30:52.536140">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A szír diktátor embere 10 nap alatt kapott magyar papírokat, a menedékkérők 1 évet várnak a tranzitzónában
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    A letelepedési kötvények bevezetését Rogán Antal kezdeményezte még 2012-ben, aminek köszönhetően 250-300 ezer euróért juthattak letepedési engedélyhez EU-n kívüli állampolgárok, akik EU-s papírok kérvényezésével szabadon mozoghatnak és üzletelhetnek az EU területén is. Csaknem húszezren jutottak ilyen módon letelepedési engedélyhez, többségben kínaiak, de Oroszországból és a Közel-Keletről is százas nagyságrendben érkeztek hazánkba 2013 és 2017 között.
+   </p>
+   <p rend="head">
+    Míg teljes erőbedobással folyt a kormány bevándorlásellenes kampánya, letelepedési kötvénnyel komoly nemzetbiztonsági kockázatot jelentő személyek is magyar papírokhoz jutottak.
+   </p>
+   <p>
+    A Direkt36 és a 444
+    néhány hónappal ezelőtt több nevet is nyilvánosságra hozott, köztük Atiya Khoury-ét is, aki Bassal al-Aszad szír diktátor egyik legfontosabb pénzembere. Khoury szerepel az Egyesült Államok szankciós listáján (ami azt jelenti, befagyasztották az Amerikában található vagyonát és megtiltották az amerikai cégeknek és állampolgároknak, hogy vele üzleteljenek),
+   </p>
+   <p rend="head">
+    mivel az amerikaiak szerint emberi jogokat sértett, emellett tulajdonosa és üzemeltetője egy pénzügyi szolgáltató hálózatnak, ami fontos szerepet játszott az Aszad-rezsim fenntartásában.
+   </p>
+   <p>
+    Khoury egy Mudalal Khuri nevű szír üzletemberrel is összedolgozott, aki 2015-ben  szintén felkerült az Egyesült Államok szankciós listájára, mert segített üzemanyagot vásárolni az ISIS-től a szír kormányerők számára – a
+    Reuters szerint
+    ezek a tranzakciók tették az ISIS-t a világ leggazdagabb terrorszervezetévé.
+   </p>
+   <p>
+    Demeter Márta LMP-s képviselő júliusban feljelentést tett Khoury letelepedése miatt, szerinte ugyanis a Bevándorlási és Menekültügyi Hivatal (BMH) törvénysértést követ el azzal, ha nem vizsgálja felül és nem vonja vissza Khoury letepedési engedélyét.
+   </p>
+   <p rend="head">
+    A feljelentést követően az ügyészség hivatali visszaélés gyanúja miatt nyomozást rendelt el, a Nemzeti Nyomozó Iroda (NNI) pedig augusztus 1-jén nyomozást indított az ügyben, amit bűncselekmény hiányában 2 hét alatt meg is szüntetett.
+   </p>
+   <p>
+    Az eljárás megszüntetését indokló határozatból viszont
+    további érdekességek derültek ki
+    azzal kapcsolatban, hogyan jutott magyar papírokhoz a szír diktátorhoz köthető pénzember. A határozat ugyan elismeri, hogy Khoury szerepel az Egyesült Államok pénzügyminisztériumának szankciós listáján, az NNI ezzel szemben azzal érvel, hogy Khoury nem szerepel más országok vagy nemzetközi szervezetek tiltólistján, a vele szemben fennálló amerikai pénzügyi intézkedések „nem jelentenek kizáró okot a magyar nemzeti letelepedési engedély megszerzésére, illetve visszavonására”.
+   </p>
+   <p>
+    De még ha kizáró ok is lenne a szankciós listán való szereplés, a bevándorlási hivatal akkor sem lenne köteles visszavonni a letelepedési kötvényt, a kötvényprogramot szabályozó törvény ugyanis csak néhány esetben kötelezi a bevándorlási hivatalt arra, hogy visszavonja a korábban kiadott letelepedési engedélyt.
+   </p>
+   <p>
+    Vannak azért olyan esetek, amikor a törvény nem kötelezi, de felhatalmazza a hivatalt a letelepedési engedély visszavonására: például ha „az engedélyezés alapjául szolgáló feltételek olyan jelentősen megváltoznak, hogy ez az engedély kiadását már kizárná”. Az NNI szerint Khoury ebbe a kategóriába tartozhat, „hiszen a feljelentő vélelmezett álláspontja szerint” a szankciós listán való szereplés „jelentős körülmény”,
+   </p>
+   <p rend="head">
+    de továbbra is hangsúlyozza, a bevándorlási hivatal nem követ el jogsértést, ha nem vonja vissza Khoury letelepedési engedélyét.
+   </p>
+   <p>
+    A nyomozást megszüntető határozatból kiderült, hogy Khoury 2014. december 19-én először csak magyar tartózkodási engedélyt igényelt (ekkor még nem szerepelt az USA szankciós listáján), amit 10 nappal később meg is kapott. Letelepedési engedélyt 2016. szeptember 23-án kért, két hónappal azután, hogy felkerült a szankciós listára – ennek az elfogadása már tovább tartott: miután három hivatal is (Alkotmányvédelmi Hivatal Migrációs Főosztálya, Terrorelhárítási Központ Felderítési Igazgatósága, Budapesti Rendőr-főkapitányság Kiemelt Ügyek Főosztálya) megvizsgálta a kérelmét, 2017. május 25-én ezt is gond nélkül megkapta.
+   </p>
+   <p>
+    Annak ellenére tehát, hogy az amerikai szankciós listán való szereplés elég súlyos intő jel kellene legyen, a szír diktátorhoz köthető ‘üzletember’ 10 nap alatt megszerezte a tartózkodási engedélyét Magyarországon, majd később jó pénzért le is telepedhetett, miközben ugyanaz a bevándorlási hivatal, amelyik mindezt engdélyezte, az 1 éve tranzitzónában várakozó menedékkérőket most éppen azzal próbálja visszafordítani Szerbia felé (még azelőtt, hogy elbírálnák a kérelmüket), hogy nemes egyszerűséggel
+    éhezteti őket
+    .
+   </p>
+   <p>
+    Címlapkép: MTI, Koszticsák Szilárd
+   </p>
+  </body>
+ </text>
+</TEI>

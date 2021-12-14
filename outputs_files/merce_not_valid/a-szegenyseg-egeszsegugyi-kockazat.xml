@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     KSH: A szegénység egészségügyi kockázat
+    </title>
+    <author>
+     <persName>
+      Tóth Csaba Tibor
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     097f2779-ffc7-5bec-96bc-0acd32e1b32f
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      KSH: A szegénység egészségügyi kockázat
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Tóth Csaba Tibor
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2018-06-02T21:45:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2018/06/02/a-szegenyseg-egeszsegugyi-kockazat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2018/06/02/a-szegenyseg-egeszsegugyi-kockazat/
+     </sch:url>
+     <sch:name>
+      KSH: A szegénység egészségügyi kockázat
+     </sch:name>
+     <sch:datePublished>
+      2018-06-02T21:45:00
+     </sch:datePublished>
+     <sch:author>
+      Tóth Csaba Tibor
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      fogyatékosság
+     </sch:keywords>
+     <sch:keywords>
+      szociális szféra
+     </sch:keywords>
+     <sch:keywords>
+      rokkantak
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="097f2779-ffc7-5bec-96bc-0acd32e1b32f">
+     <sch:identifier>
+      urn:uuid:9076be9d-4186-41f6-9c90-c8c8fcb2c3b3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:30:43.318285
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T14:58:33.955851
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="097f2779-ffc7-5bec-96bc-0acd32e1b32f" when="2021-12-14T15:30:43.318285">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    KSH: A szegénység egészségügyi kockázat
+   </head>
+   <p>
+    Ez a cikk több mint 3 éves.
+   </p>
+   <p>
+    2011 és 2016 között 6,2 %-ról 4,3%-ra csökkent a valamilyen fogyatékossággal élők regisztrált száma Magyarországon a Központi Statisztikai Hivatal 2016-os a témában végzett mikrocenzusának most publikált
+    összesítője szerint.
+    A
+    <hi>
+     Napi.hu
+    </hi>
+    elemzéséből
+    az is kiderül, mi állhat a meglepő, számarányában közel hetvenezre létszámcsökkenés hátterében.
+   </p>
+   <p>
+    A valamilyen testi, vagy szellemi fogyatékkal élő magyarok száma ugyanis nem csökkent, ugyanakkor ez a több tízezer regisztrált a rokkantsági nyugdíj intézményének megkurtítása során kikerült az Országos Nyugdíjfolyósító Intézet adatbázisából. A KSH szerint az egyes fogyatékossági kategóriákon belül növekedés (az autizmussal élők számánál például 25%) magyarázható azzal is, hogy a diagnosztika az utóbbi években kifinomultabbá vált, és több ember került az egészségügy látókörébe is ilyen problémák miatt.
+   </p>
+   <p rend="head">
+    Az azonban nagyjából az utolsó jó hír, az összesítő ugyanis világosan rámutat arra, jelentősen romlott a fogyatékosok életminősége a 2010-es évek során.
+   </p>
+   <p>
+    Mindez pedig úgy, hogy a 2008-09-es válság megszorításai is jórészt éppen őket sújtották. A kimutatások szerint a 45-59 éves korosztályban 36%-al csökkent a rendszer számára „látható” rokkantak és szellemi fogyatékkal élők száma. Ennek magyarázata pedig az, hogy őket sújtotta leginkább a rokkantsági nyugdíj 2012-es felszámolása: így vagy átkerültek azóta az öregségi nyugdíjat kapók közé, vagy semmiféle ilyen juttatást nem kapnak.
+   </p>
+   <p>
+    A legérdekesebb adatsor éppen ezért az, amelyik azt mutatja, hogyan alakult a fogyatékkal élők jövedelmi forrásrendszere 2011 és 2016 között:
+   </p>
+   <p>
+    Miközben 491 ezerről 408 ezerre csökkent a számuk, a folgalkoztatási szerkezetben a fogyatékosok nyugdíjának szerepét szinte teljesen átvette a „rehabilitációs és egyéb” ellátások összessége, amely természetesen szerényebb juttatásokat biztosít, valamint 7%-uk eleve átkerült az öregségi nyugdíj rendszerébe. A foglalkoztatott fogyatékkal élők száma mindeközben csupán 3%-al növekedett.
+   </p>
+   <p>
+    A szegények könnyebben rokkannak le, és nehezebben gyógyulnak
+   </p>
+   <p>
+    A mozgássérültek, és más fogyatékkal élők a mindennapi életben számos, elkerülhetetlen többletköltséggel néznek szembe, kezelésük, gyógyeszközök miatt, ehhez viszont a 2016-os mikrocenzus szerint csupán egyharmaduk kap valamiféle konkrét hozzájárulást.
+   </p>
+   <p>
+    A KSH ugyanakkor azt is kiemeli, míg a legmagasabb jövedelemmel rendelkezők között a valamiféle egészégkorlátozással élők száma is alacsonyabb, a mindennapi korlátozottság felszámolását segítő gyógykezeléshez, eszközökhöz és így a minél gyorsa rehabilitációhoz vezető út számukra sokkal könnyebb.
+   </p>
+   <p>
+    A KSH jelentése ezért kiemeli, az alacsony jövedelem önmagában kockázatos az egészségi állapotunkra nézve, hozzátéve, hogy Magyarország az uniós orsázgokat és Törökországot mérő, 36-os listán 21. helyen áll a 65 éves és azon felüli népességen belül ellátási gondokkal küzdők számát tekintve: 32%-al az EU-s átlag 23,7 százalék fölött jócskán végeztünk a nyugdíjasok közötti arányt tekintve, ezzel még Görögország és a törökök is megelőznek minket.
+   </p>
+   <p>
+    Ezzel szemben a legszegényebbek között az egészségi állapot eleve kezeletlenül marad, és ha balesetet szenvednek, a rendelkezésre álló segítség mértéke is rendkívül korlátozott számukra.
+   </p>
+   <p rend="head">
+    Így fordulhat elő, hogy míg a felső jövedelmi ötödben a valamiféle fogyaték miatti korlátozottság csupán 13%-os, addig a legalsó ötödben ez több, mint 50%-os.
+   </p>
+   <p>
+    Magától értetődik persze, hogy a könnyebben rehibilitálódó, eleve magasabb jövedelmű korlátozottak ezért könnyebben jutnak be a munkaerőpiacra is.
+   </p>
+   <p>
+    Címoldali kép: Mozgássérültek, idősek és kismamák tüntetnek 2017 novemberében az akadálymentes hármas metróért Budapesten. / Fotó: Mérce
+   </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A kormány húzta volna az időt, Magyarország végleg bukta a Norvég Alap 77 milliárd forintos forrását
+    </title>
+    <author>
+     <persName>
+      Csengel Karina
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kőszeghy Ferenc
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Lehoczki Noémi
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Czékmán Bendegúz
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Kocsis Árpád
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Juhász Vanessza
+     </persName>
+    </author>
+    <author>
+     <persName>
+      Bernáth Lackó
+     </persName>
+    </author>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     ELTE-DH webcrawling
+    </edition>
+    <respStmt>
+     <resp>
+      creator
+     </resp>
+     <orgName>
+      ELTE-DH
+      <ref type="http://elte-dh.hu"/>
+     </orgName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      project director
+     </resp>
+     <persName>
+      <surname>
+       Palkó
+      </surname>
+      <forename>
+       Gábor
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-4394-8577
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      chief programmer
+     </resp>
+     <persName>
+      <surname>
+       Indig
+      </surname>
+      <forename>
+       Balázs
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-8090-3661
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      TEI expert
+     </resp>
+     <persName>
+      <surname>
+       Fellegi
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0001-9199-1759
+      </ref>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>
+      programmer
+     </resp>
+     <persName>
+      <surname>
+       Sárközi-Lindner
+      </surname>
+      <forename>
+       Zsófia
+      </forename>
+      <ref>
+       https://orcid.org/0000-0002-2558-0633
+      </ref>
+     </persName>
+    </respStmt>
+   </editionStmt>
+   <publicationStmt>
+    <publisher>
+     <orgName>
+      ELTE-DH
+     </orgName>
+     <ref type="url">
+      http://elte-dh.hu/
+     </ref>
+    </publisher>
+    <pubPlace>
+     Budapest
+     <ref type="url">
+      http://www.geonames.org/3054643
+     </ref>
+    </pubPlace>
+    <date>
+     2020
+    </date>
+    <availability>
+     <p>
+      Metadata: IN COPYRIGHT - NON-COMMERCIAL USE PERMITTED
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC-NC/1.0/
+      </ref>
+     </p>
+     <p>
+      Text: IN COPYRIGHT
+      <ref type="url">
+       http://rightsstatements.org/vocab/InC/1.0/
+      </ref>
+     </p>
+    </availability>
+    <idno type="PID">
+     5240babc-22e3-59da-b83d-67827f045ad8
+    </idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>
+      A kormány húzta volna az időt, Magyarország végleg bukta a Norvég Alap 77 milliárd forintos forrását
+     </title>
+     <author>
+      <persName>
+       Bernáth Lackó
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Juhász Vanessza
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kocsis Árpád
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Czékmán Bendegúz
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Lehoczki Noémi
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Kőszeghy Ferenc
+      </persName>
+     </author>
+     <author>
+      <persName>
+       Csengel Karina
+      </persName>
+     </author>
+     <publisher>
+      <orgName>
+       Kettős Mérce Blog Egyesület
+      </orgName>
+      <placeName>
+       1089 Budapest, Orczy út 46-48.
+      </placeName>
+      <!--<ref type="url" source="https://merce.hu/egyesulet/">KITÖLT source="impresszum url-je", literal: a portál DOI-ja pl https://doi.org/10.5281/zenodo. </ref>-->
+      <date when="2021-01-01T01:01:01"/>
+     </publisher>
+     <pubPlace>
+      Budapest
+      <ref type="url">
+       http://www.geonames.org/3054643
+      </ref>
+      &gt;
+     </pubPlace>
+     <availability>
+      <p>
+       © MÉRCE 2021
+      </p>
+      <p>
+       <!--<ref type="url" source="az eredeti url,amiről az infót tartalmazó warc készült">https://doi.org/</ref>-->
+       <date when="2021-01-01T01:01:01"/>
+      </p>
+     </availability>
+     <date when="2021-08-04T10:24:00"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org" xmlns:skos="http://www.w3.org/2008/05/skos-xl#">
+   <rdf:RDF>
+    <rdf:Description rdf:about="https://merce.hu/2021/08/04/a-kormany-huzta-volna-az-idot-magyarorszag-vegleg-bukta-a-norveg-alap-77-milliard-forintos-forrasat/">
+     <sch:type rdf:resource="https://schema.org/NewsArticle"/>
+     <sch:ispartOf rdf:resource="https://merce.hu/">
+      merce
+     </sch:ispartOf>
+     <sch:inLanguage>
+      hun
+     </sch:inLanguage>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+      In Copyright
+     </sch:license>
+     <sch:url>
+      https://merce.hu/2021/08/04/a-kormany-huzta-volna-az-idot-magyarorszag-vegleg-bukta-a-norveg-alap-77-milliard-forintos-forrasat/
+     </sch:url>
+     <sch:name>
+      A kormány húzta volna az időt, Magyarország végleg bukta a Norvég Alap 77 milliárd forintos forrását
+     </sch:name>
+     <sch:datePublished>
+      2021-08-04T10:24:00
+     </sch:datePublished>
+     <sch:author>
+      Csengel Karina
+     </sch:author>
+     <sch:author>
+      Kőszeghy Ferenc
+     </sch:author>
+     <sch:author>
+      Lehoczki Noémi
+     </sch:author>
+     <sch:author>
+      Czékmán Bendegúz
+     </sch:author>
+     <sch:author>
+      Kocsis Árpád
+     </sch:author>
+     <sch:author>
+      Juhász Vanessza
+     </sch:author>
+     <sch:author>
+      Bernáth Lackó
+     </sch:author>
+     <sch:keywords>
+      kormány
+     </sch:keywords>
+     <sch:keywords>
+      támogatás
+     </sch:keywords>
+     <sch:keywords>
+      ökotárs
+     </sch:keywords>
+     <sch:keywords>
+      norvég alap
+     </sch:keywords>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="">
+     <!--KITÖLT: about: Zenodo link, pl: https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:type>
+      WARC/1.1
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-09-02T19:51:06/2021-10-16T11:01:37
+     </sch:sdDatePublished>
+     <sch:identifier rdf:about=""/>
+     <!-- KITÖLT ua. mint a Description about 3 sorral feljebb https://doi.org/10.5281/zenodo.3974489 -->
+     <sch:identifier>
+      <!-- KITÖLT: ZENODO HASH -->
+     </sch:identifier>
+     <sch:identifier>
+      f00a3856-2def-4146-b29a-a77291ae636b
+     </sch:identifier>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <xenoData xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sch="https://schema.org">
+   <rdf:RDF>
+    <rdf:Description rdf:about="5240babc-22e3-59da-b83d-67827f045ad8">
+     <sch:identifier>
+      urn:uuid:fd253831-581c-4e76-90ca-06e7f770f7c3
+     </sch:identifier>
+     <sch:type>
+      TEI
+     </sch:type>
+     <sch:sdDatePublished>
+      2021-12-14T15:27:21.473565
+     </sch:sdDatePublished>
+     <sch:lastReviewed>
+      2021-11-30T16:53:12.087586
+     </sch:lastReviewed>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-4394-8577">
+      Palkó Gábor
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-8090-3661">
+      Indig Balázs
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0001-9199-1759">
+      Fellegi Zsófia
+     </sch:contributor>
+     <sch:contributor rdf:resource="https://orcid.org/0000-0002-2558-0633">
+      Sárközi-Lindner Zsófia
+     </sch:contributor>
+     <sch:license rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+    </rdf:Description>
+   </rdf:RDF>
+  </xenoData>
+  <revisionDesc>
+   <change source="5240babc-22e3-59da-b83d-67827f045ad8" when="2021-12-14T15:27:21.473565">
+    TEI file created
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head type="title">
+    A kormány húzta volna az időt, Magyarország végleg bukta a Norvég Alap 77 milliárd forintos forrását
+   </head>
+   <p>
+    Nem átmenetileg került veszélybe, hanem végérvényesen elvesztek a Norvég Alap 77 milliárd forintos forrásai – erősítette meg a
+    Népszava
+    kérdésére a oslói külügyminisztérium, miközben a magyar kormány továbbra is azt a látszatot igyekszik kelteni, hogy a pénz még menthető.
+   </p>
+   <p>
+    A Miniszterelnökség még múlt pénteken is azt közölte a lappal, hogy „a magyar fél javaslatot tett új határidő kitűzésével az egyeztetések folytatására”, Ágostházy Szabolcs, a Miniszterelnökség uniós forrásokért felelős államtitkára pedig kijelentette, „egyedül a norvégokon múlik”, lesz-e megállapodás.
+   </p>
+   <p>
+    A norvég forrásokkal kapcsolatos konfliktus még 2014-ben robbant ki, amikor a kormány
+    hadjáratot indított
+    a Norvég Alapból a civileknek járó keret elosztását koordináló Ökotárs Alapítvány ellen, mondván, hogy az sorosista szervezet. Noha a civil szervezeteknek járó támogatás csak töredéke az alap teljes összegének, a vita gyakorlatilag arra szűkült, ki koordinálja ezeknek a pénzeknek az elosztását. Mint arról a Mércén
+    is írtunk korábban
+    , a támogatás maximum tíz százalékát lehet a civil szférának adott támogatásokra költeni, a maradékot pedig a kormány oszthatja szét különböző, fejlesztésre érdemesnek tartott, ugyanakkor forráshiányos területen.
+   </p>
+   <p rend="head">
+    A kormánynak azonban az a problémája, hogy azt a bizonyos maximum tíz százalékot egy kormánytól, pártoktól és egyházaktól független civil partner osztaná szét az alap feltételeinek megfelelő, hasonlóképp független pályázók között, a kiválasztás folyamatában azonban nincs vétójoga.
+   </p>
+   <p>
+    Mint arról a
+    24.hu
+    beszámolt, a megállapodásra július második feléig volt idő a szerződés szerint, és mivel addig sem egyeztek meg a felek, a támogatás veszélybe került.
+   </p>
+   <p rend="head">
+    De az, hogy a norvégok szigorúan betartották a határidőt és a szerződést, a Népszava szerint a kormányt is meglepte, ugyanis egy az ügyre rálátó kormányzati szereplő még a napokban is arról beszélt a lapnak, hogy úgy tervezték, az őszi norvég, illetve a jövő tavaszi magyar parlamenti választások után újra leülhetnek tárgyalni és megállapodhatnak.
+   </p>
+   <p>
+    Ágostházy Szabolcs nyilatkozta szerint a tárgyalásokon hét lehetséges közreműködő neve merült fel, ebből hatot a kormány támogatni tudott volna, de norvég részről ragaszkodtak ahhoz, hogy ezúttal is az Ökotárs Alapítvány ossza szét a pénzt, ez viszont a kormány számára elfogadhatatlan, mert így nem „politikamentesen” zajlana a pénzek elosztása.
+   </p>
+   <p>
+    Mint arra a Népszava is felhívja a figyelmet, az alap támogatásai rendkívül szerteágazóak (a klímaváltozás hatásait enyhítő beruházásoktól kezdve az iskolafelújításon át rengeteg területet érint) , így a pénzek elmaradása nagyon sok szervezetet hozhat nehéz helyzetbe.
+   </p>
+   <p>
+    <hi rend="bold">
+     Frissítve, 18:33:
+    </hi>
+    A Miniszterelnökség szerint azzal, hogy „Norvégia ragaszkodott a Soros-szervezethez”, vagyis az Ökotárshoz, megsértette az EGT-tagsággal járó kötelezettségeit, ezért „a kormány jogi lépéseket fog tenni”.
+   </p>
+  </body>
+ </text>
+</TEI>
